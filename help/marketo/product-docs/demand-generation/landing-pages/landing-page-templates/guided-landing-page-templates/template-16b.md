@@ -1,19 +1,19 @@
 ---
 unique-page-id: 9437837
 description: 範本16B - Marketo檔案 — 產品檔案
-title: 範本16B
+title: 範本 16B
 exl-id: 99bdd484-e2c2-412d-b309-1681d27025e1
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '45'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# 範本16B {#template-16b}
+# 範本 16B {#template-16b}
 
-按一下滑鼠右鍵以[下載範本16B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16b.html?lang=zh-Hant)
+按一下滑鼠右鍵以[下載範本16B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16b.html)
 
 ![](assets/image2015-8-14-11-3a2-3a51.png)
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 **在下方按一下滑鼠右鍵以下載此範本：**
 
-[範本16B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16b.html?lang=zh-Hant)
+[範本16B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16b.html)

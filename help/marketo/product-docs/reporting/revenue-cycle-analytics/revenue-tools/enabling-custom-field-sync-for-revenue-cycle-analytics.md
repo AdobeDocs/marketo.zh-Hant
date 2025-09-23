@@ -1,13 +1,13 @@
 ---
 unique-page-id: 3571888
 description: 啟用收入週期Analytics的自訂欄位同步 — Marketo檔案 — 產品檔案
-title: 啟用收入週期Analytics的自訂欄位同步
+title: 針對收入週期分析啟用自訂欄位同步
 exl-id: 5656db8f-fce5-47c3-b35d-4faebbdcaa44
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 1%
+ht-degree: 11%
 
 ---
 

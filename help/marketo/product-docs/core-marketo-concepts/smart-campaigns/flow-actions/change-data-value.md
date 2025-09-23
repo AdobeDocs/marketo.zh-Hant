@@ -4,16 +4,16 @@ description: 變更資料值 — Marketo檔案 — 產品檔案
 title: 變更資料值
 exl-id: cdfa7632-87e2-407f-9891-3697771b5687
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 0%
+source-wordcount: '103'
+ht-degree: 5%
 
 ---
 
 # 變更資料值 {#change-data-value}
 
-您可以使用Marketo來更新欄位的值。 為此，您將使用&#x200B;**[!UICONTROL 變更資料值]**&#x200B;流程動作。
+您可以使用Marketo來更新欄位的值。 為此，您將使用&#x200B;**[!UICONTROL Change Data Value]**&#x200B;流量動作。
 
 ![](assets/change-data-value-1.png)
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >您也可以在&#x200B;**[!UICONTROL 新值]**&#x200B;中使用權杖。
+   >您也可以在&#x200B;**[!UICONTROL New Value]**&#x200B;中使用權杖。
 
    >[!TIP]
    >
-   >您可以在&#x200B;**[!UICONTROL 新值]**&#x200B;中輸入&#39;NULL&#39; （無引號，全部大寫）以清除欄位。 如需詳細資訊，請參閱[清除欄位值](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/clear-field-values.md){target="_blank"}。
+   >您可以在&#x200B;**[!UICONTROL New Value]**&#x200B;中輸入&#39;NULL&#39; （無引號，全部大寫）以清除欄位。 如需詳細資訊，請參閱[清除欄位值](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/clear-field-values.md){target="_blank"}。
 
    >[!NOTE]
    >

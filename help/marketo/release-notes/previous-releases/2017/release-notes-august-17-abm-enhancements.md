@@ -4,14 +4,14 @@ description: 發行說明 — 2017年8月ABM增強功能 — Marketo檔案 — �
 title: 發行說明 — 2017年8月ABM增強功能
 exl-id: 3ba6319a-c5a3-4623-8d8e-0b246b29f17e
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '197'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 發行說明： 2017年8月ABM增強功能 {#release-notes-august-abm-enhancements}
+# 發行說明：2017 年 8 月 ABM 增強功能 {#release-notes-august-abm-enhancements}
 
 以下功能包含在2017年8月發行的ABM增強功能中。 檢查您的Marketo版本是否有功能可用。
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2950660
 description: 建立自訂標籤 — Marketo檔案 — 產品檔案
-title: 建立自訂標籤
+title: 建立自訂標記
 exl-id: f8efcbf5-7557-4cdf-b4e6-29d25b2fdd75
 feature: Tags
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 0%
+source-wordcount: '205'
+ht-degree: 3%
 
 ---
 
-# 建立自訂標籤 {#create-custom-tags}
+# 建立自訂標記 {#create-custom-tags}
 
 標籤將幫助您組織計畫，而頻道將協助收集資料以供報告之用。
 
@@ -27,15 +27,15 @@ ht-degree: 0%
 
 若要建立新的標籤型別：
 
-1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區段。
+1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區段。
 
    ![](assets/create-custom-tags-1.png)
 
-1. 按一下&#x200B;**[!UICONTROL 標籤]**。
+1. 按一下「**[!UICONTROL Tags]**」。
 
    ![](assets/create-custom-tags-2.png)
 
-1. 按一下「**[!UICONTROL 新增]**」並選取「**[!UICONTROL 新增標籤型別]**」。
+1. 按一下&#x200B;**[!UICONTROL New]**&#x200B;並選取&#x200B;**[!UICONTROL New Tag Type]**。
 
    ![](assets/create-custom-tags-3.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/create-custom-tags-4.png)
 
-1. 輸入所需的「標籤型別」值。 按一下&#x200B;**[!UICONTROL 新增其他]**&#x200B;以輸入其他值。
+1. 輸入所需的「標籤型別」值。 按一下&#x200B;**[!UICONTROL Add Another]**&#x200B;以輸入其他值。
 
    ![](assets/create-custom-tags-5.png)
 
@@ -57,13 +57,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >* 如果您想要在任何時候建立新程式時新增此標籤，請選取「[!UICONTROL 必要]」。
-   >* 從&#39;[!UICONTROL 套用至]&#39;清單中移除程式型別，將會從該型別的所有現有程式中刪除標籤及其值。 如果您要保留現有的標籤值，並且讓此標籤對於列出的&#x200B;_所有_&#x200B;程式型別而言是選擇性的，請將[必要]核取方塊保留為未選取。
+   >* 如果您想要在任何時候建立新程式時新增此標籤，請選取&quot;[!UICONTROL Required]&quot;。
+   >* 從&#39;[!UICONTROL Applies to]&#39;清單中移除程式型別將會從所有該型別的現有程式中刪除標籤及其值。 如果您要保留現有的標籤值，並且讓此標籤對於列出的&#x200B;_所有_&#x200B;程式型別而言是選擇性的，請將[必要]核取方塊保留為未選取。
 
    >[!TIP]
    >
-   >如果您想要讓某些程式型別需要類似的標籤，但其他程式型別可以選用，您需要設定兩個個別的標籤，每個標籤會套用至不同的程式型別，其中一個已選取「[!UICONTROL 必要]」，另一個未選取「[!UICONTROL 必要]」。
+   >如果您想要讓類似的標籤對於某些程式型別是必要的，但對於其他程式型別是選用的，您必須設定兩個個別的標籤，每個標籤會套用至不同的程式型別，其中一個已選取「[!UICONTROL Required]」，另一個未選取「[!UICONTROL Required]」。
 
-1. 按一下&#x200B;**[!UICONTROL 建立]**。
+1. 按一下「**[!UICONTROL Create]**」。
 
    ![](assets/create-custom-tags-8.png)

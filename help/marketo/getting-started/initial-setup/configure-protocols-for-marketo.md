@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4720433
 description: 設定Marketo Engage的通訊協定 — Marketo Engage檔案 — 產品檔案
-title: 設定Marketo Engage的通訊協定
+title: 設定 Marketo Engage 的通訊協定
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '2131'
-ht-degree: 8%
+ht-degree: 9%
 
 ---
 
-# 設定Marketo Engage的通訊協定{#configure-protocols-for-marketo-engage}
+# 設定 Marketo Engage 的通訊協定{#configure-protocols-for-marketo-engage}
 
 如果您或您的組織使用限制性的防火牆或Proxy伺服器設定，您或您的網路管理員可能需要將某些網域和IP位址範圍列入允許清單，以確保Adobe Marketo Engage如期運作。
 

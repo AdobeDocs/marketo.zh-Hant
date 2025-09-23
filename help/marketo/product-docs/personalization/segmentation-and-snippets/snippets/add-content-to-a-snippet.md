@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359496
 description: 將內容新增至程式碼片段 — Marketo檔案 — 產品檔案
-title: 將內容新增至程式碼片段
+title: 新增內容至程式碼片段
 exl-id: b8be61ea-016d-4aab-b1b7-a43d699c3bfe
 feature: Snippets
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '183'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# 將內容新增至程式碼片段 {#add-content-to-a-snippet}
+# 新增內容至程式碼片段 {#add-content-to-a-snippet}
 
 >[!PREREQUISITES]
 >

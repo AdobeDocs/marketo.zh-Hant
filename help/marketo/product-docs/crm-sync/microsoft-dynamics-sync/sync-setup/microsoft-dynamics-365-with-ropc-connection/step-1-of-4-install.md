@@ -3,10 +3,10 @@ description: 步驟4之1 — 安裝具有資源所有者密碼控制連線的Mar
 title: 步驟4之1 — 安裝具有資源擁有者密碼控制連線的Marketo解決方案
 exl-id: aab3bbb8-4e52-4c40-94d1-631af1d63f9f
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '282'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -83,7 +83,7 @@ ht-degree: 2%
 
    ![](assets/image2015-3-19-8-3a40-3a38.png)
 
-1. 選取&#x200B;**[!UICONTROL Marketo Lead Management]**&#x200B;並按一下&#x200B;**[!UICONTROL Publish All Customizations]**。
+1. 選取「**[!UICONTROL Marketo Lead Management]**」然後按一下「**[!UICONTROL Publish All Customizations]**」。
 
    ![](assets/image2015-3-19-8-3a41-3a21.png)
 

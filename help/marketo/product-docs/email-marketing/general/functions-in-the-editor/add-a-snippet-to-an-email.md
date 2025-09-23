@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147358
 description: 將程式碼片段新增至電子郵件 — Marketo檔案 — 產品檔案
-title: 將程式碼片段新增至電子郵件
+title: 新增程式碼片段至電子郵件
 exl-id: 609130a7-c309-4f9d-99bc-c752047ce0f4
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '146'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# 將程式碼片段新增至電子郵件 {#add-a-snippet-to-an-email}
+# 新增程式碼片段至電子郵件 {#add-a-snippet-to-an-email}
 
 程式碼片段是可重複使用的RTF和圖形區塊，可用於電子郵件和登入頁面。
 

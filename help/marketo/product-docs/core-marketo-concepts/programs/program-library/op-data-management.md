@@ -1,16 +1,16 @@
 ---
 description: OP — 資料管理 — Marketo檔案 — 產品檔案
-title: 作業資料管理
+title: OP-資料管理
 feature: Programs
 exl-id: ac4a522b-37a7-4080-83d6-fbc2203a568b
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '319'
-ht-degree: 14%
+ht-degree: 15%
 
 ---
 
-# 作業資料管理 {#op-data-management}
+# OP-資料管理 {#op-data-management}
 
 這是使用預設程式的簡單作業資料管理最佳實務工作流程的範例，協助您管理Marketo Engage資料庫中記錄的資料一致性。
 
@@ -21,7 +21,7 @@ ht-degree: 14%
 <table style="table-layout:auto">
  <tbody>
   <tr>
-   <th>頻道</th>
+   <th>管道</th>
    <th>成員資格狀態</th>
    <th>Analytics行為</th>
    <th>計畫型別</th>

@@ -1,16 +1,16 @@
 ---
 description: 來電原因 — Marketo檔案 — 產品檔案
-title: 來電原因
+title: 通話原因
 exl-id: 82533d6b-a373-49c7-9cee-271e36916111
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 來電原因 {#call-reasons}
+# 通話原因 {#call-reasons}
 
 讓您的銷售團隊在致電時選取致電原因，讓您的團隊瞭解致電的原因。
 
@@ -54,7 +54,7 @@ ht-degree: 0%
 
    ![](assets/call-reasons-7.png)
 
-1. 在文字欄位中輸入您想要的來電原因名稱，然後按一下[新增]。**&#x200B;**
+1. 在文字欄位中輸入您想要的來電原因名稱，然後按一下[新增]。****
 
    ![](assets/call-reasons-8.png)
 

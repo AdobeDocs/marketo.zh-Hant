@@ -1,16 +1,16 @@
 ---
 description: 傳遞管道概觀 — Marketo檔案 — 產品檔案
-title: 傳遞管道總覽
+title: 傳遞管道概觀
 exl-id: 8dd6fe3e-86ae-4361-bc0a-6488dc1df9fa
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '660'
 ht-degree: 0%
 
 ---
 
-# 傳遞管道總覽 {#delivery-channel-overview}
+# 傳遞管道概觀 {#delivery-channel-overview}
 
 Marketo Sales提供您多種傳送電子郵件的選項。 本文將檢閱您可以運用的傳送管道、如何選取管道，以及何時應選取管道而不應選取管道。
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719338
 description: 電子郵件報表 — Marketo檔案 — 產品檔案
-title: 以電子郵件傳送報告
+title: 電子郵件報告
 exl-id: 7e829b0e-926f-482c-84ef-15d978fdbb53
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '403'
 ht-degree: 0%
 
 ---
 
-# 以電子郵件傳送報告 {#email-reports}
+# 電子郵件報告 {#email-reports}
 
 若要自訂使用者收到的自動化電子郵件報表，請參閱[[!UICONTROL User Settings]區段](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md)。
 

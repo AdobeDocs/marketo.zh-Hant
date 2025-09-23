@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352482
 description: 回覆追蹤的運作方式 — Marketo檔案 — 產品檔案
-title: 回覆追蹤的運作方式
+title: 回應追蹤的運作原理
 exl-id: 8d087014-99b7-47ba-9f08-95b13bc16438
 feature: Marketo Sales Connect
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '163'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 回覆追蹤的運作方式 {#how-reply-tracking-works}
+# 回應追蹤的運作原理 {#how-reply-tracking-works}
 
 「回覆追蹤」是透過檢視您傳送之每封電子郵件中的訊息ID來完成。 每封電子郵件都包含唯一的訊息ID，讓我們擁有一些最佳的回覆追蹤功能。
 

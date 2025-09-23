@@ -1,36 +1,36 @@
 ---
 unique-page-id: 2953207
 description: 建立新的Campaign資料夾 — Marketo檔案 — 產品檔案
-title: 建立新的Campaign資料夾
+title: 建立新的行銷活動資料夾
 exl-id: 2899ee63-b15a-462a-bed6-8858a6b65308
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 0%
+source-wordcount: '101'
+ht-degree: 9%
 
 ---
 
-# 建立新的Campaign資料夾 {#create-new-campaign-folder}
+# 建立新的行銷活動資料夾 {#create-new-campaign-folder}
 
 Campaign資料夾可幫助您保持整潔的工作環境。 請遵循這些簡單的步驟，您將邁向自動化魔術。
 
-1. 移至&#x200B;**[!UICONTROL 行銷活動]**。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities.png)
 
-1. 選取&#x200B;**[!UICONTROL 新增]**。
+1. 選取「**[!UICONTROL New]**」。
 
    ![](assets/image2015-2-25-7-3a57-3a18.png)
 
-1. 選取&#x200B;**[!UICONTROL 新行銷活動資料夾]**。
+1. 選取「**[!UICONTROL New Campaign Folder]**」。
 
    ![](assets/image2015-2-25-7-3a58-3a15.png)
 
-1. 輸入行銷活動資料夾的&#x200B;**[!UICONTROL 名稱]**。
+1. 輸入行銷活動資料夾的&#x200B;**[!UICONTROL Name]**。
 
    ![](assets/image2015-2-25-8-3a0-3a20.png)
 
-1. 可選：輸入&#x200B;**[!UICONTROL 描述]**&#x200B;並按一下&#x200B;**[!UICONTROL 建立]**。
+1. 選用：輸入&#x200B;**[!UICONTROL Description]**&#x200B;並按一下&#x200B;**[!UICONTROL Create]**。
 
    >[!TIP]
    >

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2951884
 description: 瞭解Revenue Explorer中的Opportunity Analysis - Marketo檔案 — 產品檔案
-title: 瞭解Revenue Explorer中的機會分析
+title: 了解營收總管中的機會分析
 exl-id: 2ef45d3e-7640-4c47-86ae-d7ae45ed1dd4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '899'
-ht-degree: 5%
+ht-degree: 7%
 
 ---
 
-# 瞭解Revenue Explorer中的機會分析 {#understanding-opportunity-analysis-in-revenue-explorer}
+# 了解營收總管中的機會分析 {#understanding-opportunity-analysis-in-revenue-explorer}
 
 Revenue Explorer中的Opportunity Analysis可讓您更深入地檢視您的機會。 根據任何銷售機會/公司屬性（例如，銷售機會來源、產業或地理位置）來分割資料。 根據名稱、階段或機率分析機會的建立和關閉。 瞭解對管道的行銷貢獻。
 
@@ -80,7 +80,7 @@ Opportunity Analysis可讓您存取所有銷售機會、公司及銷售機會相
    | 已加入封鎖清單 | 潛在客戶已加入封鎖清單 |
    | 已轉換為商機 | 潛在客戶已轉換為商機 |
    | 電子郵件無效 | 潛在客戶是否有有效的電子郵件地址 |
-   | 行銷活動已暫停 | 潛在客戶是否已從行銷電子郵件中暫停 |
+   | 行銷活動暫停 | 潛在客戶是否已從行銷電子郵件中暫停 |
    | 電子郵件地址 | 潛在客戶的電子郵件地址 |
    | 職稱 | 潛在客戶職稱 |
    | 全名 | 潛在客戶的全名 |
@@ -136,7 +136,7 @@ Opportunity Analysis可讓您存取所有銷售機會、公司及銷售機會相
 
 1. 測量值
 
-   | 衡量 | 說明 |
+   | 測量 | 說明 |
    |---|---|
    | 關閉商機的平均天數 | 關閉商機的平均天數 |
    | 關閉商機的平均天數（遺失） | 失去機會的平均天數 |

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900573
 description: 新增系統權杖作為電子郵件中的連結 — Marketo檔案 — 產品檔案
-title: 新增系統權杖作為電子郵件中的連結
+title: 在電子郵件中新增系統權杖做為連結
 exl-id: 9156be24-18ae-44ea-96e5-a6257ff29b46
 feature: Tokens
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '205'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# 新增系統權杖作為電子郵件中的連結 {#add-a-system-token-as-a-link-in-an-email}
+# 在電子郵件中新增系統權杖做為連結 {#add-a-system-token-as-a-link-in-an-email}
 
 您可以使用這些系統代號來自訂電子郵件中特殊連結的位置。
 

@@ -4,14 +4,14 @@ title: 步驟3之2 — 建立Marketo的Salesforce使用者(Enterprise/Unlimited)
 hide: true
 hidefromtoc: true
 feature: Salesforce Integration
-source-git-commit: 989804463f44afbf35ab11c0f23c37b0d328e652
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '422'
-ht-degree: 1%
+source-wordcount: '421'
+ht-degree: 4%
 
 ---
 
-# 步驟2之3：建立Marketo的Salesforce使用者(Enterprise/Unlimited) {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
+# 第 2 步 (共 3 步)：建立 Marketo 的 Salesforce 使用者 (企業版/無限版) {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ ht-degree: 1%
 
 ## 建立設定檔 {#create-a-profile}
 
-1. 按一下&#x200B;**[!UICONTROL 設定]**。
+1. 按一下「**[!UICONTROL Setup]**」。
 
    熒幕擷圖
 
@@ -68,7 +68,7 @@ ht-degree: 1%
 
    * 帳戶
    * 行銷活動
-   * 連絡人
+   * 聯絡人
    * 銷售機會
    * 機會
 
@@ -92,8 +92,8 @@ ht-degree: 1%
 
 1. 在設定檔詳細資訊頁面中，移至欄位層級安全性區段。 按一下檢視來編輯物件的協助工具：
 
-   * 銷售機會
-   * 連絡人
+   * 商機
+   * 聯絡人
    * 帳戶
    * 機會
 

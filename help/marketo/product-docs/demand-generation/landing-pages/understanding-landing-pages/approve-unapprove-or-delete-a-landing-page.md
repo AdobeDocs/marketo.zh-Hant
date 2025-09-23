@@ -4,10 +4,10 @@ description: 核准、取消核准或刪除登陸頁面 — Marketo檔案 — �
 title: 核准、取消核准或刪除登陸頁面
 exl-id: ecd964e2-8363-495f-aaf0-e5ba452cb280
 feature: Landing Pages
-source-git-commit: 40f7cc71d816505149ee56b8dca34b5e17ae75b7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '234'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 ## 刪除登陸頁面 {#delete-a-landing-page}
 
-1. 選取所需的登陸頁面。 按一下&#x200B;**[!UICONTROL Landing Page Actions]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Delete]**。
+1. 選取所需的登陸頁面。 按一下「**[!UICONTROL Landing Page Actions]**」下拉式選單，選取「**[!UICONTROL Delete]**」。
 
    ![](assets/approve-unapprove-or-delete-a-landing-page-5.png)
 
@@ -67,7 +67,7 @@ ht-degree: 0%
 
    ![](assets/approve-unapprove-or-delete-a-landing-page-7.png)
 
-1. 選取所需的登陸頁面。 按一下&#x200B;**[!UICONTROL Landing Page Actions]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Delete]**。
+1. 選取所需的登陸頁面。 按一下「**[!UICONTROL Landing Page Actions]**」下拉式選單，選取「**[!UICONTROL Delete]**」。
 
    ![](assets/approve-unapprove-or-delete-a-landing-page-8.png)
 

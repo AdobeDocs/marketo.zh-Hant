@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352410
 description: 新增您的電子郵件簽名 — Marketo檔案 — 產品檔案
-title: 新增您的電子郵件簽章
+title: 新增您的電子郵件簽名
 exl-id: 176c742a-6c24-4629-8ad5-4d85fac7fcb5
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# 新增您的電子郵件簽章 {#add-your-email-signature}
+# 新增您的電子郵件簽名 {#add-your-email-signature}
 
 我們希望從Sales Connect傳送電子郵件，在您自己的電子郵件使用者端傳送時，能感受到順暢的體驗。 一個很好的做法是新增您的電子郵件簽名。
 

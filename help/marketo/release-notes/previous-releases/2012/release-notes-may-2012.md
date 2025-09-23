@@ -4,14 +4,14 @@ description: 發行說明 — 2012年5月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2012年5月
 exl-id: b951e986-359d-4da0-8654-4d9f1416cebb
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '638'
-ht-degree: 4%
+ht-degree: 5%
 
 ---
 
-# 發行說明： 2012年5月 {#release-notes-may}
+# 發行說明：2012 年 5 月 {#release-notes-may}
 
 ## 電子郵件效能報表重新設計 {#email-performance-report-redesign}
 

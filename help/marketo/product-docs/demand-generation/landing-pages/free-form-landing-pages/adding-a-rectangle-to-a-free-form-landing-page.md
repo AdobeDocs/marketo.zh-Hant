@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359707
 description: 將矩形新增至自由表單登陸頁面 — Marketo檔案 — 產品檔案
-title: 新增矩形至自由表單登陸頁面
+title: 新增矩形至自由格式登陸頁面
 exl-id: 9c0e614f-9a47-41be-b943-9d493f7e5000
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '117'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
-# 新增矩形至自由表單登陸頁面 {#adding-a-rectangle-to-a-free-form-landing-page}
+# 新增矩形至自由格式登陸頁面 {#adding-a-rectangle-to-a-free-form-landing-page}
 
 登入頁面上的矩形很適合用來反白文字區域。
 

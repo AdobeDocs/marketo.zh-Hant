@@ -4,10 +4,10 @@ description: 匯入[!UICONTROL Named Accounts] - Marketo檔案 — 產品檔案
 title: 匯入[!UICONTROL Named Accounts]
 exl-id: 3f40e567-9256-4efd-beea-4e818770759f
 feature: Target Account Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '440'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 CSV中已經滿載了潛在的目標帳戶嗎？ 將它們直接匯入TAM！
 
-1. 按一下&#x200B;**[!UICONTROL New]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Import Named Accounts]**。
+1. 按一下「**[!UICONTROL New]**」下拉式選單，選取「**[!UICONTROL Import Named Accounts]**」。
 
    ![](assets/inaone.png)
 
@@ -27,7 +27,7 @@ CSV中已經滿載了潛在的目標帳戶嗎？ 將它們直接匯入TAM！
    >
    >在您的檔案中，提供[儘可能多的資訊](/help/marketo/product-docs/target-account-management/target/named-accounts/named-account-overview.md#named-account-attributes)。 您只能新增實體資訊；Marketo不會計算任何內容（例如Pipeline）。 若要根據CRM帳戶建立具名帳戶，只需將帳戶名稱和CRM ID從您的CRM匯出至CSV檔案、使用「帳戶名稱」選項，並在匯入過程中對應CRM ID即可。 若要正確將CRM帳戶連結至具名帳戶，您必須提供CRM帳戶的正確名稱。
 
-1. 從兩種重複資料刪除模式中選擇：帳戶名稱或網域名稱。 在此範例中，我們將選擇「帳戶」。 按一下&#x200B;**[!UICONTROL Modes]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL By Account Name]**。
+1. 從兩種重複資料刪除模式中選擇：帳戶名稱或網域名稱。 在此範例中，我們將選擇「帳戶」。 按一下「**[!UICONTROL Modes]**」下拉式選單，選取「**[!UICONTROL By Account Name]**」。
 
    ![](assets/inathree.png)
 

@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2360305
 description: 建立個人詳細資料頁面的自訂標籤 — Marketo檔案 — 產品檔案
-title: 建立人員詳細資料頁面的自訂標籤
+title: 建立人員詳細資料頁面的自訂索引標籤
 exl-id: 8a8bd4a0-6a18-4576-b4a3-89c31b502cd6
 feature: Administration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '142'
-ht-degree: 0%
+ht-degree: 16%
 
 ---
 
-# 建立人員詳細資料頁面的自訂標籤 {#creating-a-custom-tab-for-the-person-detail-page}
+# 建立人員詳細資料頁面的自訂索引標籤 {#creating-a-custom-tab-for-the-person-detail-page}
 
 如果您發現自己需要在人員詳細資料中一次又一次地尋找特定欄位集，請考慮建立自訂版面以簡化工作。
 
-1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-1.png)
 

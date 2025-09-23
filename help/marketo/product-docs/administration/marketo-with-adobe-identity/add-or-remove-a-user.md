@@ -3,10 +3,10 @@ description: 新增或移除使用者 — Marketo檔案 — 產品檔案
 title: 新增或移除使用者
 exl-id: b1087d41-b548-47bd-91b7-282dc902cba3
 feature: Marketo with Adobe Identity
-source-git-commit: 471a777041361cfebdc8b7139b618ff4dc03e8a8
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '240'
-ht-degree: 2%
+source-wordcount: '232'
+ht-degree: 6%
 
 ---
 
@@ -26,11 +26,11 @@ ht-degree: 2%
 
    ![](assets/add-or-remove-a-user-3.png)
 
-1. 按一下「**[!UICONTROL 使用者]**」標籤。
+1. 按一下「**[!UICONTROL Users]**」標籤。
 
    ![](assets/add-or-remove-a-user-4.png)
 
-1. 按一下&#x200B;**[!UICONTROL 新增使用者]**&#x200B;按鈕。
+1. 按一下&#x200B;**[!UICONTROL Add User]**&#x200B;按鈕。
 
    ![](assets/add-or-remove-a-user-5.png)
 
@@ -46,15 +46,15 @@ ht-degree: 2%
    >
    >使用者&#x200B;_必須_&#x200B;新增至產品設定檔才能存取Marketo Engage。
 
-1. 按一下&#x200B;**[!UICONTROL 儲存]**。
+1. 按一下「**[!UICONTROL Save]**」。
 
    ![](assets/add-or-remove-a-user-8.png)
 
-接著，使用者會收到電子郵件以登入Marketo Engage。
+接著，使用者會收到登入Marketo Engage的電子郵件。
 
 >[!NOTE]
 >
->透過Adobe Admin Console將使用者新增到Marketo Engage時，他們將在訂閱的預設工作區中獲得「標準使用者」角色。 如果需要調整使用者在工作區中的角色，則以Marketo Engage完成，[如此處所述](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}。
+>透過Adobe Admin Console將使用者新增到Marketo Engage時，他們將在訂閱的預設工作區中獲得「標準使用者」角色。 如果需要調整使用者在工作區中的角色，請在Marketo Engage中完成，[如此處所述](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}。
 
 ## 移除使用者 {#remove-a-user}
 
@@ -74,15 +74,15 @@ ht-degree: 2%
 
    ![](assets/add-or-remove-a-user-11.png)
 
-1. 按一下「**[!UICONTROL 使用者]**」標籤。
+1. 按一下「**[!UICONTROL Users]**」標籤。
 
    ![](assets/add-or-remove-a-user-12.png)
 
-1. 選取您要移除的使用者，然後按一下&#x200B;**[!UICONTROL 移除]**&#x200B;按鈕。
+1. 選取您要移除的使用者並按一下&#x200B;**[!UICONTROL Remove]**&#x200B;按鈕。
 
    ![](assets/add-or-remove-a-user-13.png)
 
-1. 按一下&#x200B;**[!UICONTROL 移除使用者]**&#x200B;以進行確認。
+1. 按一下&#x200B;**[!UICONTROL Remove User]**&#x200B;確認。
 
    ![](assets/add-or-remove-a-user-14.png)
 

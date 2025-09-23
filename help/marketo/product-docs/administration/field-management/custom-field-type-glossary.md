@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2951259
 description: 自訂欄位型別字彙表 — Marketo檔案 — 產品檔案
-title: 自訂欄位型別字彙表
+title: 自訂欄位類型字彙表
 exl-id: 495d4deb-28f1-4044-98d3-27c20756fe73
 feature: Field Management
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '594'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
-# 自訂欄位型別字彙表 {#custom-field-type-glossary}
+# 自訂欄位類型字彙表 {#custom-field-type-glossary}
 
 在Marketo中建立自訂欄位時，您有一份型別清單可供選擇。
 

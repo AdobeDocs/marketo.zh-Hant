@@ -1,16 +1,16 @@
 ---
 description: 取消訂閱概述 — Marketo檔案 — 產品檔案
-title: 取消訂閱總覽
+title: 取消訂閱概觀
 exl-id: 7598efa9-9686-4dd0-840b-f8b6de4ab2be
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '328'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 取消訂閱總覽 {#unsubscribe-overview}
+# 取消訂閱概觀 {#unsubscribe-overview}
 
 遵守電子郵件隱私權法規對組織而言越來越重要。 為了協助解決此問題，我們對取消訂閱體驗進行了一些增強功能。
 
@@ -42,7 +42,7 @@ ht-degree: 0%
 
 ![](assets/unsubscribe-overview-4.png)
 
-## 取消訂閱歷程記錄卡 {#unsubscribe-history-card}
+## 取消訂閱歷史記錄卡片 {#unsubscribe-history-card}
 
 [!UICONTROL Unsubscribe History]卡片可協助管理員和使用者取得有關其連絡人取消訂閱歷程記錄的內容資訊。 前往「[!UICONTROL People]」標籤並選取人員，以導覽至該處。 它位於人員詳細資料檢視中[!UICONTROL About]索引標籤的底部。
 

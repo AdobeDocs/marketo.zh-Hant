@@ -1,13 +1,13 @@
 ---
 unique-page-id: 42762322
 description: Salesforce中的Marketo銷售Insight設定索引標籤 — Marketo檔案 — 產品檔案
-title: Salesforce中的Marketo Sales Insight設定索引標籤
+title: Salesforce 中的 Marketo 銷售洞察設定索引標籤
 exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '615'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

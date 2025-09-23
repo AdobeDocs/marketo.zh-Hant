@@ -1,23 +1,23 @@
 ---
 unique-page-id: 12979223
 description: 設定帳戶Insight - Marketo檔案 — 產品檔案
-title: 設定帳戶Insight
+title: 設定帳戶洞察
 exl-id: 50e24974-339b-4a42-b5ca-2e80ab47d313
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '99'
-ht-degree: 3%
+ht-degree: 11%
 
 ---
 
-# 設定帳戶Insight {#set-up-account-insight}
+# 設定帳戶洞察 {#set-up-account-insight}
 
 以下說明如何設定帳戶Insight。
 
 >[!PREREQUISITES]
 >
->必須先設定TAM帳戶分數[&#128279;](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md)。
+>必須先設定TAM帳戶分數[](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md)。
 
 1. 按一下「**[!UICONTROL Admin]**」。
 

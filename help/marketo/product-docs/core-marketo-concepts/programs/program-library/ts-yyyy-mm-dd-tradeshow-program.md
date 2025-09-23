@@ -1,16 +1,16 @@
 ---
 description: TS-YYYY-MM-DD-Tradeshow計畫 — Marketo檔案 — 產品檔案
-title: TS-YYYY-MM-DD-Tradeshow計畫
+title: TS-YYYY-MM-DD-商展方案
 feature: Programs
 exl-id: 39ef8d6e-392b-456e-a925-b1f6c2cb81d8
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '410'
-ht-degree: 7%
+ht-degree: 10%
 
 ---
 
-# TS-YYYY-MM-DD-Tradeshow計畫 {#ts-yyyy-mm-dd-tradeshow-program}
+# TS-YYYY-MM-DD-商展方案 {#ts-yyyy-mm-dd-tradeshow-program}
 
 這是商展計畫的範例，包含利用Marketo Engage活動計畫的邀請和後續電子郵件。
 
@@ -21,13 +21,13 @@ ht-degree: 7%
 <table style="table-layout:auto">
  <tbody>
   <tr>
-   <th>頻道</th>
+   <th>管道</th>
    <th>成員資格狀態</th>
    <th>Analytics行為</th>
    <th>計畫型別</th>
   </tr>
   <tr>
-   <td>活動</td>
+   <td>事件</td>
    <td>01 — 已邀請
    <br/>02已輪候
    <br/>03已註冊
@@ -35,7 +35,7 @@ ht-degree: 7%
    <br/>05參與在展示 — 成功
    <br/>06參與發佈會 — 成功</td>
    <td>包含</td>
-   <td>活動</td>
+   <td>事件</td>
   </tr>
  </tbody>
 </table>
@@ -51,12 +51,12 @@ ht-degree: 7%
   </tr>
   <tr>
    <td>電子郵件</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入門電子郵件範本</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速開始電子郵件範本</a></td>
    <td>01 — 電子郵件 — 感謝您</td>
   </tr>
    <tr>
    <td>電子郵件</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入門電子郵件範本</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速開始電子郵件範本</a></td>
    <td>02a — 電子郵件 — 邀請</td>
   </tr>
   <tr>
@@ -104,7 +104,7 @@ ht-degree: 7%
   <tr>
    <td>資料夾</td>
    <td> </td>
-   <td>報表</td>
+   <td>報告</td>
   </tr>
  </tbody>
 </table>
@@ -118,7 +118,7 @@ ht-degree: 7%
   <tr>
    <th>權杖型別</th>
    <th>代號名稱</th>
-   <th>值</th>
+   <th>價值</th>
   </tr>
   <tr>
    <td>行事曆檔案</td>

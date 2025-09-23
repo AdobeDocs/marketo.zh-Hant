@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359644
 description: 顯示已知人員的自訂HTML表單 — Marketo檔案 — 產品檔案
-title: 顯示已知人員的自訂HTML表單
+title: 向已知人員顯示自訂 HTML 表單
 exl-id: 668216ea-7c2b-4204-81a5-56547c3baf1d
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '234'
-ht-degree: 1%
+ht-degree: 7%
 
 ---
 
-# 顯示已知人員的自訂HTML表單 {#show-custom-html-form-for-known-people}
+# 向已知人員顯示自訂 HTML 表單 {#show-custom-html-form-for-known-people}
 
 如果訪客過去曾提供其全名和電子郵件地址，而您不希望他們取得整個表單，請瞭解如何為他們顯示一些自訂HTML （例如，只需下載按鈕）。
 
@@ -41,7 +41,7 @@ ht-degree: 1%
 
    可用Token：
 
-   | Token | 說明 |
+   | 權杖 | 說明 |
    |---|---|
    | `{{lead.FirstName}}` | 這會顯示使用者的名字。 |
    | `{{lead.LastName}}` | 這會顯示人員的姓氏。 |

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 557337
 description: 建立和變更清單與智慧清單的檢視 — Marketo檔案 — 產品檔案
-title: 建立和變更清單和智慧清單的檢視
+title: 建立與變更清單和智慧清單視圖
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
 feature: Smart Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '211'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# 建立和變更清單和智慧清單的檢視 {#create-and-change-views-for-lists-and-smart-list}
+# 建立與變更清單和智慧清單視圖 {#create-and-change-views-for-lists-and-smart-list}
 
 「智慧列示」會顯示預設的欄集合。 您知道您可以編輯這些欄以符合您心靈的內容嗎？ 方法如下。
 

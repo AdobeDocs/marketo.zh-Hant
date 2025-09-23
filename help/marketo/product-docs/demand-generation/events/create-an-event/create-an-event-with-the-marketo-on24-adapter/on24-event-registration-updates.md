@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10096683
 description: ON24事件註冊更新 — Marketo檔案 — 產品檔案
-title: ON24事件註冊更新
+title: ON24 事件註冊更新
 exl-id: 1d194ef2-b6ca-4e2d-b476-beb5bccd3c5f
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '247'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# ON24事件註冊更新 {#on-event-registration-updates}
+# ON24 事件註冊更新 {#on-event-registration-updates}
 
 ## 手動核准註冊者 {#manually-approving-registrants}
 

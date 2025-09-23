@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359647
 description: 瞭解參與計畫 — Marketo檔案 — 產品檔案
-title: 瞭解參與計畫
+title: 了解參與方案
 exl-id: dd573749-5ae6-4794-a340-b5139c316cce
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '278'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
-# 瞭解參與計畫 {#understanding-engagement-programs}
+# 了解參與方案 {#understanding-engagement-programs}
 
 參與計畫的設計目的，是要透過以系統化的方式向新人展示內容，來向他們行銷。
 
@@ -54,7 +54,7 @@ ht-degree: 1%
 >* [移除資料流內容](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
 >* [封存和取消封存資料流內容](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)
 
-## 鑄造 {#cast}
+## 投放 {#cast}
 
 **cast**&#x200B;是從參與計畫傳送電子郵件的事件。
 
@@ -78,7 +78,7 @@ ht-degree: 1%
 
 ![](assets/image2014-9-15-15-3a25-3a55.png)
 
-## 已耗盡 {#exhausted}
+## 已用盡 {#exhausted}
 
 一旦某人收到資料流中的每一項內容，我們就會呼叫此人&#x200B;**已耗盡**。
 
@@ -88,7 +88,7 @@ ht-degree: 1%
 >
 >[已用完內容的人](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md)
 
-## 內容參與層級 {#content-engagement-level}
+## 內容參與程度 {#content-engagement-level}
 
 內容參與層級是0到100的分數，Marketo會提供您的內容。 此數字由使用開啟、點按、取消訂閱、方案成功和其他因素的複雜公式決定。
 

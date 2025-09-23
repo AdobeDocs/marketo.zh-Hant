@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719350
 description: 從特定標籤檢視區段 — Marketo檔案 — 產品檔案
-title: 從特定標籤檢視區段
+title: 檢視特定標籤的區段
 exl-id: 86a73898-1ad6-4edb-99cf-104f7ebb3ddd
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '65'
-ht-degree: 0%
+ht-degree: 18%
 
 ---
 
-# 從特定標籤檢視區段 {#view-segments-from-a-specific-label}
+# 檢視特定標籤的區段 {#view-segments-from-a-specific-label}
 
 想要根據特定標籤檢視及篩選區段嗎？
 

@@ -1,33 +1,33 @@
 ---
 unique-page-id: 2949264
 description: SEO — 移除/刪除頁面問題 — Marketo檔案 — 產品檔案
-title: SEO — 移除/刪除頁面問題
+title: SEO - 移除/刪除頁面問題
 exl-id: cc1e5318-5c64-4022-bb56-6a96607ced7d
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 0%
+source-wordcount: '92'
+ht-degree: 14%
 
 ---
 
-# SEO — 移除/刪除頁面問題 {#seo-remove-delete-a-page-issue}
+# SEO - 移除/刪除頁面問題 {#seo-remove-delete-a-page-issue}
 
 並非所有頁面問題都可能對您有幫助。 以下說明移除步驟。
 
-1. 移至&#x200B;**[!UICONTROL 頁面]**&#x200B;區段。
+1. 移至&#x200B;**[!UICONTROL Pages]**&#x200B;區段。
 
    ![](assets/image2014-9-18-14-3a0-3a16.png)
 
-1. 在[!UICONTROL 頁面]區段中，按一下&#x200B;**[!UICONTROL 問題]**。
+1. 在[!UICONTROL Pages]區段中，按一下&#x200B;**[!UICONTROL Issues]**。
 
    ![](assets/image2014-9-18-14-3a0-3a30.png)
 
-1. 暫留在您要移除的頁面問題上。 按一下&#x200B;**[!UICONTROL 移除]**。
+1. 暫留在您要移除的頁面問題上。 按一下「**[!UICONTROL Remove]**」。
 
    ![](assets/image2014-9-18-14-3a0-3a38.png)
 
-1. 按一下「**[!UICONTROL 刪除]**」將會永久移除此頁面問題。
+1. 按一下&#x200B;**[!UICONTROL Delete]**&#x200B;將會永久移除此頁面問題。
 
    >[!CAUTION]
    >

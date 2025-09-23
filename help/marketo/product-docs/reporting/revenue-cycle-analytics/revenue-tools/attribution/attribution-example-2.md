@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7514146
 description: 歸因範例2 - Marketo檔案 — 產品檔案
-title: 歸因範例2
+title: 歸因範例 2
 exl-id: 8f00abb5-85f8-4f05-874e-57aa6442548c
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 歸因範例2 {#attribution-example}
+# 歸因範例 2 {#attribution-example}
 
 請閱讀下列情境，並嘗試決定網格中應該包含的數字。
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 * 4月25日 | Bill和Joan與&#x200B;**BOTH**&#x200B;選項的角色相關聯
 * 4月29日 | （商機1）已結束獲勝
 
-| 計畫名稱 | （商展） | （網路研討會） |
+| 方案名稱 | （商展） | （網路研討會） |
 |---|---|---|
 | (FT)已建立商機 | `<pre>1</pre>` | `<pre>1</pre>` |
 | (FT)管道已建立 | `<pre>$8,000</pre>` | `<pre>$8,000</pre>` |

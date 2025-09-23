@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718664
 description: 瞭解收入模型成功路徑 — Marketo檔案 — 產品檔案
-title: 瞭解收入模型成功路徑
+title: 了解收入模型成功路徑
 exl-id: aeb85e5e-0377-40b5-a7c9-ee9c1322ee66
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '224'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 瞭解收入模型成功路徑 {#understanding-revenue-model-success-path}
+# 了解收入模型成功路徑 {#understanding-revenue-model-success-path}
 
 ## 成功路徑 {#success-path}
 

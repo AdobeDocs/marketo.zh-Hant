@@ -3,10 +3,10 @@ description: 新增或移除產品管理員 — Marketo檔案 — 產品檔案
 title: 新增或移除產品管理員
 exl-id: 9c48b830-cce6-48bd-88c4-4d02e3ada2b1
 feature: Marketo with Adobe Identity
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '286'
-ht-degree: 2%
+source-wordcount: '275'
+ht-degree: 6%
 
 ---
 
@@ -14,13 +14,13 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->**系統**&#x200B;管理員只在Adobe組織層級建立。 如果您認為您需要多個專案，請連絡[Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support)。
+>**系統**&#x200B;管理員僅在Adobe組織層級建立。 如果您認為您需要多個專案，請連絡[Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support)。
 
 ## 新增產品管理員 {#add-a-product-admin}
 
 >[!IMPORTANT]
 >
->必須將管理員新增到產品設定檔才能存取Marketo Engage。
+>必須將管理員新增至產品設定檔，才能存取Marketo Engage。
 
 1. 登入[Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}。
 
@@ -34,15 +34,15 @@ ht-degree: 2%
 
    ![](assets/add-or-remove-a-product-admin-3.png)
 
-1. 按一下「**[!UICONTROL 管理員]**」標籤。
+1. 按一下「**[!UICONTROL Admins]**」標籤。
 
    ![](assets/add-or-remove-a-product-admin-4.png)
 
-1. 按一下&#x200B;**[!UICONTROL 新增管理員]**&#x200B;按鈕。
+1. 按一下&#x200B;**[!UICONTROL Add Admin]**&#x200B;按鈕。
 
    ![](assets/add-or-remove-a-product-admin-5.png)
 
-1. 輸入您要新增之管理員的電子郵件地址或使用者名稱。 名字和姓氏為選用。 按一下&#x200B;**[!UICONTROL 保存]**。
+1. 輸入您要新增之管理員的電子郵件地址或使用者名稱。 名字和姓氏為選用。 按一下「**[!UICONTROL Save]**」。
 
    ![](assets/add-or-remove-a-product-admin-6.png)
 
@@ -50,7 +50,7 @@ ht-degree: 2%
 
    ![](assets/add-or-remove-a-product-admin-7.png)
 
-1. 在「產品」底下，按一下三點功能表，然後選取&#x200B;**[!UICONTROL 編輯]**。
+1. 在「產品」底下，按一下三點功能表並選取&#x200B;**[!UICONTROL Edit]**。
 
    ![](assets/add-or-remove-a-product-admin-8.png)
 
@@ -58,7 +58,7 @@ ht-degree: 2%
 
    ![](assets/add-or-remove-a-product-admin-9.png)
 
-1. 按一下&#x200B;**[!UICONTROL 保存]**。
+1. 按一下「**[!UICONTROL Save]**」。
 
    ![](assets/add-or-remove-a-product-admin-10.png)
 
@@ -82,15 +82,15 @@ ht-degree: 2%
 
    ![](assets/add-or-remove-a-product-admin-13.png)
 
-1. 按一下「**[!UICONTROL 管理員]**」標籤。
+1. 按一下「**[!UICONTROL Admins]**」標籤。
 
    ![](assets/add-or-remove-a-product-admin-14.png)
 
-1. 選取您要移除的管理員，然後按一下&#x200B;**[!UICONTROL 移除管理員]**&#x200B;按鈕。
+1. 選取您要移除的管理員，然後按一下&#x200B;**[!UICONTROL Remove Admin]**&#x200B;按鈕。
 
    ![](assets/add-or-remove-a-product-admin-15.png)
 
-1. 按一下&#x200B;**[!UICONTROL 移除管理員]**&#x200B;以進行確認。
+1. 按一下&#x200B;**[!UICONTROL Remove Admin]**&#x200B;確認。
 
    ![](assets/add-or-remove-a-product-admin-16.png)
 

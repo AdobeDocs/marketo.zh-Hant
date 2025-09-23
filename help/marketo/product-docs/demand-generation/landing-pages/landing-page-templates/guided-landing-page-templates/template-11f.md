@@ -1,19 +1,19 @@
 ---
 unique-page-id: 9437571
 description: 範本11F - Marketo檔案 — 產品檔案
-title: 範本11F
+title: 範本 11F
 exl-id: db5aa680-3fe1-408c-adaf-0e16e64f0032
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '46'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# 範本11F {#template-11f}
+# 範本 11F {#template-11f}
 
-按一下滑鼠右鍵以[下載範本11F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11f.html?lang=zh-Hant)
+按一下滑鼠右鍵以[下載範本11F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11f.html)
 
 ![](assets/image2015-8-4-13-3a57-3a13.png)
 
@@ -29,4 +29,4 @@ ht-degree: 0%
 
 **在下方按一下滑鼠右鍵以下載此範本：**
 
-[範本11F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11f.html?lang=zh-Hant)
+[範本11F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11f.html)

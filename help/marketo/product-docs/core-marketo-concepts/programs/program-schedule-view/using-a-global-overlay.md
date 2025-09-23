@@ -4,10 +4,10 @@ description: 使用全域覆蓋 — Marketo檔案 — 產品檔案
 title: 使用全域覆蓋
 exl-id: b4e69f20-f1a7-43c4-92f7-e8802b4ce322
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 0%
+source-wordcount: '145'
+ht-degree: 5%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-10-16-4.png)
 
-1. 選取右下角的&#x200B;**[!UICONTROL 覆蓋]**。
+1. 選取右下角的&#x200B;**[!UICONTROL Overlay]**。
 
    ![](assets/image2014-9-24-10-3a16-3a9.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 如果您[已在行銷行事曆](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}中儲存篩選器，則可在方案排程檢視中將其用作覆蓋。
 
-1. 按一下&#x200B;**[!UICONTROL 覆蓋]**&#x200B;下拉式清單，然後選取您的篩選器定義。
+1. 按一下&#x200B;**[!UICONTROL Overlay]**&#x200B;下拉式清單，然後選取您的篩選器定義。
 
    ![](assets/image2014-9-24-10-3a16-3a26.png)
 

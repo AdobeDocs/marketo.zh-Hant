@@ -1,12 +1,12 @@
 ---
 description: 將您的Sales Insight Actions帳戶連結至Salesforce - Marketo檔案 — 產品檔案
-title: 將您的Sales Insight Actions帳戶連線至Salesforce
+title: 將您的銷售洞察動作帳戶連接至 Salesforce
 exl-id: 5d84d0f0-7867-45a8-b966-5088dca1bfca
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '109'
-ht-degree: 1%
+ht-degree: 9%
 
 ---
 

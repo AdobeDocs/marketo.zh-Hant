@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360227
 description: 在行銷活動電子郵件報告中篩選Assets - Marketo檔案 — 產品檔案
-title: 在行銷活動電子郵件報告中篩選Assets
+title: 篩選行銷活動電子郵件報告中的資產
 exl-id: 8e5e9ddc-b456-4802-a2a1-24d53d23117f
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# 在行銷活動電子郵件報告中篩選Assets {#filter-assets-in-a-campaign-email-reports}
+# 篩選行銷活動電子郵件報告中的資產 {#filter-assets-in-a-campaign-email-reports}
 
 將[行銷活動電子郵件成效](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)報告集中在方案（「本機資產」）中的特定[智慧行銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)或已封存的行銷活動。
 

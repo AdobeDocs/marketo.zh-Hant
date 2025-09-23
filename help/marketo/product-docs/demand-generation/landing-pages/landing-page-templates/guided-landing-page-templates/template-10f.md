@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8784014
 description: 範本10F - Marketo檔案 — 產品檔案
-title: 範本10F
+title: 範本 10F
 exl-id: 9f983388-725b-4ac0-bf39-5af56035b200
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '48'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# 範本10F {#template-10f}
+# 範本 10F {#template-10f}
 
-按一下滑鼠右鍵以[下載範本10F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10f.html?lang=zh-Hant)
+按一下滑鼠右鍵以[下載範本10F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10f.html)
 
 ![](assets/image2015-7-27-11-3a14-3a42.png)
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 **在下方按一下滑鼠右鍵以下載此範本：**
 
-[範本10F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10f.html?lang=zh-Hant)
+[範本10F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10f.html)

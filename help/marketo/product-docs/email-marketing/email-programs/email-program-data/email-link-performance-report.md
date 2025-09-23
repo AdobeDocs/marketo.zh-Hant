@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359478
 description: 電子郵件連結效能報表 — Marketo檔案 — 產品檔案
-title: 以電子郵件傳送連結效能報表
+title: 電子郵件連結績效報告
 exl-id: 216af37d-561f-42ad-9f2c-3d9ee5dfd9d7
 feature: Email Programs
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '217'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
-# 以電子郵件傳送連結效能報表 {#email-link-performance-report}
+# 電子郵件連結績效報告 {#email-link-performance-report}
 
 建立電子郵件連結效能報表，以檢視您電子郵件中連結的效能如何。
 

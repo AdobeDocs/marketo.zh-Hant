@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10094647
 description: 設定預設自訂欄位首碼 — Marketo檔案 — 產品檔案
-title: 設定預設自訂欄位首碼
+title: 設定預設自訂欄位前置詞
 exl-id: 5608864b-356d-451b-b079-4ea11c3296e5
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '88'
-ht-degree: 3%
+ht-degree: 17%
 
 ---
 
-# 設定預設自訂欄位首碼 {#set-a-default-custom-field-prefix}
+# 設定預設自訂欄位前置詞 {#set-a-default-custom-field-prefix}
 
 您自訂欄位的預設[!DNL Microsoft Dynamics]首碼必須為&#x200B;**new**，以便Marketo專有欄位正確同步。 以下說明如何變更預設首碼。
 

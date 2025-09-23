@@ -4,10 +4,10 @@ description: 定義智慧清單篩選器 — Marketo檔案 — 產品檔案
 title: 定義智慧清單篩選器
 exl-id: ab08c5be-0afa-46d5-9f29-99e1f6b99dea
 feature: Smart Lists
-source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 0%
+source-wordcount: '178'
+ht-degree: 5%
 
 ---
 
@@ -22,15 +22,15 @@ ht-degree: 0%
 
 繼續我們的範例，讓我們定義這些篩選器，以尋找在加州分數超過50的所有人。
 
-1. 移至&#x200B;**[!UICONTROL 行銷活動]**。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/define-smart-list-filters-1.png)
 
-1. 選取想要的智慧列示，然後按一下&#x200B;**[!UICONTROL 智慧列示]**&#x200B;索引標籤。
+1. 選取想要的智慧列示，然後按一下&#x200B;**[!UICONTROL Smart List]**&#x200B;標籤。
 
    ![](assets/define-smart-list-filters-2.png)
 
-1. 尋找並選取&#x200B;**[!UICONTROL 狀態]**&#x200B;篩選器的[CA]。
+1. 尋找並選取&#x200B;**[!UICONTROL State]**&#x200B;篩選器的[CA]。
 
    ![](assets/define-smart-list-filters-3.png)
 
@@ -38,7 +38,7 @@ ht-degree: 0%
    >
    >您可能會同時儲存「加州」和「CA」。 若要篩選這兩個值並包含來自加州的&#x200B;_所有_&#x200B;人員，瞭解如何[將多個值新增至智慧清單篩選器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-multiple-values-to-a-smart-list-filter.md){target="_blank"}。
 
-1. 選取&#x200B;**[!UICONTROL 大於]**&#x200B;運運算元並輸入「50」。
+1. 選取&#x200B;**[!UICONTROL greater than]**&#x200B;運運算元並輸入「50」。
 
    ![](assets/define-smart-list-filters-4.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359732
 description: 在自由格式登陸頁面中使用動態內容 — Marketo檔案 — 產品檔案
-title: 在自由格式的登陸頁面中使用動態內容
+title: 在自由格式登陸頁面中使用動態內容
 exl-id: 76441566-96be-43fb-91da-4c0c520cc9e1
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '191'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# 在自由格式的登陸頁面中使用動態內容 {#use-dynamic-content-in-a-free-form-landing-page}
+# 在自由格式登陸頁面中使用動態內容 {#use-dynamic-content-in-a-free-form-landing-page}
 
 在登入頁面中使用動態內容，可讓您的對象獲得鎖定目標的資訊。
 

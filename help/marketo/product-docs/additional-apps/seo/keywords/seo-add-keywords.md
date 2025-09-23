@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949204
 description: SEO — 新增關鍵字 — Marketo檔案 — 產品檔案
-title: SEO — 新增關鍵字
+title: SEO - 新增關鍵字
 exl-id: 95e7907a-62f7-40c7-85a9-97728fbe40eb
 feature: SEO
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '91'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# SEO — 新增關鍵字 {#seo-add-keywords}
+# SEO - 新增關鍵字 {#seo-add-keywords}
 
 關鍵字是使用者輸入搜尋引擎的詞語。 新增與您的業務最相關的關鍵字。
 

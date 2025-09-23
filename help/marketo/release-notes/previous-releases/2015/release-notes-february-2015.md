@@ -4,14 +4,14 @@ description: 發行說明 — 2015年2月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2015年2月
 exl-id: a7ce88dc-a4d2-4ccb-9fe5-61130334d24d
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '325'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 發行說明： 2015年2月 {#release-notes-february}
+# 發行說明：2015 年 2 月 {#release-notes-february}
 
 2015年2月發行版本包含下列功能。 請檢查您的Marketo版本是否有功能可用。 發行後，請務必返回尋找每個功能的詳細文章連結。 鼓卷……
 

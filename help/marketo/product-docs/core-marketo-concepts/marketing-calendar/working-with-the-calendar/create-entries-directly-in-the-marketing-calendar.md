@@ -1,30 +1,30 @@
 ---
 unique-page-id: 2953348
 description: 直接在行銷行事曆中建立專案 — Marketo檔案 — 產品檔案
-title: 直接在行銷行事曆中建立專案
+title: 直接在行銷行事曆中建立條目
 exl-id: 114b94e8-39f0-4e5d-abb0-27515957b33f
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 0%
+source-wordcount: '118'
+ht-degree: 15%
 
 ---
 
-# 直接在行銷行事曆中建立專案 {#create-entries-directly-in-the-marketing-calendar}
+# 直接在行銷行事曆中建立條目 {#create-entries-directly-in-the-marketing-calendar}
 
 Marketo可讓您使用方案焦點模式，直接在行銷行事曆中建立專案。 您可以建立下列專案型別：
 
 * 基本專案
 * 自訂專案
-* 電子郵件程式
-* Smart Campaign
+* 電子郵件方案
+* 智慧行銷活動
 
-1. 按一下&#x200B;**[!UICONTROL 行事曆]**&#x200B;圖磚。
+1. 按一下&#x200B;**[!UICONTROL Calendar]**&#x200B;圖磚。
 
    ![](assets/2017-05-10-15-30-47-2.png)
 
-1. 選取先前的專案，然後按一下&#x200B;**[!UICONTROL 顯示程式焦點]**。
+1. 選取先前的專案並按一下&#x200B;**[!UICONTROL Show Program Focus]**。
 
    ![](assets/image2014-10-20-13-3a7-3a55.png)
 

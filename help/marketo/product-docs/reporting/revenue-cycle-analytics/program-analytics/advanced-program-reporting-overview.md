@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953144
 description: 進階計畫報告概觀 — Marketo檔案 — 產品檔案
-title: 進階計畫報告概觀
+title: 進階方案報告概觀
 exl-id: 3b77fd34-a94f-4c6a-9b96-d326b46e731c
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '267'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 進階計畫報告概觀 {#advanced-program-reporting-overview}
+# 進階方案報告概觀 {#advanced-program-reporting-overview}
 
 **Revenue Cycle Explorer**&#x200B;包含數個分析區域，以及各種新量度，可讓您測量方案的成效。
 

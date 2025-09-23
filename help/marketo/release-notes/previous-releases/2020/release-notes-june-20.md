@@ -4,26 +4,26 @@ description: 發行說明–2020年6月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2020年6月
 exl-id: ffc39c9f-8c0c-45af-8ee6-f58971e230b9
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1031'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 發行說明： 2020年6月 {#release-notes-june}
+# 發行說明：2020 年 6 月 {#release-notes-june}
 
 2020年6月發行版本包含下列功能。 檢查您的Marketo版本是否有功能可用。
 
 >[!AVAILABILITY]
 >
->以星號(![](assets/yellow-star.png))表示的功能是付費附加元件。 請聯絡您的Marketo Engage代表以瞭解更多資訊。
+>以星號(![](assets/yellow-star.png))表示的功能是付費附加元件。 請聯絡您的 Marketo Engage 代表，了解更多相關資訊。
 
 **_每季發行_**&#x200B;下列功能將於&#x200B;**2020年6月5日**&#x200B;發行。
 
 ## 核心Marketo Engage {#core-marketo-engage}
 
-* **[預測對象](https://experienceleague.adobe.com/docs/marketo/sky/predictive-audiences/getting-started-with-predictive-audiences.html?lang=zh-Hant#predictive-audiences)** ![(star)](assets/yellow-star.png)：由Adobe Sensei支援的新智慧列示和智慧行銷活動篩選器可讓您為電子郵件、事件和網路研討會行銷方案建立AI支援的對象區段。 使用AI可協助您根據潛在客戶註冊事件、出席事件或取消訂閱的可能性來細分對象。 根據過去的計畫建立相似的受眾，以有效復寫先前的成功。 透過預測性目標追蹤達成轉換目標，並取得有關如何調整事件方案對象區段的建議。
+* **[預測對象](https://experienceleague.adobe.com/docs/marketo/sky/predictive-audiences/getting-started-with-predictive-audiences.html?lang=en#predictive-audiences)** ![(star)](assets/yellow-star.png)：由Adobe Sensei支援的新智慧列示和智慧行銷活動篩選器可讓您為電子郵件、事件和網路研討會行銷方案建立AI支援的對象區段。 使用AI可協助您根據潛在客戶註冊事件、出席事件或取消訂閱的可能性來細分對象。 根據過去的計畫建立相似的受眾，以有效復寫先前的成功。 透過預測性目標追蹤達成轉換目標，並取得有關如何調整事件方案對象區段的建議。
 * **批次電子郵件提升** ![(star)](assets/yellow-star.png)：增強我們的電子郵件行銷功能，可讓您每小時最多傳送300萬封批次電子郵件。 我們已重新架構批次行銷活動和電子郵件報告處理，以提升電子郵件程式和批次電子郵件行銷活動的效能。 這會縮短傳送的前置時間，並改善完成時間。 設定您的電子郵件傳送，如同您一般的作法，不會增加複雜性。 此增強功能可作為產品附加元件提供，其中也包含傳遞服務啟動套件、電子郵件傳遞工具和多個專用IP位址。
 * **[與Adobe Experience Cloud (AEC)的受眾整合](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)**：全新的Adobe Experience Cloud (AEC)整合，可讓您將Marketo Engage的已知潛在客戶靜態清單與多個AEC應用程式同步，以強化現有計畫、解鎖新使用案例，以及協調多管道行銷活動。 此整合包括Adobe Analytics、Adobe Target、Adobe Experience Manager、Adobe Audience Manager和Adobe Advertising Cloud。
 * **[方案成員自訂欄位](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md)**：擷取並利用方案成員的相關自訂欄位。 在Marketo Engage表單中使用這些新欄位、在方案的成員清單中檢視這些欄位、在智慧清單篩選器和觸發器中運用這些欄位，並將其納入新的智慧行銷活動流量動作中，以增強自動化和更精細的個人化。 您也可以透過UI和API匯入及匯出這些內容。 增強我們的自訂資料物件和欄位功能。
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    * 新帳戶探索是我們的帳戶設定檔功能的增強功能，可讓您根據由AI支援的理想客戶設定檔模型，為ABM策略探索全新目標帳戶。 檢視、選取和匯入建議的新帳戶，以及其以AI為基礎的配合和意圖資料指標。
 
-<br> 
+<br>
 
 **_整個季度發行_**
 
@@ -63,7 +63,7 @@ ht-degree: 0%
 
 * **[Salesforce CRM的深入分析儀表板](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)**：我們正在重新構想我們的[!DNL Sales Insight]功能，透過即將推出的行銷活動和行銷活動的全新可見度，讓賣家能夠根據客戶和潛在客戶的需求和興趣，提供更切合其需要的建議。 賣家也可以在時間軸內檢視聯絡人和帳戶活動，並輕鬆存取其他活動細節。 如需有關如何升級封裝的詳細資訊，請參閱[這裡](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md)。
 
-&quot;<br>&quot;
+<br>
 
 ## 公告 {#announcements}
 

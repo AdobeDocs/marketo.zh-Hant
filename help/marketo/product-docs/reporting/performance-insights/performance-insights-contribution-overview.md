@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12979008
 description: 效能深入分析貢獻概述 — Marketo檔案 — 產品檔案
-title: 績效分析貢獻概述
+title: 績效洞察貢獻概觀
 exl-id: 52d97100-b811-4f43-9833-b18ae098a0f3
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '347'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ![](assets/one-1.png)
 
-選取您要用來檢視效能的測量結果。 在此範例中，我們將檢視透過&#x200B;**[!UICONTROL Multi-Touch]**&#x200B;儀表板中的&#x200B;_[!UICONTROL Revenue]_&#x200B;贏得的機會。
+選取您要用來檢視效能的測量結果。 在此範例中，我們將檢視透過&#x200B;**[!UICONTROL Multi-Touch]**&#x200B;儀表板中的&#x200B;_[!UICONTROL Revenue]_贏得的機會。
 
 ![](assets/2.png)
 

@@ -4,10 +4,10 @@ description: 取消訂閱連結登陸頁面 — Marketo檔案 — 產品檔案
 title: 取消訂閱連結登陸頁面
 exl-id: 1ef22db5-56ca-47fb-894b-ef94ec4527ac
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '58'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 

@@ -3,14 +3,14 @@ unique-page-id: 17727823
 description: 發行說明 — 冬季』19年 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2019年冬季
 exl-id: 0cb3b3a1-472e-41d4-84f4-47f06e65017c
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1050'
 ht-degree: 0%
 
 ---
 
-# 發行說明： Winter &#39;19 {#release-notes-winter}
+# 發行說明：2019 年冬季 {#release-notes-winter}
 
 以下功能包含在2019年冬季發行版本中。 檢查您的Marketo版本是否有功能可用。
 
@@ -84,7 +84,7 @@ ht-degree: 0%
 
 為指定帳戶中的特定角色個人化ABM行銷活動。 ABM角色功能會根據潛在客戶細分建立預設職稱，並允許設定其他角色細分。
 
-## Analytics {#analytics}
+## 分析 {#analytics}
 
 **[!DNL Bizible]**
 

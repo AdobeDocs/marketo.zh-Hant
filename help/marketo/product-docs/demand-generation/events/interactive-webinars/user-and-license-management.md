@@ -3,10 +3,10 @@ description: 使用者和授權管理 — Marketo檔案 — 產品檔案
 title: 使用者和授權管理
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars
-source-git-commit: fe167b4a70a23f129d56ed20ac6c1ed1130049ef
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '717'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 
    ![](assets/user-and-license-management-3.png)
 
-1. 按一下「可用的使用者」下拉式清單，選取您要新增的使用者，然後按一下「確定」**&#x200B;**。
+1. 按一下「可用的使用者」下拉式清單，選取您要新增的使用者，然後按一下「確定」****。
 
    ![](assets/user-and-license-management-4.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359971
 description: 網頁活動報表 — Marketo檔案 — 產品檔案
-title: 網頁活動報表
+title: 網頁活動報告
 exl-id: 35bd37bd-e7b9-4418-b2c9-af5989f44b9f
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '319'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# 網頁活動報表 {#web-page-activity-report}
+# 網頁活動報告 {#web-page-activity-report}
 
 在此報表中，您可以檢視誰正在造訪您的網站，甚至可以訂閱報表的電子郵件版本。
 
@@ -50,7 +50,7 @@ ht-degree: 1%
  </thead>
  <tbody>
   <tr>
-   <td>個人</td>
+   <td>人員</td>
    <td>訪客的名稱、職稱和公司。<br><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md" target="_blank">按一下</a></strong>以檢視造訪的頁面。</td>
   </tr>
   <tr>

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719408
 description: 編輯現有的網站行銷活動 — Marketo檔案 — 產品檔案
-title: 編輯現有的網站行銷活動
+title: 編輯現有的網頁行銷活動
 exl-id: 2c20f57d-2ee4-4d81-a8db-7d4de319fa78
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '55'
-ht-degree: 0%
+ht-degree: 18%
 
 ---
 
-# 編輯現有的網站行銷活動 {#edit-an-existing-web-campaign}
+# 編輯現有的網頁行銷活動 {#edit-an-existing-web-campaign}
 
 1. 移至&#x200B;**[!UICONTROL Web Campaigns]**。
 

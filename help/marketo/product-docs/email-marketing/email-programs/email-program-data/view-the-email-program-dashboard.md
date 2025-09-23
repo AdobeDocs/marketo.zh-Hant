@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359469
 description: 檢視電子郵件程式控制面板 — Marketo檔案 — 產品檔案
-title: 檢視電子郵件計畫控制面板
+title: 檢視電子郵件方案儀表板
 exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
 feature: Email Programs
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '223'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 檢視電子郵件計畫控制面板 {#view-the-email-program-dashboard}
+# 檢視電子郵件方案儀表板 {#view-the-email-program-dashboard}
 
 檢視您的電子郵件計畫（無論有無A/B測試）如何使用此儀表板執行。
 

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10092916
 description: 範本20C - Marketo檔案 — 產品檔案
-title: 範本20C
+title: 範本 20C
 exl-id: 204c00f7-d0a4-4edc-a738-9ec29f442a6a
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '45'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# 範本20C {#template-20c}
+# 範本 20C {#template-20c}
 
-按一下滑鼠右鍵以[下載範本20C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20c.html?lang=zh-Hant)
+按一下滑鼠右鍵以[下載範本20C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20c.html)
 
 ![](assets/template-20c.png)
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 **在下方按一下滑鼠右鍵以下載此範本：**
 
-[範本20C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20c.html?lang=zh-Hant)
+[範本20C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20c.html)

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14746470
 description: 設定自訂傳遞管道 — Marketo檔案 — 產品檔案
-title: 設定自訂傳遞通道
+title: 設定自訂傳遞管道
 exl-id: a31f7bfd-a4ee-4948-9bdc-b49d47054d40
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '353'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 設定自訂傳遞通道 {#setting-up-a-custom-delivery-channel}
+# 設定自訂傳遞管道 {#setting-up-a-custom-delivery-channel}
 
 [!DNL Marketo Sales Connect]可讓您整合自訂SMTP伺服器，以傳遞您的電子郵件。 對於不想從Gmail或[!DNL Exchange]傳遞通道傳送大量電子郵件的使用者，這是一個很好的選項。
 

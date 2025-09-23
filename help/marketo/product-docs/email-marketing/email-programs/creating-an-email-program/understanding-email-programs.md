@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953572
 description: 瞭解電子郵件程式 — Marketo檔案 — 產品檔案
-title: 瞭解電子郵件程式
+title: 了解電子郵件方案
 exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '314'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 瞭解電子郵件程式 {#understanding-email-programs}
+# 了解電子郵件方案 {#understanding-email-programs}
 
 傳送電子郵件、建立A/B測試，以及追蹤您的結果，全都集中在一處。
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ![](assets/emailprogram.png)
 
-## A/B測試 {#a-b-testing}
+## A/B 測試 {#a-b-testing}
 
 A/B測試可讓您證明哪封電子郵件最好。
 

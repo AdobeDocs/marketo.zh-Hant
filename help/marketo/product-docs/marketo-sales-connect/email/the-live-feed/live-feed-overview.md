@@ -1,17 +1,17 @@
 ---
 unique-page-id: 13796471
 description: 即時摘要概觀 — Marketo檔案 — 產品檔案
-title: 即時摘要概觀
+title: 即時動態概觀
 exl-id: 646a3650-538d-4ea5-b29f-44ad6588e247
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '389'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 即時摘要概觀 {#live-feed-overview}
+# 即時動態概觀 {#live-feed-overview}
 
 即時摘要是可從Web應用程式或Gmail外掛程式啟動的浮動視窗，可即時檢視潛在客戶參與情形。
 

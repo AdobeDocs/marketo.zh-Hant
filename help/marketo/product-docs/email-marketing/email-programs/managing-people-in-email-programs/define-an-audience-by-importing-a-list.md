@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900597
 description: 透過匯入清單來定義對象 — Marketo檔案 — 產品檔案
-title: 透過匯入清單來定義對象
+title: 透過匯入清單定義客群
 exl-id: 9a63f4a5-1d76-4671-9622-19eb368d196f
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '363'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
-# 透過匯入清單來定義對象 {#define-an-audience-by-importing-a-list}
+# 透過匯入清單定義客群 {#define-an-audience-by-importing-a-list}
 
 >[!PREREQUISITES]
 >
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >只有當電子郵件計畫未獲核準時，定義您的對象才能運作。
 >
->匯入的任何日期/時間欄位都會視為中央時間。 如果您的日期/時間欄位位於不同的時區，可以使用Excel公式將其轉換為中部時間（美洲/芝加哥）。
+>所匯入的任何日期/時間欄位均被視為北美中部時間。若您有位在不同時區的日期/時間欄位，可以使用 Excel 公式將其轉換為北美中部時間 (美國/芝加哥)。
 
 1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
@@ -63,8 +63,8 @@ ht-degree: 0%
 >
 >您注意到封鎖的號碼嗎？ 此數字是合格人員的子集，代表因下列原因而無法傳送此電子郵件的人員：
 >
->* 退訂
->* 行銷活動已暫停
+>* 已取消訂閱
+>* 行銷活動暫停
 >* 已加入封鎖清單
 >* 電子郵件無效
 >* 空白電子郵件

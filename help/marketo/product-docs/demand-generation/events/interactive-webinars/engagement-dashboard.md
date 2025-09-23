@@ -3,7 +3,7 @@ description: 參與儀表板 — Marketo檔案 — 產品檔案
 title: 參與儀表板
 feature: Interactive Webinars
 exl-id: 7fdb922a-a67a-4027-b9c2-8d8833c8eba0
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1700'
 ht-degree: 0%

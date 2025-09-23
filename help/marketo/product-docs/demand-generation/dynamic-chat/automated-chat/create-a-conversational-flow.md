@@ -1,28 +1,28 @@
 ---
 description: 建立對話流程 — Marketo檔案 — 產品檔案
-title: 建立對話流程
+title: 建立交談流程
 feature: Dynamic Chat
 exl-id: 2a4a87e4-13d8-4546-a9c0-75f36f5d83c9
-source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 0%
+source-wordcount: '82'
+ht-degree: 10%
 
 ---
 
-# 建立對話流程 {#create-a-conversational-flow}
+# 建立交談流程 {#create-a-conversational-flow}
 
 以下說明如何建立新的對話流程。
 
-1. 在[!UICONTROL 自動聊天]下，按一下&#x200B;**[!UICONTROL 交談流程]**。
+1. 在[!UICONTROL Automated Chat]底下，按一下&#x200B;**[!UICONTROL Conversational Flows]**。
 
    ![](assets/create-a-conversational-flow-1.png)
 
-1. 按一下&#x200B;**[!UICONTROL 建立對話流程]**。
+1. 按一下「**[!UICONTROL Create Conversational Flow]**」。
 
    ![](assets/create-a-conversational-flow-2.png)
 
-1. 選擇空白的「對話流程」或其中一個預先填入的範本。 輸入名稱（說明是選擇性的）、變更語言（選擇性），然後按一下&#x200B;**[!UICONTROL 建立]**。
+1. 選擇空白的「對話流程」或其中一個預先填入的範本。 輸入名稱（說明為選用）、變更語言（選用），然後按一下&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/create-a-conversational-flow-3.png)
 

@@ -1,16 +1,16 @@
 ---
 description: 將任務指派給團隊成員 — Marketo檔案 — 產品檔案
-title: 將任務指派給團隊成員
+title: 指派工作予團隊成員
 exl-id: 8f35afb8-d1c2-4f09-8653-3309f08c991d
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '114'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# 將任務指派給團隊成員 {#assigning-tasks-to-team-members}
+# 指派工作予團隊成員 {#assigning-tasks-to-team-members}
 
 如果您想要與其他團隊成員合作，指派任務可能是協調您的潛在客戶工作的好方法。
 

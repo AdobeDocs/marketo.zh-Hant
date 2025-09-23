@@ -1,24 +1,24 @@
 ---
 unique-page-id: 37357043
 description: 功能概述 — Marketo檔案 — 產品檔案
-title: 功能概述
+title: 功能概觀
 exl-id: 3e6f21bf-3383-4e2d-952f-9b4e67896a58
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '168'
-ht-degree: 11%
+ht-degree: 13%
 
 ---
 
-# 功能概述 {#feature-overview}
+# 功能概觀 {#feature-overview}
 
 以下功能可在新的MSI MSD解決方案中使用。
 
 ## 潛在客戶配置中的[!DNL Marketo Sales Insight]面板  {#marketo-sales-insight-panel-in-lead-layout}
 
 * 星星和火焰
-* 精彩時刻
+* 關鍵時刻
 * 網頁活動
 * 分數
 * 電子郵件（開啟並按一下）
@@ -43,7 +43,7 @@ ht-degree: 11%
 ## 連絡人版面配置中的[!DNL Marketo Sales Insight]面板  {#marketo-sales-insight-panel-in-contact-layout}
 
 * 星星和火焰
-* 精彩時刻
+* 關鍵時刻
 * 網頁活動
 * 分數
 * 電子郵件（開啟並按一下）
@@ -68,7 +68,7 @@ ht-degree: 11%
 ## 帳戶配置中的[!DNL Marketo Sales Insight]面板 {#marketo-sales-insight-panel-in-account-layout}
 
 * 星星和火焰
-* 精彩時刻
+* 關鍵時刻
 * 網頁活動
 * 分數
 * 電子郵件（開啟並按一下）
@@ -78,6 +78,6 @@ ht-degree: 11%
 * 優先順序（星星和火焰）
 * 名稱（超連結至銷售機會/聯絡人頁面）
 * 帳戶
-* 精彩時刻
+* 關鍵時刻
 * 狀態
 * 銷售機會摘要 — 包含訂閱IM的功能

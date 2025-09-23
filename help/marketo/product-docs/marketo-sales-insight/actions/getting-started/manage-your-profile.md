@@ -1,10 +1,10 @@
 ---
 description: 管理您的設定檔 — Marketo檔案 — 產品檔案
 title: 管理您的設定檔
-source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '258'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![](assets/manage-your-profile-1.png)
 
-1. 您的「我的設定檔」頁面預設會開啟。 若要更新您的名稱，只要輸入變更並按一下[儲存]。**&#x200B;**
+1. 您的「我的設定檔」頁面預設會開啟。 若要更新您的名稱，只要輸入變更並按一下[儲存]。****
 
    ![](assets/manage-your-profile-2.png)
 

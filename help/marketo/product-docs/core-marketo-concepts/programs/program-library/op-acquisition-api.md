@@ -1,16 +1,16 @@
 ---
 description: OP-Acquisition-API - Marketo檔案 — 產品檔案
-title: OP-Acquisition-API
+title: OP-贏取-API
 feature: Programs
 exl-id: abf7c4a0-c363-4e92-9a1f-197c3953c515
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '171'
-ht-degree: 4%
+ht-degree: 5%
 
 ---
 
-# OP-Acquisition-API {#op-acquisition-api}
+# OP-贏取-API {#op-acquisition-api}
 
 此範常式式適用於利用Marketo Engage預設程式來追蹤從API來源取得記錄的作業流程。
 
@@ -19,7 +19,7 @@ ht-degree: 4%
 <table style="table-layout:auto">
  <tbody>
   <tr>
-   <th>頻道</th>
+   <th>管道</th>
    <th>成員資格狀態</th>
    <th>Analytics行為</th>
    <th>計畫型別</th>

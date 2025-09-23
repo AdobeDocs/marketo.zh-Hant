@@ -1,21 +1,21 @@
 ---
 unique-page-id: 4718677
 description: 複製Marketo範例收入模型 — Marketo檔案 — 產品檔案
-title: 複製Marketo範例收入模型
+title: 原地複製 Marketo 範例收入模型
 exl-id: 121a80bc-953e-47ed-9fdf-159fbb5595a6
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '68'
-ht-degree: 0%
+ht-degree: 23%
 
 ---
 
-# 複製Marketo範例收入模型 {#cloning-a-marketo-example-revenue-model}
+# 原地複製 Marketo 範例收入模型 {#cloning-a-marketo-example-revenue-model}
 
 Marketo提供範例收入模型協助您獲得靈感。 原地複製這些模型化工具，並將其打造為您自己的模型。 方法如下：
 
-1. 移至&#x200B;**[!UICONTROL Analytics]**&#x200B;區域。
+1. 前往「**[!UICONTROL Analytics]**」區域。
 
    ![](assets/image2015-4-27-17-3a37-3a30.png)
 

@@ -1,15 +1,15 @@
 ---
-description: 我的銷售活動和活動欄位為何未同步至Salesforce？ - Marketo檔案 — 產品檔案
-title: 我的銷售活動和活動欄位為何未同步至Salesforce？
+description: 我的銷售活動和活動欄位為何未同步至Salesforce？ - Marketo 文件 - 產品文件
+title: 為什麼我的銷售活動和活動欄位沒有同步至 Salesforce？
 exl-id: 5da855f2-18c6-456a-9e5d-ef4499596b3c
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '327'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# 我的銷售活動和活動欄位為何未同步至Salesforce？ {#why-arent-my-sales-activities-and-activity-fields-syncing-to-salesforce}
+# 為什麼我的銷售活動和活動欄位沒有同步至 Salesforce？ {#why-arent-my-sales-activities-and-activity-fields-syncing-to-salesforce}
 
 **我沒有看到同步至Salesforce的電子郵件或通話活動。**
 

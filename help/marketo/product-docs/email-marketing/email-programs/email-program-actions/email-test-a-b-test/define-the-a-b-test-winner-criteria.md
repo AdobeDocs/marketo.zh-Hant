@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359545
 description: 定義A/B測試獲勝者條件 — Marketo檔案 — 產品檔案
-title: 定義A/B測試獲勝者條件
+title: 定義 A/B 測試勝出條件
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
 feature: Email Programs, A/B Testing
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '406'
-ht-degree: 0%
+ht-degree: 21%
 
 ---
 
-# 定義A/B測試獲勝者條件 {#define-the-a-b-test-winner-criteria}
+# 定義 A/B 測試勝出條件 {#define-the-a-b-test-winner-criteria}
 
 當[將A/B測試](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"}新增至您的電子郵件程式時，您必須挑選測試型別，[排程A/B測試](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"}，然後定義獲勝者條件。 以下說明如何決定哪封電子郵件入選。
 
@@ -32,15 +32,15 @@ ht-degree: 0%
    </tr>
    <tr>
    <td><b>[!UICONTROL Clicks]</b></td>
-   <td>依預設，電子郵件中的連結內嵌追蹤，可讓您檢視誰點按了哪個連結、點選連結總數等。</td>
+   <td>預設情況下，電子郵件中的連結會嵌入追蹤功能，讓您可以查看誰點按過哪個連結、總共點按了多少個連結等。</td>
    </tr>
    <tr>
    <td><b>[!UICONTROL Click to Open] %</b></td>
-   <td>已開啟且有連結在電子郵件中點按的電子郵件百分比。 這會測量電子郵件的相關性和內容，方法是使用不重複點按次數除以不重複開啟次數，然後乘以100以百分比顯示。</td>
+   <td>電子郵件被開啟而且內含連結被點按的百分比。此數值將不重複點按次數除以不重複開啟次數，然後乘以 100 來用百分比呈現，可衡量電子郵件的相關性和內容。</td>
    </tr>
    <tr>
    <td><b>[!UICONTROL Engagement Score]</b></td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html?lang=zh-Hant" target="_blank">參與分數</a>可協助您判斷內容的有效性。</td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html" target="_blank">參與分數</a>可協助您判斷內容的有效性。</td>
    </tr>
    </table>
 

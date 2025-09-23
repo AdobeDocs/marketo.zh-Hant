@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359673
 description: 新增工具提示指示至表單欄位 — Marketo檔案 — 產品檔案
-title: 新增工具提示指示到表單欄位
+title: 新增工具提示說明至表單欄位
 exl-id: 455d19de-2e2b-447d-a210-7d77fdda6dc9
 feature: Forms
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '114'
-ht-degree: 1%
+ht-degree: 14%
 
 ---
 
-# 新增工具提示指示到表單欄位 {#add-tooltip-instructions-to-a-form-field}
+# 新增工具提示說明至表單欄位 {#add-tooltip-instructions-to-a-form-field}
 
 [提示](/help/marketo/product-docs/demand-generation/forms/form-fields/add-hint-text-to-a-form-field.md)和說明可協助人員填寫表格。 以下說明如何新增工具提示指示。
 

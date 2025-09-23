@@ -2,7 +2,7 @@
 description: 發行說明 — 2025年8月 — Marketo檔案 — 產品檔案
 title: 發行說明 - 2025 年 8 月
 feature: Release Information
-source-git-commit: 29c1b59c9d2598626f546554a8bdc1b26b9e1590
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '598'
 ht-degree: 92%

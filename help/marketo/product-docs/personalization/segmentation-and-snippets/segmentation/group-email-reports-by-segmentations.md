@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359488
 description: 依區段分組電子郵件報表 — Marketo檔案 — 產品檔案
-title: 依區段對電子郵件報表分組
+title: 按照細分將電子郵件報告分組
 exl-id: dd023dca-02a4-40c7-9cb8-53024597e671
 feature: Segmentation
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 2%
+ht-degree: 15%
 
 ---
 
-# 依區段對電子郵件報表分組 {#group-email-reports-by-segmentations}
+# 按照細分將電子郵件報告分組 {#group-email-reports-by-segmentations}
 
 區段不只適用於動態內容。 您也可以依區段將電子郵件效能報表分組。
 
@@ -35,7 +35,7 @@ ht-degree: 2%
 
    ![](assets/image2014-9-16-9-3a17-3a9.png)
 
-1. 完成了！按一下「**[!UICONTROL Report]**」標籤。 如果使用單一區段，報表會針對每個區段顯示一列。
+1. 完成了！按一下「**[!UICONTROL Report]**」索引標籤。如果使用單一區段，報表會針對每個區段顯示一列。
 
    ![](assets/image2014-9-16-9-3a17-3a17.png)
 

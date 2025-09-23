@@ -1,25 +1,25 @@
 ---
 unique-page-id: 2359870
 description: 尋找已上傳影像或檔案的URL - Marketo檔案 — 產品檔案
-title: 尋找已上傳影像或檔案的URL
+title: 尋找已上傳影像或檔案的 URL
 exl-id: 7aa137cc-7398-40a1-9994-97ca53c88837
 feature: Image Editor
-source-git-commit: fbfbc22477b5e1596a2491cb34cf2bd63601bc63
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 0%
+source-wordcount: '65'
+ht-degree: 29%
 
 ---
 
-# 尋找已上傳影像或檔案的URL {#find-the-url-of-an-uploaded-image-or-file}
+# 尋找已上傳影像或檔案的 URL {#find-the-url-of-an-uploaded-image-or-file}
 
 正在尋找您所上傳之影像或檔案的網址(URL)？
 
-1. 移至&#x200B;**[!UICONTROL 設計工作室]**。
+1. 移至&#x200B;**[!UICONTROL Design Studio]**。
 
    ![](assets/find-the-url-of-an-uploaded-image-or-file-1.png)
 
-1. 按一下&#x200B;**[!UICONTROL 影像和檔案]**。
+1. 按一下「**[!UICONTROL Images and Files]**」。
 
    ![](assets/find-the-url-of-an-uploaded-image-or-file-2.png)
 

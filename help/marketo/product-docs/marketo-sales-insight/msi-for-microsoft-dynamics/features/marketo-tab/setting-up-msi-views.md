@@ -1,16 +1,16 @@
 ---
 description: 設定MSI檢視 — Marketo檔案 — 產品檔案
-title: 設定MSI檢視
+title: 設定 MSI 視圖
 exl-id: 8a45c006-73d4-4af8-ad62-b084056d1f7d
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '236'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 設定MSI檢視 {#setting-up-msi-views}
+# 設定 MSI 視圖 {#setting-up-msi-views}
 
 在Dynamics中安裝[!DNL Sales Insight]外掛程式會自動在網站地圖上新增[!DNL Best Bets]和相關儀表板。 如果由於某種原因沒有新增儀表板，以下說明如何手動新增儀表板。
 

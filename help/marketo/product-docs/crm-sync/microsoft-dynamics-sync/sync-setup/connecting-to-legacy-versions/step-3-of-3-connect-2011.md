@@ -4,7 +4,7 @@ description: 步驟3之3 — 使用Marketo （2011年內部部署）連線 [!DNL
 title: 步驟3之3 — 使用Marketo連線 [!DNL Microsoft Dynamics]  （2011內部部署）
 exl-id: e6a5d49d-025a-4899-9e92-7a4c32086c67
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '344'
 ht-degree: 0%

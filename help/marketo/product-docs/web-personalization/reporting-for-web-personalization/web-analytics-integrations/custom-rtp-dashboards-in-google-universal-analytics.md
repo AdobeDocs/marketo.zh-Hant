@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7504238
 description: Google Universal Analytics中的自訂RTP儀表板 — Marketo檔案 — 產品檔案
-title: Google Universal Analytics中的自訂RTP儀表板
+title: Google Universal Analytics 中的自訂 RTP 儀表板
 exl-id: 712c71b6-74eb-4743-9ca8-50c912278e62
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '750'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Google Universal Analytics中的自訂RTP儀表板 {#custom-rtp-dashboards-in-google-universal-analytics}
+# Google Universal Analytics 中的自訂 RTP 儀表板 {#custom-rtp-dashboards-in-google-universal-analytics}
 
 >[!PREREQUISITES]
 >
@@ -43,7 +43,7 @@ ht-degree: 0%
 儀表板包含3欄
 
 * 流量來源
-* 分段
+* 細分
 * 第一層向下切入
 
 1. 建立名為&#x200B;**RTP B2B儀表板**&#x200B;的新儀表板，並定義下列Widget：

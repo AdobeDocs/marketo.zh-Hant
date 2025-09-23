@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147340
 description: 傳送潛在客戶擁有者的電子郵件 — Marketo檔案 — 產品檔案
-title: 從潛在客戶擁有者傳送電子郵件
+title: 傳送來自商機所有者的電子郵件
 exl-id: b7ceb976-f52f-4134-8b7e-1c18d09af5de
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '183'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# 從潛在客戶擁有者傳送電子郵件 {#send-emails-from-the-lead-owner}
+# 傳送來自商機所有者的電子郵件 {#send-emails-from-the-lead-owner}
 
 如果您要代表潛在客戶擁有者傳送電子郵件給潛在客戶，該怎麼做？  方法如下。
 

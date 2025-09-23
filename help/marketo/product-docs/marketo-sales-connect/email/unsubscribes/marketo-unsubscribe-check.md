@@ -1,17 +1,17 @@
 ---
 unique-page-id: 18317340
 description: Marketo取消訂閱檢查 — Marketo檔案 — 產品檔案
-title: Marketo取消訂閱檢查
+title: Marketo 取消訂閱檢查
 exl-id: b8bd5b38-a4f5-4ac7-a5ce-a155fce57998
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '179'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Marketo取消訂閱檢查 {#marketo-unsubscribe-check}
+# Marketo 取消訂閱檢查 {#marketo-unsubscribe-check}
 
 [!UICONTROL Marketo Unsubscribe Check]會使用您團隊與Marketo的連線，防止電子郵件傳送給已在Marketo的潛在客戶管理系統中取消訂閱的使用者。 當銷售使用者傳送包含[!DNL Sales Connect]的電子郵件時，將會對Marketo進行API呼叫，以檢查電子郵件ID是否已取消訂閱。 如果是，我們將封鎖電子郵件的傳送。
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/four-2.png)
 
-## 須知 {#things-to-know}
+## 應知事項 {#things-to-know}
 
 Marketo取消訂閱檢查……
 

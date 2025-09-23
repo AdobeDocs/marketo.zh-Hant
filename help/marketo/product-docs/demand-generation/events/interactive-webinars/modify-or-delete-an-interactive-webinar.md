@@ -1,16 +1,16 @@
 ---
 description: 修改或刪除互動式網路研討會 — Marketo檔案 — 產品檔案
-title: 修改或刪除互動式網路研討會
+title: 修改或移除互動式網路研討會
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
 feature: Interactive Webinars
-source-git-commit: d2f8a90cf780fc5db6a4f148a53968a53df835a4
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '314'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 修改或刪除互動式網路研討會 {#modify-or-delete-an-interactive-webinar}
+# 修改或移除互動式網路研討會 {#modify-or-delete-an-interactive-webinar}
 
 瞭解如何變更您的互動式網路研討會。
 
@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![](assets/modify-or-delete-an-interactive-webinar-1.png)
 
-1. 房間將會載入。 如果要變更會議室，請從「會議室」下拉式清單中選取一個會議室。 若要更新您的範本，請按一下[使用聊天室]。**&#x200B;**
+1. 房間將會載入。 如果要變更會議室，請從「會議室」下拉式清單中選取一個會議室。 若要更新您的範本，請按一下[使用聊天室]。****
 
    ![](assets/modify-or-delete-an-interactive-webinar-2.png)
 
@@ -64,7 +64,7 @@ ht-degree: 0%
    >
    >您也可以在樹狀結構中的Event Program上按一下滑鼠右鍵，然後選取&#x200B;**複製**。
 
-1. 為複製的程式命名，設定Workspace和目的地（如果您希望程式存放在其他地方），然後按一下[儲存]。**&#x200B;**
+1. 為複製的程式命名，設定Workspace和目的地（如果您希望程式存放在其他地方），然後按一下[儲存]。****
 
    ![](assets/modify-or-delete-an-interactive-webinar-10.png)
 
@@ -74,7 +74,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >目前您只能將複製的互動式網路研討會儲存為互動式網路研討會。 將複製的網路研討會儲存為合作夥伴網路研討會（例如Zoom、ON24等） 即將推出。
+   >目前您只能將複製的互動式網路研討會儲存為互動式網路研討會。 將複製的網路研討會儲存為合作夥伴網路研討會（例如Zoom、ON24等）即將推出。
 
 1. 選擇複製網路研討會的設定，然後按一下&#x200B;**複製**。
 

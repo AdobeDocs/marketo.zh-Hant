@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352473
 description: 如何在Salesforce中安裝Sales Connect按鈕 — Marketo檔案 — 產品檔案
-title: 如何在Salesforce中安裝Sales Connect按鈕
+title: 如何在 Salesforce 中安裝 Sales Connect 按鈕
 exl-id: 8c263c46-5e49-4637-9316-5770e74117fc
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '104'
-ht-degree: 4%
+ht-degree: 20%
 
 ---
 
-# 如何在Salesforce中安裝Sales Connect按鈕 {#how-to-install-sales-connect-buttons-in-salesforce}
+# 如何在 Salesforce 中安裝 Sales Connect 按鈕 {#how-to-install-sales-connect-buttons-in-salesforce}
 
 使用Marketo Sales Connect輕鬆安裝通話、傳送Marketo銷售電子郵件，並新增至Campaign。 您必須有[!DNL Salesforce]中的管理員許可權才能安裝這些欄位。
 

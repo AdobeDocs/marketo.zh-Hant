@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147034
 description: 新增至SFDC Campaign - Marketo檔案 — 產品檔案
-title: 新增至SFDC Campaign
+title: 新增至 SFDC 行銷活動
 exl-id: a5e14cc7-fd83-4a2c-aacb-e515669c9d21
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '173'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 新增至SFDC Campaign {#add-to-sfdc-campaign}
+# 新增至 SFDC 行銷活動 {#add-to-sfdc-campaign}
 
 此流程步驟可用於Marketo Engage行銷活動，或作為單一流程步驟，在Salesforce行銷活動中將人員新增為銷售機會。 如果Salesforce中尚未存在潛在客戶，則會自動將其同步並新增至具有指定狀態的促銷活動。
 

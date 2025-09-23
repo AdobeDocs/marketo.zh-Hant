@@ -1,17 +1,17 @@
 ---
 unique-page-id: 13795510
 description: TAM階層 — Marketo檔案 — 產品檔案
-title: TAM階層
+title: TAM 階層
 exl-id: 41364270-bd85-4ca3-921e-842c0dedc167
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '140'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# TAM階層 {#tam-hierarchies}
+# TAM 階層 {#tam-hierarchies}
 
 階層讓TAM使用者能夠繼承其CRM中[!UICONTROL Named Accounts]之間的父項/子項關係。
 

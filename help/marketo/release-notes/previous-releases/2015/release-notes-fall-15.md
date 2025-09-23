@@ -4,10 +4,10 @@ description: 發行說明 — 2015年秋季 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2015年秋季
 exl-id: b8a43086-a4d8-432d-89ac-14c75c6f0609
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '966'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -29,9 +29,9 @@ ht-degree: 0%
 
 ![](assets/image2015-10-1-17-3a11-3a50.png)
 
-## Marketo自訂物件 {#marketo-custom-objects}
+## Marketo 自訂物件 {#marketo-custom-objects}
 
-[Marketo自訂物件](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+[Marketo 自訂物件](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
 從管理員UI輕鬆建立自訂物件。 我們目前支援在Marketo中建立1:N自訂物件的功能，並將其連線到潛在客戶或公司。
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 ## Marketo Mobile參與度 — Token、傳送範例及預覽 {#marketo-mobile-engagement-tokens-send-sample-preview}
 
-* [Token](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
+* [權杖](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
 * [傳送範例](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)
 * [預覽](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md)
 

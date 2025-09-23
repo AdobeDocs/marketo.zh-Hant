@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359549
 description: 使用電子郵件程式控制面板 — A/B測試檢視 — Marketo檔案 — 產品檔案
-title: 使用電子郵件計畫控制面板 — A/B測試檢視
+title: 使用電子郵件方案儀表板 - A/B 測試視圖
 exl-id: c261bb05-db22-4f54-a30c-58963843584f
 feature: Email Programs, A/B Testing
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '110'
-ht-degree: 1%
+ht-degree: 18%
 
 ---
 
-# 使用電子郵件計畫控制面板 — A/B測試檢視 {#use-the-email-program-dashboard-a-b-test-view}
+# 使用電子郵件方案儀表板 - A/B 測試視圖 {#use-the-email-program-dashboard-a-b-test-view}
 
 檢視您的[電子郵件程式A/B測試](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)如何使用此儀表板執行。
 

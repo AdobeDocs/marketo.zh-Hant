@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7516467
 description: 範本2A - Marketo檔案 — 產品檔案
-title: 範本2A
+title: 範本 2A
 exl-id: dcffaab5-8944-425b-aac3-2906ce3718b1
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '57'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# 範本2A {#template-2a}
+# 範本 2A {#template-2a}
 
-按一下滑鼠右鍵以[下載範本2A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2a.html?lang=zh-Hant)
+按一下滑鼠右鍵以[下載範本2A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2a.html)
 
 ![](assets/image2015-6-2-15-3a17-3a17.png)
 
@@ -29,4 +29,4 @@ ht-degree: 0%
 
 **在下方按一下滑鼠右鍵以下載此範本：**
 
-[範本2A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2a.html?lang=zh-Hant)
+[範本2A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2a.html)

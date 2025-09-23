@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360389
 description: 在「收入總管」與「分析器 — Marketo檔案 — 產品檔案」中，提供不含期間成本的方案
-title: 在收入總管與分析器中提供不含期間成本的程式
+title: 讓營收總管及分析工具可以包含沒有期間成本的方案
 exl-id: 45a24b9f-d92f-4f48-a7d1-0be14cd128b1
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '245'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# 在收入總管與分析器中提供不含期間成本的程式 {#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
+# 讓營收總管及分析工具可以包含沒有期間成本的方案 {#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
 
 方案期間成本可讓您定義方案的「金額」和「時間」。 這會顯示在Revenue Cycle Explorer和[分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)中。
 

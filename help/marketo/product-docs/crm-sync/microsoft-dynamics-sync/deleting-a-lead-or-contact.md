@@ -1,17 +1,17 @@
 ---
 unique-page-id: 45417322
 description: 刪除銷售機會或連絡人 — Marketo檔案 — 產品檔案
-title: 刪除潛在客戶或連絡人
+title: 刪除商機或聯絡人
 exl-id: d561b424-6a2b-4abe-b9bd-81eb23f1a25b
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '150'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# 刪除潛在客戶或連絡人 {#deleting-a-lead-or-contact}
+# 刪除商機或聯絡人 {#deleting-a-lead-or-contact}
 
 關於刪除[!DNL Microsoft Dynamics]中的銷售機會/聯絡人，有幾件事需要知道。
 

@@ -4,10 +4,10 @@ description: 匯入非拉丁字元清單 — Marketo檔案 — 產品檔案
 title: 匯入非拉丁字元清單
 exl-id: 11519e2c-ab01-4164-8ce3-0717e4c13ae6
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '292'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
@@ -69,6 +69,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >匯入的任何日期/時間欄位都會視為中央時間。 如果您的日期/時間欄位位於不同的時區，可以使用Excel公式將其轉換為中部時間（美洲/芝加哥）。
+   >所匯入的任何日期/時間欄位均被視為北美中部時間。若您有位在不同時區的日期/時間欄位，可以使用 Excel 公式將其轉換為北美中部時間 (美國/芝加哥)。
 
 我們知道這很奇怪，但它很管用。 匯入愉快！

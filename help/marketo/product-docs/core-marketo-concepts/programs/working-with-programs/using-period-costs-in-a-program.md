@@ -1,35 +1,35 @@
 ---
 unique-page-id: 1147118
 description: 在程式中使用期間成本 — Marketo檔案 — 產品檔案
-title: 在程式中使用期間成本
+title: 在方案中使用期間成本
 exl-id: 3f00dc09-797a-4f21-bb56-45a1f9b6e5bf
 feature: Programs
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '211'
-ht-degree: 1%
+source-wordcount: '194'
+ht-degree: 8%
 
 ---
 
-# 在程式中使用期間成本 {#using-period-costs-in-a-program}
+# 在方案中使用期間成本 {#using-period-costs-in-a-program}
 
 [期間成本](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md){target="_blank"}是您在方案上花費的金額。 此維度可為一或多個月，並用於回報ROI。
 
 ## 新增期間成本  {#add-a-period-cost}
 
-1. 前往您程式的&#x200B;**[!UICONTROL 設定]**&#x200B;標籤。
+1. 前往您程式的&#x200B;**[!UICONTROL Setup]**&#x200B;標籤。
 
    ![](assets/image2014-9-18-12-3a9-3a46.png)
 
-1. 將&#x200B;**[!UICONTROL 期間成本]**&#x200B;拖放到畫布中。
+1. 將&#x200B;**[!UICONTROL Period Cost]**&#x200B;拖放到畫布中。
 
    ![](assets/image2014-9-18-12-3a9-3a57.png)
 
-1. 按一下日曆圖示。 選取月份。 按一下&#x200B;**[!UICONTROL 確定]**。
+1. 按一下日曆圖示。 選取月份。 按一下「**[!UICONTROL OK]**」。
 
    ![](assets/image2014-9-18-12-3a10-3a13.png)
 
-1. 輸入&#x200B;**[!UICONTROL 期間成本]** （不含小數或逗號）。 按一下&#x200B;**[!UICONTROL 保存]**。
+1. 輸入&#x200B;**[!UICONTROL Period Cost]** （不含小數或逗號）。 按一下「**[!UICONTROL Save]**」。
 
    >[!NOTE]
    >
@@ -49,29 +49,29 @@ ht-degree: 1%
 
 1. 如果您花費的金額比原先預計的要多或少，您可以編輯期間成本。
 
-1. 前往您程式的&#x200B;**[!UICONTROL 設定]**&#x200B;標籤。
+1. 前往您程式的&#x200B;**[!UICONTROL Setup]**&#x200B;標籤。
 
    ![](assets/image2014-9-18-14-3a3-3a6.png)
 
-1. 在&#x200B;**[!UICONTROL 期間成本]**&#x200B;上按一下滑鼠右鍵。 選取&#x200B;**[!UICONTROL 編輯]**。
+1. 以滑鼠右鍵按一下&#x200B;**[!UICONTROL Period Cost]**。 選取「**[!UICONTROL Edit]**」。
 
    ![](assets/image2014-9-18-14-3a3-3a23.png)
 
-1. 進行編輯。 按一下&#x200B;**[!UICONTROL 保存]**。
+1. 進行編輯。 按一下「**[!UICONTROL Save]**」。
 
    ![](assets/image2014-9-18-14-3a3-3a41.png)
 
 ## 刪除期間成本 {#delete-a-period-cost}
 
-1. 前往您程式的&#x200B;**[!UICONTROL 設定]**&#x200B;標籤。
+1. 前往您程式的&#x200B;**[!UICONTROL Setup]**&#x200B;標籤。
 
    ![](assets/image2014-9-18-14-3a4-3a11.png)
 
-1. 在&#x200B;**[!UICONTROL 期間成本]**&#x200B;上按一下滑鼠右鍵。 選取&#x200B;**[!UICONTROL 刪除]**。
+1. 以滑鼠右鍵按一下&#x200B;**[!UICONTROL Period Cost]**。 選取「**[!UICONTROL Delete]**」。
 
    ![](assets/image2014-9-18-14-3a4-3a22.png)
 
-1. 按一下&#x200B;**[!UICONTROL 刪除]**&#x200B;確認。
+1. 按一下&#x200B;**[!UICONTROL Delete]**&#x200B;確認。
 
    ![](assets/image2014-9-18-14-3a4-3a35.png)
 

@@ -1,16 +1,16 @@
 ---
 description: 銷售Insight動作管理員設定指南 — Marketo檔案 — 產品檔案
-title: Sales Insight Actions管理設定指南
+title: 銷售洞察動作管理員設定指南
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '604'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Sales Insight Actions管理設定指南 {#sales-insight-actions-admin-setup-guide}
+# 銷售洞察動作管理員設定指南 {#sales-insight-actions-admin-setup-guide}
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 <table>
  <tr>
-  <th>角色</th>
+  <th>人物誌</th>
   <th>步驟</th>
  </tr>
  <tr>
@@ -47,11 +47,11 @@ ht-degree: 0%
   <td>邀請使用者加入MSI-Actions</td>
  </tr>
  <tr>
-  <td>[!DNL Salesforce] 管理</td>
+  <td>[!DNL Salesforce] 管理員</td>
   <td>在安裝/升級MSI封裝 [!DNL Salesforce]</td>
  </tr>
  <tr>
-  <td>[!DNL Salesforce] 管理</td>
+  <td>[!DNL Salesforce] 管理員</td>
   <td>在中設定MSI動作 [!DNL Salesforce]</td>
  </tr>
 </table>
@@ -130,7 +130,7 @@ Sales Insight Actions的資料統一欄位同步可讓系統從Marketo Engage資
 
    ![](assets/msi-actions-admin-guide-11.png)
 
-1. 按一下「**[!UICONTROL Actions Config]**」標籤。 在動作欄位同步卡中，按一下&#x200B;**[!UICONTROL Sync]**。
+1. 按一下「**[!UICONTROL Actions Config]**」索引標籤。在動作欄位同步卡中，按一下&#x200B;**[!UICONTROL Sync]**。
 
    ![](assets/msi-actions-admin-guide-12.png)
 

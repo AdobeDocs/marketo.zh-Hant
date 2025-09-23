@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718666
 description: 使用收入模型詳細目錄階段 — Marketo檔案 — 產品檔案
-title: 使用收入模型存貨階段
+title: 使用收入模型庫存階段
 exl-id: 7df10e8c-5e25-4cb4-970c-e23d92a3dfb7
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '239'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 使用收入模型存貨階段 {#using-revenue-model-inventory-stages}
+# 使用收入模型庫存階段 {#using-revenue-model-inventory-stages}
 
 所有已知的潛在客戶與帳戶最初都在「存貨階段」中。 此潛在客戶集區是培養潛在客戶直至銷售就緒的場所。 詳細目錄階段沒有時間限制。
 

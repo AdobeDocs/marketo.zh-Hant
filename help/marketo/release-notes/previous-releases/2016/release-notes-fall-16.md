@@ -3,14 +3,14 @@ unique-page-id: 11384018
 description: 發行說明–2016年秋季 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2016年秋季
 exl-id: da935951-162e-426c-acf2-12c55ff706b4
-source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '647'
 ht-degree: 0%
 
 ---
 
-# 發行說明： 2016年秋季 {#release-notes-fall}
+# 發行說明：2016 年秋季 {#release-notes-fall}
 
 以下功能包含在2016年秋季發行版本中。 檢查您的Marketo版本是否有功能可用。 請按一下標題連結以檢視每個功能的詳細文章。
 

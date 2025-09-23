@@ -1,16 +1,16 @@
 ---
 description: 新增超連結文字 — Marketo檔案 — 產品檔案
-title: 新增超連結文字
+title: 新增附有超連結的文字
 exl-id: c79f4aa7-e1bf-479a-a4bb-493c26337ae7
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 新增超連結文字 {#add-hyperlinked-text}
+# 新增附有超連結的文字 {#add-hyperlinked-text}
 
 請依照下列步驟，瞭解如何將超連結新增至您的電子郵件範本。
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
    ![](assets/add-hyperlinked-text-3.png)
 
-1. 輸入您希望連結的URL （亦即`https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hant`）。 選擇您要在相同或新視窗中開啟URL，然後按一下&#x200B;**[!UICONTROL Save]**。
+1. 輸入您希望連結的URL （亦即`https://experienceleague.adobe.com/docs/marketo/using/home.html`）。 選擇您要在相同或新視窗中開啟URL，然後按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/add-hyperlinked-text-4.png)
 

@@ -4,10 +4,10 @@ description: 使用標準智慧清單規則邏輯 — Marketo檔案 — 產品�
 title: 使用標準智慧清單規則邏輯
 exl-id: 9befaa81-e50c-47d3-9edf-220cfadd00f6
 feature: Smart Campaigns
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 

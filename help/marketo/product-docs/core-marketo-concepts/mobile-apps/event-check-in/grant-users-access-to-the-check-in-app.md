@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7516639
 description: 授予使用者簽到應用程式的存取權 — Marketo檔案 — 產品檔案
-title: 授予使用者存取「簽入」應用程式的許可權
+title: 授予使用者存取簽到應用程式的權限
 exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '245'
-ht-degree: 2%
+ht-degree: 7%
 
 ---
 
-# 授予使用者存取「簽入」應用程式的許可權 {#grant-users-access-to-the-check-in-app}
+# 授予使用者存取簽到應用程式的權限 {#grant-users-access-to-the-check-in-app}
 
 Marketo Engage對事件簽入應用程式具有特殊使用者角色。 以下說明如何建立具有使用應用程式許可權的新角色。
 

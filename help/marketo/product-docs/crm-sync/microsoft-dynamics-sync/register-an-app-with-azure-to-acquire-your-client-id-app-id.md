@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12983390
 description: 透過Azure註冊應用程式以取得您的使用者端ID/應用程式ID - Marketo檔案 — 產品檔案
-title: 透過Azure註冊應用程式以取得您的使用者端ID/應用程式ID
+title: 向 Azure 註冊應用程式，以取得用戶端 ID/應用程式 ID
 exl-id: 006cd130-a2fc-41ce-b5ee-890ef6167b34
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '294'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# 透過Azure註冊應用程式以取得您的使用者端ID/應用程式ID {#register-an-app-with-azure-to-acquire-your-client-id-app-id}
+# 向 Azure 註冊應用程式，以取得用戶端 ID/應用程式 ID {#register-an-app-with-azure-to-acquire-your-client-id-app-id}
 
 Azure Active Directory將您的內部部署目錄延伸至雲端，支援具有內部部署ADFS驗證的[!DNL MS Dynamics 365] CRM。
 

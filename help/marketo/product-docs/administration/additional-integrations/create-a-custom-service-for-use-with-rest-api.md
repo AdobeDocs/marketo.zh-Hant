@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360350
 description: 建立自訂服務以與ReST API搭配使用 — Marketo檔案 — 產品檔案
-title: 建立自訂服務以用於ReST API
+title: 建立搭配 ReST API 使用的自訂服務
 exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
 feature: Administration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '182'
-ht-degree: 2%
+ht-degree: 18%
 
 ---
 
-# 建立自訂服務以用於ReST API {#create-a-custom-service-for-use-with-rest-api}
+# 建立搭配 ReST API 使用的自訂服務 {#create-a-custom-service-for-use-with-rest-api}
 
 如果您想要透過ReST API與Marketo整合，請建立自訂服務。 方法如下。
 
@@ -27,11 +27,11 @@ ht-degree: 2%
 
 >[!TIP]
 >
->請參閱我們的開發人員檔案，以取得有關[REST API](https://developer.adobe.com/marketo-apis/)的詳細資料。 如果您需要，我們還有[SOAP API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/soap/soap-api)。
+>請參閱我們的開發人員檔案，以取得有關[REST API](https://developer.adobe.com/marketo-apis/)的詳細資料。 如果您需要，我們還有[SOAP API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api)。
 
 ## 建立自訂服務 {#create-custom-service}
 
-1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-1.png)
 
@@ -43,7 +43,7 @@ ht-degree: 2%
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-3.png)
 
-1. 輸入服務的&#x200B;**[!UICONTROL Display Name]**。 選取先前建立的&#x200B;**[!UICONTROL API Only User]** [&#128279;](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)。
+1. 輸入服務的&#x200B;**[!UICONTROL Display Name]**。 選取先前建立的&#x200B;**[!UICONTROL API Only User]** [](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)。
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-4.png)
 
@@ -59,7 +59,7 @@ ht-degree: 2%
 
 ## API存取的認證 {#credentials-for-api-access}
 
-1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-6.png)
 

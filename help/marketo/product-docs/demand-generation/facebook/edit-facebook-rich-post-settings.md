@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2950555
 description: 編輯Facebook Rich Post設定 — Marketo檔案 — 產品檔案
-title: 編輯Facebook Rich Post設定
+title: 編輯 Facebook RTF 貼文設定
 exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
 hide: true
 hidefromtoc: true
 feature: Integrations
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '291'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -27,7 +27,7 @@ Marketo _社交應用程式_&#x200B;可讓您的潛在客戶透過其在Facebook
 
 您可以指定要在由共用從您的登入頁面產生的[!DNL Facebook]個豐富貼文中使用的頁面資訊型別。
 
-1. 在編輯器中選取_&#x200B;**[!UICONTROL Facebook Message]**&#x200B;視訊或社交按鈕的&#x200B;_[!DNL YouTube_]_。
+1. 在編輯器中選取_**[!UICONTROL Facebook Message]**&#x200B;視訊或社交按鈕的&#x200B;_[!DNL YouTube_]_。
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14746188
 description: 與Salesforce同步取消訂閱 — Marketo檔案 — 產品檔案
-title: 與Salesforce同步取消訂閱
+title: 與 Salesforce 同步取消訂閱
 exl-id: 1694d7bf-d2f6-4950-8a3e-c7d89c37b276
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '388'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -70,7 +70,7 @@ ht-degree: 1%
 
    ![](assets/seven-1.png)
 
-1. 選擇「**[!UICONTROL Page Layouts]**」。
+1. 選取「**[!UICONTROL Page Layouts]**」。
 
    ![](assets/eight-1.png)
 
@@ -78,7 +78,7 @@ ht-degree: 1%
 
    ![](assets/nine.png)
 
-1. 選擇「**[!UICONTROL Fields]**」。
+1. 選取「**[!UICONTROL Fields]**」。
 
    ![](assets/ten.png)
 

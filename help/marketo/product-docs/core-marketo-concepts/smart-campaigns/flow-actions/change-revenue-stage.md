@@ -4,10 +4,10 @@ description: 變更收入階段 — Marketo檔案 — 產品檔案
 title: 變更收入階段
 exl-id: 267f1a7a-b849-48e4-9bc8-56dd07168d1d
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 0%
+source-wordcount: '72'
+ht-degree: 11%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ![](assets/change-revenue-stage-1.png)
 
-1. 選取&#x200B;**[!UICONTROL 模型]**。
+1. 選取 **[!UICONTROL Model]**。
 
    ![](assets/change-revenue-stage-2.png)
 
-1. 選取您要指派的&#x200B;**[!UICONTROL 新階段]**，而且您已完成！
+1. 選取您要指派的&#x200B;**[!UICONTROL New Stage]**，然後完成指派作業！
 
    ![](assets/change-revenue-stage-3.png)
 

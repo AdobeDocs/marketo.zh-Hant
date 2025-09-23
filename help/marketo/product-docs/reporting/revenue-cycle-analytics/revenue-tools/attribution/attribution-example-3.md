@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7514149
 description: 歸因範例3 - Marketo檔案 — 產品檔案
-title: 歸因範例3
+title: 歸因範例 3
 exl-id: d8ca63a2-58de-4cde-b915-ff7f2e6468d9
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '175'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 歸因範例3 {#attribution-example}
+# 歸因範例 3 {#attribution-example}
 
 請閱讀下列情境，並嘗試決定網格中應該包含的數字。
 

@@ -1,27 +1,27 @@
 ---
 unique-page-id: 2359876
 description: 取代已上傳的影像或檔案 — Marketo檔案 — 產品檔案
-title: 取代上傳的影像或檔案
+title: 取代已上傳的影像或檔案
 exl-id: 2bd936bc-2103-49b0-98b5-55f45674a257
 feature: Image Editor
-source-git-commit: 74266763ab61379d50560f18fa65bbb35c37feb0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 0%
+source-wordcount: '101'
+ht-degree: 17%
 
 ---
 
-# 取代上傳的影像或檔案 {#replace-an-uploaded-image-or-file}
+# 取代已上傳的影像或檔案 {#replace-an-uploaded-image-or-file}
 
-1. 移至&#x200B;**[!UICONTROL 設計工作室]**。
+1. 移至&#x200B;**[!UICONTROL Design Studio]**。
 
    ![](assets/replace-an-uploaded-image-or-file-1.png)
 
-1. 按一下&#x200B;**[!UICONTROL 影像和檔案]**。
+1. 按一下「**[!UICONTROL Images and Files]**」。
 
    ![](assets/replace-an-uploaded-image-or-file-2.png)
 
-1. 選取您要取代的資產。 按一下&#x200B;**[!UICONTROL 影像和檔案動作]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL 取代影像或檔案]**。
+1. 選取您要取代的資產。 按一下「**[!UICONTROL Image and file actions]**」下拉式選單，選取「**[!UICONTROL Replace image or file]**」。
 
    ![](assets/replace-an-uploaded-image-or-file-3.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
    >
    >取代檔案型別必須與原始檔案型別相同（例如.jpg）
 
-1. 選取取代的影像/檔案後，按一下&#x200B;**[!UICONTROL 取代]**。
+1. 選取替代影像/檔案後，按一下「**[!UICONTROL Replace]**」。
 
    ![](assets/replace-an-uploaded-image-or-file-5.png)
 

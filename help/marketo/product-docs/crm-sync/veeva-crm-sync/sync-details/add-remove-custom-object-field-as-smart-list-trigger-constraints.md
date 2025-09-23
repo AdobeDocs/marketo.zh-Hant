@@ -1,16 +1,16 @@
 ---
 description: 新增/移除自訂物件欄位做為智慧清單/觸發條件約束 — Marketo檔案 — 產品檔案
-title: 新增/移除自訂物件欄位做為智慧清單/觸發條件約束
+title: 新增/移除自訂物件欄位做為智慧清單/觸發程序限制
 exl-id: b01923be-c307-4788-afb9-0eb4eb018a6d
 feature: Veeva CRM
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '165'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# 新增/移除自訂物件欄位做為智慧清單/觸發條件約束 {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
+# 新增/移除自訂物件欄位做為智慧清單/觸發程序限制 {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
 
 Marketo Engage提供對[!DNL Veeva]自訂物件同步的特定控制。 這可讓您選取可在自訂物件篩選器中作為限制條件的欄位，並在Smart Campaigns中將其用作觸發器。
 

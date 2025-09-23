@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900595
 description: 使用智慧清單定義對象 — Marketo檔案 — 產品檔案
-title: 使用智慧清單定義對象
+title: 使用智慧清單定義客群
 exl-id: 72a1e717-271b-46b5-b097-d29658b8f6ff
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '256'
-ht-degree: 1%
+ht-degree: 7%
 
 ---
 
-# 使用智慧清單定義對象 {#define-an-audience-with-a-smart-list}
+# 使用智慧清單定義客群 {#define-an-audience-with-a-smart-list}
 
 在您[建立電子郵件程式](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)後，您將想要告訴它要將電子郵件傳送給誰。 您可以透過[匯入人員清單](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)或使用智慧清單來執行此操作。 以下說明如何使用智慧清單來達成此目標。
 
@@ -55,8 +55,8 @@ ht-degree: 1%
 >
 >您注意到封鎖的號碼嗎？ 此數字是符合資格的人的子集，代表無法傳送此電子郵件的人，因為他們是：
 >
->* 退訂
->* 行銷活動已暫停
+>* 已取消訂閱
+>* 行銷活動暫停
 >* 已加入封鎖清單
 >* 電子郵件無效
 >* 空白電子郵件

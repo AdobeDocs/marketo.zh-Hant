@@ -4,7 +4,7 @@ description: 使用經理帳戶在收入模型中設定 [!DNL Google AdWords] �
 title: 使用經理帳戶在收入模型中設定 [!DNL Google AdWords] 轉換
 exl-id: 8c9f50cf-0a8b-4f9a-a0bd-bb57eeac24cf
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '374'
 ht-degree: 1%
@@ -70,7 +70,7 @@ ht-degree: 1%
 
    ![](assets/image2015-2-26-16-3a52-3a24.png)
 
-1. 選擇「**[!UICONTROL New Conversion]**」。
+1. 選取「**[!UICONTROL New Conversion]**」。
 
    ![](assets/image2015-3-27-17-3a23-3a13.png)
 
@@ -84,7 +84,7 @@ ht-degree: 1%
 
 您可以使用[!DNL AdWords]對應將所有模型階段與[!DNL AdWords]轉換建立關聯。
 
-1. 選擇「**[!UICONTROL Edit AdWords Mappings]**」。
+1. 選取「**[!UICONTROL Edit AdWords Mappings]**」。
 
    ![](assets/image2015-2-26-17-3a3-3a29.png)
 

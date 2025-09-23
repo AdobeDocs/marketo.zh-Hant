@@ -1,9 +1,9 @@
 ---
 description: Dynamic Chat概述 — Marketo檔案 — 產品檔案
-title: Dynamic Chat概觀
+title: Dynamic Chat 概觀
 feature: Dynamic Chat
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '587'
 ht-degree: 4%
@@ -16,7 +16,7 @@ Dynamic Chat可讓您運用易用的介面，將目標同時鎖定於造訪您�
 
 >[!TIP]
 >
->請造訪[此頁面](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html?lang=zh-Hant){target="_blank"}，檢視Dynamic Chat的教學課程影片。
+>請造訪[此頁面](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html){target="_blank"}，檢視Dynamic Chat的教學課程影片。
 
 ## 整合 {#integrations}
 
@@ -88,7 +88,7 @@ Adobe Dynamic Chat中的[產生式AI](/help/marketo/product-docs/demand-generati
 
 ## Dynamic Chat資料保留限制 {#dynamic-chat-data-retention-limits}
 
-以下只是Dynamic Chat中的部分限制/引數。 如需完整清單，請參閱Marketo Engage [產品說明頁面](https://helpx.adobe.com/tw/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}。
+以下只是Dynamic Chat中的部分限制/引數。 如需完整清單，請參閱Marketo Engage [產品說明頁面](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}。
 
 <table>
   <th>資料類型</th>
@@ -115,6 +115,6 @@ Adobe Dynamic Chat中的[產生式AI](/help/marketo/product-docs/demand-generati
  </tr>
 </table>
 
-## 常見問題集 {#faq}
+## 常見問題 {#faq}
 
 請參閱[Dynamic Chat常見問題集](/help/marketo/product-docs/demand-generation/dynamic-chat/faq.md){target="_blank"}。

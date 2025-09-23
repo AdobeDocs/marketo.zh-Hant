@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2950682
 description: 建立方案管道 — Marketo檔案 — 產品檔案
-title: 建立方案頻道
+title: 建立方案管道
 exl-id: 7b4e15db-c221-45a9-9588-99eb2510cde7
 feature: Tags
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '387'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 建立方案頻道 {#create-a-program-channel}
+# 建立方案管道 {#create-a-program-channel}
 
 方案是一個特定的行銷計畫。 此頻道旨在作為傳遞機制，例如網路研討會、贊助或線上廣告。
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >深入瞭解Marketo中最重要的元素[程式](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)。
 
-1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/create-a-program-channel-1.png)
 

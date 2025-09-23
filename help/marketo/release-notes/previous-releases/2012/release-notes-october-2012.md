@@ -4,14 +4,14 @@ description: 發行說明 — 2012年10月 — Marketo檔案 — 產品檔案
 title: 版本注意事項 - 2012 年 10 月
 exl-id: 60ad7d45-ddf6-4f0c-a0c6-5f5a9bdc2998
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '346'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# 發行說明： 2012年10月 {#release-notes-october}
+# 發行說明：2012 年 10 月 {#release-notes-october}
 
 10月發行版本包含更令人興奮的新功能！ 社交功能可作為附加元件或所選套裝的一部分使用。
 

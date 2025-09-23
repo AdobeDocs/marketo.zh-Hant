@@ -4,10 +4,10 @@ description: 隱藏和取消隱藏欄位 — Marketo檔案 — 產品檔案
 title: 隱藏和取消隱藏欄位
 exl-id: 14395c31-d0f4-4aec-8592-a60a764a7263
 feature: Field Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '162'
-ht-degree: 2%
+ht-degree: 13%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 2%
 >
 >**需要管理員許可權**
 
-1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/hide-and-unhide-a-field-1.png)
 
@@ -49,7 +49,7 @@ ht-degree: 2%
 
 ## 取消隱藏欄位 {#unhide-a-field}
 
-1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/hide-and-unhide-a-field-6.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360016
 description: 使用智慧清單篩選報表中的人員 — Marketo檔案 — 產品檔案
-title: 使用智慧清單篩選報表中的人員
+title: 使用智慧清單篩選報告中的人員
 exl-id: f3cc38d1-35fd-424a-a024-949852edd6a7
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '127'
-ht-degree: 0%
+ht-degree: 17%
 
 ---
 
-# 使用智慧清單篩選報表中的人員 {#filter-people-in-a-report-with-a-smart-list}
+# 使用智慧清單篩選報告中的人員 {#filter-people-in-a-report-with-a-smart-list}
 
 使用智慧列示，依特定人員屬性篩選報表。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 * [公司網頁活動](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
 * [網頁活動](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**&#x200B;區域。
+1. 前往「**[!UICONTROL Marketing Activities]**」區域。
 
    ![](assets/image2017-3-27-11-3a31-3a2.png)
 

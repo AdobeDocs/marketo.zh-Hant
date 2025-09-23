@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2949243
 description: SEO — 從關鍵字檢視新增/移除欄 — Marketo檔案 — 產品檔案
-title: SEO — 在關鍵字檢視中新增/移除欄
+title: SEO - 在關鍵字視圖中新增/移除欄
 exl-id: e1a360da-cfe1-41b2-82ab-d2d7a1c0e410
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 2%
+source-wordcount: '78'
+ht-degree: 21%
 
 ---
 
-# SEO — 在關鍵字檢視中新增/移除欄 {#seo-add-remove-columns-from-your-keywords-view}
+# SEO - 在關鍵字視圖中新增/移除欄 {#seo-add-remove-columns-from-your-keywords-view}
 
 您可以調整關鍵字檢視，以顯示您最感興趣的資料。
 
-1. 移至&#x200B;**[!UICONTROL 關鍵字]**&#x200B;區段。
+1. 移至&#x200B;**[!UICONTROL Keywords]**&#x200B;區段。
 
    ![](assets/image2014-9-18-13-3a37-3a31.png)
 
@@ -27,7 +27,7 @@ ht-degree: 2%
 
    ![](assets/image2014-9-18-13-3a37-3a39.png)
 
-1. 選取或取消選取您要檢視的欄。 按一下&#x200B;**[!UICONTROL 保存]**。
+1. 選取或取消選取您要檢視的欄。 按一下「**[!UICONTROL Save]**」。
 
    ![](assets/image2014-9-18-13-3a37-3a42.png)
 

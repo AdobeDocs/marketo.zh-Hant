@@ -4,14 +4,14 @@ description: SFDC同步 — 帳戶同步 — Marketo檔案 — 產品檔案
 title: SFDC同步 — 帳戶同步
 exl-id: 94f7a9e5-86ea-4bb4-9d78-96a09c61321d
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '225'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# SFDC同步：帳戶同步 {#sfdc-sync-account-sync}
+# SFDC 同步：帳戶同步 {#sfdc-sync-account-sync}
 
 Marketo也會將您的帳戶資訊與[!DNL Salesforce]同步。 以下是您應瞭解的一些特定事項！
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359868
 description: 從Box上傳影像和檔案 — Marketo檔案 — 產品檔案
-title: 從方塊上傳影像和檔案
+title: 從 Box 上傳影像或檔案
 exl-id: 08596026-ce25-4076-957a-d069aa44b85a
 feature: Image Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '92'
-ht-degree: 3%
+ht-degree: 16%
 
 ---
 
-# 從方塊上傳影像和檔案 {#upload-images-and-files-from-box}
+# 從 Box 上傳影像或檔案 {#upload-images-and-files-from-box}
 
 您可以從Box上傳檔案，以用於登入頁面和電子郵件。
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147029
 description: 在SFDC Campaign中變更狀態 — Marketo檔案 — 產品檔案
-title: 在SFDC Campaign中變更狀態
+title: 在 SFDC 行銷活動中變更狀態
 exl-id: 7c0082fe-204f-46d2-a835-8655dea4d0b1
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# 在SFDC Campaign中變更狀態 {#change-status-in-sfdc-campaign}
+# 在 SFDC 行銷活動中變更狀態 {#change-status-in-sfdc-campaign}
 
 此流程步驟可讓您變更潛在客戶的Salesforce行銷活動會員狀態。
 

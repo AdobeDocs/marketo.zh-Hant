@@ -4,10 +4,10 @@ description: 設定網站行銷活動的顯示方式 — Marketo檔案 — 產�
 title: 設定網頁行銷活動的顯示方式
 exl-id: fa0f2421-9536-4a3a-a28b-4f5b1b58ed56
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '192'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 指定網站行銷活動在網站上反應的時間延遲（以秒為單位）。
 
-1. 按一下&#x200B;**[!UICONTROL Display On]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Delay]**。
+1. 按一下「**[!UICONTROL Display On]**」下拉式選單，選取「**[!UICONTROL Delay]**」。
 
    ![](assets/d1.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 ## 捲動 {#scroll}
 
-1. 按一下&#x200B;**[!UICONTROL Display On]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Scroll]**。
+1. 按一下「**[!UICONTROL Display On]**」下拉式選單，選取「**[!UICONTROL Scroll]**」。
 
    ![](assets/s1.png)
 
@@ -64,7 +64,7 @@ ht-degree: 0%
 
 退出意圖會在滑鼠游標退出瀏覽器時顯示網頁行銷活動。
 
-1. 按一下&#x200B;**[!UICONTROL Display On]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Exit Intent]**。
+1. 按一下「**[!UICONTROL Display On]**」下拉式選單，選取「**[!UICONTROL Exit Intent]**」。
 
    ![](assets/ei1.png)
 

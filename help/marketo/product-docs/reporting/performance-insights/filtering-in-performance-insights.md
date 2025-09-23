@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12979012
 description: 在效能深入分析 — Marketo檔案 — 產品檔案中進行篩選
-title: 在效能深入分析中進行篩選
+title: 績效洞察中的篩選功能
 exl-id: c86260b7-fd5c-4d40-a8da-c9e3f09be14d
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '307'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

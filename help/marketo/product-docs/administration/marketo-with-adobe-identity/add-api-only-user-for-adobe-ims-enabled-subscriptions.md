@@ -1,16 +1,16 @@
 ---
 description: 僅新增API使用者以使用Adobe IMS啟用的訂閱 — Marketo檔案 — 產品檔案
-title: 為啟用Adobe IMS的訂閱新增「僅限API使用者」
+title: 新增 Adobe IMS 啟用訂閱的僅 API 使用者
 exl-id: bf908a50-de2f-4ea0-8d6a-5d7ed6d39ebf
 feature: Marketo with Adobe Identity
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '134'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
-# 為啟用Adobe IMS的訂閱新增「僅限API使用者」 {#add-api-only-user-for-adobe-ims-enabled-subscriptions}
+# 新增 Adobe IMS 啟用訂閱的僅 API 使用者 {#add-api-only-user-for-adobe-ims-enabled-subscriptions}
 
 雖然Marketo Engage行銷使用者和管理員是在Adobe Admin Console中進行管理，但必須在Marketo Engage中建立和管理「僅限Marketo Engage API使用者」。
 

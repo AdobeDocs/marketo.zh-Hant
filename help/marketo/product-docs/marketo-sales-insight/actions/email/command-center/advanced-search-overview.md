@@ -3,10 +3,10 @@ description: 進階搜尋概觀 — Marketo檔案 — 產品檔案
 title: 進階搜尋概觀
 exl-id: a7cf5078-1d24-4fc0-a82d-02f46f93893d
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '380'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
@@ -83,13 +83,13 @@ ht-degree: 2%
 
 ![](assets/advanced-search-overview-9.png)
 
-_&#x200B;**狀態：已傳送**&#x200B;_
+_**狀態：已傳送**_
 
 ![](assets/advanced-search-overview-10.png)
 
 依您傳送的電子郵件活動篩選。 您可以選擇[!UICONTROL views]/[!UICONTROL no views]、[!UICONTROL clicks]/[!UICONTROL no clicks]和/或[!UICONTROL replies]/[!UICONTROL no replies]。
 
-_&#x200B;**狀態：擱置中**&#x200B;_
+_**狀態：擱置中**_
 
 ![](assets/advanced-search-overview-11.png)
 
@@ -114,7 +114,7 @@ _&#x200B;**狀態：擱置中**&#x200B;_
  </tr>
 </table>
 
-_&#x200B;**狀態：未傳遞**&#x200B;_
+_**狀態：未傳遞**_
 
 ![](assets/advanced-search-overview-12.png)
 

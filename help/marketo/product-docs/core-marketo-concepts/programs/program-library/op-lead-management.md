@@ -1,16 +1,16 @@
 ---
 description: 營運商管理 — Marketo檔案 — 產品檔案
-title: 營運商管理
+title: OP-商機管理
 feature: Programs
 exl-id: bde644fe-d40b-4c9c-925d-a0f522e6de01
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '265'
-ht-degree: 4%
+ht-degree: 7%
 
 ---
 
-# 營運商管理 {#op-lead-management}
+# OP-商機管理 {#op-lead-management}
 
 這是銷售機會管理最佳實務工作流程的範例，利用Marketo Engage預設程式協助您管理Marketo Engage資料庫內傳送給CRM的記錄。
 
@@ -25,7 +25,7 @@ ht-degree: 4%
 <table style="table-layout:auto">
  <tbody>
   <tr>
-   <th>頻道</th>
+   <th>管道</th>
    <th>成員資格狀態</th>
    <th>Analytics行為</th>
    <th>計畫型別</th>
@@ -60,7 +60,7 @@ ht-degree: 4%
   </tr>
   <tr>
    <td>電子郵件</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入門電子郵件範本</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速開始電子郵件範本</a></td>
    <td>01 — 電子郵件 — 警報 — MQL</td>
   </tr>
   <tr>

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360219
 description: 設定自訂DKIM簽名 — Marketo檔案 — 產品檔案
-title: 設定自訂DKIM簽名
+title: 設定自訂 DKIM 簽名
 exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
 feature: Deliverability
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '419'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 設定自訂DKIM簽名 {#set-up-a-custom-dkim-signature}
+# 設定自訂 DKIM 簽名 {#set-up-a-custom-dkim-signature}
 
 為確保最高傳遞能力，我們會使用共用的Marketo DKIM簽名自動簽署所有傳出郵件。
 

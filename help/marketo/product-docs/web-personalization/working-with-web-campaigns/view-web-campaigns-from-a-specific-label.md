@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4720075
 description: 從特定標籤檢視網頁行銷活動 — Marketo檔案 — 產品檔案
-title: 從特定標籤檢視網站行銷活動
+title: 檢視特定標籤的網頁行銷活動
 exl-id: 2611c79f-eb12-4597-9394-8749903f494c
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '78'
-ht-degree: 0%
+ht-degree: 17%
 
 ---
 
-# 從特定標籤檢視網站行銷活動 {#view-web-campaigns-from-a-specific-label}
+# 檢視特定標籤的網頁行銷活動 {#view-web-campaigns-from-a-specific-label}
 
 想要根據特定標籤檢視及篩選您的行銷活動？
 

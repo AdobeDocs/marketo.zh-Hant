@@ -1,15 +1,15 @@
 ---
 description: 在Salesforce中使用大量新增至促銷活動 — Marketo檔案 — 產品檔案
-title: 在Salesforce中使用大量新增至促銷活動
+title: 在 Salesforce 中使用大量新增至銷售行銷活動
 exl-id: e518fe82-e37d-4edd-8a31-19268f6fd4b1
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '580'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 在Salesforce中使用大量新增至促銷活動 {#using-bulk-add-to-sales-campaign-in-salesforce}
+# 在 Salesforce 中使用大量新增至銷售行銷活動 {#using-bulk-add-to-sales-campaign-in-salesforce}
 
 瞭解如何在Salesforce中大量新增至銷售促銷活動，以使用銷售動作協助擴展您的對外通訊。
 
@@ -39,13 +39,13 @@ ht-degree: 0%
 
 1. 系統會將您導覽至「Actions Sales Campaign」強制回應視窗，其中包含您選取的收件者。
 
-1. 進行任何必要的編輯以移除人員或群組，然後按一下[下一步] **&#x200B;**。
+1. 進行任何必要的編輯以移除人員或群組，然後按一下[下一步] ****。
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-3.png)
 
 1. 從「類別」下拉式清單中選取您要使用的促銷活動類別。
 
-1. 選取您要新增選取人員的促銷活動，然後按一下[下一步] **&#x200B;**。
+1. 選取您要新增選取人員的促銷活動，然後按一下[下一步] ****。
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-4.png)
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-5.png)
 
-1. 同樣地，如果您的第一步是電子郵件，並且您已將其設定為允許您選取行銷活動啟動的時間，您將可以選擇&#x200B;**立即開始**&#x200B;或&#x200B;**排程新的開始時間**。 完成之後，請按一下[開始]。**&#x200B;**
+1. 同樣地，如果您的第一步是電子郵件，並且您已將其設定為允許您選取行銷活動啟動的時間，您將可以選擇&#x200B;**立即開始**&#x200B;或&#x200B;**排程新的開始時間**。 完成之後，請按一下[開始]。****
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-6.png)
 
@@ -65,7 +65,7 @@ ht-degree: 0%
 
 1. 在Salesforce中，按一下&#x200B;**銷售機會/聯絡人**&#x200B;標籤。
 
-1. 在[檢視]下拉式清單中，選取想要的要傳送電子郵件的潛在客戶/連絡人檢視，然後按一下[執行]。**&#x200B;**
+1. 在[檢視]下拉式清單中，選取想要的要傳送電子郵件的潛在客戶/連絡人檢視，然後按一下[執行]。****
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-8.png)
 
@@ -79,13 +79,13 @@ ht-degree: 0%
 
 1. 系統會將您導覽至「Actions銷售促銷活動」強制回應視窗，其中包含您選取的已新增人員。
 
-1. 進行任何必要的編輯以移除人員或群組，然後按一下[下一步] **&#x200B;**。
+1. 進行任何必要的編輯以移除人員或群組，然後按一下[下一步] ****。
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-10.png)
 
 1. 從&#x200B;**類別**&#x200B;下拉式清單中選取您要使用的促銷活動類別。
 
-1. 選取您要新增選取人員的促銷活動，然後按一下[下一步] **&#x200B;**。
+1. 選取您要新增選取人員的促銷活動，然後按一下[下一步] ****。
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-11.png)
 
@@ -93,7 +93,7 @@ ht-degree: 0%
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-12.png)
 
-1. 同樣地，如果您的第一步是電子郵件，並且您已將其設定為允許您選取行銷活動啟動的時間，您將可以選擇&#x200B;**立即開始**&#x200B;或&#x200B;**排程新的開始時間**。 完成之後，請按一下[開始]。**&#x200B;**
+1. 同樣地，如果您的第一步是電子郵件，並且您已將其設定為允許您選取行銷活動啟動的時間，您將可以選擇&#x200B;**立即開始**&#x200B;或&#x200B;**排程新的開始時間**。 完成之後，請按一下[開始]。****
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-13.png)
 

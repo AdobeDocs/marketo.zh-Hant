@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953419
 description: 使用Rtf編輯器 — Marketo檔案 — 產品檔案
-title: 使用RTF編輯器
+title: 使用 RTF 編輯器
 exl-id: 9b2d6d41-f947-4859-aad9-a10c15eb013a
 feature: Email Editor
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '659'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# 使用RTF編輯器 {#using-the-rich-text-editor}
+# 使用 RTF 編輯器 {#using-the-rich-text-editor}
 
 RTF編輯器(RTE)會顯示在整個Marketo中，您只要想要新增或編輯內容，都可使用此編輯器。 您會在登陸頁面、程式、電子郵件、表單和程式碼片段上看到版本。 只需按一下「**[!UICONTROL Edit Draft]**」，它就會彈現出來，為您服務。
 

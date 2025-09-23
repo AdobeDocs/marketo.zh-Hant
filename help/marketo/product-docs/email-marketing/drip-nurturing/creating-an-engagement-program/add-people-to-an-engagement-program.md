@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359782
 description: 將人員新增至參與計畫 — Marketo檔案 — 產品檔案
-title: 將人員新增至參與計畫
+title: 新增人員至參與方案
 exl-id: b589b566-a61f-48c2-afb5-a2d82b2a28c4
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '99'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# 將人員新增至參與計畫 {#add-people-to-an-engagement-program}
+# 新增人員至參與方案 {#add-people-to-an-engagement-program}
 
 人們可以透過數種方式成為參與計畫的成員：
 

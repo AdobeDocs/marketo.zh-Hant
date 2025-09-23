@@ -1,27 +1,27 @@
 ---
 unique-page-id: 1147100
 description: 瀏覽方案排程檢視 — Marketo檔案 — 產品檔案
-title: 瀏覽方案排程檢視
+title: 導覽方案排程視圖
 exl-id: 31623f95-f956-44f6-9b6e-5595fb6e62d5
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '184'
-ht-degree: 0%
+source-wordcount: '177'
+ht-degree: 6%
 
 ---
 
-# 瀏覽方案排程檢視 {#navigating-the-program-schedule-view}
+# 導覽方案排程視圖 {#navigating-the-program-schedule-view}
 
 以下為協助您瀏覽方案排程檢視的基本知識。
 
 ## 尋找排程檢視 {#find-the-schedule-view}
 
-1. 移至&#x200B;**[!UICONTROL 行銷活動]**。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities.png)
 
-1. 選取您的程式。 按一下&#x200B;**[!UICONTROL 檢視]**&#x200B;下拉式清單。 選取&#x200B;**[!UICONTROL 排程]**。
+1. 選取您的程式。 按一下&#x200B;**[!UICONTROL View]**&#x200B;下拉式清單。 選取「**[!UICONTROL Schedule]**」。
 
    ![](assets/image2014-9-17-11-3a38-3a3.png)
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 ## 在模式之間變更 {#changing-between-modes}
 
-1. 按一下&#x200B;**[!UICONTROL 3週]**&#x200B;或&#x200B;**[!UICONTROL 月]**&#x200B;將會變更您顯示畫面上的可見日期。
+1. 按一下&#x200B;**[!UICONTROL 3 Weeks]**&#x200B;或&#x200B;**[!UICONTROL Month]**&#x200B;將會變更您顯示畫面上的可見日期。
 
    ![](assets/image2014-9-17-11-3a40-3a19.png)
 

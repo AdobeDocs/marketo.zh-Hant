@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359457
 description: 核准區段 — Marketo檔案 — 產品檔案
-title: 核准分段
+title: 核准細分
 exl-id: c8b0fbe9-012c-47bf-8769-0167156b43d3
 feature: Segmentation
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '222'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 核准分段 {#approve-a-segmentation}
+# 核准細分 {#approve-a-segmentation}
 
 區段必須先經過核准，才能使用。
 

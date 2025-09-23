@@ -4,10 +4,10 @@ description: 取消核准程式碼片段 — Marketo檔案 — 產品檔案
 title: 取消核准程式碼片段
 exl-id: e3797788-704c-461f-a7b0-dac39eeaa1a7
 feature: Snippets
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '73'
-ht-degree: 2%
+ht-degree: 10%
 
 ---
 

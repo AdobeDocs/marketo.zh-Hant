@@ -1,18 +1,18 @@
 ---
 description: Highspot整合 — Marketo檔案 — 產品檔案
-title: Highspot整合
+title: Highspot 整合
 exl-id: d864fa56-5cab-409f-9256-9819204f8853
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '334'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Highspot整合 {#highspot-integration}
+# Highspot 整合 {#highspot-integration}
 
-銷售人員可以存取Sales Insight Actions的重點功能，並在整個銷售週期中獲得更高的可見度、效率和效能。 Sales Insight Action使用者可以選取儲存在Highspot的銷售啟用平台上的銷售內容，並將其直接插入電子郵件、電子郵件範本和銷售行銷活動中，同時在Highspot和Sales Insight Actions中擷取內容追蹤和分析。
+Sales可以利用Sales Insight Actions的絕佳功能，在整個銷售週期中獲得更高的可見度、效率和效能。 銷售Insight動作使用者可以選取儲存在Highspot的銷售啟用平台上的銷售內容，並將其直接插入電子郵件、電子郵件範本和銷售行銷活動中，同時在Highspot和Sales Insight動作中擷取內容追蹤和分析。
 
 ## 啟用Highspot整合 {#enabling-highspot-integration}
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
 ## 透過電子郵件存取亮點內容和共用內容 {#accessing-highspot-content}
 
-從Sales Insight Actions撰寫視窗、範本編輯器和銷售活動電子郵件編輯器，存取Highspot並將內容新增至您的電子郵件。 以下是如何從撰寫視窗存取內容的步驟。
+從Sales Insight Actions撰寫視窗、範本編輯器和銷售行銷活動電子郵件編輯器，存取Highspot並將內容新增至您的電子郵件。 以下是如何從撰寫視窗存取內容的步驟。
 
 1. 建立您的電子郵件草稿（有多種方式可以達成此目的，在此範例中，我們在標題中選取&#x200B;**撰寫**）。
 

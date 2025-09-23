@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719283
 description: 瞭解Salesforce同步 — Marketo檔案 — 產品檔案
-title: 瞭解Salesforce同步
+title: 了解 Salesforce 同步
 exl-id: 658c81ff-5fb3-4ad8-8759-da55bbf4e263
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '212'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 

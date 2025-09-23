@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12976798
 description: 設定LinkedIn潛在客戶Gen Forms - Marketo檔案 — 產品檔案
-title: 設定LinkedIn潛在客戶Gen Forms
+title: 設定 LinkedIn 商機開發表單
 exl-id: 554a546c-adeb-4132-830d-ff15ba5cf9a1
 feature: Social
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '496'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 設定LinkedIn潛在客戶Gen Forms {#set-up-linkedin-lead-gen-forms}
+# 設定 LinkedIn 商機開發表單 {#set-up-linkedin-lead-gen-forms}
 
 使用LinkedIn Lead Gen Forms在LinkedIn中執行廣告行銷活動，並產生Marketo的銷售機會。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 >
 >如果LinkedIn銷售機會符合Marketo中與使用公司API建立的公司記錄相關聯的現有個人記錄，並且Marketo訂閱未連線至CRM，則不會進入Marketo Engage。
 
-1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/set-up-linkedin-lead-gen-forms-1.png)
 

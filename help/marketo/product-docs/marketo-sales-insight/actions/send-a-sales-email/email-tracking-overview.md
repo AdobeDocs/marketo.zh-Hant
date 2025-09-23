@@ -3,16 +3,16 @@ description: 電子郵件追蹤概觀 — Marketo檔案 — 產品檔案
 title: 電子郵件追蹤概觀
 exl-id: 89437d22-d739-45ea-8a2e-046a7de80379
 feature: Sales Insight Actions
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '482'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
 # 電子郵件追蹤概觀 {#email-tracking-overview}
 
-## 回覆追蹤的運作方式 {#how-reply-tracking-works}
+## 回應追蹤的運作原理 {#how-reply-tracking-works}
 
 「回覆追蹤」是透過檢視您傳送之每封電子郵件中的訊息ID來完成。 每封電子郵件都包含唯一的訊息ID，讓我們擁有一些最佳的回覆追蹤功能。
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
 1. 上傳您的附件並將其寄出。 我們支援PDF、[!DNL Word]檔案和[!DNL Powerpoint]簡報。
 
-1. 選擇「**[!UICONTROL Add to Email]**」。
+1. 選取「**[!UICONTROL Add to Email]**」。
 
 1. 按一下&#x200B;**[!UICONTROL Send]**&#x200B;並啟動您的即時摘要。 您會在收件者開啟並瀏覽附件時看到收件者。
 
@@ -46,7 +46,7 @@ ht-degree: 0%
 >
 >如果您不想追蹤附件，只要按一下[附加檔案]，就不會追蹤此附件。
 
-## 檢視追蹤的運作方式 {#how-view-tracking-works}
+## 視圖追蹤的運作原理 {#how-view-tracking-works}
 
 我們會在您傳送的電子郵件內放置不可見的影像，以追蹤電子郵件開啟次數。
 

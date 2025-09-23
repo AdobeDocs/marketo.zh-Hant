@@ -3,16 +3,16 @@ description: 快速指南 — Marketo檔案 — 產品檔案
 title: 快速指南
 exl-id: eb854ec8-fabb-477d-977b-9dc7e7d9f24f
 feature: Marketo with Adobe Identity
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
 # 快速指南 {#quick-guide}
 
-下列文章將協助您設定並瞭解AdobeIdentity Management的Marketo Engage。
+下列文章將協助您使用Adobe Identity Management設定並瞭解Marketo Engage。
 
 ## 系統管理員設定 {#system-admin-setup}
 
@@ -31,20 +31,20 @@ ht-degree: 0%
 
 [移除使用者](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md#remove-a-user){target="_blank"}
 
-## Marketo Engage中僅API使用者 {#api-only-user-in-marketo-engage}
+## Marketo Engage中的僅API使用者 {#api-only-user-in-marketo-engage}
 
-僅限Marketo Engage API必須在Marketo Engage中建立和管理使用者。
+必須在Marketo Engage中建立和管理「僅限Marketo Engage API使用者」 。
 
 [為啟用Adobe IMS的訂閱新增API使用者](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}
 
 ## 透過CSV新增使用者 {#add-users-via-csv}
 
-[匯入CSV](https://helpx.adobe.com/tw/enterprise/using/bulk-upload-users.html#add-users){target="_blank"}
+[匯入CSV](https://helpx.adobe.com/enterprise/using/bulk-upload-users.html#add-users){target="_blank"}
 
 ## 使用者登入 {#user-sign-in}
 
 [使用Adobe ID登入的使用者](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}
 
-## 常見問題集 {#faq}
+## 常見問題 {#faq}
 
 [常見問題](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}

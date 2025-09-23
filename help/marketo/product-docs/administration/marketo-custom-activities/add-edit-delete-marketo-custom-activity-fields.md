@@ -1,23 +1,23 @@
 ---
 unique-page-id: 10100275
 description: 新增/編輯/刪除Marketo自訂活動欄位 — Marketo檔案 — 產品檔案
-title: 新增/編輯/刪除Marketo自訂活動欄位
+title: 新增/編輯/刪除 Marketo 自訂活動欄位
 exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
 feature: Custom Activities
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '262'
-ht-degree: 3%
+ht-degree: 14%
 
 ---
 
-# 新增/編輯/刪除Marketo自訂活動欄位 {#add-edit-delete-marketo-custom-activity-fields}
+# 新增/編輯/刪除 Marketo 自訂活動欄位 {#add-edit-delete-marketo-custom-activity-fields}
 
 您可能需要新增、變更，或甚至移除自訂活動欄位。 方法如下。
 
 ## 新增自訂活動欄位 {#add-a-custom-activity-field}
 
-1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-1.png)
 
@@ -53,7 +53,7 @@ ht-degree: 3%
 
 ## 編輯自訂活動欄位 {#edit-a-custom-activity-field}
 
-1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-8.png)
 
@@ -97,7 +97,7 @@ ht-degree: 3%
 
 ## 刪除自訂活動欄位 {#delete-a-custom-activity-field}
 
-1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-15.png)
 

@@ -1,16 +1,16 @@
 ---
 description: 代理程式收件匣 — Marketo檔案 — 產品檔案
-title: 專員收件匣
+title: 代理人收件匣
 feature: Dynamic Chat
 exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '550'
 ht-degree: 0%
 
 ---
 
-# 專員收件匣 {#agent-inbox}
+# 代理人收件匣 {#agent-inbox}
 
 代理程式將會在「代理程式收件匣」中欄位即時聊天。 除了使用中的交談之外，他們可以看到過去的交談、訪客資訊等。
 

@@ -4,14 +4,14 @@ description: 發行說明 — 2013年6月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2013年6月
 exl-id: c4f022f2-e579-42ed-9e47-00dcd96d0e6f
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '161'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 發行說明： 2013年6月 {#release-notes-june}
+# 發行說明：2013 年 6 月 {#release-notes-june}
 
 6月發行版本包含下列功能。
 

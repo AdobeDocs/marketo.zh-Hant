@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7511512
 description: 在Salesforce1中安裝及設定Marketo Sales Insight - Marketo檔案 — 產品檔案
-title: 在Salesforce1中安裝及設定Marketo Sales Insight
+title: 在 Salesforce1 中安裝及設定 Marketo 銷售洞察
 exl-id: 9f26e90b-3199-4ef8-92bc-95e8bd81f1c5
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '284'
-ht-degree: 4%
+ht-degree: 7%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->[!DNL Marketo Sales Insight]中的[!DNL Salesforce1]包括：[!DNL B最佳賭注]、銷售機會摘要、有趣的時刻，以及新增至Marketo行銷活動。
+>[!DNL Marketo Sales Insight]中的[!DNL Salesforce1]包括：[!DNLB最佳賭注]、銷售機會摘要、有趣的時刻，以及新增至Marketo行銷活動。
 
 ## 啟用[!DNL Salesforce1]行動應用程式 {#enable-the-salesforce1-mobile-app}
 
@@ -57,7 +57,7 @@ ht-degree: 4%
 
    ![](assets/image2015-4-21-15-3a42-3a48.png)
 
-1. 選擇「**[!UICONTROL Mobile Administration]**」。
+1. 選取「**[!UICONTROL Mobile Administration]**」。
 
    ![](assets/image2015-4-22-11-3a10-3a14.png)
 
@@ -79,11 +79,11 @@ ht-degree: 4%
 
    ![](assets/image2015-4-22-15-3a13-3a48.png)
 
-1. 選擇「**[!UICONTROL Manage Users]**」。
+1. 選取「**[!UICONTROL Manage Users]**」。
 
    ![](assets/image2015-5-5-11-3a13-3a45.png)
 
-1. 選擇「**[!UICONTROL Profiles]**」。
+1. 選取「**[!UICONTROL Profiles]**」。
 
    ![](assets/image2015-5-5-11-3a15-3a21.png)
 
@@ -95,7 +95,7 @@ ht-degree: 4%
 
    ![](assets/image2015-5-5-13-3a55-3a36.png)
 
-1. 選擇「**[!UICONTROL Tab Hidden]**」。
+1. 選取「**[!UICONTROL Tab Hidden]**」。
 
    ![](assets/image2015-5-5-14-3a2-3a29.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147060
 description: 取消排程的週期性批次行銷活動執行 — Marketo檔案 — 產品檔案
-title: 取消排程的週期性批次行銷活動執行
+title: 取消已安排的定期批次行銷活動執行
 exl-id: 7a659d4e-e546-4630-a36f-38ed80dd2a6e
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '117'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
-# 取消排程的週期性批次行銷活動執行 {#cancel-a-scheduled-recurring-batch-campaign-run}
+# 取消已安排的定期批次行銷活動執行 {#cancel-a-scheduled-recurring-batch-campaign-run}
 
 如果您有循環的「批次促銷活動」，而您不想再有這種活動，您可以取消未來的執行。 方法如下。
 

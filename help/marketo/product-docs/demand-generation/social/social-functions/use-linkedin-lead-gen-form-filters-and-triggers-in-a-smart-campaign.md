@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12976776
 description: 在Smart Campaign中使用LinkedIn銷售機會一般表單篩選器和觸發器 — Marketo檔案 — 產品檔案
-title: 在Smart Campaign中使用LinkedIn銷售機會一般表單篩選器和觸發器
+title: 在智慧行銷活動中使用 LinkedIn 商機開發表單篩選器和觸發程序
 exl-id: 386c25e7-b0fb-4271-bd39-98e36306de6b
 feature: Social
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '128'
-ht-degree: 0%
+ht-degree: 18%
 
 ---
 
-# 在Smart Campaign中使用LinkedIn銷售機會一般表單篩選器和觸發器 {#use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign}
+# 在智慧行銷活動中使用 LinkedIn 商機開發表單篩選器和觸發程序 {#use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign}
 
 當您啟用LinkedIn Lead Gen Forms後，便可以在智慧型行銷活動中作為篩選器和觸發器使用。
 

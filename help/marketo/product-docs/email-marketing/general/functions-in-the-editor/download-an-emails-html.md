@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900552
 description: 下載電子郵件的HTML - Marketo檔案 — 產品檔案
-title: 下載電子郵件的HTML
+title: 下載電子郵件的 HTML
 exl-id: e749c520-6ae6-4460-89b7-6de3b39ef2c7
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '45'
-ht-degree: 0%
+ht-degree: 17%
 
 ---
 
-# 下載電子郵件的HTML {#download-an-emails-html}
+# 下載電子郵件的 HTML {#download-an-emails-html}
 
 為了備份和其他用途，Marketo可讓您下載電子郵件的HTML內容。
 

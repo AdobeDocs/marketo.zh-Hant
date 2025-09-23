@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2359426
 description: 更新人員資料 — Marketo檔案 — 產品檔案
-title: 更新個人資料
+title: 更新人員資料
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
 feature: Getting Started
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '180'
-ht-degree: 0%
+ht-degree: 17%
 
 ---
 
-# 更新個人資料 {#update-person-data}
+# 更新人員資料 {#update-person-data}
 
 ## 任務：更新個人的聯絡資訊或其他資料 {#mission-update-a-persons-contact-info-or-other-data}
 
 >[!PREREQUISITES]
 >
->* [設定並新增人員](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>* [完成設定與新增人員](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 >* [匯入人員清單](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
 
 假設在您最近的商展上，有人提供您一些額外的聯絡資訊。 以下說明如何更新人員資料。
@@ -52,9 +52,9 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->* 請確定電子郵件地址只包含ASCII字元。
+>* 確保電子郵件地址僅包含 ASCII 字元。
 >
->* Marketo **不**&#x200B;支援包含emoji的電子郵件地址。
+>* Marketo **不**&#x200B;支援包含表情符號的電子郵件地址。
 
 >[!NOTE]
 >
@@ -64,7 +64,7 @@ ht-degree: 0%
 
 做得好！ 您已更新個人資料。
 
-<br> 
+<br>
 
 [◄任務8：警示銷售代表](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
 

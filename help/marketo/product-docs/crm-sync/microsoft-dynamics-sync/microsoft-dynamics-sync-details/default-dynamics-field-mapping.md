@@ -1,16 +1,16 @@
 ---
 description: 預設動態欄位對應 — Marketo檔案 — 產品檔案
-title: 預設動態欄位對應
+title: 預設 Dynamics 欄位對應
 exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '332'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
-# 預設動態欄位對應 {#default-dynamics-field-mapping}
+# 預設 Dynamics 欄位對應 {#default-dynamics-field-mapping}
 
 當您初次將Marketo Engage帳戶與Microsoft同步時，Marketo會自動在內建的Dynamics和Marketo欄位之間建立這些關聯。  Marketo也會同步處理潛在客戶、帳戶、商機和聯絡人上的自訂欄位。
 

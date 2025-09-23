@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7513771
 description: 登入與使用者管理 — Marketo檔案 — 產品檔案
-title: 登入和使用者管理
+title: 登入及使用者管理
 exl-id: 3cf5a50a-1926-4fb6-a1fe-39ba5eb2560f
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '267'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 登入和使用者管理 {#login-and-user-management}
+# 登入及使用者管理 {#login-and-user-management}
 
 ## 建立[!UICONTROL Web Personalization]使用者角色 {#create-a-web-personalization-user-role}
 

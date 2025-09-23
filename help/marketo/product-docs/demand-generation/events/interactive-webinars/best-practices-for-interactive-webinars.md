@@ -3,7 +3,7 @@ description: 互動式網路研討會的最佳作法 — Marketo檔案 — 產�
 title: 互動式網路研討會的最佳做法
 feature: Interactive Webinars
 exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
-source-git-commit: cf840cee3be4ee6bb9effca6e85dfa2200153e62
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1704'
 ht-degree: 0%
@@ -85,7 +85,7 @@ ht-degree: 0%
 
 * **Q&amp;A Pod**：提交問題的參與者名稱以及回答問題的主持人/簡報者名稱皆可隱藏。 取消勾選「會議室偏好設定」中「問答Pod」區段底下的「隱私權」選項，即可完成此專案。
 
-* **聊天面板**：聊天面板是一個聊天區域，它不屬於工作階段錄製。 因此，如果您不希望聊天出現在錄製中，請使用「聊天面板」而非「聊天Pod」。 [按一下這裡](https://helpx.adobe.com/tw/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}閱讀更多有關使用聊天面板的資訊。
+* **聊天面板**：聊天面板是一個聊天區域，它不屬於工作階段錄製。 因此，如果您不希望聊天出現在錄製中，請使用「聊天面板」而非「聊天Pod」。 [按一下這裡](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}閱讀更多有關使用聊天面板的資訊。
 
 * **私人聊天**：關閉私人聊天以防止參與者無法Ping通其他參與者。 這可透過取消勾選「聊天室偏好設定」中「聊天」區段下的「允許參與者私人聊天」來達成。
 

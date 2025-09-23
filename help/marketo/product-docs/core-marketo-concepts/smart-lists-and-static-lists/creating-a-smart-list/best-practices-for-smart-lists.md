@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7512524
 description: 智慧列示的最佳實務 — Marketo檔案 — 產品檔案
-title: 智慧列示的最佳作法
+title: 智慧清單的最佳做法
 exl-id: 466de198-1012-4ac3-906c-d41943fe5bc0
 feature: Smart Lists
-source-git-commit: 198d7d7fd4c1c312aeb30fa922fd89863ac87f81
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '566'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 智慧列示的最佳作法 {#best-practices-for-smart-lists}
+# 智慧清單的最佳做法 {#best-practices-for-smart-lists}
 
 智慧列示是行銷領域最強大的查詢工具。 他們以神奇的速度輕鬆找到您要找的人。
 
@@ -31,9 +31,9 @@ ht-degree: 0%
 1. **使用閒置篩選器時請節儉 —**&#x200B;像「未填寫表單」這樣的篩選器可能真的很實用，但需要更多的處理能力。
 1. **貼上多個值時請節儉 —**&#x200B;多重選取是專為貼上數十個或數百個值所設計。 但是，輸入太多，速度就會變慢。
 1. **新增限制時請節儉 —**&#x200B;這些是規則和相關值的細微細節。 您新增的限制越多，處理時間就越慢。
-1. **簡化您的行銷活動 —** 100+個獨立規則（我們已看過！） 顯然需要一些時間處理。 保持簡單，您將會注意到速度提升，而且更容易理解。
+1. **簡化您的行銷活動 —** 100+個獨立規則（我們已經看過！）顯然需要一些時間才能處理。 保持簡單，您將會注意到速度提升，而且更容易理解。
 1. **使用電子郵件地址篩選器時，在網域名稱前加入@符號** **-**&#x200B;這可使其使用更快的查詢。 範例：不使用&#x200B;_電子郵件包含&#39;somedomain.com&#39;_，而使用&#x200B;_電子郵件包含&#39;@somedomain.com_&#39;。 如果您使用多個電子郵件地址加上「包含」，則所有電子郵件地址的開頭都必須是「@」。
 
 >[!TIP]
 >
->Marketo Engage的使用方式有很多種，某些技巧對您和您的企業更好。 如果您想要獲得協助，請聯絡您的Adobe Professional Services銷售代表，以充分利用您的投資。
+>Marketo Engage有許多使用方式，某些技巧更適合您和您的企業。 如果您想要獲得協助，請聯絡您的Adobe Professional Services銷售代表，以充分利用您的投資。

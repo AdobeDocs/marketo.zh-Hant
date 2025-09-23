@@ -1,15 +1,15 @@
 ---
 description: 從Salesforce Lightning解除安裝Marketo Sales Connect - Marketo檔案 — 產品檔案
-title: 從Salesforce Lightning解除安裝Marketo Sales Connect
+title: 從 Salesforce Lightning 解除安裝 Marketo Sales Connect
 exl-id: 4af89222-22b1-4c08-8081-3dab89d1985b
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1192'
-ht-degree: 8%
+ht-degree: 9%
 
 ---
 
-# 從Salesforce Lightning解除安裝Marketo Sales Connect {#uninstall-marketo-sales-connect-from-salesforce-lightning}
+# 從 Salesforce Lightning 解除安裝 Marketo Sales Connect {#uninstall-marketo-sales-connect-from-salesforce-lightning}
 
 以下說明開始使用Sales Insight Actions後，如何從您的Salesforce帳戶解除安裝Marketo Sales Connect套件。
 
@@ -113,7 +113,7 @@ ht-degree: 8%
 
    ![](assets/uninstall-salesforce-lightning-customization-package-18.png)
 
-1. 選取&#x200B;**新增至MSC促銷活動**、**含MSC的電子郵件**&#x200B;和&#x200B;**推送至MSC**，然後按一下[移除]箭頭。 然後按一下[儲存]。**&#x200B;**
+1. 選取&#x200B;**新增至MSC促銷活動**、**含MSC的電子郵件**&#x200B;和&#x200B;**推送至MSC**，然後按一下[移除]箭頭。 然後按一下[儲存]。****
 
    ![](assets/uninstall-salesforce-lightning-customization-package-19.png)
 
@@ -171,7 +171,7 @@ ht-degree: 8%
 
 1. 按一下&#x200B;**自訂我的標籤**。
 
-1. 從右側選取「Marketo銷售寄件匣」選項。 按一下[移除]箭頭，然後按一下[儲存]。**&#x200B;**。
+1. 從右側選取「Marketo銷售寄件匣」選項。 按一下[移除]箭頭，然後按一下[儲存]。****。
 
 ## 刪除Sales Connect封裝 {#delete-sales-connect-package}
 
@@ -289,7 +289,7 @@ ht-degree: 8%
   <td>
   <p>帳戶
   <p>聯絡人
-  <p>銷售機會
+  <p>商機
   <p>機會</td>
   <td>資料與時間</td>
  </tr>
@@ -299,7 +299,7 @@ ht-degree: 8%
   <td>
   <p>帳戶
   <p>聯絡人
-  <p>銷售機會
+  <p>商機
   <p>機會</td>
   <td>資料與時間</td>
  </tr>
@@ -309,7 +309,7 @@ ht-degree: 8%
   <td>
   <p>帳戶
   <p>聯絡人
-  <p>銷售機會
+  <p>商機
   <p>機會</td>
   <td>文字</td>
  </tr>
@@ -319,7 +319,7 @@ ht-degree: 8%
   <td>
   <p>帳戶
   <p>聯絡人
-  <p>銷售機會
+  <p>商機
   <p>機會</td>
   <td>文字</td>
  </tr>
@@ -329,7 +329,7 @@ ht-degree: 8%
   <td>
   <p>帳戶
   <p>聯絡人
-  <p>銷售機會
+  <p>商機
   <p>機會</td>
   <td>文字</td>
  </tr>
@@ -339,7 +339,7 @@ ht-degree: 8%
   <td>
   <p>帳戶
   <p>聯絡人
-  <p>銷售機會
+  <p>商機
   <p>機會</td>
   <td>資料與時間</td>
  </tr>
@@ -349,7 +349,7 @@ ht-degree: 8%
   <td>
   <p>帳戶
   <p>聯絡人
-  <p>銷售機會
+  <p>商機
   <p>機會</td>
   <td>資料與時間</td>
  </tr>
@@ -359,7 +359,7 @@ ht-degree: 8%
   <td>
   <p>帳戶
   <p>聯絡人
-  <p>銷售機會
+  <p>商機
   <p>機會</td>
   <td>文字</td>
  </tr>
@@ -369,7 +369,7 @@ ht-degree: 8%
   <td>
   <p>帳戶
   <p>聯絡人
-  <p>銷售機會
+  <p>商機
   <p>機會</td>
   <td>資料與時間</td>
  </tr>
@@ -379,7 +379,7 @@ ht-degree: 8%
   <td>
   <p>帳戶
   <p>聯絡人
-  <p>銷售機會
+  <p>商機
   <p>機會</td>
   <td>核取方塊</td>
  </tr>
@@ -397,7 +397,7 @@ ht-degree: 8%
   <td>
   <p>帳戶
   <p>聯絡人
-  <p>銷售機會
+  <p>商機
   <p>機會</td>
  </tr>
  <tr>
@@ -405,21 +405,21 @@ ht-degree: 8%
   <td>從Salesforce新增至MSC行銷活動</td>
   <td>
   <p>聯絡人
-  <p>銷售機會</td>
+  <p>商機</td>
  </tr>
  <tr>
   <td>推送至MSC</td>
   <td>從Salesforce將連絡人推播至MSC</td>
   <td>
   <p>聯絡人
-  <p>銷售機會</td>
+  <p>商機</td>
  </tr>
  <tr>
   <td>使用MSC來電</td>
   <td>從Salesforce撥打銷售電話</td>
   <td>
   <p>聯絡人
-  <p>銷售機會</td>
+  <p>商機</td>
  </tr>
 </table>
 
@@ -434,20 +434,20 @@ ht-degree: 8%
   <td>從Salesforce新增至MSC行銷活動</td>
   <td>
   <p>聯絡人
-  <p>銷售機會</td>
+  <p>商機</td>
  </tr>
  <tr>
   <td>推送至MSC</td>
   <td>從Salesforce將連絡人推播至MSC</td>
   <td>
   <p>聯絡人
-  <p>銷售機會</td>
+  <p>商機</td>
  </tr>
  <tr>
   <td>使用MSC傳送電子郵件</td>
   <td>從Salesforce使用MSC傳送電子郵件</td>
   <td>
   <p>聯絡人
-  <p>銷售機會</td>
+  <p>商機</td>
  </tr>
 </table>

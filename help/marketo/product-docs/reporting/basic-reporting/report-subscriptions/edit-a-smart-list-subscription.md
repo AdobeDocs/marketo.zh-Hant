@@ -4,10 +4,10 @@ description: 編輯智慧清單訂閱 — Marketo檔案 — 產品檔案
 title: 編輯智慧清單訂閱
 exl-id: f745c887-c8f8-44bc-a0fe-da0669155ef9
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '182'
-ht-degree: 1%
+ht-degree: 6%
 
 ---
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359953
 description: 已用盡內容的人 — Marketo檔案 — 產品檔案
-title: 已用完內容的人
+title: 內容已用盡的人員
 exl-id: d32dfbc0-cac9-4df9-a8f6-45ebdd4a9f79
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '167'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# 已用完內容的人 {#people-who-have-exhausted-content}
+# 內容已用盡的人員 {#people-who-have-exhausted-content}
 
 當使用者已收到資料流中的每一項內容時，就會用盡所有可能性，並等候閒置直到新增更多內容。 您可以找到在多種方式中「筋疲力盡」的人。
 

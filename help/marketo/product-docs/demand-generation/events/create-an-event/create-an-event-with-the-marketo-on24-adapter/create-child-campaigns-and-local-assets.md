@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10096675
 description: 建立子行銷活動和本機Assets - Marketo檔案 — 產品檔案
-title: 建立子行銷活動和本機Assets
+title: 建立子系行銷活動和本地資產
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '650'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# 建立子行銷活動和本機Assets {#create-child-campaigns-and-local-assets}
+# 建立子系行銷活動和本地資產 {#create-child-campaigns-and-local-assets}
 
 使用Design Studio建立您的子行銷活動和本機資產。
 

@@ -1,15 +1,15 @@
 ---
 description: 將銷售動作資料與Marketo和Salesforce同步 — Marketo檔案 — 產品檔案
-title: 與Marketo和Salesforce同步銷售動作資料
+title: 與 Marketo 和 Salesforce 同步銷售動作資料
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1068'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# 與Marketo和Salesforce同步銷售動作資料 {#sync-sales-action-data-with-marketo-and-salesforce}
+# 與 Marketo 和 Salesforce 同步銷售動作資料 {#sync-sales-action-data-with-marketo-and-salesforce}
 
 Sales Insight Actions的資料統一欄位同步可讓系統從Marketo Engage資料庫將人員資訊提取到Sales Insight Actions資料庫中。
 

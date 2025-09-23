@@ -1,12 +1,12 @@
 ---
 description: Marketo取消訂閱檢查 — Marketo檔案 — 產品檔案
-title: Marketo取消訂閱檢查
+title: Marketo 取消訂閱檢查
 exl-id: 3c242d04-cf6c-466b-9bcd-e77c6d97d308
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '128'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
@@ -28,11 +28,11 @@ ht-degree: 0%
 
    ![](assets/marketo-unsubscribe-check-2.png)
 
-1. 按一下「**[!UICONTROL Integrations]**」標籤。 在[!UICONTROL Marketo Unsubscribe Check]區段中，按一下滑桿以啟動檢查。
+1. 按一下「**[!UICONTROL Integrations]**」索引標籤。在[!UICONTROL Marketo Unsubscribe Check]區段中，按一下滑桿以啟動檢查。
 
    ![](assets/marketo-unsubscribe-check-3.png)
 
-## 須知 {#things-to-know}
+## 應知事項 {#things-to-know}
 
 Marketo取消訂閱檢查……
 

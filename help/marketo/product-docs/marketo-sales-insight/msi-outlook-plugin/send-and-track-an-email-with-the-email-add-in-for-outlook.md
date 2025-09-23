@@ -4,7 +4,7 @@ description: 使用 [!DNL Outlook] - Marketo檔案 — 產品檔案的電子郵�
 title: 使用 [!DNL Outlook]的電子郵件增益集傳送及追蹤電子郵件
 exl-id: 81c2ce86-1528-48ad-8848-ee5a828f9ff7
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 0%

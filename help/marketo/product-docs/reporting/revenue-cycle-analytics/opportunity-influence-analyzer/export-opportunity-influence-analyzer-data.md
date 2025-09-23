@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360394
 description: 匯出機會影響分析器資料 — Marketo檔案 — 產品檔案
-title: 匯出機會影響分析器資料
+title: 匯出機會影響分析工具資料
 exl-id: 081c94fa-8f56-489e-85d3-ca4bf4da65fa
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '126'
-ht-degree: 1%
+ht-degree: 9%
 
 ---
 
-# 匯出機會影響分析器資料 {#export-opportunity-influence-analyzer-data}
+# 匯出機會影響分析工具資料 {#export-opportunity-influence-analyzer-data}
 
 若要接收來自Revenue Cycle Explorer報表的更新並共用這些更新，您可以訂閱現有報表的任何電子郵件地址。
 

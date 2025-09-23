@@ -1,16 +1,16 @@
 ---
 description: 程式匯入程式庫概觀 — Marketo檔案 — 產品檔案
-title: 程式匯入程式庫概觀
+title: 方案匯入資料庫概觀
 feature: Programs
 exl-id: 1e754eed-b5e7-419f-a786-2bc9cbd1d21f
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# 程式匯入程式庫概觀 {#program-import-library-overview}
+# 方案匯入資料庫概觀 {#program-import-library-overview}
 
 Marketo Engage參考資料庫包含數個入門程式，您可以直接匯入您的Marketo執行個體，以快速開始建立將協助支援您團隊的程式。
 

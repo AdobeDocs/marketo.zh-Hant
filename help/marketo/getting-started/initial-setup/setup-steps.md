@@ -4,10 +4,10 @@ short-description: 剛開始使用 Adobe Marketo Engage？了解深入使用前�
 title: 設定步驟
 feature: Getting Started
 exl-id: 5f37da48-b2ed-4e48-a5a2-429149745085
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1663'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -80,7 +80,7 @@ ht-degree: 2%
 
 您現在擁有傳送要求給IT所需的所有資訊！
 
-## 使用CNAME自訂您的登陸頁面URL {#customize-your-landing-page-urls-with-a-cname}
+## 使用 CNAME 自訂您的登陸頁面 URL {#customize-your-landing-page-urls-with-a-cname}
 
 >[!NOTE]
 >
@@ -270,7 +270,7 @@ Marketo Engage有自訂追蹤JavaScript （稱為[!DNL Munchkin]），您可以�
 
 ## 效能期望 {#performance-expectations}
 
-Marketo的效能表現如何？ 其可能會因行銷活動的規模和複雜性而異。 但您可在[Marketo Engage產品說明](https://helpx.adobe.com/tw/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}中找到的數個表格中，預期與「標準」欄中所概述的效能等級相等。 「效能」和「效能加上」欄是指提供[較高效能等級](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}的效能層級套件。
+Marketo的效能表現如何？ 其可能會因行銷活動的規模和複雜性而異。 但您可在[Marketo Engage產品說明](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}中找到的數個表格中，預期與「標準」欄中所概述的效能等級相等。 「效能」和「效能加上」欄是指提供[較高效能等級](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}的效能層級套件。
 
 >[!MORELIKETHIS]
 >

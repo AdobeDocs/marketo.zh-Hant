@@ -1,23 +1,23 @@
 ---
 unique-page-id: 8781845
 description: 瞭解Marketo時刻 — Marketo檔案 — 產品檔案
-title: 瞭解Marketo時刻
+title: 了解 Marketo 重要時刻
 exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 feature: Mobile Marketing
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '604'
-ht-degree: 0%
+source-wordcount: '586'
+ht-degree: 1%
 
 ---
 
-# 瞭解Marketo時刻 {#understanding-marketo-moments}
+# 了解 Marketo 重要時刻 {#understanding-marketo-moments}
 
 Marketo的強大功能已唾手可得！ 直接從您的手機或iPad預覽和重新排程電子郵件。
 
 >[!IMPORTANT]
 >
->在2023年10月2日，Adobe已從所有應用程式商店移除Marketo Ments App。 如果您的平板電腦/行動裝置上已安裝應用程式，目前可繼續使用。 一旦您的Marketo Engage執行個體移轉至Adobe身分以驗證Marketo，您將無法再存取應用程式。 [深入瞭解](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}。
+>2023年10月2日，Adobe從所有應用程式商店移除Marketo Ments App。 如果您的平板電腦/行動裝置上已安裝應用程式，目前可繼續使用。 一旦您的Marketo Engage執行個體移轉至Adobe Identity以驗證Marketo，您將無法再存取應用程式。 [了解更多](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}。
 
 >[!NOTE]
 >
@@ -33,10 +33,10 @@ Marketo的強大功能已唾手可得！ 直接從您的手機或iPad預覽和�
 >
 >**定義**
 >
->* [!UICONTROL 時刻]：剛才執行或即將執行的任何專案都會移至此處。
->* [!UICONTROL 我的最愛]：您做我的最愛的任何內容都會放在這裡。
->* [!UICONTROL 稍後]：在此之後發生的任何事情都會進入這裡。
->* [!UICONTROL 完成]：已完成或您標示為完成的任何專案都會移至此處。
+>* [!UICONTROL Moments]：剛才執行或即將執行的任何專案，都會移至此處。
+>* [!UICONTROL Favorites]：您做成最愛的任何專案都會放在這裡。
+>* [!UICONTROL Later]：在此之後發生的任何事情都會進入這裡。
+>* [!UICONTROL Done]：已完成執行或您標示為完成的任何專案都會移至此處。
 
 好了，現在我們已解決這個問題，讓我們在電話上看看Marketo時刻！
 
@@ -44,21 +44,21 @@ Marketo的強大功能已唾手可得！ 直接從您的手機或iPad預覽和�
 
 Marketo時刻提供您三種不同的卡片，可追蹤電子郵件的進度：
 
-**[!UICONTROL 待命]** — 此電子郵件即將寄出。 這是您預覽或傳送範例，甚至於必要時取消的最後機會。
+**[!UICONTROL On-Deck]** — 此電子郵件即將寄出。 這是您預覽或傳送範例，甚至於必要時取消的最後機會。
 
 ![](assets/image2015-7-17-11-3a25-3a48.png)
 
-**[!UICONTROL 心率]** — 嘿 — 此電子郵件正在傳遞！ 這裡也有統計資料。 繼續進行並分享。
+**[!UICONTROL Heart-beat]** — 嘿 — 此電子郵件正在傳遞！ 這裡也有統計資料。 繼續進行並分享。
 
 ![](assets/image2015-7-17-11-3a27-3a22.png)
 
-**[!UICONTROL 結果]** — 以下是電子郵件的運作方式。 電子郵件執行完畢後，「結果」卡片會顯示參與分數和其他統計資料。
+**[!UICONTROL Results]** — 以下是電子郵件的運作方式。 電子郵件執行完畢後，「結果」卡片會顯示參與分數和其他統計資料。
 
 ![](assets/image2015-7-17-11-3a43-3a28.png)
 
 ## 時刻資料流 {#moments-stream}
 
-當您第一次開啟應用程式或點選功能表中的&#x200B;**[!UICONTROL 時刻]**&#x200B;時，會先顯示相關卡片。 每一個都包含特定行銷計畫及其整體績效的相關資訊。
+當您第一次開啟應用程式或點選功能表中的&#x200B;**[!UICONTROL Moments]**&#x200B;時，會先顯示相關卡片。 每一個都包含特定行銷計畫及其整體績效的相關資訊。
 
 ![](assets/image2015-7-15-10-3a46-3a19.png)
 
@@ -82,11 +82,11 @@ Marketo時刻提供您三種不同的卡片，可追蹤電子郵件的進度：
 >
 >**定義**
 >
->* [!UICONTROL 我的最愛]：如果您將內容設為我的最愛，可以輕鬆注意到最及時且最重要的內容。
->* [!UICONTROL 完成]：「完成」可讓此專案脫離您的Marketo時刻檢視(但保留在Marketo中，安全無虞)。
->* [!UICONTROL 共用]：傳送影像以激勵或祝賀您的團隊。
->* [!UICONTROL 傳送範例] （僅限電子郵件）：使用此功能讓其他人檢視您的電子郵件在您傳送出去之前的面貌。
->* [!UICONTROL 預覽電子郵件] （僅限電子郵件）：最好是預先取出您的電子郵件。
+>* [!UICONTROL Favorite]：如果您將內容設成我的最愛，可以輕鬆注意到最及時且最重要的內容。
+>* [!UICONTROL Done]：「完成」可讓您從Marketo的「時刻」檢視中移除(但保留在Marketo中，安全無虞)。
+>* [!UICONTROL Share]：傳送影像以激勵或祝賀您的團隊。
+>* [!UICONTROL Send Sample] （僅限電子郵件）：使用此功能讓其他人檢視您的電子郵件在您傳送出去之前的面貌。
+>* [!UICONTROL Preview Email] （僅限電子郵件）：最好是預先取出您的電子郵件。
 
 ## 後續時刻 {#later-moments}
 
@@ -96,7 +96,7 @@ Marketo時刻提供您三種不同的卡片，可追蹤電子郵件的進度：
 
    ![](assets/image2015-7-15-10-3a52-3a5.png)
 
-1. 點選&#x200B;**[!UICONTROL 稍後]**。
+1. 點選&#x200B;**[!UICONTROL Later]**。
 
    ![](assets/image2015-7-15-10-3a54-3a47.png)
 
@@ -134,7 +134,7 @@ Analytics時刻卡片會向您顯示過去六個月每月電子郵件和事件�
 
 ## 確認或取消動作 {#confirm-or-cancel-an-action}
 
-在此過程中的每個步驟，您都可以確認或取消動作。 如果您改變心意，只要點選&#x200B;**[!UICONTROL 別介意]**。
+在此過程中的每個步驟，您都可以確認或取消動作。 如果您改變心意，只要點選&#x200B;**[!UICONTROL Never Mind]**。
 
 ![](assets/image2015-7-14-17-3a11-3a29.png)
 

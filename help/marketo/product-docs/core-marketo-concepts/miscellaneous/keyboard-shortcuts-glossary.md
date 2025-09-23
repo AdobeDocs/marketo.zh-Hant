@@ -3,10 +3,10 @@ unique-page-id: 1147318
 description: 鍵盤快速鍵字彙表 — Marketo檔案 — 產品檔案
 title: 鍵盤快速鍵字彙表
 exl-id: ca85bd0f-5ed3-4ae2-a20b-ef3151609f83
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '114'
-ht-degree: 5%
+ht-degree: 17%
 
 ---
 
@@ -16,16 +16,16 @@ ht-degree: 5%
 
 ## 區域導覽 {#area-navigation}
 
-| 鍵盤快速鍵 | 面積圖 |
+| 鍵盤快速鍵 | 區域圖 |
 |---|---|
-| Alt/Opt + A | Analytics |
+| Alt/Opt + A | 分析 |
 | Alt/Opt + C | 行事曆 |
 | Alt/Opt + D | Design Studio |
 | Alt/Opt + F | 全域搜尋 |
 | Alt/Opt + L | 資料庫 |
 | Alt/Opt + M | 行銷活動 |
 | Opt + N | 管理員 |
-| Opt + O | 我的Marketo |
+| Opt + O | 我的 Marketo |
 
 ## 行事曆/排程檢視導覽  {#calendar-schedule-view-navigation}
 

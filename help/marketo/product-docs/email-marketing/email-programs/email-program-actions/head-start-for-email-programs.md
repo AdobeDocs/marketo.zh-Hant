@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10097202
 description: 電子郵件計畫快速入門 — Marketo檔案 — 產品檔案
-title: 電子郵件程式快速入門
+title: 電子郵件方案的提前開始功能
 exl-id: f7c8b082-4d83-4e3b-8aa4-7b252e3dacd3
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '393'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 電子郵件程式快速入門 {#head-start-for-email-programs}
+# 電子郵件方案的提前開始功能 {#head-start-for-email-programs}
 
 >[!PREREQUISITES]
 >

@@ -3,10 +3,10 @@ description: 新增或移除聊天使用者 — Marketo檔案 — 產品檔案
 title: 新增或移除聊天使用者
 feature: Dynamic Chat
 exl-id: 2f5237f7-edb2-4332-97f1-c5b904ce2d92
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '233'
-ht-degree: 3%
+ht-degree: 8%
 
 ---
 
@@ -72,7 +72,7 @@ ht-degree: 3%
 
    ![](assets/add-or-remove-chat-users-10.png)
 
-1. 選取&#x200B;**[!UICONTROL Access Dynamic Chat]**&#x200B;並按一下&#x200B;**[!UICONTROL Save]**。
+1. 選取「**[!UICONTROL Access Dynamic Chat]**」然後按一下「**[!UICONTROL Save]**」。
 
    ![](assets/add-or-remove-chat-users-11.png)
 

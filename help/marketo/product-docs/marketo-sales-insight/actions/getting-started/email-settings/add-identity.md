@@ -1,16 +1,16 @@
 ---
 description: 新增身分 — Marketo檔案 — 產品檔案
-title: 新增身分
+title: 新增身分識別
 exl-id: a85937c3-aa15-4900-a42b-950ab2ae1776
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '174'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# 新增身分 {#add-identity}
+# 新增身分識別 {#add-identity}
 
 當您有多個要傳送的電子郵件地址時，請新增身分識別。
 

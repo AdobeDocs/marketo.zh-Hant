@@ -3,16 +3,16 @@ description: Demandbase - Marketo檔案 — 產品檔案
 title: Demandbase
 feature: Dynamic Chat
 exl-id: 2623eef2-0b15-4821-a23e-12eed613d6b6
-source-git-commit: 14bf3ca81a3732c2687f66ca71ac832ae3177623
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '179'
-ht-degree: 2%
+ht-degree: 12%
 
 ---
 
 # Demandbase {#demandbase}
 
-Demandbase使用者可以使用Demandbase人員屬性來進行Dynamic Chat中的對話方塊目標定位、條件式品牌和自訂路由。
+Demandbase 使用者可以在 Dynamic Chat 中使用 Demandbase 人員屬性進行對話目標選擇、條件式品牌化以及自訂路由。
 
 ## 存取Dynamic Chat的API金鑰 {#access-the-api-key-for-dynamic-chat}
 

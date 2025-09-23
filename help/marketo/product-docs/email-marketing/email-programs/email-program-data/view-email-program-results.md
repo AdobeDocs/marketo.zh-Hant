@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2951167
 description: 檢視電子郵件程式結果 — Marketo檔案 — 產品檔案
-title: 檢視電子郵件程式結果
+title: 檢視電子郵件方案結果
 exl-id: 31bb94f5-bb4a-4f9e-96c8-dd744b57f795
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '67'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# 檢視電子郵件程式結果 {#view-email-program-results}
+# 檢視電子郵件方案結果 {#view-email-program-results}
 
 如同智慧行銷活動中的[!UICONTROL Results]索引標籤一樣，您可以在電子郵件方案中看到相同的資訊。
 

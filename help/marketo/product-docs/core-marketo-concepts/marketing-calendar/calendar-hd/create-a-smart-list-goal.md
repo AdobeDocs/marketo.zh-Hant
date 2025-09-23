@@ -4,10 +4,10 @@ description: 建立智慧清單目標 — Marketo檔案 — 產品檔案
 title: 建立智慧清單目標
 exl-id: 3b6690b5-7dd1-46b2-b3f2-254439623f91
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 0%
+source-wordcount: '135'
+ht-degree: 8%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 如同簡報，目標是[工作區](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)特定的。
 
-1. 移至&#x200B;**[!UICONTROL 行事曆]**。
+1. 移至&#x200B;**[!UICONTROL Calendar]**。
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
@@ -25,15 +25,15 @@ ht-degree: 0%
 
    ![](assets/image2015-3-24-12-3a2-3a55.png)
 
-1. 選取&#x200B;**[!UICONTROL 目標]**&#x200B;索引標籤。
+1. 選取&#x200B;**[!UICONTROL Goals]**&#x200B;標籤。
 
    ![](assets/image2015-3-26-12-3a25-3a17.png)
 
-1. 將&#x200B;**[!UICONTROL 智慧清單目標]**&#x200B;拖放到畫布上。
+1. 將&#x200B;**[!UICONTROL Smart List Goal]**&#x200B;拖放到畫布上。
 
    ![](assets/image2015-3-24-12-3a47-3a36.png)
 
-1. 輸入目標的名稱並輸入&#x200B;**[!UICONTROL 目標目標]**。 然後按一下&#x200B;**[!UICONTROL 建立]**。
+1. 輸入目標的名稱並輸入&#x200B;**[!UICONTROL Goal Target]**。 然後按一下「**[!UICONTROL Create]**」。
 
    ![](assets/image2015-3-24-12-3a50-3a6.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    ![](assets/mql.png)
 
-1. 設定好智慧清單後，按一下&#x200B;**[!UICONTROL 關閉]**&#x200B;按鈕，然後返回上一個標籤。
+1. 設定好智慧清單後，按一下&#x200B;**[!UICONTROL Close]**&#x200B;按鈕並返回上一個標籤。
 
    ![](assets/mql2.png)
 

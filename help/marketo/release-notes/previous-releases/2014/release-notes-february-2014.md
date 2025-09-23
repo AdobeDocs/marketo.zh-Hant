@@ -4,14 +4,14 @@ description: 發行說明 — 2014年2月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2014年2月
 exl-id: 5fcac75d-4e09-4f4d-9fd0-7c89f890d63e
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '336'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 發行說明： 2014年2月 {#release-notes-february}
+# 發行說明：2014 年 2 月 {#release-notes-february}
 
 2014年2月發行版本包含下列功能。 請檢查您的Marketo版本是否有功能可用。 發行後，請務必返回尋找每個功能的詳細知識庫文章連結！
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 [將電子郵件度量匯出至 [!DNL Excel]](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/export-email-program-dashboard-to-excel.md)，包括AB測試變體資料。
 
-## [!UICONTROL Engagement Stream Performance]報告中的[!UICONTROL Engagement Score] {#engagement-score-in-engagement-stream-performance-report}
+## [!UICONTROL Engagement Score]報告中的[!UICONTROL Engagement Stream Performance] {#engagement-score-in-engagement-stream-performance-report}
 
 我們已將參與分數新增到[[!UICONTROL Engagement Stream Performance]報告](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)，以協助您瞭解參與計畫中的內容有多有效。
 

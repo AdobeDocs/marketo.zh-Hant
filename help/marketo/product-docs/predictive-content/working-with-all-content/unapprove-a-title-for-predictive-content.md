@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11384663
 description: 取消核准預測性內容的標題 — Marketo檔案 — 產品檔案
-title: 取消核准預測性內容的標題
+title: 取消核准預測內容的標題
 exl-id: 63540339-fbed-436b-8cb3-abf2e181e010
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '109'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/image2017-10-3-9-3a18-3a38.png)
 
-1. 按一下&#x200B;**[!UICONTROL Content Actions]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Unapprove for Predictive Content]**。
+1. 按一下「**[!UICONTROL Content Actions]**」下拉式選單，選取「**[!UICONTROL Unapprove for Predictive Content]**」。
 
    ![](assets/image2017-10-3-9-3a19-3a20.png)
 

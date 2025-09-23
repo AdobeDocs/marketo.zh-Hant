@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359504
 description: 使用「寄件者地址」A/B測試 — Marketo檔案 — 產品檔案
-title: 使用「寄件者地址」A/B測試
+title: 使用「寄件者地址」A/B 測試
 exl-id: 83e2994b-39ec-4c88-87b0-8f2501ea2bf1
 feature: Email Programs, A/B Testing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
 workflow-type: tm+mt
 source-wordcount: '247'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 

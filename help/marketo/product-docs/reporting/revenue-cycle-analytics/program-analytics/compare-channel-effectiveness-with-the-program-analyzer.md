@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360401
 description: 使用Program Analyzer比較管道成效 — Marketo檔案 — 產品檔案
-title: 使用Program Analyzer比較管道成效
+title: 使用方案分析工具比較管道效益
 exl-id: bfe635a7-b077-4074-889d-fc2256102cd5
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '353'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

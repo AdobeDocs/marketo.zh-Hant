@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360317
 description: 將人員分割區指派至工作區 — Marketo檔案 — 產品檔案
-title: 將人員分割指派至工作區
+title: 將人員分割指派給工作區
 exl-id: 84c539f0-ca68-4be3-a462-cbe9d191dbb6
 feature: Workspaces
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '128'
-ht-degree: 1%
+ht-degree: 12%
 
 ---
 
-# 將人員分割指派至工作區 {#assign-person-partitions-to-workspaces}
+# 將人員分割指派給工作區 {#assign-person-partitions-to-workspaces}
 
 以下說明如何編輯人員資料分割/工作區指派：
 
@@ -27,7 +27,7 @@ ht-degree: 1%
 >
 >工作區和人員分割區可能很複雜。 請聯絡[Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}以取得設定協助。
 
-1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/assign-person-partitions-to-workspaces-1.png)
 

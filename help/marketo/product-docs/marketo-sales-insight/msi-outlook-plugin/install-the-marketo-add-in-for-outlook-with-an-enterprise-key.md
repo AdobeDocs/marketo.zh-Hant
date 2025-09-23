@@ -4,7 +4,7 @@ description: 使用企業金鑰安裝適用於 [!DNL Outlook] 的Marketo增益�
 title: 使用企業金鑰安裝 [!DNL Outlook] 的Marketo增益集
 exl-id: a44780d6-a360-4536-8913-31429cc32f65
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%

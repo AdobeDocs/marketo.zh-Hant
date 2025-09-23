@@ -4,10 +4,10 @@ description: 在智慧清單中使用清單成員 — Marketo檔案 — 產品�
 title: 使用智慧清單中的清單成員
 exl-id: ebd458c1-01f4-4d19-b5b2-d19ab2bad1af
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 0%
+source-wordcount: '132'
+ht-degree: 13%
 
 ---
 
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 使用此篩選器，您可以在智慧列示規則中參照其他清單，藉此從其他清單提取成員。 方法如下。
 
-1. 選取智慧列示，然後按一下&#x200B;**[!UICONTROL 智慧列示]**&#x200B;索引標籤。
+1. 選取智慧列示，然後按一下&#x200B;**[!UICONTROL Smart List]**&#x200B;標籤。
 
    ![](assets/smartlist-sltab.png)
 
-1. 在右側篩選器面板上，搜尋&#x200B;**[!UICONTROL Member of List]**&#x200B;篩選器並拖曳到畫布上。
+1. 在右側篩選器面板上，搜尋&#x200B;**[!UICONTROL Member of List]**&#x200B;篩選器並將其拖曳到畫布上。
 
    ![](assets/use-members-of-list-in-a-smart-list-2nd.png)
 

@@ -1,20 +1,20 @@
 ---
 description: 促銷活動設定 — Marketo檔案 — 產品檔案
-title: Sales Campaign設定
+title: 銷售行銷活動設定
 exl-id: 30674296-4a29-4349-afa8-4307be355d07
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '208'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
-# Sales Campaign設定 {#sales-campaign-settings}
+# 銷售行銷活動設定 {#sales-campaign-settings}
 
 「銷售促銷活動設定」區段可讓您設定特定的銷售促銷活動，使其最符合您團隊對該銷售促銷活動的使用案例。
 
-## 略過週末 {#skip-weekends}
+## 跳過週末 {#skip-weekends}
 
 啟用略過週末，以便將週末日（星期六或星期日）落下的任何步驟移至星期一。
 

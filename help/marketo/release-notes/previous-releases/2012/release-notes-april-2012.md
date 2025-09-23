@@ -4,14 +4,14 @@ description: 發行說明 — 2012年4月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2012年4月
 exl-id: 2568911a-071f-42b3-a4be-e951c9fc2ac5
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '364'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 發行說明： 2012年4月 {#release-notes-april}
+# 發行說明：2012 年 4 月 {#release-notes-april}
 
 ## 分段篩選器和觸發器 {#segmentation-filters-and-triggers}
 

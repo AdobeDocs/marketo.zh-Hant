@@ -1,17 +1,17 @@
 ---
 unique-page-id: 13796475
 description: 個人詳細資料檢視 — Marketo檔案 — 產品檔案
-title: 個人詳細資料檢視
+title: 人員詳細資料視圖
 exl-id: 3f5ee34d-a21b-4862-80cc-cad921ca479e
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '272'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 個人詳細資料檢視 {#person-detail-view}
+# 人員詳細資料視圖 {#person-detail-view}
 
 人員明細檢視表會提供MSC帳戶中每個人員的詳細設定檔。
 

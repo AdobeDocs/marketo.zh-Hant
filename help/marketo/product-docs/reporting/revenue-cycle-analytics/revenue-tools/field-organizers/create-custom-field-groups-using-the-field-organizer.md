@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10094404
 description: 使用「欄位管理器」 — Marketo檔案 — 產品檔案建立自訂欄位群組
-title: 使用「欄位組織器」建立自訂欄位群組
+title: 使用欄位組織工具建立自訂欄位群組
 exl-id: 0425a446-2c92-4a2a-85c4-e05c22118035
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '951'
-ht-degree: 3%
+ht-degree: 5%
 
 ---
 
-# 使用「欄位組織器」建立自訂欄位群組 {#create-custom-field-groups-using-the-field-organizer}
+# 使用欄位組織工具建立自訂欄位群組 {#create-custom-field-groups-using-the-field-organizer}
 
 在啟用自訂欄位群組以在「收入週期總管」的「模型效能分析（銷售機會）」區域中報告之前，您必須透過「Marketo銷售機會管理」中的「欄位組織器」，將標準或自訂欄位分類為群組以便報告。 這僅適用於潛在客戶與公司屬性。
 當您從「新增欄位組織器」對話方塊的「欄位」下拉式清單中選取標準或自訂欄位時，系統會對應與您要群組之欄位相關的「Marketo銷售機會管理」資料型別，並在「欄位組織器」中選取三個可用編輯器的其中之一：字串、整數或日期。

@@ -3,16 +3,16 @@ description: 互動式網路研討會概覽 — Marketo檔案 — 產品檔案
 title: 互動式網路研討會概觀
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '517'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
 # 互動式網路研討會概觀 {#interactive-webinars-overview}
 
-互動式網路研討會功能是我們內建的Marketo Engage網路研討會平台。 不需要其他工具或整合。
+互動式網路研討會功能是我們在Marketo Engage內建的網路研討會平台。 不需要其他工具或整合。
 
 >[!IMPORTANT]
 >
@@ -20,17 +20,17 @@ ht-degree: 0%
 
 ## 什麼是互動式網路研討會？ {#what-is-interactive-webinars}
 
-互動式網路研討會可為您提供原生且順暢的體驗，以便在Marketo Engage中建立、管理和交付事件，進而增強現有的活動和網路研討會體驗。 當您[建立互動式網路研討會](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}時，有多個預先建立的會議範本可供選擇，所有範本都是可自訂的（您也可以建立並使用自訂範本）。 與會者可以分享電腦熒幕/檔案、互相聊天、廣播音訊和視訊，以及參與互動式線上活動。
+互動式網路研討會可為您提供原生且順暢的體驗，以便在Marketo Engage中建立、管理和傳遞事件，進而增強現有的活動和網路研討會體驗。 當您[建立互動式網路研討會](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}時，有多個預先建立的會議範本可供選擇，所有範本都是可自訂的（您也可以建立並使用自訂範本）。 與會者可以分享電腦熒幕/檔案、互相聊天、廣播音訊和視訊，以及參與互動式線上活動。
 
 互動式網路研討會提供[三個不同的授權](/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md){target="_blank"}，每個授權都有不同的功能和容量。
 
 在網路研討會之後，透過包含潛在客戶及彙總參與資料的報表和儀表板，存取[事件績效分析](/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md){target="_blank"}。 互動式網路研討會專用篩選器和觸發器可讓您尋找採取特定動作（例如按一下連結、下載資產等）的特定人員群組。
 
-## 常見問題集 {#faq}
+## 常見問題 {#faq}
 
 **我需要個別訂閱才能使用互動式網路研討會嗎？**
 
-不適用。 使用互動式網路研討會只需要有效的Marketo Engage訂閱。
+不可以。 使用互動式網路研討會只需要有效的Marketo Engage訂閱。
 
 **互動式網路研討會提供哪些語言？**
 
@@ -54,7 +54,7 @@ ht-degree: 0%
 
 **存取我組織的VPN時，在簡報網路研討會時遇到音訊/視訊問題。 我該做什麼？**
 
-互動式網路研討會的傳遞平台Adobe Connect使用WebRTC進行音訊/視訊/熒幕分享。 貴組織的網路防火牆可能封鎖了用於WebRTC通訊的IP位址/連線埠。 您的IT團隊需要允許這些連線埠以讓WebRTC運作。 [深入瞭解](https://helpx.adobe.com/in/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html){target="_blank"}。
+互動式網路研討會的傳遞平台Adobe Connect使用WebRTC進行音訊/視訊/熒幕分享。 貴組織的網路防火牆可能封鎖了用於WebRTC通訊的IP位址/連線埠。 您的IT團隊需要允許這些連線埠以讓WebRTC運作。 [了解更多](https://helpx.adobe.com/in/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html){target="_blank"}。
 
 **我的互動式網路研討會會自動錄製嗎？**
 

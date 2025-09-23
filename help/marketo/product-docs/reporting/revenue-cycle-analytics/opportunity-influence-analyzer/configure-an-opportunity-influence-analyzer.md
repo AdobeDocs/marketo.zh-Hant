@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360240
 description: 設定Opportunity Influence Analyzer - Marketo檔案 — 產品檔案
-title: 設定機會影響分析器
+title: 設定機會影響分析工具
 exl-id: 9165c7ac-5b8e-48d2-bbe7-1f9074848724
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '152'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# 設定機會影響分析器 {#configure-an-opportunity-influence-analyzer}
+# 設定機會影響分析工具 {#configure-an-opportunity-influence-analyzer}
 
 在您[建立Opportunity Influence Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)之後，您可以設定包含的[有趣時刻](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md)型別。
 

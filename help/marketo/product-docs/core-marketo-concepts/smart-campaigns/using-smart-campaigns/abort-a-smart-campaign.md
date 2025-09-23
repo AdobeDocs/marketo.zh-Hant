@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147053
 description: 中止Smart Campaign - Marketo檔案 — 產品檔案
-title: 中止智慧型行銷活動
+title: 中止智慧行銷活動
 exl-id: 1d80e67a-324c-4a99-bda3-57074a24ea3d
 feature: Smart Campaigns
-source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 0%
+source-wordcount: '137'
+ht-degree: 6%
 
 ---
 
-# 中止智慧型行銷活動 {#abort-a-smart-campaign}
+# 中止智慧行銷活動 {#abort-a-smart-campaign}
 
 >[!CAUTION]
 >
@@ -19,15 +19,15 @@ ht-degree: 0%
 
 有時您啟動Smart Campaign後會立即意識到這是錯誤的。 以下說明如何在Smart Campaign執行期間拉動緊急剎車並停止。
 
-1. 選擇所需的Smart Campaign，然後按一下&#x200B;**[!UICONTROL 排程]**&#x200B;索引標籤。
+1. 選擇所需的Smart Campaign，然後按一下&#x200B;**[!UICONTROL Schedule]**&#x200B;標籤。
 
    ![](assets/abort-a-smart-campaign-1.png)
 
-1. 按一下&#x200B;**[!UICONTROL 促銷活動動作]**&#x200B;下拉式清單。 選取&#x200B;**[!UICONTROL 中止行銷活動]**。
+1. 按一下&#x200B;**[!UICONTROL Campaign Actions]**&#x200B;下拉式清單。 選取「**[!UICONTROL Abort Campaign]**」。
 
    ![](assets/abort-a-smart-campaign-2.png)
 
-1. 按一下&#x200B;**[!UICONTROL 中止]**&#x200B;以確認。
+1. 按一下&#x200B;**[!UICONTROL Abort]**&#x200B;確認。
 
    ![](assets/abort-a-smart-campaign-3.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >檢視Smart Campaign的&#x200B;**[!UICONTROL 結果]**&#x200B;標籤，瞭解中止前發生了哪些動作。 您也會找到包含其他詳細資料的[通知](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md){target="_blank"}。
+   >檢視Smart Campaign的&#x200B;**[!UICONTROL Results]**&#x200B;標籤，瞭解中止前發生了哪些動作。 您也會找到包含其他詳細資料的[通知](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md){target="_blank"}。
 
    >[!TIP]
    >

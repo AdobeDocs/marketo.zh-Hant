@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2360002
 description: 設定報表大小 — Marketo檔案 — 產品檔案
-title: 設定報表大小
+title: 設定報告大小
 exl-id: ee8ade4b-a45f-4c2b-bc42-a544cbbaa407
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '102'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# 設定報表大小 {#configure-report-size}
+# 設定報告大小 {#configure-report-size}
 
 依預設，Marketo報表的上限為5,000列，但您可以變更該限制。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**&#x200B;區域。
+1. 前往「**[!UICONTROL Marketing Activities]**」區域。
 
    ![](assets/image2014-9-16-10-3a53-3a57.png)
 

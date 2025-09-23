@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718651
 description: 瞭解電子郵件分析區域 — Marketo檔案 — 產品檔案
-title: 瞭解電子郵件分析區域
+title: 了解電子郵件分析區域
 exl-id: a8219a4d-d240-432d-a7ef-bcfa0b4a82fa
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '360'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 瞭解電子郵件分析區域 {#understanding-the-email-analysis-area}
+# 了解電子郵件分析區域 {#understanding-the-email-analysis-area}
 
 電子郵件分析區域的重點是電子郵件量度。 本文簡介其中可用的所有報表。
 

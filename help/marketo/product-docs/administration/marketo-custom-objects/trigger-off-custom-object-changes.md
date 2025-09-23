@@ -4,10 +4,10 @@ description: 觸發自訂物件變更 — Marketo檔案 — 產品檔案
 title: 觸發自訂物件變更
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
 feature: Custom Objects
-source-git-commit: acaf2b421ed65f74bedf18b121ce54e30c19c721
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 0%
+source-wordcount: '179'
+ht-degree: 6%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 >
 >變更自訂物件記錄時，不會建立活動記錄專案。
 
-1. 在Marketo Engage中，移至&#x200B;**[!UICONTROL 行銷活動]**。
+1. 在Marketo Engage中，移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/trigger-off-custom-object-changes-1.png)
 
@@ -40,7 +40,7 @@ ht-degree: 0%
 
    ![](assets/trigger-off-custom-object-changes-3.png)
 
-1. 選取[!UICONTROL 觸發屬性]。
+1. 選取 [!UICONTROL trigger attribute]。
 
    ![](assets/trigger-off-custom-object-changes-4.png)
 

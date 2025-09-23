@@ -1,16 +1,16 @@
 ---
 description: 本機資產有效期 — Marketo檔案 — 產品檔案
-title: 本機資產有效期
+title: 本地資產期限
 exl-id: 603e3eee-0531-4139-a8f5-279831ad011f
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '239'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 本機資產有效期 {#local-asset-expiration}
+# 本地資產期限 {#local-asset-expiration}
 
 設定到期日/時間，以取消發佈登陸頁面、停用觸發行銷活動或停止循環的批次行銷活動。
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 
    ![](assets/local-asset-expiration-2.png)
 
-1. 在[!UICONTROL Access Marketing Activities]下，選取&#x200B;**[!UICONTROL Schedule Local Asset Expiration]**&#x200B;並按一下&#x200B;**[!UICONTROL Save]**。
+1. 在「[!UICONTROL Access Marketing Activities]」之下，選取「**[!UICONTROL Schedule Local Asset Expiration]**」，然後按一下「**[!UICONTROL Save]**」。
 
    ![](assets/local-asset-expiration-3.png)
 

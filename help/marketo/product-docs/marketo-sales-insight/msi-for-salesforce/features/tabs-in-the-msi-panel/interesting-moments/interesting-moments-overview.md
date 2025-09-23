@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949720
 description: 有趣的時刻概述 — Marketo檔案 — 產品檔案
-title: 有趣的時刻概述
+title: 關鍵時刻概觀
 exl-id: 6611fb4b-fbc7-42ad-b26e-543a79798ff1
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '95'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# 有趣的時刻概述 {#interesting-moments-overview}
+# 關鍵時刻概觀 {#interesting-moments-overview}
 
 您可以使用有趣的時刻流程步驟，讓您的銷售團隊能夠瞭解潛在客戶在Smart Campaign中進行的炫酷行為。
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12982909
 description: 使用收件者時區排程參與計畫 — Marketo檔案 — 產品檔案
-title: 依收件者時區排程參與方案
+title: 根據收件者時區安排參與方案的時間
 exl-id: 818615be-3c7e-4051-adc7-2341783484b9
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '190'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# 依收件者時區排程參與方案 {#schedule-engagement-programs-with-recipient-time-zone}
+# 根據收件者時區安排參與方案的時間 {#schedule-engagement-programs-with-recipient-time-zone}
 
 當您排程參與方案串流且收件者時區處於作用中狀態時，方案轉換將在第一個時區的午夜開始執行(UTC +14:00)。 我們要求您排程未來的第一個演員&#x200B;**至少25小時**，因為全球每個時區可能有符合演員資格的人。 在第一個時區中的此時開始處理，可確保我們會在排定的日期和時間為每位收件者傳送電子郵件。
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719348
 description: 標示您的區段 — Marketo檔案 — 產品檔案
-title: 為區段加上標籤
+title: 將您的區段加上標籤
 exl-id: 5278f52b-a352-4d85-904c-48f94972d4e7
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 為區段加上標籤 {#label-your-segment}
+# 將您的區段加上標籤 {#label-your-segment}
 
 您有這麼多區段，使得捲動變得繁瑣嗎？ 使用標籤來標籤區段，讓您可以快速找到。
 

@@ -4,14 +4,14 @@ description: 步驟3之1 — 安裝Marketo解決方案（2011年內部部署） 
 title: 步驟3之1 — 安裝Marketo解決方案（2011年內部部署）
 exl-id: 6e559b10-5273-4dc2-b98d-49c509cbeff7
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '253'
-ht-degree: 1%
+ht-degree: 6%
 
 ---
 
-# 步驟3之1：安裝Marketo解決方案（2011年內部部署） {#step-of-install-the-marketo-solution-on-premises}
+# 第 1 步 (共 3 步)：安裝 Marketo 解決方案 (2011 內部部署) {#step-of-install-the-marketo-solution-on-premises}
 
 在同步處理[!DNL Microsoft Dynamics]內部部署與Marketo之前，您必須先在[!DNL Dynamics]中安裝Marketo解決方案。
 
@@ -83,7 +83,7 @@ ht-degree: 1%
 
    ![](assets/image2015-4-2-11-3a46-3a55.png)
 
-1. 選取[!UICONTROL Marketo Lead Management]並按一下&#x200B;**[!UICONTROL Publish All Customizations]**。
+1. 選取「[!UICONTROL Marketo Lead Management]」然後按一下「**[!UICONTROL Publish All Customizations]**」。
 
    ![](assets/image2015-4-2-11-3a48-3a21.png)
 

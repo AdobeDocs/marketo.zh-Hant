@@ -1,16 +1,16 @@
 ---
 description: 命令中心總覽 — Marketo檔案 — 產品檔案
-title: 命令中心概述
+title: 指揮中心概觀
 exl-id: d7441f28-a432-4443-8eb8-ca6a685524ae
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '472'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 命令中心概述 {#command-center-overview}
+# 指揮中心概觀 {#command-center-overview}
 
 [!UICONTROL Command Center]是單一、統一的檢視，可協助您找出下一個步驟，同時確保不會有任何東西漏掉。
 
@@ -85,6 +85,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* 任務
+>* 工作
 >* 進階搜尋概觀
->* 使用「選取並傳送」來撰寫大量電子郵件
+>* 使用「選取並傳送」功能撰寫大量傳送的電子郵件

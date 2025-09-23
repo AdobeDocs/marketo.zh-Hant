@@ -4,10 +4,10 @@ description: 移動電子郵件 — Marketo檔案 — 產品檔案
 title: 移動電子郵件
 exl-id: 1ad7940c-b06f-48d4-8564-aedda8f7029a
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 1%
 
    ![](assets/move-an-email-2.png)
 
-1. 選取&#x200B;**[!UICONTROL Destination]**、**[!UICONTROL Program]**&#x200B;和選用的&#x200B;**[!UICONTROL Folder]**。 選擇「**[!UICONTROL Move]**」。
+1. 選取&#x200B;**[!UICONTROL Destination]**、**[!UICONTROL Program]**&#x200B;和選用的&#x200B;**[!UICONTROL Folder]**。 選取「**[!UICONTROL Move]**」。
 
    ![](assets/move-an-email-3.png)
 

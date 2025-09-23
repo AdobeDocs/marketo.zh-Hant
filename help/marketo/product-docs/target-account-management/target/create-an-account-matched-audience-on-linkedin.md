@@ -4,10 +4,10 @@ description: 在 [!DNL LinkedIn] - Marketo檔案 — 產品檔案上建立帳戶
 title: 在 [!DNL LinkedIn]上建立符合對象的帳戶
 exl-id: 55f2106d-6078-4a47-ab00-6b6dc950a206
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '165'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/create-a-matched-audience-on-linkedin-2.png)
 
-1. 按一下&#x200B;**[!UICONTROL Account List Actions]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Send via AdBridge]**。
+1. 按一下「**[!UICONTROL Account List Actions]**」下拉式選單，選取「**[!UICONTROL Send via AdBridge]**」。
 
    ![](assets/create-a-matched-audience-on-linkedin-3.png)
 

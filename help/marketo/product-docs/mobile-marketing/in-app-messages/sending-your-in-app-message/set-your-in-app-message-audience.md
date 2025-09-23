@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10617431
 description: 設定應用程式內訊息對象 — Marketo檔案 — 產品檔案
-title: 設定您的應用程式內訊息對象
+title: 設定您的應用程式內訊息客群
 exl-id: 696ae5b6-7063-41bc-bcef-27879182ff1e
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '266'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
-# 設定您的應用程式內訊息對象 {#set-your-in-app-message-audience}
+# 設定您的應用程式內訊息客群 {#set-your-in-app-message-audience}
 
 第一個步驟是決定應該接收您應用程式內訊息的使用者。 您必須設定智慧清單。
 

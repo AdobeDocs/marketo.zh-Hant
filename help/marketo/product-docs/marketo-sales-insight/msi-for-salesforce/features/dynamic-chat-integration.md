@@ -1,16 +1,16 @@
 ---
 description: Dynamic Chat整合 — Marketo檔案 — 產品檔案
-title: Dynamic Chat整合
+title: Dynamic Chat 整合
 exl-id: b2e3b4da-9ca7-4299-9c50-f52e0de91e36
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '351'
-ht-degree: 4%
+ht-degree: 7%
 
 ---
 
-# Dynamic Chat整合 {#dynamic-chat-integration}
+# Dynamic Chat 整合 {#dynamic-chat-integration}
 
 深入瞭解Dynamic Chat與銷售Insight的整合。
 
@@ -36,7 +36,7 @@ ht-degree: 4%
 
    ![](assets/dynamic-chat-integration-2.png)
 
-## 功能概述 {#feature-overview}
+## 功能概觀 {#feature-overview}
 
 [!DNL Dynamic Chat]個使用者可以利用下列[!DNL Sales Insight]個活動……
 

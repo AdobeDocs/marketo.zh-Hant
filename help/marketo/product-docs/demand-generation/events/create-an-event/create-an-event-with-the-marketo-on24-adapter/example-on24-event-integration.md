@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10096679
 description: ON24事件整合範例 — Marketo檔案 — 產品檔案
-title: ON24事件整合範例
+title: ON24 事件整合範例
 exl-id: 9d34d1bf-1ff8-4b26-906e-4a6bb9d5f3f6
 feature: Events
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '361'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# ON24事件整合範例 {#example-on-event-integration}
+# ON24 事件整合範例 {#example-on-event-integration}
 
 以下是ON24網路研討會的範例活動，包含行銷活動。 建立活動時，請務必在執行行銷活動之前先測試行銷活動。
 

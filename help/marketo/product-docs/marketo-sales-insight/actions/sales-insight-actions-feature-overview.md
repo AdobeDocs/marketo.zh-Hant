@@ -1,16 +1,16 @@
 ---
 description: 銷售Insight動作功能概觀 — Marketo檔案 — 產品檔案
-title: 銷售Insight動作功能概觀
+title: 銷售洞察動作功能概觀
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1305'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 銷售Insight動作功能概觀 {#msi-actions-feature-overview}
+# 銷售洞察動作功能概觀 {#msi-actions-feature-overview}
 
 透過行銷支援的智慧和參與工具，使用Sales Insight Actions在單一工作流程中加速潛在客戶搜尋工作。
 
@@ -18,7 +18,7 @@ ht-degree: 0%
 >
 >Marketo Sales Insight Actions是網頁式應用程式，透過[Marketo Sales Insight套件](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}專門與Salesforce CRM整合。 有時稱為「Marketo銷售」，或簡稱為「動作」。
 
-如需銷售Insight動作的影片概觀，[請按一下這裡](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html?lang=zh-Hant){target="_blank"}。
+如需銷售Insight動作的影片概觀，[請按一下這裡](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target="_blank"}。
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
 

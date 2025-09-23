@@ -1,24 +1,24 @@
 ---
 unique-page-id: 7504922
 description: 收入總管報表型別 — Marketo檔案 — 產品檔案
-title: 收入總管報表型別
+title: 營收總管報告類型
 exl-id: 7c472d6c-9c8f-4387-97a0-690fe7cfd96a
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '146'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# 收入總管報表型別 {#revenue-explorer-report-types}
+# 營收總管報告類型 {#revenue-explorer-report-types}
 
 如果您使用收入週期分析，將會遇到以下報表型別。
 
 <table>
  <thead>
   <tr>
-   <th>報表</th>
+   <th>報告</th>
    <th>說明</th>
   </tr>
  </thead>

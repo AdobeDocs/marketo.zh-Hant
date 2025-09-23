@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949777
 description: 事件合作夥伴 — Marketo檔案 — 產品檔案
-title: 活動合作夥伴
+title: 事件合作夥伴
 exl-id: 3d6c523f-a1ee-4b0c-8e3c-1724f3b7800e
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 活動合作夥伴 {#event-partners}
+# 事件合作夥伴 {#event-partners}
 
 將Marketo連線至事件合作夥伴，以自動化您的線上事件。 當您連線它們時，您可以：
 

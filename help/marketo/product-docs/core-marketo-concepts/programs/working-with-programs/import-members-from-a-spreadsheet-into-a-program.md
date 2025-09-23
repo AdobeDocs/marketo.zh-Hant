@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147120
 description: 從試算表將成員匯入程式 — Marketo檔案 — 產品檔案
-title: 從試算表將成員匯入程式
+title: 將試算表的成員匯入方案中
 exl-id: 09c597bb-d28a-463b-8340-ff22d2e0fa02
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 1%
+ht-degree: 11%
 
 ---
 
-# 從試算表將成員匯入程式 {#import-members-from-a-spreadsheet-into-a-program}
+# 將試算表的成員匯入方案中 {#import-members-from-a-spreadsheet-into-a-program}
 
 您可以匯入自動成為計畫成員的人員清單。 以下說明該怎麼做。
 

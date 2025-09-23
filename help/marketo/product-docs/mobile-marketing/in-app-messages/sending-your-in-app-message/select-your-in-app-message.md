@@ -4,10 +4,10 @@ description: 選取您的應用程式內訊息 — Marketo檔案 — 產品檔�
 title: 選取您的應用程式內訊息
 exl-id: 3d705364-ea20-4ffd-8eda-10ec5f87c63d
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '108'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 

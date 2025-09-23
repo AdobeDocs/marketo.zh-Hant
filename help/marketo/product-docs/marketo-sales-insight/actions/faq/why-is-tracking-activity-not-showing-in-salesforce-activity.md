@@ -1,12 +1,12 @@
 ---
-description: Salesforce活動中為何未顯示追蹤活動？ - Marketo檔案 — 產品檔案
-title: Salesforce活動中為何未顯示追蹤活動？
+description: Salesforce活動中為何未顯示追蹤活動？ - Marketo 文件 - 產品文件
+title: 為什麼追蹤活動未顯示在 Salesforce 活動中？
 exl-id: 119b41a2-b691-48f8-9399-efcd5b47d942
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '79'
-ht-degree: 0%
+ht-degree: 16%
 
 ---
 

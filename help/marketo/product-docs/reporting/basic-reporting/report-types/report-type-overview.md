@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359965
 description: 報表型別概觀 — Marketo檔案 — 產品檔案
-title: 報表型別概觀
+title: 報告類型概觀
 exl-id: 983e920d-bba7-4c61-8a0f-6611808dd5c5
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '216'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# 報表型別概觀 {#report-type-overview}
+# 報告類型概觀 {#report-type-overview}
 
 當您[在方案中建立報告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)時，請選擇您想要的報告型別。
 
@@ -20,13 +20,13 @@ ht-degree: 0%
 <table>
  <thead>
   <tr>
-   <th>報表</th>
+   <th>報告</th>
    <th>說明</th>
   </tr>
  </thead>
  <tbody>
   <tr>
-   <td><strong><a href="people-performance-report.md">人員績效報表</a></strong></td>
+   <td><strong><a href="people-performance-report.md">人員績效報告</a></strong></td>
    <td>依任何屬性將人員分組，並包含機會資訊。 深入研究並探索。</td>
   </tr>
   <tr>
@@ -42,12 +42,12 @@ ht-degree: 0%
    <td>在Salesforce、Microsoft Dynamics以及Outlook和Gmail外掛程式，檢閱透過Marketo Sales Insight傳送的電子郵件互動。</td>
   </tr>
   <tr>
-   <td><strong><a href="people-by-status-report.md">依狀態顯示人員報表</a></strong></td>
+   <td><strong><a href="people-by-status-report.md">人員狀態報告</a></strong></td>
    <td>根據人員狀態列位自動報告。</td>
   </tr>
   <tr>
-   <td><strong><a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">依收入階段的人員報表</a></strong></td>
-   <td>您的收入模式的基本報表。 如需更深入的報告，請參閱<a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">收入週期分析</a>。</td>
+   <td><strong><a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">人員收入階段報告</a></strong></td>
+   <td>您的收入模式的基本報表。 如需更深入的報告，請參閱<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">收入週期分析</a>。</td>
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md">登陸頁面績效</a>  </strong></td>
@@ -55,7 +55,7 @@ ht-degree: 0%
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md">計畫績效</a>  </strong></td>
-   <td>基本方案量度，例如成員和成功。 如需更深入的報告，請參閱<a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">收入週期分析</a>。</td>
+   <td>基本方案量度，例如成員和成功。 如需更深入的報告，請參閱<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">收入週期分析</a>。</td>
   </tr>
   <tr>
    <td><strong><a href="company-web-activity-report.md">公司網頁活動</a></strong></td>
@@ -66,12 +66,12 @@ ht-degree: 0%
    <td>向您的登入頁面和公共網站報告網頁活動。</td>
   </tr>
   <tr>
-   <td><strong><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">參與資料流績效報表</a> </strong></td>
-   <td>檢視您的<a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">參與計畫</a>運作情況。</td>
+   <td><strong><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">參與資料流績效報告</a> </strong></td>
+   <td>檢視您的<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">參與計畫</a>運作情況。</td>
   </tr>
    <tr>
    <td><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md">行銷活動電子郵件績效</a> </strong></td>
-   <td>檢視您的<a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">參與計畫</a>運作情況。</td>
+   <td>檢視您的<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">參與計畫</a>運作情況。</td>
   </tr>
  </tbody>
 </table>

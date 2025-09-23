@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147328
 description: 電子郵件中的硬跳出和軟跳出 — Marketo檔案 — 產品檔案
-title: 電子郵件中的硬跳出和軟跳出
+title: 電子郵件中的硬退回和軟退回
 exl-id: 53298562-76b6-473a-bf9f-2bec682f4d35
 feature: Deliverability
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '286'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
-# 電子郵件中的硬跳出和軟跳出 {#hard-and-soft-bounces-in-email}
+# 電子郵件中的硬退回和軟退回 {#hard-and-soft-bounces-in-email}
 
-當郵件伺服器通知Marketo無法傳遞某人的電子郵件時，硬跳出可能會導致該人的電子郵件地址無效。 軟跳出表示傳送電子郵件給人員時發生錯誤；此問題會自動解決，有時需要幾天時間。 硬跳出和軟跳出都包含[多個類別](https://nation.marketo.com/t5/Knowledgebase/Maintaining-a-Directory-of-Leads-Bouncing-Emails/ta-p/300838)。
+當郵件伺服器告知 Marketo 無法傳遞人員的電子郵件時，硬退回可能會導致該人員的電子郵件地址無效。軟跳出表示傳送電子郵件給人員時發生錯誤；此問題會自動解決，有時需要幾天時間。 硬退回和軟退回均包含[多種類別](https://nation.marketo.com/t5/Knowledgebase/Maintaining-a-Directory-of-Leads-Bouncing-Emails/ta-p/300838)。
 
 ## 跳出分類 {#bounce-classification}
 

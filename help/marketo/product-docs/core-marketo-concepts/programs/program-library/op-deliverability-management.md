@@ -1,16 +1,16 @@
 ---
 description: OP — 傳遞能力管理 — Marketo檔案 — 產品檔案
-title: OP — 傳遞性管理
+title: OP-傳遞能力管理
 feature: Programs
 exl-id: 7b9bc9ee-65f4-4938-8598-6f8543042159
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '248'
-ht-degree: 8%
+ht-degree: 10%
 
 ---
 
-# OP — 傳遞性管理 {#op-deliverability-management}
+# OP-傳遞能力管理 {#op-deliverability-management}
 
 這是運用Marketo Engage預設程式的可傳遞性管理最佳實務工作流程的範例，可讓您檢閱電子郵件可傳遞性的目前狀態，並管理長期跳出和未回應者。
 
@@ -25,7 +25,7 @@ ht-degree: 8%
 <table style="table-layout:auto">
  <tbody>
   <tr>
-   <th>頻道</th>
+   <th>管道</th>
    <th>成員資格狀態</th>
    <th>Analytics行為</th>
    <th>計畫型別</th>

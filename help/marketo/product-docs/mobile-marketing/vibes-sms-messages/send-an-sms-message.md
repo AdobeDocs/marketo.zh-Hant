@@ -3,10 +3,10 @@ description: 傳送SMS訊息 — Marketo檔案 — 產品檔案
 title: 傳送簡訊訊息
 feature: Mobile Marketing
 exl-id: 2c863ded-f441-4217-9541-6dcc442d9831
-source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '321'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 0%
 >
 >傳送簡訊時：
 >
->* 依電話號碼Marketo Engage重複資料刪除。 因此，如果多人擁有相同的電話號碼，則只有一人會收到訊息，前提是他們只有一個Vibes訂閱清單的成員。 去重複化是在Vibes訂閱清單層級，而非Marketo方案層級完成。
+>* Marketo Engage依電話號碼進行重複資料刪除。 因此，如果多人擁有相同的電話號碼，則只有一人會收到訊息，前提是他們只有一個Vibes訂閱清單的成員。 去重複化是在Vibes訂閱清單層級，而非Marketo方案層級完成。
 >* Marketo不會傳送給已加入封鎖名單或行銷遭暫停的人。
 >* SMS訊息不會傳送給任何未訂閱者（如果他們不在Vibes行動資料庫清單中）。
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
    ![](assets/send-an-sms-message-2.png)
 
-1. 按一下&#x200B;**智慧列示**&#x200B;標籤，並定義簡訊的對象。 在此範例中，我們會傳送給資料庫中將「Adobe」列為公司的所有人。
+1. 按一下&#x200B;**智慧列示**&#x200B;標籤，並定義簡訊的對象。 在此範例中，我們會傳送給資料庫中將「Adobe」列為旗下公司的每個人。
 
    ![](assets/send-an-sms-message-3.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10093188
 description: 瞭解Marketo自訂物件 — Marketo檔案 — 產品檔案
-title: 瞭解Marketo自訂物件
+title: 了解 Marketo 自訂物件
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
 feature: Custom Objects
-source-git-commit: 7fd4d4e12b348ad4d0d69cd3f62cf441eda258b8
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '689'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 瞭解Marketo自訂物件 {#understanding-marketo-custom-objects}
+# 了解 Marketo 自訂物件 {#understanding-marketo-custom-objects}
 
 使用自訂物件來追蹤您企業的特定量度。
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 ## 存取Marketo自訂物件 {#accessing-marketo-custom-objects}
 
-1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/understanding-marketo-custom-objects-1.png)
 

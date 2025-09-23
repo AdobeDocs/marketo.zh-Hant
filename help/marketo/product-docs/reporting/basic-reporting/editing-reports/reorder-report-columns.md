@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359999
 description: 重新排序報表欄 — Marketo檔案 — 產品檔案
-title: 重新排序報表欄
+title: 重新排列報告欄
 exl-id: 4906807f-f6e3-413a-b581-75bcec02019b
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 2%
+ht-degree: 9%
 
 ---
 
-# 重新排序報表欄 {#reorder-report-columns}
+# 重新排列報告欄 {#reorder-report-columns}
 
 您可以變更報表中的欄順序。
 

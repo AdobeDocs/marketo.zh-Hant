@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359834
 description: 排定串流內容的優先順序 — Marketo檔案 — 產品檔案
-title: 排定串流內容的優先順序
+title: 決定資料流內容優先順序
 exl-id: 81de8a3c-c002-4ecd-afdd-217522c3db01
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '99'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# 排定串流內容的優先順序 {#prioritize-stream-content}
+# 決定資料流內容優先順序 {#prioritize-stream-content}
 
 將內容新增到串流後，您可以變更優先順序。 內容一律由上而下在每次轉換中傳送，不會將任何內容傳送給同一個人兩次。
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900581
 description: 在電子郵件中轉寄給朋友連結 — Marketo檔案 — 產品檔案
-title: 在電子郵件中轉寄給朋友連結
+title: 電子郵件中的轉寄給好友連結
 exl-id: 7addac65-4207-419f-845c-d6b2d08d299c
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '681'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 在電子郵件中轉寄給朋友連結 {#forward-to-a-friend-link-in-emails}
+# 電子郵件中的轉寄給好友連結 {#forward-to-a-friend-link-in-emails}
 
 將「轉寄給朋友」連結新增至您的電子郵件，可讓您追蹤透過此連結收到轉寄電子郵件的人員，如果這些人不在資料庫中，會自動新增為新人員。
 
@@ -134,7 +134,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果接收轉寄的朋友是未知人員，則會建立新人員，並標示為人員的&#x200B;**Source**&#x200B;的「轉寄給朋友」。
+   >如果接收轉寄的朋友是未知人員，則會建立新人員，並標示為人員的&#x200B;**Source**的「轉寄給朋友」。
    >如果電子郵件是方案的本機資產，則方案會標示為人員的&#x200B;**贏取方案**。
 
 ## 使用轉送活動觸發或篩選 {#trigger-or-filter-using-forwarding-activity}

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 8782266
 description: 排定網路行銷活動的優先順序 — Marketo檔案 — 產品檔案
-title: 排定網頁行銷活動的優先順序
+title: 決定網頁行銷活動優先順序
 exl-id: 18c43ba2-6d4a-4344-93be-3e1435742504
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 排定網頁行銷活動的優先順序 {#prioritizing-web-campaigns}
+# 決定網頁行銷活動優先順序 {#prioritizing-web-campaigns}
 
 當兩個或多個網路行銷活動重疊時，透過設定優先順序分數來排定您的網路行銷活動的優先順序。
 

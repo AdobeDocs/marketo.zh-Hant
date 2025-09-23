@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2360287
 description: 在Marketo中建立自訂欄位 — Marketo檔案 — 產品檔案
-title: 在Marketo中建立自訂欄位
+title: 在 Marketo 中建立自訂欄位
 exl-id: 6face1d7-6a4e-412b-9708-6aa7e43e8c11
 feature: Field Management
-source-git-commit: dcc2af51726db6f503486fb0553fb32fc65495ce
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '179'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
 
-# 在Marketo中建立自訂欄位 {#create-a-custom-field-in-marketo}
+# 在 Marketo 中建立自訂欄位 {#create-a-custom-field-in-marketo}
 
 如果您在Marketo Engage中需要新的自訂欄位來儲存/擷取資料，以下說明如何建立自訂欄位。
 
-1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/create-a-custom-field-in-marketo-1.png)
 
@@ -47,7 +47,7 @@ ht-degree: 1%
 
    ![](assets/create-a-custom-field-in-marketo-5.png)
 
-1. 輸入&#x200B;_[!UICONTROL Name]_，讓它在Marketo中顯示（會自動產生&#x200B;_[!UICONTROL API Name]_）。 請謹慎選擇，因為儲存後無法重新命名。 完成時，按一下&#x200B;**[!UICONTROL Create]**。
+1. 輸入&#x200B;_[!UICONTROL Name]_，讓它在Marketo中顯示（會自動產生_[!UICONTROL API Name]_）。 請謹慎選擇，因為儲存後無法重新命名。 完成時，按一下&#x200B;**[!UICONTROL Create]**。
 
 >[!CAUTION]
 >

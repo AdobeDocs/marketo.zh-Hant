@@ -3,10 +3,10 @@ description: 聊天機器人行為 — Marketo檔案 — 產品檔案
 title: 聊天機器人行為
 feature: Dynamic Chat
 exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
-source-git-commit: d88406c1f9d72c57a6d4f09934cbf685499ed198
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1680'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -407,6 +407,6 @@ ht-degree: 0%
   </tbody>
 </table>
 
-## 即時銷售機會解析 {#real-time-lead-resolution}
+## 即時商機解析 {#real-time-lead-resolution}
 
-在與匿名潛在客戶進行交談並提供電子郵件ID期間，我們會解決該電子郵件ID是否存在已知潛在客戶記錄，並即時將該記錄用於個人化。 如果我們找到多個記錄，我們會即時合併它們。 此行為會針對對話方塊和對話流程實施。
+與匿名商機交談期間，若有提供電子郵件 ID，我們會解析該電子郵件 ID 是否具有已知商機記錄，並使用該記錄即時進行個人化。若找到多筆記錄，我們會即時將記錄合併。對話和交談流程皆會實施此行為。

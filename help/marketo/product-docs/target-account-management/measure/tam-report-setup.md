@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11384438
 description: TAM報表設定 — Marketo檔案 — 產品檔案
-title: TAM報表設定
+title: TAM 報告設定
 exl-id: fc451b05-12a2-4761-a273-2c71f92f2284
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '144'
-ht-degree: 3%
+ht-degree: 7%
 
 ---
 
-# TAM報表設定 {#tam-report-setup}
+# TAM 報告設定 {#tam-report-setup}
 
 TAM銷售報表是每週傳送給客戶團隊的個人化電子郵件。
 

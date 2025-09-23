@@ -1,13 +1,13 @@
 ---
 unique-page-id: 5472348
 description: 讓現有的自由表單登陸頁面範本與行動裝置相容 — Marketo檔案 — 產品檔案
-title: 讓現有的自由表單登陸頁面範本與行動裝置相容
+title: 讓現有的自由格式登陸頁面範本相容於行動裝置
 exl-id: 942456a5-3f3e-4a71-aecc-4cc6bf6237b3
 feature: Landing Pages
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '228'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 1%
 
    ![](assets/designstudio-1.png)
 
-1. 選擇「**[!UICONTROL Templates]**」。
+1. 選取「**[!UICONTROL Templates]**」。
 
    ![](assets/image2015-1-22-20-3a20-3a2.png)
 

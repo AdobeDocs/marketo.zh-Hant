@@ -1,21 +1,21 @@
 ---
 unique-page-id: 1147356
 description: 瞭解電子郵件事件記錄 — Marketo檔案 — 產品檔案
-title: 瞭解電子郵件事件記錄
+title: 了解電子郵件事件記錄
 exl-id: 107d7f4a-ad38-44e4-95d8-760539aacede
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '295'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 瞭解電子郵件事件記錄 {#understanding-email-event-logging}
+# 了解電子郵件事件記錄 {#understanding-email-event-logging}
 
 傳送電子郵件時，Marketo會將不同的資料點記錄到個人的活動記錄中。 以下是基本內容。
 
-| 活動 | 說明 |
+| 事件 | 說明 |
 |---|---|
 | [!UICONTROL Sent] | 每次從Marketo伺服器傳送電子郵件時都會記錄，無論該電子郵件是否實際傳送。 跳出的電子郵件仍會記錄為「已傳送」。 |
 | [!UICONTROL Delivered] | 每次收件者郵件伺服器接受電子郵件時都會記錄。 這並不意味著它避免了垃圾郵件過濾器。 每個已傳送電子郵件只能有1個傳遞。 |

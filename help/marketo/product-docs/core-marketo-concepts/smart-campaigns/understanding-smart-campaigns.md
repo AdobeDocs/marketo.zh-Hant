@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953120
 description: 瞭解Smart Campaigns - Marketo檔案 — 產品檔案
-title: 瞭解Smart Campaign
+title: 了解智慧行銷活動
 exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
 feature: Smart Campaigns
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '249'
-ht-degree: 14%
+ht-degree: 17%
 
 ---
 
-# 瞭解Smart Campaign {#understanding-smart-campaigns}
+# 了解智慧行銷活動 {#understanding-smart-campaigns}
 
 如果 Marketo Engage 是一輛汽車，那麼 Smart Campaign 就是引擎。Smart Campaigns 的功能超乎您的想像，而且很容易上手。
 
@@ -34,7 +34,7 @@ ht-degree: 14%
    <td><p>收集批次中目前符合資格的所有人員。</p></td>
   </tr>
   <tr>
-   <td colspan="1">觸發</td>
+   <td colspan="1">觸發程序</td>
    <td colspan="1">點按連結</td>
    <td colspan="1">當某人執行某項作業時，會立即引發流量。</td>
   </tr>
@@ -43,7 +43,7 @@ ht-degree: 14%
 
 您可以透過多種方式組合篩選器，並將篩選器與觸發器搭配使用。 這是一個功能強大的工具 — 嘗試一下它。
 
-## 流量 {#flow}
+## 流程 {#flow}
 
 流程包括您希望Smart Campaign執行的步驟，包括等待步驟和分割選擇。
 

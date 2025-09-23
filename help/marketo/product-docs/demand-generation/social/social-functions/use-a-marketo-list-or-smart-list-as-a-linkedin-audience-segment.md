@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7504180
 description: 使用Marketo清單或智慧清單做為LinkedIn對象區段 — Marketo檔案 — 產品檔案
-title: 使用Marketo清單或智慧清單做為LinkedIn對象區段
+title: 使用 Marketo 清單或智慧清單做為 LinkedIn 客群細分群體
 exl-id: 9a7943fe-b2e7-443a-87e0-da01001682de
 feature: Social
-source-git-commit: f205014ef4b1446c1c532e28910fab0c5fdaabcb
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '185'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
-# 使用Marketo清單或智慧清單做為LinkedIn對象區段 {#use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment}
+# 使用 Marketo 清單或智慧清單做為 LinkedIn 客群細分群體 {#use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment}
 
 將Marketo Engage人員與LinkedIn對象整合。
 
@@ -39,7 +39,7 @@ ht-degree: 0%
    >
    >使用廣告網路整合將受眾傳送至LinkedIn時，Marketo只會透過傳送電子郵件地址。
 
-1. 選取&#x200B;**[!UICONTROL LinkedIn]**&#x200B;並按一下&#x200B;**[!UICONTROL Next]**。
+1. 選取「**[!UICONTROL LinkedIn]**」然後按一下「**[!UICONTROL Next]**」。
 
    ![](assets/list-as-a-linkedin-audience-segment-5.png)
 

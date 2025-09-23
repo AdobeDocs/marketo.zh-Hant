@@ -4,8 +4,8 @@ description: 傳送電子郵件 - Marketo 文件 - 產品文件
 title: 傳送電子郵件
 exl-id: 1f80fc08-3587-41f0-9c51-2feea10dff0d
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 100%
 

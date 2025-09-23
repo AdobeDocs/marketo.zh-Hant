@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360008
 description: 在網站報表中顯示人員或匿名訪客 — Marketo檔案 — 產品檔案
-title: 在網頁報表中顯示人員或匿名訪客
+title: 在網頁報告中顯示人員或匿名訪客
 exl-id: 6a9aa3d3-74bb-4812-b706-ac8b0bcfec50
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '142'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# 在網頁報表中顯示人員或匿名訪客 {#display-people-or-anonymous-visitors-in-web-reports}
+# 在網頁報告中顯示人員或匿名訪客 {#display-people-or-anonymous-visitors-in-web-reports}
 
 >[!PREREQUISITES]
 >

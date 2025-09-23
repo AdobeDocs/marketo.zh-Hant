@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11385020
 description: 在電子郵件中啟用預測性內容 — Marketo檔案 — 產品檔案
-title: 啟用電子郵件中的預測性內容
+title: 在電子郵件中啟用預測內容
 exl-id: 7eaefee1-23e8-47ee-afff-adcf49096aa7
 feature: Predictive Content
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '375'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 啟用電子郵件中的預測性內容 {#enable-predictive-content-in-emails}
+# 在電子郵件中啟用預測內容 {#enable-predictive-content-in-emails}
 
 為您的電子郵件中的一個或多個影像提供預測性，為每個收件者量身打造體驗。
 

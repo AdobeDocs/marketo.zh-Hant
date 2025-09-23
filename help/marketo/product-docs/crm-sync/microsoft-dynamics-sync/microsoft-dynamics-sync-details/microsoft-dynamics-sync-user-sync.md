@@ -4,7 +4,7 @@ description: Microsoft [!DNL Dynamics] Sync -User Sync - Marketo檔案 — 產�
 title: Microsoft [!DNL Dynamics] 同步 — 使用者同步
 exl-id: d642d4d2-2beb-42c6-a6b2-3da5df1cd9c8
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%

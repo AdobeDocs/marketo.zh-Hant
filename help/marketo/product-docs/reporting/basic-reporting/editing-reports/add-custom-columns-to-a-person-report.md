@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360201
 description: 新增自訂欄至人員報表 — Marketo檔案 — 產品檔案
-title: 新增自訂欄至個人報表
+title: 新增自訂欄至人員報告
 exl-id: 8604b3dc-fc8c-491e-8ffd-a5d5a9597ae1
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
-# 新增自訂欄至個人報表 {#add-custom-columns-to-a-person-report}
+# 新增自訂欄至人員報告 {#add-custom-columns-to-a-person-report}
 
 您可以使用[智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md)作為自訂欄，進一步篩選個人報表中的量度。
 

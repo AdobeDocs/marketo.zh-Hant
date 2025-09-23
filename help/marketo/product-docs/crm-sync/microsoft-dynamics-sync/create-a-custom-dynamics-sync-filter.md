@@ -4,7 +4,7 @@ description: 建立自訂 [!DNL Dynamics] 同步篩選器 — Marketo檔案 — 
 title: 建立自訂 [!DNL Dynamics] 同步篩選器
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 feature: Microsoft Dynamics
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '746'
 ht-degree: 1%

@@ -4,7 +4,7 @@ description: 步驟3之1 — 在Dynamics中安裝Marketo解決方案（2013內�
 title: 步驟3之1 — 在Dynamics中安裝Marketo解決方案（2013內部部署）
 exl-id: 89f90bca-b459-447f-bbdd-363f232a1059
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '250'
 ht-degree: 1%

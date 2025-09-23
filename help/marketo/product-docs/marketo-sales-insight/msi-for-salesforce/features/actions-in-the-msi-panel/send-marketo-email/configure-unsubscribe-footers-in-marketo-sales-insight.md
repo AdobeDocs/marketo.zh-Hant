@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953373
 description: 在Marketo銷售Insight - Marketo檔案 — 產品檔案中設定取消訂閱頁尾
-title: 在Marketo Sales Insight中設定取消訂閱頁尾
+title: 在 Marketo 銷售洞察中設定取消訂閱頁尾
 exl-id: 16c1fcba-6826-400c-ab7c-371d8653d4ad
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '184'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 >
 >**銷售電子郵件**&#x200B;是從[!DNL Sales Insight]傳送的電子郵件(不包括從Marketo Outlook外掛程式傳送的電子郵件)。
 
-1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/one-1.png)
 

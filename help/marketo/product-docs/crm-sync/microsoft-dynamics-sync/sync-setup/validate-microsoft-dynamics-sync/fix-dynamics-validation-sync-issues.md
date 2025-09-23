@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10095429
 description: 修正Dynamics驗證同步問題 — Marketo檔案 — 產品檔案
-title: 修正Dynamics驗證同步問題
+title: 修正 Dynamics 驗證同步問題
 exl-id: 1a300249-65b7-49b1-bf50-82236916298f
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '487'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 修正Dynamics驗證同步問題 {#fix-dynamics-validation-sync-issues}
+# 修正 Dynamics 驗證同步問題 {#fix-dynamics-validation-sync-issues}
 
 ## 驗證同步工具結果 {#validate-sync-tool-results}
 
@@ -41,13 +41,13 @@ ht-degree: 0%
 
 ## 使用者名稱和密碼有效 {#username-and-password-are-valid}
 
-如果您在此有![x](assets/delete.png)，請確認您的Microsoft Dynamics認證有效。 針對Web API S2S驗證，Marketo中的使用者名稱必須與CRM中的應用程式使用者的[電子郵件地址](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user)相符。 若是其他型別，它應符合Sync使用者的使用者名稱。
+如果您這裡有![x](assets/delete.png)，請確認您的Microsoft Dynamics認證有效。 針對Web API S2S驗證，Marketo中的使用者名稱必須與CRM中的應用程式使用者的[電子郵件地址](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user)相符。 若是其他型別，它應符合Sync使用者的使用者名稱。
 
 ## 已將同步使用者指派給Marketo同步使用者角色 {#sync-user-is-assigned-to-the-marketo-sync-user-role}
 
 如果您這裡有![x](assets/delete.png)，可能是下列三個問題之一。
 
-**選項一 — 確認已在Microsoft Dynamics中勾選Marketo Sync使用者角色**：
+**選項一 — 確認Marketo Sync使用者角色已在Microsoft Dynamics中勾選**：
 
 1. 在Dynamics中，按一下「設定」圖示，然後選取&#x200B;**進階設定**。
 

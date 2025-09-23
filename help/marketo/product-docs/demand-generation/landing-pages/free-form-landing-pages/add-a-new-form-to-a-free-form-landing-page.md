@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359705
 description: 將新表單新增至自由表單登陸頁面 — Marketo檔案 — 產品檔案
-title: 新增表單至自由表單登陸頁面
+title: 新增新的表單至自由格式登陸頁面
 exl-id: cfdcf4b1-5391-4eff-b4dd-ebeb6670a933
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
-# 新增表單至自由表單登陸頁面 {#add-a-new-form-to-a-free-form-landing-page}
+# 新增新的表單至自由格式登陸頁面 {#add-a-new-form-to-a-free-form-landing-page}
 
 表單，符合登陸頁面。 登陸頁面，符合表單。
 

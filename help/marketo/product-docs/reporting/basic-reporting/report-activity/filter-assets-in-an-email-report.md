@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360225
 description: 在電子郵件報告中篩選Assets - Marketo檔案 — 產品檔案
-title: 在電子郵件報告中篩選Assets
+title: 篩選電子郵件報告中的資產
 exl-id: c242e566-94d0-4e20-ba81-13a8f8f0b8a9
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# 在電子郵件報告中篩選Assets {#filter-assets-in-an-email-report}
+# 篩選電子郵件報告中的資產 {#filter-assets-in-an-email-report}
 
 將您的[電子郵件效能](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)或[電子郵件連結效能](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)報告集中在您的程式（「本機資產」）中的電子郵件、Design Studio中的電子郵件（「全域資產」）或已封存的電子郵件上。
 

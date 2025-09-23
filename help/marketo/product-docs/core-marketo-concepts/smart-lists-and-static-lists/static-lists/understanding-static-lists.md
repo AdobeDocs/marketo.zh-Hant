@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949891
 description: 瞭解靜態清單 — Marketo檔案 — 產品檔案
-title: 瞭解靜態清單
+title: 了解靜態清單
 exl-id: c37c1496-cf19-4e44-aaec-77b10669b9bf
 feature: Static Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '215'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 瞭解靜態清單 {#understanding-static-lists}
+# 了解靜態清單 {#understanding-static-lists}
 
 靜態清單是Marketo最簡單且實用的功能之一。 它們只是資料庫中的名稱清單。 您會找到許多使用理由。
 

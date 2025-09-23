@@ -1,17 +1,17 @@
 ---
 unique-page-id: 5472283
 description: 自訂自由表單登陸頁面的行動裝置檢視 — Marketo檔案 — 產品檔案
-title: 自訂您自由表單登陸頁面的行動裝置檢視
+title: 自訂自由格式登陸頁面的行動裝置視圖
 exl-id: 8a5b3d81-34b1-47be-9575-d5ab61cdf9e4
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '355'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 自訂您自由表單登陸頁面的行動裝置檢視 {#customize-mobile-view-for-your-free-form-landing-page}
+# 自訂自由格式登陸頁面的行動裝置視圖 {#customize-mobile-view-for-your-free-form-landing-page}
 
 >[!PREREQUISITES]
 >
@@ -91,7 +91,7 @@ ht-degree: 0%
 
    ![](assets/image2015-5-21-15-3a36-3a35.png)
 
-1. 想看點很酷的東西嗎？ 選擇「**[!UICONTROL Side By Side]**」。
+1. 想看點很酷的東西嗎？ 選取「**[!UICONTROL Side By Side]**」。
 
    ![](assets/image2015-1-22-20-3a2-3a15.png)
 

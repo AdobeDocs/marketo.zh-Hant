@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10096681
 description: 瞭解網路研討會計畫狀態 — Marketo檔案 — 產品檔案
-title: 瞭解網路研討會計畫狀態
+title: 了解網路研討會方案狀態
 exl-id: ef0b1b94-a612-4aa8-9b4a-aa7ef0e2abaa
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '414'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 瞭解網路研討會計畫狀態 {#understanding-webinar-program-statuses}
+# 了解網路研討會方案狀態 {#understanding-webinar-program-statuses}
 
 方案狀態代表個人作為事件成員所處理的不同事件狀態。 它們與管道型別相關聯。 Marketo有一個名為&#x200B;**網路研討會**&#x200B;的內建頻道型別。 狀態可用於批次和觸發行銷活動。
 

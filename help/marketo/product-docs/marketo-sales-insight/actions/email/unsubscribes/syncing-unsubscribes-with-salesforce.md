@@ -1,12 +1,12 @@
 ---
 description: 與Salesforce同步取消訂閱 — Marketo檔案 — 產品檔案
-title: 與Salesforce同步取消訂閱
+title: 與 Salesforce 同步取消訂閱
 exl-id: b5b0f625-e38c-4a03-81e7-010082001636
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '458'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -44,7 +44,7 @@ ht-degree: 1%
 
    ![](assets/syncing-unsubscribes-with-salesforce-2.png)
 
-1. 按一下「**[!UICONTROL Integrations]**」標籤。 在[!UICONTROL Sync to Salesforce]底下，啟用夜間同步。
+1. 按一下「**[!UICONTROL Integrations]**」索引標籤。在[!UICONTROL Sync to Salesforce]底下，啟用夜間同步。
 
    ![](assets/syncing-unsubscribes-with-salesforce-3.png)
 
@@ -75,7 +75,7 @@ ht-degree: 1%
 
    ![](assets/syncing-unsubscribes-with-salesforce-7.png)
 
-1. 選擇「**[!UICONTROL Page Layouts]**」。
+1. 選取「**[!UICONTROL Page Layouts]**」。
 
    ![](assets/syncing-unsubscribes-with-salesforce-8.png)
 
@@ -83,7 +83,7 @@ ht-degree: 1%
 
    ![](assets/syncing-unsubscribes-with-salesforce-9.png)
 
-1. 選擇「**[!UICONTROL Fields]**」。
+1. 選取「**[!UICONTROL Fields]**」。
 
    ![](assets/syncing-unsubscribes-with-salesforce-10.png)
 

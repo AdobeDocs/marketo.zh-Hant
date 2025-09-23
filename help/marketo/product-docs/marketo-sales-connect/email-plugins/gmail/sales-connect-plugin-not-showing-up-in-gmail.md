@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352547
 description: Gmail - Marketo檔案 — 產品檔案中未顯示Sales Connect外掛程式
-title: Sales Connect外掛程式未顯示在Gmail中
+title: Sales Connect 外掛程式未顯示在 Gmail 中
 exl-id: 6cfe0100-5b5c-4f0e-99af-2f54bbd5623c
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 

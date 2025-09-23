@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360295
 description: 匯出所有Marketo API欄位名稱的清單 — Marketo檔案 — 產品檔案
-title: 匯出所有Marketo API欄位名稱的清單
+title: 匯出所有 Marketo API 欄位名稱的清單
 exl-id: 7720c3fe-85e3-4de2-ad04-503c430562f0
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 0%
+source-wordcount: '93'
+ht-degree: 24%
 
 ---
 
-# 匯出所有Marketo API欄位名稱的清單 {#export-a-list-of-all-marketo-api-field-names}
+# 匯出所有 Marketo API 欄位名稱的清單 {#export-a-list-of-all-marketo-api-field-names}
 
 如果您使用我們的[!DNL SOAP API]或[!DNL Munchkin API]，則需要您所有欄位及其API名稱的清單。 以下說明如何取得此清單。
 
@@ -19,15 +19,15 @@ ht-degree: 0%
 >
 >**需要管理員許可權**
 
-1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/export-a-list-of-all-marketo-api-field-names-1.png)
 
-1. 按一下&#x200B;**[!UICONTROL 欄位管理]**。
+1. 按一下「**[!UICONTROL Field Management]**」。
 
    ![](assets/export-a-list-of-all-marketo-api-field-names-2.png)
 
-1. 按一下&#x200B;**[!UICONTROL 匯出欄位名稱]**&#x200B;以下載試算表。
+1. 按一下&#x200B;**[!UICONTROL Export Field Names]**&#x200B;下載試算表。
 
    ![](assets/export-a-list-of-all-marketo-api-field-names-3.png)
 

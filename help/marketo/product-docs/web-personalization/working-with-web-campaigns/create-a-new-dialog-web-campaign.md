@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719398
 description: 建立新的Dialog網頁行銷活動 — Marketo檔案 — 產品檔案
-title: 建立新的對話方塊網頁行銷活動
+title: 建立新的對話框網頁行銷活動
 exl-id: 389b0d2d-f39e-4825-b419-373322b6811b
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '732'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 建立新的對話方塊網頁行銷活動 {#create-a-new-dialog-web-campaign}
+# 建立新的對話框網頁行銷活動 {#create-a-new-dialog-web-campaign}
 
 ## 建立對話方塊網頁行銷活動 {#create-a-dialog-web-campaign}
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2016-8-18-15-3a48-3a45.png)
 
-1. 選擇「**[!UICONTROL Create New Web Campaign]**」。
+1. 選取「**[!UICONTROL Create New Web Campaign]**」。
 
    ![](assets/image2016-11-4-10-3a58-3a32.png)
 
@@ -146,11 +146,11 @@ ht-degree: 0%
 
 ![](assets/image2016-11-4-11-3a8-3a58.png)
 
-## 複製網站行銷活動 {#clone-a-web-campaign}
+## 原地複製網頁行銷活動 {#clone-a-web-campaign}
 
 請參閱[複製網站行銷活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md)。
 
-## 刪除網站行銷活動 {#delete-a-web-campaign}
+## 刪除網頁行銷活動 {#delete-a-web-campaign}
 
 1. 從&#x200B;**[!UICONTROL Web Campaigns]**&#x200B;頁面，按一下您要刪除之網路促銷活動的&#x200B;**[!UICONTROL Delete]**。
 

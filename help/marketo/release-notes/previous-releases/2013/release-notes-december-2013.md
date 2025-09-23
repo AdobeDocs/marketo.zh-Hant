@@ -4,14 +4,14 @@ description: 發行說明 — 2013年12月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2013年12月
 exl-id: 145e2706-c770-4f39-a1ef-77b7912b1b70
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '303'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 發行說明： 2013年12月 {#release-notes-december}
+# 發行說明：2013 年 12 月 {#release-notes-december}
 
 12月版本中包括下列功能。
 

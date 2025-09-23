@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718668
 description: 使用收入模型SLA階段 — Marketo檔案 — 產品檔案
-title: 使用收入模型SLA階段
+title: 使用收入模型 SLA 階段
 exl-id: 48ca4be9-0e77-4065-8769-ce046d0c50ea
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '223'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 使用收入模型SLA階段 {#using-revenue-model-sla-stages}
+# 使用收入模型 SLA 階段 {#using-revenue-model-sla-stages}
 
 SLA代表「service level agreement」。 當有定義的最大時間時，在向前或離開處理之前需要評估或處理潛在客戶，就會使用這些階段。
 

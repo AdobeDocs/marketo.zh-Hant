@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352621
 description: 瞭解傳送選項 — Marketo檔案 — 產品檔案
-title: 瞭解傳送選項
+title: 了解傳送選項
 exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
 feature: Marketo Sales Connect
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '597'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 瞭解傳送選項 {#understanding-send-options}
+# 了解傳送選項 {#understanding-send-options}
 
 建立行銷活動時，您有幾個選項可讓您決定如何在[!DNL Sales Connect]中建立電子郵件步驟。 此外，根據電子郵件在Campaign中的所在位置，您的選項也會有所不同。
 

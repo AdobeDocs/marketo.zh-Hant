@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11382535
 description: 在My Token中使用URL - Marketo檔案 — 產品檔案
-title: 在我的Token中使用URL
+title: 在我的權杖中使用 URL
 exl-id: 6830c621-4d94-4f31-a608-2f7b2aced88c
 feature: Tokens
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '238'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 在我的Token中使用URL {#using-urls-in-my-tokens}
+# 在我的權杖中使用 URL {#using-urls-in-my-tokens}
 
 請依照下列步驟，使用[!UICONTROL My Tokens]將URL插入您的電子郵件中。
 

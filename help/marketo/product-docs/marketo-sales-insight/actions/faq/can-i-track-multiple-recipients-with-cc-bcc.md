@@ -3,14 +3,14 @@ description: 我可以使用副本/密件副本追蹤多個收件者嗎 — Mark
 title: 我可以使用副本/密件副本追蹤多個收件者嗎
 exl-id: cc14cbb5-6c1f-470c-9836-dd853ef7befc
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '86'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# 我可以使用副本/密件副本追蹤多個收件者嗎？ {#can-i-track-multiple-recipients-with-cc-bcc}
+# 我可以透過副本/密件副本追蹤多位收件者嗎？ {#can-i-track-multiple-recipients-with-cc-bcc}
 
 您可以像在電子郵件中一樣寄送副本和密件副本給個人。
 

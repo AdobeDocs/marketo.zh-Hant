@@ -4,7 +4,7 @@ description: 建立行銷活動 — Marketo檔案 — 產品檔案
 title: 建立行銷活動
 exl-id: 17952187-4d7e-469e-9ac8-c2611dfeac1f
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '285'
 ht-degree: 2%
@@ -36,7 +36,7 @@ ht-degree: 2%
    >
    >按一下&#x200B;**旁的**+**[!UICONTROL Categories]**&#x200B;以建立新類別。
 
-1. 將會選取您選擇的類別。 如果您改變心意，請按一下下拉式清單並選取其他選項。 完成後，按一下「**[!UICONTROL &#x200B; Continue]**」。
+1. 將會選取您選擇的類別。 如果您改變心意，請按一下下拉式清單並選取其他選項。 完成後，按一下「**[!UICONTROL  Continue]**」。
 
    ![](assets/three-1.png)
 

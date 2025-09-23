@@ -1,16 +1,16 @@
 ---
 description: 串流Designer - Marketo檔案 — 產品檔案
-title: 流程設計工具
+title: 資料流設計工具
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 11006e3244fd7a145a955dd08b669a897dae826b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1175'
 ht-degree: 1%
 
 ---
 
-# 流程設計工具 {#stream-designer}
+# 資料流設計工具 {#stream-designer}
 
 可能有&#x200B;_多個_&#x200B;資料流組合。 本文包含行銷人員詢問網站訪客是否有任何產品問題的範例。 如果是，訪客可以排程約會。 如果沒有，訪客可以選擇加入郵寄清單以備將來通訊。 此外，還提供免費的PDF。 最終目標是排程約會或收集訪客的電子郵件。
 
@@ -109,7 +109,7 @@ ht-degree: 1%
 
    ![](assets/stream-designer-6.png)
 
-1. 拖放&#x200B;_[!UICONTROL Question]_&#x200B;卡片。
+1. 拖放&#x200B;_[!UICONTROL Question]_卡片。
 
    ![](assets/stream-designer-7.png)
 
@@ -145,7 +145,7 @@ ht-degree: 1%
 
    ![](assets/stream-designer-11.png)
 
-1. 由於這是目標，請將&#x200B;_[!UICONTROL Goal]_&#x200B;卡片拖曳到會議預約下方。
+1. 由於這是目標，請將&#x200B;_[!UICONTROL Goal]_卡片拖曳到會議預約下方。
 
    ![](assets/stream-designer-12.png)
 
@@ -177,7 +177,7 @@ ht-degree: 1%
 
    ![](assets/stream-designer-18.png)
 
-1. 由於收集他們的電子郵件是目標，請將&#x200B;_[!UICONTROL Goal]_&#x200B;卡片拖曳至「資訊擷取」下方。
+1. 由於收集他們的電子郵件是目標，請將&#x200B;_[!UICONTROL Goal]_卡片拖曳至「資訊擷取」下方。
 
    ![](assets/stream-designer-19.png)
 

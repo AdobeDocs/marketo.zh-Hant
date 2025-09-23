@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352412
 description: 新增身分 — Marketo檔案 — 產品檔案
-title: 新增身分
+title: 新增身分識別
 exl-id: 6656b852-1c72-4a0a-b641-7ef1925f22a7
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# 新增身分 {#add-identity}
+# 新增身分識別 {#add-identity}
 
 當您有多個要傳送的電子郵件地址時，請新增身分識別。
 

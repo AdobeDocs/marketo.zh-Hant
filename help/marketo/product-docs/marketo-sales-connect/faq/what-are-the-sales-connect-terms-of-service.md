@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352495
-description: Sales Connect的服務條款為何？ - Marketo檔案 — 產品檔案
-title: Sales Connect的服務條款為何？
+description: Sales Connect的服務條款為何？ - Marketo 文件 - 產品文件
+title: Sales Connect 服務條款是什麼？
 exl-id: 958d5d0f-1cf4-4653-aaf9-e516a23cb702
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '41'
-ht-degree: 0%
+ht-degree: 29%
 
 ---
 

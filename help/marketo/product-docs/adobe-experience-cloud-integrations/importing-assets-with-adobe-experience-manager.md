@@ -1,17 +1,17 @@
 ---
 unique-page-id: 37355768
 description: 使用Adobe Experience Manager匯入Assets - Marketo檔案 — 產品檔案
-title: 使用Adobe Experience Manager匯入Assets
+title: 使用 Adobe Experience Manager 匯入資產
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
 feature: Integrations
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '227'
-ht-degree: 0%
+source-wordcount: '217'
+ht-degree: 5%
 
 ---
 
-# 使用Adobe Experience Manager匯入Assets {#importing-assets-with-adobe-experience-manager}
+# 使用 Adobe Experience Manager 匯入資產 {#importing-assets-with-adobe-experience-manager}
 
 資產選擇器可讓Marketo客戶存取、選取AEM資產，並將其匯入Marketo [!DNL Design Studio]。 **需要管理員許可權**。
 
@@ -25,13 +25,13 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->目前，[!DNL Firefox]僅完全支援此功能。 [!DNL Safari]不支援此功能，且根據您的[!DNL SameSite] Cookie設定，此功能可能無法用於最新版本的[!DNL Chrome]。
+>目前，[!DNL Firefox]僅完全支援此功能。 [!DNL Safari]不支援此功能，且根據您的[!DNL Chrome] Cookie設定，此功能可能無法用於最新版本的[!DNL SameSite]。
 
-1. 按一下&#x200B;**[!UICONTROL Design Studio]**。
+1. 按一下「**[!UICONTROL Design Studio]**」。
 
    ![](assets/importing-assets-with-adobe-experience-manager-1.png)
 
-1. 按一下[新增]下拉式清單，然後選取&#x200B;**[!UICONTROL 從Adobe Experience Manager匯入]**。
+1. 按一下[新增]下拉式清單，然後選取&#x200B;**[!UICONTROL Import from Adobe Experience Manager]**。
 
    ![](assets/importing-assets-with-adobe-experience-manager-2.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/importing-assets-with-adobe-experience-manager-4.png)
 
-1. 選擇您的資料夾。 然後，按一下縮圖來選取您想要的影像（您最多可以選擇10張）。 完成時，按一下&#x200B;**[!UICONTROL 選取]**。
+1. 選擇您的資料夾。 然後，按一下縮圖來選取您想要的影像（您最多可以選擇10張）。 完成時，按一下&#x200B;**[!UICONTROL Select]**。
 
    ![](assets/importing-assets-with-adobe-experience-manager-5.png)
 
@@ -51,11 +51,11 @@ ht-degree: 0%
    >
    >影像大小不能超過100MB。
 
-1. 按一下&#x200B;**[!UICONTROL 匯入]**&#x200B;以完成程式。
+1. 按一下&#x200B;**[!UICONTROL Import]**&#x200B;以完成程式。
 
    ![](assets/importing-assets-with-adobe-experience-manager-6.png)
 
-   就是這樣！ 按一下&#x200B;**[!UICONTROL 關閉]**&#x200B;以返回設計工作室。
+   就是這樣！ 按一下&#x200B;**[!UICONTROL Close]**&#x200B;以返回Design Studio。
 
    ![](assets/importing-assets-with-adobe-experience-manager-7.png)
 

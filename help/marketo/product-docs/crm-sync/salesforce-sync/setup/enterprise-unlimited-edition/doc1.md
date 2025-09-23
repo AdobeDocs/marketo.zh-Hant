@@ -4,14 +4,14 @@ title: 步驟3之1 — 將Marketo欄位新增至Salesforce (Enterprise/Unlimited
 hide: true
 hidefromtoc: true
 feature: Salesforce Integration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '655'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 步驟3之1：將Marketo欄位新增至Salesforce (Enterprise/Unlimited) {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
+# 第 1 步 (共 3 步)：新增 Marketo 欄位至 Salesforce (企業版/無限版) {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
 
 >[!PREREQUISITES]
 >

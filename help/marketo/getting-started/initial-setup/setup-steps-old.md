@@ -6,7 +6,7 @@ hide: true
 hidefromtoc: true
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
 feature: Getting Started
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '2051'
 ht-degree: 1%
@@ -48,7 +48,7 @@ ht-degree: 1%
 
 恭喜！您現在在Marketo中，可以開始探索。 您可能會想要邀請行銷團隊中的同事加入您。 您可以透過新增使用者來完成此操作。
 
-移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
+前往「**[!UICONTROL Admin]**」區域。
 
 >[!TIP]
 >
@@ -110,7 +110,7 @@ ht-degree: 1%
 >
 >清單中只會顯示已登入Marketo社群的使用者。 如果您找不到該人員，請確定他們先登入社群。
 
-## 使用CNAME自訂您的登陸頁面URL {#customize-your-landing-page-urls-with-a-cname}
+## 使用 CNAME 自訂您的登陸頁面 URL {#customize-your-landing-page-urls-with-a-cname}
 
 >[!NOTE]
 >
@@ -350,6 +350,6 @@ Marketo有自訂追蹤JavaScript （稱為[!DNL Munchkin]），您可以使用�
 
 ## 效能期望 {#performance-expectations}
 
-Marketo的效能表現如何？ 其可能會因行銷活動的規模和複雜性而異。 但您可在[Marketo Engage產品說明](https://helpx.adobe.com/tw/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}中找到的數個表格中，預期與「標準」欄中所概述的效能等級相等。 「效能」和「效能加上」欄是指提供[較高效能等級](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}的效能層級套件。
+Marketo的效能表現如何？ 其可能會因行銷活動的規模和複雜性而異。 但您可在[Marketo Engage產品說明](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}中找到的數個表格中，預期與「標準」欄中所概述的效能等級相等。 「效能」和「效能加上」欄是指提供[較高效能等級](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}的效能層級套件。
 
 您的所有設定步驟都已完成。 只剩下深入瞭解並使用Marketo了！

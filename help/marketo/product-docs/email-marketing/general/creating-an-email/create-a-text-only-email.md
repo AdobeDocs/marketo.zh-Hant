@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900556
 description: 建立僅限文字的電子郵件 — Marketo檔案 — 產品檔案
-title: 建立僅限文字的電子郵件
+title: 建立純文字電子郵件
 exl-id: ac0b43cb-4cef-4079-ad97-4ec6b92a2139
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '167'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-# 建立僅限文字的電子郵件 {#create-a-text-only-email}
+# 建立純文字電子郵件 {#create-a-text-only-email}
 
 如果您只想傳送文字電子郵件，以下說明如何建立無任何HTML內容傳送的電子郵件。
 
@@ -19,15 +19,15 @@ ht-degree: 0%
 >
 >由於開啟是由下載電子郵件影像（包括隱藏的追蹤畫素）的收件者追蹤，因此開啟&#x200B;**無法**&#x200B;追蹤「僅限文字」電子郵件。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**&#x200B;區域。
+1. 前往「**[!UICONTROL Marketing Activities]**」區域。
 
    ![](assets/one-1.png)
 
-1. 選取您的程式，按一下&#x200B;**[!UICONTROL New]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL New Local Asset]**。
+1. 選取您的方案，按一下「**[!UICONTROL New]**」下拉式選單，然後選取「**[!UICONTROL New Local Asset]**」。
 
    ![](assets/two-1.png)
 
-1. 選擇「**[!UICONTROL Email]**」。
+1. 選取「**[!UICONTROL Email]**」。
 
    ![](assets/three-1.png)
 

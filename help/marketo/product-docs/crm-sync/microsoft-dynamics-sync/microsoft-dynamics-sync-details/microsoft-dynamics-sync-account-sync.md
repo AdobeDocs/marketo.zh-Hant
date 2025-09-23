@@ -4,7 +4,7 @@ description: Microsoft Dynamics同步 — 帳戶同步 — Marketo檔案 — 產
 title: Microsoft Dynamics同步 — 帳戶同步
 exl-id: 86249d33-60dd-47e1-a7c8-3996c9444084
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '209'
 ht-degree: 0%

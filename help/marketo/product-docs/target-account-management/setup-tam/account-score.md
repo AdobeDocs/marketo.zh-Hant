@@ -4,10 +4,10 @@ description: 帳戶分數 — Marketo檔案 — 產品檔案
 title: 帳戶分數
 exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
 feature: Target Account Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '334'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -47,9 +47,9 @@ ht-degree: 0%
 >若要計算帳戶分數，您必須先建立潛在客戶分數。 Marketo TAM會自動將潛在客戶分數彙總至帳戶分數。 舉例來說，我們舉兩個上述範例（_帳戶產品興趣分數_&#x200B;和&#x200B;_帳戶網頁參與分數_）。
 >
 >首先，建立銷售機會分數欄位，從目標帳戶的每個銷售機會擷取相關詳細資訊。
->&#x200B;>然後，將這些潛在客戶分數指派給其個別帳戶分數：
->&#x200B;>帳戶產品利息分數= SUM （潛在客戶產品利息分數）
->&#x200B;>帳戶網站參與分數= SUM （潛在客戶網站參與分數）
+>>然後，將這些潛在客戶分數指派給其個別帳戶分數：
+>>帳戶產品利息分數= SUM （潛在客戶產品利息分數）
+>>帳戶網站參與分數= SUM （潛在客戶網站參與分數）
 
 >[!NOTE]
 >

@@ -4,10 +4,10 @@ description: 重新命名欄位 — Marketo檔案 — 產品檔案
 title: 重新命名欄位
 exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
 feature: Field Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 >
 >**需要管理員許可權**
 
-1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/rename-a-field-1.png)
 

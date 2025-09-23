@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14746690
 description: 行銷活動步驟型別 — Marketo檔案 — 產品檔案
-title: 行銷活動步驟型別
+title: 行銷活動步驟類型
 exl-id: fb6aff01-c38b-4b26-81bb-c6b1d79db992
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '180'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
-# 行銷活動步驟型別 {#campaign-step-types}
+# 行銷活動步驟類型 {#campaign-step-types}
 
 將步驟新增至行銷活動時，您有四個選項。
 

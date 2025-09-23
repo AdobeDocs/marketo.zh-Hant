@@ -1,12 +1,12 @@
 ---
 description: 移除銷售Insight存取權 — Marketo檔案 — 產品檔案
-title: 移除銷售Insight存取權
+title: 移除銷售洞察存取權
 exl-id: 3cda112a-524e-469b-a222-c0192b2f5301
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '329'
-ht-degree: 3%
+ht-degree: 4%
 
 ---
 

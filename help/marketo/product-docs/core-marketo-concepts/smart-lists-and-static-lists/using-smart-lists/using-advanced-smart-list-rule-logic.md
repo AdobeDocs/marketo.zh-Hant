@@ -4,10 +4,10 @@ description: 使用進階智慧清單規則邏輯 — Marketo檔案 — 產品�
 title: 使用進階智慧清單規則邏輯
 exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
 feature: Smart Lists
-source-git-commit: d087b22e84c23fea5e38fe7bf20349dc7eec09f7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '302'
-ht-degree: 0%
+source-wordcount: '294'
+ht-degree: 4%
 
 ---
 
@@ -30,15 +30,15 @@ ht-degree: 0%
 
 在此範例中，假設您想要尋找加州得分至少為50分&#x200B;_或_&#x200B;且狀態為「符合銷售資格」的人&#x200B;_和_。
 
-1. 從下拉式清單中選取&#x200B;**[!UICONTROL 使用進階篩選器]**。
+1. 從下拉式清單中選取&#x200B;**[!UICONTROL Use Advanced filters]**。
 
    ![](assets/using-advanced-smart-list-rule-logic-1.png)
 
    >[!NOTE]
    >
-   >使用&#x200B;**[!UICONTROL 進階]**&#x200B;篩選器可減少使用「智慧列示」篩選器的成員來建立「智慧列示」的需求。 這有助於最佳化效能。
+   >使用&#x200B;**[!UICONTROL Advanced]**&#x200B;篩選器可減少使用「智慧列示」篩選器的成員來建立「智慧列示」的需求。 這有助於最佳化效能。
 
-1. **[!UICONTROL 進階篩選器]**&#x200B;文字方塊會顯示「與」作為所有篩選器之間的預設值。
+1. **[!UICONTROL Advanced filters]**&#x200B;文字方塊會顯示「與」作為所有篩選器之間的預設值。
 
    ![](assets/using-advanced-smart-list-rule-logic-2.png)
 

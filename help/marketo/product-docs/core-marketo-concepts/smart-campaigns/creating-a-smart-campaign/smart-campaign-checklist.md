@@ -4,10 +4,10 @@ description: 智慧行銷活動檢查清單 — Marketo檔案 — 產品檔案
 title: 智慧行銷活動檢查清單
 exl-id: 3c0d08c9-66ae-4083-ab0a-fa5a95149aba
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '246'
-ht-degree: 0%
+source-wordcount: '234'
+ht-degree: 3%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 移除智慧清單錯誤 {#get-rid-of-smart-list-errors}
 
-在您的Smart Campaign中，按一下&#x200B;**[!UICONTROL 智慧清單]**。 修正錯誤，移除您所看到的任何紅色直線。
+在您的Smart Campaign中，按一下&#x200B;**[!UICONTROL Smart List]**。 修正錯誤，移除您所看到的任何紅色直線。
 
 ![](assets/smart-campaign-checklist-1.png)
 
@@ -29,11 +29,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->使用&#x200B;**[!UICONTROL 智慧列示成員]**&#x200B;時，其他清單中可能會發生錯誤。 也請檢查。
+>使用&#x200B;**[!UICONTROL Member of Smart List]**&#x200B;可能在該其他清單中發生錯誤。 也請檢查。
 
 ## 移除流量錯誤 {#get-rid-of-flow-errors}
 
-在您的Smart Campaign中，按一下&#x200B;**[!UICONTROL 流量]**。 修正錯誤，移除您所看到的任何紅色直線。
+在您的Smart Campaign中，按一下&#x200B;**[!UICONTROL Flow]**。 修正錯誤，移除您所看到的任何紅色直線。
 
 ![](assets/smart-campaign-checklist-2.png)
 
@@ -43,19 +43,19 @@ ht-degree: 0%
 
 ## 檢閱「排程」標籤 {#review-the-schedule-tab}
 
-在&#x200B;**[!UICONTROL 排程]**&#x200B;索引標籤中，檢查&#x200B;**[!UICONTROL 智慧列示狀態]**&#x200B;是否有任何需要修正的智慧行銷活動錯誤。
+在&#x200B;**[!UICONTROL Schedule]**&#x200B;索引標籤中，檢查&#x200B;**[!UICONTROL Smart List Status]** Smart Campaign中需要修正的任何錯誤。
 
 ![](assets/smart-campaign-checklist-3.png)
 
 ## 檢查人員限制限制 {#check-person-restrictions-limit}
 
-在&#x200B;**[!UICONTROL 排程]**&#x200B;索引標籤中，請確定合格人員的數量不超過人員限制限制。
+在&#x200B;**[!UICONTROL Schedule]**&#x200B;索引標籤中，請確定符合資格的人數沒有超過人員限制限制。
 
 ![](assets/smart-campaign-checklist-4.png)
 
 >[!TIP]
 >
->如有需要，您可以在Smart Campaign[&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)中覆寫人員限制。
+>如有需要，您可以在Smart Campaign[中](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)覆寫人員限制。
 
 >[!NOTE]
 >

@@ -4,18 +4,18 @@ description: 發行說明 — 2015年3月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2015年3月
 exl-id: aa3c738a-2e5c-41c3-b1d7-95869dd10b02
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '287'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 發行說明： 2015年3月 {#release-notes-march}
+# 發行說明：2015 年 3 月 {#release-notes-march}
 
 2015年3月發行版本包含下列功能。 請檢查您的Marketo版本是否有功能可用。 發行後，請務必返回尋找每個功能的詳細文章連結。
 
-## 行事曆HD {#calendar-hd}
+## 行事曆 HD {#calendar-hd}
 
 以行事曆的新簡報模式顯示團隊的行銷活動。 這些適合辦公室的電視或大型顯示器！ 根據智慧清單或自訂量度設定及顯示目標。
 
@@ -37,9 +37,9 @@ ht-degree: 0%
 
 ## 新資產REST API {#new-asset-rest-apis}
 
-[新資產REST API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/assets/assets)
+[新資產REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/assets)
 
-我們現在支援透過API建立和編輯電子郵件、範本、我的Token、檔案和程式碼片段[&#128279;](https://developer.adobe.com/marketo-apis/api/asset/)！
+我們現在支援透過API建立和編輯電子郵件、範本、我的Token、檔案和程式碼片段[](https://developer.adobe.com/marketo-apis/api/asset/)！
 
 ## [!DNL Microsoft Dynamics] 2015年內部部署 {#microsoft-dynamics-on-premise}
 

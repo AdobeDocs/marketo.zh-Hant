@@ -4,10 +4,10 @@ description: 系統權杖字彙表 — Marketo檔案 — 產品檔案
 title: 系統權杖字彙表
 exl-id: 8a7694af-4edb-4b32-b408-19d2e7bd596e
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '248'
-ht-degree: 0%
+source-wordcount: '249'
+ht-degree: 2%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 ## system.time {#system-time}
 
-`{{system.time}}`權杖將在執行階段呈現目前時間，如下所示： **下午4:34 (GMT -0700)**
+`{{system.time}}`權杖將在執行階段呈現目前時間，例如： **04:34下午(GMT -0700)**
 
 **工作位置：**
 
@@ -54,7 +54,7 @@ ht-degree: 0%
 
 ## system.forwardToFriendLink {#system-forwardtofriendlink}
 
-`{{system.forwardToFriendLink}}`權杖可讓您控制電子郵件[&#128279;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md){target="_blank"}中「轉寄給朋友連結」的位置。
+`{{system.forwardToFriendLink}}`權杖可讓您控制電子郵件[中](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md){target="_blank"}「轉寄給朋友連結」的位置。
 
 **工作位置：**
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360309
 description: 瞭解工作區和人員分割 — Marketo檔案 — 產品檔案
-title: 瞭解工作區和人員分割
+title: 了解工作區和人員分割
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
 feature: Partitions, Workspaces
-source-git-commit: 91b6460bf0fa7fed85d48887ec38203f2ee7440f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '538'
-ht-degree: 0%
+source-wordcount: '528'
+ht-degree: 4%
 
 ---
 
-# 瞭解工作區和人員分割 {#understanding-workspaces-and-person-partitions}
+# 了解工作區和人員分割 {#understanding-workspaces-and-person-partitions}
 
 ## 工作區 {#workspaces}
 
@@ -44,15 +44,15 @@ ht-degree: 0%
 >
 >包含您資產的父資料夾是唯一可共用的資料夾，而非子資料夾。
 
-1. 按一下&#x200B;**[!UICONTROL 資料庫]**。
+1. 按一下「**[!UICONTROL Database]**」。
 
    ![](assets/understanding-workspaces-and-person-partitions-1.png)
 
-1. 在Segmentation資料夾上按一下滑鼠右鍵，然後按一下&#x200B;**[!UICONTROL 新增資料夾]**。
+1. 在Segmentation資料夾上按一下滑鼠右鍵，然後按一下&#x200B;**[!UICONTROL New Folder]**。
 
    ![](assets/understanding-workspaces-and-person-partitions-2.png)
 
-1. 為資料夾命名，然後按一下[建立]。**&#x200B;**
+1. 命名資料夾並按一下&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/understanding-workspaces-and-person-partitions-3.png)
 
@@ -60,11 +60,11 @@ ht-degree: 0%
 
    ![](assets/understanding-workspaces-and-person-partitions-4.png)
 
-1. 在資料夾上按一下滑鼠右鍵，然後選取&#x200B;**[!UICONTROL 共用資料夾]**。
+1. 在資料夾上按一下滑鼠右鍵，然後選取&#x200B;**[!UICONTROL Share Folder]**。
 
    ![](assets/understanding-workspaces-and-person-partitions-5.png)
 
-1. 選取您要共用資料夾的工作區，然後按一下[儲存]。**&#x200B;** 「共用資料夾」對話方塊只會顯示您有檢視許可權的工作區。
+1. 選取您要共用資料夾的工作區，然後按一下&#x200B;**[!UICONTROL Save]**。 「共用資料夾」對話方塊只會顯示您有檢視許可權的工作區。
 
    ![](assets/understanding-workspaces-and-person-partitions-6.png)
 
@@ -75,21 +75,21 @@ ht-degree: 0%
 您可以跨工作區共用這些專案。
 
 * 電子郵件範本
-* 登入頁面範本
+* 登陸頁面範本
 * 模型
 * 智慧型行銷活動
 * [智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)
-* [區段](/help/marketo/product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
-* 代碼片段
+* [細分](/help/marketo/product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
+* 程式碼片段
 
 ## 跨工作區複製 {#cloning-across-workspaces}
 
 對於非範本的資產，最好在程式內將其復製為本機資產。 有了適當的存取層級，您可以將這些資產拖放至另一個工作區：
 
-* 計畫
+* 方案
 * 電子郵件
 * 登陸頁面
-* Forms
+* 表單
 
 >[!IMPORTANT]
 >
@@ -114,8 +114,8 @@ ht-degree: 0%
 您可以指派人員分割至下列組態中的[工作區](create-a-new-workspace.md)：
 
 * 一個工作區對一個人分割(1:1)
-* 一個工作區對多個人員分割(1：x)
-* 將多個工作區分割為單一人員分割(x：1)
+* 一個工作區對多個人員分割(1:x)
+* 多個工作區至一個人員分割(x:1)
 
 >[!NOTE]
 >

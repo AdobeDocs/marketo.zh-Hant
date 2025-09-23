@@ -1,17 +1,17 @@
 ---
 unique-page-id: 37356893
 description: MSI功能總覽 — Marketo檔案 — 產品檔案
-title: MSI功能概述
+title: MSI 功能概觀
 exl-id: e6cd988c-afba-44e3-b240-68258236f344
 feature: Marketo Sales Insights
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '931'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# MSI功能概述 {#msi-feature-overview}
+# MSI 功能概觀 {#msi-feature-overview}
 
 MSI在[!DNL Salesforce] Lightning and Classic中有以下可用的功能。
 
@@ -26,7 +26,7 @@ MSI Visualforce面板包含下列功能：
 * 索引標籤
 
    * [見解控制面板](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
-   * 有趣的時刻
+   * 關鍵時刻
    * 網頁活動
    * 電子郵件
    * 分數
@@ -140,7 +140,7 @@ Visualforce頁面：
 
 [!DNL Salesforce Classic]：新增至關注清單、新增至Marketo Campaign，以及在「潛在客戶」和「連絡人清單」檢視中傳送Marketo電子郵件大量動作按鈕。
 
-## Marketo索引標籤 {#marketo-tab}
+## Marketo 索引標籤 {#marketo-tab}
 
 * [!DNL Best Bets]
 
@@ -190,7 +190,7 @@ Visualforce頁面：
 
 檢視透過[!DNL Salesforce]、[!DNL Microsoft Dynamics]或Gmail或[!DNL Outlook]外掛程式傳送的電子郵件效能
 
-## 適用於行動裝置的MSI {#msi-for-mobile}
+## MSI 行動版 {#msi-for-mobile}
 
 [!DNL Salesforce]行動應用程式支援MSI功能
 

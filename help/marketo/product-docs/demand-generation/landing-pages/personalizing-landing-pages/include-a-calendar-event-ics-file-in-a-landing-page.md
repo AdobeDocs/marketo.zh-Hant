@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359540
 description: 在登陸頁面中包含行事曆事件ICS檔案 — Marketo檔案 — 產品檔案
-title: 在登入頁面中包含行事曆事件ICS檔案
+title: 在登陸頁面中加入行事曆事件 ICS 檔案
 exl-id: 3975f5ba-f514-4708-b51e-bc20d1eed6b4
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 0%
+ht-degree: 18%
 
 ---
 
-# 在登入頁面中包含行事曆事件ICS檔案 {#include-a-calendar-event-ics-file-in-a-landing-page}
+# 在登陸頁面中加入行事曆事件 ICS 檔案 {#include-a-calendar-event-ics-file-in-a-landing-page}
 
 **[!UICONTROL Calendar File]** Token可讓您將行事曆事件(.ics)連結新增至您的Marketo登陸頁面。
 

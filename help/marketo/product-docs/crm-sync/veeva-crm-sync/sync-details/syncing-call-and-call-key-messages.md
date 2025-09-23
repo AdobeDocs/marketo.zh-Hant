@@ -1,16 +1,16 @@
 ---
 description: 同步呼叫和呼叫重要訊息 — Marketo檔案 — 產品檔案
-title: 同步呼叫和呼叫重要訊息
+title: 同步呼叫和呼叫關鍵訊息
 exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
 feature: Veeva CRM
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '477'
-ht-degree: 3%
+ht-degree: 6%
 
 ---
 
-# 同步呼叫和呼叫重要訊息 {#syncing-call-and-call-key-messages}
+# 同步呼叫和呼叫關鍵訊息 {#syncing-call-and-call-key-messages}
 
 [!DNL Veeva] CRM中的Call和Call鍵訊息物件預設會同步至Marketo Engage。 Marketo會根據通話建立日期同步最多6個月前的資料。
 

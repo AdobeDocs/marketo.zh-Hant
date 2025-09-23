@@ -1,25 +1,25 @@
 ---
 unique-page-id: 2360331
 description: 變更Marketo自訂欄位的型別 — Marketo檔案 — 產品檔案
-title: 變更Marketo自訂欄位的型別
+title: 變更 Marketo 自訂欄位的類型
 exl-id: b9b3dfc5-cb5f-4233-9fe6-f8fdf111d48c
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 0%
+source-wordcount: '94'
+ht-degree: 22%
 
 ---
 
-# 變更Marketo自訂欄位的型別 {#change-the-type-of-a-marketo-custom-field}
+# 變更 Marketo 自訂欄位的類型 {#change-the-type-of-a-marketo-custom-field}
 
 以下說明如何變更自訂欄位的欄位型別。
 
-1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/change-the-type-of-a-marketo-custom-field-1.png)
 
-1. 按一下&#x200B;**[!UICONTROL 欄位管理]**。
+1. 按一下「**[!UICONTROL Field Management]**」。
 
    ![](assets/change-the-type-of-a-marketo-custom-field-2.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/change-the-type-of-a-marketo-custom-field-3.png)
 
-1. 在&#x200B;**[!UICONTROL 欄位動作]**&#x200B;下拉式清單中，按一下&#x200B;**[!UICONTROL 變更型別]**。
+1. 在&#x200B;**[!UICONTROL Field Actions]**&#x200B;下拉式清單中，按一下&#x200B;**[!UICONTROL Change Type]**。
 
    ![](assets/change-the-type-of-a-marketo-custom-field-4.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/change-the-type-of-a-marketo-custom-field-5.png)
 
-1. 閱讀警告，然後按一下&#x200B;**[!UICONTROL 變更]**&#x200B;以確認。
+1. 閱讀警告，然後按一下&#x200B;**[!UICONTROL Change]**&#x200B;確認。
 
    ![](assets/change-the-type-of-a-marketo-custom-field-6.png)
 

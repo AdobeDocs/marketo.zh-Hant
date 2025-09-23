@@ -1,17 +1,17 @@
 ---
 unique-page-id: 3571886
 description: 使用成功路徑分析器 — Marketo檔案 — 產品檔案
-title: 使用成功路徑分析器
+title: 使用成功路徑分析工具
 exl-id: f816b7ac-a158-46bd-9d00-09ef4cc8b381
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '340'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 使用成功路徑分析器 {#using-the-success-path-analyzer}
+# 使用成功路徑分析工具 {#using-the-success-path-analyzer}
 
 使用成功路徑分析器來探索特定詳細資訊，這些詳細資訊會反映[收入週期模型](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md)各個階段中的人員流量（數量）和速度（速度，以天數計）。
 

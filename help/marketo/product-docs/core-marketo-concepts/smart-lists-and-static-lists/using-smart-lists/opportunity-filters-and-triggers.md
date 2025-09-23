@@ -1,17 +1,17 @@
 ---
 unique-page-id: 8159286
 description: 機會篩選器和觸發器 — Marketo檔案 — 產品檔案
-title: 機會篩選器和觸發程式
+title: 機會篩選器和觸發程序
 exl-id: 5b372c00-1553-4ac3-a495-53e208371d8d
 feature: Smart Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '473'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 機會篩選器和觸發程式 {#opportunity-filters-and-triggers}
+# 機會篩選器和觸發程序 {#opportunity-filters-and-triggers}
 
 機會篩選器和觸發器可讓您從[!DNL Salesforce]追蹤機會事件。 與其他篩選器和觸發程式相比，這些功能稍有不同。
 

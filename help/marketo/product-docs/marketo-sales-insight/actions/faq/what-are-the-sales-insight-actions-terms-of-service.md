@@ -1,12 +1,12 @@
 ---
-description: 銷售Insight Actions的服務條款為何？ - Marketo檔案 — 產品檔案
-title: 銷售Insight Actions的服務條款為何？
+description: 銷售Insight Actions的服務條款為何？ - Marketo 文件 - 產品文件
+title: 銷售洞察動作服務條款的內容是什麼？
 exl-id: 5a5409a0-2a26-4d5b-b1c9-89841255059d
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '43'
-ht-degree: 0%
+ht-degree: 30%
 
 ---
 

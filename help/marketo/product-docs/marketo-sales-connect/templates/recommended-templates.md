@@ -1,23 +1,23 @@
 ---
 unique-page-id: 14352510
 description: 建議範本 — Marketo檔案 — 產品檔案
-title: 建議的範本
+title: 推薦的範本
 exl-id: 77356b26-ac9d-47c3-8547-1ab1009f6ca6
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '307'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 建議的範本 {#recommended-templates}
+# 推薦的範本 {#recommended-templates}
 
 [!DNL Sales Connect]的建議範本可幫助您取得正確的訊息，同時節省您的時間。 這樣可讓您在傳送電子郵件時獲得更大的流程，並在嘗試為合適的人尋找合適電子郵件時減少不確定性。
 
 1. 前往您的[!UICONTROL Templates]標籤。
 
-1. 選取您要建議的範本，然後按一下[編輯]。**&#x200B;**
+1. 選取您要建議的範本，然後按一下[編輯]。****
 
 1. 若要在範本上啟用建議的範本功能，請核取&#x200B;**[!UICONTROL Auto-Suggest this template when]**。
 

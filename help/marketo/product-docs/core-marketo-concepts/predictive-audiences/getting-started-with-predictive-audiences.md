@@ -1,16 +1,16 @@
 ---
 description: 預測受眾快速入門 — Marketo檔案 — 產品檔案
-title: 預測受眾快速入門
+title: 預測客群快速入門
 exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
 feature: Predictive Audiences
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '224'
-ht-degree: 0%
+source-wordcount: '218'
+ht-degree: 5%
 
 ---
 
-# 預測受眾快速入門 {#getting-started-with-predictive-audiences}
+# 預測客群快速入門 {#getting-started-with-predictive-audiences}
 
 預測對象(PA)利用AI和機器學習，讓您更有效地鎖定對象，並採取主動步驟以達成您的行銷目標。
 
@@ -30,8 +30,8 @@ AI/ML模型的效能取決於訂閱中的資料。 模型使用頻率越高，�
 
 ## 可用性
 
-使用Prime或Ultimate定價套裝的執行個體，會自動納入並啟用預測對象。 若要進一步瞭解如何存取此功能，請聯絡Adobe客戶團隊（您的客戶經理）。
+運用Prime或Ultimate定價套裝的例項會自動包含並啟用預測對象。 若要進一步瞭解如何存取此功能，請聯絡Adobe客戶團隊（您的客戶經理）。
 
-1. 將功能新增到您的執行個體後，請導覽至Marketo **[!UICONTROL 管理員]**&#x200B;區域中的&#x200B;**[!UICONTROL 預測對象]**&#x200B;頁面。
+1. 將功能新增到您的執行個體後，請導覽至Marketo **[!UICONTROL Predictive Audiences]**&#x200B;區域中的&#x200B;**[!UICONTROL Admin]**&#x200B;頁面。
 
-1. 勾選&#x200B;**[!UICONTROL 啟用預測對象]**&#x200B;以啟用此功能。 請注意，所有程式可能需要24小時才能完成設定。
+1. 核取&#x200B;**[!UICONTROL Enable Predictive Audiences]**&#x200B;以啟動功能。 請注意，所有程式可能需要24小時才能完成設定。

@@ -1,16 +1,16 @@
 ---
 description: 房間管理 — Marketo檔案 — 產品檔案
-title: 房間管理
+title: 會議室管理
 feature: Interactive Webinars
 exl-id: f164795c-c64b-4e0e-a417-b5f7e18a26b3
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '772'
 ht-degree: 0%
 
 ---
 
-# 房間管理 {#room-management}
+# 會議室管理 {#room-management}
 
 由Adobe Connect提供支援的互動式網路研討會室，旨在促進互動式及合作式線上活動。 這些網路研討會會儲存網路研討會期間建立和使用的內容和錄影。 作為擁有建立檔案室許可權的成員，您可以從中央位置存取及管理檔案室。
 

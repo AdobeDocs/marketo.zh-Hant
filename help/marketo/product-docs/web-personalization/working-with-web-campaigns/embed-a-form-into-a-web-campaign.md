@@ -1,21 +1,21 @@
 ---
 unique-page-id: 10095554
 description: 將表單內嵌至網站行銷活動 — Marketo檔案 — 產品檔案
-title: 將表單內嵌至網站行銷活動
+title: 將表單嵌入至網頁行銷活動中
 exl-id: 41e60ae6-9a40-444f-8a55-47fc6ef6c5fb
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '313'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# 將表單內嵌至網站行銷活動 {#embed-a-form-into-a-web-campaign}
+# 將表單嵌入至網頁行銷活動中 {#embed-a-form-into-a-web-campaign}
 
 瞭解如何將Marketo表單內嵌至網路行銷活動（對話方塊、在區域或Widget）。
 
-1. 以滑鼠右鍵按一下已核准的表單。 選擇「**[!UICONTROL Embed Code]**」。
+1. 以滑鼠右鍵按一下已核准的表單。 選取「**[!UICONTROL Embed Code]**」。
 
    ![](assets/image2015-12-16-10-3a58-3a39.png)
 
@@ -51,7 +51,7 @@ ht-degree: 1%
 
 若要將背景影像新增至表單，您可以：
 
-* 編輯表單主題的CSS
+* 編輯表單主題的 CSS
 * 在Set Campaign中變更對話方塊或Widget顏色
 * 將CSS程式碼新增至指令碼
 
@@ -85,4 +85,4 @@ ht-degree: 1%
 >
 >* [編輯表單主題的CSS](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [顯示沒有後續登陸頁面的感謝訊息](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
->* [Forms 2.0](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)
+>* [Forms 2.0](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949857
 description: 編輯事件頻道 — Marketo檔案 — 產品檔案
-title: 編輯事件頻道
+title: 編輯事件管道
 exl-id: 250cc42b-5d83-4741-8b2b-56134171f3a9
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '175'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
-# 編輯事件頻道 {#edit-an-event-channel}
+# 編輯事件管道 {#edit-an-event-channel}
 
 您可以從事件的&#x200B;**摘要**&#x200B;標籤或其&#x200B;**設定**&#x200B;標籤編輯頻道型別。
 

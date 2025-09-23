@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10093157
 description: 複製網站行銷活動 — Marketo檔案 — 產品檔案
-title: 複製網站行銷活動
+title: 原地複製網頁行銷活動
 exl-id: c87440fb-694f-4a51-ad73-317f4d7f4314
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '162'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 複製網站行銷活動 {#clone-a-web-campaign}
+# 原地複製網頁行銷活動 {#clone-a-web-campaign}
 
 使用「[!UICONTROL Web Campaigns]」頁面上的複製功能來複製行銷活動設定，並變更內容以進行分割測試最佳化，或複製具有相同內容的行銷活動，並將其鎖定到不同的區段。 數秒內建立網站行銷活動！
 

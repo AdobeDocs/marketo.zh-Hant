@@ -4,14 +4,14 @@ description: 發行說明 — 2014年5月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2014年5月
 exl-id: c7b5b2c1-ea3d-483b-8a65-c4d6313bfe31
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '453'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 發行說明： 2014年5月 {#release-notes-may}
+# 發行說明：2014 年 5 月 {#release-notes-may}
 
 2014年5月發行版本包含下列功能。 請檢查您的Marketo版本是否有功能可用。 發行後，請務必返回尋找每個功能的詳細知識庫文章連結！
 
@@ -69,11 +69,11 @@ ht-degree: 0%
 
 ## 方案會員資格分析中的方案狀態和成功時間範圍 {#program-status-and-success-timeframe-in-program-membership-analysis}
 
-檢視每個方案狀態[&#128279;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md)中的成員數目以及他們變更到每個狀態的時間，包括他們取得方案成功的日期。
+檢視每個方案狀態[中的](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md)成員數目以及他們變更到每個狀態的時間，包括他們取得方案成功的日期。
 
 ## [!UICONTROL Email Analysis]中的A/B測試電子郵件 {#a-b-test-emails-in-email-analysis}
 
-在[!UICONTROL Email Analysis]中報告每個[A/B測試電子郵件變體](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md)。
+在[中報告每個](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md)A/B測試電子郵件變體[!UICONTROL Email Analysis]。
 
 ## Analytics封裝變更 {#analytics-packaging-changes}
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359955
 description: 參與資料流績效報表 — Marketo檔案 — 產品檔案
-title: 參與資料流績效報表
+title: 參與資料流績效報告
 exl-id: e838fcd8-0fe3-4e96-b453-30b15b911ede
 feature: Engagement Programs, Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '144'
-ht-degree: 2%
+ht-degree: 7%
 
 ---
 
-# 參與資料流績效報表 {#engagement-stream-performance-report}
+# 參與資料流績效報告 {#engagement-stream-performance-report}
 
 想要瞭解您的參與內容表現如何？ 嘗試參與串流績效報表。
 
@@ -21,7 +21,7 @@ ht-degree: 2%
 
    ![](assets/localassetnutring.jpg)
 
-1. 選擇「**[!UICONTROL Report]**」。
+1. 選取「**[!UICONTROL Report]**」。
 
    ![](assets/image2014-9-15-18-3a23-3a59.png)
 

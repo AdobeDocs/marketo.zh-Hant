@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949844
 description: 建立新的事件程式 — Marketo檔案 — 產品檔案
-title: 建立新的事件程式
+title: 建立新的事件方案
 exl-id: 095d59d7-a4d7-4e0a-b34b-7d25074e6959
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '165'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# 建立新的事件程式 {#create-a-new-event-program}
+# 建立新的事件方案 {#create-a-new-event-program}
 
 事件可讓您自動執行線上和離線事件！ 擷取您的人員在不同階段進行中的狀態，並取得行銷方案ROI的準確測量。
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/ma.png)
 
-1. 選取新方案的資料夾。 選取&#x200B;**[!UICONTROL New]**&#x200B;並按一下&#x200B;**[!UICONTROL New Program]**。
+1. 選取新方案的資料夾。 選取「**[!UICONTROL New]**」然後按一下「**[!UICONTROL New Program]**」。
 
    ![](assets/image2015-2-26-14-3a24-3a30.png)
 

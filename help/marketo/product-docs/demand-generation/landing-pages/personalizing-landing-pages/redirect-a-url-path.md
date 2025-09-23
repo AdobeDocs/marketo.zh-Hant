@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359826
 description: 重新導向URL路徑 — Marketo檔案 — 產品檔案
-title: 重新導向URL路徑
+title: 重新導向 URL 路徑
 exl-id: 5857971a-507b-4946-b131-a5a74eef0d9a
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# 重新導向URL路徑 {#redirect-a-url-path}
+# 重新導向 URL 路徑 {#redirect-a-url-path}
 
 Marketo可讓您輕鬆將URL路徑重新導向至您選擇的任何頁面。 方法如下。
 

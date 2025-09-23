@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352612
 description: 排程行銷活動 — Marketo檔案 — 產品檔案
-title: 排程行銷活動
+title: 安排行銷活動的時間
 exl-id: 841c6a9f-6336-4b7f-bcc5-54c1b92c0346
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 排程行銷活動 {#schedule-a-campaign}
+# 安排行銷活動的時間 {#schedule-a-campaign}
 
 您可以排程行銷活動的每個個別電子郵件步驟在特定時間外寄，或選擇每個後續電子郵件步驟與行銷活動中的第一封電子郵件同時外寄。
 

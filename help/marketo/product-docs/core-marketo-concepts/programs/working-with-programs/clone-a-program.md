@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147110
 description: 原地復製程式 — Marketo檔案 — 產品檔案
-title: 復製程式
+title: 原地複製方案
 exl-id: 5597007c-8f58-4306-ab78-3e65d6369fbf
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '214'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 復製程式 {#clone-a-program}
+# 原地複製方案 {#clone-a-program}
 
 快速輕鬆地複製整個計畫及其所有資產，而不是手動重建所有內容。
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2951252
 description: 依最新或成效最佳將網頁行銷活動排序 — Marketo檔案 — 產品檔案
-title: 依最新或表現最佳的網站行銷活動排序
+title: 按照最新或最佳績效排序網頁行銷活動
 exl-id: af4483b5-6ac6-404e-9ea6-be0d4edffdc6
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 0%
+ht-degree: 19%
 
 ---
 
-# 依最新或表現最佳的網站行銷活動排序 {#sort-web-campaigns-by-latest-or-top-performing}
+# 按照最新或最佳績效排序網頁行銷活動 {#sort-web-campaigns-by-latest-or-top-performing}
 
 您可以用數種不同的方式排序您的網路行銷活動。
 

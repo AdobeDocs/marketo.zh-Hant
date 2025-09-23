@@ -1,13 +1,13 @@
 ---
 unique-page-id: 9438258
 description: 瞭解摘要報表 — Marketo檔案 — 產品檔案
-title: 瞭解摘要報表
+title: 了解摘要報告
 exl-id: 972fb518-bb0d-4c7e-b190-0fe12b2367a7
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '385'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

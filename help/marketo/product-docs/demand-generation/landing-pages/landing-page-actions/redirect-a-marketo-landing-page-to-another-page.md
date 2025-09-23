@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359740
 description: 將Marketo登入頁面重新導向至其他頁面 — Marketo檔案 — 產品檔案
-title: 將Marketo登入頁面重新導向至其他頁面
+title: 將 Marketo 登陸頁面重新導向至另一個頁面
 exl-id: fe744546-d075-4686-bf42-543bb3624dbb
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '137'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# 將Marketo登入頁面重新導向至其他頁面 {#redirect-a-marketo-landing-page-to-another-page}
+# 將 Marketo 登陸頁面重新導向至另一個頁面 {#redirect-a-marketo-landing-page-to-another-page}
 
 如果您曾更新頁面的URL，並希望舊的URL仍然有效，請嘗試重新導向！ 設定很容易。
 

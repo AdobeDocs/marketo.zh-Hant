@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12615749
 description: 匯出網站行銷活動資料 — Marketo檔案 — 產品檔案
-title: 匯出網站行銷活動資料
+title: 匯出網頁行銷活動資料
 exl-id: 04c33b2a-a314-486d-b72d-5618d7c0ed0d
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '52'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
-# 匯出網站行銷活動資料 {#export-web-campaign-data}
+# 匯出網頁行銷活動資料 {#export-web-campaign-data}
 
 請依照以下簡單步驟匯出您的網站行銷活動資料。
 

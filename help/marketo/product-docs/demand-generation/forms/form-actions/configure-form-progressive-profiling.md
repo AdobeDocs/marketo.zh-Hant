@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359646
 description: 設定表單Progressive Profiling - Marketo檔案 — 產品檔案
-title: 設定表單Progressive設定檔
+title: 設定表單漸進式剖析
 exl-id: 72afe3dc-0688-45ec-ab70-4dc9accf4fc8
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '307'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 設定表單Progressive設定檔 {#configure-form-progressive-profiling}
+# 設定表單漸進式剖析 {#configure-form-progressive-profiling}
 
 簡短表格很好！ 當某人返回表單時，您可以顯示新欄位並逐步填寫訪客的設定檔。 方法如下。
 

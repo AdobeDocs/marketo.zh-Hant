@@ -4,14 +4,14 @@ description: SFDC同步 — 自訂物件同步 — Marketo檔案 — 產品檔�
 title: SFDC同步 — 自訂物件同步
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '277'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# SFDC同步：自訂物件同步 {#sfdc-sync-custom-object-sync}
+# SFDC 同步：自訂物件同步 {#sfdc-sync-custom-object-sync}
 
 在您的[!DNL Salesforce]執行個體中建立的自訂物件也可以是Marketo的一部分。  以下說明設定方法。
 

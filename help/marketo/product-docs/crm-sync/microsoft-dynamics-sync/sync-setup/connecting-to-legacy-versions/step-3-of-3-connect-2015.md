@@ -4,7 +4,7 @@ description: 安裝適用於Microsoft Dynamics 2015的Marketo內部部署步驟3
 title: 安裝適用於Microsoft Dynamics 2015內部部署的Marketo步驟3之3
 exl-id: 054bf725-7a80-4114-8360-2d86e2e33dd7
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '359'
 ht-degree: 1%
@@ -32,7 +32,7 @@ ht-degree: 1%
 
    ![](assets/image2015-3-16-9-47-34.png)
 
-1. 選擇「**[!UICONTROL Microsoft]**」。
+1. 選取「**[!UICONTROL Microsoft]**」。
 
    ![](assets/image2015-3-16-9-50-6.png)
 

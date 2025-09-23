@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10093690
 description: 編輯和刪除Marketo自訂物件 — Marketo檔案 — 產品檔案
-title: 編輯和刪除Marketo自訂物件
+title: 編輯和刪除 Marketo 自訂物件
 exl-id: 97bae63e-f679-490b-bfa2-51d88355b29c
 feature: Custom Objects
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '273'
-ht-degree: 0%
+source-wordcount: '245'
+ht-degree: 10%
 
 ---
 
-# 編輯和刪除Marketo自訂物件 {#edit-and-delete-a-marketo-custom-object}
+# 編輯和刪除 Marketo 自訂物件 {#edit-and-delete-a-marketo-custom-object}
 
 >[!NOTE]
 >
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 使用「自訂物件動作」選單來編輯或刪除自訂物件。
 
-1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/edit-and-delete-a-marketo-custom-object-1.png)
 
-1. 按一下&#x200B;**[!UICONTROL Marketo自訂物件]**。
+1. 按一下「**[!UICONTROL Marketo Custom Objects]**」。
 
    ![](assets/edit-and-delete-a-marketo-custom-object-2.png)
 
@@ -33,11 +33,11 @@ ht-degree: 0%
 
    ![](assets/edit-and-delete-a-marketo-custom-object-3.png)
 
-1. 按一下&#x200B;**[!UICONTROL 自訂物件動作]**&#x200B;索引標籤，然後按一下&#x200B;**[!UICONTROL 編輯物件]**。
+1. 按一下「**[!UICONTROL Custom Object Actions]**」標籤，然後按一下「**[!UICONTROL Edit Object]**」。
 
    ![](assets/edit-and-delete-a-marketo-custom-object-4.png)
 
-1. 進行所需的變更。 如果您想要在「銷售機會詳細資訊」頁面上顯示物件，請將滑桿拖曳到上方。 按一下&#x200B;**[!UICONTROL 保存]**。
+1. 進行所需的變更。 如果您想要在「銷售機會詳細資訊」頁面上顯示物件，請將滑桿拖曳到上方。 按一下「**[!UICONTROL Save]**」。
 
    ![](assets/edit-and-delete-a-marketo-custom-object-5.png)
 
@@ -45,17 +45,17 @@ ht-degree: 0%
 
 ## 刪除自訂物件 {#delete-a-custom-object}
 
-刪除自訂物件很容易，但您需要小心。 自訂物件可以連線至其他物件或智慧清單。 因此，Marketo會在您按一下「**[!UICONTROL 刪除]**」之前警告您。
+刪除自訂物件很容易，但您需要小心。 自訂物件可以連線至其他物件或智慧清單。 因此，Marketo會在您按一下「**[!UICONTROL Delete]**」之前警告您。
 
 >[!CAUTION]
 >
 >刪除自訂物件後，您無法還原該物件。
 
-1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/edit-and-delete-a-marketo-custom-object-6.png)
 
-1. 按一下&#x200B;**[!UICONTROL Marketo自訂物件]**。
+1. 按一下「**[!UICONTROL Marketo Custom Objects]**」。
 
    ![](assets/edit-and-delete-a-marketo-custom-object-7.png)
 
@@ -63,19 +63,19 @@ ht-degree: 0%
 
    ![](assets/edit-and-delete-a-marketo-custom-object-8.png)
 
-1. 按一下&#x200B;**[!UICONTROL 自訂物件動作]**&#x200B;並選取&#x200B;**[!UICONTROL 刪除物件]**。
+1. 按一下&#x200B;**[!UICONTROL Custom Object Actions]**&#x200B;並選取&#x200B;**[!UICONTROL Delete Object]**。
 
    ![](assets/edit-and-delete-a-marketo-custom-object-9.png)
 
    >[!TIP]
    >
-   >您也可以在物件上按一下滑鼠右鍵，然後選取&#x200B;**[!UICONTROL 刪除物件]**。
+   >您也可以用滑鼠右鍵按一下物件並選取&#x200B;**[!UICONTROL Delete Object]**。
 
-1. 如果自訂物件為草稿形式，且尚未核准，您將會收到此警告。 如果您確定，請按一下&#x200B;**[!UICONTROL 刪除]**。
+1. 如果自訂物件為草稿形式，且尚未核准，您將會收到此警告。 如果您確定，請按一下&#x200B;**[!UICONTROL Delete]**。
 
    ![](assets/edit-and-delete-a-marketo-custom-object-10.png)
 
-1. 如果自訂物件已經核准，則刪除它會有更大的風險。 因此，您會收到更嚴格的警告。 輸入&#x200B;**[!UICONTROL 我瞭解]**，核取&#x200B;**[!UICONTROL 無法還原]**&#x200B;核取方塊，然後按一下&#x200B;**[!UICONTROL 刪除]**。
+1. 如果自訂物件已經核准，則刪除它會有更大的風險。 因此，您會收到更嚴格的警告。 輸入&#x200B;**[!UICONTROL I understand]**，核取&#x200B;**[!UICONTROL Cannot Undo]**&#x200B;核取方塊，然後按一下&#x200B;**[!UICONTROL Delete]**。
 
    ![](assets/edit-and-delete-a-marketo-custom-object-11.png)
 

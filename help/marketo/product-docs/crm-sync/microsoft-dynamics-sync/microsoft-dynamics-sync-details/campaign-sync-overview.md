@@ -1,16 +1,16 @@
 ---
 description: Campaign同步概觀 — Marketo檔案 — 產品檔案
-title: Campaign同步概觀
+title: 行銷活動同步概觀
 exl-id: d9b748e9-3e0c-40bc-937a-99160aead081
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '115'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Campaign同步概觀 {#campaign-sync-overview}
+# 行銷活動同步概觀 {#campaign-sync-overview}
 
 作為Campaign Sync的一部分，使用者可以設定自動化以操作[!DNL Dynamics]行銷活動的成員資格。 符合特定行為或人口統計資格的潛在客戶可成為Microsoft促銷活動的一部分。
 

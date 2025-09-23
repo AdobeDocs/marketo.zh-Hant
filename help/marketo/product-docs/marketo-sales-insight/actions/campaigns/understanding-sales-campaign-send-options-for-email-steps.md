@@ -1,16 +1,16 @@
 ---
 description: 瞭解電子郵件步驟的Sales Campaign傳送選項 — Marketo檔案 — 產品檔案
-title: 瞭解電子郵件步驟的Sales Campaign傳送選項
+title: 了解電子郵件步驟的銷售行銷活動傳送選項
 feature: Sales Insight Actions
 exl-id: 775c6401-efb2-4940-a81c-be5d2759c7bd
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '740'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 瞭解電子郵件步驟的Sales Campaign傳送選項 {#understanding-sales-campaign-send-options-for-email-steps}
+# 了解電子郵件步驟的銷售行銷活動傳送選項 {#understanding-sales-campaign-send-options-for-email-steps}
 
 當您建立促銷活動時，您有幾個選項可讓您決定如何在[!DNL Sales Insight Actions]中建立電子郵件步驟。 此外，視您的電子郵件在促銷活動中的位置而定，您的選項也會有所不同。
 
@@ -75,5 +75,5 @@ ht-degree: 0%
 >[!MORELIKETHIS]
 >
 >[建立促銷活動](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
->&#x200B;>[銷售行銷活動步驟型別和提醒任務](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
->&#x200B;>[銷售促銷活動設定](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}
+>>[銷售行銷活動步驟型別和提醒任務](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
+>>[銷售促銷活動設定](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}

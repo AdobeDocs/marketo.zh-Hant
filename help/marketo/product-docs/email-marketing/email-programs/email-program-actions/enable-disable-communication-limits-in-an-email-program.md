@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359596
 description: 啟用/停用電子郵件程式中的通訊限制 — Marketo檔案 — 產品檔案
-title: 啟用/停用電子郵件程式中的通訊限制
+title: 在電子郵件方案中啟用/停用通訊限制
 exl-id: 25427978-33a0-4153-ad66-b34f9549e794
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '127'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# 啟用/停用電子郵件程式中的通訊限制 {#enable-disable-communication-limits-in-an-email-program}
+# 在電子郵件方案中啟用/停用通訊限制 {#enable-disable-communication-limits-in-an-email-program}
 
 執行電子郵件程式時，您可以選擇忽略或遵守[管理員層級的通訊限制](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)。 以下是其操作方式。
 

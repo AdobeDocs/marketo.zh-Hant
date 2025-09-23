@@ -4,7 +4,7 @@ description: 設定應用程式內訊息背景 — Marketo檔案 — 產品檔�
 title: 設定應用程式內訊息背景
 exl-id: 0cb10432-5611-4efe-a605-9a5a57f1bc7c
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '296'
 ht-degree: 0%

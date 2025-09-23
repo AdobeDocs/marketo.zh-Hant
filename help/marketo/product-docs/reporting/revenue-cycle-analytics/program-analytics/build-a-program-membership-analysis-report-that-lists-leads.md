@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360405
 description: 建立列出潛在客戶的計畫會員資格分析報告 — Marketo檔案 — 產品檔案
-title: 建立列出潛在客戶的計畫會員資格分析報告
+title: 建置會列出商機的方案會籍分析報告
 exl-id: 52fa9808-a3d6-48b9-9a6a-93d262591c2b
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '135'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
-# 建立列出潛在客戶的計畫會員資格分析報告 {#build-a-program-membership-analysis-report-that-lists-leads}
+# 建置會列出商機的方案會籍分析報告 {#build-a-program-membership-analysis-report-that-lists-leads}
 
 按照以下步驟建立方案成員資格分析報告，顯示所有的方案成員名稱。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. 選取&#x200B;**[!UICONTROL Program Membership Analysis]**&#x200B;並按一下&#x200B;**[!UICONTROL OK]**。
+1. 選取「**[!UICONTROL Program Membership Analysis]**」然後按一下「**[!UICONTROL OK]**」。
 
    ![](assets/three.png)
 

@@ -3,10 +3,10 @@ description: 繼承執行個體資料庫檢查清單 — Marketo檔案 — 產�
 title: 繼承的執行個體資料庫檢查清單
 feature: Getting Started
 exl-id: 278a6a2f-7b68-4003-8727-129e0dc96c12
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '420'
-ht-degree: 2%
+ht-degree: 5%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 2%
 <li>您的取消訂閱偏好設定是最新的嗎？ 記錄在資料庫中無法銷售多久了？</li></td>
   </tr>
   <tr>
-   <td>行銷活動已暫停</td>
+   <td>行銷活動暫停</td>
    <td><li>您對<a href="/help/marketo/product-docs/email-marketing/deliverability/durable-unsubscribe.md#marketing-suspended" target="_blank">行銷活動已暫停</a>的條件為何？ 行銷活動被暫停的人是否太多？</li>
 <li>記錄處於行銷活動暫停狀態多久了？</li>
 <p>「行銷活動已暫停」使用案例範例：人員記錄積極參與您想要為其抑制行銷通訊之後期商機的銷售活動。</td>

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352619
 description: 在行銷活動中使用任務 — Marketo檔案 — 產品檔案
-title: 在行銷活動中使用任務
+title: 在行銷活動中使用工作
 exl-id: 444e7e3a-d774-40cf-82d1-40e395a79baa
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '192'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 在行銷活動中使用任務 {#using-tasks-in-campaigns}
+# 在行銷活動中使用工作 {#using-tasks-in-campaigns}
 
 任務是將行銷活動傳送給聯絡人時的強大工具，尤其是如果您的銷售流程是多管道/接觸時。
 

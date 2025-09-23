@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718654
 description: 瞭解收入模型 — Marketo檔案 — 產品檔案
-title: 瞭解收入模型
+title: 了解收入模型
 exl-id: e8d1e7e9-caea-43a0-b87a-428a649e95d2
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '564'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 瞭解收入模型 {#understanding-revenue-models}
+# 了解收入模型 {#understanding-revenue-models}
 
 收入週期模型將行銷提升到新的境界。 它們會針對您整個收入漏斗的各個階段建立模型，從您第一次與潛在客戶互動一直到潛在客戶成功為止。
 

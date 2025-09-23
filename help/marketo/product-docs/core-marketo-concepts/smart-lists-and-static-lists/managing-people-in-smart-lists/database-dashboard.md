@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10097447
 description: 資料庫控制面板 — Marketo檔案 — 產品檔案
-title: 資料庫控制面板
+title: 資料庫儀表板
 exl-id: 44b00d28-a224-4f09-8307-468c14ddb0df
 feature: Smart Lists
-source-git-commit: a3a75e5eaebc081a96ff9a9e1490d520b40ae4ec
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 0%
+source-wordcount: '169'
+ht-degree: 2%
 
 ---
 
-# 資料庫控制面板 {#database-dashboard}
+# 資料庫儀表板 {#database-dashboard}
 
 「資料庫儀表板」可作為快照，協助您快速判斷工作區中人員的關鍵屬性。
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 >
 >* 每個工作區都有自己的資料庫控制面板。
 
-若要取得該位置，請從您的[我的Marketo]中選取&#x200B;**[!UICONTROL 資料庫]**。
+若要進入該階段，請從您的「我的Marketo」中選取&#x200B;**[!UICONTROL Database]**。
 
 ![](assets/database-dashboard-1.png)
 

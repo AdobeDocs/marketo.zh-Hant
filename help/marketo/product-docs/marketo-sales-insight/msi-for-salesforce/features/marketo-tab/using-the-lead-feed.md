@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7512979
 description: 使用銷售機會摘要 — Marketo檔案 — 產品檔案
-title: 使用潛在客戶摘要
+title: 使用商機動態消息
 exl-id: cdb10fe4-3006-4bae-b485-f7bfa95f1226
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '328'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# 使用潛在客戶摘要 {#using-the-lead-feed}
+# 使用商機動態消息 {#using-the-lead-feed}
 
 潛在客戶摘要是潛在客戶所進行有趣事件的最新清單。 按一下Marketo標籤後，您會在右側找到它。 這類似於RSS或[!DNL Twitter]摘要 — 最近的更新在清單頂端。 趁您還記憶猶新，使用此功能快速瀏覽潛在客戶。
 

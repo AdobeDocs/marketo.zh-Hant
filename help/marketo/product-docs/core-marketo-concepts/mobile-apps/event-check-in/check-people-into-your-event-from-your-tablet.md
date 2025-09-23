@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949839
 description: 透過平板電腦將人員登記到您的活動中 — Marketo檔案 — 產品檔案
-title: 從平板電腦將人員加入您的活動
+title: 使用平板電腦讓人員進行事件簽到
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 feature: Mobile Marketing
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '818'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 從平板電腦將人員加入您的活動 {#check-people-into-your-event-from-your-tablet}
+# 使用平板電腦讓人員進行事件簽到 {#check-people-into-your-event-from-your-tablet}
 
 當人員出現在您的活動時，您可在應用程式上找到他們的資訊。 簽入後，當您同步至Marketo時，系統會將使用者提升為已出席狀態。
 

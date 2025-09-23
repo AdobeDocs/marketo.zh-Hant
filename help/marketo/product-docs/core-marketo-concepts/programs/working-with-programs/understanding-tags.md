@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147112
 description: 瞭解標籤 — Marketo檔案 — 產品檔案
-title: 瞭解標籤
+title: 了解標記
 exl-id: af74aec2-096f-489f-adf8-388da3867fae
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '166'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
-# 瞭解標籤 {#understanding-tags}
+# 了解標記 {#understanding-tags}
 
 您可能現在已經知道程式就像Marketo Engage中的建置組塊。 利用標籤和管道可協助您篩選資料以用於報表用途。
 
@@ -45,7 +45,7 @@ ht-degree: 2%
 
 ![](assets/image2014-9-17-15-3a16-3a8.png)
 
-## Channel {#channel}
+## 管道 {#channel}
 
 管道是用來報告您的[成員](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}如何透過您的方案移動。 每個管道都有一組進度狀態，以及一個設定為等於成功的狀態。
 

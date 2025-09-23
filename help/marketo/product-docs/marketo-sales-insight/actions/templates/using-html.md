@@ -1,16 +1,16 @@
 ---
 description: 使用HTML - Marketo檔案 — 產品檔案
-title: 使用HTML
+title: 使用 HTML
 exl-id: f0b40896-0c3e-401f-bc76-90bf8c4c6d76
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '97'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 使用HTML {#using-html}
+# 使用 HTML {#using-html}
 
 1. 使用在HTML中建立電子郵件所使用的工具(例如Marketo的電子郵件編輯器)，從電子郵件複製原始程式碼。
 

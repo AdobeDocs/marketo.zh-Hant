@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12981204
 description: 預測性Content Analytics概觀 — Marketo檔案 — 產品檔案
-title: 預測性Content Analytics概觀
+title: 預測內容分析概觀
 exl-id: 0f975baa-b17b-411a-bae0-64b67eea2b34
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '316'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 預測性Content Analytics概觀 {#predictive-content-analytics-overview}
+# 預測內容分析概觀 {#predictive-content-analytics-overview}
 
 使用內容分析進一步深入瞭解您的現有內容、（根據AI和預測演演算法）瞭解哪些內容適合您的對象，並提高行銷工作的ROI。
 

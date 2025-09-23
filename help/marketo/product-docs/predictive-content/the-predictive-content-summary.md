@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11384634
 description: 預測性內容摘要 — Marketo檔案 — 產品檔案
-title: 預測性內容摘要
+title: 預測內容摘要
 exl-id: 74663e07-39c6-40e5-bb49-e222c3c16034
 feature: Predictive Content
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '176'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 預測性內容摘要 {#the-predictive-content-summary}
+# 預測內容摘要 {#the-predictive-content-summary}
 
 「預測性內容摘要」會以表格、圖表和目前的數字顯示您需要的預測性內容相關資訊。
 

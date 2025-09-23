@@ -1,23 +1,23 @@
 ---
 unique-page-id: 7512432
 description: 設定行動應用程式Android推送存取權 — Marketo檔案 — 產品檔案
-title: 設定行動應用程式Android推送存取權
+title: 設定行動應用程式 Android 推播存取權
 exl-id: 1204f36a-d960-4af6-a5d0-ee6b6720026a
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '78'
-ht-degree: 3%
+ht-degree: 24%
 
 ---
 
-# 設定行動應用程式Android推送存取權 {#configure-mobile-app-android-push-access}
+# 設定行動應用程式 Android 推播存取權 {#configure-mobile-app-android-push-access}
 
 1. 按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. 選擇「**[!UICONTROL Mobile Apps]**」。
+1. 選取「**[!UICONTROL Mobile Apps]**」。
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -25,7 +25,7 @@ ht-degree: 3%
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. 在&#x200B;**[!UICONTROL Push Access Type]**&#x200B;下，選取&#x200B;**[!UICONTROL Android]**&#x200B;並按一下&#x200B;**[!UICONTROL Configure]**。
+1. 在「**[!UICONTROL Push Access Type]**」之下，選取「**[!UICONTROL Android]**」，然後按一下「**[!UICONTROL Configure]**」。
 
    ![](assets/image2016-6-15-15-3a16-3a22.png)
 

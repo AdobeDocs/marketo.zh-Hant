@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900567
 description: 在電子郵件編輯器中還原 — Marketo檔案 — 產品檔案
-title: 在電子郵件編輯器中還原
+title: 電子郵件編輯器中的還原
 exl-id: 5542defb-84cd-49a7-b2d0-5cd7e4df95d7
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '71'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
-# 在電子郵件編輯器中還原 {#undo-in-the-email-editor}
+# 電子郵件編輯器中的還原 {#undo-in-the-email-editor}
 
 1. 若要復原變更，請按一下向左鍵。
 

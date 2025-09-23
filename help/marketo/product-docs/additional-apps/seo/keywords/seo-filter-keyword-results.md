@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2949208
 description: SEO — 篩選關鍵字結果 — Marketo檔案 — 產品檔案
-title: SEO — 篩選關鍵字結果
+title: SEO - 篩選關鍵字結果
 exl-id: 8f237814-09b7-4041-9fe7-bb9a6ce016ca
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 0%
+source-wordcount: '142'
+ht-degree: 5%
 
 ---
 
-# SEO — 篩選關鍵字結果 {#seo-filter-keyword-results}
+# SEO - 篩選關鍵字結果 {#seo-filter-keyword-results}
 
 您可能有許多[關鍵字](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)。 以下是篩選這些專案的不同方法：
 
 ## 依清單篩選 {#filter-by-list}
 
-1. 移至&#x200B;**[!UICONTROL 關鍵字]**&#x200B;區段。
+1. 移至&#x200B;**[!UICONTROL Keywords]**&#x200B;區段。
 
    ![](assets/image2014-9-18-11-3a55-3a8.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## 依SERP排名篩選 {#filter-by-serp-rank}
 
-1. 移至[!UICONTROL 關鍵字]區段。
+1. 移至[!UICONTROL Keywords]區段。
 
    ![](assets/image2014-9-18-12-3a0-3a10.png)
 
@@ -47,10 +47,10 @@ ht-degree: 0%
 
 您也可以使用右上角的搜尋欄位來尋找關鍵字。
 
-1. 移至&#x200B;**[!UICONTROL 關鍵字]**&#x200B;區段。
+1. 移至&#x200B;**[!UICONTROL Keywords]**&#x200B;區段。
 
    ![](assets/image2014-9-18-12-3a0-3a50.png)
 
-1. 在&#x200B;**[!UICONTROL 搜尋]**&#x200B;欄位中輸入您的關鍵字。
+1. 在&#x200B;**[!UICONTROL Search]**&#x200B;欄位中輸入您的關鍵字。
 
    ![](assets/image2014-9-18-12-3a1-3a7.png)

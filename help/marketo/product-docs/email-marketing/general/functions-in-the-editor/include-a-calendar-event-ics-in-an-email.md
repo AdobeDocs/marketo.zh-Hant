@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900565
 description: 在電子郵件中包含行事曆事件(.ics) - Marketo檔案 — 產品檔案
-title: 在電子郵件中包含行事曆事件(.ics)
+title: 在電子郵件中加入行事曆事件 (.ics)
 exl-id: 077181ec-73e7-4b58-a473-46b0764d6b32
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 1%
+ht-degree: 18%
 
 ---
 
-# 在電子郵件中包含行事曆事件(.ics) {#include-a-calendar-event-ics-in-an-email}
+# 在電子郵件中加入行事曆事件 (.ics) {#include-a-calendar-event-ics-in-an-email}
 
 行事曆檔案Token可讓您將行事曆事件(.ics)連結新增到您的Marketo電子郵件。
 

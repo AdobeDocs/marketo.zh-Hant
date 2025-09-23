@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359466
 description: 使用動態內容編輯代碼片段 — Marketo檔案 — 產品檔案
-title: 使用動態內容編輯代碼片段
+title: 使用動態內容編輯程式碼片段
 exl-id: 44fa65b0-bc3c-4b7f-90af-0af99da73337
 feature: Snippets
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# 使用動態內容編輯代碼片段 {#edit-snippets-with-dynamic-content}
+# 使用動態內容編輯程式碼片段 {#edit-snippets-with-dynamic-content}
 
 >[!PREREQUISITES]
 >

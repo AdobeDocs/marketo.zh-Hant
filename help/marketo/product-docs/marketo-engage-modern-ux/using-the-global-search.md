@@ -3,10 +3,10 @@ description: 使用全域搜尋 — Marketo檔案 — 產品檔案
 title: 使用全域搜尋
 exl-id: eb50013b-9595-4fe1-bd5e-b2d5ca185de4
 feature: Modern UX
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '148'
-ht-degree: 3%
+ht-degree: 8%
 
 ---
 

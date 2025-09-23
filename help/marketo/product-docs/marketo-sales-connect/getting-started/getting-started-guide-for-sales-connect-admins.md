@@ -3,7 +3,7 @@ description: ' [!DNL Sales Connect] 管理員快速入門手冊 — Marketo檔�
 title: ' [!DNL Sales Connect] 管理員快速入門手冊'
 exl-id: 8c866fff-3252-4564-a229-bbe4e17190fd
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '463'
 ht-degree: 0%

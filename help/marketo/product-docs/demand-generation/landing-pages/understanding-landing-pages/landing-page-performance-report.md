@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359713
 description: 登陸頁面效能報表 — Marketo檔案 — 產品檔案
-title: 登陸頁面效能報表
+title: 登陸頁面績效報告
 exl-id: 6cfe072d-5087-4e52-b387-73615f86e1eb
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '202'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 登陸頁面效能報表 {#landing-page-performance-report}
+# 登陸頁面績效報告 {#landing-page-performance-report}
 
 檢視有多少人在您的登入頁面中填寫表單，以及其中有多少是新的表單。
 

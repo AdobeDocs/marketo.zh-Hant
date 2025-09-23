@@ -1,17 +1,17 @@
 ---
 unique-page-id: 17728401
 description: Gmail使用者的電子郵件連線 — Marketo檔案 — 產品檔案
-title: Gmail使用者的電子郵件連線
+title: Gmail 使用者的電子郵件連線
 exl-id: 024461f1-b1c0-40ff-bb1c-49846c57dabe
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '163'
-ht-degree: 1%
+ht-degree: 9%
 
 ---
 
-# Gmail使用者的電子郵件連線 {#email-connection-for-gmail-users}
+# Gmail 使用者的電子郵件連線 {#email-connection-for-gmail-users}
 
 連線至Gmail表示您將會收到回覆追蹤、存取Gmail傳遞頻道、在Gmail中排程電子郵件以及傳送合規性。
 
@@ -35,7 +35,7 @@ ht-degree: 1%
 
    ![](assets/four.png)
 
-1. 選取&#x200B;**[!UICONTROL I use Gmail to send emails]**&#x200B;並按一下&#x200B;**[!UICONTROL Next]**。
+1. 選取「**[!UICONTROL I use Gmail to send emails]**」然後按一下「**[!UICONTROL Next]**」。
 
    ![](assets/five.png)
 

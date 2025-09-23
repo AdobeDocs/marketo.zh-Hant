@@ -1,16 +1,16 @@
 ---
 description: WR-YYYY-MM-Web請求計畫 — Marketo檔案 — 產品檔案
-title: WR-YYYY-MM-Web請求程式
+title: WR-YYYY-MM-網路請求方案
 feature: Programs
 exl-id: 4acaa2d0-3329-4027-acbd-ae2e0ec6f7c5
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '400'
-ht-degree: 6%
+ht-degree: 8%
 
 ---
 
-# WR-YYYY-MM-Web請求程式 {#wr-yyyy-mm-web-request-program}
+# WR-YYYY-MM-網路請求方案 {#wr-yyyy-mm-web-request-program}
 
 這是一個範例計畫，非常適用於使用Marketo Engage預設計畫的聯絡人請求、報價請求、示範請求或試用請求表單。 可與Marketo登陸頁面搭配使用，或作為非Marketo登陸頁面上的內嵌表單。 在提交表單時會傳送通知電子郵件給指定的個人。
 
@@ -21,7 +21,7 @@ ht-degree: 6%
 <table style="table-layout:auto">
  <tbody>
   <tr>
-   <th>頻道</th>
+   <th>管道</th>
    <th>成員資格狀態</th>
    <th>Analytics行為</th>
    <th>計畫型別</th>
@@ -51,7 +51,7 @@ ht-degree: 6%
   </tr>
   <tr>
    <td>電子郵件</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入門電子郵件範本</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速開始電子郵件範本</a></td>
    <td>Alert-Webrequest</td>
   </tr>
   <tr>
@@ -93,7 +93,7 @@ ht-degree: 6%
   <tr>
    <td>資料夾</td>
    <td> </td>
-   <td>報表</td>
+   <td>報告</td>
   </tr>
  </tbody>
 </table>
@@ -107,7 +107,7 @@ ht-degree: 6%
   <tr>
    <th>權杖型別</th>
    <th>代號名稱</th>
-   <th>值</th>
+   <th>價值</th>
   </tr>
   <tr>
    <td>文字</td>

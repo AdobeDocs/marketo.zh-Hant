@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10093159
 description: 瞭解Content Analytics - Marketo檔案 — 產品檔案
-title: 瞭解Content Analytics
+title: 了解內容分析
 exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '357'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 瞭解Content Analytics {#understanding-content-analytics}
+# 了解內容分析 {#understanding-content-analytics}
 
 Content Analytics頁面會顯示您從網站探索到的現有內容（個案研究、部落格、影片、新聞稿等）。 它也會顯示內容效能以及訪客與他們互動時所產生的人員。
 
@@ -86,7 +86,7 @@ Analytics表格提供下列詳細資訊：
 
 * **[!UICONTROL Views]**：該內容片段在所選時間範圍內的檢視
 * **[!UICONTROL Direct Conversions]**：在同次造訪中檢視內容並填寫表單的網頁訪客。
-* **[!UICONTROL Conversion Rate]**&#x200B;**：**&#x200B;由直接轉換除以點按次數計算的轉換率
+* **[!UICONTROL Conversion Rate]****：**&#x200B;由直接轉換除以點按次數計算的轉換率
 
 **[!UICONTROL Trends]**
 

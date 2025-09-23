@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719406
 description: 啟動/暫停網站行銷活動 — Marketo檔案 — 產品檔案
-title: 啟動/暫停網站行銷活動
+title: 啟動/暫停網頁行銷活動
 exl-id: ce85a5ef-dd53-4298-a521-4b6d0032e111
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '150'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# 啟動/暫停網站行銷活動 {#launch-pause-a-web-campaign}
+# 啟動/暫停網頁行銷活動 {#launch-pause-a-web-campaign}
 
 網路行銷活動是與特定區段關聯的自訂反應，可以是您網站上的[對話方塊](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)、區域取代[中的](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)、Widget功能或電子郵件警示。
 

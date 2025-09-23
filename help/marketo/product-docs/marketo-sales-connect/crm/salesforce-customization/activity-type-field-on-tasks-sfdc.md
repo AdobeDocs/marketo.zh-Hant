@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352476
 description: 任務上的活動型別欄位(SFDC) - Marketo檔案 — 產品檔案
-title: 任務的活動型別欄位(SFDC)
+title: 工作的活動類型欄位 (SFDC)
 exl-id: b291e641-d3af-4667-a01c-cd491cd87add
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '245'
-ht-degree: 2%
+ht-degree: 7%
 
 ---
 
-# 任務的活動型別欄位(SFDC) {#activity-type-field-on-tasks-sfdc}
+# 工作的活動類型欄位 (SFDC) {#activity-type-field-on-tasks-sfdc}
 
 在[!DNL Sales Connect]的協助下，您可以在[!DNL Salesforce]中將您的電子郵件和通話記錄為活動。 在[!DNL Salesforce]中有寶貴資料的關鍵部分就是讓[!UICONTROL Type]欄位填入正確的值。
 

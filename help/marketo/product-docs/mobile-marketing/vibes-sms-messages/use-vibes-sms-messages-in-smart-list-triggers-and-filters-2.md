@@ -4,7 +4,7 @@ title: 在智慧清單觸發器和篩選器中使用Vibes SMS訊息
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '393'
 ht-degree: 0%

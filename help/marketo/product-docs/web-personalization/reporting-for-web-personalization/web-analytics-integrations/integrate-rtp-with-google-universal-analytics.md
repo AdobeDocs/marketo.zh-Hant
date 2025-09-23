@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4720125
 description: 將RTP與Google Universal Analytics整合 — Marketo檔案 — 產品檔案
-title: 將RTP與Google Universal Analytics整合
+title: 將 RTP 與 Google Universal Analytics 整合
 exl-id: e8fc8730-c91d-44ad-8843-aa5b38f1ebd1
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '368'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
 # 將RTP與[!DNL Google Universal Analytics]整合 {#integrate-rtp-with-google-universal-analytics}
 
-## 介紹 {#intro}
+## 簡介 {#intro}
 
 善用[!DNL Google Universal Analytics] (GUA)與[!DNL Marketo Real-Time Personalization]的(RTP)影像和個人化資料，以更佳地測量和分析您的線上行銷工作。
 
@@ -43,7 +43,6 @@ ht-degree: 2%
    1. 選取&#x200B;**[!UICONTROL Account].**
    1. 選取&#x200B;**[!UICONTROL Property].**
    1. 選取&#x200B;**[!UICONTROL Custom Definitions]**&#x200B;和&#x200B;**[!UICONTROL Custom Dimensions]**。
-
       ![](assets/image2014-11-29-11-3a2-3a32.png)
 
 1. 新增自訂維度。 按一下 **[!UICONTROL +New Custom Dimension]**
@@ -57,7 +56,7 @@ ht-degree: 2%
   <tr>
    <td><p><strong>自訂Dimension名稱</strong></p></td>
    <td><p><strong>範圍</strong></p></td>
-   <td><p><strong>作用中</strong></p></td>
+   <td><p><strong>使用中</strong></p></td>
   </tr>
   <tr>
    <td><p><strong>RTP組織</strong></p></td>

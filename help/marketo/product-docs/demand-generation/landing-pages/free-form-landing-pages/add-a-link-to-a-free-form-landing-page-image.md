@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359736
 description: 新增自由表單登陸頁面影像的連結 — Marketo檔案 — 產品檔案
-title: 新增自由表單登陸頁面影像的連結
+title: 新增連結至自由格式登陸頁面影像
 exl-id: 74560863-b135-4e0e-b84d-9462aacbb902
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 0%
+ht-degree: 22%
 
 ---
 
-# 新增自由表單登陸頁面影像的連結 {#add-a-link-to-a-free-form-landing-page-image}
+# 新增連結至自由格式登陸頁面影像 {#add-a-link-to-a-free-form-landing-page-image}
 
 >[!PREREQUISITES]
 >

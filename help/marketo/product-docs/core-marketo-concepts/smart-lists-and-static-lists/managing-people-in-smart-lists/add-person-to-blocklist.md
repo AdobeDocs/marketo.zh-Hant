@@ -1,17 +1,17 @@
 ---
 unique-page-id: 9438139
 description: 將人員新增至封鎖清單 — Marketo檔案 — 產品檔案
-title: 將個人新增至封鎖清單
+title: 將人員新增至封鎖清單
 exl-id: e4543bf9-11e9-42df-a31e-e2cebe24ad4a
 feature: Smart Lists
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '150'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
 
-# 將個人新增至封鎖清單 {#add-person-to-blocklist}
+# 將人員新增至封鎖清單 {#add-person-to-blocklist}
 
 將人員新增至您的封鎖清單會防止他們收到您的信件。
 
@@ -21,7 +21,7 @@ ht-degree: 1%
 
    ![](assets/add-person-to-blocklist-1.png)
 
-1. 選擇「**[!UICONTROL Smart List]**」。
+1. 選取「**[!UICONTROL Smart List]**」。
 
    ![](assets/add-person-to-blocklist-2.png)
 
@@ -57,7 +57,7 @@ ht-degree: 1%
 
    ![](assets/add-person-to-blocklist-9.png)
 
-1. 按一下「**[!UICONTROL Flow]**」標籤。 拖放&#x200B;**[!UICONTROL Change Data Value]**&#x200B;流量動作。
+1. 按一下「**[!UICONTROL Flow]**」索引標籤。拖放&#x200B;**[!UICONTROL Change Data Value]**&#x200B;流量動作。
 
    ![](assets/add-person-to-blocklist-10.png)
 
@@ -69,7 +69,7 @@ ht-degree: 1%
 
    ![](assets/add-person-to-blocklist-12.png)
 
-1. 選取&#x200B;**[!UICONTROL Run Now]**&#x200B;並按一下&#x200B;**[!UICONTROL Run]**。
+1. 選取「**[!UICONTROL Run Now]**」然後按一下「**[!UICONTROL Run]**」。
 
    ![](assets/add-person-to-blocklist-13.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359547
 description: 排程A/B測試 — Marketo檔案 — 產品檔案
-title: 排程A/B測試
+title: 安排 A/B 測試的時間
 exl-id: f50a00a3-da03-468a-89f8-0d31b69314c0
 feature: Email Programs, A/B Testing
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '202'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 排程A/B測試 {#schedule-the-a-b-test}
+# 安排 A/B 測試的時間 {#schedule-the-a-b-test}
 
 將A/B測試新增至電子郵件方案並定義成功者條件後，您將需要排程測試何時開始。 方法如下。
 

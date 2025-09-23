@@ -3,7 +3,7 @@ description: 進階BI Analytics概觀 — Marketo檔案 — 產品檔案
 title: 進階 BI 分析概觀
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: 94f8ed13720ead55696572be211889d36789a0bd
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1038'
 ht-degree: 1%
@@ -63,7 +63,8 @@ Advanced BI Analytics (先前稱為Revenue Explorer和Advanced Report Builder)�
 匯出完整報表時，您的匯出選項為PDF和PPT。 如果您需要.XLS或.CSV格式的資料，可透過匯出個別視覺效果（[請參閱以下的](#export-a-visualization)）來完成。
 
 >[!BEGINTABS]
->[!TAB 從報告頁面] 
+
+>從報告頁面[!TAB ]
 
 1. 在「報表」頁面上，按一下所需報表的「更多」圖示(...)，然後選取&#x200B;**匯出**。
 
@@ -97,7 +98,7 @@ Advanced BI Analytics (先前稱為Revenue Explorer和Advanced Report Builder)�
 
    ![](assets/export-a-visualization-2.png){width="600" zoomable="yes"}
 
-1. 按一下「更多」圖示(**...**)
+1. 按一下「更多」圖示(**`...`**)
 
    ![](assets/export-a-visualization-3.png)
 
@@ -124,7 +125,7 @@ Advanced BI Analytics (先前稱為Revenue Explorer和Advanced Report Builder)�
 
 觀看以下影片，瞭解多頁面、鑽研報表體驗的範例。
 
->[!VIDEO](https://video.tv.adobe.com/v/3451693/?quality=12&learn=on&captions=chi_hant){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## 進階BI Analytics中的標準報表 {#standard-reports}
 
@@ -236,7 +237,6 @@ Advanced BI Analytics (先前稱為Revenue Explorer和Advanced Report Builder)�
 ## 注意事項 {#note}
 
 * 您的自訂報告已從傳統體驗復寫到新的體驗，其中包含下面[學習新體驗](#learning-the-new-experience)一節中提到的重大行為變更。
-
 * 傳統體驗中的儀表板無法傳輸，因此必須在新體驗中進行重新建立。 它們可以重新建立為新體驗中的報表，而新體驗中的篩選器會自動提取可能的值。
 
   >[!NOTE]
@@ -250,9 +250,7 @@ Advanced BI Analytics (先前稱為Revenue Explorer和Advanced Report Builder)�
   >如果您在Revenue Explorer中有超過700個報表，部分報表已與其他報表合併，並透過報表中的頁面合併。
   >
   >* 如果報表具有電子郵件訂閱，則不會合併。
-  >
   >* _相同資料夾_&#x200B;中的其餘報告已依報告區域合併為一或多個報告。 如果報告區域有超過五份報告，則合併為一個以上的合併報告。
-  >
   >* 每個合併報表不超過5頁。
 
 * 任何特定視覺效果的每個查詢有100萬列的限制。 如果查詢超過此限制，您將收到下列錯誤： `The resultset of a query to external data source has exceeded the maximum allowed size of '1000000' rows`。 若要修正此問題，請縮小日期範圍，和/或調整報表中的篩選器，以減少查詢結果中的列數。

@@ -4,7 +4,7 @@ description: 建立引導式登陸頁面範本 — Marketo檔案 — 產品檔�
 title: 建立引導式登陸頁面範本
 exl-id: 7d097162-d862-4d09-9440-aba1628450c2
 feature: Landing Pages
-source-git-commit: 29c1b59c9d2598626f546554a8bdc1b26b9e1590
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1122'
 ht-degree: 2%

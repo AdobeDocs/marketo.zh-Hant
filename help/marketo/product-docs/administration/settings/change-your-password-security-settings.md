@@ -4,10 +4,10 @@ description: 變更您的密碼安全性設定 — Marketo檔案 — 產品檔�
 title: 變更您的密碼安全性設定
 exl-id: cda7ec70-32aa-4e0a-86b2-eb9bea70ef72
 feature: Administration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >**需要管理員許可權**
 
-1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/change-your-password-security-settings-1.png)
 

@@ -4,14 +4,14 @@ description: 發行說明 — 2013年8月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2013年8月
 exl-id: c7af3af8-c51e-49dd-8ebf-803cb4350024
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '209'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 發行說明： 2013年8月 {#release-notes-august}
+# 發行說明：2013 年 8 月 {#release-notes-august}
 
 2013年8月發行版本包含下列功能。
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-22-16-3a35-3a38.png)
 
-## 自動觸發行銷活動清理 {#automatic-trigger-campaign-cleanup}
+## 自動觸發程序行銷活動清理 {#automatic-trigger-campaign-cleanup}
 
 Marketo現在會定期通知您，並[自動停用過去六個月未執行的觸發促銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)。
 

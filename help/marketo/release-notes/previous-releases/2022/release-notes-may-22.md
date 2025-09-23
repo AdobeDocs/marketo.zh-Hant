@@ -2,20 +2,20 @@
 description: 發行說明 — 2022年5月 — Marketo檔案 — 產品檔案
 title: 版本注意事項 - 2022 年 5 月
 exl-id: f591ab95-5ad8-45fa-8c4e-8e42b5d1359a
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '796'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 發行說明： 2022年5月 {#release-notes-may-22}
+# 發行說明：2022 年 5 月 {#release-notes-may-22}
 
-以下是2022年5月發行版本包含的所有功能。 檢查您的Adobe Marketo Engage版本是否有功能可用。
+以下是2022年5月發行版本包含的所有功能。 請查看您的 Adobe Marketo Engage 版本是否提供這些功能。
 
 >[!AVAILABILITY]
 >
->以星號（![星號](assets/yellow-star.png)）表示的功能是付費附加元件。 請聯絡您的Marketo Engage代表以瞭解更多資訊。
+>標有星號 (![星號](assets/yellow-star.png)) 的功能為付費附加元件。請聯絡您的 Marketo Engage 代表，了解更多相關資訊。
 
 **_每季發行_**
 

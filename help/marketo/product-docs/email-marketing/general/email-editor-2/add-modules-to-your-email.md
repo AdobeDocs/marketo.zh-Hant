@@ -4,10 +4,10 @@ description: 新增模組至您的電子郵件 — Marketo檔案 — 產品檔�
 title: 新增模組至您的電子郵件
 exl-id: d87b8b42-421b-4804-8441-8e41f2353b03
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '242'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 

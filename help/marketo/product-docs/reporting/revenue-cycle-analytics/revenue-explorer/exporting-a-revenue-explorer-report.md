@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504749
 description: 匯出收入總管報表 — Marketo檔案 — 產品檔案
-title: 匯出收入總管報表
+title: 匯出營收總管報告
 exl-id: 61fd33f9-6cc8-4787-8357-68fc2fafc51a
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '75'
-ht-degree: 2%
+ht-degree: 9%
 
 ---
 

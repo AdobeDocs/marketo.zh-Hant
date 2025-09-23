@@ -1,16 +1,16 @@
 ---
 description: 存取新的Sales Connect執行個體 — Marketo檔案 — 產品檔案
-title: 存取新的Sales Connect執行個體
+title: 存取您的新 Sales Connect 執行個體
 exl-id: 0add0841-8909-4cb2-9db7-08a5e79b0ed8
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '114'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# 存取新的Sales Connect執行個體 {#accessing-your-new-sales-connect-instance}
+# 存取您的新 Sales Connect 執行個體 {#accessing-your-new-sales-connect-instance}
 
 >[!NOTE]
 >

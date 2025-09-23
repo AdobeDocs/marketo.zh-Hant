@@ -3,14 +3,14 @@ unique-page-id: 14745959
 description: 發行說明–2018年春季 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2018年春季
 exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
-source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '455'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 發行說明： 2018年春季 {#release-notes-spring}
+# 發行說明：2018 年春季 {#release-notes-spring}
 
 以下功能包含在2018年春季發行版本中。 檢查您的Marketo版本是否有功能可用。
 
@@ -68,7 +68,7 @@ ht-degree: 0%
 
 透過最佳化的導覽和改進的工作流程，您可以檢視方案成功標準並存取方案詳細資料。
 
-## contentai {#contentai}
+## ContentAI {#contentai}
 
 [目標設定](/help/marketo/product-docs/predictive-content/getting-started/algorithm-goal-settings.md)
 

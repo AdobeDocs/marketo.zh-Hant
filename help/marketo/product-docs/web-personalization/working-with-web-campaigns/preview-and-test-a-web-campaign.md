@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10092925
 description: 預覽和測試網站行銷活動 — Marketo檔案 — 產品檔案
-title: 預覽和測試網站行銷活動
+title: 預覽並測試網頁行銷活動
 exl-id: 6cc4ebd8-0d39-4a7d-bc3d-e8cd18157470
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '369'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
-# 預覽和測試網站行銷活動 {#preview-and-test-a-web-campaign}
+# 預覽並測試網頁行銷活動 {#preview-and-test-a-web-campaign}
 
 本文說明預覽網站行銷活動的不同方式，以及如何使用沙箱區段即時測試您的網站。
 

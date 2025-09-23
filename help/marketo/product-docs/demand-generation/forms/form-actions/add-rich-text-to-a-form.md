@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359618
 description: 新增RTF文字至表單 — Marketo檔案 — 產品檔案
-title: 新增RTF文字至表單
+title: 新增 RTF 文字至表單
 exl-id: 6363c03d-c1f2-4464-9483-2d9aa8dafcc5
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '92'
-ht-degree: 4%
+ht-degree: 17%
 
 ---
 
-# 新增RTF文字至表單 {#add-rich-text-to-a-form}
+# 新增 RTF 文字至表單 {#add-rich-text-to-a-form}
 
 在表單中使用RTF格式，在欄位之間新增指示或其他資訊。 看看吧。
 
@@ -27,7 +27,7 @@ ht-degree: 4%
 
    ![](assets/image2014-9-15-16-3a46-3a43.png)
 
-1. 選擇「**[!UICONTROL Rich Text]**」。
+1. 選取「**[!UICONTROL Rich Text]**」。
 
    ![](assets/image2014-9-15-16-3a47-3a9.png)
 

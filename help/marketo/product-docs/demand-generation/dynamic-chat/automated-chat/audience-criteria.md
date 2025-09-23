@@ -1,16 +1,16 @@
 ---
 description: 對象條件 — Marketo檔案 — 產品檔案
-title: 對象條件
+title: 客群推薦準則
 feature: Dynamic Chat
 exl-id: 95c4558e-0c0c-4623-bb7d-b6ac2f455c01
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '579'
 ht-degree: 1%
 
 ---
 
-# 對象條件 {#audience-criteria}
+# 客群推薦準則 {#audience-criteria}
 
 對象條件屬性與Marketo Engage智慧清單類似，可讓您定義目標對象。 您可以使用推斷的、人員或公司屬性（或兩者的組合）來鎖定已知或未知的人員。
 
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 ![](assets/audience-criteria-1.png)
 
-## 活動 {#events}
+## 事件 {#events}
 
 事件可讓您根據訪客的捲動次數或他們在您的頁面/網站上的時間長度來鎖定訪客。 在以下範例中，我們鎖定了在特定頁面上停留超過20秒的訪客。
 
@@ -46,7 +46,7 @@ ht-degree: 1%
 
    ![](assets/audience-criteria-7.png)
 
-1. _[!UICONTROL Is]_&#x200B;已預設設定。 在「選取值」欄位中輸入CA （您也可以按一下下拉式清單，然後從清單中選取）。
+1. _[!UICONTROL Is]_已預設設定。 在「選取值」欄位中輸入CA （您也可以按一下下拉式清單，然後從清單中選取）。
 
    ![](assets/audience-criteria-8.png)
 
@@ -88,7 +88,7 @@ ht-degree: 1%
    >
    >當有人造訪您的網站時，[Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}會對其進行Cookie並將其放入系統中。 我們會在特殊的資料庫中查詢他們的IP，並推斷出各種好的資訊。
 
-1. _[!UICONTROL Is]_&#x200B;已預設設定。 在「選取值」欄位中，輸入NY （您也可以按一下下拉式清單，然後從清單中選取）。
+1. _[!UICONTROL Is]_已預設設定。 在「選取值」欄位中，輸入NY （您也可以按一下下拉式清單，然後從清單中選取）。
 
    ![](assets/audience-criteria-15.png)
 
@@ -116,7 +116,7 @@ ht-degree: 1%
 
 ![](assets/audience-criteria-17.png)
 
-## Target {#target}
+## 目標 {#target}
 
 這是您輸入要在其中顯示特定對話方塊的URL的位置。 您也可以選擇新增排除專案。
 

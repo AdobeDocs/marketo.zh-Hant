@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359873
 description: 刪除上傳的影像或檔案 — Marketo檔案 — 產品檔案
-title: 刪除上傳的影像或檔案
+title: 刪除已上傳的影像或檔案
 exl-id: 291ea4f3-a317-4696-b26e-0d69bf4581e3
 feature: Image Editor
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '96'
-ht-degree: 0%
+ht-degree: 17%
 
 ---
 
-# 刪除上傳的影像或檔案 {#delete-an-uploaded-image-or-file}
+# 刪除已上傳的影像或檔案 {#delete-an-uploaded-image-or-file}
 
 刪除影像或檔案既快速又簡單。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/delete-an-uploaded-image-or-file-2.png)
 
-1. 尋找並選取所需的影像/檔案。 按一下&#x200B;**[!UICONTROL Image and file actions]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Delete]**。
+1. 尋找並選取所需的影像/檔案。 按一下「**[!UICONTROL Image and file actions]**」下拉式選單，選取「**[!UICONTROL Delete]**」。
 
    ![](assets/delete-an-uploaded-image-or-file-3.png)
 

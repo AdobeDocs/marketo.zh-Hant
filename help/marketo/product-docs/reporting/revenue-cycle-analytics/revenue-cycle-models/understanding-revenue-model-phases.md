@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718660
 description: 瞭解收入模型階段 — Marketo檔案 — 產品檔案
-title: 瞭解收入模型階段
+title: 了解收入模型階段
 exl-id: 036559ff-b576-4490-ab76-54092e909178
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '59'
-ht-degree: 1%
+ht-degree: 15%
 
 ---
 
-# 瞭解收入模型階段 {#understanding-revenue-model-phases}
+# 了解收入模型階段 {#understanding-revenue-model-phases}
 
 階段是將多個階段群組的方法。 有時模型中的多個階段會反映漏斗的一個階段。
 

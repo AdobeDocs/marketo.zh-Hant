@@ -5,10 +5,10 @@ hide: true
 hidefromtoc: true
 exl-id: 6ec62e51-de9a-4165-b36b-d9260fcfcefe
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '113'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 1%
 
    ![](assets/manage-template-categories-4.png)
 
-1. 將游標停留在您要重新命名的範本上，然後按一下圓點（三個點）。 選擇「**[!UICONTROL Rename]**」。
+1. 將游標停留在您要重新命名的範本上，然後按一下圓點（三個點）。 選取「**[!UICONTROL Rename]**」。
 
    ![](assets/manage-template-categories-5.png)
 
@@ -48,7 +48,7 @@ ht-degree: 1%
 
    ![](assets/manage-template-categories-7.png)
 
-1. 將游標停留在您要重新命名的範本上，然後按一下圓點（三個點）。 選擇「**[!UICONTROL Delete]**」。
+1. 將游標停留在您要重新命名的範本上，然後按一下圓點（三個點）。 選取「**[!UICONTROL Delete]**」。
 
    ![](assets/manage-template-categories-8.png)
 

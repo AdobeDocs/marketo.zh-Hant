@@ -3,10 +3,10 @@ description: 設定 — Marketo檔案 — 產品檔案
 title: 設定
 feature: Dynamic Chat
 exl-id: 01ca6a38-4918-46b0-b0f6-1baffbb0bbaf
-source-git-commit: 42e2a23c1c451c61fd62237fd1305924b51437b2
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '388'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 
 **新訊息通知音效**
 
-按一下下拉式清單，選取每次在工作階段中觸發聊天機器人時訪客的聲音。 有多種聲音可供選擇。
+按一下下拉式清單，選取每次在工作階段中觸發聊天機器人時訪客的聲音。 有多種音效可供選擇。
 
 **在行動裝置上啟用Poke訊息**
 
@@ -60,7 +60,7 @@ ht-degree: 0%
 >
 >Poke只適用於交談中的前[張卡片](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards){target="_blank"}。
 
-完成變更後，請記得按一下[儲存]。**&#x200B;**
+完成變更後，請記得按一下[儲存]。****
 
 ![](assets/configuration-7.png)
 

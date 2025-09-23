@@ -1,17 +1,17 @@
 ---
 unique-page-id: 37356426
 description: 在Microsoft中變更擁有者 — Marketo檔案 — 產品檔案
-title: 在Microsoft中變更擁有者
+title: 在 Microsoft 中變更所有者
 exl-id: d17cfb70-1d78-48e9-8e53-99a7abd5a647
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '91'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# 在Microsoft中變更擁有者 {#change-owner-in-microsoft}
+# 在 Microsoft 中變更所有者 {#change-owner-in-microsoft}
 
 如果您的現有人員已指派給擁有者，您可以使用此流程步驟將其重新指派給其他擁有者。
 

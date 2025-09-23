@@ -4,14 +4,14 @@ description: SFDC同步 — 銷售機會/帳戶擁有者同步 — Marketo檔案
 title: SFDC同步 — 銷售機會/帳戶擁有者同步
 exl-id: b9effcc2-f426-4390-aef1-42f4e525b182
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '212'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# SFDC同步：銷售機會/帳戶擁有者同步 {#sfdc-sync-lead-account-owner-sync}
+# SFDC 同步：商機/帳戶所有者同步 {#sfdc-sync-lead-account-owner-sync}
 
 這些從技術上來說，正在同步[!DNL Salesforce]中的「使用者」表格，但我們會將其稱為銷售機會/帳戶擁有者欄位。
 

@@ -4,10 +4,10 @@ description: 建立引導式登陸頁面 — Marketo檔案 — 產品檔案
 title: 建立引導式登陸頁面
 exl-id: 876735b7-1e71-4fd0-b5de-63e239bcfa30
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '172'
-ht-degree: 2%
+ht-degree: 13%
 
 ---
 
@@ -33,15 +33,15 @@ ht-degree: 2%
 
    ![](assets/image2015-5-26-9-3a24-3a2.png)
 
-1. 按一下&#x200B;**[!UICONTROL New]**&#x200B;下拉式清單。 選擇「**[!UICONTROL New Local Asset]**」。
+1. 按一下&#x200B;**[!UICONTROL New]**&#x200B;下拉式清單。 選取「**[!UICONTROL New Local Asset]**」。
 
    ![](assets/image2015-5-26-9-3a25-3a36.png)
 
-1. 選擇「**[!UICONTROL Landing Page]**」。
+1. 選取「**[!UICONTROL Landing Page]**」。
 
    ![](assets/four.png)
 
-1. 為您的登陸頁面命名。 按一下&#x200B;**[!UICONTROL Template]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Guided Template]**。
+1. 為您的登陸頁面命名。 按一下「**[!UICONTROL Template]**」下拉式選單，選取「**[!UICONTROL Guided Template]**」。
 
    >[!NOTE]
    >
@@ -55,11 +55,11 @@ ht-degree: 2%
 
    ![](assets/six.png)
 
-1. 按一下&#x200B;**[!UICONTROL New]**&#x200B;下拉式清單。 選擇「**[!UICONTROL New Landing Page]**」。
+1. 按一下&#x200B;**[!UICONTROL New]**&#x200B;下拉式清單。 選取「**[!UICONTROL New Landing Page]**」。
 
    ![](assets/seven.png)
 
-1. 為您的登陸頁面命名。 按一下&#x200B;**[!UICONTROL Template]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Guided Template]**。
+1. 為您的登陸頁面命名。 按一下「**[!UICONTROL Template]**」下拉式選單，選取「**[!UICONTROL Guided Template]**」。
 
    ![](assets/image2015-5-26-9-3a27-3a34.png)
 

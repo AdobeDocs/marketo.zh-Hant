@@ -4,10 +4,10 @@ description: 管理和檢視成員 — Marketo檔案 — 產品檔案
 title: 管理和檢視成員
 exl-id: 8d6ad815-4022-4d4b-a258-2bc048ca48f9
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '238'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 ## 選擇要在格線中顯示的欄 {#choose-which-columns-are-visible-in-the-grid}
 
-1. 按一下&#x200B;**[!UICONTROL View]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Create View]**。
+1. 按一下「**[!UICONTROL View]**」下拉式選單，選取「**[!UICONTROL Create View]**」。
 
    ![](assets/image2014-10-1-16-3a32-3a43.png)
 

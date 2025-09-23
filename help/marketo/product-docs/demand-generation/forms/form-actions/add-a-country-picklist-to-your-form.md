@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949966
 description: 新增國家/地區選擇清單至您的表單 — Marketo檔案 — 產品檔案
-title: 新增國家/地區選擇清單至您的表單
+title: 新增國家/地區選項清單至您的表單
 exl-id: b4725352-7116-4f08-b4ad-2affe81afbf4
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '171'
-ht-degree: 2%
+ht-degree: 10%
 
 ---
 
-# 新增國家/地區選擇清單至您的表單 {#add-a-country-picklist-to-your-form}
+# 新增國家/地區選項清單至您的表單 {#add-a-country-picklist-to-your-form}
 
 依照這些指示，將國家/地區欄位轉換為包含所有國家/地區清單的下拉式清單。
 

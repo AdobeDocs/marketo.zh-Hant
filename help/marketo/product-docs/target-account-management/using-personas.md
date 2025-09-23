@@ -1,17 +1,17 @@
 ---
 unique-page-id: 17727818
 description: 使用角色 — Marketo檔案 — 產品檔案
-title: 使用角色
+title: 使用人物誌
 exl-id: 8c8940ab-d336-494c-b6a0-dad09ed1c888
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '176'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 使用角色 {#using-personas}
+# 使用人物誌 {#using-personas}
 
 角色是將ABM對象和行銷對象細分到特定人員子集合的絕佳方式。
 

@@ -1,41 +1,41 @@
 ---
 unique-page-id: 2360337
 description: 建立並使用串連字串（公式）欄位 — Marketo檔案 — 產品檔案
-title: 建立並使用串連字串（公式）欄位
+title: 建立和使用串連字串 (公式) 欄位
 exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
 feature: Field Management
-source-git-commit: 9181a599ae715e9ffcfd84d8316dfa1c094329a6
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 0%
+source-wordcount: '158'
+ht-degree: 13%
 
 ---
 
-# 建立並使用串連字串（公式）欄位 {#create-and-use-a-concatenated-string-formula-field}
+# 建立和使用串連字串 (公式) 欄位 {#create-and-use-a-concatenated-string-formula-field}
 
-您可以組合來自多個欄位的值，或使用Marketo Engage公式欄位建立條件值。
+您可以合併多個欄位的值，或使用Marketo Engage公式欄位建立條件值。
 
-1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-1.png)
 
-1. 按一下&#x200B;**[!UICONTROL 欄位管理]**。
+1. 按一下「**[!UICONTROL Field Management]**」。
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-2.png)
 
-1. 按一下&#x200B;**[!UICONTROL 新增自訂欄位]**。
+1. 按一下「**[!UICONTROL New Custom Field]**」。
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-3.png)
 
-1. 為&#x200B;**[!UICONTROL 型別]**&#x200B;選取&#x200B;**[!UICONTROL 公式]**。
+1. 為&#x200B;**[!UICONTROL Formula]**&#x200B;選取&#x200B;**[!UICONTROL Type]**。
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-4.png)
 
-1. 輸入欄位的&#x200B;**[!UICONTROL 名稱]**，然後按一下[建立]。**&#x200B;**
+1. 輸入欄位的&#x200B;**[!UICONTROL Name]**，然後按一下&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-5.png)
 
-1. 尋找並選取公式欄位，然後按一下&#x200B;**[!UICONTROL 編輯規則]**。
+1. 尋找並選取您的公式欄位，然後按一下&#x200B;**[!UICONTROL Edit Rules]**。
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-6.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >深入瞭解流程步驟[&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)的權杖。
+   >深入瞭解流程步驟[的](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)權杖。
 
 1. 現在您可以在電子郵件中新增公式欄位做為代號。
 

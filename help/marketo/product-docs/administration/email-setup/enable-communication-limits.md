@@ -4,10 +4,10 @@ description: 啟用通訊限制 — Marketo檔案 — 產品檔案
 title: 啟用通訊限制
 exl-id: c69c083c-08fe-49fc-91d4-5b1ff82a2e52
 feature: Email Setup
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 3%
+ht-degree: 10%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 3%
 >
 >**需要管理員許可權**
 
-1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/enable-communication-limits-1.png)
 
@@ -47,7 +47,7 @@ ht-degree: 3%
 
    ![](assets/enable-communication-limits-5.png)
 
-1. 選擇「**[!UICONTROL Block non-operational emails]**」。
+1. 選取「**[!UICONTROL Block non-operational emails]**」。
 
    ![](assets/enable-communication-limits-6.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512654
 description: 在Salesforce1中檢視銷售機會摘要 — Marketo檔案 — 產品檔案
-title: 在Salesforce1中檢視銷售機會摘要
+title: 在 Salesforce1 中查看商機動態消息
 exl-id: c6811752-0e60-4b38-88bb-7b1061ee6f7b
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '67'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 

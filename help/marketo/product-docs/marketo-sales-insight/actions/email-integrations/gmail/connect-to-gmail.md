@@ -1,15 +1,15 @@
 ---
 description: 連線至Gmail - Marketo檔案 — 產品檔案
-title: 連線到Gmail
+title: 連接至 Gmail
 exl-id: 40f67fbd-cb6e-4e0b-b9ad-093c432f67ed
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '177'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# 連線到Gmail {#connect-to-gmail}
+# 連接至 Gmail {#connect-to-gmail}
 
 連線至Gmail表示您將會收到回覆追蹤、存取Gmail傳遞頻道、在Gmail中排程電子郵件以及傳送合規性。
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/connect-to-gmail-3.png)
 
-1. 按一下&#x200B;**開始使用**。
+1. 按一下「**開始使用**」。
 
    ![](assets/connect-to-gmail-4.png)
 
@@ -37,11 +37,11 @@ ht-degree: 0%
 
    ![](assets/connect-to-gmail-5.png)
 
-1. 按一下&#x200B;**確定**。
+1. 按一下&#x200B;**「確定」**。
 
    ![](assets/connect-to-gmail-6.png)
 
-1. 如果您已登入Gmail，請選擇您要連線的帳戶。 如果沒有，請輸入您的Gmail位址，然後按一下[下一步]。**&#x200B;** 在此範例中，我們尚未登入。
+1. 如果您已登入Gmail，請選擇您要連線的帳戶。 如果沒有，請輸入您的Gmail位址，然後按一下[下一步]。**** 在此範例中，我們尚未登入。
 
    ![](assets/connect-to-gmail-7.png)
 

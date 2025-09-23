@@ -4,7 +4,7 @@ description: 從您的MS [!DNL Dynamics] 執行個體解除安裝MSI - Marketo�
 title: 從您的MS [!DNL Dynamics] 執行個體解除安裝MSI
 exl-id: 86e8dbc9-236f-42ad-96e8-cdb1b4c3bed2
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 3%

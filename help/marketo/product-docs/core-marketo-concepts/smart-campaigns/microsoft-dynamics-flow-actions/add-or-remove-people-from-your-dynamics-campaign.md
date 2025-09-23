@@ -3,7 +3,7 @@ description: 新增或移除您 [!DNL Dynamics] 行銷活動中的人員 — Mar
 title: 從您的 [!DNL Dynamics] 行銷活動新增或移除人員
 exl-id: 4fea2f7c-0655-4816-8640-76878f760b6e
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '312'
 ht-degree: 0%

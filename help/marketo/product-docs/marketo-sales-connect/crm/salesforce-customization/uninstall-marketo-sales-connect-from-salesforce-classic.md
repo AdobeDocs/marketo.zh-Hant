@@ -1,15 +1,15 @@
 ---
 description: 從Marketo Classic解除安裝Salesforce Sales Connect - Marketo檔案 — 產品檔案
-title: 從Salesforce Classic解除安裝Marketo Sales Connect
+title: 從 Salesforce Classic 解除安裝 Marketo Sales Connect
 exl-id: 17078054-a615-4f2f-bfde-f28fd3ff6f48
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1025'
-ht-degree: 9%
+ht-degree: 11%
 
 ---
 
-# 從Salesforce Classic解除安裝Marketo Sales Connect {#uninstall-marketo-sales-connect-from-salesforce-classic}
+# 從 Salesforce Classic 解除安裝 Marketo Sales Connect {#uninstall-marketo-sales-connect-from-salesforce-classic}
 
 以下說明開始使用Sales Insight Actions後，如何從您的Salesforce帳戶解除安裝Marketo Sales Connect套件。
 
@@ -257,7 +257,7 @@ ht-degree: 9%
   <td>
   <p>帳戶
   <p>聯絡人
-  <p>銷售機會
+  <p>商機
   <p>機會</td>
   <td>資料與時間</td>
  </tr>
@@ -267,7 +267,7 @@ ht-degree: 9%
   <td>
   <p>帳戶
   <p>聯絡人
-  <p>銷售機會
+  <p>商機
   <p>機會</td>
   <td>資料與時間</td>
  </tr>
@@ -277,7 +277,7 @@ ht-degree: 9%
   <td>
   <p>帳戶
   <p>聯絡人
-  <p>銷售機會
+  <p>商機
   <p>機會</td>
   <td>文字</td>
  </tr>
@@ -287,7 +287,7 @@ ht-degree: 9%
   <td>
   <p>帳戶
   <p>聯絡人
-  <p>銷售機會
+  <p>商機
   <p>機會</td>
   <td>文字</td>
  </tr>
@@ -297,7 +297,7 @@ ht-degree: 9%
   <td>
   <p>帳戶
   <p>聯絡人
-  <p>銷售機會
+  <p>商機
   <p>機會</td>
   <td>文字</td>
  </tr>
@@ -307,7 +307,7 @@ ht-degree: 9%
   <td>
   <p>帳戶
   <p>聯絡人
-  <p>銷售機會
+  <p>商機
   <p>機會</td>
   <td>資料與時間</td>
  </tr>
@@ -317,7 +317,7 @@ ht-degree: 9%
   <td>
   <p>帳戶
   <p>聯絡人
-  <p>銷售機會
+  <p>商機
   <p>機會</td>
   <td>資料與時間</td>
  </tr>
@@ -327,7 +327,7 @@ ht-degree: 9%
   <td>
   <p>帳戶
   <p>聯絡人
-  <p>銷售機會
+  <p>商機
   <p>機會</td>
   <td>文字</td>
  </tr>
@@ -337,7 +337,7 @@ ht-degree: 9%
   <td>
   <p>帳戶
   <p>聯絡人
-  <p>銷售機會
+  <p>商機
   <p>機會</td>
   <td>資料與時間</td>
  </tr>
@@ -347,7 +347,7 @@ ht-degree: 9%
   <td>
   <p>帳戶
   <p>聯絡人
-  <p>銷售機會
+  <p>商機
   <p>機會</td>
   <td>核取方塊</td>
  </tr>
@@ -365,7 +365,7 @@ ht-degree: 9%
   <td>
   <p>帳戶
   <p>聯絡人
-  <p>銷售機會
+  <p>商機
   <p>機會</td>
  </tr>
  <tr>
@@ -373,21 +373,21 @@ ht-degree: 9%
   <td>從新增至MSC行銷活動 [!DNL Salesforce]</td>
   <td>
   <p>聯絡人
-  <p>銷售機會</td>
+  <p>商機</td>
  </tr>
  <tr>
   <td>[!UICONTROL Push to MSC]</td>
   <td>從[!DNL Salesforce]推播連絡人至MSC</td>
   <td>
   <p>聯絡人
-  <p>銷售機會</td>
+  <p>商機</td>
  </tr>
  <tr>
   <td>[!UICONTROL Call with MSC]</td>
   <td>從進行銷售通話 [!DNL Salesforce]</td>
   <td>
   <p>聯絡人
-  <p>銷售機會</td>
+  <p>商機</td>
  </tr>
 </table>
 
@@ -402,20 +402,20 @@ ht-degree: 9%
   <td>從新增至MSC行銷活動 [!DNL Salesforce]</td>
   <td>
   <p>聯絡人
-  <p>銷售機會</td>
+  <p>商機</td>
  </tr>
  <tr>
   <td>[!UICONTROL Push to MSC (Classic)]</td>
   <td>從[!DNL Salesforce]推播連絡人至MSC</td>
   <td>
   <p>聯絡人
-  <p>銷售機會</td>
+  <p>商機</td>
  </tr>
  <tr>
   <td>[!UICONTROL Email with MSC (Classic)]</td>
   <td>從MSC寄送電子郵件 [!DNL Salesforce]</td>
   <td>
   <p>聯絡人
-  <p>銷售機會</td>
+  <p>商機</td>
  </tr>
 </table>

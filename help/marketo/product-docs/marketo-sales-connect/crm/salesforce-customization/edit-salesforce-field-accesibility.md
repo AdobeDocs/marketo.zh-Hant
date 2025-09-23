@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352472
 description: 編輯Salesforce欄位協助工具 — Marketo檔案 — 產品檔案
-title: 編輯Salesforce欄位輔助功能
+title: 編輯 Salesforce 欄位可存取性
 exl-id: e4ef29c8-f6ab-4dca-b56e-907c7d2e5263
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '110'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# 編輯Salesforce欄位輔助功能 {#edit-salesforce-field-accesibility}
+# 編輯 Salesforce 欄位可存取性 {#edit-salesforce-field-accesibility}
 
 如果您沒有看到記錄到[!DNL Salesforce]的電子郵件活動，可能是因為您團隊的欄位可存取性有所限制。
 

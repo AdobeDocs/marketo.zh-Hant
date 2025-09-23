@@ -1,13 +1,13 @@
 ---
 unique-page-id: 17727591
 description: Outlook使用者的電子郵件連線 — Marketo檔案 — 產品檔案
-title: Outlook使用者的電子郵件連線
+title: Outlook 使用者的電子郵件連線
 exl-id: e694915c-39a6-4476-a643-080acb758de7
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '268'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 1%
 
    ![](assets/four.png)
 
-1. 選取&#x200B;**[!UICONTROL I use Outlook to send emails]**&#x200B;並按一下&#x200B;**[!UICONTROL Next]**。
+1. 選取「**[!UICONTROL I use Outlook to send emails]**」然後按一下「**[!UICONTROL Next]**」。
 
    ![](assets/five-a.png)
 
@@ -102,7 +102,7 @@ ht-degree: 1%
 
    ![](assets/four.png)
 
-1. 選取&#x200B;**[!UICONTROL I use Outlook to send emails]**&#x200B;並按一下&#x200B;**[!UICONTROL Next]**。
+1. 選取「**[!UICONTROL I use Outlook to send emails]**」然後按一下「**[!UICONTROL Next]**」。
 
    ![](assets/five-a.png)
 

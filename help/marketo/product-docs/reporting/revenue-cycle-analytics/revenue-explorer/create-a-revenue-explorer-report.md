@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504047
 description: 建立收入總管報表 — Marketo檔案 — 產品檔案
-title: 建立收入總管報表
+title: 建立營收總管報告
 exl-id: dc7b705d-00cc-4b9f-aae1-83a5127036f4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '127'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >由於技術問題，收入週期總管中的垃圾桶資料夾已暫時隱藏。 我們目前正在進行修正，您的檔案是安全的。 如果您有任何需要還原的檔案，請聯絡[Adobe支援](https://nation.marketo.com/t5/support/ct-p/Support)。
 
-1. 移至&#x200B;**[!UICONTROL Revenue Explorer]**&#x200B;區域。
+1. 前往「**[!UICONTROL Revenue Explorer]**」區域。
 
    ![](assets/image2015-3-24-13-3a24-3a56.png)
 

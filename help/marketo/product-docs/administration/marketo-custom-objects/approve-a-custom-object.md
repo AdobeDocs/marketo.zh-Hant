@@ -4,10 +4,10 @@ description: 核准自訂物件 — Marketo檔案 — 產品檔案
 title: 核准自訂物件
 exl-id: 8bae94df-91fe-4722-8c75-c26df882c65d
 feature: Custom Objects
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '278'
-ht-degree: 0%
+source-wordcount: '259'
+ht-degree: 8%
 
 ---
 
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 您已建立全新的自訂物件。 核准的方法說明如下。
 
-1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/approve-a-custom-object-1.png)
 
-1. 按一下&#x200B;**[!UICONTROL Marketo自訂物件]**。
+1. 按一下「**[!UICONTROL Marketo Custom Objects]**」。
 
    ![](assets/approve-a-custom-object-2.png)
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
    ![](assets/approve-a-custom-object-3.png)
 
-1. 按一下&#x200B;**[!UICONTROL 自訂物件動作]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL 核准物件]**。
+1. 按一下「**[!UICONTROL Custom Object Actions]**」下拉式選單，選取「**[!UICONTROL Approve Object]**」。
 
    ![](assets/approve-a-custom-object-4.png)
 
-1. 狀態變更為[!UICONTROL 已核准]。
+1. 狀態變更為[!UICONTROL Approved]。
 
    ![](assets/approve-a-custom-object-5.png)
 
@@ -49,20 +49,20 @@ ht-degree: 0%
    >
    >如需詳細資訊，請參閱[瞭解Marketo自訂物件](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)。
 
-完成了！ 現在，您可以在篩選器和觸發器的限制中選取自訂物件，以用於行銷活動。
+完成了！現在，您可以在篩選器和觸發器的限制中選取自訂物件，以用於行銷活動。
 
 ## 核准已編輯的自訂物件 {#approve-an-edited-custom-object}
 
 編輯已核准的自訂物件後，您必須核准草稿才能將自訂物件恢復為已核准狀態。
 
-1. 當您編輯已核准的自訂物件時，它會收到[!UICONTROL 已核准草稿]狀態。
+1. 當您編輯已核准的自訂物件時，它會收到[!UICONTROL Approved with Draft]狀態。
 
    ![](assets/approve-a-custom-object-6.png)
 
-1. 當您準備好核准草稿時，請按一下&#x200B;**[!UICONTROL 自訂物件動作]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL 核准物件]**。
+1. 當您準備好核准草稿時，請按一下&#x200B;**[!UICONTROL Custom Object Actions]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Approve Object]**。
 
    ![](assets/approve-a-custom-object-7.png)
 
-1. 預覽會顯示草稿中變更的專案。 按一下&#x200B;**[!UICONTROL 核准]**。
+1. 預覽會顯示草稿中變更的專案。 按一下「**[!UICONTROL Approve]**」。
 
    ![](assets/approve-a-custom-object-8.png)

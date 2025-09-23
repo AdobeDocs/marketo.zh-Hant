@@ -1,17 +1,17 @@
 ---
 unique-page-id: 5472615
 description: 瞭解系統管理的欄位 — Marketo檔案 — 產品檔案
-title: 瞭解系統管理的欄位
+title: 了解系統管理欄位
 exl-id: 4a58d41f-c2f5-4bcc-93ef-10a31e5475fd
 feature: Field Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '523'
-ht-degree: 8%
+ht-degree: 11%
 
 ---
 
-# 瞭解系統管理的欄位 {#understanding-system-managed-fields}
+# 了解系統管理欄位 {#understanding-system-managed-fields}
 
 您可能已注意到[個人詳細資料頁面](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"}有一連串由Marketo建立的不可編輯欄位。 這些資料來自各種來源，而且可以顯示無數值。
 
@@ -124,7 +124,7 @@ ht-degree: 8%
     <td>已透過銷售Insight電子郵件增益集傳送電子郵件給個人</td>
   </tr>
   <tr>
-    <td>個人</td>
+    <td>人員</td>
     <td>已將個人從Salesforce同步為個人</td>
   </tr>
   <tr>
@@ -144,7 +144,7 @@ ht-degree: 8%
     <td>透過網站服務API發現人員</td>
   </tr>
   <tr>
-    <td>活動合作夥伴</td>
+    <td>事件合作夥伴</td>
     <td>透過同步網路研討會服務發現人員</td>
   </tr>
   <tr>
@@ -192,7 +192,7 @@ ht-degree: 8%
     <td>透過社交Widget變成人</td>
   </tr>
   <tr>
-    <td>活動合作夥伴</td>
+    <td>事件合作夥伴</td>
     <td>透過連結的網路研討會服務成為個人</td>
   </tr>
 </tbody>

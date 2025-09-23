@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360358
 description: 將使用者登入限製為僅限SSO - Marketo檔案 — 產品檔案
-title: 將使用者登入限製為僅限SSO
+title: 限制使用者只可透過 SSO 登入
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
 feature: Administration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '228'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# 將使用者登入限製為僅限SSO {#restrict-user-login-to-sso-only}
+# 限制使用者只可透過 SSO 登入 {#restrict-user-login-to-sso-only}
 
 如果您正在[使用SSO](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)，並且想要確保使用者無法略過SSO安全性，請遵循這些指示。
 
@@ -23,7 +23,7 @@ ht-degree: 1%
 >
 >**需要管理員許可權**
 
-1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/restrict-user-login-to-sso-only-1.png)
 

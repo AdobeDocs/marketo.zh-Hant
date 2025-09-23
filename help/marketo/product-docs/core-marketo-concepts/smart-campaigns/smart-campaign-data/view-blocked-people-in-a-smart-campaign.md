@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147062
 description: 在Smart Campaign中檢視封鎖的人員 — Marketo檔案 — 產品檔案
-title: 在Smart Campaign中檢視封鎖的人員
+title: 檢視在智慧行銷活動中被封鎖的人員
 exl-id: 7adf00fe-4893-42ea-8077-b7a1bed1866f
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# 在Smart Campaign中檢視封鎖的人員 {#view-blocked-people-in-a-smart-campaign}
+# 檢視在智慧行銷活動中被封鎖的人員 {#view-blocked-people-in-a-smart-campaign}
 
 Marketo Engage資料庫中遭封鎖的人員會標籤為已列入封鎖名單、已取消訂閱、行銷活動已暫停，及/或電子郵件無效或空白。
 

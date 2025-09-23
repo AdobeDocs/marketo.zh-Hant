@@ -4,14 +4,14 @@ description: 發行說明 — 夏季17年 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2017年夏天
 exl-id: 81b18ecb-5870-4d16-8b7c-24ce362be62f
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '387'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 發行說明： 2017年夏天 {#release-notes-summer}
+# 發行說明：2017 年夏季 {#release-notes-summer}
 
 下列功能包含在2017年夏季版本中。 檢查您的Marketo版本是否有功能可用。
 
@@ -53,13 +53,13 @@ Widget Campaign的新選項現已推出，包括：
 * 顯示行銷活動（畫面周圍的任何位置）
 * 將展開/最小化箭頭變更為任何CTA文字
 
-## contentai {#contentai}
+## ContentAI {#contentai}
 
 **[ContentAI分析和建議](/help/marketo/product-docs/predictive-content/predictive-content-analytics-overview.md)**
 
 透過更深入的分析和AI支援的內容建議來增加內容行銷的回報，以提高參與度。 強大的分析功能可顯示建議內容的執行情形，包括熱門、趨勢和以對象為基礎的檢視。 您也會看到其他要包含內容的建議。
 
-## Analytics {#analytics}
+## 分析 {#analytics}
 
 **[!UICONTROL Email Insights]增強功能**
 

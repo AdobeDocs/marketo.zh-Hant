@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147243
 description: 方案排程檢視專案型別 — Marketo檔案 — 產品檔案
-title: 程式排程檢視專案型別
+title: 方案排程視圖條目類型
 exl-id: 0b53d6d3-b813-45c6-9101-191c777610bb
 feature: Programs
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '152'
-ht-degree: 3%
+ht-degree: 10%
 
 ---
 
-# 程式排程檢視專案型別 {#program-schedule-view-entry-types}
+# 方案排程視圖條目類型 {#program-schedule-view-entry-types}
 
 您的方案排程檢視中會顯示並可以使用八種不同的內建專案型別。 您也可以在管理區段中[建立自訂專案型別](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md)。
 

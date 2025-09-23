@@ -1,33 +1,33 @@
 ---
 unique-page-id: 2360247
 description: 從電子郵件和標籤變更預設值 — Marketo檔案 — 產品檔案
-title: 變更「來自電子郵件」和「來自標籤」的預設值
+title: 變更預設的寄件者電子郵件和寄件者標籤
 exl-id: ad0fa157-28f9-4008-a46c-84749c1987a9
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 0%
+source-wordcount: '100'
+ht-degree: 17%
 
 ---
 
-# 變更「來自電子郵件」和「來自標籤」的預設值 {#change-the-default-from-email-and-from-label}
+# 變更預設的寄件者電子郵件和寄件者標籤 {#change-the-default-from-email-and-from-label}
 
-每個管理員使用者都可以變更&#x200B;**[!UICONTROL 寄件者電子郵件]**&#x200B;和&#x200B;**[!UICONTROL 寄件者標籤]**&#x200B;的預設值，以便在建立新電子郵件時，使用這些預設值。
+每個管理員使用者都可以變更&#x200B;**[!UICONTROL From Email]**&#x200B;和&#x200B;**[!UICONTROL From Label]**&#x200B;的預設值，這樣當他們建立新電子郵件時，就會使用這些預設值。
 
 >[!NOTE]
 >
 >**需要管理員許可權**
 
-1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區段。
+1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區段。
 
    ![](assets/change-the-default-from-email-and-from-label-1.png)
 
-1. 按一下&#x200B;**[!UICONTROL 電子郵件]**。
+1. 按一下「**[!UICONTROL Email]**」。
 
    ![](assets/change-the-default-from-email-and-from-label-2.png)
 
-1. 輸入您想要的&#x200B;**[!UICONTROL From Email]**&#x200B;和&#x200B;**[!UICONTROL From Label]**&#x200B;預設值，然後按一下&#x200B;**[!UICONTROL 儲存變更]**。
+1. 輸入您想要的&#x200B;**[!UICONTROL From Email]**&#x200B;和&#x200B;**[!UICONTROL From Label]**&#x200B;預設值，然後按一下&#x200B;**[!UICONTROL Save Changes]**。
 
    ![](assets/change-the-default-from-email-and-from-label-3.png)
 

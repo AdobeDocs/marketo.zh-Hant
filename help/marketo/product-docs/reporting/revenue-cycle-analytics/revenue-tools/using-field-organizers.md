@@ -1,17 +1,17 @@
 ---
 unique-page-id: 3571892
 description: 使用欄位組織者 — Marketo檔案 — 產品檔案
-title: 使用欄位組織者
+title: 使用欄位組織工具
 exl-id: 578969f7-9380-4019-9b86-85c659a216b3
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '155'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
-# 使用欄位組織者 {#using-field-organizers}
+# 使用欄位組織工具 {#using-field-organizers}
 
 欄位組織者可協助您指定所有可能值中的特定欄位。 例如，您可以為「區域」欄位建立有意義的分組，例如「西海岸」和「東海岸」。 這有助於報表更快速地執行。
 

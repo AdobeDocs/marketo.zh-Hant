@@ -4,10 +4,10 @@ description: 帳戶智慧清單 — Marketo檔案 — 產品檔案
 title: 帳戶智慧清單
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '428'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/account-smart-lists-2.png)
 
-1. 按一下&#x200B;**[!UICONTROL New]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL New Local Asset]**。
+1. 按一下「**[!UICONTROL New]**」下拉式選單，選取「**[!UICONTROL New Local Asset]**」。
 
    ![](assets/account-smart-lists-3.png)
 

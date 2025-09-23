@@ -1,16 +1,16 @@
 ---
 description: OA-YYYY-MM-Online Advertising Marketo登陸頁面 — Marketo檔案 — 產品檔案
-title: OA-YYYY-MM-Online Advertising Marketo登陸頁面
+title: OA-YYYY-MM-線上廣告 Marketo 登陸頁面
 feature: Programs
 exl-id: f7f17792-cc16-4a99-8683-68796770e42c
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '485'
-ht-degree: 5%
+ht-degree: 8%
 
 ---
 
-# OA-YYYY-MM-Online Advertising Marketo登陸頁面 {#oa-yyyy-mm-online-advertising-marketo-landing-page}
+# OA-YYYY-MM-線上廣告 Marketo 登陸頁面 {#oa-yyyy-mm-online-advertising-marketo-landing-page}
 
 此為線上廣告追蹤程式的範例，包含具有登錄檔單的Marketo登陸頁面，且使用Marketo預設程式。 優惠連結可顯示在感謝頁面上、以感謝電子郵件傳送或兩者皆顯示。
 
@@ -21,7 +21,7 @@ ht-degree: 5%
 <table style="table-layout:auto">
  <tbody>
   <tr>
-   <th>頻道</th>
+   <th>管道</th>
    <th>成員資格狀態</th>
    <th>Analytics行為</th>
    <th>計畫型別</th>
@@ -52,7 +52,7 @@ ht-degree: 5%
   </tr>
   <tr>
    <td>電子郵件</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入門電子郵件範本</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速開始電子郵件範本</a></td>
    <td>01 — 電子郵件 — 感謝您</td>
   </tr>
   <tr>
@@ -104,7 +104,7 @@ ht-degree: 5%
   <tr>
    <td>資料夾</td>
    <td> </td>
-   <td>報表</td>
+   <td>報告</td>
   </tr>
  </tbody>
 </table>
@@ -118,7 +118,7 @@ ht-degree: 5%
   <tr>
    <th>權杖型別</th>
    <th>代號名稱</th>
-   <th>值</th>
+   <th>價值</th>
   </tr>
   <tr>
    <td>RTF文字</td>

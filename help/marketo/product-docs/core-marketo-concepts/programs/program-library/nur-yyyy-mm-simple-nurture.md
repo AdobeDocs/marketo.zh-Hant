@@ -1,16 +1,16 @@
 ---
 description: NUR-YYYY-MM-Simple Nurture - Marketo檔案 — 產品檔案
-title: NUR-YYYY-MM-Simple Nurture
+title: NUR-YYYY-MM-簡單培養
 feature: Programs
 exl-id: aed11d75-3190-46ea-8b0b-c1494645901d
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '347'
-ht-degree: 7%
+ht-degree: 11%
 
 ---
 
-# NUR-YYYY-MM-Simple Nurture {#nur-yyyy-mm-simple-nurture}
+# NUR-YYYY-MM-簡單培養 {#nur-yyyy-mm-simple-nurture}
 
 這是簡單的Nurture計畫範例，利用Marketo Engage參與計畫，有節奏的內容會隨著時間滴到您的資料庫，同時利用資料流根據行為引導記錄完成歷程。
 
@@ -21,7 +21,7 @@ ht-degree: 7%
 <table style="table-layout:auto">
  <tbody>
   <tr>
-   <th>頻道</th>
+   <th>管道</th>
    <th>成員資格狀態</th>
    <th>Analytics行為</th>
    <th>計畫型別</th>
@@ -47,17 +47,17 @@ ht-degree: 7%
   </tr>
   <tr>
    <td>電子郵件</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入門電子郵件範本</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速開始電子郵件範本</a></td>
    <td>01 — 電子郵件</td>
   </tr>
    <tr>
    <td>電子郵件</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入門電子郵件範本</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速開始電子郵件範本</a></td>
    <td>02 — 電子郵件</td>
   </tr>
    <tr>
    <td>電子郵件</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入門電子郵件範本</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速開始電子郵件範本</a></td>
    <td>03 — 電子郵件</td>
   </tr>
   <tr>
@@ -105,7 +105,7 @@ ht-degree: 7%
   <tr>
    <td>資料夾</td>
    <td> </td>
-   <td>報表</td>
+   <td>報告</td>
   </tr>
  </tbody>
 </table>
@@ -119,7 +119,7 @@ ht-degree: 7%
   <tr>
    <th>權杖型別</th>
    <th>代號名稱</th>
-   <th>值</th>
+   <th>價值</th>
   </tr>
   <tr>
    <td>文字</td>

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147093
 description: 瞭解程式中的本機Assets - Marketo檔案 — 產品檔案
-title: 瞭解計畫中的本機Assets
+title: 了解方案中的本地資產
 exl-id: aa577b2b-f77c-41cc-aa47-59ce2d189530
 feature: Programs
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '96'
-ht-degree: 5%
+ht-degree: 17%
 
 ---
 
-# 瞭解計畫中的本機Assets {#understanding-local-assets-in-a-program}
+# 了解方案中的本地資產 {#understanding-local-assets-in-a-program}
 
 本機資產是組成您程式的內容。 Assets可自訂，讓您建立自動化的行銷方案。 以下檢視您可以在方案中建立的大部分本機資產：
 

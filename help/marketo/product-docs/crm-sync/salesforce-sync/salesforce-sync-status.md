@@ -1,16 +1,16 @@
 ---
 description: Salesforce同步狀態 — Marketo檔案 — 產品檔案
-title: Salesforce同步狀態
+title: Salesforce 同步狀態
 exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
 feature: Salesforce Integration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '542'
-ht-degree: 5%
+ht-degree: 7%
 
 ---
 
-# Salesforce同步狀態 {#salesforce-sync-status}
+# Salesforce 同步狀態 {#salesforce-sync-status}
 
 使用同步狀態儀表板來檢視同步步驟中的同步狀態及其成功狀態。
 
@@ -92,7 +92,7 @@ ht-degree: 5%
    <td colspan="1">成功、失敗、不完整、處理中、已清除*</td>
   </tr>
   <tr>
-   <td colspan="1">新增</td>
+   <td colspan="1">新版</td>
    <td colspan="1">新記錄計數</td>
    <td colspan="1"></td>
   </tr>
@@ -138,7 +138,7 @@ ht-degree: 5%
    <td colspan="1">自訂物件</td>
   </tr>
   <tr>
-   <td colspan="1">Campaign</td>
+   <td colspan="1">行銷活動</td>
   </tr>
   <tr>
    <td colspan="1">促銷活動會員狀態</td>
@@ -150,7 +150,7 @@ ht-degree: 5%
    <td colspan="1">電子郵件範本</td>
   </tr>
   <tr>
-   <td colspan="1">活動</td>
+   <td colspan="1">事件</td>
   </tr>
   <tr>
    <td colspan="1">人員（銷售機會）</td>
@@ -188,7 +188,7 @@ ht-degree: 5%
   </tr>
   <tr>
    <td colspan="1">與計畫的初始連結</td>
-   <td colspan="1">Campaign</td>
+   <td colspan="1">行銷活動</td>
    <td colspan="1">將行銷活動連結至方案</td>
    <td colspan="1">更新</td>
   </tr>
@@ -236,7 +236,7 @@ ht-degree: 5%
   </tr>
   <tr>
    <td colspan="1">更新活動</td>
-   <td colspan="1">任務</td>
+   <td colspan="1">工作</td>
    <td colspan="1">從Salesforce提取活動</td>
    <td colspan="1"></td>
   </tr>

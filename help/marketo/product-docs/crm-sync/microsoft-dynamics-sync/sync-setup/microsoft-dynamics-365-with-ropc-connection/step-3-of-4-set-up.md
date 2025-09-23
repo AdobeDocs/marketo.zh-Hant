@@ -3,7 +3,7 @@ description: 步驟4之3 — 在MS [!DNL Dynamics] 上設定使用者端應用�
 title: 步驟4之3 — 在MS [!DNL Dynamics]上設定使用者端應用程式
 exl-id: e7897174-3303-4c3b-8832-3e10f34fca96
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '296'
 ht-degree: 0%

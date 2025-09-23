@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352602
 description: 我的動態欄位未填寫 — Marketo檔案 — 產品檔案
-title: 我的動態欄位未填寫
+title: 我的動態欄位未填入資訊
 exl-id: fb3e8b56-506a-41f8-a84f-41370381c058
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '277'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 我的動態欄位未填寫 {#my-dynamic-fields-arent-filling-out}
+# 我的動態欄位未填入資訊 {#my-dynamic-fields-arent-filling-out}
 
 動態欄位只有在您使用範本時才有作用。 您撰寫的個別一次性電子郵件不會填滿這些內容。
 

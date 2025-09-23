@@ -4,7 +4,7 @@ description: Marketo [!DNL Outlook] Plugin Uninstall by IT - Marketo檔案 — �
 title: Marketo [!DNL Outlook] 外掛程式由IT解除安裝
 exl-id: 678684da-3e99-462f-9950-504df1c1bb1e
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 2%

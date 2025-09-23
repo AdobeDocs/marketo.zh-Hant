@@ -3,10 +3,10 @@ description: 電子郵件驗證 — Marketo檔案 — 產品檔案
 title: 電子郵件驗證
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
 feature: Users and Roles
-source-git-commit: 1df21d49f7ab29338ffe48f0d06302cc0fc792a1
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '469'
-ht-degree: 0%
+source-wordcount: '462'
+ht-degree: 1%
 
 ---
 
@@ -16,7 +16,7 @@ Adobe Marketo Engage訂閱需要所有非API的使用者(包括Marketo Engage管
 
 ## 為什麼要引入此功能 {#why-this-feature-was-introduced}
 
-Marketo Engage正在繼續推出電子郵件驗證，以準備將客戶移轉至Adobe Business Platform，包括使用者移轉至AdobeID。 此功能可增強現有Marketo Engage使用者帳戶的安全性。 為了確保Marketo Engage使用者與適當的Adobe ID相關聯，現有Marketo Engage使用者必須驗證其電子郵件地址。 Marketo Engage使用者必須擁有經過驗證的電子郵件地址，才能移轉至Adobe ID。 如果Marketo Engage使用者未驗證其電子郵件地址，則無法將他們移轉至Adobe ID，而且當使用者移轉訂閱完成後，將無法存取Marketo訂閱。
+Marketo Engage正在繼續推出電子郵件驗證，以準備將客戶移轉至Adobe Business Platform，包括使用者移轉至Adobe ID。 此功能可增強現有Marketo Engage使用者帳戶的安全性。 為了確保Marketo Engage使用者與適當的Adobe ID相關聯，現有Marketo Engage使用者必須驗證其電子郵件地址。 Marketo Engage使用者必須擁有經過驗證的電子郵件地址，才能移轉至Adobe ID。 如果Marketo Engage使用者未驗證其電子郵件地址，則無法將他們移轉至Adobe ID，而且當使用者移轉訂閱完成後，將無法存取Marketo訂閱。
 
 ## 使用者邀請 {#user-invite}
 
@@ -38,11 +38,11 @@ Marketo Engage正在繼續推出電子郵件驗證，以準備將客戶移轉至
 
 >[!TIP]
 >
->若要將驗證電子郵件重新傳送給未驗證的使用者，只要選取其記錄並按一下&#x200B;**[!UICONTROL 驗證電子郵件]**&#x200B;按鈕即可。
+>若要將驗證電子郵件重新傳送給未驗證的使用者，只要選取其記錄並按一下&#x200B;**[!UICONTROL Verify Email]**&#x200B;按鈕即可。
 
 ## 變更電子郵件地址 {#changing-an-email-address}
 
-使用者的電子郵件地址變更後，即會變成未驗證。 他們將會收到電子郵件，以便重新驗證。 使用者可以按一下&#x200B;**[!UICONTROL 重新傳送驗證]**，以手動方式重新傳送該電子郵件。
+使用者的電子郵件地址變更後，即會變成未驗證。 他們將會收到電子郵件，以便重新驗證。 使用者可以按一下&#x200B;**[!UICONTROL Resend Verification]**&#x200B;以手動方式重新傳送該電子郵件。
 
 ![](assets/email-verification-3.png)
 
@@ -50,13 +50,13 @@ Marketo Engage正在繼續推出電子郵件驗證，以準備將客戶移轉至
 
 ## 使用者和角色 {#users-and-roles}
 
-在&#x200B;**[!UICONTROL 管理員]** > **[!UICONTROL 使用者與角色]**&#x200B;中，[電子郵件狀態]欄會顯示每個使用者的驗證狀態。
+在&#x200B;**[!UICONTROL Admin]** > **[!UICONTROL Users & Roles]**&#x200B;中，「電子郵件狀態」欄會顯示每個使用者的驗證狀態。
 
 ![](assets/email-verification-5.png)
 
 ## 多個使用者登入ID {#multiple-user-login-ids}
 
-只有一個使用者帳戶可以與單一電子郵件地址建立關聯。 如果有多個使用者帳戶與單一電子郵件地址關聯，則Marketo Engage需要解決衝突，並顯示與電子郵件地址關聯的所有使用者登入，以及三個解決選項：
+只有一個使用者帳戶可以與單一電子郵件地址建立關聯。 如果有多個使用者帳戶與單一電子郵件地址關聯，Marketo Engage將需要解決衝突，並顯示與電子郵件地址關聯的所有使用者登入，以及三個解決方法選項：
 
 * 使用目前的電子郵件作為目前的使用者登入ID
 * 使用新電子郵件作為目前的使用者登入ID

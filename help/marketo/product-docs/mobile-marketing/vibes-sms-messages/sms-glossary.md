@@ -3,21 +3,21 @@ description: SMS字彙表 — Marketo檔案 — 產品檔案
 title: 簡訊字彙表
 feature: Mobile Marketing
 exl-id: 0c23ca9f-f994-42ae-bd72-7d37289b7a94
-source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '734'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 # 簡訊字彙表 {#sms-glossary}
 
-以下是您在搭配Marketo Engage使用Vibes SMS訊息時會遇到的一些常見詞語。
+以下是當您將Vibes SMS訊息與Marketo Engage搭配使用時可能會遇到的一些常見詞語。
 
 <table>
 <thead>
   <tr>
-    <th>詞語</th>
+    <th>術語</th>
     <th>定義</th>
   </tr>
 </thead>
@@ -32,10 +32,10 @@ ht-degree: 0%
   </tr>
   <tr>
     <td>公司金鑰</td>
-    <td>company_key是您平台帳戶的唯一英數字元識別碼。 如果您在Vibes平台中有多個公司帳戶（例如子帳戶），則可能會有多個company_keys。 Marketo Engage的每個執行個體只能對應至一個Vibes company_key。</td>
+    <td>company_key是您平台帳戶的唯一英數字元識別碼。 如果您在Vibes平台中有多個公司帳戶（例如子帳戶），則可能會有多個company_keys。 Marketo Engage的每個例項只能對應至一個Vibes company_key。</td>
   </tr>
   <tr>
-    <td>CTA （行動號召）</td>
+    <td>CTA (call to action)</td>
     <td>數位或實體招牌或口頭指令碼，用於取得定期簡訊節目或訂閱清單的訂閱者。 可以放線上上、社群媒體上、電子郵件中、印刷品等中。</td>
   </tr>
   <tr>

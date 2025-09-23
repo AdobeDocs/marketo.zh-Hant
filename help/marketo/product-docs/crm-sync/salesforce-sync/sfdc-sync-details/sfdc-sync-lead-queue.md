@@ -4,14 +4,14 @@ description: SFDC Sync — 潛在客戶佇列 — Marketo檔案 — 產品檔案
 title: SFDC同步 — 潛在客戶佇列
 exl-id: b3b5e14c-f914-429c-a4b9-6b535ad8e882
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# SFDC同步：潛在客戶佇列 {#sfdc-sync-lead-queue}
+# SFDC 同步：商機佇列 {#sfdc-sync-lead-queue}
 
 Marketo可讓您將人員新增至[[!DNL Salesforce] 潛在客戶佇列](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm)，以協助進行潛在客戶發佈。 詳情如下。
 

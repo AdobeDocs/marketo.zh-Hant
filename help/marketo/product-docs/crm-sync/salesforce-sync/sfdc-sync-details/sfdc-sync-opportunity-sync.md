@@ -4,14 +4,14 @@ description: SFDC同步 — Opportunity同步 — Marketo檔案 — 產品檔案
 title: SFDC同步 — 機會同步
 exl-id: f8acc528-c631-43f0-8899-2f3c6fdabe9e
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '279'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# SFDC同步：機會同步 {#sfdc-sync-opportunity-sync}
+# SFDC 同步：機會同步 {#sfdc-sync-opportunity-sync}
 
 ## 兩個系統之間的機會詳細資料如何保持同步？ {#how-are-opportunity-details-kept-in-sync-between-the-two-systems}
 

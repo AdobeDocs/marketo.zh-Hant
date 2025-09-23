@@ -3,8 +3,8 @@ description: 切換按鈕 - Marketo 文件 - 產品文件
 title: 切換按鈕
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
 feature: Modern UX
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '266'
 ht-degree: 100%
 

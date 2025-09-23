@@ -1,23 +1,23 @@
 ---
 unique-page-id: 11380789
-description: RCA中的指定帳戶Dimension- Marketo檔案 — 產品檔案
-title: RCA中的具名帳戶Dimension
+description: RCA中的指定帳戶Dimension - Marketo檔案 — 產品檔案
+title: RCA 中的已命名帳戶維度
 exl-id: 0c5d9fb9-94e3-4ad0-b024-26542c2d2fd3
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '149'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# RCA中的具名帳戶Dimension {#named-account-dimension-in-rca}
+# RCA 中的已命名帳戶維度 {#named-account-dimension-in-rca}
 
 使用Revenue Cycle Analytics中TAM專屬的具名帳戶維度來建立收入型報表。
 
 >[!NOTE]
 >
->**Dimension** — 提供測量不同檢視的屬性（以黃色點表示）。
+>**維度** — 提供測量不同檢視的屬性（以黃色點表示）。
 
 ![](assets/one-2.png)
 

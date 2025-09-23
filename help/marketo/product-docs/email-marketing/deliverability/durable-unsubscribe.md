@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10094576
 description: 永續性取消訂閱 — Marketo檔案 — 產品檔案
-title: 持久取消訂閱
+title: 持久性取消訂閱
 exl-id: e03a5a01-7395-45b3-8351-7931ec413236
 feature: Deliverability
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '286'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 持久取消訂閱 {#durable-unsubscribe}
+# 持久性取消訂閱 {#durable-unsubscribe}
 
 Marketo已增強取消訂閱功能的行為，讓其「經久耐用」。 我們已新增主要電子郵件狀態，這與人員詳細資料記錄上顯示的取消訂閱旗標不同。
 

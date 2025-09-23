@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359455
 description: 排程您的電子郵件程式 — Marketo檔案 — 產品檔案
-title: 排程您的電子郵件程式
+title: 安排您的電子郵件方案的執行時間
 exl-id: c125166f-3e0d-49a5-ad83-7abac51da713
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '128'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# 排程您的電子郵件程式 {#schedule-your-email-program}
+# 安排您的電子郵件方案的執行時間 {#schedule-your-email-program}
 
 >[!PREREQUISITES]
 >

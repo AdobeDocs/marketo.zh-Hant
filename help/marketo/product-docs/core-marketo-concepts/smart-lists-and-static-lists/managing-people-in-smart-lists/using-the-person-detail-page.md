@@ -4,10 +4,10 @@ description: 使用人員詳細資料頁面 — Marketo檔案 — 產品檔案
 title: 使用人員詳細資料頁面
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 feature: Smart Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '525'
-ht-degree: 23%
+ht-degree: 26%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 23%
 * 方案的&#x200B;**成員**&#x200B;標籤
 * 在Smart Campaign中&#x200B;**檢視行銷活動成員**
 * 某些&#x200B;**報告**
-  <br> 
+  <br>
 
 1. 連按兩下任何人員或按一下左側的ID。
 
@@ -60,7 +60,7 @@ ht-degree: 23%
 
 >[!NOTE]
 >
->您也可以看到透過API[插入的商機資訊](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/lead-database/opportunities)，瞭解未與CRM同步的執行個體。
+>您也可以看到透過API[插入的商機資訊](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities)，瞭解未與CRM同步的執行個體。
 
 ## 編輯欄位 {#editing-a-field}
 
@@ -88,7 +88,7 @@ ht-degree: 23%
 | Marketo社交[!DNL Twitter]像片URL | Marketo社交[!DNL Twitter]設定檔URL | Marketo社交[!DNL Twitter]觸及 | Marketo社交[!DNL Twitter]反向註冊 | Marketo社交[!DNL Twitter]轉介的造訪 |
 | 中間名 | 手機號碼 | 員工數 | 電話號碼 | 郵遞區號 |
 | 優先順序 | 相對分數 | 角色 | 稱謂 | 標準產業分類（SIC）代碼 |
-| 現場 | 狀態 | 退訂 | 退訂原因 | 更新時間 |
+| 現場 | 狀態 | 已取消訂閱 | 退訂原因 | 更新時間 |
 | 急迫性 | 網站 |  |  |  |
 
 >[!NOTE]

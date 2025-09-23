@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360235
 description: 建立機會影響分析器 — Marketo檔案 — 產品檔案
-title: 建立機會影響分析器
+title: 建立機會影響分析工具
 exl-id: a1ae4407-3668-4289-b177-fad1aee6c876
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '197'
-ht-degree: 1%
+ht-degree: 6%
 
 ---
 
-# 建立機會影響分析器 {#create-an-opportunity-influence-analyzer}
+# 建立機會影響分析工具 {#create-an-opportunity-influence-analyzer}
 
 使用機會影響分析器來顯示行銷對重要交易的貢獻。 檢視您的方案和事件成功，以及商機生活中的有趣時刻。
 

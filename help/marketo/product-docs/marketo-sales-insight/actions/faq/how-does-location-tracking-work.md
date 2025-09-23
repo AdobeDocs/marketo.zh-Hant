@@ -3,14 +3,14 @@ description: 位置追蹤如何運作 — Marketo檔案 — 產品檔案
 title: 位置追蹤如何運作
 exl-id: b4e0d121-0f3f-4477-b05a-466c8d2ac467
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '113'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 位置追蹤如何運作？ {#how-does-location-tracking-work}
+# 位置追蹤的運作原理是什麼？ {#how-does-location-tracking-work}
 
 如果我們誤解收件者的位置，以下是可能發生事件的三種可能性：
 

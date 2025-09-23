@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2360421
 description: 覆寫方案層級的Analytics行為 — Marketo檔案 — 產品檔案
-title: 覆寫方案層級的Analytics行為
+title: 在方案層級覆寫分析行為
 exl-id: 2fd86279-99ae-494d-a6f8-2572b7dcd892
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '184'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# 覆寫方案層級的Analytics行為 {#override-analytics-behavior-at-the-program-level}
+# 在方案層級覆寫分析行為 {#override-analytics-behavior-at-the-program-level}
 
 您可以在頻道[的管理員層級設定](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)分析行為，但您也可以在方案層級覆寫。 方法如下：
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**&#x200B;區域。
+1. 前往「**[!UICONTROL Marketing Activities]**」區域。
 
    ![](assets/image2014-9-24-11-3a40-3a46.png)
 

@@ -4,10 +4,10 @@ description: 編輯清單匯入的欄位別名 — Marketo檔案 — 產品檔�
 title: 編輯清單匯入的欄位別名
 exl-id: 0cc2f4c8-6858-4b41-bae3-4a8d267efe88
 feature: Field Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >**需要管理員許可權**
 
-1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/edit-field-aliases-for-list-import-1.png)
 

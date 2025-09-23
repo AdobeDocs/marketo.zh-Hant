@@ -1,18 +1,18 @@
 ---
-description: Marketo Sales Insight中的互動式網路研討會 — Marketo檔案 — 產品檔案
-title: Marketo Sales Insight中的互動式網路研討會
+description: Marketo銷售Insight中的互動式網路研討會 — Marketo檔案 — 產品檔案
+title: Marketo 銷售洞察中的互動式網路研討會
 feature: Interactive Webinars
 exl-id: 49185c9d-6b77-4360-929f-bfaf54a3f5ca
-source-git-commit: 19ccac27255d4dd9803400894bd025926b4331b2
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '223'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Marketo Sales Insight中的互動式網路研討會 {#interactive-webinars-in-marketo-sales-insight}
+# Marketo 銷售洞察中的互動式網路研討會 {#interactive-webinars-in-marketo-sales-insight}
 
-Marketo Sales Insight中的互動式網路研討會，可讓您在Salesforce的Marketo Sales Insight (MSI)外掛程式中取得網路研討會活動。
+Marketo銷售Insight中的互動式網路研討會，可讓您在Salesforce的Marketo銷售Insight (MSI)外掛程式中取得網路研討會活動。
 
 >[!PREREQUISITES]
 >

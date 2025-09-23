@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359810
 description: 為您的帳戶啟用個人化URL - Marketo檔案 — 產品檔案
-title: 為您的帳戶啟用個人化URL
+title: 啟用您帳戶的個人化 URL
 exl-id: 3964db0c-8f86-40aa-a3d7-da59824bdc4c
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '93'
-ht-degree: 4%
+ht-degree: 17%
 
 ---
 
-# 為您的帳戶啟用個人化URL {#enable-personalized-urls-for-your-account}
+# 啟用您帳戶的個人化 URL {#enable-personalized-urls-for-your-account}
 
 個人化URL非常適合列印郵件行銷活動。
 

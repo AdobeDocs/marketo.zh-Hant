@@ -1,16 +1,16 @@
 ---
 description: 將新管理員連線至Marketo - Marketo檔案 — 產品檔案
-title: 連線新管理員至Marketo
+title: 將新管理員連接至 Marketo
 exl-id: ef405bca-a29a-40fc-9efa-eccff5f45956
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '478'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 連線新管理員至Marketo {#connect-new-admin-to-marketo}
+# 將新管理員連接至 Marketo {#connect-new-admin-to-marketo}
 
 如果其他管理員已連線至Marketo，他們只需執行步驟1。
 

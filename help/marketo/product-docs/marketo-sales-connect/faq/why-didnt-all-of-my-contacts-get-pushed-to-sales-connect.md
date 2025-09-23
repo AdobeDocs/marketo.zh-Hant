@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352491
-description: 為什麼我所有的連絡人都沒有推送到Sales Connect？ - Marketo檔案 — 產品檔案
-title: 為什麼我所有的連絡人都沒有推送到Sales Connect？
+description: 為什麼我所有的連絡人都沒有推送到Sales Connect？ - Marketo 文件 - 產品文件
+title: 為什麼我的聯絡人沒有全部被推送至 Sales Connect？
 exl-id: 53ea29c1-fe48-4808-933a-3ab1744a7d7e
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 0%
+ht-degree: 17%
 
 ---
 

@@ -1,16 +1,16 @@
 ---
 unique-page-id: 2953243
 description: 通知型別 — Marketo檔案 — 產品檔案
-title: 通知型別
+title: 通知類型
 exl-id: 384cea0a-6252-4600-9211-aa5d6a7e875c
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '235'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# 通知型別 {#notification-types}
+# 通知類型 {#notification-types}
 
 通知型別有幾種。
 
@@ -18,7 +18,7 @@ ht-degree: 1%
 
 行銷活動失敗會通知您智慧型行銷活動中的錯誤。
 
-## CRM同步 {#crm-sync}
+## CRM 同步 {#crm-sync}
 
 CRM同步通知會針對CRM同步處理發現的關鍵問題提醒您，例如許可權不正確或同步處理已關閉。
 
@@ -60,4 +60,4 @@ CRM同步通知會針對CRM同步處理發現的關鍵問題提醒您，例如�
 
 >[!NOTE]
 >
->我們在[開發人員檔案](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/error-codes)中列出您可能會收到的部分錯誤碼。
+>我們在[開發人員檔案](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes)中列出您可能會收到的部分錯誤碼。

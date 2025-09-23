@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359553
 description: 新增電子郵件達人/挑戰者 — Marketo檔案 — 產品檔案
-title: 新增電子郵件達人/挑戰者
+title: 新增電子郵件衛冕者/挑戰者
 exl-id: 69c4a146-5d76-44c3-a63c-4e15f8b9aeb1
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '200'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 新增電子郵件達人/挑戰者 {#add-an-email-champion-challenger}
+# 新增電子郵件衛冕者/挑戰者 {#add-an-email-champion-challenger}
 
 建議您測試您經常使用的任何電子郵件，以確保它們正常運作。 一種方式是將電子郵件與其他版本或挑戰者的有效性進行比較。 在冠軍/挑戰者測試中，您可以測試整個電子郵件、主旨行或寄件者地址。
 

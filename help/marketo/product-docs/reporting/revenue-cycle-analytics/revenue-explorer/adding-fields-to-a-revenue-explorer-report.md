@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7504383
 description: 新增欄位至收入總管報表 — Marketo檔案 — 產品檔案
-title: 新增欄位至收入總管報表
+title: 在營收總管報告中新增欄位
 exl-id: af4d7885-68ca-4ecf-b0fa-a5cf72bea168
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '163'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# 新增欄位至收入總管報表 {#adding-fields-to-a-revenue-explorer-report}
+# 在營收總管報告中新增欄位 {#adding-fields-to-a-revenue-explorer-report}
 
 將維度和量度欄位拖放至畫布，以自訂收入總管報表。
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900575
 description: 新增電子郵件指令碼Token至您的電子郵件 — Marketo檔案 — 產品檔案
-title: 新增電子郵件指令碼Token至您的電子郵件
+title: 新增電子郵件指令碼權杖至您的電子郵件
 exl-id: 41ef7c21-06af-4950-a19e-017e2417044e
 feature: Tokens
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '159'
-ht-degree: 2%
+ht-degree: 16%
 
 ---
 
-# 新增電子郵件指令碼Token至您的電子郵件 {#add-an-email-script-token-to-your-email}
+# 新增電子郵件指令碼權杖至您的電子郵件 {#add-an-email-script-token-to-your-email}
 
 在您[建立您的電子郵件指令碼](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)後，您會想要將它新增至電子郵件以檢視其運作情況。 方法如下。
 
@@ -19,7 +19,7 @@ ht-degree: 2%
 >
 >插入單一電子郵件中所有指令碼Token的總計大小不得超過100KB。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**&#x200B;區域。
+1. 前往「**[!UICONTROL Marketing Activities]**」區域。
 
    ![](assets/one-2.png)
 

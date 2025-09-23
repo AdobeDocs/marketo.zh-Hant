@@ -1,29 +1,29 @@
 ---
 unique-page-id: 2949247
 description: SEO — 手動新增傳入連結URL - Marketo檔案 — 產品檔案
-title: SEO — 手動新增傳入連結URL
+title: SEO - 手動新增傳入連結 URL
 exl-id: 55a74540-4c18-429f-9c9b-76dbbcde0c35
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 0%
+source-wordcount: '84'
+ht-degree: 19%
 
 ---
 
-# SEO — 手動新增傳入連結URL {#seo-add-an-inbound-link-url-manually}
+# SEO - 手動新增傳入連結 URL {#seo-add-an-inbound-link-url-manually}
 
 您可以手動新增傳入連結。 方法如下：
 
-1. 移至&#x200B;**[!UICONTROL 傳入連結]**&#x200B;區段。
+1. 移至&#x200B;**[!UICONTROL Inbound Links]**&#x200B;區段。
 
    ![](assets/image2014-9-18-13-3a40-3a3.png)
 
-1. 按一下&#x200B;**[!UICONTROL 新增URL]**。
+1. 按一下「**[!UICONTROL Add URLs]**」。
 
    ![](assets/image2014-9-18-13-3a40-3a8.png)
 
-1. 輸入URL。 按一下&#x200B;**[!UICONTROL 新增]**。
+1. 輸入URL。 按一下「**[!UICONTROL Add]**」。
 
    ![](assets/image2014-9-18-13-3a40-3a32.png)
 

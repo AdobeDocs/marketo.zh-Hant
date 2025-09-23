@@ -4,14 +4,14 @@ description: 發行說明 — 2013年10月 — Marketo檔案 — 產品檔案
 title: 版本注意事項 - 2013 年 10 月
 exl-id: f392521e-a5bd-47cd-af5c-d801718ca4e0
 feature: Release Information
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 3%
+ht-degree: 6%
 
 ---
 
-# 發行說明： 2013年10月 {#release-notes-october}
+# 發行說明：2013 年 10 月 {#release-notes-october}
 
 2013年10月發行版本包含下列功能。
 

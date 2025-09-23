@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147138
 description: 從排程檢視重新排程整個計畫 — Marketo檔案 — 產品檔案
-title: 從排程檢視重新排程整個方案
+title: 在排程視圖重新安排整個方案的時間
 exl-id: 3debeff2-67ce-4b59-be5b-ce8cc198f4a0
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 0%
+ht-degree: 16%
 
 ---
 
-# 從排程檢視重新排程整個方案 {#rescheduling-an-entire-program-from-the-schedule-view}
+# 在排程視圖重新安排整個方案的時間 {#rescheduling-an-entire-program-from-the-schedule-view}
 
 當您複製包含日期的方案或事件時，您可能會想要一次重新排程所有日期。 方法如下。
 

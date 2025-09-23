@@ -1,28 +1,28 @@
 ---
 description: 電子郵件追蹤連結標題 — Marketo檔案 — 產品檔案
-title: 電子郵件追蹤連結標題
+title: 電子郵件追蹤連結標頭
 exl-id: 2db1f1b3-3afe-4710-a8b1-b06fbf09ec8c
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 0%
+source-wordcount: '99'
+ht-degree: 9%
 
 ---
 
-# 電子郵件追蹤連結標題 {#email-tracking-link-headers}
+# 電子郵件追蹤連結標頭 {#email-tracking-link-headers}
 
 請依照下列步驟自訂您的電子郵件追蹤連結標題。
 
-1. 在Marketo中，按一下&#x200B;**[!UICONTROL 管理員]**。
+1. 在Marketo中，按一下&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/email-tracking-link-headers-1.png)
 
-1. 按一下&#x200B;**[!UICONTROL 電子郵件]**。
+1. 按一下「**[!UICONTROL Email]**」。
 
    ![](assets/email-tracking-link-headers-2.png)
 
-1. 向下捲動至「自訂標頭選項」。 選擇您想要的設定，然後按一下&#x200B;**[!UICONTROL 儲存變更]**。
+1. 向下捲動至「自訂標頭選項」。 選擇您想要的設定，然後按一下&#x200B;**[!UICONTROL Save Changes]**。
 
    ![](assets/email-tracking-link-headers-3.png)
 

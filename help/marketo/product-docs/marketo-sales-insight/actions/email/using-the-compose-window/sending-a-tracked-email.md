@@ -1,16 +1,16 @@
 ---
 description: 傳送追蹤電子郵件 — Marketo檔案 — 產品檔案
-title: 傳送追蹤的電子郵件
+title: 傳送被追蹤的電子郵件
 hide: true
 hidefromtoc: true
-source-git-commit: 1dd4a4f6bfac0b101f85f3776396aeef1a1f7182
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '198'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 傳送追蹤的電子郵件 {#sending-a-tracked-email}
+# 傳送被追蹤的電子郵件 {#sending-a-tracked-email}
 
 使用Marketo Sales Connect傳送電子郵件時，將會追蹤檢視（電子郵件開啟）和點按（連結點按）。
 

@@ -1,28 +1,28 @@
 ---
 description: 建立對話方塊 — Marketo檔案 — 產品檔案
-title: 建立對話方塊
+title: 建立對話
 feature: Dynamic Chat
 exl-id: 7de6ba05-39d5-41b9-921b-50bf5b2c5581
-source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 0%
+source-wordcount: '75'
+ht-degree: 9%
 
 ---
 
-# 建立對話方塊 {#create-a-dialogue}
+# 建立對話 {#create-a-dialogue}
 
 以下說明如何建立新的對話方塊。
 
-1. 按一下&#x200B;**[!UICONTROL 對話方塊]**。
+1. 按一下「**[!UICONTROL Dialogues]**」。
 
    ![](assets/create-a-dialogue-1.png)
 
-1. 按一下&#x200B;**[!UICONTROL 新建]**&#x200B;按鈕。
+1. 按一下&#x200B;**[!UICONTROL Create New]**&#x200B;按鈕。
 
    ![](assets/create-a-dialogue-2.png)
 
-1. 選擇空白對話方塊，或其中一個預先填入的範本。 輸入名稱（說明是選擇性的）、變更優先順序層級（選擇性），然後按一下&#x200B;**[!UICONTROL 建立]**。
+1. 選擇空白對話方塊，或其中一個預先填入的範本。 輸入名稱（說明為選用）、變更優先順序層級（選用），然後按一下&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/create-a-dialogue-3.png)
 

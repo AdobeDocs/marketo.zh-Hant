@@ -1,16 +1,16 @@
 ---
 unique-page-id: 2952484
 description: 重新命名Marketo資產 — Marketo檔案 — 產品檔案
-title: 重新命名Marketo資產
+title: 重新命名 Marketo 資產
 exl-id: 2c8a64fc-663d-4953-b66c-4055e07f1404
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 2%
+source-wordcount: '79'
+ht-degree: 11%
 
 ---
 
-# 重新命名Marketo資產 {#rename-a-marketo-asset}
+# 重新命名 Marketo 資產 {#rename-a-marketo-asset}
 
 資料夾、程式和本機資產都可輕鬆重新命名。
 
@@ -18,7 +18,7 @@ ht-degree: 2%
 
    ![](assets/image2015-4-10-17-19-48.png)
 
-1. 在文字欄位中輸入新名稱。 按一下&#x200B;**[!UICONTROL 保存]**。
+1. 在文字欄位中輸入新名稱。 按一下「**[!UICONTROL Save]**」。
 
    ![](assets/image2015-4-10-17-3a19-3a33.png)
 

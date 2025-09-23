@@ -1,17 +1,17 @@
 ---
 unique-page-id: 37357302
 description: 電子郵件欄和電子郵件頁面配置 — Marketo檔案 — 產品檔案
-title: 電子郵件欄和電子郵件頁面配置
+title: 電子郵件欄和電子郵件頁面版面
 exl-id: 689220e1-5ace-4225-98ff-21afd97f071b
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '457'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 電子郵件欄和電子郵件頁面配置 {#email-columns-and-email-page-layout}
+# 電子郵件欄和電子郵件頁面版面 {#email-columns-and-email-page-layout}
 
 您可以設定任何可在[!UICONTROL Command Center]的電子郵件區段中顯示的可用欄。 將會為每個電子郵件子資料夾（例如[!UICONTROL Delivered]、[!UICONTROL Failed]、[!UICONTROL Scheduled]等）儲存您的組態設定。
 

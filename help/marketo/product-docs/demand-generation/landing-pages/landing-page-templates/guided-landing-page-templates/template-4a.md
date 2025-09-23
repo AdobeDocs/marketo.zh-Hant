@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8162237
 description: 範本4A - Marketo檔案 — 產品檔案
-title: 範本4A
+title: 範本 4A
 exl-id: a20817e4-dbdd-4f08-9b4e-602da6b75d70
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '49'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# 範本4A {#template-4a}
+# 範本 4A {#template-4a}
 
-按一下滑鼠右鍵以[下載範本4A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4a.html?lang=zh-Hant)
+按一下滑鼠右鍵以[下載範本4A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4a.html)
 
 ![](assets/image2015-6-29-16-3a2-3a6.png)
 
@@ -29,4 +29,4 @@ ht-degree: 0%
 
 **在下方按一下滑鼠右鍵以下載此範本：**
 
-[範本4A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4a.html?lang=zh-Hant)
+[範本4A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4a.html)

@@ -1,33 +1,33 @@
 ---
 unique-page-id: 5472404
 description: 找出人員的活動記錄 — Marketo檔案 — 產品檔案
-title: 尋找個人的活動記錄
+title: 尋找人員的活動記錄
 exl-id: c4018711-e68d-4684-ac3d-a5e10b138a86
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 0%
+source-wordcount: '122'
+ht-degree: 15%
 
 ---
 
-# 尋找個人的活動記錄 {#locate-the-activity-log-for-a-person}
+# 尋找人員的活動記錄 {#locate-the-activity-log-for-a-person}
 
-活動記錄檔是最終的真實來源。 這是一個人在Marketo Engage中的完整歷程故事。
+活動記錄檔是最終的真實來源。 這是個人在Marketo Engage歷程的完整故事。
 
-1. 移至&#x200B;**[!UICONTROL 資料庫]**。
+1. 移至&#x200B;**[!UICONTROL Database]**。
 
    ![](assets/locate-the-activity-log-for-a-person-1.png)
 
-1. 選取&#x200B;**[!UICONTROL 所有人員]**。
+1. 選取「**[!UICONTROL All People]**」。
 
    ![](assets/locate-the-activity-log-for-a-person-2.png)
 
-1. 按一下「**[!UICONTROL 人員]**」標籤。 選取人員&#x200B;**[!UICONTROL 識別碼]**&#x200B;號碼。
+1. 按一下「**[!UICONTROL People]**」索引標籤。選取人員&#x200B;**[!UICONTROL Id]**&#x200B;號碼。
 
    ![](assets/locate-the-activity-log-for-a-person-3.png)
 
-1. 按一下&#x200B;**[!UICONTROL 活動記錄]**。
+1. 按一下「**[!UICONTROL Activity Log]**」。
 
    ![](assets/locate-the-activity-log-for-a-person-4.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360352
 description: 設定SOAP API設定 — Marketo檔案 — 產品檔案
-title: 設定SOAP API
+title: 設定您的 SOAP API 設定
 exl-id: a848f5c5-b3ca-40cc-9202-467f26d3916f
 feature: Administration
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 0%
+source-wordcount: '72'
+ht-degree: 22%
 
 ---
 
-# 設定SOAP API {#configuring-your-soap-api-settings}
+# 設定您的 SOAP API 設定 {#configuring-your-soap-api-settings}
 
 >[!NOTE]
 >
@@ -21,22 +21,22 @@ ht-degree: 0%
 >
 >**需要管理員許可權**
 
-1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/configuring-your-soap-api-settings-1.png)
 
-1. 按一下&#x200B;**[!UICONTROL 網站服務]**。
+1. 按一下「**[!UICONTROL Web Services]**」。
 
    ![](assets/configuring-your-soap-api-settings-2.png)
 
-1. 設定適當的&#x200B;**[!UICONTROL 加密金鑰]**，按一下&#x200B;**[!UICONTROL 儲存變更]**，然後將所有資訊傳送給您的開發人員。
+1. 設定適當的&#x200B;**[!UICONTROL Encryption Key]**，按一下&#x200B;**[!UICONTROL Save Changes]**，然後傳送所有資訊給您的開發人員。
 
    ![](assets/configuring-your-soap-api-settings-3.png)
 
 >[!CAUTION]
 >
->您的SOAP端點和[!UICONTROL 使用者ID]將是唯一的；請勿將此文章中的熒幕擷圖傳送給您的開發人員。
+>您的SOAP端點和[!UICONTROL User ID]將是唯一的；請勿將此文章中的熒幕擷圖傳送給您的開發人員。
 
 >[!MORELIKETHIS]
 >
->[SOAP API檔案](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/soap/soap-api)
+>[SOAP API檔案](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api)

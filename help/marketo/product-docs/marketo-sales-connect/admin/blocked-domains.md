@@ -1,17 +1,17 @@
 ---
 unique-page-id: 18317338
 description: 封鎖的網域 — Marketo檔案 — 產品檔案
-title: 封鎖的網域
+title: 已封鎖的網域
 exl-id: 67e27112-8ade-4167-9c58-8a6839bdb6cc
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '88'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 封鎖的網域 {#blocked-domains}
+# 已封鎖的網域 {#blocked-domains}
 
 防止您的銷售團隊不小心寄送電子郵件給競爭對手、已知的垃圾郵件陷阱，或任何其他您不想聯絡的網域，以協助他們取得成功。
 

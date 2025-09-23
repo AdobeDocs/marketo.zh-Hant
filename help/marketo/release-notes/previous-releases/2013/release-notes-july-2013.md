@@ -4,14 +4,14 @@ description: 發行說明 — 2013年7月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2013年7月
 exl-id: efff413f-99fe-4db6-839b-1a922f8581d9
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '202'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 發行說明： 2013年7月 {#release-notes-july}
+# 發行說明：2013 年 7 月 {#release-notes-july}
 
 下列功能包含在7月發行版本中，該版本預計於7月26日星期五推出。
 

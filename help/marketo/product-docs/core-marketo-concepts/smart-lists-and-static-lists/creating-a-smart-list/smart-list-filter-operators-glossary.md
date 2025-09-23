@@ -1,17 +1,17 @@
 ---
 unique-page-id: 557312
 description: 智慧清單篩選器運運算元字彙表 — Marketo檔案 — 產品檔案
-title: 智慧清單篩選器運運算元字彙表
+title: 智慧清單篩選器運算子字彙表
 exl-id: 5a370482-f214-4909-bb49-801c1a36b153
 feature: Smart Lists
-source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '616'
-ht-degree: 11%
+source-wordcount: '603'
+ht-degree: 15%
 
 ---
 
-# 智慧清單篩選器運運算元字彙表 {#smart-list-filter-operators-glossary}
+# 智慧清單篩選器運算子字彙表 {#smart-list-filter-operators-glossary}
 
 運運算元是智慧清單的一部分，可協助您取得特定的。 它可讓您以直截了當的語言描述您的篩選器或觸發器。 每種欄位型別的可用運運算元都不同。
 
@@ -92,23 +92,23 @@ ht-degree: 11%
   </tr>
   <tr>
     <td>是空的</td>
-    <td>無</td>
+    <td>None</td>
     <td>沒有日期的所有記錄</td>
   </tr>
   <tr>
     <td>不是空的</td>
-    <td>無</td>
+    <td>None</td>
     <td>包含任何日期的所有記錄</td>
   </tr>
 </tbody></table>
 
 **&#42;**&#x200B;自然語言輸入很酷。 以下是您可以輸入的一些模式：
 
-* 1小時
-* 82天
-* 3週
-* 14個月
-* 1年
+* 1 小時
+* 82 天
+* 3 週
+* 14 個月
+* 1 年
 
 只要輸入數字和單位就行了！
 
@@ -118,7 +118,7 @@ ht-degree: 11%
 
 >[!CAUTION]
 >
->當您使用日期欄位篩選器（例如，出生日期、SFDC建立日期）建立智慧清單，並使用條件約束&#x200B;**[!UICONTROL 在]**&#x200B;之前、**[!UICONTROL 在]**&#x200B;之前或之前，或&#x200B;**[!UICONTROL 在]**&#x200B;之前時，智慧清單也會包含在該日期欄位中沒有任何值的人員。
+>當您使用日期欄位篩選器(例如，出生日期、SFDC建立日期)建立智慧清單，並使用限制&#x200B;**[!UICONTROL before]**、**[!UICONTROL on or before]**&#x200B;或&#x200B;**[!UICONTROL in past before]**&#x200B;時，智慧清單也會包含該日期欄位中沒有值的人員。
 
 請使用下圖來瞭解日期運運算元之間的差異。
 
@@ -130,11 +130,11 @@ ht-degree: 11%
 >
 >當您處理過去和未來的事件時，日期欄位可能會很棘手。 以下是一些範例。
 >
->**[!UICONTROL 過去早於]**
+>**[!UICONTROL In past before]**
 >
 >對於新的促銷活動，使用此運運算元傳送電子郵件給未在一年內訂閱或續約您的服務，或從未訂閱的人。
 >
->**[!UICONTROL 未來]**&#x200B;之後
+>**[!UICONTROL In future after]**
 >
 >假設您想檢視在90天內需要續約的客戶。 您可以使用兩個不同的篩選器。 第一次使用「未來90天後」，第二次使用「未來91天」。 這會擷取從現在起的90天後的日期。
 

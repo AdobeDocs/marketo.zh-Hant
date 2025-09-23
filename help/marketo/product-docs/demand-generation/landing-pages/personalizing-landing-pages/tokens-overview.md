@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2950799
 description: Token概述 — Marketo檔案 — 產品檔案
-title: Token概述
+title: 權杖概觀
 exl-id: d60816ce-33fb-4e18-8acd-71d4e90f47de
 feature: Landing Pages
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '296'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Token概述 {#tokens-overview}
+# 權杖概觀 {#tokens-overview}
 
 代號是可用於Marketo智慧行銷活動流程步驟、電子郵件、登陸頁面、代碼片段和網頁行銷活動的變數。
 

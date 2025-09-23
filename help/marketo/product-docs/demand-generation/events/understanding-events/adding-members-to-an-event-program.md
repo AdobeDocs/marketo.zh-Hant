@@ -1,17 +1,17 @@
 ---
 unique-page-id: 37355758
 description: 將成員新增至事件程式 — Marketo檔案 — 產品檔案
-title: 將成員新增至事件程式
+title: 新增成員至事件方案
 exl-id: 05bd4807-3ab8-452d-a389-b22477cf7445
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '165'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# 將成員新增至事件程式 {#adding-members-to-an-event-program}
+# 新增成員至事件方案 {#adding-members-to-an-event-program}
 
 本文僅適用於使用事件上限或事件目標的使用者。
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. 選取&#x200B;**[!UICONTROL Run Now]**&#x200B;並按一下&#x200B;**[!UICONTROL Run]**。
+1. 選取「**[!UICONTROL Run Now]**」然後按一下「**[!UICONTROL Run]**」。
 
    ![](assets/nine.png)
 

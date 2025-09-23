@@ -1,25 +1,25 @@
 ---
 unique-page-id: 1146972
 description: 排程週期性批次行銷活動 — Marketo檔案 — 產品檔案
-title: 排程週期性批次行銷活動
+title: 安排定期批次行銷活動的時間
 exl-id: b7a931b0-5061-4c4f-8084-4938254a4d9c
 feature: Smart Campaigns
-source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 0%
+source-wordcount: '133'
+ht-degree: 11%
 
 ---
 
-# 排程週期性批次行銷活動 {#schedule-a-recurring-batch-campaign}
+# 安排定期批次行銷活動的時間 {#schedule-a-recurring-batch-campaign}
 
 週期可讓您定期執行批次行銷活動。 例如 — 每週一次，星期二上午10:00。
 
-1. 選取Smart Campaign，移至&#x200B;**[!UICONTROL 排程]**&#x200B;標籤，然後按一下&#x200B;**[!UICONTROL 排程週期]**。
+1. 選取Smart Campaign，前往&#x200B;**[!UICONTROL Schedule]**&#x200B;標籤，然後按一下&#x200B;**[!UICONTROL Schedule Recurrence]**。
 
    ![](assets/schedule-a-recurring-batch-campaign-1.png)
 
-1. 按一下&#x200B;**[!UICONTROL 排程]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL 每週]**。
+1. 按一下「**[!UICONTROL Schedule]**」下拉式選單，選取「**[!UICONTROL Weekly]**」。
 
    ![](assets/schedule-a-recurring-batch-campaign-2.png)
 
@@ -31,13 +31,13 @@ ht-degree: 0%
 
    ![](assets/schedule-a-recurring-batch-campaign-4.png)
 
-1. 保留&quot;[!UICONTROL 每隔]&quot;為1，選取星期二並按一下&#x200B;**[!UICONTROL 儲存]**。
+1. 保留&quot;[!UICONTROL Repeat every]&quot;為1，選取星期二並按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/schedule-a-recurring-batch-campaign-5.png)
 
    >[!NOTE]
    >
-   >針對特定的執行長度，您可以按一下&#x200B;**[!UICONTROL 結束日期]**&#x200B;旁的行事曆圖示，並選擇結束日期。
+   >針對特定的執行長度，您可以按一下&#x200B;**[!UICONTROL End on]**&#x200B;旁的行事曆圖示並選擇結束日期。
 
 排定的遞回專案會顯示在「排程」索引標籤的底部。
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949154
 description: 為您的網頁行銷活動加上標籤 — Marketo檔案 — 產品檔案
-title: 為您的網頁行銷活動加上標籤
+title: 將您的網頁行銷活動加上標籤
 exl-id: 891772c8-dc4d-46a4-b254-4baf0a74f9de
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '151'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 為您的網頁行銷活動加上標籤 {#label-your-web-campaigns}
+# 將您的網頁行銷活動加上標籤 {#label-your-web-campaigns}
 
 您有這麼多行銷活動，導致捲動變得繁瑣嗎？ 使用標籤來標籤行銷活動，以便您可以排序並快速尋找。
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359610
 description: 變更表單字型大小 — Marketo檔案 — 產品檔案
-title: 變更表單字型大小
+title: 變更表單字體大小
 exl-id: 20774590-9209-4c3f-a791-dcbe7bb38031
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 1%
+ht-degree: 13%
 
 ---
 
-# 變更表單字型大小 {#change-the-form-font-size}
+# 變更表單字體大小 {#change-the-form-font-size}
 
 Marketo可讓您輕鬆自訂表單的外觀和風格。 您可能想要變更字型大小。 方法如下。
 

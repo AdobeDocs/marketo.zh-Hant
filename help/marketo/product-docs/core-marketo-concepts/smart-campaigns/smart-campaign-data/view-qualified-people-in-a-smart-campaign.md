@@ -1,21 +1,21 @@
 ---
 unique-page-id: 1146966
 description: 在Smart Campaign中檢視合格人員 — Marketo檔案 — 產品檔案
-title: 在Smart Campaign中檢視合格的人員
+title: 檢視在智慧行銷活動中符合條件的人員
 exl-id: 84fb5c85-d794-4eb3-b74c-242c76ecdd1d
 feature: Smart Campaigns
-source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 0%
+source-wordcount: '163'
+ht-degree: 8%
 
 ---
 
-# 在Smart Campaign中檢視合格的人員 {#view-qualified-people-in-a-smart-campaign}
+# 檢視在智慧行銷活動中符合條件的人員 {#view-qualified-people-in-a-smart-campaign}
 
 在您執行Smart Campaign時，檢視符合流量通過資格的人員。
 
-1. 在您的Smart Campaign中，按一下&#x200B;**[!UICONTROL 排程]**&#x200B;索引標籤。 在「智慧列示狀態」中，按一下第一個連結。
+1. 在您的Smart Campaign中，按一下&#x200B;**[!UICONTROL Schedule]**&#x200B;標籤。 在「智慧列示狀態」中，按一下第一個連結。
 
 ![](assets/view-qualified-people-in-a-smart-campaign-1.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >觸發行銷活動不顯示合格人員，因為它們會根據即時事件執行。
 
-1. **[!UICONTROL 合格人員]**&#x200B;索引標籤會列出在行銷活動執行時符合通過流程的人員。
+1. **[!UICONTROL Qualified People]**&#x200B;索引標籤會列出當行銷活動執行時符合通過流程的人員。
 
    ![](assets/view-qualified-people-in-a-smart-campaign-2.png)
 

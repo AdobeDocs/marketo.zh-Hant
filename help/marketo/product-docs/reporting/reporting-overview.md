@@ -1,16 +1,16 @@
 ---
 description: 報表概觀 — Marketo檔案 — 產品檔案
-title: 報表概觀
+title: 報告概觀
 exl-id: 62b4b9fc-a4fe-4298-947b-1ff453321464
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '387'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 報表概觀 {#reporting-overview}
+# 報告概觀 {#reporting-overview}
 
 Marketo提供各種報表模組以滿足不同需求。
 
@@ -18,11 +18,11 @@ Marketo提供各種報表模組以滿足不同需求。
 
 您可以在程式或Analytics區域中設定[基本報表](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}。 基本報表包含不同型別的現成報表，且可彈性篩選、排序和調整時間跨度。
 
-## 電子郵件深入分析 {#email-insights}
+## 電子郵件洞察 {#email-insights}
 
 使用Analytics和傳送功能，從歷史資料取得電子郵件[強大的深入分析](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target="_blank"}。
 
-## 效能分析 {#performance-insights}
+## 績效洞察 {#performance-insights}
 
 [績效深入分析](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target="_blank"}涵蓋參與、管道和收入產生的管道績效和方案績效。
 

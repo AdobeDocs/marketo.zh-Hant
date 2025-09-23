@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719304
 description: 隱含的Salesforce動作 — Marketo檔案 — 產品檔案
-title: 隱含的Salesforce動作
+title: 隱含的 Salesforce 動作
 exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
 feature: Salesforce Integration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '136'
-ht-degree: 0%
+ht-degree: 27%
 
 ---
 
-# 隱含的Salesforce動作 {#implied-salesforce-actions}
+# 隱含的 Salesforce 動作 {#implied-salesforce-actions}
 
 當[!DNL Salesforce]特定的流程步驟執行時，有時會自動執行額外的步驟。 規則如下，您知道：
 
@@ -26,24 +26,24 @@ ht-degree: 0%
  </thead>
  <tbody>
   <tr>
-   <td>新增至SFDC Campaign</td>
-   <td>將人員同步至SFDC</td>
+   <td>新增至 SFDC 行銷活動</td>
+   <td>將人員同步至 SFDC</td>
   </tr>
   <tr>
-   <td>在SFDC Campaign中變更狀態</td>
+   <td>在 SFDC 行銷活動中變更狀態</td>
    <td>將人員同步至SFDC<br>新增至SFDC Campaign</td>
   </tr>
   <tr>
-   <td>變更擁有者</td>
-   <td><p>將人員同步至SFDC</p></td>
+   <td>變更所有者</td>
+   <td><p>將人員同步至 SFDC</p></td>
   </tr>
   <tr>
    <td>轉換人員</td>
-   <td><p>將人員同步至SFDC</p></td>
+   <td><p>將人員同步至 SFDC</p></td>
   </tr>
   <tr>
-   <td>建立任務</td>
-   <td>將人員同步至SFDC</td>
+   <td>建立工作</td>
+   <td>將人員同步至 SFDC</td>
   </tr>
  </tbody>
 </table>

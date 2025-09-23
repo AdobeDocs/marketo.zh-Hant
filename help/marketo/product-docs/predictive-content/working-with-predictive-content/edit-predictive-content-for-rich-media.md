@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11385940
 description: 編輯多媒體預測性內容 — Marketo檔案 — 產品檔案
-title: 編輯多媒體預測性內容
+title: 編輯豐富媒體的預測內容
 exl-id: 6c1161dd-cefe-4b0f-8942-396d4b7db701
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '208'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# 編輯多媒體預測性內容 {#edit-predictive-content-for-rich-media}
+# 編輯豐富媒體的預測內容 {#edit-predictive-content-for-rich-media}
 
 以下說明如何設定多媒體預測性內容。
 

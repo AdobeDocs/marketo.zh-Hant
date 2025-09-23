@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719404
 description: AB測試您的網站行銷活動 — Marketo檔案 — 產品檔案
-title: AB測試您的網站行銷活動
+title: 對網頁行銷活動進行 AB 測試
 exl-id: 65d61b96-d39b-4388-971d-260c9c0aff93
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '301'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
-# AB測試您的網站行銷活動 {#ab-test-your-web-campaign}
+# 對網頁行銷活動進行 AB 測試 {#ab-test-your-web-campaign}
 
 測試是最佳化網頁行銷活動的好方法，可提升參與度。 以下說明如何開始使用。
 
@@ -39,7 +39,7 @@ ht-degree: 1%
 
    ![](assets/image2014-11-26-16-3a47-3a18.png)
 
-1. 輸入&#x200B;**分割測試群組名稱**，按一下&#x200B;**[!UICONTROL Create]**。 選擇「**[!UICONTROL Auto Tune]**」。
+1. 輸入&#x200B;**分割測試群組名稱**，按一下&#x200B;**[!UICONTROL Create]**。 選取「**[!UICONTROL Auto Tune]**」。
 
    ![](assets/image2014-11-26-16-3a52-3a24.png)
 
@@ -55,7 +55,7 @@ ht-degree: 1%
 
    ![](assets/image2016-11-4-13-3a51-3a39.png)
 
-1. 在&#x200B;**[!UICONTROL Set Campaign]**&#x200B;頁面中，選取&#x200B;**分割測試**，然後從下拉式清單中選擇&#x200B;**群組**。 選擇「**[!UICONTROL Auto Tune]**」。
+1. 在&#x200B;**[!UICONTROL Set Campaign]**&#x200B;頁面中，選取&#x200B;**分割測試**，然後從下拉式清單中選擇&#x200B;**群組**。 選取「**[!UICONTROL Auto Tune]**」。
 
    ![](assets/image2014-11-26-17-3a2-3a17.png)
 

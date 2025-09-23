@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719402
 description: 建立新的Widget網頁促銷活動 — Marketo檔案 — 產品檔案
-title: 建立新的Widget Web行銷活動
+title: 建立新的小工具網頁行銷活動
 exl-id: e00f5be7-1d33-4659-8f38-b74b53eeb09f
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '610'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 建立新的Widget Web行銷活動 {#create-a-new-widget-web-campaign}
+# 建立新的小工具網頁行銷活動 {#create-a-new-widget-web-campaign}
 
 網路行銷活動是與特定區段關聯的自訂反應，可以是您網站上的[對話方塊](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)、區域取代[中的](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)、Widget功能或電子郵件警示。 Widget網路促銷活動是出現在網頁垂直側的文字或橫幅，能夠展開和收縮，同時在整個造訪期間都固定在網站頁面上。
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/image2016-8-18-15-3a57-3a46.png)
 
-1. 選擇「**[!UICONTROL Create New Web Campaign]**」。
+1. 選取「**[!UICONTROL Create New Web Campaign]**」。
 
    ![](assets/create-new-web-campaign-hand-1.png)
 
@@ -107,7 +107,7 @@ ht-degree: 0%
 >
 >若要更輕鬆地尋找您想要的行銷活動，請使用[篩選功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)。
 
-## 複製網站行銷活動 {#clone-a-web-campaign}
+## 原地複製網頁行銷活動 {#clone-a-web-campaign}
 
 請參閱[複製網站行銷活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md)。
 
@@ -117,7 +117,7 @@ ht-degree: 0%
 
 ![](assets/widget-campaign-preview-hand.png)
 
-## 刪除網站行銷活動 {#delete-a-web-campaign}
+## 刪除網頁行銷活動 {#delete-a-web-campaign}
 
 1. 從[!UICONTROL Web Campaigns]頁面，按一下您要刪除之網路促銷活動的&#x200B;**[!UICONTROL Delete]**。
 

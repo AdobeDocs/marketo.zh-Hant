@@ -3,14 +3,14 @@ description: 如何防止自行檢視 — Marketo檔案 — 產品檔案
 title: 如何防止自我檢視
 exl-id: 52de102f-6c6c-4663-9725-aae2f620d5bb
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '273'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 如何防止自我檢視？ {#how-do-i-prevent-self-views}
+# 我要如何防止內部瀏覽？ {#how-do-i-prevent-self-views}
 
 在檢視追蹤上取得誤報可能導致報表不一致。 當[!DNL Marketo Sales]的使用者不小心從他們的電子郵件使用者端叫用追蹤畫素時（我們稱之為自我檢視），經常會發生這種情況。 以下是大幅減少甚至消除自我檢視的一些秘訣。
 

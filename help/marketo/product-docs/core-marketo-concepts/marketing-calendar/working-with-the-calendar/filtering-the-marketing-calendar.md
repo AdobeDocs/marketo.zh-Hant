@@ -4,10 +4,10 @@ description: 篩選行銷行事曆 — Marketo檔案 — 產品檔案
 title: 篩選行銷行事曆
 exl-id: 94cbe35b-2b87-4c8f-86c6-11a0d12b2a12
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 0%
+source-wordcount: '103'
+ht-degree: 7%
 
 ---
 
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 使用專案型別、程式標籤或工作區來篩選行事曆上顯示的資訊。
 
-1. 按一下&#x200B;**[!UICONTROL 行事曆]**&#x200B;圖磚。
+1. 按一下&#x200B;**[!UICONTROL Calendar]**&#x200B;圖磚。
 
 ![](assets/2017-05-10-15-30-47.png)
 
-1. 按一下&#x200B;**[!UICONTROL 專案型別]**&#x200B;下拉式清單。
+1. 按一下&#x200B;**[!UICONTROL Entry Type]**&#x200B;下拉式清單。
 
    >[!NOTE]
    >
-   >預設專案型別將為&#x200B;**[!UICONTROL 電子郵件]** **[!UICONTROL 方案]**&#x200B;以及包含電子郵件的&#x200B;**[!UICONTROL 智慧行銷活動]**。
+   >預設專案型別將為&#x200B;**[!UICONTROL Email]** **[!UICONTROL Programs]**&#x200B;和&#x200B;**[!UICONTROL Smart Campaigns with Email]**。
 
    ![](assets/image2014-9-24-10-3a46-3a54.png)
 

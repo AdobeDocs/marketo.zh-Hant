@@ -1,29 +1,29 @@
 ---
 unique-page-id: 2949216
 description: SEO — 新增頁面 — Marketo檔案 — 產品檔案
-title: SEO — 新增頁面
+title: SEO - 新增頁面
 exl-id: dfb51308-7ee7-43b6-9e56-e820080a6b42
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 0%
+source-wordcount: '107'
+ht-degree: 7%
 
 ---
 
-# SEO — 新增頁面 {#seo-add-pages}
+# SEO - 新增頁面 {#seo-add-pages}
 
 您有頁面！ Marketo SEO會自動編目您的網站並進行追蹤。 如果我們錯過了幾個，請以下列方式在SEO應用程式中取得它們：
 
-1. 移至&#x200B;**[!UICONTROL 頁面]**&#x200B;區段。
+1. 移至&#x200B;**[!UICONTROL Pages]**&#x200B;區段。
 
    ![](assets/image2014-9-18-12-3a55-3a19.png)
 
-1. 按一下&#x200B;**[!UICONTROL 新增頁面]**。
+1. 按一下「**[!UICONTROL Add Pages]**」。
 
    ![](assets/image2014-9-18-12-3a55-3a53.png)
 
-1. 輸入您要新增的URL。 按一下&#x200B;**[!UICONTROL 新增]**。
+1. 輸入您要新增的URL。 按一下「**[!UICONTROL Add]**」。
 
    ![](assets/image2014-9-18-12-3a56-3a15.png)
 

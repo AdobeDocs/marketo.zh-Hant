@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10099415
 description: 電子郵件深入分析快速圖表 — Marketo檔案 — 產品檔案
-title: 電子郵件深入分析快速圖表
+title: 電子郵件洞察快速圖表
 exl-id: 5c071694-af86-48bd-8159-f877c51364f2
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '221'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 電子郵件深入分析快速圖表 {#email-insights-quick-charts}
+# 電子郵件洞察快速圖表 {#email-insights-quick-charts}
 
 快速圖表是您自訂和儲存的縮圖，可讓您快速檢視您最常使用的圖表。
 

@@ -1,16 +1,16 @@
 ---
 description: 快速入門登陸頁面範本 — Marketo檔案 — 產品檔案
-title: 快速入門登陸頁面範本
+title: 快速開始登陸頁面範本
 feature: Programs
 exl-id: edd60476-31bc-40f1-ae9d-9fcd3d41501c
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '462'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 快速入門登陸頁面範本 {#quick-start-landing-page-template}
+# 快速開始登陸頁面範本 {#quick-start-landing-page-template}
 
 Marketo Engage參考資料庫中的部分入門方案包含一個簡單、易於使用且可自訂的登陸頁面範本，可讓您在多個行銷使用案例中快速建立登陸頁面。
 

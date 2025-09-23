@@ -4,14 +4,14 @@ description: 發行說明 — 2019年6月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2019年6月
 exl-id: 292710f4-0072-4355-93c1-115c9b0ef723
 feature: Release Information
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '616'
 ht-degree: 0%
 
 ---
 
-# 發行說明： 2019年6月 {#release-notes-june}
+# 發行說明：2019 年 6 月 {#release-notes-june}
 
 2019年6月發行版本包含下列功能。 檢查您的Marketo版本是否有功能可用。
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 * **[!DNL LinkedIn]帳戶比對(BETA)** ：測試版現在提供新的ABM功能，讓您能夠直接從Marketo將已知和空白帳戶清單傳送至LinkedIn。 此功能會自動納入所有Marketo ABM客戶中。
 
-<br> 
+<br>
 
 **_整個季度發行_**
 
@@ -68,4 +68,4 @@ ht-degree: 0%
 * **漂移整合**：瞭解漂移對話如何影響客戶的歷程。 [!DNL Bizible]也會從交談中擷取電子郵件地址，以建立新的銷售機會，或將接觸點連線到現有的銷售機會。
 * **本地化**： [!DNL Bizible]現在提供所有Marketo支援的語言（英文、日文、德文、西班牙文、法文和葡萄牙文）。
 
-_&#x200B;**產品發行網路研討會**&#x200B;_&#x200B;在[這裡](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html)觀看2019年6月Release Innovations網路研討會影片。
+_**產品發行網路研討會**_&#x200B;在[這裡](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html)觀看2019年6月Release Innovations網路研討會影片。

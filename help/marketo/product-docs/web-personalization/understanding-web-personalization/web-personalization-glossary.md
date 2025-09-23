@@ -1,13 +1,13 @@
 ---
 unique-page-id: 3571927
 description: 網頁Personalization字彙表 — Marketo檔案 — 產品檔案
-title: Web Personalization字彙表
+title: 網頁個人化字彙表
 exl-id: 82f7aa62-0b5a-4d34-865c-aa77c1b0b0e7
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '253'
-ht-degree: 1%
+ht-degree: 24%
 
 ---
 
@@ -15,16 +15,16 @@ ht-degree: 1%
 
 對[!DNL Marketo Web Personalization]的世界和語言有一些深入分析。
 
-| 詞語 | 定義 |
+| 術語 | 定義 |
 |---|---|
-| **匿名訪客** | 從未填寫表單或在網站上保留詳細資訊的網站訪客。 |
-| **網路行銷活動** | 與特定區段相關聯的自訂反應。 透過Web Personalization，網路行銷活動包含對話方塊、位於區域和Widget中。 |
+| **匿名訪客** | 不曾填寫表單或在網站上留下其詳細資料的網頁訪客。 |
+| **網路行銷活動** | 與特定區段相關聯的自訂反應。透過Web Personalization，網路行銷活動包含對話方塊、位於區域和Widget中。 |
 | **點按資料流** | 訪客在網站上的活動和URL路徑，以及他們造訪每個頁面的時間 |
 | **ISP** | 網際網路服務提供者 |
 | **已知訪客** | 已完成表單並在您的網站上保留其詳細資料（電子郵件地址）或按一下Marketo電子郵件中的連結的網路訪客。 |
 | **帳戶清單** | 主要帳戶/組織名稱的清單。 也稱為Account-Based Marketing (ABM)清單。 |
 | **區段** | 符合[「設定區段」頁面](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)中定義的指定條件的訪客集合。 |
-| **分割測試** | 包含兩個或多個變體的測試實驗，用於測量結果中的差異。 目標是識別會增加或最大化感興趣結果的網頁變更。 |
+| **分割測試** | 使用兩個或多個變數進行的測試實驗，用於測量結果的差異。目標為識別網頁上哪些變更能夠讓興趣的結果增加或最大化。 |
 | **萬用字元** | 萬用字元（&#42;已使用）在字串之前或之後用來取代字串中任何其他字元或字元。 請參閱下列範例。 |
 
 ## 萬用字元範例 {#wildcard-examples}

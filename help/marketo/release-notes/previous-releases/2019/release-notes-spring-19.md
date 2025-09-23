@@ -3,7 +3,7 @@ unique-page-id: 17728380
 description: 發行說明–2019年春季 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2019年春季
 exl-id: eb7a9ac4-5c3d-4d98-9b06-e3f11147bc6d
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '454'
 ht-degree: 0%
@@ -32,7 +32,7 @@ Account-Based Marketing
 
 **[AccountAI](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)**&#x200B;現已正式推出。 AccountAI使用人工智慧來顯示您應該針對ABM策略鎖定的帳戶。
 
-<br> 
+<br>
 
 **_非每季發行_**
 
@@ -47,7 +47,7 @@ Account-Based Marketing
 
 ## Marketo Sales Engage {#marketo-sales-engage}
 
-* **增強型稽核**：在例項中，新增其他使用者建立的[結束現有行銷活動](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md)的功能，以檢視所有人員、電子郵件和[內容](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md)。
+* **增強型稽核**：在例項中，新增其他使用者建立的[結束現有行銷活動](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md)的功能，以檢視所有人員、電子郵件和[內容](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md)。
 * **[取消訂閱管理](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)**：透過[封鎖電子郵件網域](/help/marketo/product-docs/marketo-sales-connect/admin/blocked-domains.md)的連絡功能，最大化傳遞能力及合規性。 Marketo在傳送電子郵件之前，也會交叉參考潛在客戶資料庫以取消訂閱。
 
 ## 由Marketo進行的[!DNL Bizible] {#bizible-by-marketo}

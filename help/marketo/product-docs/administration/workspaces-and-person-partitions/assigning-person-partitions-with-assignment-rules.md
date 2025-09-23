@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360327
 description: 使用指派規則指派人員分割區 — Marketo檔案 — 產品檔案
-title: 使用指定規則指定人員分割
+title: 使用指派規則指派人員分割
 exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
 feature: Partitions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '159'
-ht-degree: 1%
+ht-degree: 11%
 
 ---
 
-# 使用指定規則指定人員分割 {#assigning-person-partitions-with-assignment-rules}
+# 使用指派規則指派人員分割 {#assigning-person-partitions-with-assignment-rules}
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ ht-degree: 1%
 >
 >只有在Marketo中從您的CRM透過SOAP API建立的人員才會套用指派規則。
 
-1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/assigning-person-partitions-with-assignment-rules-1.png)
 

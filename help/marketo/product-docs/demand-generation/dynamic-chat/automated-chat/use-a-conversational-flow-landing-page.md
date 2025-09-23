@@ -4,10 +4,10 @@ title: 使用對話式流程登陸頁面
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '226'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 按一下「轉換流程」下拉式清單，並選取您在步驟1中建立的CF。
 
-一律將傳遞型別保留為&#x200B;**內嵌**。 按一下&#x200B;**插入**。
+一律將傳遞型別保留為&#x200B;**內嵌**。 按一下「**插入**」。
 
 您剛輸入的「對話流程」會在右側顯示為「要素」。
 

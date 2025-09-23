@@ -4,10 +4,10 @@ description: 新增影像至引導式登陸頁面 — Marketo檔案 — 產品�
 title: 新增影像至引導式登陸頁面
 exl-id: 9cf9eec9-f8b5-4ca3-a6b3-f2d7f3e742ca
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 

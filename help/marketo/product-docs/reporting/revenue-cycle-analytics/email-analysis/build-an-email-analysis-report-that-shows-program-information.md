@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360409
 description: 建立電子郵件分析報告，顯示方案資訊 — Marketo檔案 — 產品檔案
-title: 建立顯示計畫資訊的電子郵件分析報告
+title: 建置會顯示方案資訊的電子郵件分析報告
 exl-id: 9d7fd359-c06e-4dab-a0d7-9c360bb44d0d
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 2%
+ht-degree: 16%
 
 ---
 
-# 建立顯示計畫資訊的電子郵件分析報告 {#build-an-email-analysis-report-that-shows-program-information}
+# 建置會顯示方案資訊的電子郵件分析報告 {#build-an-email-analysis-report-that-shows-program-information}
 
 請依照下列步驟建立電子郵件分析報告，該報告將顯示依方案管道分組的電子郵件資訊。
 

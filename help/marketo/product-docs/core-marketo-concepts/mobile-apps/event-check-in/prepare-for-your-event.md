@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10099360
 description: 準備活動 — Marketo檔案 — 產品檔案
-title: 準備您的活動
+title: 為您的事件做好準備
 exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
 feature: Mobile Marketing
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '379'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 準備您的活動 {#prepare-for-your-event}
+# 為您的事件做好準備 {#prepare-for-your-event}
 
 您需執行幾項作業，為活動做好準備。
 

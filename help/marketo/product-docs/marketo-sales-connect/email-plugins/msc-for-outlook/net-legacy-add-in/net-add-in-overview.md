@@ -1,23 +1,23 @@
 ---
 unique-page-id: 14352457
 description: .NET增益集概述 — Marketo檔案 — 產品檔案
-title: .NET增益集概述
+title: .NET 增益集概觀
 exl-id: fa40377e-e70b-46d3-a75f-5fa791f9275b
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '201'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# .NET增益集概述 {#net-add-in-overview}
+# .NET 增益集概觀 {#net-add-in-overview}
 
 >[!NOTE]
 >
 >這是我們的舊增益集。 如果您已安裝該應用程式，其將繼續運作至2020年。 如果您是新使用者，請安裝我們的新[Office 365增益集](https://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf)。
 
-## 附加內容片段 {#attaching-a-piece-of-content}
+## 附加內容 {#attaching-a-piece-of-content}
 
 按一下&#x200B;**[!UICONTROL Content]**&#x200B;按鈕並上傳檔案，以新增可追蹤的內容。
 

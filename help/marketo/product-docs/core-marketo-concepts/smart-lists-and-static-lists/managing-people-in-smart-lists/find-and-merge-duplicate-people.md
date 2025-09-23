@@ -1,17 +1,17 @@
 ---
 unique-page-id: 557339
 description: 尋找及合併重複人員 — Marketo檔案 — 產品檔案
-title: 尋找並合併重複人員
+title: 找到重複人員並將其合併
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '395'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 尋找並合併重複人員 {#find-and-merge-duplicate-people}
+# 找到重複人員並將其合併 {#find-and-merge-duplicate-people}
 
 當有新人員進入系統時，Marketo Engage會自動刪除重複專案。 不過，您的CRM可能一開始是透過重複專案傳送。 以下說明合併方法。
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 ## 尋找重複專案 {#find-duplicates}
 
-1. 移至&#x200B;**[!UICONTROL Database]**&#x200B;區域。
+1. 前往「**[!UICONTROL Database]**」區域。
 
    ![](assets/find-and-merge-duplicate-people-1.png)
 

@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2953417
 description: 瞭解動態內容 — Marketo檔案 — 產品檔案
-title: 瞭解動態內容
+title: 了解動態內容
 exl-id: 1e74cdb5-f879-424e-8db0-0a788d13fd5e
 feature: Dynamic Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '223'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 瞭解動態內容 {#understanding-dynamic-content}
+# 了解動態內容 {#understanding-dynamic-content}
 
 個人化不只是「嗨`{{First_Name}}`」而已。 透過Marketo動態內容，您可以自訂不同人員檢視登入頁面或電子郵件的方式。
 
 ![](assets/artboard-1.png)
 
-## 區段 {#segmentation}
+## 細分 {#segmentation}
 
 首先，您需要將您的人員分成子群組。 這稱為[分段](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)。
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ![](assets/artboard-3.png)
 
-## 代碼片段 {#snippets}
+## 程式碼片段 {#snippets}
 
 [程式碼片段](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)是Marketo中的實用工具。 只需建立一次，便可在多處使用！ 如果您更新程式碼片段，則使用該程式碼片段的所有資產（登陸頁面或電子郵件）都會自動更新。
 
@@ -46,7 +46,7 @@ ht-degree: 0%
 >**範例**
 >
 >* 您可以在電子郵件中使用程式碼片段做為簽名。 根據收件者的位置動態變更文字。
->* 在登陸頁面上，擁有標準行動號召區域，其中包含客戶與潛在客戶的不同連結。 集中更新數百個LP。
+>* 在登入頁面上，使用針對客戶與潛在客戶的不同連結來設定標準call-to-action區域。 集中更新數百個LP。
 
 試試看，告訴我們您的成功案例！
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147023
 description: 呼叫Webhook - Marketo檔案 — 產品檔案
-title: 呼叫Webhook
+title: 呼叫 Webhook
 exl-id: b2f69502-e459-4277-9725-7bbb3578384f
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '74'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 呼叫Webhook {#call-webhook}
+# 呼叫 Webhook {#call-webhook}
 
 >[!PREREQUISITES]
 >
@@ -23,7 +23,7 @@ Webhook可讓您與協力廠商服務互動。 透過在智慧行銷活動流程
 
 >[!NOTE]
 >
->瞭解[Webhooks](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}可以為您做許多有趣的事。
+>瞭解[Webhooks](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}可以為您做許多有趣的事情。
 
 1. 從下拉式清單中選取Webhook。
 

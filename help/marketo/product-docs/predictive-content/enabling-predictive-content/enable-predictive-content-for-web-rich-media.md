@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7514956
 description: 為網頁多媒體啟用預測性內容 — Marketo檔案 — 產品檔案
-title: 為網頁多媒體啟用預測性內容
+title: 啟用適用於網頁豐富媒體的預測內容
 exl-id: 030f1dd7-8fe7-4c82-be5e-052f0a259e3c
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '288'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# 為網頁多媒體啟用預測性內容 {#enable-predictive-content-for-web-rich-media}
+# 啟用適用於網頁豐富媒體的預測內容 {#enable-predictive-content-for-web-rich-media}
 
 預測性內容透過機器學習和預測性分析，讓您的網頁訪客獲得最相關的內容。 使用Web Rich Media，您可以透過文字說明和影像來增強內容，並在網站上嵌入多個預測性內容建議。
 
@@ -41,13 +41,13 @@ ht-degree: 0%
 
    ![](assets/image2017-10-3-10-3a0-3a42.png)
 
-1. 按一下&#x200B;**[!UICONTROL Content Actions]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Enable for Web Rich Media]**。
+1. 按一下「**[!UICONTROL Content Actions]**」下拉式選單，選取「**[!UICONTROL Enable for Web Rich Media]**」。
 
    ![](assets/image2017-10-3-10-3a2-3a6.png)|
 
 ## 自訂Javascript程式碼並將其內嵌至您的網站  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-請參閱Marketo開發人員網站[上Rich Media Recommendation範本](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}的檔案。 以下說明如何自訂網站的範本。
+請參閱Marketo開發人員網站[上Rich Media Recommendation範本](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}的檔案。 以下說明如何自訂網站的範本。
 
 將JavaScript程式碼貼入網站中您要顯示範本的位置。
 

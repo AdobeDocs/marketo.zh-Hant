@@ -4,10 +4,10 @@ description: 使用快速動作加速您的工作流程 — Marketo檔案 — �
 title: 使用快速動作加速您的工作流程
 exl-id: 8cfc2fb4-d7b1-4a12-bf4e-37613345e65b
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '315'
-ht-degree: 1%
+ht-degree: 6%
 
 ---
 
@@ -92,4 +92,4 @@ ht-degree: 1%
 | 傳送後續追蹤電子郵件 | 開啟撰寫視窗，其中已附加選取的內嵌電子郵件內文，並準備好傳送給收件者。 |
 | 進行通話 | 開啟銷售電話以撥打電子郵件收件者。 |
 | 傳送InMail | 重新導向至LinkedIn以傳送郵件至InMail。 |
-| 建立任務 | 開啟建立任務快顯視窗以建立提醒任務。 |
+| 建立工作 | 開啟建立任務快顯視窗以建立提醒任務。 |

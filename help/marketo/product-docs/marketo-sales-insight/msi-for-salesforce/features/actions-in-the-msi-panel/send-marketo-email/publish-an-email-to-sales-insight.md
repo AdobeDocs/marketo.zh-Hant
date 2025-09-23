@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949718
 description: 發佈電子郵件至銷售人員Insight - Marketo檔案 — 產品檔案
-title: 發佈電子郵件至銷售Insight
+title: 發佈電子郵件至銷售洞察
 exl-id: 59b6821f-cbed-427f-942f-0a67cbd4e2df
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '188'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 

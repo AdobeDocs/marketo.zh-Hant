@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360297
 description: 根據IP限制Marketo登入 — Marketo檔案 — 產品檔案
-title: 根據IP限制Marketo登入
+title: 根據 IP 限制 Marketo 登入
 exl-id: 5d9d0b88-b4bc-4e1b-b70c-2c2e7b4269f5
 feature: Administration
-source-git-commit: b4bd06d3e5ee205744478e0f5556f490f9f5abe4
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 0%
+source-wordcount: '180'
+ht-degree: 11%
 
 ---
 
-# 根據IP限制Marketo登入 {#restrict-marketo-logins-based-on-ip}
+# 根據 IP 限制 Marketo 登入 {#restrict-marketo-logins-based-on-ip}
 
 您可以根據使用者的IP位址來限制或允許使用者存取Marketo。 方法如下。
 
@@ -23,27 +23,27 @@ ht-degree: 0%
 >
 >本文資訊適用於直接登入login.marketo.com的使用者，不適用於使用Adobe ID進行驗證的使用者。 目前無法對單一登入(SSO)登入強制執行IP限制。
 
-1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/restrict-marketo-logins-based-on-ip-1.png)
 
-1. 按一下&#x200B;**[!UICONTROL 登入設定]**。
+1. 按一下「**[!UICONTROL Login Settings]**」。
 
    ![](assets/restrict-marketo-logins-based-on-ip-2.png)
 
-1. 按一下&#x200B;**[!UICONTROL 編輯IP限制]**。
+1. 按一下「**[!UICONTROL Edit IP Restrictions]**」。
 
    ![](assets/restrict-marketo-logins-based-on-ip-3.png)
 
-1. 選擇您要&#x200B;**允許**&#x200B;或&#x200B;**封鎖**&#x200B;特定地址，輸入地址，然後按一下&#x200B;**[!UICONTROL 儲存]**。
+1. 選擇您要&#x200B;**允許**&#x200B;或&#x200B;**封鎖**&#x200B;特定地址，輸入地址，然後按一下&#x200B;**[!UICONTROL Save]**。
 
    >[!NOTE]
    >
    >**定義**
    >
-   >* **[!UICONTROL 允許的IP位址]**：新增允許的IP位址具有包含性。 它會包含指定的所有IP位址，並排除其他所有位址。
-   >* **[!UICONTROL 封鎖IP位址]**：防止特定IP存取Marketo。
-   >* **[!UICONTROL 停用IP限制]**：核取此項將會停止任何/所有限制規則運作。 將此用於測試目的。
+   >* **[!UICONTROL Allowed IP addresses]**：新增允許的IP位址具有包含性。 它會包含指定的所有IP位址，並排除其他所有位址。
+   >* **[!UICONTROL Block IP addresses]**：防止特定IP存取Marketo。
+   >* **[!UICONTROL Disable IP Restrictions]**：核取此項將停止任何/所有限制規則運作。 將此用於測試目的。
 
    >[!NOTE]
    >

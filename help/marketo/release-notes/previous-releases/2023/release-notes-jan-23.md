@@ -3,24 +3,24 @@ description: 發行說明 — 2023年1月 — Marketo檔案 — 產品檔案
 title: 發行說明 - 2023 年 1 月
 exl-id: 584f74e5-ed0a-4f2f-9a1e-93cb8804dec8
 feature: Release Information
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '626'
-ht-degree: 8%
+ht-degree: 19%
 
 ---
 
-# 發行說明： 2023年1月 {#release-notes-jan-23}
+# 發行說明：2023 年 1 月 {#release-notes-jan-23}
 
-以下是2023年1月發行版本包含的所有功能。 檢查您的Adobe Marketo Engage版本是否有功能可用。
+以下是2023年1月發行版本包含的所有功能。 請查看您的 Adobe Marketo Engage 版本是否提供這些功能。
 
 >[!AVAILABILITY]
 >
->以星號（![星號](assets/yellow-star.png)）表示的功能是付費附加元件。 請聯絡您的Marketo Engage代表以瞭解更多資訊。
+>標有星號 (![星號](assets/yellow-star.png)) 的功能為付費附加元件。請聯絡您的 Marketo Engage 代表，了解更多相關資訊。
 
 ## 標準發行週期功能 {#standard-release-cycle-features}
 
-下列功能屬於標準發行週期，並將於&#x200B;**2023年1月20日**&#x200B;開始發行，在接下來的幾週內分階段推出剩餘功能。 發行功能和日期可能會有所變更。 請檢視每個功能下方的狀態。
+下列功能屬於標準發行週期，並將於&#x200B;**2023年1月20日**&#x200B;開始發行，在接下來的幾週內分階段推出剩餘功能。 發行的功能和日期可能有所變更。請檢視每個功能下方的狀態。
 
 ### Marketo Engage Modern UX {#modern-ux}
 
@@ -28,7 +28,7 @@ ht-degree: 8%
 
 * **現代UX中的Screens已更新**：現代UX （先前稱為新一代體驗）中，我們提供額外的重新整理熒幕，透過切換開關提供更新的設計和可用性增強功能：
 
-   * 程式碼片段清單檢視
+   * 程式碼片段清單視圖
    * 登陸頁面範本清單
 
   <table>
@@ -37,8 +37,8 @@ ht-degree: 8%
    <td><b>文件更新</b></td>
   </tr>
   <tr>
-   <td>已送出</td>
-   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">切換開關</a></td>
+   <td>已發布</td>
+   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">切換按鈕</a></td>
   </tr>
   </tbody>
 
@@ -52,7 +52,7 @@ ht-degree: 8%
    <td><b>文件更新</b></td>
   </tr>
   <tr>
-   <td>已送出</td>
+   <td>已發布</td>
    <td>不適用</td>
   </tr>
   </tbody>
@@ -70,7 +70,7 @@ ht-degree: 8%
    <td><b>文件更新</b></td>
   </tr>
   <tr>
-   <td>已送出</td>
+   <td>已發布</td>
    <td>不適用</td>
   </tr>
   </tbody>
@@ -88,8 +88,8 @@ ht-degree: 8%
    <td><b>文件更新</b></td>
   </tr>
   <tr>
-   <td>已送出</td>
-   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html?lang=zh-Hant">Marketo Measure Ultimate</a></td>
+   <td>已發布</td>
+   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html">Marketo Measure Ultimate</a></td>
   </tr>
   </tbody>
 </table>
@@ -106,8 +106,8 @@ ht-degree: 8%
    <td><b>文件更新</b></td>
   </tr>
   <tr>
-   <td>已送出</td>
-   <td><a href="/help/marketo/product-docs/administration/settings/bulk-export-api-information.md">大量匯出API資訊</a></td>
+   <td>已發布</td>
+   <td><a href="/help/marketo/product-docs/administration/settings/bulk-export-api-information.md">大量匯出 API 資訊</a></td>
   </tr>
   </tbody>
 </table>
@@ -128,7 +128,7 @@ ht-degree: 8%
    <td><b>文件更新</b></td>
   </tr>
   <tr>
-   <td>已送出</td>
+   <td>已發布</td>
    <td>不適用</td>
   </tr>
   </tbody>
@@ -142,7 +142,7 @@ ht-degree: 8%
    <td><b>文件更新</b></td>
   </tr>
   <tr>
-   <td>已送出</td>
+   <td>已發布</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md">行事曆</a></td>
   </tr>
   </tbody>
@@ -156,7 +156,7 @@ ht-degree: 8%
    <td><b>文件更新</b></td>
   </tr>
   <tr>
-   <td>已送出</td>
+   <td>已發布</td>
    <td>不適用</td>
   </tr>
   </tbody>
@@ -170,7 +170,7 @@ ht-degree: 8%
    <td><b>文件更新</b></td>
   </tr>
   <tr>
-   <td>已送出</td>
+   <td>已發布</td>
    <td>不適用</td>
   </tr>
   </tbody>
@@ -184,7 +184,7 @@ ht-degree: 8%
    <td><b>文件更新</b></td>
   </tr>
   <tr>
-   <td>已送出</td>
+   <td>已發布</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/meeting-list.md">會議</a></td>
   </tr>
   </tbody>

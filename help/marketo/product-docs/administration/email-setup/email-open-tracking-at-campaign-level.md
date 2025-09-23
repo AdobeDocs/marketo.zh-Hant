@@ -3,10 +3,10 @@ description: 行銷活動層級的電子郵件開啟追蹤 — Marketo檔案 —
 title: 行銷活動層級的電子郵件開啟追蹤
 feature: Email Setup
 exl-id: 23cd6ba8-5e3f-44f1-af8d-da03f4b038f2
-source-git-commit: f0f95604ba3b033fbbf0e4fcd3b502142ef16134
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '104'
-ht-degree: 1%
+ht-degree: 13%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 1%
 
    ![](assets/email-open-tracking-at-campaign-level-3.png)
 
-1. 按一下下拉式清單，選擇您想要的設定，然後按一下[儲存]。**&#x200B;**
+1. 按一下下拉式清單，選擇您想要的設定，然後按一下[儲存]。****
 
    ![](assets/email-open-tracking-at-campaign-level-4.png)
 

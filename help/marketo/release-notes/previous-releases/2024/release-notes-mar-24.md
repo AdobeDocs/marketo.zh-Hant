@@ -3,24 +3,24 @@ description: 發行說明 — 2024年3月 — Marketo檔案 — 產品檔案
 title: 發行說明 - 2024 年 3 月
 feature: Release Information
 exl-id: d8bc7f88-a77b-4b49-aed5-aceab9e639f0
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '350'
-ht-degree: 3%
+ht-degree: 22%
 
 ---
 
-# 發行說明： 2024年3月 {#release-notes-mar-24}
+# 發行說明：2024 年 3 月 {#release-notes-mar-24}
 
-下方提供2024年3月發行版本包含的所有功能。 檢查您的Adobe Marketo Engage版本是否有功能可用。
+下方提供2024年3月發行版本包含的所有功能。 請查看您的 Adobe Marketo Engage 版本是否提供這些功能。
 
 >[!AVAILABILITY]
 >
->以星號（![星號](assets/yellow-star.png)）表示的功能是付費附加元件。 請聯絡您的Marketo Engage代表以瞭解更多資訊。
+>標有星號 (![星號](assets/yellow-star.png)) 的功能為付費附加元件。請聯絡您的 Marketo Engage 代表，了解更多相關資訊。
 
 ## 標準發行週期功能 {#standard-release-cycle-features}
 
-下列功能屬於標準發行週期，並將於&#x200B;**2024年3月8日**&#x200B;開始發行，在接下來的幾週內分階段推出剩餘功能。 發行功能和日期可能會有所變更。 請檢查每個功能旁的狀態。
+下列功能屬於標準發行週期，並將於&#x200B;**2024年3月8日**&#x200B;開始發行，在接下來的幾週內分階段推出剩餘功能。 發行的功能和日期可能有所變更。如需了解各項功能的狀態，請查看其旁邊欄位。
 
 <table style="table-layout:auto">
  <tbody>
@@ -31,8 +31,8 @@ ht-degree: 3%
   </tr>
   <tr>
    <td><strong>進階交談流程邏輯</strong>：在交談流程後續追蹤的單一選擇中，新增要評估的其他欄位。</td>
-   <td>已送出</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Marketo Engage Forms的對話流量設定</a></td>
+   <td>已發布</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Marketo Engage 表單的交談流程設定</a></td>
   </tr>
    <tr>
    <td> </td>
@@ -42,8 +42,8 @@ ht-degree: 3%
    </tr>
     <tr>
    <td><strong>重新排序對話流程邏輯</strong>：在Marketo Engage Forms中，您現在可以重新排序對話流程選擇，而不必刪除並重新新增。</td>
-   <td>已送出</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Marketo Engage Forms的對話流量設定</a></td>
+   <td>已發布</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Marketo Engage 表單的交談流程設定</a></td>
    </tr>
   <tr>
    <td> </td>
@@ -53,7 +53,7 @@ ht-degree: 3%
     <tr>
    <td><strong>API活動中繼資料</strong>：
    使用者代理程式、平台和裝置等中繼資料現在包含在網路和電子郵件活動中，有助於透過Marketo REST API提供這些活動的一致深入分析。</td>
-   <td>已送出</td>
+   <td>已發布</td>
    <td>不適用</td>
   </tr>
  </tbody>

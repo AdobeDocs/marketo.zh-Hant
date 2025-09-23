@@ -4,14 +4,14 @@ description: 發行說明–2017年秋季 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2017年秋季
 exl-id: 329022e6-f388-4ff9-9724-62aeed76c0b9
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '583'
 ht-degree: 0%
 
 ---
 
-# 發行說明： 2017年秋季 {#release-notes-fall}
+# 發行說明：2017 年秋季 {#release-notes-fall}
 
 以下功能包含在2017年秋季發行版本中。 檢查您的Marketo版本是否有功能可用。
 
@@ -86,10 +86,10 @@ Token現在可用於網頁行銷活動。 運用代號來提供個人化訊息�
 
 ## 整合  {#integration}
 
-**[電子郵件預覽API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/email-scripting)**
+**[電子郵件預覽API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 您現在可以在Marketo外部遠端預覽電子郵件，簡化電子郵件內容本地化的程式，並減少錯誤。
 
-**[取代HTML API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/email-scripting)**
+**[取代HTML API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 開發人員可從遠端更新電子郵件資產的HTML內容，讓他們能在單一系統中工作，以維護資產。

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10099411
 description: 電子郵件深入分析Analytics概觀 — Marketo檔案 — 產品檔案
-title: 電子郵件分析Analytics概觀
+title: 電子郵件洞察分析概觀
 exl-id: 370720f7-bbe1-4143-b2be-15854e1ffe55
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '259'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 電子郵件分析Analytics概觀 {#email-insights-analytics-overview}
+# 電子郵件洞察分析概觀 {#email-insights-analytics-overview}
 
 在[!UICONTROL Analytics]中，探索電子郵件傳遞和參與彙總資料。 使用左側的圖表來探索資料，使用右側的深入分析以獲得更多引導式體驗。
 

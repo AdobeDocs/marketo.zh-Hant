@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10098134
 description: 將方案新增到參與方案流 — Marketo檔案 — 產品檔案
-title: 將方案新增至參與方案流
+title: 新增方案至參與方案資料流
 exl-id: 44c2ce45-439b-4b29-8130-8cc218e04bbf
 feature: Engagement Programs
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '453'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 將方案新增至參與方案流 {#adding-a-program-to-an-engagement-program-stream}
+# 新增方案至參與方案資料流 {#adding-a-program-to-an-engagement-program-stream}
 
 ## 為什麼在參與方案流中使用巢狀方案？ {#why-use-a-nested-program-in-an-engagement-program-stream}
 

@@ -1,16 +1,16 @@
 ---
 description: 預測性篩選器 — Marketo檔案 — 產品檔案
-title: 預測性篩選器
+title: 預測篩選器
 exl-id: 27736b80-cd8b-455d-9d73-c17d492d0906
 feature: Predictive Audiences
-source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '408'
 ht-degree: 0%
 
 ---
 
-# 預測性篩選器 {#predictive-filters}
+# 預測篩選器 {#predictive-filters}
 
 作為預測對象的一部分，Marketo在智慧行銷活動的智慧清單中提供一組以AI/ML為基礎的篩選器。
 
@@ -46,7 +46,7 @@ ht-degree: 0%
 
 這兩個篩選器可協助您鎖定其他與另一個計畫或智慧清單成員類似的潛在客戶，以擴大目前的對象。 相似篩選器會考慮50多種因素，包括潛在客戶屬性、電子郵件活動、網頁活動和參與。
 
-按一下&#x200B;**[!UICONTROL 新增限制]**&#x200B;以選擇所選方案的成員的成功條件。
+按一下「**[!UICONTROL Add Constraint]**」以選擇所選方案成員的成功標準。
 
 按一下&#x200B;**+**&#x200B;圖示，輕鬆將多個程式/智慧列示新增至一個篩選器。
 

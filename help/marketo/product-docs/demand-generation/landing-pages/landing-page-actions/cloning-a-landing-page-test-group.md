@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2953038
 description: 複製登入頁面測試群組 — Marketo檔案 — 產品檔案
-title: 複製登入頁面測試群組
+title: 原地複製登陸頁面測試群組
 exl-id: d94fde6b-b377-42fc-a91a-e8ee4bf7c8bb
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# 複製登入頁面測試群組 {#cloning-a-landing-page-test-group}
+# 原地複製登陸頁面測試群組 {#cloning-a-landing-page-test-group}
 
 您可以從[!UICONTROL Design Studio]找到並複製登入頁面測試群組。
 
-1. 以滑鼠右鍵按一下未核准的頁面。 選擇「**[!UICONTROL Clone]**」。
+1. 以滑鼠右鍵按一下未核准的頁面。 選取「**[!UICONTROL Clone]**」。
 
    ![](assets/image2015-4-27-15-3a11-3a24.png)
 

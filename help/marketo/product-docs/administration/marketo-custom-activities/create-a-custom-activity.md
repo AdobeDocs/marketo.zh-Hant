@@ -4,10 +4,10 @@ description: 建立自訂活動 — Marketo檔案 — 產品檔案
 title: 建立自訂活動
 exl-id: 5b83663e-8578-4a45-b8f8-4db8c2346372
 feature: Custom Activities
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '97'
-ht-degree: 2%
+ht-degree: 14%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 2%
 >
 >大部分的訂閱都有分配的10個自訂活動型別限制。
 
-1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/create-a-custom-activity-1.png)
 

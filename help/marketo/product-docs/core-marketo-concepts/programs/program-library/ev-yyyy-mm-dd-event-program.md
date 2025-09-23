@@ -1,16 +1,16 @@
 ---
 description: EV-YYYY-MM-DD-Event計畫 — Marketo檔案 — 產品檔案
-title: EV-YYYY-MM-DD-Event計畫
+title: EV-YYYY-MM-DD-事件方案
 feature: Programs
 exl-id: 999a82ae-6637-40bf-96c0-62183cb0a197
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '561'
-ht-degree: 10%
+ht-degree: 16%
 
 ---
 
-# EV-YYYY-MM-DD-Event計畫 {#ev-yyyy-mm-dd-event-program}
+# EV-YYYY-MM-DD-事件方案 {#ev-yyyy-mm-dd-event-program}
 
 此範例為具有註冊頁面的活動計畫、三封邀請電子郵件，以及利用Marketo Engage活動計畫的後續電子郵件。 適合您需要註冊的所有活動，包括路演、午餐、晚宴或展銷活動簡報。
 
@@ -21,20 +21,20 @@ ht-degree: 10%
 <table style="table-layout:auto">
  <tbody>
   <tr>
-   <th>頻道</th>
+   <th>管道</th>
    <th>成員資格狀態</th>
    <th>Analytics行為</th>
    <th>計畫型別</th>
   </tr>
   <tr>
-   <td>活動</td>
+   <td>事件</td>
    <td>01 — 已邀請
 <br/>02已輪候
 <br/>03已註冊
 <br/>04 — 無節目
 <br/>05 — 出席成功</td>
    <td>包含</td>
-   <td>活動</td>
+   <td>事件</td>
   </tr>
  </tbody>
 </table>
@@ -50,37 +50,37 @@ ht-degree: 10%
   </tr>
   <tr>
    <td>電子郵件</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入門電子郵件範本</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速開始電子郵件範本</a></td>
    <td>01 — 電子郵件 — 感謝您</td>
   </tr>
    <tr>
    <td>電子郵件</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入門電子郵件範本</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速開始電子郵件範本</a></td>
    <td>02a — 電子郵件 — 邀請</td>
   </tr>
   <tr>
    <td>電子郵件</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入門電子郵件範本</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速開始電子郵件範本</a></td>
    <td>02b — 電子郵件 — 邀請提醒</td>
   </tr>
   <tr>
    <td>電子郵件</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入門電子郵件範本</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速開始電子郵件範本</a></td>
    <td>02c — 電子郵件 — 邀請提醒最後機會</td>
   </tr>
   <tr>
    <td>電子郵件</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入門電子郵件範本</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速開始電子郵件範本</a></td>
    <td>03 — 電子郵件 — 出席提醒</td>
   </tr>
   <tr>
    <td>電子郵件</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入門電子郵件範本</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速開始電子郵件範本</a></td>
    <td>04a — 電子郵件 — 後續追蹤 — 已出席</td>
   </tr>
   <tr>
    <td>電子郵件</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入門電子郵件範本</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速開始電子郵件範本</a></td>
    <td>04b — 電子郵件 — 後續追蹤 — NoShow</td>
   </tr>
   <tr>
@@ -162,7 +162,7 @@ ht-degree: 10%
   <tr>
    <td>資料夾</td>
    <td> </td>
-   <td>報表</td>
+   <td>報告</td>
   </tr>
  </tbody>
 </table>
@@ -176,7 +176,7 @@ ht-degree: 10%
   <tr>
    <th>權杖型別</th>
    <th>代號名稱</th>
-   <th>值</th>
+   <th>價值</th>
   </tr>
   <tr>
    <td>行事曆檔案</td>

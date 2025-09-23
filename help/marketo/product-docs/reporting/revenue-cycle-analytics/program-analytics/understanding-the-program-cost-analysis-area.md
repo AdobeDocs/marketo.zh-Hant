@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718636
 description: 瞭解方案成本分析區域 — Marketo檔案 — 產品檔案
-title: 瞭解方案成本分析區域
+title: 了解方案成本分析區域
 exl-id: b59e07a2-c804-46a2-b0ca-127191fd2188
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '327'
-ht-degree: 7%
+ht-degree: 10%
 
 ---
 
-# 瞭解方案成本分析區域 {#understanding-the-program-cost-analysis-area}
+# 了解方案成本分析區域 {#understanding-the-program-cost-analysis-area}
 
 「方案成本分析」區域可讓您分析個別方案的成效，或檢視特定期間依管道的摘要結果。
 
@@ -41,7 +41,7 @@ ht-degree: 7%
 
 ## 投資 {#investment}
 
-| 衡量 | 說明 |
+| 測量 | 說明 |
 |---|---|
 | 每個成員的成本 | 方案的每個成員平均成本 |
 | 每個新名稱的成本 | 程式取得的每個潛在客戶的平均成本 |
@@ -54,7 +54,7 @@ ht-degree: 7%
 <table>
  <tbody>
   <tr>
-   <th>衡量</th>
+   <th>測量</th>
    <th>說明</th>
   </tr>
   <tr>
@@ -83,13 +83,13 @@ ht-degree: 7%
 
 | 維度 | 說明 |
 |---|---|
-| 年 | 方案成本時間範圍 |
+| Year | 方案成本時間範圍 |
 | 季度 | 方案成本時間範圍 |
-| 月 | 方案成本時間範圍 |
+| Month | 方案成本時間範圍 |
 
 ## 計畫標籤 {#program-tags}
 
-| 衡量 | 說明 |
+| 測量 | 說明 |
 |---|---|
 | 行業 | 計畫標籤 |
 | 產品線 | 計畫標籤 |
@@ -98,7 +98,7 @@ ht-degree: 7%
 
 ## 成功 {#success}
 
-| 衡量 | 說明 |
+| 測量 | 說明 |
 |---|---|
 | %成功（新名稱） | 透過方案獲得並在方案推進中取得成功的潛在客戶百分比 |
 | %成功（總計） | 在方案推進中取得成功的潛在客戶百分比 |

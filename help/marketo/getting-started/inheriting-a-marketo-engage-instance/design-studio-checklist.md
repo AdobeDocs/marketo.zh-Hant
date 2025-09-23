@@ -3,14 +3,14 @@ description: 繼承例項Design Studio檢查清單 — Marketo檔案 — 產品�
 title: 繼承的執行個體Design Studio檢查清單
 feature: Getting Started
 exl-id: 41e89120-4ac0-4e70-bed0-da4e5c5542ff
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '561'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
-# 繼承例項：Design Studio檢查清單 {#inherited-instance-design-studio-checklist}
+# 繼承的執行個體：Design Studio 檢查清單 {#inherited-instance-design-studio-checklist}
 
 建構範本和建立全域表單、代碼片段以及影像和檔案，有助於將資料錯誤降至最低，並簡化程式建置的工作流程。 記得要[下載檢查清單](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx)並追蹤您的進度。
 
@@ -25,7 +25,7 @@ ht-degree: 2%
   <tr>
    <td>全域登陸頁面</td>
    <td><li>有多少全域<a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md" target="_blank">登陸頁面</a>？ 程式是否使用這些值？</li>
-   <li>您是否已設定<a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html?lang=zh-Hant" target="_blank">訂閱中心</a>？
+   <li>您是否已設定<a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html" target="_blank">訂閱中心</a>？
    <br/>     如果沒有，請考慮建立一個。</li></td>
   </tr>
   <tr>

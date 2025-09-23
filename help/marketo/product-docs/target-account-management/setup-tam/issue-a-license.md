@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11380771
 description: 發行授權 — Marketo檔案 — 產品檔案
-title: 發行授權
+title: 核發授權
 exl-id: 5cf3b23a-ab86-4707-8538-97583e4f267b
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# 發行授權 {#issue-a-license}
+# 核發授權 {#issue-a-license}
 
 您必須將使用者設定為具有使用TAM的授權。 以下說明該怎麼做。
 

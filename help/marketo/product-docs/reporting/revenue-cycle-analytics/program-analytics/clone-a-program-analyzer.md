@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11383877
 description: 復製程式分析器 — Marketo檔案 — 產品檔案
-title: 復製程式分析器
+title: 原地複製方案分析工具
 exl-id: 90a335b3-dd55-47e7-b4f7-b45c49671d11
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '99'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# 復製程式分析器 {#clone-a-program-analyzer}
+# 原地複製方案分析工具 {#clone-a-program-analyzer}
 
 儲存分析器後，即可輕鬆複製分析器以建立新分析器。 然後，如果新檔案需要變更，請進入並編輯。
 

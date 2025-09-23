@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4720314
 description: 銷售Insight電子郵件效能報表 — Marketo檔案 — 產品檔案
-title: 銷售Insight電子郵件效能報表
+title: 銷售洞察電子郵件績效報告
 exl-id: eadce9f8-0ba2-4e0c-947c-50ff74003b8e
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '137'
-ht-degree: 2%
+ht-degree: 9%
 
 ---
 
-# 銷售Insight電子郵件效能報表 {#sales-insight-email-performance-report}
+# 銷售洞察電子郵件績效報告 {#sales-insight-email-performance-report}
 
 檢視透過[!DNL Salesforce]、[!DNL Microsoft Dynamics]或Gmail或[!DNL Outlook]外掛程式傳送的電子郵件效能。
 

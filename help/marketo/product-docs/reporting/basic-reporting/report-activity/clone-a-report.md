@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360028
 description: 複製報表 — Marketo檔案 — 產品檔案
-title: 複製報告
+title: 原地複製報告
 exl-id: ca1485a1-0c07-4261-8aa5-9d9f8d29046d
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# 複製報告 {#clone-a-report}
+# 原地複製報告 {#clone-a-report}
 
 建立報表的重複專案，在不變更原始專案的情況下進一步自訂。
 

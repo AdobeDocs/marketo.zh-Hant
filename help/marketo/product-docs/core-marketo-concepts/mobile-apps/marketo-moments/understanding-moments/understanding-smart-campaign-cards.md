@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10093348
 description: 瞭解智慧行銷活動資訊卡 — Marketo檔案 — 產品檔案
-title: 瞭解Smart Campaign資訊卡
+title: 了解智慧行銷活動資訊卡
 exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '549'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 瞭解Smart Campaign資訊卡 {#understanding-smart-campaign-cards}
+# 了解智慧行銷活動資訊卡 {#understanding-smart-campaign-cards}
 
 使用Marketo時刻檢視從您的智慧型手機或iPad執行的每次Smart Campaigns。 Marketo時刻智慧行銷活動卡表示行銷活動的一次執行；每次智慧行銷活動執行時都會顯示新卡。 Smart Campaign卡在左上角標有燈泡。
 

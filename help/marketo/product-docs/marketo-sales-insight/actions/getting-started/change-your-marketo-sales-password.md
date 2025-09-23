@@ -1,16 +1,16 @@
 ---
 description: 變更您的Marketo銷售密碼 — Marketo檔案 — 產品檔案
-title: 變更您的Marketo銷售密碼
+title: 變更您的 Marketo 銷售密碼
 exl-id: c63c007a-8f3e-433e-8f3a-9426da303cdb
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '159'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# 變更您的Marketo銷售密碼 {#change-your-marketo-sales-password}
+# 變更您的 Marketo 銷售密碼 {#change-your-marketo-sales-password}
 
 需要變更您的密碼嗎？ 方法如下。
 

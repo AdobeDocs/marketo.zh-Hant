@@ -3,10 +3,10 @@ description: 電子郵件連線節流 — Marketo檔案 — 產品檔案
 title: 電子郵件連線節流
 exl-id: 093f5459-1bbb-45dd-8590-71ea4e1168d4
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '374'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 

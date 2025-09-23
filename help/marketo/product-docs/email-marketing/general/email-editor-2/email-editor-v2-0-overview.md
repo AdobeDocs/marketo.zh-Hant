@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11372299
 description: 電子郵件編輯器v2.0概覽 — Marketo檔案 — 產品檔案
-title: 電子郵件編輯器v2.0概覽
+title: 電子郵件編輯器 v2.0 概觀
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '390'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 電子郵件編輯器v2.0概覽 {#email-editor-v2-overview}
+# 電子郵件編輯器 v2.0 概觀 {#email-editor-v2-overview}
 
 當您決定啟動[!DNL Email Editor v2.0]時，您會注意到幾個新功能。
 

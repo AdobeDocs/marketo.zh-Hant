@@ -1,14 +1,14 @@
 ---
 description: 電子郵件標示為垃圾訊息 — Marketo檔案 — 產品檔案
-title: 電子郵件標示為垃圾訊息
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+title: 電子郵件被標記為垃圾郵件
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '209'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 電子郵件標示為垃圾訊息 {#email-marked-as-spam}
+# 電子郵件被標記為垃圾郵件 {#email-marked-as-spam}
 
 作為一家公司，我們努力確保傳遞率維持在高水準。 儘管如此，還是有一些使用者行為和設定可能會觸發您傳送的電子郵件被路由到垃圾郵件資料夾。
 

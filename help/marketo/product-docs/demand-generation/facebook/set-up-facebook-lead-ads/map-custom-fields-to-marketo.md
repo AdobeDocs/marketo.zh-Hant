@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12983101
 description: 將自訂欄位對應至Marketo - Marketo檔案 — 產品檔案
-title: 將自訂欄位對應至Marketo
+title: 將自訂欄位對應至 Marketo
 exl-id: c52c9bcb-6448-4ebe-b87f-9e3a48e3d27d
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '234'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
-# 將自訂欄位對應至Marketo {#map-custom-fields-to-marketo}
+# 將自訂欄位對應至 Marketo {#map-custom-fields-to-marketo}
 
 依預設，您可能想要收集超過標準資訊[!DNL Facebook]儲存的資訊，例如某人使用您的線上傳遞服務的頻率。 您可以透過[在您的](https://www.facebook.com/business/help/774623835981457?helpref=uf_permalink)潛在客戶廣告中建立自訂問題[!DNL Facebook]來完成此作業。
 

@@ -1,12 +1,12 @@
 ---
 description: Salesforce同步設定 — Marketo檔案 — 產品檔案
-title: Salesforce同步設定
+title: Salesforce 同步設定
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '574'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 1%
 
    ![](assets/salesforce-sync-settings-4.png)
 
-1. 按一下「**[!UICONTROL Salesforce API]**」標籤。 在此卡片中，您可以設定將資訊記錄到[!DNL Salesforce]的偏好設定。 完成時，按一下&#x200B;**[!UICONTROL Save]**。
+1. 按一下「**[!UICONTROL Salesforce API]**」索引標籤。在此卡片中，您可以設定將資訊記錄到[!DNL Salesforce]的偏好設定。 完成時，按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/salesforce-sync-settings-5.png)
 
@@ -70,9 +70,9 @@ ht-degree: 1%
 
 1. 登入您的[!DNL Salesforce]執行個體。
 1. 在右上角找到您的使用者名稱，然後選取下拉式清單。
-1. 選擇「**[!UICONTROL My Settings]**」。
-1. 選擇「**[!UICONTROL Email]**」。
-1. 選擇「**[!UICONTROL My Email to Salesforce]**」。
+1. 選取「**[!UICONTROL My Settings]**」。
+1. 選取「**[!UICONTROL Email]**」。
+1. 選取「**[!UICONTROL My Email to Salesforce]**」。
 1. 在此頁面中，您會看到標示為「[!UICONTROL Email to Salesforce Address]」的欄位。 如果旁邊未填入任何內容，請向下捲動至&quot;[!UICONTROL My Acceptable Email Addresses]&quot;。
 1. 輸入您要密件副本的電子郵件地址。
 1. 按一下「**[!UICONTROL Save Changes]**」。

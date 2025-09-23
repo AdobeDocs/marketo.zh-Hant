@@ -4,14 +4,14 @@ description: 冠軍/挑戰者 — 核准您的電子郵件測試 — Marketo檔�
 title: 冠軍/挑戰者 — 核准您的電子郵件測試
 exl-id: dfef8e21-2a94-47b8-9551-68a24605d267
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# 冠軍/挑戰者：核准您的電子郵件測試 {#champion-challenger-approve-your-email-test}
+# 衛冕者/挑戰者：核准您的電子郵件測試 {#champion-challenger-approve-your-email-test}
 
 設定您的電子郵件測試以核准它的最後一步。 方法如下。
 

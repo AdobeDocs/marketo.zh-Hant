@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11377945
-description: 稽核軌跡&rbrack;概觀 — Marketo檔案 — 產品檔案
+description: 稽核軌跡]概觀 — Marketo檔案 — 產品檔案
 title: 稽核軌跡概觀
 exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
 feature: Audit Trail
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '332'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

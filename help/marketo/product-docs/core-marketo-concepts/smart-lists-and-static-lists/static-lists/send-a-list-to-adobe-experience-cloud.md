@@ -1,17 +1,17 @@
 ---
 unique-page-id: 37356194
 description: 傳送清單至Adobe Experience Cloud - Marketo檔案 — 產品檔案
-title: 傳送清單至Adobe Experience Cloud
+title: 將清單傳送至 Adobe Experience Cloud
 exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
 feature: Static Lists
-source-git-commit: 781f1350b4eae731bd77013ed9f238d77a6fcd32
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '782'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# 傳送清單至Adobe Experience Cloud {#send-a-list-to-adobe-experience-cloud}
+# 將清單傳送至 Adobe Experience Cloud {#send-a-list-to-adobe-experience-cloud}
 
 >[!NOTE]
 >
@@ -94,9 +94,9 @@ ht-degree: 1%
 
 ### 共用至Adobe Analytics {#sharing-to-adobe-analytics}
 
-* 對於同時擁有Adobe Audience Manager和Adobe Analytics的使用者，此整合可讓對象從Marketo分享至您的Adobe Analytics報表套裝，不過您需要在Adobe Audience Manager中執行一些額外的設定步驟才能啟用此功能。 請參閱[Adobe Audience Manager的檔案](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=zh-Hant){target="_blank"}，以取得如何設定此專案的詳細資訊。
+* 對於同時擁有Adobe Audience Manager和Adobe Analytics的使用者，此整合可讓對象從Marketo分享至您的Adobe Analytics報表套裝，不過您需要在Adobe Audience Manager中執行一些額外的設定步驟才能啟用此功能。 請參閱[Adobe Audience Manager的檔案](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html){target="_blank"}，以取得如何設定此專案的詳細資訊。
 
-* 清單從Marketo上傳至Adobe Audience Manager後，Adobe Target也可加以存取。 必須在Adobe Target[中啟用該組態](https://experienceleague.adobe.com/zh-hant/docs/target/using/integrate/audience-manager-target-integration){target="_blank"}。
+* 清單從Marketo上傳至Adobe Audience Manager後，Adobe Target也可加以存取。 必須在Adobe Target[中啟用該組態](https://experienceleague.adobe.com/en/docs/target/using/integrate/audience-manager-target-integration){target="_blank"}。
 
 * 如果清單為空白，或沒有具有ECID值的使用者，系統不會推送清單名稱以在Marketo外部參照。
 
@@ -108,7 +108,7 @@ ht-degree: 1%
 * 對於Marketo已設法與匯出清單中的人員相符的所有ECID，Marketo將使用ECID裝置識別碼來撰寫特徵。 特徵名稱將會符合您在匯出期間指定的目的地對象名稱。
 * Marketo也將使用ECID特徵作為唯一的分段標準，在您的Audience Manager例項中建立區段。 區段的名稱將會符合您在匯出期間指定的目的地對象名稱。
 
-## 常見問題集 {#faq}
+## 常見問題 {#faq}
 
 **為什麼Marketo中的清單大小與Adobe中的清單大小不同？**
 

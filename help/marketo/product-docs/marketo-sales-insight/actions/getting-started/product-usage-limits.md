@@ -3,16 +3,16 @@ description: 產品使用量限制 — Marketo檔案 — 產品檔案
 title: 產品使用量限制
 exl-id: 899dc59e-85bf-408e-9687-e0ed823dd51f
 feature: Sales Insight Actions
-source-git-commit: 1f228323c18204149630a7cb77d6ae0a88b425e3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '233'
-ht-degree: 14%
+ht-degree: 19%
 
 ---
 
 # 產品使用量限制 {#product-usage-limits}
 
-在下方，您將找到Sales Insight Actions中可用之擴充銷售參與功能的使用限制。
+您將找到Sales Insight Actions提供的擴充銷售參與功能之使用限制。
 
 >[!NOTE]
 >
@@ -20,7 +20,7 @@ ht-degree: 14%
 
 <table>
   <th>功能</th>
-  <th>評比</th>
+  <th>比率</th>
   <th>限制</th>
  <tr>
   <td>Marketo個人資料庫同步</td>
@@ -112,12 +112,12 @@ ht-degree: 14%
   <td>20</td>
  </tr>
  <tr>
-  <td>呼叫結果</td>
+  <td>通話結果</td>
   <td>每個執行個體</td>
   <td>15</td>
  </tr>
  <tr>
-  <td>來電原因</td>
+  <td>通話原因</td>
   <td>每個執行個體</td>
   <td>15</td>
  </tr>

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359909
 description: 管理使用者角色和許可權 — Marketo檔案 — 產品檔案
-title: 管理使用者角色和許可權
+title: 管理使用者角色和權限
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
 feature: Users and Roles
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '455'
-ht-degree: 1%
+ht-degree: 7%
 
 ---
 
-# 管理使用者角色和許可權 {#managing-user-roles-and-permissions}
+# 管理使用者角色和權限 {#managing-user-roles-and-permissions}
 
 設定、建立和編輯使用者角色，並將它們指派給使用者。 這可讓您控制每個Marketo使用者有權存取的區域與功能。
 
@@ -31,7 +31,7 @@ Marketo提供數個內建角色，具有不同的存取層級：
 
 您無法編輯「管理員」和「標準使用者」角色，但可以編輯其他角色。 您也可以建立新的自訂角色，以符合公司中的特定組織結構。
 
-## 具有Adobe身分的Marketo {#marketo-with-adobe-identity}
+## Marketo 與 Adobe Identity {#marketo-with-adobe-identity}
 
 如果您使用Marketo搭配Adobe Identity，您可以在此找到[設定檔說明清單](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md#profile-levels)。
 
@@ -39,7 +39,7 @@ Marketo提供數個內建角色，具有不同的存取層級：
 
 當您[第一次建立使用者](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)或[編輯現有的使用者](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md)時，您可以將角色指派給使用者。
 
-1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/managing-user-roles-and-permissions-1.png)
 
@@ -63,7 +63,7 @@ Marketo提供數個內建角色，具有不同的存取層級：
 
 有時候，您的組織會有具有非常特定角色的員工，這些角色需要自訂許可權組合。
 
-1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/managing-user-roles-and-permissions-5.png)
 
@@ -87,7 +87,7 @@ Marketo提供數個內建角色，具有不同的存取層級：
 
 如果您需要變更與現有角色相關聯的許可權，可以編輯角色。
 
-1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/managing-user-roles-and-permissions-10.png)
 
@@ -115,7 +115,7 @@ Marketo提供數個內建角色，具有不同的存取層級：
 
 如果某個角色變得不必要，您可以將其刪除。
 
-1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/managing-user-roles-and-permissions-15.png)
 

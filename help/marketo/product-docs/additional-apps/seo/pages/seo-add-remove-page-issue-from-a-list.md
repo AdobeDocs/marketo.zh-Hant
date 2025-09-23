@@ -1,31 +1,31 @@
 ---
 unique-page-id: 2949266
 description: SEO — 從清單新增/移除頁面問題 — Marketo檔案 — 產品檔案
-title: SEO — 在清單中新增/移除頁面問題
+title: SEO - 從清單中新增/移除頁面問題
 exl-id: 41d16263-a083-40a5-9003-72a35df12c45
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 0%
+source-wordcount: '165'
+ht-degree: 10%
 
 ---
 
-# SEO — 在清單中新增/移除頁面問題 {#seo-add-remove-page-issue-from-a-list}
+# SEO - 從清單中新增/移除頁面問題 {#seo-add-remove-page-issue-from-a-list}
 
 您可以將頁面問題整理到清單中。 您也可以從清單中移除頁面問題。
 
 ## 將頁面問題新增至清單 {#add-page-issues-to-a-list}
 
-1. 移至&#x200B;**[!UICONTROL 頁面]**&#x200B;區段。
+1. 移至&#x200B;**[!UICONTROL Pages]**&#x200B;區段。
 
    ![](assets/image2014-9-18-14-3a3-3a10.png)
 
-1. 在&#x200B;**[!UICONTROL 頁面]**&#x200B;索引標籤上，按一下&#x200B;**[!UICONTROL 問題]**。
+1. 在&#x200B;**[!UICONTROL Pages]**&#x200B;索引標籤上，按一下&#x200B;**[!UICONTROL Issues]**。
 
    ![](assets/image2014-9-18-14-3a3-3a18.png)
 
-1. 暫留在您要新增的頁面問題上。 按一下&#x200B;**[!UICONTROL 新增/移除清單]**。
+1. 暫留在您要新增的頁面問題上。 按一下「**[!UICONTROL Add/Remove From List]**」。
 
    ![](assets/image2014-9-18-14-3a3-3a40.png)
 
@@ -35,15 +35,15 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >您也可以建立新的關鍵字清單，以供您執行。 只要在&#x200B;**[!UICONTROL 建立新清單]**&#x200B;中輸入您想要的名稱。
+   >您也可以建立新的關鍵字清單，以供您執行。 只要在&#x200B;**[!UICONTROL Create a new list]**&#x200B;中輸入您想要的名稱。
 
 ## 從清單中移除頁面問題 {#remove-page-issue-from-a-list}
 
-1. 移至&#x200B;**[!UICONTROL 頁面]**&#x200B;區段。
+1. 移至&#x200B;**[!UICONTROL Pages]**&#x200B;區段。
 
    ![](assets/image2014-9-18-14-3a4-3a8.png)
 
-1. 在頁面索引標籤上，按一下&#x200B;**[!UICONTROL 問題]**。
+1. 在頁面索引標籤上，按一下&#x200B;**[!UICONTROL Issues]**。
 
    ![](assets/image2014-9-18-14-3a4-3a22.png)
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-14-3a4-3a29.png)
 
-1. 暫留在您要移除的頁面問題上。 按一下&#x200B;**[!UICONTROL 新增/移除清單]**。
+1. 暫留在您要移除的頁面問題上。 按一下「**[!UICONTROL Add/Remove From List]**」。
 
    ![](assets/image2014-9-18-14-3a4-3a38.png)
 

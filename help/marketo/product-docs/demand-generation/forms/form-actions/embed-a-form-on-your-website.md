@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359641
 description: 將表單內嵌至您的網站 — Marketo檔案 — 產品檔案
-title: 在您的網站上內嵌表單
+title: 在您的網站上嵌入表單
 exl-id: ead46100-7af8-48fe-a37f-74e5bdc4328c
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '201'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# 在您的網站上內嵌表單 {#embed-a-form-on-your-website}
+# 在您的網站上嵌入表單 {#embed-a-form-on-your-website}
 
 Marketo可讓您將我們的表單內嵌在您自己的網站上。 以下說明如何取得內嵌程式碼的存取權。
 
@@ -47,6 +47,6 @@ Marketo可讓您將我們的表單內嵌在您自己的網站上。 以下說明
 
 >[!NOTE]
 >
->如果您的開發人員想要自訂外觀或存取進階API函式，請向他們顯示[Forms 2.0開發人員頁面](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)。
+>如果您的開發人員想要自訂外觀或存取進階API函式，請向他們顯示[Forms 2.0開發人員頁面](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)。
 
 做得好！您要[內嵌程式碼包含Lightbox程式碼](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md)嗎？ 這也很容易！

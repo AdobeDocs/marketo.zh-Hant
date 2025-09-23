@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4720151
 description: 在Marketo登陸頁面上實作RTP - Marketo檔案 — 產品檔案
-title: 在Marketo登陸頁面上實作RTP
+title: 在 Marketo 登陸頁面上實施 RTP
 exl-id: fd19c3ad-d3f6-44a3-9f7a-d518e2d3f02a
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '169'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# 在Marketo登陸頁面上實作RTP {#implementing-rtp-on-marketo-landing-pages}
+# 在 Marketo 登陸頁面上實施 RTP {#implementing-rtp-on-marketo-landing-pages}
 
 若要實作您的[!UICONTROL RTP tag]，請遵循下列安裝指示：
 

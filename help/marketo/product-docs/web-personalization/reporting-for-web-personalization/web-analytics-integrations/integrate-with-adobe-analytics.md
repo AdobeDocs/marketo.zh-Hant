@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2949160
 description: 與Adobe Analytics整合 — Marketo檔案 — 產品檔案
-title: 整合Adobe Analytics
+title: 與 Adobe Analytics 整合
 exl-id: 6ea35811-6f3d-4dc8-91aa-877d613f8e93
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '984'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 整合Adobe Analytics {#integrate-with-adobe-analytics}
+# 與 Adobe Analytics 整合 {#integrate-with-adobe-analytics}
 
-## 介紹 {#intro}
+## 簡介 {#intro}
 
 檢視Adobe Analytics帳戶中的組織、產業和[!DNL Marketo Real-Time Personalization] (RTP)行銷活動資料，從B2B角度分析您的網站分析。
 
@@ -151,7 +151,7 @@ RTP儀表板可協助您根據垂直和RTP區段來瞭解訪客的劃分情形�
 >
 >**請確定這些位置編號與AA中建立的變數和事件編號一致。**
 
-## 報表 {#reports}
+## 報告 {#reports}
 
 根據組織名稱、產業和RTP區段以及即時行銷活動資料，建立增強的SiteAdobe Analytics報表。
 

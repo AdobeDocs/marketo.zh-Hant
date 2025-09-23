@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359701
 description: 建立自由表單登陸頁面 — Marketo檔案 — 產品檔案
-title: 建立自由格式的登陸頁面
+title: 建立自由格式登陸頁面
 exl-id: fc58cb1f-8567-47ce-b724-24e6e6bc9cce
 feature: Landing Pages
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '152'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# 建立自由格式的登陸頁面 {#create-a-free-form-landing-page}
+# 建立自由格式登陸頁面 {#create-a-free-form-landing-page}
 
 自由格式登入頁面可建立為方案的本機資產，或在[!UICONTROL Design Studio]中建立以全域使用。
 
@@ -29,7 +29,7 @@ ht-degree: 1%
 
    ![](assets/image2015-5-19-12-3a46-3a47.png)
 
-1. 按一下&#x200B;**[!UICONTROL New]**。 選擇「**[!UICONTROL New Local Asset]**」。
+1. 按一下&#x200B;**[!UICONTROL New]**。 選取「**[!UICONTROL New Local Asset]**」。
 
    ![](assets/image2015-5-19-12-3a47-3a27.png)
 

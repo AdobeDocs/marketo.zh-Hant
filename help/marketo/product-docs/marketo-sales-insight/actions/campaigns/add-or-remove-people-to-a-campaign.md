@@ -3,10 +3,10 @@ unique-page-id: 14352613
 description: 新增人員至您的行銷活動 — Marketo檔案 — 產品檔案
 title: 新增人員至您的行銷活動
 exl-id: ef88ee07-6d33-40aa-9b0b-ccef12829345
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '445'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 只需回覆他們的電子郵件，然後從外掛程式中選擇行銷活動。
 
-## 從行銷活動移除人員 {#remove-people-from-a-campaign}
+## 從行銷活動中移除人員 {#remove-people-from-a-campaign}
 
 您可以在收件者回覆時自動結束行銷活動。 您可以選擇將行銷活動標示為該收件者的「成功」。
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. 尋找您要移除的人員，然後按一下[移除]。**&#x200B;**
+1. 尋找您要移除的人員，然後按一下[移除]。****
 
    ![](assets/four.png)
 

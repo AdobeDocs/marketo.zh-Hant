@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147068
 description: 篩選Smart Campaign結果 — Marketo檔案 — 產品檔案
-title: 篩選Smart Campaign結果
+title: 篩選智慧行銷活動結果
 exl-id: 76c1b143-313b-4ef2-860f-f8b127fdfc6b
 feature: Smart Campaigns
-source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 0%
+source-wordcount: '123'
+ht-degree: 6%
 
 ---
 
-# 篩選Smart Campaign結果 {#filter-smart-campaign-results}
+# 篩選智慧行銷活動結果 {#filter-smart-campaign-results}
 
 >[!PREREQUISITES]
 >
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## 依儲存的篩選器篩選 {#filter-by-saved-filters}
 
-1. 在您的Smart Campaign **[!UICONTROL 結果]**&#x200B;索引標籤中，按一下&#x200B;**[!UICONTROL 篩選器]**&#x200B;並選取儲存的篩選器。
+1. 在您的Smart Campaign **[!UICONTROL Results]**&#x200B;索引標籤中，按一下&#x200B;**[!UICONTROL Filter]**&#x200B;並選取已儲存的篩選器。
 
    ![](assets/filter-smart-campaign-results-1.png)
 
@@ -31,19 +31,19 @@ ht-degree: 0%
 
 ## 建立自訂篩選器 {#create-a-custom-filter}
 
-1. 按一下&#x200B;**[!UICONTROL 篩選器]**，然後按一下&#x200B;**[!UICONTROL 自訂]**。
+1. 按一下&#x200B;**[!UICONTROL Filter]**，然後按&#x200B;**[!UICONTROL Custom]**。
 
    ![](assets/filter-smart-campaign-results-2.png)
 
-1. 選取您要檢視的活動型別，然後按一下&#x200B;**[!UICONTROL 另存新檔]**。
+1. 選取您要檢視的活動型別，然後按一下&#x200B;**[!UICONTROL Save As]**。
 
    ![](assets/filter-smart-campaign-results-3.png)
 
    >[!TIP]
    >
-   >按一下&#x200B;**[!UICONTROL 套用]**，直接將自訂篩選器套用至您的結果，而不儲存它。
+   >按一下&#x200B;**[!UICONTROL Apply]**&#x200B;直接將自訂篩選器套用至您的結果，而不儲存它。
 
-1. 輸入篩選器名稱，然後按一下&#x200B;**[!UICONTROL 儲存]**。
+1. 輸入篩選器名稱並按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/filter-smart-campaign-results-4.png)
 

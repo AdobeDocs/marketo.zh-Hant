@@ -4,14 +4,14 @@ description: 發行說明 — 2014年6月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2014年6月
 exl-id: 690c4e41-831b-47b4-a0c6-d29cf607b179
 feature: Release Information
-source-git-commit: b95458ffab422901ef5e674756ae5e413ec542fd
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '252'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 發行說明： 2014年6月 {#release-notes-june}
+# 發行說明：2014 年 6 月 {#release-notes-june}
 
 2014年6月發行版本包含下列功能。 請檢查您的Marketo版本是否有功能可用。
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 新外觀，包括[!DNL Marketo Lead Management]的導覽功能，即將於稍後版本推出！
 
-## 適用於[!DNL Outlook] 2013的[!DNL Sales Insight]外掛程式 {#sales-insight-plugin-for-outlook}
+## 適用於[!DNL Sales Insight] 2013的[!DNL Outlook]外掛程式 {#sales-insight-plugin-for-outlook}
 
 您必須下載新的外掛程式，才能進行這項作業。 您可以從[這裡](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)下載。
 

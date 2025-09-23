@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4720377
 description: 跨工作區參考清單或智慧清單 — Marketo檔案 — 產品檔案
-title: 跨工作區參考清單或智慧清單
+title: 跨工作區參照清單或智慧清單
 exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
 feature: Smart Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '167'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# 跨工作區參考清單或智慧清單 {#reference-a-list-or-smart-list-across-workspaces}
+# 跨工作區參照清單或智慧清單 {#reference-a-list-or-smart-list-across-workspaces}
 
 清單和智慧列示可在工作區之間共用和參考，以方便從資料庫重複使用。
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-1.png)
 
-1. 以滑鼠右鍵按一下行銷活動資料夾。 選擇「**[!UICONTROL New Folder]**」。
+1. 以滑鼠右鍵按一下行銷活動資料夾。 選取「**[!UICONTROL New Folder]**」。
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-2.png)
 

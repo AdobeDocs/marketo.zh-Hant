@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1146991
 description: 停用觸發智慧型行銷活動 | 排程索引標籤 — Marketo檔案 — 產品檔案
-title: 停用觸發智慧型行銷活動 | 排程標籤
+title: 停用觸發程序智慧行銷活動 | 排程索引標籤
 exl-id: 59138811-c963-4c4d-9513-b3e12e8e9e38
 feature: Smart Campaigns
-source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 0%
+source-wordcount: '83'
+ht-degree: 16%
 
 ---
 
-# 停用觸發智慧型行銷活動 | 排程標籤 {#deactivate-a-trigger-smart-campaign-schedule-tab}
+# 停用觸發程序智慧行銷活動 | 排程索引標籤 {#deactivate-a-trigger-smart-campaign-schedule-tab}
 
 如果您有需要停用的舊觸發程式行銷活動，請依照下列步驟操作：
 
@@ -19,11 +19,11 @@ ht-degree: 0%
 
    ![](assets/deactivate-a-trigger-smart-campaign-schedule-tab-1.png)
 
-1. 在[排程]索引標籤下，按一下[**[!UICONTROL 停用]**]。
+1. 在[排程]索引標籤下，按一下&#x200B;**[!UICONTROL Deactivate]**。
 
    ![](assets/deactivate-a-trigger-smart-campaign-schedule-tab-2.png)
 
-1. 按一下&#x200B;**[!UICONTROL 停用]**&#x200B;以確認。
+1. 按一下&#x200B;**[!UICONTROL Deactivate]**&#x200B;確認。
 
    ![](assets/deactivate-a-trigger-smart-campaign-schedule-tab-3.png)
 

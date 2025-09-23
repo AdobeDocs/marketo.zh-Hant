@@ -4,10 +4,10 @@ description: 在等待流程步驟中使用持續時間 — Marketo檔案 — �
 title: 在等待流程步驟中使用持續時間
 exl-id: 7b13d225-78ba-4ef1-9ff5-0f6acde6e5ff
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '205'
-ht-degree: 0%
+source-wordcount: '202'
+ht-degree: 9%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 您可以使用等待流程步驟，將個人穿過Smart Campaign的歷程暫停一段特定時間。 您也可以指定星期幾的標準以及結束的時間。
 
-1. 在您的Smart Campaign **[!UICONTROL 流量]**&#x200B;索引標籤中，拖曳到&#x200B;**[!UICONTROL 等待]**&#x200B;流量步驟。
+1. 在您的Smart Campaign **[!UICONTROL Flow]**&#x200B;標籤中，拖曳至&#x200B;**[!UICONTROL Wait]**&#x200B;流程步驟上。
 
    ![](assets/use-a-duration-in-a-wait-flow-step-1.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/use-a-duration-in-a-wait-flow-step-2.png)
 
-1. 完成了！ 流量將在您指定的期間內暫停。 如需進階選項，請按一下右側的齒輪圖示。
+1. 完成了！流量將在您指定的期間內暫停。 如需進階選項，請按一下右側的齒輪圖示。
 
    ![](assets/use-a-duration-in-a-wait-flow-step-3.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/use-a-duration-in-a-wait-flow-step-4.png)
 
-1. 選擇性地指定時間。 按一下&#x200B;**[!UICONTROL 保存]**。
+1. 選擇性地指定時間。 按一下「**[!UICONTROL Save]**」。
 
    ![](assets/use-a-duration-in-a-wait-flow-step-5.png)
 

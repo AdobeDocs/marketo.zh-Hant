@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8783935
 description: 範本6D - Marketo檔案 — 產品檔案
-title: 範本6D
+title: 範本 6D
 exl-id: 2708fd0b-1c87-4b2c-b28c-93b7b8547df4
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '49'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# 範本6D {#template-6d}
+# 範本 6D {#template-6d}
 
-按一下滑鼠右鍵以[下載範本6D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6d.html?lang=zh-Hant)
+按一下滑鼠右鍵以[下載範本6D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6d.html)
 
 ![](assets/image2015-7-29-12-3a1-3a21.png)
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 **在下方按一下滑鼠右鍵以下載此範本：**
 
-[範本6D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6d.html?lang=zh-Hant)
+[範本6D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6d.html)

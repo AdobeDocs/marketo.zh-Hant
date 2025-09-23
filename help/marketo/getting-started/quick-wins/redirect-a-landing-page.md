@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359428
 description: 重新導向登陸頁面 — Marketo檔案 — 產品檔案
-title: 重新導向登入頁面
+title: 登陸頁面重新導向
 exl-id: 5c9205aa-e970-4d72-a4e3-48593da4181c
 feature: Getting Started
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '127'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
-# 重新導向登入頁面 {#redirect-a-landing-page}
+# 登陸頁面重新導向 {#redirect-a-landing-page}
 
 ## 任務：將登入頁面重新導向至不同網頁 {#mission-redirect-a-landing-page-to-a-different-web-page}
 
@@ -21,12 +21,12 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [含有表單的登陸頁面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
+>* [附有表單的登陸頁面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
 >* [使用CNAME自訂您的登陸頁面URL](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md){target="_blank"}
 
 ## 步驟1：啟動新的重新導向規則 {#step-start-a-new-redirect-rule}
 
-1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/redirect-a-landing-page-1.png)
 
@@ -60,6 +60,6 @@ ht-degree: 0%
 
 恭喜！您已成功重新導向登陸頁面。
 
-<br> 
+<br>
 
 [◄任務9：更新潛在客戶資料](/help/marketo/getting-started/quick-wins/update-person-data.md)

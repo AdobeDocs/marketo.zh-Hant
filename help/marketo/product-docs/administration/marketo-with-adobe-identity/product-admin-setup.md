@@ -3,20 +3,20 @@ description: 產品管理員設定 — Marketo檔案 — 產品檔案
 title: 產品管理員設定
 exl-id: ed628075-69b8-44b5-b60d-b121cd5a3dbe
 feature: Marketo with Adobe Identity
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 0%
+source-wordcount: '74'
+ht-degree: 8%
 
 ---
 
 # 產品管理員設定 {#product-admin-setup}
 
-1. 系統管理員邀請您之後，您將會收到歡迎電子郵件。 在該電子郵件中，按一下&#x200B;**[!UICONTROL 開始使用]**。
+1. 系統管理員邀請您之後，您將會收到歡迎電子郵件。 在該電子郵件中，按一下&#x200B;**[!UICONTROL Get Started]**。
 
    ![](assets/admin-setup-7.png)
 
-1. 如果您先前曾透過Adobe ID存取應用程式，您將會直接進入Adobe Admin Console。 如果沒有，[請設定您的Adobe ID](https://helpx.adobe.com/tw/manage-account/using/create-update-adobe-id.html){target="_blank"}。
+1. 如果您先前曾透過Adobe ID存取應用程式，您將會直接進入Adobe Admin Console。 如果沒有，[請設定您的Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}。
 
    ![](assets/admin-setup-8.png)
 

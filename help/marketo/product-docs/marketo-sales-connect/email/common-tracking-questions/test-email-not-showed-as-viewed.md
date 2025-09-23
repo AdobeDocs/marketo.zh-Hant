@@ -4,10 +4,10 @@ description: 測試電子郵件未顯示為已檢視 — Marketo檔案 — 產�
 title: 測試電子郵件未顯示為已檢視
 exl-id: a97bf35c-6cc2-49d1-b8ab-7a434c4482b6
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '137'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 

@@ -4,10 +4,10 @@ description: 刪除流程步驟 — Marketo檔案 — 產品檔案
 title: 刪除流程步驟
 exl-id: 039a1e80-48cc-47f9-9e1a-459f89bf0730
 feature: Smart Campaigns
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '367'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -42,7 +42,7 @@ ht-degree: 0%
    1. **已在沒有等待步驟的情況下執行**。不會有任何人員受到影響，因為行銷活動在執行後處於休眠狀態。
    1. **正在執行**。 變更可能會造成非預期的行為，具體取決於刪除的時間與詳細資訊。 我們強烈建議不要編輯作用中執行的批次行銷活動。 在緊急情況下，瞭解如何[中止執行中的Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md){target="_blank"}。
 
-   1. **已執行等待步驟。**&#x200B;此專案的幾個詳細資料。
+   1. **已執行等待步驟。**此專案的幾個詳細資料。
 當人員進入等待步驟時，人員會記下持續時間以及要返回的NUMBER STEP。 請參閱下列範例。
 
    **觸發智慧行銷活動**

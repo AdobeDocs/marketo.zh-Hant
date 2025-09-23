@@ -3,7 +3,7 @@ description: 步驟4之4 — 使用資源所有者密碼控制連線來連線Mar
 title: 步驟4之4 — 使用資源擁有者密碼控制連線來連線Marketo解決方案
 exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '391'
 ht-degree: 0%
@@ -38,7 +38,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-16-9-3a47-3a34.png)
 
-1. 選擇「**[!UICONTROL Microsoft]**」。
+1. 選取「**[!UICONTROL Microsoft]**」。
 
    ![](assets/image2015-3-16-9-3a50-3a6.png)
 

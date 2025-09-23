@@ -4,14 +4,14 @@ description: 最佳實務 — 如何組織您的程式 — Marketo檔案 — 產
 title: 最佳實務 — 如何組織您的計畫
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '847'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
-# 最佳做法：如何組織您的計畫 {#best-practice-how-to-organize-your-programs}
+# 最佳做法：如何組織您的方案 {#best-practice-how-to-organize-your-programs}
 
 有許多方式可在行銷活動中組織樹狀結構以及單一方案的內容。 不過，有些方式會更好，而且可協助行銷部門的人員。
 
@@ -29,7 +29,7 @@ ht-degree: 2%
 >
 >* 有效的行銷方案
 >   * 電子郵件
->   * 活動
+>   * 事件
 >     * 直播活動/路演
 >     * 商展
 >     * 網路研討會
@@ -43,7 +43,7 @@ ht-degree: 2%
 >   * 評分
 >   * 資料管理
 >* 銷售Insight
->   * 有趣的時刻
+>   * 關鍵時刻
 >   * 銷售電子郵件
 >   * 銷售請求的行銷活動
 >* **封存**
@@ -77,7 +77,7 @@ ht-degree: 2%
 
 程式名稱在您的訂閱中必須是唯一的，即使是在不同的[工作區](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}中。  對於程式內的本機資產，規則是&#x200B;**保持名稱簡單**。 只需將邀請命名為「邀請」，而非「2015年6月網路研討會邀請」。 因為這些是在程式中，當從其他位置選擇父程式時，父程式會自動成為名稱的一部分。 換言之，本機資產在程式內只需是唯一的。 您可以有數百個名為「邀請」的資產，每個資產位於不同的程式中，這樣就不會麻煩你了。
 
-## Token {#tokens}
+## 權杖 {#tokens}
 
 Token會將資料夾和程式當作工具，用來設定供登陸頁面、電子郵件和其他資產使用的變數。
 
@@ -89,7 +89,7 @@ Token會將資料夾和程式當作工具，用來設定供登陸頁面、電子
 >
 >**您的公司地址**。 使用Token，而非每次都寫入。 如此一來，您就可以在一個位置更新它，而無需建立許多草稿。 然後視需要在較低層級的資料夾中覆寫權杖。
 
-## 活動 {#events}
+## 事件 {#events}
 
 事件通常有很多移動部分，包括：邀請、登陸頁面、表單、社交Widget和智慧型行銷活動。 組織這些區段以方便使用的最佳實務是依事件的階段進行。 以下是資料夾樹狀結構尋找事件的方式範例。
 

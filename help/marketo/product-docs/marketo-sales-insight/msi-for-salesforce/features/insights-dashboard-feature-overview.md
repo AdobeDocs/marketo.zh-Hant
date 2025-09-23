@@ -1,17 +1,17 @@
 ---
 unique-page-id: 42762514
 description: 前瞻分析儀表板功能概觀 — Marketo檔案 — 產品檔案
-title: 前瞻分析儀表板功能概觀
+title: 洞察儀表板功能概觀
 exl-id: a32f8694-faf2-4183-a485-82fd859b77d2
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1473'
 ht-degree: 0%
 
 ---
 
-# 前瞻分析儀表板功能概觀 {#insights-dashboard-feature-overview}
+# 洞察儀表板功能概觀 {#insights-dashboard-feature-overview}
 
 深入瞭解[!DNL Sales Insights]儀表板中可用的功能。
 

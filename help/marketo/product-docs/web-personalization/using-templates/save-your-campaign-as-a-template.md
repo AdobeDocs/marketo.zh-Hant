@@ -4,10 +4,10 @@ description: 將您的Campaign另存為範本 — Marketo檔案 — 產品檔案
 title: 將您的行銷活動儲存為範本
 exl-id: b14663a0-8a15-4d3d-bf1f-93a25ea606ef
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '89'
-ht-degree: 2%
+ht-degree: 15%
 
 ---
 

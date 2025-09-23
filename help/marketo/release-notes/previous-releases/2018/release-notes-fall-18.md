@@ -4,14 +4,14 @@ description: 發行說明–2018年秋季 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2018年秋季
 exl-id: a3cc4cc5-38a6-4648-91f2-092daa9b0113
 feature: Release Information
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '814'
 ht-degree: 0%
 
 ---
 
-# 發行說明： 2018年秋季 {#release-notes-fall}
+# 發行說明：2018 年秋季 {#release-notes-fall}
 
 以下功能包含在2018年秋季發行版本中。 檢查您的Marketo版本是否有功能可用。
 
@@ -58,7 +58,7 @@ Web個人化現在支援多個工作區。
 * **Marketo現在提供預設程式[!DNL Sky]**： Marketo [!DNL Sky]現在支援預設程式，這是允許您建立任何想像的促銷活動的多功能程式樣式。
 * **電子郵件程式 — 階段1**：您現在可以在[!DNL Sky]中檢視電子郵件程式。 檢視新設計，[讓我們知道您的想法](https://go.marketo.com/NextGenUX---USA---Apr-2018-fcp_Landing-Page-Feedback.html)。
 
-## Analytics {#analytics}
+## 分析 {#analytics}
 
 **[!DNL Bizible]**
 

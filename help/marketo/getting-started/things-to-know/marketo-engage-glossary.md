@@ -4,8 +4,8 @@ short-description: 了解 Marketo Engage 術語及其定義，幫助您快速上
 title: Marketo Engage 字彙表
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '4065'
 ht-degree: 100%
 

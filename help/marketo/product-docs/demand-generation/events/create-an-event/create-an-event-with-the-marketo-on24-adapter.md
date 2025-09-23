@@ -1,22 +1,22 @@
 ---
 unique-page-id: 10096656
 description: 使用Marketo ON24轉接器建立事件 — Marketo檔案 — 產品檔案
-title: 使用Marketo ON24轉接器建立事件
+title: 使用 Marketo ON24 Adapter 建立事件
 exl-id: a240ff72-b12f-4e3a-8e14-94fddb02f944
 feature: Events
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '284'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# 使用Marketo ON24轉接器建立事件 {#create-an-event-with-the-marketo-on-adapter}
+# 使用 Marketo ON24 Adapter 建立事件 {#create-an-event-with-the-marketo-on-adapter}
 
 您應熟悉在Marketo中建立事件的建置區塊和建議順序。 您也應該具備下列Marketo概念的實務知識：
 
 * [Marketo計畫](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"}以及事件，以及它們之間的差異
-* [管道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}
+* [頻道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}
 * [本機Assets](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md){target="_blank"}
 * [子行銷活動](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md){target="_blank"}和[方案狀態](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md){target="_blank"}
 

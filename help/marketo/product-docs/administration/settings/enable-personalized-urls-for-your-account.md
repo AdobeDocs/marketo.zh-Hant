@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360215
 description: 為您的帳戶啟用個人化URL - Marketo檔案 — 產品檔案
-title: 為您的帳戶啟用個人化URL
+title: 啟用您帳戶的個人化 URL
 exl-id: 3fdf6112-f483-4a86-ba8b-43a3d733227a
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 2%
+source-wordcount: '84'
+ht-degree: 23%
 
 ---
 
-# 為您的帳戶啟用個人化URL {#enable-personalized-urls-for-your-account}
+# 啟用您帳戶的個人化 URL {#enable-personalized-urls-for-your-account}
 
 個人化URL非常適合列印郵件行銷活動。
 
@@ -19,19 +19,19 @@ ht-degree: 2%
 >
 >**需要管理員許可權**
 
-1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/enable-personalized-urls-for-your-account-1.png)
 
-1. 按一下&#x200B;**[!UICONTROL 登陸頁面]**。
+1. 按一下「**[!UICONTROL Landing Pages]**」。
 
    ![](assets/enable-personalized-urls-for-your-account-2.png)
 
-1. 按一下&#x200B;**[!UICONTROL 編輯]**。
+1. 按一下「**[!UICONTROL Edit]**」。
 
    ![](assets/enable-personalized-urls-for-your-account-3.png)
 
-1. 勾選&#x200B;**[!UICONTROL 啟用個人化URL]**&#x200B;方塊，然後按一下&#x200B;**[!UICONTROL 儲存]**。
+1. 核取&#x200B;**[!UICONTROL Enable Personalized URLs]**&#x200B;方塊並按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/enable-personalized-urls-for-your-account-4.png)
 

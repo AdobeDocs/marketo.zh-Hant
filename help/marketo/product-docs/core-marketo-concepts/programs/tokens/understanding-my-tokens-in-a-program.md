@@ -1,23 +1,23 @@
 ---
 unique-page-id: 1147114
 description: 瞭解程式中的我的Token - Marketo檔案 — 產品檔案
-title: 瞭解程式中的我的Token
+title: 了解方案中的我的權杖
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '422'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
-# 瞭解程式中的我的Token {#understanding-my-tokens-in-a-program}
+# 了解方案中的我的權杖 {#understanding-my-tokens-in-a-program}
 
 代號是變數，可用於電子郵件、登陸頁面和智慧型行銷活動，讓您的生活更輕鬆。
 
 除了「我的Token」，您也可以在程式中使用任何內建的Token。 檢視[Token概述](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}。
 
-## 我的代號  {#my-tokens}
+## 我的權杖  {#my-tokens}
 
 我的Token是任何人都可以建立的自訂變數。 在本機上，它們是在[建立的行銷活動資料夾或方案中](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"}。
 
@@ -46,7 +46,7 @@ ht-degree: 1%
   </tr>
   <tr>
    <td>電子郵件指令碼 <img alt="--" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td>
-   <td>使用此代號在您的電子郵件中執行Velocity指令碼。 在<a href="https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/email-scripting" title="關注連結" rel="nofollow">此處</a>瞭解更多資訊。 </td>
+   <td>使用此代號在您的電子郵件中執行Velocity指令碼。 在<a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting" title="關注連結" rel="nofollow">此處</a>瞭解更多資訊。 </td>
   </tr>
   <tr>
    <td>數字<span> <img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td>

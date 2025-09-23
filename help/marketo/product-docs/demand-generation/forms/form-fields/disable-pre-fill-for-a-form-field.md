@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359675
 description: 停用表單欄位的預填 — Marketo檔案 — 產品檔案
-title: 停用表單欄位的預填
+title: 停用表單欄位預先填入
 exl-id: c600e0ce-1b94-4f7b-b75d-f550a2904799
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '158'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# 停用表單欄位的預填 {#disable-pre-fill-for-a-form-field}
+# 停用表單欄位預先填入 {#disable-pre-fill-for-a-form-field}
 
 當網路訪客是已知的（已編碼），Marketo表單預設會使用欄位資訊預先填寫欄位。 如果您想要關閉此功能，請參閱以下操作說明。
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720796
 description: 使用網頁Personalization資料重新進行目標定位 — Marketo檔案 — 產品檔案
-title: 使用網頁Personalization資料重新進行目標定位
+title: 利用網頁個人化資料進行重定向
 exl-id: b5af1f84-2061-4d0d-9d1f-2fff9191f028
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '381'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 

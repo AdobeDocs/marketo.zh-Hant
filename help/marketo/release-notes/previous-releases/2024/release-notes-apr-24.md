@@ -3,26 +3,26 @@ description: 發行說明 — 2024年4月 — Marketo檔案 — 產品檔案
 title: 發行說明 - 2024 年 4 月
 feature: Release Information
 exl-id: d87474f8-fc47-407b-bc97-e343b56c1f8f
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '447'
-ht-degree: 3%
+ht-degree: 21%
 
 ---
 
-# 發行說明： 2024年4月 {#release-notes-apr-24}
+# 發行說明：2024 年 4 月 {#release-notes-apr-24}
 
-下方提供2024年4月發行版本包含的所有功能。 檢查您的Adobe Marketo Engage版本是否有功能可用。
+下方提供2024年4月發行版本包含的所有功能。 請查看您的 Adobe Marketo Engage 版本是否提供這些功能。
 
-您可在此處[找到Adobe Dynamic Chat ](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}專屬的發行說明。
+如需 Adobe Dynamic Chat 特定的發行說明，[請參閱這裡](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}。
 
 >[!AVAILABILITY]
 >
->以星號（![星號](assets/yellow-star.png)）表示的功能是付費附加元件。 請聯絡您的Marketo Engage代表以瞭解更多資訊。
+>標有星號 (![星號](assets/yellow-star.png)) 的功能為付費附加元件。請聯絡您的 Marketo Engage 代表，了解更多相關資訊。
 
 ## 標準發行週期功能 {#standard-release-cycle-features}
 
-下列功能屬於標準發行週期，並將於&#x200B;**2024年4月26日**&#x200B;開始發行，在接下來的幾週內分階段推出剩餘功能。 發行功能和日期可能會有所變更。 請檢查每個功能旁的狀態。
+下列功能屬於標準發行週期，並將於&#x200B;**2024年4月26日**&#x200B;開始發行，在接下來的幾週內分階段推出剩餘功能。 發行的功能和日期可能有所變更。如需了解各項功能的狀態，請查看其旁邊欄位。
 
 <table style="table-layout:auto">
  <tbody>
@@ -33,7 +33,7 @@ ht-degree: 3%
   </tr>
      <tr>
    <td><strong>互動式網路研討會增強功能</strong>：您現在可以讓主機和主持人新增網路研討會標題、重新命名聊天室，以及在事件傳送後手動同步互動資料。</td>
-   <td>已送出</td>
+   <td>已發布</td>
    <td><li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md">建立互動式網路研討會</a></li>
    <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#manual-sync">手動同步</a></li></td>
   </tr>
@@ -66,8 +66,8 @@ ht-degree: 3%
    <li>建立清單</li>
    <li>匯出行銷活動內容</li>
    </td>
-   <td>已送出</td>
-   <td><a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md">角色許可權說明</a></td>
+   <td>已發布</td>
+   <td><a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md">角色權限說明</a></td>
   </tr>
  </tbody>
 </table>

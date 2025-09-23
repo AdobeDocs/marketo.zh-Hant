@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359947
 description: 在參與資料流之間轉換人員 — Marketo檔案 — 產品檔案
-title: 在參與資料流之間轉變人物
+title: 在參與資料流之間進行人員轉變
 exl-id: 2367852c-3dcf-4188-a50c-7c6f0b0ff7bc
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '221'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 在參與資料流之間轉變人物 {#transition-people-between-engagement-streams}
+# 在參與資料流之間進行人員轉變 {#transition-people-between-engagement-streams}
 
 參與計畫可以有一個以上的資料流。 如果您[新增資料流](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)，您將想要定義讓人員從一個資料流移至另一個資料流的方法。 這些稱為&#x200B;**轉換規則。**
 

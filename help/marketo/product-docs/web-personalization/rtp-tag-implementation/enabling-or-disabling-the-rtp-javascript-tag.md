@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10097163
 description: 啟用或停用RTP JavaScript標籤 — Marketo檔案 — 產品檔案
-title: 啟用或停用RTP JavaScript標籤
+title: 啟用或停用 RTP JavaScript 標記
 exl-id: 15d958b2-e8ed-430e-947d-418cb5dd060b
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# 啟用或停用RTP JavaScript標籤 {#enabling-or-disabling-the-rtp-javascript-tag}
+# 啟用或停用 RTP JavaScript 標記 {#enabling-or-disabling-the-rtp-javascript-tag}
 
 RTP JavaScript標籤可控制網站Personalization是否追蹤網站活動，或在您的網站上執行行銷活動或內容建議。
 

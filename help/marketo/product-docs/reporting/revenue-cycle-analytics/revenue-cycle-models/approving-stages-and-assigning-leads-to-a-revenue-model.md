@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718683
 description: 核准階段並指派銷售機會至收入模型 — Marketo檔案 — 產品檔案
-title: 核准階段並將銷售機會指定至收入模型
+title: 核准階段並將商機指派至收入模型
 exl-id: 0c93dfe4-8950-444c-a65b-080620816ba2
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '303'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# 核准階段並將銷售機會指定至收入模型 {#approving-stages-and-assigning-leads-to-a-revenue-model}
+# 核准階段並將商機指派至收入模型 {#approving-stages-and-assigning-leads-to-a-revenue-model}
 
 新增現有的銷售機會，並為任何新的銷售機會建立指派規則，以啟動並執行您的&#x200B;**收入模型**。
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 在新增任何潛在客戶之前，先讓我們核准您的模型的階段。
 
-1. 移至&#x200B;**[!UICONTROL Analytics]**&#x200B;區域。
+1. 前往「**[!UICONTROL Analytics]**」區域。
 
    ![](assets/image2015-4-28-17-3a8-3a8.png)
 

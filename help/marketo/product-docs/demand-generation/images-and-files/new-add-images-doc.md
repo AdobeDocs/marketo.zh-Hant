@@ -1,18 +1,18 @@
 ---
 description: 新增影像檔案 — Marketo檔案 — 產品檔案
-title: 新增影像檔案
+title: 新的新增影像文件
 hide: true
 hidefromtoc: true
 feature: Image Editor
 exl-id: 2080327c-fef0-48d8-b5c6-21741ae4f357
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '246'
-ht-degree: 2%
+ht-degree: 13%
 
 ---
 
-# 新增影像檔案 {#new-add-images-doc}
+# 新的新增影像文件 {#new-add-images-doc}
 
 您有多個選項可以將新檔案/影像新增至「影像和檔案」存放庫。
 
@@ -26,7 +26,7 @@ ht-degree: 2%
 
    ![](assets/add-images-and-files-to-marketo-2.png)
 
-1. 按一下&#x200B;**[!UICONTROL Image and file actions]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Upload image or file]**。
+1. 按一下「**[!UICONTROL Image and file actions]**」下拉式選單，選取「**[!UICONTROL Upload image or file]**」。
 
    ![](assets/add-images-and-files-to-marketo-3.png)
 
@@ -48,7 +48,7 @@ ht-degree: 2%
 
 1. 請依照上述步驟1和2 [執行](#upload-image-or-file)。
 
-1. 按一下&#x200B;**[!UICONTROL Image and file actions]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Import image or file]**。
+1. 按一下「**[!UICONTROL Image and file actions]**」下拉式選單，選取「**[!UICONTROL Import image or file]**」。
 
    ![](assets/add-images-and-files-to-marketo-6.png)
 
@@ -56,7 +56,7 @@ ht-degree: 2%
 
    ![](assets/add-images-and-files-to-marketo-7.png)
 
-1. 在URL中輸入或貼上所要的影像，然後按一下[下一步] **&#x200B;**。
+1. 在URL中輸入或貼上所要的影像，然後按一下[下一步] ****。
 
 PICC
 
@@ -70,7 +70,7 @@ PICC
 
 1. 請依照上述步驟1和2 [執行](#upload-image-or-file)。
 
-1. 按一下&#x200B;**[!UICONTROL Image and file actions]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Import image or file]**。
+1. 按一下「**[!UICONTROL Image and file actions]**」下拉式選單，選取「**[!UICONTROL Import image or file]**」。
 
    ![](assets/add-images-and-files-to-marketo-10.png)
 
@@ -100,7 +100,7 @@ PICC
 
 1. 請依照上述步驟1和2 [執行](#upload-image-or-file)。
 
-1. 按一下&#x200B;**[!UICONTROL Image and file actions]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Import image or file]**。
+1. 按一下「**[!UICONTROL Image and file actions]**」下拉式選單，選取「**[!UICONTROL Import image or file]**」。
 
    ![](assets/add-images-and-files-to-marketo-15.png)
 

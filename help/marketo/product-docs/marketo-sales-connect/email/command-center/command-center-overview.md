@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352530
 description: 命令中心總覽 — Marketo檔案 — 產品檔案
-title: 命令中心概述
+title: 指揮中心概觀
 exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '556'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 命令中心概述 {#command-center-overview}
+# 指揮中心概觀 {#command-center-overview}
 
 Commend Center是單一、統一的檢視畫面，可協助您找出下一步驟，同時確保不會有任何東西漏掉。
 

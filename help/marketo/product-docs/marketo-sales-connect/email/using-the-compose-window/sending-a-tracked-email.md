@@ -1,17 +1,17 @@
 ---
 unique-page-id: 37356565
 description: 傳送追蹤電子郵件 — Marketo檔案 — 產品檔案
-title: 傳送追蹤的電子郵件
+title: 傳送被追蹤的電子郵件
 exl-id: 9a2a53a5-93b9-4254-8540-510c83a6c083
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '189'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 傳送追蹤的電子郵件 {#sending-a-tracked-email}
+# 傳送被追蹤的電子郵件 {#sending-a-tracked-email}
 
 在傳送包含[!DNL Marketo Sales Connect]的電子郵件時，將會追蹤檢視（電子郵件開啟）和點按（連結點按）。
 

@@ -3,10 +3,10 @@ description: 如何設定自訂網域追蹤 — Marketo檔案 — 產品檔案
 title: 如何設定自訂網域追蹤
 exl-id: 6dea7f3d-d44d-4f67-af44-a8963c95c378
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '187'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 

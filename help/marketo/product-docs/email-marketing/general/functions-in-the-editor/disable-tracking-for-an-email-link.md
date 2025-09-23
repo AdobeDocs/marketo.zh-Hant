@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900579
 description: 停用電子郵件連結的追蹤 — Marketo檔案 — 產品檔案
-title: 停用電子郵件連結的追蹤
+title: 停用電子郵件連結追蹤
 exl-id: 841ef605-1664-4457-bc83-50bbe5d44853
 feature: Email Editor
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '280'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 停用電子郵件連結的追蹤 {#disable-tracking-for-an-email-link}
+# 停用電子郵件連結追蹤 {#disable-tracking-for-an-email-link}
 
 有時您並不想在電子郵件中的連結上啟用&#x200B;**Marketo追蹤URL**。 當目的地頁面不支援URL引數並且可能導致連結中斷時，這項功能會很有用。
 

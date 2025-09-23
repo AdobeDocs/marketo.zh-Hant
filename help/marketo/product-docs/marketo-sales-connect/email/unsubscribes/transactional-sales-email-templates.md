@@ -1,15 +1,15 @@
 ---
 description: 異動銷售電子郵件範本 — Marketo檔案 — 產品檔案
-title: 異動銷售電子郵件範本
+title: 交易型銷售電子郵件範本
 feature: Marketo Sales Connect
-source-git-commit: 7c8703059d7d28afbf57f4f285ac972fb9d8fbef
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '173'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 異動銷售電子郵件範本 {#transactional-sales-email-templates}
+# 交易型銷售電子郵件範本 {#transactional-sales-email-templates}
 
 如果您的團隊要傳送交易或非商業電子郵件，您可以將電子郵件範本標示為非商業性範本，如此可略過取消訂閱。
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 8783559
 description: 分享瞬間 — Marketo檔案 — 產品檔案
-title: 分享時刻
+title: 分享重要時刻
 exl-id: e149f8d8-1405-43d2-aa0b-900796328a92
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '143'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
-# 分享時刻 {#sharing-a-moment}
+# 分享重要時刻 {#sharing-a-moment}
 
 想要提供團隊的更新嗎？ 您有兩個選項可以選取共用。
 

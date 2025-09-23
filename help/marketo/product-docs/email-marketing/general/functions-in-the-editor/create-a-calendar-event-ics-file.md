@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900563
 description: 建立日曆事件(.ics)檔案 — Marketo檔案 — 產品檔案
-title: 建立日曆事件(.ics)檔案
+title: 建立行事曆事件 (.ics) 檔案
 exl-id: 17b5d99d-94ce-4122-8928-4290cc253d11
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-# 建立日曆事件(.ics)檔案 {#create-a-calendar-event-ics-file}
+# 建立行事曆事件 (.ics) 檔案 {#create-a-calendar-event-ics-file}
 
 行事曆檔案Token可讓您將行事曆事件(.ics)連結新增到您的Marketo電子郵件和登入頁面。
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10098884
 description: 篩選網站行銷活動 — Marketo檔案 — 產品檔案
-title: 篩選網站行銷活動
+title: 篩選網頁行銷活動
 exl-id: 07237fff-02d7-4974-9651-09a328d27365
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# 篩選網站行銷活動 {#filter-web-campaigns}
+# 篩選網頁行銷活動 {#filter-web-campaigns}
 
 在您建立數百個[!DNL Web Personalization]行銷活動後，能夠使用篩選器僅檢視您感興趣的行銷活動會很有幫助。
 

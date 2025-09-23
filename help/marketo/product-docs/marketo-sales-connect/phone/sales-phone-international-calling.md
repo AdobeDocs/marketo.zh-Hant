@@ -4,10 +4,10 @@ description: 銷售電話國際通話 — Marketo檔案 — 產品檔案
 title: 銷售電話國際通話
 exl-id: 5a5956fe-67f3-41dd-bbbe-b0cea1ded6f0
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '399'
-ht-degree: 5%
+ht-degree: 7%
 
 ---
 

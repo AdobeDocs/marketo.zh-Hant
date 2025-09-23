@@ -4,14 +4,14 @@ description: 達人/挑戰者 — 定義達人條件 — Marketo檔案 — 產�
 title: 冠軍/挑戰者 — 定義冠軍標準
 exl-id: 6b2d2568-caf3-41fc-9d50-f7f561cc4865
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '166'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 冠軍/挑戰者：定義冠軍標準 {#champion-challenger-define-champion-criteria}
+# 衛冕者/挑戰者：定義衛冕者標準 {#champion-challenger-define-champion-criteria}
 
 設定好測試型別後，您需要定義擁護者條件。 方法如下。
 

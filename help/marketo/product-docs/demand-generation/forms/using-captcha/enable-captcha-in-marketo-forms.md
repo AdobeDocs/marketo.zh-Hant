@@ -1,16 +1,16 @@
 ---
 description: 在Marketo Forms中啟用驗證碼 — Marketo檔案 — 產品檔案
-title: 在Marketo Forms中啟用驗證碼
+title: 在 Marketo 表單中啟用驗證碼
 exl-id: d83fc2d3-7ae4-4927-9a09-ea6995013b6f
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '89'
-ht-degree: 2%
+ht-degree: 13%
 
 ---
 
-# 在Marketo Forms中啟用驗證碼 {#enable-captcha-in-marketo-forms}
+# 在 Marketo 表單中啟用驗證碼 {#enable-captcha-in-marketo-forms}
 
 您可以為每個表單啟用/停用[!UICONTROL CAPTCHA]。
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360407
 description: 建立電子郵件分析報告，其中列出銷售機會 — Marketo檔案 — 產品檔案
-title: 建立列出潛在客戶的電子郵件分析報告
+title: 建置會列出商機的電子郵件分析報告
 exl-id: f431610c-6570-4df0-9d64-d37d21010604
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '193'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# 建立列出潛在客戶的電子郵件分析報告 {#build-an-email-analysis-report-that-lists-leads}
+# 建置會列出商機的電子郵件分析報告 {#build-an-email-analysis-report-that-lists-leads}
 
 請依照下列步驟建立電子郵件分析報告，該報告將顯示每個傳送特定電子郵件的銷售機會，該報告還將包含「點按」和「開啟」統計資料。
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/report-that-lists-leads-2.png)
 
-1. 選取&#x200B;**[!UICONTROL Email Analysis]**&#x200B;並按一下&#x200B;**[!UICONTROL OK]**。
+1. 選取「**[!UICONTROL Email Analysis]**」然後按一下「**[!UICONTROL OK]**」。
 
    ![](assets/report-that-lists-leads-3.png)
 

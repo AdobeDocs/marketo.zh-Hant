@@ -1,16 +1,16 @@
 ---
 description: Analytics頁面概觀 — Marketo檔案 — 產品檔案
-title: Analytics頁面概觀
+title: 分析頁面概觀
 exl-id: b9f6210b-ac66-47c4-970a-31a0ff6fc216
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '373'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Analytics頁面概觀 {#analytics-page-overview}
+# 分析頁面概觀 {#analytics-page-overview}
 
 Analytics索引標籤是您檢視有關電子郵件參與度資料的位置。 個別和團隊資料都會顯示。 管理員也可以在[!UICONTROL Me]標籤上依使用者篩選。
 

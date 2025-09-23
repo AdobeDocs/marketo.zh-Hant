@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14746161
 description: 取消訂閱概述 — Marketo檔案 — 產品檔案
-title: 取消訂閱總覽
+title: 取消訂閱概觀
 exl-id: 3212d5be-07ea-47bd-874e-25d02513c23b
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 取消訂閱總覽 {#unsubscribe-overview}
+# 取消訂閱概觀 {#unsubscribe-overview}
 
 遵守電子郵件隱私權法規對組織而言越來越重要。 為了協助解決此問題，我們對取消訂閱體驗進行了一些增強功能。
 

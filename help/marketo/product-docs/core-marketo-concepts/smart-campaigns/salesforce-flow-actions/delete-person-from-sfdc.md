@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147031
 description: 從SFDC刪除人員 — Marketo檔案 — 產品檔案
-title: 從SFDC刪除人員
+title: 從 SFDC 中刪除人員
 exl-id: 8245de35-f374-4241-946e-b4c4b87cc85e
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '117'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# 從SFDC刪除人員 {#delete-person-from-sfdc}
+# 從 SFDC 中刪除人員 {#delete-person-from-sfdc}
 
 如果您需要從Salesforce中移除一組特定的銷售機會，但保留為Marketo Engage中的人員，則可以使用從SFDC流程刪除人員動作。
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/delete-person-from-sfdc-1.png)
 
-1. 選擇「**[!UICONTROL Delete Person from SFDC]**」。
+1. 選取「**[!UICONTROL Delete Person from SFDC]**」。
 
    ![](assets/delete-person-from-sfdc-2.png)
 

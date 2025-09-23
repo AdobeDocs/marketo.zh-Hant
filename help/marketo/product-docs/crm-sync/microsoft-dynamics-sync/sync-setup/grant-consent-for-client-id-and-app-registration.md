@@ -1,16 +1,16 @@
 ---
 description: 授予使用者端ID和應用程式註冊的同意 — Marketo檔案 — 產品檔案
-title: 授予使用者端ID和應用程式註冊的同意
+title: 授予用戶端 ID 和應用程式註冊的同意
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '255'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# 授予使用者端ID和應用程式註冊的同意 {#grant-consent-for-client-id-and-app-registration}
+# 授予用戶端 ID 和應用程式註冊的同意 {#grant-consent-for-client-id-and-app-registration}
 
 請依照下列步驟瞭解如何授與必要同意/許可權。
 

@@ -3,20 +3,20 @@ description: 發行說明 — 2021年5月 — Marketo檔案 — 產品檔案
 title: 發行說明 - 2021 年 5 月
 exl-id: e3de60a2-17bd-4760-848e-6e931ad85b3c
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1436'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 發行說明： 2021年5月 {#release-notes-may-21}
+# 發行說明：2021 年 5 月 {#release-notes-may-21}
 
 2021年5月發行版本包含下列功能。 檢查您的Marketo版本是否有功能可用。
 
 >[!AVAILABILITY]
 >
->以星號(![](assets/yellow-star.png))表示的功能是付費附加元件。 請聯絡您的Marketo Engage代表以瞭解更多資訊。
+>以星號(![](assets/yellow-star.png))表示的功能是付費附加元件。 請聯絡您的 Marketo Engage 代表，了解更多相關資訊。
 
 **_每季發行_**
 

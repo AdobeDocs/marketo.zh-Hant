@@ -3,24 +3,24 @@ description: 發行說明 — 2023年3月 — Marketo檔案 — 產品檔案
 title: 發行說明 - 2023 年 3 月
 exl-id: f07abfef-5740-4380-9ca9-069a323486eb
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '582'
-ht-degree: 9%
+ht-degree: 19%
 
 ---
 
-# 發行說明： 2023年3月 {#release-notes-mar-23}
+# 發行說明：2023 年 3 月 {#release-notes-mar-23}
 
-下方提供2023年3月發行版本包含的所有功能。 檢查您的Adobe Marketo Engage版本是否有功能可用。
+下方提供2023年3月發行版本包含的所有功能。 請查看您的 Adobe Marketo Engage 版本是否提供這些功能。
 
 >[!AVAILABILITY]
 >
->以星號（![星號](assets/yellow-star.png)）表示的功能是付費附加元件。 請聯絡您的Marketo Engage代表以瞭解更多資訊。
+>標有星號 (![星號](assets/yellow-star.png)) 的功能為付費附加元件。請聯絡您的 Marketo Engage 代表，了解更多相關資訊。
 
 ## 標準發行週期功能 {#standard-release-cycle-features}
 
-下列功能屬於標準發行週期，並將於&#x200B;**2023年3月31日**&#x200B;開始發行，在接下來的幾週內分階段推出剩餘功能。 發行功能和日期可能會有所變更。 請檢視每個功能下方的狀態。
+下列功能屬於標準發行週期，並將於&#x200B;**2023年3月31日**&#x200B;開始發行，在接下來的幾週內分階段推出剩餘功能。 發行的功能和日期可能有所變更。請檢視每個功能下方的狀態。
 
 ### Marketo Engage Modern UX {#modern-ux}
 
@@ -34,7 +34,7 @@ ht-degree: 9%
    <td><b>文件更新</b></td>
   </tr>
   <tr>
-   <td>已送出</td>
+   <td>已發布</td>
    <td>不適用</td>
   </tr>
   </tbody>
@@ -48,7 +48,7 @@ ht-degree: 9%
    <td><b>文件更新</b></td>
   </tr>
   <tr>
-   <td>已送出</td>
+   <td>已發布</td>
    <td>不適用</td>
   </tr>
   </tbody>
@@ -62,7 +62,7 @@ ht-degree: 9%
    <td><b>文件更新</b></td>
   </tr>
   <tr>
-   <td>已送出</td>
+   <td>已發布</td>
    <td>不適用</td>
   </tr>
   </tbody>
@@ -80,7 +80,7 @@ ht-degree: 9%
    <td><b>文件更新</b></td>
   </tr>
   <tr>
-   <td>已送出</td>
+   <td>已發布</td>
    <td>不適用</td>
   </tr>
   </tbody>
@@ -102,7 +102,7 @@ ht-degree: 9%
    <td><b>文件更新</b></td>
   </tr>
   <tr>
-   <td>已送出</td>
+   <td>已發布</td>
    <td>不適用</td>
   </tr>
   </tbody>
@@ -116,7 +116,7 @@ ht-degree: 9%
    <td><b>文件更新</b></td>
   </tr>
   <tr>
-   <td>已送出</td>
+   <td>已發布</td>
    <td>不適用</td>
   </tr>
   </tbody>
@@ -130,7 +130,7 @@ ht-degree: 9%
    <td><b>文件更新</b></td>
   </tr>
   <tr>
-   <td>已送出</td>
+   <td>已發布</td>
    <td>不適用</td>
   </tr>
   </tbody>
@@ -144,7 +144,7 @@ ht-degree: 9%
    <td><b>文件更新</b></td>
   </tr>
   <tr>
-   <td>已送出</td>
+   <td>已發布</td>
    <td>不適用</td>
   </tr>
   </tbody>
@@ -158,7 +158,7 @@ ht-degree: 9%
    <td><b>文件更新</b></td>
   </tr>
   <tr>
-   <td>已送出</td>
+   <td>已發布</td>
    <td>不適用</td>
   </tr>
   </tbody>
@@ -172,7 +172,7 @@ ht-degree: 9%
    <td><b>文件更新</b></td>
   </tr>
   <tr>
-   <td>已送出</td>
+   <td>已發布</td>
    <td>不適用</td>
   </tr>
   </tbody>

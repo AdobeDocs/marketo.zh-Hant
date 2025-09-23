@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2949680
 description: SEO — 關鍵字趨勢圖 — Marketo檔案 — 產品檔案
-title: SEO — 關鍵字趨勢圖表
+title: SEO - 關鍵字趨勢圖
 exl-id: 093f713b-e9f1-48d6-b4d8-7c5ef349a2ae
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 0%
+source-wordcount: '79'
+ht-degree: 10%
 
 ---
 
-# SEO — 關鍵字趨勢圖表 {#seo-keyword-trends-chart}
+# SEO - 關鍵字趨勢圖 {#seo-keyword-trends-chart}
 
 監視關鍵字[SERP排名](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)在一段時間內的趨勢非常重要。 檢視這個酷炫的圖表以監視進度。
 
-1. 移至&#x200B;**[!UICONTROL 關鍵字]**&#x200B;區段。
+1. 移至&#x200B;**[!UICONTROL Keywords]**&#x200B;區段。
 
    ![](assets/image2014-9-18-12-3a5-3a7.png)
 

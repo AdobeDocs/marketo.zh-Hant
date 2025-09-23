@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900554
 description: 編輯電子郵件的HTML - Marketo檔案 — 產品檔案
-title: 編輯電子郵件的HTML
+title: 編輯電子郵件的 HTML
 exl-id: 9dc8e44d-d9da-4bc2-950f-3ffbb976f5d5
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '330'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 編輯電子郵件的HTML {#edit-an-emails-html}
+# 編輯電子郵件的 HTML {#edit-an-emails-html}
 
 有時您可能需要修改電子郵件的基礎HTML。 有時您可以使用外部系統來設計和建置電子郵件的程式碼。 無論是哪種方式，您都可以輕鬆地從電子郵件編輯器匯入及/或編輯程式碼。
 

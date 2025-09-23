@@ -1,21 +1,21 @@
 ---
 unique-page-id: 7511980
 description: 儲存報表 — Marketo檔案 — 產品檔案
-title: 儲存報表
+title: 儲存報告
 exl-id: be6da793-1498-4ba1-8d65-e9c0fd5d1033
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '71'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
-# 儲存報表 {#save-a-report}
+# 儲存報告 {#save-a-report}
 
 有時候，您可能需要儲存預設報表以便稍後再次檢視。 以下提供相關操作說明：
 
-1. 移至&#x200B;**[!UICONTROL Analytics]**&#x200B;區域。
+1. 前往「**[!UICONTROL Analytics]**」區域。
 
    ![](assets/image2015-4-30-11-3a50-3a5.png)
 

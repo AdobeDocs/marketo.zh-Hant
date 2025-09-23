@@ -1,13 +1,13 @@
 ---
 unique-page-id: 5472672
 description: 在Marketo銷售Insight - Marketo檔案 — 產品檔案中傳送電子郵件至多筆記錄
-title: 傳送電子郵件給Marketo Sales Insight中的多筆記錄
+title: 在 Marketo 銷售洞察中傳送電子郵件至多筆記錄
 exl-id: 65c6f4b3-a23c-40f4-84bd-3510a0f8509f
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '124'
-ht-degree: 2%
+ht-degree: 10%
 
 ---
 

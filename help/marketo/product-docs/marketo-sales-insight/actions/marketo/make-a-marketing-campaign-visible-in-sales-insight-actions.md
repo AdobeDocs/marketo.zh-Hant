@@ -1,16 +1,16 @@
 ---
-description: 在銷售分析動作 — Marketo檔案 — 產品檔案中顯示行銷活動
-title: 在銷售分析動作中顯示行銷活動
+description: 在銷售Insight動作 — Marketo檔案 — 產品檔案中顯示行銷活動
+title: 在銷售Insight動作中顯示行銷活動
 exl-id: 223baca3-159e-4f0d-b26f-f4c924a39fc3
 feature: Sales Insight Actions
-source-git-commit: c6132bf5b393df38700ad9dd6f0c6414860e8bb6
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 0%
 
 ---
 
-# 在銷售分析動作中顯示行銷活動 {#make-a-marketing-campaign-visible-in-sales-insight-actions}
+# 在銷售Insight動作中顯示行銷活動 {#make-a-marketing-campaign-visible-in-sales-insight-actions}
 
 行銷活動只有在顯示後才可共用。
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您想要向使用toutapp.com網頁應用程式中&#x200B;_新增至行銷活動_&#x200B;的使用者顯示行銷活動(這也包括如果您透過Marketo銷售寄件匣物件將網頁應用程式內嵌至CRM)，請將行銷活動要求的來源設定為「網頁服務API」。 Salesforce如果您希望行銷活動在使用者使用銷售機會、聯絡人、帳戶頁面，或銷售機會和聯絡人清單檢視上的大量動作按鈕上的MSI面板上的動作時顯示，請將行銷活動要求的來源更新為「銷售分析」
+   >如果您想要向使用toutapp.com網頁應用程式中&#x200B;_新增至行銷活動_&#x200B;的使用者顯示行銷活動(這也包括如果您透過Marketo銷售寄件匣物件將網頁應用程式內嵌至CRM)，請將行銷活動要求的來源設定為「網頁服務API」。 如果您希望行銷活動在使用者使用潛在客戶、連絡人、帳戶頁面Salesforce中MSI面板的動作，或潛在客戶和連絡人清單檢視上的大量動作按鈕時顯示，請將行銷活動要求的來源更新為「銷售Insight」
 
 1. 按一下「**流量**」標籤。
 

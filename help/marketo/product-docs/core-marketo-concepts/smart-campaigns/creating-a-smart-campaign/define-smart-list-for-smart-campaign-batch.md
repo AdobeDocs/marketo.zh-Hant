@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1146940
 description: 定義Smart Campaign的智慧清單 | 批次 — Marketo檔案 — 產品檔案
-title: 定義Smart Campaign的智慧清單 | 批次
+title: 定義智慧行銷活動的智慧清單 | 批次
 exl-id: 0e0061a9-df24-4cf6-8f1e-09ff0ee62efa
 feature: Smart Campaigns
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '273'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 定義Smart Campaign的智慧清單 | 批次 {#define-smart-list-for-smart-campaign-batch}
+# 定義智慧行銷活動的智慧清單 | 批次 {#define-smart-list-for-smart-campaign-batch}
 
 智慧列示是整個Marketo Engage中定義「誰」（哪些人員）要包含的機制，無論是報表、清單或智慧行銷活動。 以下說明如何定義批次行銷活動的智慧清單。
 

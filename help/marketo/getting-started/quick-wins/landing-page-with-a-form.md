@@ -1,35 +1,35 @@
 ---
 unique-page-id: 2359412
 description: 含有表單的登陸頁面 — Marketo檔案 — 產品檔案
-title: 含有表單的登陸頁面
+title: 附有表單的登陸頁面
 exl-id: 4ae6df7c-96d0-4bfe-962c-e14ecb877a6a
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '552'
-ht-degree: 0%
+source-wordcount: '498'
+ht-degree: 7%
 
 ---
 
-# 含有表單的登陸頁面 {#landing-page-with-a-form}
+# 附有表單的登陸頁面 {#landing-page-with-a-form}
 
 ## 任務：建立具有表單的登陸頁面，以贏取新人員。 {#mission-create-a-landing-page-with-a-form-to-acquire-new-people}
 
 >[!PREREQUISITES]
 >
->[設定並新增人員](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>[完成設定與新增人員](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
 ## 步驟1：建立方案 {#step-create-a-program}
 
-1. 前往&#x200B;**[!UICONTROL 行銷活動]**&#x200B;區域。
+1. 前往「**[!UICONTROL Marketing Activities]**」區域。
 
    ![](assets/landing-page-with-a-form-1.png)
 
-1. 選取在[上一個快速入門](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"}中建立的&#x200B;**學習**&#x200B;資料夾。 在&#x200B;**[!UICONTROL 新增]**&#x200B;下，按一下&#x200B;**[!UICONTROL 新增程式]**。
+1. 選取在&#x200B;**上一個快速入門**&#x200B;中建立的[學習](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"}資料夾。 在&#x200B;**[!UICONTROL New]**&#x200B;底下，按一下&#x200B;**[!UICONTROL New Program]**。
 
    ![](assets/landing-page-with-a-form-2.png)
 
-1. 輸入程式&#x200B;**[!UICONTROL 名稱]**、選取&#x200B;**[!UICONTROL 頻道]**，然後按一下&#x200B;**[!UICONTROL 建立]**。
+1. 輸入程式&#x200B;**[!UICONTROL Name]**、選取&#x200B;**[!UICONTROL Channel]**，然後按一下&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/landing-page-with-a-form-3.png)
 
@@ -45,31 +45,31 @@ ht-degree: 0%
 
 ## 步驟2：建立表單 {#step-create-a-form}
 
-1. 選取您的程式後，按一下&#x200B;**[!UICONTROL 新增]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL 新增本機資產]**。
+1. 選取您的程式後，按一下&#x200B;**[!UICONTROL New]**&#x200B;下拉式清單並選取&#x200B;**[!UICONTROL New Local Asset]**。
 
    ![](assets/landing-page-with-a-form-4.png)
 
-1. 選取&#x200B;**[!UICONTROL 表單]**。
+1. 選取「**[!UICONTROL Form]**」。
 
    ![](assets/landing-page-with-a-form-5.png)
 
-1. 輸入表單&#x200B;**[!UICONTROL 名稱]**&#x200B;並按一下&#x200B;**[!UICONTROL 建立]**。
+1. 輸入表單&#x200B;**[!UICONTROL Name]**&#x200B;並按一下&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/landing-page-with-a-form-6.png)
 
    >[!NOTE]
    >
-   >請確定已核取&#x200B;**[!UICONTROL 在編輯器中開啟]**&#x200B;方塊。 如果不是，您必須按一下&#x200B;**[!UICONTROL 編輯表單]**&#x200B;索引標籤。
+   >請確定已核取&#x200B;**[!UICONTROL Open in editor]**&#x200B;方塊。 如果不是，您必須按一下「**[!UICONTROL Edit Form]**」標籤。
 
    >[!TIP]
    >
    >看不到表單編輯器？ 您的瀏覽器可能封鎖了視窗。 啟用瀏覽器中`app.marketo.com`的快顯視窗，然後按一下頂端功能表列中的[編輯草稿]。
 
-1. 選取&#x200B;**[!UICONTROL 電子郵件地址]**&#x200B;欄位，並勾選&#x200B;**[!UICONTROL 為必要項]**。
+1. 選取&#x200B;**[!UICONTROL Email Address]**&#x200B;欄位並核取&#x200B;**[!UICONTROL Is Required]**。
 
    ![](assets/landing-page-with-a-form-7.png)
 
-1. 按一下&#x200B;**[!UICONTROL 下一步]**。
+1. 按一下「**[!UICONTROL Next]**」。
 
    ![](assets/landing-page-with-a-form-8.png)
 
@@ -77,11 +77,11 @@ ht-degree: 0%
 
    ![](assets/landing-page-with-a-form-9.png)
 
-1. 按一下&#x200B;**[!UICONTROL 下一步]**。
+1. 按一下「**[!UICONTROL Next]**」。
 
    ![](assets/landing-page-with-a-form-10.png)
 
-1. 在[感謝頁面]區段下，選取&#x200B;**[!UICONTROL 外部URL]**&#x200B;以進行&#x200B;**[!UICONTROL 後續追蹤]**。
+1. 在[感謝頁面]區段下，選取&#x200B;**[!UICONTROL External URL]**&#x200B;的&#x200B;**[!UICONTROL Follow Up With]**。
 
    ![](assets/landing-page-with-a-form-11.png)
 
@@ -93,11 +93,11 @@ ht-degree: 0%
    >
    >「後續追蹤頁面」是填寫表單後重新導向訪客的位置。 外部URL是一個選項，但還有更多選項。 請參閱[設定表單感謝頁面](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md){target="_blank"}。
 
-1. 按一下&#x200B;**[!UICONTROL 完成]**。
+1. 按一下「**[!UICONTROL Finish]**」。
 
    ![](assets/landing-page-with-a-form-13.png)
 
-1. 按一下&#x200B;**[!UICONTROL 核准並關閉]**。
+1. 按一下「**[!UICONTROL Approve and Close]**」。
 
    ![](assets/landing-page-with-a-form-14.png)
 
@@ -105,15 +105,15 @@ ht-degree: 0%
 
 ## 步驟3：建立登入頁面並新增您的表單 {#step-create-a-landing-page-and-add-your-form}
 
-1. 選取您的程式後，按一下&#x200B;**[!UICONTROL 新增]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL 新增本機資產]**。
+1. 選取您的程式後，按一下&#x200B;**[!UICONTROL New]**&#x200B;下拉式清單並選取&#x200B;**[!UICONTROL New Local Asset]**。
 
    ![](assets/landing-page-with-a-form-15.png)
 
-1. 選取&#x200B;**[!UICONTROL 登陸頁面]**。
+1. 選取「**[!UICONTROL Landing Page]**」。
 
    ![](assets/landing-page-with-a-form-16.png)
 
-1. 輸入頁面&#x200B;**[!UICONTROL 名稱]**，選取範本並按一下&#x200B;**[!UICONTROL 建立]**。
+1. 輸入頁面&#x200B;**[!UICONTROL Name]**，選取範本並按一下&#x200B;**[!UICONTROL Create]**。
 
    >[!NOTE]
    >
@@ -121,11 +121,11 @@ ht-degree: 0%
 
    ![](assets/landing-page-with-a-form-17.png)
 
-1. 登入頁面編輯器開啟後，將[!UICONTROL 表單]元素拖曳至畫布上。
+1. 登入頁面編輯器開啟後，將[!UICONTROL Form]元素拖曳至畫布上。
 
    ![](assets/landing-page-with-a-form-18.png)
 
-1. 尋找並選取您的表單，然後按一下&#x200B;**[!UICONTROL 插入]**。
+1. 尋找並選取您的表單，然後按一下&#x200B;**[!UICONTROL Insert]**。
 
    ![](assets/landing-page-with-a-form-19.png)
 
@@ -141,7 +141,7 @@ ht-degree: 0%
 
 ## 步驟4：核准您的登陸頁面 {#step-approve-your-landing-page}
 
-1. 選取您的登入頁面，然後按一下&#x200B;**[!UICONTROL 核准草稿]**。
+1. 選取您的登入頁面並按一下&#x200B;**[!UICONTROL Approve draft]**。
 
    ![](assets/landing-page-with-a-form-22.png)
 
@@ -155,15 +155,15 @@ ht-degree: 0%
 
 ## 步驟5：測試表單 {#step-test-your-form}
 
-1. 選取您的登入頁面，然後按一下&#x200B;**[!UICONTROL 檢視核准的頁面]**。
+1. 選取您的登入頁面並按一下&#x200B;**[!UICONTROL View Approved Page]**。
 
    ![](assets/landing-page-with-a-form-24.png)
 
-1. 使用您知道唯一的資訊填寫表單，然後按一下&#x200B;**[!UICONTROL 提交]**。
+1. 使用您知道唯一的資訊填寫表單，然後按一下&#x200B;**[!UICONTROL Submit]**。
 
    ![](assets/landing-page-with-a-form-25.png)
 
-1. 移至&#x200B;**[!UICONTROL 資料庫]**&#x200B;區域。
+1. 前往「**[!UICONTROL Database]**」區域。
 
    ![](assets/landing-page-with-a-form-26.png)
 
@@ -177,7 +177,7 @@ ht-degree: 0%
 
 ## 任務完成！ {#mission-complete}
 
-<br> 
+<br>
 
 [◄任務1：傳送電子郵件爆炸郵件](/help/marketo/getting-started/quick-wins/send-an-email.md)
 

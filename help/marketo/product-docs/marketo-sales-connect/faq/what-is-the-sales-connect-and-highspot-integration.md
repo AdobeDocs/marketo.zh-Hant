@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352553
-description: 什麼是Sales Connect and Highspot Integration？ - Marketo檔案 — 產品檔案
-title: 什麼是Sales Connect and Highspot Integration？
+description: 什麼是Sales Connect and Highspot Integration？ - Marketo 文件 - 產品文件
+title: 什麼是 Sales Connect 與 Highspot 整合？
 exl-id: 30a7745e-169b-463e-8855-d1c9f14d7753
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '179'
-ht-degree: 1%
+ht-degree: 7%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 1%
 
 1. 在[!DNL Sales Connect]或[!DNL Outlook]中撰寫電子郵件時，請選擇&#x200B;**[!UICONTROL Add Content]**。
 
-1. 選擇「**[!UICONTROL Highspot]**」。
+1. 選取「**[!UICONTROL Highspot]**」。
 
 1. 輸入您的[!DNL Highspot]帳戶電子郵件並按一下&#x200B;**[!UICONTROL Continue]**。
 

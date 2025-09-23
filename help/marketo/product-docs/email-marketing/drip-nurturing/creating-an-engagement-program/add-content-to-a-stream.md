@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359659
 description: 將內容新增至資料流 — Marketo檔案 — 產品檔案
-title: 將內容新增至資料流
+title: 新增內容至資料流
 exl-id: b2db9f49-2baa-4d42-9755-480390a91041
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '160'
-ht-degree: 1%
+ht-degree: 7%
 
 ---
 
-# 將內容新增至資料流 {#add-content-to-a-stream}
+# 新增內容至資料流 {#add-content-to-a-stream}
 
 建立參與計畫後，您需要將內容新增到資料流。 您可以將電子郵件或程式新增到資料流。
 

@@ -4,14 +4,14 @@ description: 冠軍/挑戰者 — 主旨列 — Marketo檔案 — 產品檔案
 title: 冠軍/挑戰者 — 主旨列
 exl-id: c1c75979-d1a9-459d-a0da-b4bb769372d5
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '269'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 冠軍/挑戰者：主旨列 {#champion-challenger-subject-line}
+# 衛冕者/挑戰者：主旨行 {#champion-challenger-subject-line}
 
 您可以輕鬆測試多個主旨列。 測試結束後，請傳送包含最有效電子郵件的。 以下是其操作方式。
 

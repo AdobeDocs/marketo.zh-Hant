@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7514027
 description: 將人員同步至Microsoft - Marketo檔案 — 產品檔案
-title: 將人員同步至Microsoft
+title: 將人員同步至 Microsoft
 exl-id: cc6f1c03-ba74-418c-95d5-fb073a248379
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '68'
-ht-degree: 2%
+ht-degree: 14%
 
 ---
 
-# 將人員同步至Microsoft {#sync-person-to-microsoft}
+# 將人員同步至 Microsoft {#sync-person-to-microsoft}
 
 此功能僅適用於將Marketo Engage與[!DNL Microsoft Dynamics]整合的使用者。
 

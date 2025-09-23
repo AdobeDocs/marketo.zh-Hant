@@ -1,45 +1,45 @@
 ---
 unique-page-id: 2359906
 description: 管理Marketo使用者 — Marketo檔案 — 產品檔案
-title: 管理Marketo使用者
+title: 管理 Marketo 使用者
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
 feature: Users and Roles
-source-git-commit: ab4358ac1d3e1aa1d3733fa5191c5d59022bdf9f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '402'
-ht-degree: 0%
+source-wordcount: '368'
+ht-degree: 7%
 
 ---
 
-# 管理Marketo使用者 {#managing-marketo-users}
+# 管理 Marketo 使用者 {#managing-marketo-users}
 
 >[!IMPORTANT]
 >
->本文僅適用於&#x200B;_不_&#x200B;使用[具有Adobe識別碼](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}的Marketo的使用者。 如果是，請依照[本文章](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"}中的步驟進行。
+>本文僅適用於&#x200B;_不_&#x200B;使用[Marketo搭配Adobe身分識別](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}的使用者。 如果是，請依照[本文章](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"}中的步驟進行。
 
 ## 建立使用者 {#create-users}
 
-1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/managing-marketo-users-1.png)
 
-1. 按一下&#x200B;**[!UICONTROL 使用者與角色]**。
+1. 按一下「**[!UICONTROL Users & Roles]**」。
 
    ![](assets/managing-marketo-users-2.png)
 
-1. 按一下&#x200B;**[!UICONTROL 邀請新使用者]**。
+1. 按一下「**[!UICONTROL Invite New User]**」。
 
    ![](assets/managing-marketo-users-3.png)
 
-1. 輸入&#x200B;**[!UICONTROL 電子郵件]**、**[!UICONTROL 名字]**&#x200B;和&#x200B;**[!UICONTROL 姓氏]**。
+1. 輸入&#x200B;**[!UICONTROL Email]**、**[!UICONTROL First Name]**&#x200B;和&#x200B;**[!UICONTROL Last Name]**。
 
    ![](assets/managing-marketo-users-4.png)
 
-1. 您可以選擇是否輸入邀請的原因，並使用日期選擇器在&#x200B;**[!UICONTROL 存取過期]**&#x200B;欄位中選取到期日。
+1. 選擇性地輸入邀請的原因，並使用日期選擇器在&#x200B;**[!UICONTROL Access Expires]**&#x200B;欄位中選取到期日。
 
    ![](assets/managing-marketo-users-5.png)
 
-1. 按一下&#x200B;**[!UICONTROL 下一步]**。
+1. 按一下「**[!UICONTROL Next]**」。
 
    ![](assets/managing-marketo-users-6.png)
 
@@ -51,7 +51,7 @@ ht-degree: 0%
    >
    >到期日到達時，使用者會收到到期通知，且他們的帳戶遭到鎖定。
 
-1. 選取您選擇的&#x200B;**[!UICONTROL 角色]**，然後按一下&#x200B;**[!UICONTROL 下一步]**。
+1. 選取您選擇的&#x200B;**[!UICONTROL Role]**&#x200B;並按一下&#x200B;**[!UICONTROL Next]**。
 
    ![](assets/managing-marketo-users-7.png)
 
@@ -75,39 +75,39 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果要刪除的使用者也是Dynamic Chat使用者，您必須先從Admin Console的Dynamic Chat[&#128279;](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#remove-a-chat-user){target="_blank"}中移除這些使用者，才能在Marketo Engage中刪除它們。
+>如果您要刪除的使用者也是Dynamic Chat使用者，您必須先從Admin Console中的Dynamic Chat[移除這些使用者](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#remove-a-chat-user){target="_blank"}，才能在Marketo Engage中刪除這些使用者。
 
-1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/managing-marketo-users-10.png)
 
-1. 按一下&#x200B;**[!UICONTROL 使用者與角色]**。
+1. 按一下「**[!UICONTROL Users & Roles]**」。
 
    ![](assets/managing-marketo-users-11.png)
 
-1. 選取您要移除的使用者，然後按一下&#x200B;**[!UICONTROL 刪除使用者]**。
+1. 選取您要移除的使用者並按一下&#x200B;**[!UICONTROL Delete User]**。
 
    ![](assets/managing-marketo-users-12.png)
 
-1. 按一下&#x200B;**[!UICONTROL 確定]**&#x200B;以確認。
+1. 按一下&#x200B;**[!UICONTROL OK]**&#x200B;確認。
 
    ![](assets/managing-marketo-users-13.png)
 
 ## 重設使用者密碼 {#reset-user-passwords}
 
-1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/managing-marketo-users-14.png)
 
-1. 按一下&#x200B;**[!UICONTROL 使用者與角色]**。
+1. 按一下「**[!UICONTROL Users & Roles]**」。
 
    ![](assets/managing-marketo-users-15.png)
 
-1. 選取使用者並按一下&#x200B;**[!UICONTROL 重設密碼]**。
+1. 選取使用者並按一下&#x200B;**[!UICONTROL Reset Password]**。
 
    ![](assets/managing-marketo-users-16.png)
 
-1. 按一下&#x200B;**[!UICONTROL 關閉]**&#x200B;以關閉提示。
+1. 按一下&#x200B;**[!UICONTROL Close]**&#x200B;關閉提示。
 
    ![](assets/managing-marketo-users-17.png)
 
@@ -119,19 +119,19 @@ ht-degree: 0%
 
 ## 變更許可權與編輯使用者資訊 {#change-permissions-and-edit-user-information}
 
-1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/managing-marketo-users-18.png)
 
-1. 按一下&#x200B;**[!UICONTROL 使用者與角色]**。
+1. 按一下「**[!UICONTROL Users & Roles]**」。
 
    ![](assets/managing-marketo-users-19.png)
 
-1. 選取使用者並按一下&#x200B;**[!UICONTROL 編輯使用者]**。
+1. 選取使用者並按一下&#x200B;**[!UICONTROL Edit User]**。
 
    ![](assets/managing-marketo-users-20.png)
 
-1. 您可以編輯使用者資訊並變更關聯的角色。 按一下&#x200B;**[!UICONTROL 保存]**。
+1. 您可以編輯使用者資訊並變更關聯的角色。 按一下「**[!UICONTROL Save]**」。
 
    ![](assets/managing-marketo-users-21.png)
 

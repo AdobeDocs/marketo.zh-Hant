@@ -3,14 +3,14 @@ description: 繼承例項行銷活動檢查清單 — Marketo檔案 — 產品�
 title: 繼承例項行銷活動檢查清單
 feature: Getting Started
 exl-id: 653e8081-25cd-411c-a6b4-bba269e0dac3
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '809'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# 繼承例項：行銷活動檢查清單 {#inherited-instance-marketing-activities-checklist}
+# 繼承的執行個體：行銷活動檢查清單 {#inherited-instance-marketing-activities-checklist}
 
 正確組織您的「行銷活動」區段，以協助其他人在Marketo Engage執行個體中尋找和管理各種方案，並確保系統已處理好人員，將人員從行銷人員傳至銷售人員。 記得要[下載檢查清單](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx)並追蹤您的進度。
 
@@ -31,7 +31,7 @@ ht-degree: 1%
    <td><li>您是否有一致且易於瀏覽的<a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md#folders" target="_blank">資料夾結構</a>？</li></td>
   </tr>
   <tr>
-   <td>計畫</td>
+   <td>方案</td>
    <td><li>類似的程式型別<a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md" target="_blank">是否具有一致的結構化</a>？</li>
 <li>是否已實施<a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md" target="_blank">期間成本</a>？</li>
 <li>所有計畫<a href="/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md" target="_blank">是否已同步至SFDC Campaigns</a> （若適用）？</li>
@@ -68,7 +68,7 @@ ht-degree: 1%
    <th style="width:70%">評論焦點</th>
   </tr>
   <tr>
-   <td>Token</td>
+   <td>權杖</td>
    <td><li><a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" target="_blank">代號</a>是否用於您最常用的程式型別？
    <br/>     如果沒有，您應考慮使用它們來提高效率。</li>
 <li>如果實作代號，是否有全域資料夾代號？ 如何使用它們？</li></td>
@@ -121,7 +121,7 @@ ht-degree: 1%
    <th style="width:70%">評論焦點</th>
   </tr>
   <tr>
-   <td>個人得分</td>
+   <td>人員評分</td>
    <td><li>您有集中式<a href="/help/marketo/getting-started/quick-wins/simple-scoring.md" target="_blank">個人評分</a>方案嗎？</li>
 <li>您的人員分數會同時增加或減少分數嗎？</li></td>
   </tr>
@@ -157,7 +157,7 @@ ht-degree: 1%
   </tr>
   <tr>
    <td>訂閱/偏好設定中心</td>
-   <td><li>您是否已設定<a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html?lang=zh-Hant" target="_blank">訂閱/偏好設定中心</a>？ 它是否如預期般運作？</li></td>
+   <td><li>您是否已設定<a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html" target="_blank">訂閱/偏好設定中心</a>？ 它是否如預期般運作？</li></td>
   </tr>
   <tr>
    <td>有趣的時刻（如果適用）</td>

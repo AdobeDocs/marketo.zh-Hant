@@ -3,7 +3,7 @@ description: Generative AI概述 — Marketo檔案 — 產品檔案
 title: Dynamic Chat中的Generative AI
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-source-git-commit: a027acc6da55fb9316f4e34c0445b17dba9f60f1
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '449'
 ht-degree: 2%
@@ -72,7 +72,7 @@ Adobe Dynamic Chat中由創作AI支援的功能可讓您最佳化銷售代理的
 >
 >使用創作AI時，您必須遵守[Adobe Experience Cloud創作AI使用指南](https://www.adobe.com/tw/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html)，這樣我們才能確保合併創作AI的Adobe Experience Cloud功能以安全負責的方式使用。
 
-## 常見問題集 {#faq}
+## 常見問題 {#faq}
 
 **產生式AI是否可供所有Dynamic Chat使用者使用？**
 

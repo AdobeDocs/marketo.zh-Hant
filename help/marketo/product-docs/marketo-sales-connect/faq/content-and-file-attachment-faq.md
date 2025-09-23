@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14746661
 description: 內容和檔案附件常見問題集 — Marketo檔案 — 產品檔案
-title: 內容和檔案附件常見問題集
+title: 內容和檔案附件常見問題
 exl-id: 4dc1261d-bcbe-4b3b-a384-83e022733229
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '261'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 內容和檔案附件常見問題集 {#content-and-file-attachment-faq}
+# 內容和檔案附件常見問題 {#content-and-file-attachment-faq}
 
 ## 內容和檔案附件之間有何差異？ {#what-is-the-difference-between-content-and-a-file-attachment}
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 557130
 description: 瞭解智慧清單 — Marketo檔案 — 產品檔案
-title: 瞭解智慧清單
+title: 了解智慧清單
 exl-id: 8b7fd845-96d8-4b53-9ad0-118cf55be24a
 feature: Smart Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '209'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 瞭解智慧清單 {#understanding-smart-lists}
+# 了解智慧清單 {#understanding-smart-lists}
 
 智慧清單可讓您使用簡單篩選器尋找特定的人員群組。 它們會在Marketo中使用，例如智慧行銷活動、方案、報表、分段、業務模型、參與方案、動態內容等。 您可以視需要在Marketo中的兩個位置建立智慧清單：
 

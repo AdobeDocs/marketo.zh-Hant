@@ -3,9 +3,9 @@ description: 發行說明 — 2021年1月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2021年1月
 exl-id: 24a5f955-ef4b-4adf-9478-2653db6f9d79
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '1234'
+source-wordcount: '1235'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->以星號(![（星號）](assets/yellow-star.png))表示的功能是付費附加元件。 請聯絡您的Marketo Engage代表以瞭解更多資訊。
+>以星號(![（星號）](assets/yellow-star.png))表示的功能是付費附加元件。 請聯絡您的 Marketo Engage 代表，了解更多相關資訊。
 
 **_每季發行_**
 
@@ -69,7 +69,7 @@ ht-degree: 0%
 
 ![（星形）](assets/yellow-star.png)
 
-* **電子郵件連線節流(BETA)**：改善您的電子郵件傳遞能力，並針對[!DNL Sales Connect]調整電子郵件連線節流，以調整1:1銷售通訊。 我們新的節流技術會自動管理電子郵件傳送時間，為[!DNL Exchange]和Gmail使用者建立順暢的體驗。 減少或避免使用協力廠商大量電子郵件傳送應用程式。
+* **電子郵件連線節流(BETA)**：改善您的電子郵件傳遞能力，並針對:1調整電子郵件連線節流，以擴展1[!DNL Sales Connect]銷售通訊。 我們新的節流技術會自動管理電子郵件傳送時間，為[!DNL Exchange]和Gmail使用者建立順暢的體驗。 減少或避免使用協力廠商大量電子郵件傳送應用程式。
 * **電子郵件連線跳出追蹤**：透過新的電子郵件跳出報告，讓insight瞭解潛在客戶品質和電子郵件範本效能。 [!DNL Exchange]和Gmail使用者可以選擇接收將彙總至即時摘要、電子郵件資料夾、範本分析和行銷活動分析的退回通知。
 * **設定檔頁面組態**：在新設定檔頁面中輕鬆管理使用者偏好設定。 在一個位置變更密碼、編輯地理位置和語言設定，以及檢閱整合狀態。
 * **範本管理**：使用新的拖放功能，將銷售電子郵件範本組織成不同類別，以確保能夠快速存取相關範本，並減少搜尋時間。
@@ -77,7 +77,7 @@ ht-degree: 0%
 
 **_公告與棄用_**
 
-* 所有使用者必須在2021年1月15日&#x200B;**之前升級至最新版本的Sales Insight**。 如果您尚未完成升級，系統會在您登入應用程式時，提示您完成升級。 請依照本指南[&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md)中的指示操作。 更新版本包含已識別安全性弱點的修補程式。 此修補程式最初於2016年4月6日發行。 注意： **1.4363版或以上版本**&#x200B;不需要執行升級。
+* 所有使用者必須在2021年1月15日&#x200B;**之前升級至最新版本的Sales Insight**。 如果您尚未完成升級，系統會在您登入應用程式時，提示您完成升級。 請依照本指南[中的指示](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md)操作。 更新版本包含已識別安全性弱點的修補程式。 此修補程式最初於2016年4月6日發行。 注意： **1.4363版或以上版本**&#x200B;不需要執行升級。
 * Form 1.0服務的棄用將在&#x200B;**2021年5月**&#x200B;發行版本中生效。 Forms 1.0服務將完全淘汰，導致任何仍在使用的Forms 1.0資產失去功能。 此外，透過不支援的方法（例如程式化表單POST至leadCapture/save和leadCapture/save2端點）提交的表單將會遭到拒絕。 如需詳細資訊與補救，請參閱[我們在Marketing Nation](https://nation.marketo.com/t5/Product-Documents/Upcoming-Changes-to-the-Marketo-Engage-Form-Platform/ta-p/306631)的貼文。
 * 2021年，Marketo Engage將變更登陸頁面、表單及影像和檔案資產的URL結構。 對於現有的Marketo Engage訂閱，我們將於2021年4月1日開始逐步推出。 有關轉出時間表的更多詳細資訊將於2021年3月發佈。 如需每個受影響資產型別將如何變更的詳細資訊，請參閱[我們在Marketing Nation](https://nation.marketo.com/t5/Product-Documents/Upcoming-Changes-to-Design-Studio-URLs/ta-p/306632)的貼文。
 

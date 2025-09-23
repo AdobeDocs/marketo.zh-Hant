@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719300
 description: 新增/移除自訂物件欄位做為智慧清單/觸發條件約束 — Marketo檔案 — 產品檔案
-title: 新增/移除自訂物件欄位做為智慧清單/觸發條件約束
+title: 新增/移除自訂物件欄位做為智慧清單/觸發程序限制
 exl-id: 639e73eb-9a8c-4b10-8e97-892abf5c5db0
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '173'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# 新增/移除自訂物件欄位做為智慧清單/觸發條件約束 {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
+# 新增/移除自訂物件欄位做為智慧清單/觸發程序限制 {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
 
 Marketo Engage可讓您對Salesforce自訂物件同步處理執行更細微的控制。 這可讓您選取可在自訂物件篩選器中作為限制條件的欄位，並在Smart Campaigns中將其用作觸發器。
 

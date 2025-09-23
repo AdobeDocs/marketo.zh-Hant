@@ -1,17 +1,17 @@
 ---
 unique-page-id: 42762519
 description: 現有客戶的設定 — Marketo檔案 — 產品檔案
-title: 現有客戶的設定
+title: 針對現有客戶的設定
 exl-id: e365f6b5-a3ec-492e-9348-2d3226e6c7eb
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '147'
-ht-degree: 2%
+ht-degree: 10%
 
 ---
 
-# 現有客戶的設定 {#configuration-for-existing-customers}
+# 針對現有客戶的設定 {#configuration-for-existing-customers}
 
 請設定下列設定，以開始使用新的前瞻分析控制面板。
 
@@ -23,7 +23,7 @@ ht-degree: 2%
 
 1. 在瀏覽器中開啟新索引標籤，以從您的Marketo帳戶取得[!DNL Marketo Sales Insights]認證。
 
-1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/configuration-for-existing-customers-1.png)
 

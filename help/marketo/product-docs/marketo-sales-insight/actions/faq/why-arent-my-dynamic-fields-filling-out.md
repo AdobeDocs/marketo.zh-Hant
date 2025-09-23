@@ -1,16 +1,16 @@
 ---
-description: 為什麼我的動態欄位沒有填寫？ - Marketo檔案 — 產品檔案
-title: 為什麼我的動態欄位沒有填寫？
+description: 為什麼我的動態欄位沒有填寫？ - Marketo 文件 - 產品文件
+title: 為什麼我的動態欄位未填入內容？
 exl-id: 4e1d133f-8314-4e64-b50b-f3e824c3bef4
 feature: Sales Insight Actions
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '294'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# 為什麼我的動態欄位沒有填寫？ {#why-arent-my-dynamic-fields-filling-out}
+# 為什麼我的動態欄位未填入內容？ {#why-arent-my-dynamic-fields-filling-out}
 
 動態欄位只有在您使用範本時才有作用。 您撰寫的個別一次性電子郵件不會填滿這些內容。
 

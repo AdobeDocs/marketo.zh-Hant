@@ -4,10 +4,10 @@ description: 新增至行銷活動 — Marketo檔案 — 產品檔案
 title: 新增至行銷活動
 exl-id: d520d681-8415-4d48-896f-f213a8fabd11
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '279'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
@@ -81,7 +81,7 @@ ht-degree: 1%
 
    ![](assets/thirteen.png)
 
-1. 選擇「**[!UICONTROL Marketing Campaign]**」。
+1. 選取「**[!UICONTROL Marketing Campaign]**」。
 
    ![](assets/six-1.png)
 

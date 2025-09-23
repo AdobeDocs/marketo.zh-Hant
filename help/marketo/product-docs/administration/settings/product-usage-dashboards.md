@@ -1,18 +1,18 @@
 ---
 description: 產品使用控制面板 — Marketo檔案 — 產品檔案
-title: 產品使用情況儀表板
+title: 產品使用量儀表板
 hide: true
 hidefromtoc: true
 feature: Administration
 exl-id: a0fa5cd0-a61d-4383-88c0-9f2a4b2c717a
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '610'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 產品使用情況儀表板 {#product-usage-dashboards}
+# 產品使用量儀表板 {#product-usage-dashboards}
 
 Marketo Engage產品使用情況儀表板可讓您根據特定限制或待處理資料輸送量、每日配額的使用情況以及訂閱中的關鍵量度，檢視產品和平台使用情況。 配置基礎架構是為了提供針對特定屬性的產品層級定義的效能限制。 其中有些限制（例如API使用情況）是作為套件或產品層級的一部分購買的合約限制。
 
@@ -38,7 +38,7 @@ Marketo Engage產品使用情況儀表板可讓您根據特定限制或待處理
 >
 >若要檢視特定周的活動型別計數，請將滑鼠移至所需的一週上，計數就會顯示。
 
-#### 常見問題集 {#faq}
+#### 常見問題 {#faq}
 
 **計算哪些活動型別？**
 

@@ -3,7 +3,7 @@ description: 使用OAuth 2.0登入 — Marketo檔案 — 產品檔案
 title: 使用 OAuth 2.0 登入
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 feature: Salesforce Integration
-source-git-commit: 3e007c6ddc150227310f2d38a7f77ad86ca15ffa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '491'
 ht-degree: 3%

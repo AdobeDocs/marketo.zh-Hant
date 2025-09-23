@@ -4,14 +4,14 @@ description: 發行說明 — 2012年12月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2012年12月
 exl-id: d9d09c4b-6764-4638-9cb1-2882fb0947cc
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '367'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 發行說明： 2012年12月 {#release-notes-december}
+# 發行說明：2012 年 12 月 {#release-notes-december}
 
 12月發行版本包含備受期待的&#x200B;**轉寄給Friend**&#x200B;功能，以及其他幾個小工具！ 請注意，以星號(&#42;)標示的功能僅適用於Select Edition和RCA (Revenue Cycle Analytics)。
 
@@ -43,7 +43,7 @@ Marketo [!UICONTROL BrightTALK]配接卡可讓您從即時或隨選網路廣播�
 
 ![](assets/image2014-9-23-10-3a51-3a31.png)
 
-## [!DNL Microsoft Dynamics]的Marketo [!DNL Sales Insight] {#marketo-sales-insight-for-microsoft-dynamics}
+## [!DNL Sales Insight]的Marketo [!DNL Microsoft Dynamics] {#marketo-sales-insight-for-microsoft-dynamics}
 
 [!DNL Sales Insight]現在可供[!DNL Microsoft Dynamics]個客戶使用！
 
@@ -66,7 +66,7 @@ Marketo [!UICONTROL BrightTALK]配接卡可讓您從即時或隨選網路廣播�
 
 ![](assets/image2014-9-23-10-3a52-3a23.png)
 
-## 行銷活動檢視窗 {#campaign-inspector}
+## 行銷活動檢查器 {#campaign-inspector}
 
 您是否曾想過哪些行銷活動正在使用特定流量動作，例如[!UICONTROL Change Score]或[!UICONTROL Request Campaign]？ 或是使用特定篩選器的位置？ 新的[!UICONTROL Campaign Inspector] （可從Treasure Check取得）可讓您識別這些行銷活動，以及發生錯誤的作用中行銷活動和行銷活動。
 

@@ -1,21 +1,21 @@
 ---
 unique-page-id: 10096523
 description: 檢視推播通知控制面板 — Marketo檔案 — 產品檔案
-title: 檢視推播通知控制面板
+title: 檢視推播通知儀表板
 exl-id: c898d02e-9587-495e-bd86-c50343cacf8c
 feature: Mobile Marketing
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '119'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# 檢視推播通知控制面板 {#view-the-push-notification-dashboard}
+# 檢視推播通知儀表板 {#view-the-push-notification-dashboard}
 
 您可輕鬆瞭解推播通知的運作方式。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**&#x200B;區域。
+1. 前往「**[!UICONTROL Marketing Activities]**」區域。
 
    ![](assets/image2015-12-11-12-3a57-3a48.png)
 

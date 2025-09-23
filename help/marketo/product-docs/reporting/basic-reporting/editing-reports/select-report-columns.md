@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359994
 description: 選取報表欄 — Marketo檔案 — 產品檔案
-title: 選取報表欄
+title: 選取報告欄
 exl-id: 11357993-7b29-41cb-a376-06de387d1e92
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '55'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# 選取報表欄 {#select-report-columns}
+# 選取報告欄 {#select-report-columns}
 
 您可以選擇報表中要包含和未包含的欄。
 

@@ -4,10 +4,10 @@ description: 核准表單 — Marketo檔案 — 產品檔案
 title: 核准表單
 exl-id: 4ff280d9-dfff-4d1e-829e-74414d731d57
 feature: Forms
-source-git-commit: e29ee847eb91a59c75d0afb9f3cfc19622b4dd81
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '104'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 

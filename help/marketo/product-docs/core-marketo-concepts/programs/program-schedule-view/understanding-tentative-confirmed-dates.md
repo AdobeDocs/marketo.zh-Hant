@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147140
 description: 瞭解暫定/確認日期 — Marketo檔案 — 產品檔案
-title: 瞭解暫定/確認日期
+title: 了解暫定/已確認日期
 exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '206'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 瞭解暫定/確認日期 {#understanding-tentative-confirmed-dates}
+# 了解暫定/已確認日期 {#understanding-tentative-confirmed-dates}
 
 智慧型行銷活動和電子郵件程式具有強大的功能，可標示為&#x200B;**[!UICONTROL Tentative]**&#x200B;或&#x200B;**[!UICONTROL Confirmed]**。 以下是其運作方式。
 

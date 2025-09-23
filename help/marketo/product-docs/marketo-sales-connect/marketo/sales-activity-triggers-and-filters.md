@@ -1,16 +1,16 @@
 ---
 description: 銷售活動觸發器和篩選器 — Marketo檔案 — 產品檔案
-title: 銷售活動觸發程式與篩選器
+title: 銷售活動觸發程序和篩選器
 exl-id: 750abb73-8217-4739-8a08-1eb0f6e2976c
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '114'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# 銷售活動觸發程式與篩選器 {#sales-activity-triggers-and-filters}
+# 銷售活動觸發程序和篩選器 {#sales-activity-triggers-and-filters}
 
 如果您想要更妥善地協調與銷售團隊的互動，或嘗試更清楚瞭解客戶在整個購買歷程中的互動情況，Marketo中的銷售活動深入分析將十分實用。
 

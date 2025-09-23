@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352601
 description: 在動態欄位中自我參照 — Marketo檔案 — 產品檔案
-title: 在動態欄位中自我參照
+title: 在動態欄位中參照您自己
 exl-id: 89d5ad5e-e699-451c-b399-f3cc7f554100
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '79'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
-# 在動態欄位中自我參照 {#reference-yourself-in-a-dynamic-field}
+# 在動態欄位中參照您自己 {#reference-yourself-in-a-dynamic-field}
 
 動態欄位是合併列印的形式。
 

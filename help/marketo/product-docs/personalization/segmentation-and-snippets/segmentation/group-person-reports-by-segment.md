@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359492
 description: 依區段劃分的群組人員報表 — Marketo檔案 — 產品檔案
-title: 依區段劃分的群組人員報表
+title: 按照區段將人員報告分組
 exl-id: 38c77548-3bfd-484e-ba0a-ccedc2ed6205
 feature: Segmentation
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# 依區段劃分的群組人員報表 {#group-person-reports-by-segment}
+# 按照區段將人員報告分組 {#group-person-reports-by-segment}
 
 您可以依據您在區段中定義的任何區段，將個人報表分組。
 

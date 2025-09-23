@@ -4,7 +4,7 @@ description: SFDC同步 — 在Salesforce中將銷售機會轉換為聯絡人 �
 title: SFDC同步 — 在Salesforce中將銷售機會轉換為聯絡人
 exl-id: 9c9dbe9a-80a6-4153-ac86-96f85025fe77
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%

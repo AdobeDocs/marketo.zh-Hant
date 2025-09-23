@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11379622
 description: 設定Facebook銷售機會廣告 — Marketo檔案 — 產品檔案
-title: 設定Facebook潛在客戶廣告
+title: 設定 Facebook 商機廣告
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '298'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 設定Facebook潛在客戶廣告 {#set-up-facebook-lead-ads}
+# 設定 Facebook 商機廣告 {#set-up-facebook-lead-ads}
 
 使用[Facebook銷售機會廣告](https://www.facebook.com/business/ads/ad-objectives/lead-generation){target="_blank"}在Facebook中執行廣告行銷活動，並產生Marketo的銷售機會。
 

@@ -4,10 +4,10 @@ description: 在收入模型中設定 [!DNL Google AdWords] 轉換 — Marketo�
 title: 在收入模型中設定 [!DNL Google AdWords] 轉換
 exl-id: dd1259fc-d3f2-44ec-8055-f75d55263b36
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '409'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 1%
 
 ## 使用[!DNL AdWords]轉換 {#use-adwords-conversion}
 
-1. 移至&#x200B;**[!UICONTROL Analytics]**&#x200B;區域。
+1. 前往「**[!UICONTROL Analytics]**」區域。
 
    ![](assets/image2015-2-23-18-3a9-3a34.png)
 
@@ -95,7 +95,7 @@ ht-degree: 1%
 
    ![](assets/image2015-2-26-16-3a52-3a24.png)
 
-1. 選擇「**[!UICONTROL New Conversion]**」。
+1. 選取「**[!UICONTROL New Conversion]**」。
 
    ![](assets/image2015-2-26-21-3a22-3a10.png)
 
@@ -109,7 +109,7 @@ ht-degree: 1%
 
 您可以使用[!UICONTROL AdWords Conversion]對應將所有模型階段與[!DNL AdWords]在一個位置建立關聯。
 
-1. 選擇「**[!UICONTROL Edit AdWords Mappings]**」。
+1. 選取「**[!UICONTROL Edit AdWords Mappings]**」。
 
    ![](assets/image2015-2-26-17-3a3-3a29.png)
 

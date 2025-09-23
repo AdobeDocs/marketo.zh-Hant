@@ -1,16 +1,16 @@
 ---
 description: CT-YYYY-MM-Content on Marketo登陸頁面 — Marketo檔案 — 產品檔案
-title: Marketo登陸頁面上的CT-YYYY-MM-Content
+title: CT-YYYY-MM-Marketo 登陸頁面上的內容
 feature: Programs
 exl-id: 638c4d6a-a8c7-4f03-9dae-07fecfb1302b
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '474'
-ht-degree: 6%
+ht-degree: 9%
 
 ---
 
-# Marketo登陸頁面上的CT-YYYY-MM-Content {#ct-yyyy-mm-content-on-marketo-landing-page}
+# CT-YYYY-MM-Marketo 登陸頁面上的內容 {#ct-yyyy-mm-content-on-marketo-landing-page}
 
 此範例旨在成為利用Marketo Engage登陸頁面和Marketo Engage表單(使用Marketo Engage預設程式)的內容程式。 此表單用於存取內容/選件。 優惠連結可顯示在感謝頁面上、以感謝電子郵件傳送或兩者皆顯示。
 
@@ -21,7 +21,7 @@ ht-degree: 6%
 <table style="table-layout:auto">
  <tbody>
   <tr>
-   <th>頻道</th>
+   <th>管道</th>
    <th>成員資格狀態</th>
    <th>Analytics行為</th>
    <th>計畫型別</th>
@@ -47,7 +47,7 @@ ht-degree: 6%
   </tr>
   <tr>
    <td>電子郵件</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速入門電子郵件範本</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">快速開始電子郵件範本</a></td>
    <td>01 — 電子郵件 — 感謝您</td>
   </tr>
   <tr>
@@ -104,7 +104,7 @@ ht-degree: 6%
   <tr>
    <td>資料夾</td>
    <td> </td>
-   <td>報表</td>
+   <td>報告</td>
   </tr>
  </tbody>
 </table>
@@ -118,7 +118,7 @@ ht-degree: 6%
   <tr>
    <th>權杖型別</th>
    <th>代號名稱</th>
-   <th>值</th>
+   <th>價值</th>
   </tr>
   <tr>
    <td>RTF文字</td>

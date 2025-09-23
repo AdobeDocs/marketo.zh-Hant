@@ -4,10 +4,10 @@ description: 啟動簡報 — Marketo檔案 — 產品檔案
 title: 啟動簡報
 exl-id: 2726e185-c28a-44bb-b7a6-46698efcd1b4
 feature: Marketing Calendar
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 0%
+source-wordcount: '104'
+ht-degree: 6%
 
 ---
 
@@ -29,14 +29,14 @@ ht-degree: 0%
 >
 >啟動之前，請務必&#x200B;_預覽簡報_。
 
-1. 按一下&#x200B;**[!UICONTROL 啟動]**。
+1. 按一下「**[!UICONTROL Launch]**」。
 
    ![](assets/image2015-3-20-14-3a4-3a18.png)
 
-1. 再按一次&#x200B;**[!UICONTROL 啟動]**。 這會將您登出Marketo，以便安全地顯示簡報。
+1. 再按一次&#x200B;**[!UICONTROL Launch]**。 這會將您登出Marketo，以便安全地顯示簡報。
 
    ![](assets/image2015-3-20-14-3a5-3a34.png)
 
    >[!TIP]
    >
-   >您的簡報將在新標籤中啟動。 如果需要，請將索引標籤移至外部監視器以顯示，然後按一下&#x200B;**[!UICONTROL 全熒幕]**。
+   >您的簡報將在新標籤中啟動。 如果需要，請將索引標籤移至外部監視器以顯示，然後按一下&#x200B;**[!UICONTROL Fullscreen]**。

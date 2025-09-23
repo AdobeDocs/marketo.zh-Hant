@@ -1,17 +1,17 @@
 ---
 unique-page-id: 42762244
 description: 設定銷售機會/聯絡人記錄的星星和火焰 — Marketo檔案 — 產品檔案
-title: 設定銷售機會/聯絡人記錄的星星和火焰
+title: 針對商機/聯絡人記錄設定星星 (相對分數) 和火焰 (急迫性)
 exl-id: 696b2551-0627-4da1-a64e-d3ef91596442
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# 設定銷售機會/聯絡人記錄的星星和火焰 {#setting-up-stars-and-flames-for-lead-contact-records}
+# 針對商機/聯絡人記錄設定星星 (相對分數) 和火焰 (急迫性) {#setting-up-stars-and-flames-for-lead-contact-records}
 
 潛在客戶/連絡人記錄上的星星和火焰相依於： [!UICONTROL Lead Score]、[!UICONTROL Relative Score]、[!UICONTROL Urgency]和[!UICONTROL Priority]欄位。 安裝及設定MSI解決方案之後，預設會提供這些欄位。 如果沒有星星和火焰，之前的設定/自訂可能會導致它們被移除。 請依照下列步驟新增。
 

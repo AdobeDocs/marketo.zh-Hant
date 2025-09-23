@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352469
 description: 將Salesforce ID匯入Sales Connect - Marketo檔案 — 產品檔案
-title: 將Salesforce ID匯入Sales Connect
+title: 將 Salesforce ID 匯入 Sales Connect 中
 exl-id: 9025a815-0740-461e-b4c9-3cbb3c98570f
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# 將Salesforce ID匯入Sales Connect {#import-a-salesforce-id-into-sales-connect}
+# 將 Salesforce ID 匯入 Sales Connect 中 {#import-a-salesforce-id-into-sales-connect}
 
 [!DNL Sales Connect]使用連絡人或潛在客戶ID （也稱為[!DNL Salesforce] ID），協助將資訊正確記錄到[!DNL Salesforce]。 有幾種方式可以將[!DNL Salesforce] ID附加至[!DNL Sales Connect]中的連絡人。
 

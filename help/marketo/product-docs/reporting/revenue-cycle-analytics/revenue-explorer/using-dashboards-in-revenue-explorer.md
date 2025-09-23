@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10094959
 description: 在Revenue Explorer中使用儀表板 — Marketo檔案 — 產品檔案
-title: 在Revenue Explorer中使用控制面板
+title: 使用營收總管中的儀表板
 exl-id: ff81d48f-524e-4425-acb4-b62428f7a375
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '212'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 

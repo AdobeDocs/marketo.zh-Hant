@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359459
 description: 建立程式碼片段 — Marketo檔案 — 產品檔案
-title: 建立代碼片段
+title: 建立程式碼片段
 exl-id: 8483ed35-3763-42b6-bfd9-55e0a69a66cc
 feature: Snippets
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '71'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# 建立代碼片段 {#create-a-snippet}
+# 建立程式碼片段 {#create-a-snippet}
 
 程式碼片段可以在&#x200B;**電子郵件**&#x200B;和&#x200B;**登入頁面**&#x200B;上當作動態內容區塊使用。
 

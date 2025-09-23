@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949285
 description: 在Marketo - Marketo檔案 — 產品檔案中記錄潛在客戶寄來的傳入郵件
-title: 在Marketo中記錄潛在客戶寄來的傳入郵件
+title: 在 Marketo 中記錄來自商機的傳入郵件
 exl-id: 4fab5007-f6fb-432c-ae13-02da747a82ef
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# 在Marketo中記錄潛在客戶寄來的傳入郵件 {#log-inbound-mail-from-your-leads-in-marketo}
+# 在 Marketo 中記錄來自商機的傳入郵件 {#log-inbound-mail-from-your-leads-in-marketo}
 
 您可以使用Marketo電子郵件增益集，直接在[!DNL Outlook]中記錄潛在客戶的回覆。
 

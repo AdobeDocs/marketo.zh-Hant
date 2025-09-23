@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7511931
 description: 在Salesforce1中傳送Marketo電子郵件和行銷活動以及關注清單動作 — Marketo檔案 — 產品檔案
-title: 在Salesforce1中傳送Marketo電子郵件和行銷活動以及監看清單動作
+title: 在 Salesforce1 中傳送 Marketo 電子郵件和行銷活動以及關注清單動作
 exl-id: 055754b1-4803-4ca6-aa3f-474175daad1a
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '153'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 

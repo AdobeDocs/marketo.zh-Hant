@@ -1,16 +1,16 @@
 ---
 description: 銷售Insight動作與GDPR法規遵循 — Marketo檔案 — 產品檔案
-title: 銷售Insight行動與GDPR法規遵循
+title: 銷售洞察動作與 GDPR 合規性
 exl-id: 1ede23b5-97ff-465a-95b7-a3262cd25bb8
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1307'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 銷售Insight行動與GDPR法規遵循 {#sales-insight-actions-and-gdpr-compliance}
+# 銷售洞察動作與 GDPR 合規性 {#sales-insight-actions-and-gdpr-compliance}
 
 一般資料保護規範(GDPR)是歐盟法律，於2018年5月25日生效。
 
@@ -179,9 +179,9 @@ GDPR有兩個主要層面，行銷人員需要檢閱過去、目前和未來的�
 
 GDPR的一個普遍誤解領域涉及從組織資料庫取消訂閱的聯絡人。 為了遵守關於保護選擇取消訂閱者的資料的新規則，[!DNL Sales Insight Actions]已包含下列功能：
 
-**取消訂閱連結：**&#x200B;取消訂閱連結會自動附加至Sales Connect Web應用程式所傳送的所有電子郵件，以確保連絡人有可存取的方式選擇退出。
-**取消訂閱同步處理：**&#x200B;使用者可以同步處理其CRM (Salesforce)的取消訂閱與取消訂閱，以確保選擇退出為最新狀態。
-**取消訂閱歷史記錄：**&#x200B;使用者可在人員詳細資料檢視中檢視歷史選擇退出和選擇加入。
+**取消訂閱連結：**取消訂閱連結會自動附加至Sales Connect Web應用程式所傳送的所有電子郵件，以確保連絡人有可存取的方式選擇退出。
+**取消訂閱同步處理：**使用者可以同步處理其CRM (Salesforce)的取消訂閱與取消訂閱，以確保選擇退出為最新狀態。
+**取消訂閱歷史記錄：**使用者可在人員詳細資料檢視中檢視歷史選擇退出和選擇加入。
 **取消訂閱移除：**&#x200B;選擇取消訂閱的連絡人重新加入，需要使用者具有管理員許可權，並證明連絡人已同意重新連絡他們。
 
 ## 未來的更新 {#future-updates}

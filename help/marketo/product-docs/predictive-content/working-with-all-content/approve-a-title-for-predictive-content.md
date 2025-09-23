@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11384661
 description: 核准預測性內容的標題 — Marketo檔案 — 產品檔案
-title: 核准預測性內容的標題
+title: 核准預測內容的標題
 exl-id: 158ab21d-f5d6-452d-976e-8b50b2670b1a
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '117'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
-# 核准預測性內容的標題 {#approve-a-title-for-predictive-content}
+# 核准預測內容的標題 {#approve-a-title-for-predictive-content}
 
 您可以在[!UICONTROL All Content]頁面或[!UICONTROL All Content]快顯視窗中核准，藉此將[!UICONTROL Edit Content]頁面上的任何標題新增至預測性內容。
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/image2017-10-3-9-3a9-3a47.png)
 
-1. 按一下&#x200B;**[!UICONTROL Content Actions]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Approve for Predictive Content]**。
+1. 按一下「**[!UICONTROL Content Actions]**」下拉式選單，選取「**[!UICONTROL Approve for Predictive Content]**」。
 
    ![](assets/image2017-10-3-9-3a10-3a31.png)
 

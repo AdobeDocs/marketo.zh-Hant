@@ -1,21 +1,21 @@
 ---
 unique-page-id: 1147239
 description: 將計畫狀態列新增至計畫報表 — Marketo檔案 — 產品檔案
-title: 新增方案狀態列到方案報告
+title: 將方案狀態欄新增至方案報告
 exl-id: ab8e5be7-7ea6-4b69-b701-0c81ea556107
 feature: Programs
-source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 0%
+source-wordcount: '127'
+ht-degree: 13%
 
 ---
 
-# 新增方案狀態列到方案報告 {#add-program-status-columns-to-a-program-report}
+# 將方案狀態欄新增至方案報告 {#add-program-status-columns-to-a-program-report}
 
 新增有關方案狀態的統計資料至您的[方案績效報表](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"}。
 
-1. 移至&#x200B;**[!UICONTROL 行銷活動]** （或&#x200B;**[!UICONTROL 分析]**）。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]** （或&#x200B;**[!UICONTROL Analytics]**）。
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/emailperformance.jpg)
 
-1. 按一下「**[!UICONTROL 設定]**」標籤，並拖曳至「**[!UICONTROL 頻道]**」標籤。
+1. 按一下「**[!UICONTROL Setup]**」標籤，並拖曳至「**[!UICONTROL Channel]**」標籤上。
 
    ![](assets/image2014-9-23-16-3a26-3a38.png)
 
@@ -35,17 +35,17 @@ ht-degree: 0%
    >
    >若要顯示方案狀態列，您的報告必須僅以&#x200B;_一個_&#x200B;頻道篩選。
 
-1. 核取顯示計畫狀態列的選項。 按一下&#x200B;**[!UICONTROL 套用]**。
+1. 核取顯示計畫狀態列的選項。 按一下「**[!UICONTROL Apply]**」。
 
    ![](assets/image2014-9-23-16-3a26-3a53.png)
 
-1. 您成功了！ 按一下[!UICONTROL 報表]標籤，檢視含有計畫狀態列的報表。
+1. 您成功了！ 按一下「[!UICONTROL Report]」標籤，以檢視含有計畫狀態列的報告。
 
    ![](assets/programreport.jpg)
 
 >[!NOTE]
 >
->如果您在程式中沒有看到每個狀態的欄，請確定您已選取要在報表中顯示[&#128279;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md){target="_blank"}的欄。
+>如果您在程式中沒有看到每個狀態的欄，請確定您已選取要在報表中顯示[的欄](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md){target="_blank"}。
 
 >[!MORELIKETHIS]
 >

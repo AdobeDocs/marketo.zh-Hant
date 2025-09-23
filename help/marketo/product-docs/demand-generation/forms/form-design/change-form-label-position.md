@@ -4,10 +4,10 @@ description: 變更表單標籤位置 — Marketo檔案 — 產品檔案
 title: 變更表單標籤位置
 exl-id: b4291454-f6f8-4800-b806-6ea56d6f83cd
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 2%
+ht-degree: 11%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 2%
 
    ![](assets/image2014-9-15-16-3a16-3a9.png)
 
-1. 選擇「**[!UICONTROL Settings]**」。
+1. 選取「**[!UICONTROL Settings]**」。
 
    ![](assets/image2014-9-15-16-3a16-3a26.png)
 

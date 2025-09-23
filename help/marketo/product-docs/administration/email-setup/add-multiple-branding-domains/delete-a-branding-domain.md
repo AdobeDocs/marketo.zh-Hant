@@ -4,24 +4,24 @@ description: 刪除品牌定義域 — Marketo檔案 — 產品檔案
 title: 刪除品牌化網域
 exl-id: 12cbb8c0-4846-46cb-ba5a-d54a69523585
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 0%
+source-wordcount: '56'
+ht-degree: 23%
 
 ---
 
 # 刪除品牌化網域 {#delete-a-branding-domain}
 
-1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/delete-a-branding-domain-1.png)
 
-1. 按一下&#x200B;**[!UICONTROL 電子郵件]**。
+1. 按一下「**[!UICONTROL Email]**」。
 
    ![](assets/delete-a-branding-domain-2.png)
 
-1. 在「品牌化網域」表格中，選取您要移除的網域，然後按一下&#x200B;**[!UICONTROL 刪除]**。
+1. 在「品牌化網域」表格中，選取您要移除的網域，然後按一下&#x200B;**[!UICONTROL Delete]**。
 
    ![](assets/delete-a-branding-domain-3.png)
 

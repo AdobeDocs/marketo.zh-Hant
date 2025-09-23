@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953384
 description: 為自訂實體啟用同步 — Marketo檔案 — 產品檔案
-title: 為自訂實體啟用同步
+title: 啟用自訂實體同步
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 feature: Microsoft Dynamics
-source-git-commit: 4f36194fb76fd8e26c2fd6fe49526d88d355a24a
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '299'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 為自訂實體啟用同步 {#enable-sync-for-a-custom-entity}
+# 啟用自訂實體同步 {#enable-sync-for-a-custom-entity}
 
 如果您需要來自[!DNL Dynamics]的自訂實體資料才能在Marketo Engage中使用，以下說明如何為其啟用同步。
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
    ![](assets/enable-sync-for-a-custom-entity-1.png)
 
-1. 選取&#x200B;**[!UICONTROL Microsoft Dynamics]**&#x200B;並按一下&#x200B;**[!UICONTROL Disable Sync]**。
+1. 選取「**[!UICONTROL Microsoft Dynamics]**」然後按一下「**[!UICONTROL Disable Sync]**」。
 
    ![](assets/enable-sync-for-a-custom-entity-2.png)
 

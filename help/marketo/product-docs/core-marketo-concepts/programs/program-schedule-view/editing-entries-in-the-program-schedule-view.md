@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147136
 description: 編輯計畫排程檢視中的專案 — Marketo檔案 — 產品檔案
-title: 編輯程式排程檢視中的專案
+title: 在方案排程視圖中編輯條目
 exl-id: f04cfb84-ff96-4f4e-ab0d-d4b0b95a9f9c
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 1%
+source-wordcount: '144'
+ht-degree: 10%
 
 ---
 
-# 編輯程式排程檢視中的專案 {#editing-entries-in-the-program-schedule-view}
+# 在方案排程視圖中編輯條目 {#editing-entries-in-the-program-schedule-view}
 
 您可以在排程檢視中編輯方案的不同元素。
 
@@ -35,7 +35,7 @@ ht-degree: 1%
 
    ![](assets/image2014-9-18-18-3a3-3a7.png)
 
-1. 編輯您的說明。 按一下&#x200B;**[!UICONTROL 保存]**。
+1. 編輯您的說明。 按一下「**[!UICONTROL Save]**」。
 
    ![](assets/image2014-9-18-18-3a3-3a22.png)
 

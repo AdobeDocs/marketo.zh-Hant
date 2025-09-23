@@ -1,13 +1,13 @@
 ---
 unique-page-id: 3571735
 description: 在Marketo 2011中安裝及設定Microsoft Dynamics Sales Insight - Marketo檔案 — 產品檔案
-title: 在Microsoft Dynamics 2011中安裝並設定Marketo Sales Insight
+title: 在 Microsoft Dynamics 2011 中安裝及設定 Marketo 銷售洞察
 exl-id: 40622dcc-7129-4392-95dc-ca829c15c3a6
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '331'
-ht-degree: 2%
+ht-degree: 5%
 
 ---
 
@@ -123,7 +123,7 @@ ht-degree: 2%
 
 設定使用者角色以授與特定使用者對[!DNL Sales Insight]的存取權。
 
-1. 選擇「**[!UICONTROL Settings]**」。
+1. 選取「**[!UICONTROL Settings]**」。
 
    ![](assets/image2015-5-4-11-3a30-3a54.png)
 

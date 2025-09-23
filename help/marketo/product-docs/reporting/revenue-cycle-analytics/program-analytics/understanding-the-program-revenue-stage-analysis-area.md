@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7514009
 description: 瞭解方案收入階段分析區域 — Marketo檔案 — 產品檔案
-title: 瞭解方案收入階段分析區域
+title: 了解方案收入階段分析區域
 exl-id: 7310655f-a06e-4e02-a094-d942fff689c3
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '418'
-ht-degree: 3%
+ht-degree: 6%
 
 ---
 
-# 瞭解方案收入階段分析區域 {#understanding-the-program-revenue-stage-analysis-area}
+# 了解方案收入階段分析區域 {#understanding-the-program-revenue-stage-analysis-area}
 
 此分析區域可讓您分析個別計畫的成效，或按管道檢視摘要結果。 它可讓您深入瞭解產生的新名稱中，有多少已達到您的收入週期模型內的特定成功路徑階段。
 
@@ -121,7 +121,7 @@ ht-degree: 3%
 <table>
  <tbody>
   <tr>
-   <td colspan="1" rowspan="1"><p><strong>衡量</strong></p></td>
+   <td colspan="1" rowspan="1"><p><strong>測量</strong></p></td>
    <td colspan="1" rowspan="1"><p><strong>說明</strong></p></td>
   </tr>
   <tr>

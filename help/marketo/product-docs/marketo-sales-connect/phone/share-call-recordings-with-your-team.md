@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352437
 description: 與團隊共用通話錄製 — Marketo檔案 — 產品檔案
-title: 與您的團隊共用通話錄製
+title: 與您的團隊共用通話錄音
 exl-id: fabd5fba-14a4-4885-93ba-9a3857e2a298
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '165'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# 與您的團隊共用通話錄製 {#share-call-recordings-with-your-team}
+# 與您的團隊共用通話錄音 {#share-call-recordings-with-your-team}
 
 銷售電話可讓您錄製並儲存您的通話錄製。 如果您想要與團隊的其他成員共用通話錄製，可以從兩個地方複製連結。
 

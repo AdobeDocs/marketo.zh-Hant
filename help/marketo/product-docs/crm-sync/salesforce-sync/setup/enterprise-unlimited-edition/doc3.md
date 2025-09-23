@@ -4,16 +4,16 @@ title: 步驟3之3 — 連線Marketo和Salesforce (Enterprise/Unlimited)
 hide: true
 hidefromtoc: true
 feature: Salesforce Integration
-source-git-commit: 989804463f44afbf35ab11c0f23c37b0d328e652
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 0%
+source-wordcount: '109'
+ht-degree: 9%
 
 ---
 
-# 步驟3之3：連線Marketo和Salesforce (Enterprise/Unlimited) {#step-of-connect-marketo-and-salesforce-enterprise-unlimited}
+# 第 3 步 (共 3 步)：連接 Marketo 和 Salesforce (企業版/無限版) {#step-of-connect-marketo-and-salesforce-enterprise-unlimited}
 
-在本文中，您將設定Marketo Engage以與您設定的Salesforce執行個體同步。
+在本文中，您將設定Marketo Engage以與已設定的Salesforce執行個體同步。
 
 >[!PREREQUISITES]
 >
@@ -26,4 +26,4 @@ ht-degree: 0%
 >
 >如果您已經有安全性權杖，請直接進入「設定同步使用者認證」和「稱號」進行準備！
 
-1. 使用Marketo Sync User登入Salesforce，按一下同步使用者名稱，然後按&#x200B;**[!UICONTROL 我的設定]**。
+1. 以Marketo Sync User登入Salesforce，按一下同步使用者名稱，然後按&#x200B;**[!UICONTROL My Settings]**。

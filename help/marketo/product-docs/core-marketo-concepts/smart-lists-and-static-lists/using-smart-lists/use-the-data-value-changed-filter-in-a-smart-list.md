@@ -1,17 +1,17 @@
 ---
 unique-page-id: 557324
 description: 在智慧清單中使用資料值變更篩選器 — Marketo檔案 — 產品檔案
-title: 在智慧清單中使用資料值變更篩選器
+title: 在智慧清單中使用資料值已變更篩選器
 exl-id: 4ecca2b0-771f-44aa-a0cf-9f9f40549f41
 feature: Smart Lists
-source-git-commit: d087b22e84c23fea5e38fe7bf20349dc7eec09f7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 0%
+source-wordcount: '138'
+ht-degree: 18%
 
 ---
 
-# 在智慧清單中使用資料值變更篩選器 {#use-the-data-value-changed-filter-in-a-smart-list}
+# 在智慧清單中使用資料值已變更篩選器 {#use-the-data-value-changed-filter-in-a-smart-list}
 
 Marketo資料庫中的值會持續變更和更新。 有時候，您會想要尋找有價值變更的人，而不是尋找特定值。 方法如下。
 
@@ -19,19 +19,19 @@ Marketo資料庫中的值會持續變更和更新。 有時候，您會想要尋
 >
 >[建立智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 
-1. 前往&#x200B;**[!UICONTROL 行銷活動]**&#x200B;區域。
+1. 前往「**[!UICONTROL Marketing Activities]**」區域。
 
    ![](assets/use-the-data-value-changed-filter-in-a-smart-list-1.png)
 
-1. 選取智慧列示，然後按一下&#x200B;**[!UICONTROL 智慧列示]**&#x200B;索引標籤。
+1. 選取智慧列示，然後按一下&#x200B;**[!UICONTROL Smart List]**&#x200B;標籤。
 
    ![](assets/use-the-data-value-changed-filter-in-a-smart-list-2.png)
 
-1. 尋找&#x200B;**[!UICONTROL 資料值已變更]**&#x200B;篩選器，並將其拖曳至畫布上。
+1. 尋找&#x200B;**[!UICONTROL Data Value Changed]**&#x200B;篩選器並將其拖曳到畫布上。
 
    ![](assets/use-the-data-value-changed-filter-in-a-smart-list-3.png)
 
-1. 將&#x200B;**[!UICONTROL 屬性]**&#x200B;設定為您要尋找資料值變更的欄位。
+1. 將&#x200B;**[!UICONTROL Attribute]**&#x200B;設定為您要尋找資料值變更的欄位。
 
    ![](assets/use-the-data-value-changed-filter-in-a-smart-list-4.png)
 

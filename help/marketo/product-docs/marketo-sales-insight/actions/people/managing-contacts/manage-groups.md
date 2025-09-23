@@ -3,7 +3,7 @@ description: 管理群組 — Marketo檔案 — 產品檔案
 title: 管理群組
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
-source-git-commit: a88e7978a74d6aaaaad882a83cdfa3e80a4c50cb
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 2%
@@ -75,7 +75,7 @@ ht-degree: 2%
 
    ![](assets/manage-groups-6.png)
 
-1. 選取您要新增它們的群組，然後按一下[新增]。**&#x200B;**
+1. 選取您要新增它們的群組，然後按一下[新增]。****
 
    ![](assets/manage-groups-7.png)
 

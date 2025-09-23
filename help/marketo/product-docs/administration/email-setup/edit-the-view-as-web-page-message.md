@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360253
 description: 編輯「以網頁方式檢視」訊息 — Marketo檔案 — 產品檔案
-title: 編輯「以網頁檢視」訊息
+title: 編輯「以網頁形式檢視」訊息
 exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
 feature: Email Setup
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
 workflow-type: tm+mt
 source-wordcount: '155'
-ht-degree: 0%
+ht-degree: 16%
 
 ---
 
-# 編輯「以網頁檢視」訊息 {#edit-the-view-as-web-page-message}
+# 編輯「以網頁形式檢視」訊息 {#edit-the-view-as-web-page-message}
 
 如果您需要編輯&quot;[以網頁](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)&quot;檢視文字，以下是編輯方式。
 
@@ -19,9 +19,9 @@ ht-degree: 0%
 >
 >**需要管理員許可權**
 
-## 編輯「以網頁檢視」訊息 {#edit-the-view-as-web-page-message-1}
+## 編輯「以網頁形式檢視」訊息 {#edit-the-view-as-web-page-message-1}
 
-1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/edit-the-view-as-web-page-message-1.png)
 

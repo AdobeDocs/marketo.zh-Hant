@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953188
 description: 推斷的篩選器 — Marketo檔案 — 產品檔案
-title: 推斷的篩選器
+title: 推斷篩選器
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
 feature: Smart Lists
-source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '209'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 推斷的篩選器 {#inferred-filters}
+# 推斷篩選器 {#inferred-filters}
 
 當有人造訪您的網站時，[Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}會對其進行Cookie並將其放入系統中。 我們會在特殊資料庫中查詢他們的IP，並推斷各種資訊。
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >為確保推斷的欄位值保持最新狀態，我們會定期更新用於IP位址查詢的資料庫。 資料庫更新可能會引入新的推斷欄位值，您可能需要將這些值新增到智慧列示篩選器定義中。
 >
->資料庫更新可以在[Marketo Engage的產品版本](/help/marketo/release-notes/release-schedule.md){target="_blank"}期間進行。 當更新發生時，[Marketo Engage發行說明](/help/marketo/release-notes/current.md){target="_blank"}將包含推斷欄位值之任何變更的說明。
+>在[Marketo Engage產品發行版本](/help/marketo/release-notes/release-schedule.md){target="_blank"}期間可能會進行資料庫更新。 當更新發生時，[Marketo Engage發行說明](/help/marketo/release-notes/current.md){target="_blank"}將包含推斷欄位值之任何變更的說明。
 
 ![](assets/inferred-filters-1.png)
 

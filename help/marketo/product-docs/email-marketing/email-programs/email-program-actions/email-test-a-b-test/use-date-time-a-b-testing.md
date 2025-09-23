@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359520
 description: 使用「日期/時間」A/B測試 — Marketo檔案 — 產品檔案
-title: 使用「日期/時間」A/B測試
+title: 使用「日期/時間」A/B 測試
 exl-id: ee686d46-9427-4f8b-a16f-858c5109cabd
 feature: Email Programs, A/B Testing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
 workflow-type: tm+mt
 source-wordcount: '249'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 使用「日期/時間」A/B測試 {#use-date-time-a-b-testing}
+# 使用「日期/時間」A/B 測試 {#use-date-time-a-b-testing}
 
 您可以輕鬆對電子郵件進行A/B測試。 一個測試是&#x200B;**[!UICONTROL Date/Time]**&#x200B;測試。 這會測試一天中的哪個時間或星期幾最適合傳送電子郵件。 以下說明設定方法。
 

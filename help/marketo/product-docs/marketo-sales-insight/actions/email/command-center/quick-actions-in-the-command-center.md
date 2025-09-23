@@ -3,10 +3,10 @@ description: 命令中心的快速動作 — Marketo檔案 — 產品檔案
 title: 指揮中心的快速動作
 exl-id: e95cdb06-8a67-41ba-b528-c2478a75356f
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '297'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
@@ -91,4 +91,4 @@ ht-degree: 1%
 | 傳送後續追蹤電子郵件 | 開啟撰寫視窗，其中已附加選取的內嵌電子郵件內文，並準備好傳送給收件者。 |
 | 進行通話 | 開啟銷售電話以撥打電子郵件收件者。 |
 | 傳送InMail | 重新導向至[!DNL LinkedIn]，以傳送郵件至InMail。 |
-| 建立任務 | 開啟建立任務快顯視窗以建立提醒任務。 |
+| 建立工作 | 開啟建立任務快顯視窗以建立提醒任務。 |

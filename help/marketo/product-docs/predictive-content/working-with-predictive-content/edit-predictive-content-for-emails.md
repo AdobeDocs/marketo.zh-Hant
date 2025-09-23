@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11385938
 description: 編輯電子郵件的預測性內容 — Marketo檔案 — 產品檔案
-title: 編輯電子郵件的預測性內容
+title: 編輯電子郵件的預測內容
 exl-id: 6f3e4e32-0318-4981-b2e9-796c3d001614
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '228'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 編輯電子郵件的預測性內容 {#edit-predictive-content-for-emails}
+# 編輯電子郵件的預測內容 {#edit-predictive-content-for-emails}
 
 以下說明如何設定電子郵件的預測性內容。
 

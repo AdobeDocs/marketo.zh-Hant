@@ -1,16 +1,16 @@
 ---
 description: 個人帳戶同步常見問題集 — Marketo檔案 — 產品檔案
-title: 個人帳戶同步常見問題集
+title: 人員帳戶同步常見問題
 exl-id: b77bb44f-94d0-40b2-9955-9636421ac468
 feature: Veeva CRM
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '472'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 個人帳戶同步常見問題集 {#person-account-sync-faq}
+# 人員帳戶同步常見問題 {#person-account-sync-faq}
 
 Marketo Engage會針對個人帳戶型別的記錄，將整個資料庫與[!DNL Veeva]同步。 同步後，它會等待5分鐘，然後每天再次同步。
 

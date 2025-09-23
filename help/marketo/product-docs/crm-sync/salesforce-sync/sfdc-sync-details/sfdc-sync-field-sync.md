@@ -4,14 +4,14 @@ description: SFDC同步 — 欄位同步 — Marketo檔案 — 產品檔案
 title: SFDC同步 — 欄位同步
 exl-id: fbd66829-53cb-47fd-a530-149d12baee0e
 feature: Salesforce Integration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '403'
 ht-degree: 0%
 
 ---
 
-# SFDC同步：欄位同步 {#sfdc-sync-field-sync}
+# SFDC 同步：欄位同步 {#sfdc-sync-field-sync}
 
 Marketo從[!DNL Salesforce]同步欄位資訊。 詳情如下。
 

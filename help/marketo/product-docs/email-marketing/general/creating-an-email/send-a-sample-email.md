@@ -4,10 +4,10 @@ description: 傳送範例電子郵件 — Marketo檔案 — 產品檔案
 title: 傳送範例電子郵件
 exl-id: b8f845e8-5c5e-463d-9d60-9c8103cec5ac
 feature: Email Editor
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '297'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## 傳送範例電子郵件 {#send-a-sample-email-1}
 
-1. 尋找並選取您的電子郵件。 按一下&#x200B;**[!UICONTROL Email Actions]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Send Sample]**。
+1. 尋找並選取您的電子郵件。 按一下「**[!UICONTROL Email Actions]**」下拉式選單，選取「**[!UICONTROL Send Sample]**」。
    ![](assets/one-281-29.jpg)
 
    >[!NOTE]
@@ -56,7 +56,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >觸發欄位僅適用於使用[電子郵件指令碼](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/email-scripting)的使用者。
+   >觸發欄位僅適用於使用[電子郵件指令碼](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)的使用者。
 
 ## 根據區段傳送範例電子郵件 {#send-a-sample-email-based-on-a-segment}
 
@@ -72,7 +72,7 @@ ht-degree: 0%
 
    ![](assets/1.png)
 
-1. 按一下&#x200B;**[!UICONTROL View By]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Segmentation]**。
+1. 按一下「**[!UICONTROL View By]**」下拉式選單，選取「**[!UICONTROL Segmentation]**」。
 
    ![](assets/2.png)
 

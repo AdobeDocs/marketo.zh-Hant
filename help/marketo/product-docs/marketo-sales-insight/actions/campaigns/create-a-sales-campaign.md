@@ -3,10 +3,10 @@ description: 建立促銷活動 — Marketo檔案 — 產品檔案
 title: 建立銷售行銷活動
 exl-id: 12969d09-529d-4cba-a419-7a3be52d3e96
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '302'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 

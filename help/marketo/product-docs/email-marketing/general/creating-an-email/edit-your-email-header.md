@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359453
 description: 編輯電子郵件標題 — Marketo檔案 — 產品檔案
-title: 編輯您的電子郵件標題
+title: 編輯您的電子郵件標頭
 exl-id: 21c529d1-55b0-4529-ac0a-4dfb9d149686
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '187'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 編輯您的電子郵件標題 {#edit-your-email-header}
+# 編輯您的電子郵件標頭 {#edit-your-email-header}
 
 Marketo中的電子郵件標題是完全可自訂的。 它包含四個欄位：
 

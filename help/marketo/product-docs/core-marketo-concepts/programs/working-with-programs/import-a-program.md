@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147108
 description: 匯入計畫 — Marketo檔案 — 產品檔案
-title: 匯入計畫
+title: 匯入方案
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
 feature: Programs
-source-git-commit: 0adb780ea1622d12b8daafc502fd6a9151757ad3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '551'
-ht-degree: 0%
+source-wordcount: '536'
+ht-degree: 2%
 
 ---
 
-# 匯入計畫 {#import-a-program}
+# 匯入方案 {#import-a-program}
 
-計畫可以從一個Marketo Engage訂閱匯入到另一個訂閱。 例如，您可以在沙箱中建立計畫，然後將其匯入您的即時訂閱中。 您也可以從[Marketo程式庫](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"}匯入預先建立的程式。
+程式可從一個Marketo Engage訂閱匯入到另一個訂閱。 例如，您可以在沙箱中建立計畫，然後將其匯入您的即時訂閱中。 您也可以從[Marketo程式庫](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"}匯入預先建立的程式。
 
 >[!CAUTION]
 >
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 ## 匯入方案 {#importing-a-program}
 
-1. 移至&#x200B;**[!UICONTROL 行銷活動]**。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/import-a-program-1.png)
 
-1. 按一下&#x200B;**[!UICONTROL 新增]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL 匯入程式]**。
+1. 按一下「**[!UICONTROL New]**」下拉式選單，選取「**[!UICONTROL Import Program]**」。
 
    ![](assets/import-a-program-2.png)
 
@@ -35,19 +35,19 @@ ht-degree: 0%
    >
    >* 若要將沙箱帳戶連線至您的即時訂閱，請連絡[Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}。
 
-1. 選取Marketo **[!UICONTROL 訂閱]**&#x200B;以及要匯入的方案。 按一下&#x200B;**[!UICONTROL 下一步]**。
+1. 選取Marketo **[!UICONTROL Subscription]**&#x200B;和要匯入的方案。 按一下「**[!UICONTROL Next]**」。
 
    ![](assets/import-a-program-3.png)
 
-1. 為匯入的方案指定&#x200B;**[!UICONTROL 行銷活動資料夾]**。 按一下&#x200B;**[!UICONTROL 下一步]**。
+1. 指定匯入程式的&#x200B;**[!UICONTROL Campaign Folder]**。 按一下「**[!UICONTROL Next]**」。
 
    ![](assets/import-a-program-4.png)
 
    >[!NOTE]
    >
-   >確定已選取&#x200B;**[!UICONTROL 使用預設衝突]**&#x200B;規則。 當您將方案匯入具有相同名稱資產的執行個體時，需要使用衝突規則。
+   >確定已選取&#x200B;**[!UICONTROL Use default conflict]**&#x200B;個規則。 當您將方案匯入具有相同名稱資產的執行個體時，需要使用衝突規則。
 
-1. 選擇您想要的衝突詳細資料，然後按一下[下一步] **&#x200B;**。
+1. 選擇您想要的衝突詳細資料，然後按一下&#x200B;**[!UICONTROL Next]**。
 
    ![](assets/import-a-program-5.png)
 
@@ -55,7 +55,7 @@ ht-degree: 0%
    >
    >將使用「自訂流程步驟」或「智慧列示」規則（衍生自「流程步驟服務」）的程式匯入目的地執行處理（其中有一個以上的相容服務提供者），將會提示匯入使用者將步驟或規則指派給目的地執行處理中的正確服務提供者。
 
-1. 預覽詳細資料，並&#x200B;**[!UICONTROL 匯入]**&#x200B;程式。
+1. 預覽詳細資料，並&#x200B;**[!UICONTROL Import]**&#x200B;程式。
 
    ![](assets/import-a-program-6.png)
 

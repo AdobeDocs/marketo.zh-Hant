@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37355602
 description: 在Marketo線上安裝及設定Microsoft Dynamics銷售Insight - Marketo檔案 — 產品檔案
-title: 在Microsoft Dynamics Online中安裝並設定Marketo Sales Insight
+title: 在 Microsoft Dynamics 線上版中安裝及設定 Marketo 銷售洞察
 exl-id: 3b58b109-96f9-427e-be5c-a8db270ffe69
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '405'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 

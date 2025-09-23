@@ -1,16 +1,16 @@
 ---
 description: 代理程式設定 — Marketo檔案 — 產品檔案
-title: 專員設定
+title: 代理人設定
 feature: Dynamic Chat
 exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '605'
 ht-degree: 1%
 
 ---
 
-# 專員設定 {#agent-settings}
+# 代理人設定 {#agent-settings}
 
 設定行事曆並設定會議/即時聊天可用性。
 

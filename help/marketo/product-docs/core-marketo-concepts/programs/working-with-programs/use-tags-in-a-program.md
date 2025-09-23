@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147150
 description: 在程式中使用標籤 — Marketo檔案 — 產品檔案
-title: 在程式中使用標籤
+title: 在方案中使用標記
 exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 3%
+ht-degree: 10%
 
 ---
 
-# 在程式中使用標籤 {#use-tags-in-a-program}
+# 在方案中使用標記 {#use-tags-in-a-program}
 
 標籤是描述程式的屬性，用於在報告中將程式型別分組。
 
@@ -43,7 +43,7 @@ ht-degree: 3%
 
 ## 編輯標籤 {#edit-a-tag}
 
-1. 前往&#x200B;**[!UICONTROL Setup]**&#x200B;標籤。 以滑鼠右鍵按一下標籤。 選擇「**[!UICONTROL Edit]**」。
+1. 前往&#x200B;**[!UICONTROL Setup]**&#x200B;標籤。 以滑鼠右鍵按一下標籤。 選取「**[!UICONTROL Edit]**」。
 
    ![](assets/use-tags-in-a-program-6.png)
 

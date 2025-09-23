@@ -1,18 +1,18 @@
 ---
 description: 將來電原因和來電結果記錄到Salesforce - Marketo檔案 — 產品檔案
-title: 將通話原因和通話結果記錄到Salesforce
+title: 將通話原因和通話結果記錄至 Salesforce
 exl-id: cfe71388-282b-45e5-a817-45a951f613bc
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '461'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 將通話原因和通話結果記錄到Salesforce {#log-call-reasons-and-call-outcomes-to-salesforce}
+# 將通話原因和通話結果記錄至 Salesforce {#log-call-reasons-and-call-outcomes-to-salesforce}
 
-如果您想要將來電結果記錄並向Salesforce呼叫原因以用於報表或可見度，您可以為每個建立自訂活動欄位。 每個欄位都必須使用特定的API名稱（在Salesforce中稱為「欄位名稱」）。
+如果您想要將通話結果及來電理由記錄到Salesforce以供報告或顯示之用，您可以為每個建立自訂活動欄位。 每個欄位都必須使用特定的API名稱(在Salesforce中稱為「欄位名稱」)。
 
 * 通話結果欄位名稱：mktosales_call_output
 * 來電原因欄位名稱： mktosales_call_reason
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-3.png)
 
-1. 按一下&#x200B;**新增**。
+1. 按一下&#x200B;**「新增」**。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-4.png)
 
@@ -57,9 +57,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >請確定您的Sales Insight Actions使用者所使用的描述檔可看見自訂欄位，以及您想要的其他顯示專案。
+   >請確定您的Sales Insight Actions使用者所使用的設定檔可看見自訂欄位，以及您想要的其他顯示位置。
 
-1. 選取您要新增欄位的頁面配置，然後按一下[儲存] **&#x200B;**&#x200B;（您可以選擇按一下[儲存與新增] **&#x200B;**，然後對[來電原因]欄位重複此程式）。
+1. 選取您要新增欄位的頁面配置，然後按一下[儲存] **** （您可以選擇按一下[儲存與新增] ****，然後對[來電原因]欄位重複此程式）。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-9.png)
 
@@ -89,7 +89,7 @@ ht-degree: 0%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-14.png)
 
-1. 按一下&#x200B;**保存**。
+1. 按一下&#x200B;**儲存**。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-15.png)
 
@@ -117,11 +117,11 @@ ht-degree: 0%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-20.png)
 
-1. 按一下&#x200B;**新增**。
+1. 按一下&#x200B;**「新增」**。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-21.png)
 
-### 在Salesforce Lightning中將自訂活動欄位新增到任務頁面配置 {#add-custom-activity-field-to-task-page-layout-in-salesforce-lightning}
+### 在Salesforce Lightning中新增自訂活動欄位至任務頁面配置 {#add-custom-activity-field-to-task-page-layout-in-salesforce-lightning}
 
 1. 在Salesforce中，按一下右上方的齒輪圖示，並選取&#x200B;**設定**。
 
@@ -151,7 +151,7 @@ ht-degree: 0%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-28.png)
 
-1. 按一下&#x200B;**保存**。
+1. 按一下&#x200B;**儲存**。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-29.png)
 

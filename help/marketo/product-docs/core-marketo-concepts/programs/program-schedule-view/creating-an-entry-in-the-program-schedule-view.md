@@ -1,27 +1,27 @@
 ---
 unique-page-id: 1147102
 description: 在方案排程檢視中建立專案 — Marketo檔案 — 產品檔案
-title: 在方案排程檢視中建立專案
+title: 在方案排程視圖中建立條目
 exl-id: 7d15d110-17f4-4434-bf1c-0343c3a7f176
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 0%
+source-wordcount: '167'
+ht-degree: 10%
 
 ---
 
-# 在方案排程檢視中建立專案 {#creating-an-entry-in-the-program-schedule-view}
+# 在方案排程視圖中建立條目 {#creating-an-entry-in-the-program-schedule-view}
 
 您可以從方案排程檢視中建立專案，以補充現有方案。
 
 ## 建立基本專案 {#create-a-basic-entry}
 
-1. 移至&#x200B;**[!UICONTROL 行銷活動]**。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-1.png)
 
-1. 選取您的程式。 按一下&#x200B;**[!UICONTROL 檢視]**&#x200B;下拉式清單。 選取&#x200B;**[!UICONTROL 排程]**。
+1. 選取您的程式。 按一下&#x200B;**[!UICONTROL View]**&#x200B;下拉式清單。 選取「**[!UICONTROL Schedule]**」。
 
    ![](assets/image2014-9-16-9-3a22-3a7.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-9-3a25-3a23.png)
 
-1. 輸入您的描述，然後按一下&#x200B;**[!UICONTROL 儲存]**。
+1. 輸入您的描述，然後按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/image2014-9-16-9-3a25-3a39.png)
 
@@ -51,11 +51,11 @@ ht-degree: 0%
 
 ## 變更專案型別 {#change-entry-type}
 
-1. 從&#x200B;**[!UICONTROL 議程]**&#x200B;檢視中選取基本專案。
+1. 從&#x200B;**[!UICONTROL Agenda]**&#x200B;檢視中選取基本專案。
 
    ![](assets/image2014-9-16-9-3a26-3a5.png)
 
-1. 選取&#x200B;**[!UICONTROL 型別]**&#x200B;下拉式清單。 選擇新的專案型別。
+1. 選取&#x200B;**[!UICONTROL Type]**&#x200B;下拉式清單。 選擇新的專案型別。
 
    >[!NOTE]
    >

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147116
 description: 管理我的Token - Marketo檔案 — 產品檔案
-title: 管理我的Token
+title: 管理我的權杖
 exl-id: a2e70c17-a8d4-4723-ac7c-da1979828dc9
 feature: Tokens
-source-git-commit: f21d9356f00f8ea50819b591d15ca06d61256d8b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '197'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
-# 管理我的Token {#managing-my-tokens}
+# 管理我的權杖 {#managing-my-tokens}
 
 使用代號可簡化您在Marketo Engage中的工作。 您可以在流程步驟、Webhook、電子郵件和登入頁面中使用[我的權杖](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"} （自訂權杖）。 以下說明如何製作範本。
 

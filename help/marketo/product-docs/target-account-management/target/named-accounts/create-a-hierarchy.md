@@ -4,10 +4,10 @@ description: 建立階層 — Marketo檔案 — 產品檔案
 title: 建立階層
 exl-id: ea56145b-f8c2-4b18-a50c-b547ac1102a1
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/create-a-hierarchy-2.png)
 
-1. 按一下&#x200B;**[!UICONTROL Named Account Actions]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Link to Named Account]**。
+1. 按一下「**[!UICONTROL Named Account Actions]**」下拉式選單，選取「**[!UICONTROL Link to Named Account]**」。
 
    ![](assets/create-a-hierarchy-3.png)
 

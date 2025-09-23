@@ -4,14 +4,14 @@ description: 步驟3之2 — 為Marketo設定Sync使用者（2013內部部署）
 title: 步驟3之2 — 為Marketo設定Sync使用者（2013內部部署）
 exl-id: 27c4407e-0623-4ae0-8aa1-0b28c6c5c4f8
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '328'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 步驟3之2：設定Marketo的同步使用者（2013內部部署） {#step-of-configure-sync-user-for-marketo-on-premises}
+# 第 2 步 (共 3 步)：設定 Marketo 同步使用者 (2013 內部部署) {#step-of-configure-sync-user-for-marketo-on-premises}
 
 完成先前步驟的偉大工作，讓我們繼續探討這個問題。
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2014-12-11-11-3a13-3a19.png)
 
-1. 選擇「**[!UICONTROL Users]**」。
+1. 選取「**[!UICONTROL Users]**」。
 
    ![](assets/image2014-12-11-11-3a13-3a29.png)
 

@@ -1,16 +1,16 @@
 ---
 description: 銷售Insight動作使用者入門指南 — Marketo檔案 — 產品檔案
-title: Sales Insight Actions使用者入門指南
+title: 銷售洞察動作使用者上線指南
 exl-id: ace517b6-3a06-4e2e-b545-8c95ad0cf457
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '299'
-ht-degree: 2%
+ht-degree: 6%
 
 ---
 
-# Sales Insight Actions使用者入門指南 {#sales-insight-actions-user-onboarding-guide}
+# 銷售洞察動作使用者上線指南 {#sales-insight-actions-user-onboarding-guide}
 
 >[!NOTE]
 >

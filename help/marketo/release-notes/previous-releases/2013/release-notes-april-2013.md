@@ -4,14 +4,14 @@ description: 發行說明 — 2013年4月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2013年4月
 exl-id: 5b202877-b501-4cd2-9fe2-e8663dd5792f
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '201'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 發行說明： 2013年4月 {#release-notes-april}
+# 發行說明：2013 年 4 月 {#release-notes-april}
 
 4月發行版本包含下列功能。
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## [!DNL Gmail]外掛程式 {#gmail-plugin}
 
-如果您使用Marketo [!DNL Sales Insight]以及[!DNL Gmail]，可以透過[!DNL Chrome]商店安裝我們的新[!DNL Gmail]外掛程式。 外掛程式可讓您使用Marketo記錄訊息、載入Marketo電子郵件範本，以及使用Marketo追蹤功能傳送訊息。
+如果您使用Marketo [!DNL Sales Insight]以及[!DNL Gmail]，可以透過[!DNL Gmail]商店安裝我們的新[!DNL Chrome]外掛程式。 外掛程式可讓您使用Marketo記錄訊息、載入Marketo電子郵件範本，以及使用Marketo追蹤功能傳送訊息。
 
 ![](assets/image2014-9-22-15-3a48-3a57.png)
 

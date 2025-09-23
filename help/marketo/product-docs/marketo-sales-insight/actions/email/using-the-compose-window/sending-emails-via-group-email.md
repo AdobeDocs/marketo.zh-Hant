@@ -3,10 +3,10 @@ description: 透過群組電子郵件傳送電子郵件 — Marketo檔案 — �
 title: 透過群組電子郵件傳送電子郵件
 exl-id: 0099c0ee-dff2-4d7d-91cd-7d619405bac5
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 

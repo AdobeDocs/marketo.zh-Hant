@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2951220
 description: 使用Mobile Platform欄建立人員績效報表 — Marketo檔案 — 產品檔案
-title: 使用行動平台欄建立人員績效報表
+title: 使用行動平台欄建置人員績效報告
 exl-id: 93fb6cb4-a6ca-4b35-b8bf-c6657eb9343b
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '255'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# 使用行動平台欄建立人員績效報表 {#build-a-people-performance-report-with-mobile-platform-columns}
+# 使用行動平台欄建置人員績效報告 {#build-a-people-performance-report-with-mobile-platform-columns}
 
 請依照下列步驟，使用Mobile Platform (iOS/Android)欄建立人員績效報表。
 

@@ -1,16 +1,16 @@
 ---
 description: 建立及指派提醒工作 — Marketo檔案 — 產品檔案
-title: 建立及指派提醒工作
+title: 建立並指派提醒工作
 exl-id: bc486795-7ce2-4336-834d-ecfd5efc348e
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '134'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# 建立及指派提醒工作 {#create-and-assign-reminder-tasks}
+# 建立並指派提醒工作 {#create-and-assign-reminder-tasks}
 
 提醒工作是瞭解客戶和潛在客戶參與情況的絕佳方式。 若要建立任務，請依照下列步驟進行。
 

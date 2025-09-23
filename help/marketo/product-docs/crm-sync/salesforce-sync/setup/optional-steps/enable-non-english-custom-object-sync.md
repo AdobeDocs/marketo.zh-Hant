@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719302
 description: 啟用非英文的自訂物件同步 — Marketo檔案 — 產品檔案
-title: 啟用非英文自訂物件同步
+title: 啟用非英語自訂物件同步
 exl-id: 5d1c5b52-5323-4f68-847b-7d24e6acd6c4
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '138'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# 啟用非英文自訂物件同步 {#enable-non-english-custom-object-sync}
+# 啟用非英語自訂物件同步 {#enable-non-english-custom-object-sync}
 
 如果您的Marketo同步使用者設為英文以外的語言，當您嘗試啟用自訂物件同步時，可能會發生錯誤。
 

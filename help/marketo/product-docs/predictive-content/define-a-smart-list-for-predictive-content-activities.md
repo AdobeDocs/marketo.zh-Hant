@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10097873
 description: 定義預測性內容活動的智慧清單 — Marketo檔案 — 產品檔案
-title: 定義預測性內容活動的智慧清單
+title: 針對預測內容活動定義智慧清單
 exl-id: 2c72b215-8c0b-48b4-8492-8e3fe832fae9
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '289'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 定義預測性內容活動的智慧清單 {#define-a-smart-list-for-predictive-content-activities}
+# 針對預測內容活動定義智慧清單 {#define-a-smart-list-for-predictive-content-activities}
 
 當您在智慧行銷活動中定義智慧清單時，可以在觸發器和篩選器中使用預測性內容活動。 任何透過[Rich Media範本](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)、[內容建議列](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)或[電子郵件](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md)按一下預測性內容的人，都可以觸發動作。
 

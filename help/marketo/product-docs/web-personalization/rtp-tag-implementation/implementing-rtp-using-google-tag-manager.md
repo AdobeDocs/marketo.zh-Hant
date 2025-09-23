@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720145
 description: 使用Google Tag Manager實作RTP - Marketo檔案 — 產品檔案
-title: 使用Google Tag Manager實作RTP
+title: 使用 Google Tag Manager 實施 RTP
 exl-id: f7f06779-8abe-4c8c-9197-9d0c6bcfed49
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 1. 複製RTP JavaScript標籤，並將其貼到您建立的新&#x200B;**自訂HTML標籤** （步驟1）。
 
-1. 按一下&#x200B;**[!UICONTROL Add Rule to Fire Tag]**。 選擇「**[!UICONTROL All Pages]**」。
+1. 按一下&#x200B;**[!UICONTROL Add Rule to Fire Tag]**。 選取「**[!UICONTROL All Pages]**」。
 
 1. 按一下&#x200B;**[!UICONTROL Save]**&#x200B;並[發佈新版本](https://support.google.com/tagmanager/answer/2699097?hl=en)。
 

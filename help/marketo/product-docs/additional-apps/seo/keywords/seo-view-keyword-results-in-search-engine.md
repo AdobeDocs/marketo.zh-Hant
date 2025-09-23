@@ -4,22 +4,22 @@ description: SEO — 在搜尋引擎中檢視關鍵字結果 — Marketo檔案 �
 title: SEO — 在搜尋引擎中檢視關鍵字結果
 exl-id: c687ed30-f368-4d9d-8919-e5cafefbe66a
 feature: SEO
-source-git-commit: 51a4374cb2ce1995ec8f33eddd4b3470e7ad409e
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 0%
+source-wordcount: '80'
+ht-degree: 11%
 
 ---
 
-# SEO — 在搜尋引擎中檢視關鍵字結果 {#seo-view-keyword-results-in-search-engine}
+# SEO - 在搜尋引擎中檢視關鍵字結果 {#seo-view-keyword-results-in-search-engine}
 
 如果您想要檢視內容在搜尋引擎中的顯示情形，我們新增了實用的一小段捷徑。
 
-1. 移至&#x200B;**[!UICONTROL 關鍵字]**&#x200B;區段。
+1. 移至&#x200B;**[!UICONTROL Keywords]**&#x200B;區段。
 
    ![](assets/image2014-9-18-13-3a33-3a58.png)
 
-1. 暫留在關鍵字上。 按一下&#x200B;**[!UICONTROL 檢視結果]**。
+1. 暫留在關鍵字上。 按一下「**[!UICONTROL View Results]**」。
 
    ![](assets/image2014-9-18-13-3a34-3a2.png)
 

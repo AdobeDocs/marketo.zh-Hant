@@ -2,20 +2,20 @@
 description: 發行說明 — 2022年8月 — Marketo檔案 — 產品檔案
 title: 版本注意事項 - 2022 年 8 月
 exl-id: 7a224fa7-0aec-4d0d-9535-c35241a45654
-source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '506'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# 發行說明： 2022年8月 {#release-notes-aug-22}
+# 發行說明：2022 年 8 月 {#release-notes-aug-22}
 
-下方提供2022年8月發行版本包含的所有功能。 檢查您的Adobe Marketo Engage版本是否有功能可用。
+下方提供2022年8月發行版本包含的所有功能。 請查看您的 Adobe Marketo Engage 版本是否提供這些功能。
 
 >[!AVAILABILITY]
 >
->以星號（![星號](assets/yellow-star.png)）表示的功能是付費附加元件。 請聯絡您的Marketo Engage代表以瞭解更多資訊。
+>標有星號 (![星號](assets/yellow-star.png)) 的功能為付費附加元件。請聯絡您的 Marketo Engage 代表，了解更多相關資訊。
 
 下列功能於&#x200B;**2022年8月26日**&#x200B;開始分階段推出。
 
@@ -50,7 +50,7 @@ ht-degree: 0%
 
 * **Webhook自訂標題可見性**： Webhook自訂標題現在顯示在[!UICONTROL Admin] > [!UICONTROL Webhooks]索引標籤中，以便更佳的可見性。
 
-* **CAPTCHA**：使用reCAPTCHA v3[&#128279;](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target="_blank"}評估表單提交的有效性以評分傳入的表單流量。 建立行銷工作流程，以自動排除、隔離或刪除可疑的機器人流量。
+* **CAPTCHA**：使用reCAPTCHA v3[評估表單提交的有效性](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target="_blank"}以評分傳入的表單流量。 建立行銷工作流程，以自動排除、隔離或刪除可疑的機器人流量。
 
 * **核准表單的許可權**：新許可權，可控制哪些設計人員可核准與其他[!UICONTROL Design Studio]資產一致的表單變更。 這可以防止其他設計人員在沒有其他具有核准許可權的人員審閱表單的情況下，將變更推送至表單。
 
@@ -68,7 +68,7 @@ ht-degree: 0%
 
 ![（星形）](assets/yellow-star.png)
 
-* **[[!DNL Sales Insight] 與 [!DNL Dynamic Chat]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target="_blank"}**&#x200B;整合：檢視[!DNL Sales Insight]面板中[!DNL Dynamic Chat]的活動，並將這個新的資料點用於您的潛在客戶工作。
+* **[[!DNL Sales Insight] 與 [!DNL Dynamic Chat]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target="_blank"}**&#x200B;整合：檢視[!DNL Dynamic Chat]面板中[!DNL Sales Insight]的活動，並將這個新的資料點用於您的潛在客戶工作。
 
 ## 公告 {#announcements}
 

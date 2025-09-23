@@ -1,17 +1,17 @@
 ---
 unique-page-id: 6095047
 description: 編輯「不要追蹤」瀏覽器支援設定 — Marketo檔案 — 產品檔案
-title: 編輯「不要追蹤」瀏覽器支援設定
+title: 編輯「不追蹤」瀏覽器支援設定
 exl-id: 22248911-21e9-4e13-9132-22415aa114fc
 feature: Administration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
 workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 1%
+ht-degree: 15%
 
 ---
 
-# 編輯「不要追蹤」瀏覽器支援設定 {#edit-do-not-track-browser-support-settings}
+# 編輯「不追蹤」瀏覽器支援設定 {#edit-do-not-track-browser-support-settings}
 
 「Do Not Track」為瀏覽器要求，不應在Marketo等系統中追蹤。 您可以透過下列步驟處理該要求。
 
@@ -35,7 +35,7 @@ ht-degree: 1%
 
    ![](assets/edit-do-not-track-browser-support-settings-3.png)
 
-1. 選取&#x200B;**[!UICONTROL Support]**&#x200B;並按一下&#x200B;**[!UICONTROL Save]**。
+1. 選取「**[!UICONTROL Support]**」然後按一下「**[!UICONTROL Save]**」。
 
    ![](assets/edit-do-not-track-browser-support-settings-4.png)
 

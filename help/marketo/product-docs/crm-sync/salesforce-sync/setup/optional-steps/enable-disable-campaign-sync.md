@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719289
 description: 啟用/停用Campaign同步 — Marketo檔案 — 產品檔案
-title: 啟用/停用Campaign同步
+title: 啟用/停用行銷活動同步
 exl-id: a8d53268-75b9-479d-8ffc-b3f19eb77483
 feature: Salesforce Integration
-source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 0%
+source-wordcount: '82'
+ht-degree: 10%
 
 ---
 
-# 啟用/停用Campaign同步 {#enable-disable-campaign-sync}
+# 啟用/停用行銷活動同步 {#enable-disable-campaign-sync}
 
 >[!NOTE]
 >
@@ -19,15 +19,15 @@ ht-degree: 0%
 
 此選項可讓Marketo Engage將其方案會員資格和狀態與Salesforce行銷活動同步，反之亦然。
 
-1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;並按一下&#x200B;**[!DNL Salesforce]**。
+1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;並按一下&#x200B;**[!DNL Salesforce]**。
 
    ![](assets/image2014-12-9-13-3a36-3a49.png)
 
-1. 按一下&#x200B;**[!UICONTROL 編輯同步處理設定]**。
+1. 按一下「**[!UICONTROL Edit Sync Settings]**」。
 
    ![](assets/image2014-12-9-13-3a37-3a0.png)
 
-1. 勾選&#x200B;**[!UICONTROL 啟用Salesforce Campaign同步處理]**，然後按一下&#x200B;**[!UICONTROL 儲存]**。
+1. 檢查&#x200B;**[!UICONTROL Enable Salesforce Campaign Sync]**&#x200B;並按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/image2014-12-9-13-3a37-3a8.png)
 

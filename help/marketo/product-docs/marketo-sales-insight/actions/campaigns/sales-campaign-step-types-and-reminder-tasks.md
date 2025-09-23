@@ -1,16 +1,16 @@
 ---
 description: 促銷活動步驟型別和提醒工作 — Marketo檔案 — 產品檔案
-title: 銷售行銷活動步驟型別和提醒工作
+title: 銷售行銷活動步驟類型與提醒工作
 exl-id: 41b19452-ba1a-4ca7-bf22-29314072a346
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '312'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 銷售行銷活動步驟型別和提醒工作 {#sales-campaign-step-types-and-reminder-tasks}
+# 銷售行銷活動步驟類型與提醒工作 {#sales-campaign-step-types-and-reminder-tasks}
 
 ## 促銷活動步驟型別 {#sales-campaign-step-types}
 

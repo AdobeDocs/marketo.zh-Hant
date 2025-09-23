@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4720236
 description: 使用帳戶清單建立區段 — Marketo檔案 — 產品檔案
-title: 使用科目清單建立節段
+title: 使用帳戶清單建立區段
 exl-id: 73179ed9-2f9b-46df-abfa-6e8ebb645cc5
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '148'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
 
-# 使用科目清單建立節段 {#create-a-segment-using-an-account-list}
+# 使用帳戶清單建立區段 {#create-a-segment-using-an-account-list}
 
 以下說明如何使用「科目清單」建立區段。
 

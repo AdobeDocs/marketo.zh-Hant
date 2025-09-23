@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718670
 description: 使用收入模型閘道階段 — Marketo檔案 — 產品檔案
-title: 使用收入模型閘道階段
+title: 使用收入模型門檻階段
 exl-id: a69a4efd-76de-4bfa-81f2-6e74048f30f7
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '246'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# 使用收入模型閘道階段 {#using-revenue-model-gate-stages}
+# 使用收入模型門檻階段 {#using-revenue-model-gate-stages}
 
 閘道階段可作為資格檢查。
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## 新增閘道階段 {#add-a-gate-stage}
 
-1. 移至&#x200B;**[!UICONTROL Analytics]**&#x200B;區域。
+1. 前往「**[!UICONTROL Analytics]**」區域。
 
    ![](assets/image2015-4-27-23-3a27-3a43.png)
 

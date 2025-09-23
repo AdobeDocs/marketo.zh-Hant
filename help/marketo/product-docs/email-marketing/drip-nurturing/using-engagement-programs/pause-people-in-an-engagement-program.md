@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359949
 description: 在參與方案中暫停人員 — Marketo檔案 — 產品檔案
-title: 暫停參與計畫中的人員
+title: 將參與方案的人員暫停
 exl-id: 3bf2db4f-6fa2-4ae8-a1e7-ce6c584f749d
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# 暫停參與計畫中的人員 {#pause-people-in-an-engagement-program}
+# 將參與方案的人員暫停 {#pause-people-in-an-engagement-program}
 
 當個人是參與方案的成員時，他們將會收到內容，直到他們[用完所有內容](people-who-have-exhausted-content.md)為止。 您可以使用[[!UICONTROL Change Engagement Program Cadence]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md)流程步驟來阻止人員接收內容，即使他們尚未用完內容。
 

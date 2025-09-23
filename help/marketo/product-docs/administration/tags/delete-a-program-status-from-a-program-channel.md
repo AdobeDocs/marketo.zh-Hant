@@ -1,33 +1,33 @@
 ---
 unique-page-id: 2360278
 description: 從方案頻道刪除方案狀態 — Marketo檔案 — 產品檔案
-title: 從方案頻道刪除方案狀態
+title: 從方案管道中刪除方案狀態
 exl-id: 01bda910-cd6d-49df-a300-8163701482cd
 feature: Tags
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 0%
+source-wordcount: '116'
+ht-degree: 18%
 
 ---
 
-# 從方案頻道刪除方案狀態 {#delete-a-program-status-from-a-program-channel}
+# 從方案管道中刪除方案狀態 {#delete-a-program-status-from-a-program-channel}
 
 程式狀態是指通過程式路徑（管道）的查核點。 如果您誤判或不再需要某個狀態，請隨時刪除它。
 
-1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/delete-a-program-status-from-a-program-channel-1.png)
 
-1. 按一下&#x200B;**[!UICONTROL 標籤]**。
+1. 按一下「**[!UICONTROL Tags]**」。
 
    ![](assets/delete-a-program-status-from-a-program-channel-2.png)
 
-1. 選取您要移除其狀態的頻道，然後在&#x200B;**[!UICONTROL 標籤動作]**&#x200B;下按一下&#x200B;**[!UICONTROL 編輯]**。
+1. 選取您要移除其狀態的頻道，然後在&#x200B;**[!UICONTROL Tag Actions]**&#x200B;下按一下&#x200B;**[!UICONTROL Edit]**。
 
    ![](assets/delete-a-program-status-from-a-program-channel-3.png)
 
-1. 按一下紅色的&#x200B;**X**&#x200B;以移除狀態，然後按一下&#x200B;**[!UICONTROL 儲存]**。
+1. 按一下紅色&#x200B;**X**&#x200B;以移除狀態，然後按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/delete-a-program-status-from-a-program-channel-4.png)
 

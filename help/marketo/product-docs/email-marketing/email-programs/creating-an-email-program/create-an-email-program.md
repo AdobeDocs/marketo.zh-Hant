@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900591
 description: 建立電子郵件程式 — Marketo檔案 — 產品檔案
-title: 建立電子郵件程式
+title: 建立電子郵件方案
 exl-id: b2efaddb-cc7a-4ae3-8c1c-b70d189dd290
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '117'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# 建立電子郵件程式 {#create-an-email-program}
+# 建立電子郵件方案 {#create-an-email-program}
 
 使用電子郵件程式，快速輕鬆地傳送電子郵件給群組。
 

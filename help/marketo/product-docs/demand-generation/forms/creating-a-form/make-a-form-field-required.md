@@ -4,7 +4,7 @@ description: 將表單欄位設為必填 — Marketo檔案 — 產品檔案
 title: 使表單欄位成為必填欄位
 exl-id: f07c4dd8-457a-442b-9ef8-89b51647829b
 feature: Forms
-source-git-commit: 2c753680f5c0087bf47d53e44106a4f20fdcefc9
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 14%

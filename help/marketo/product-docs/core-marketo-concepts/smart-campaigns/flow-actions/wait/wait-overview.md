@@ -4,14 +4,14 @@ description: 等待 — Marketo檔案 — 產品檔案
 title: 等待
 exl-id: 58f43c4b-6f20-4740-9a25-e09c7ea31dcf
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '188'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
-# 等待總覽 {#wait-overview}
+# 等待概觀 {#wait-overview}
 
 使用方便的&#x200B;**等待步驟**，在Smart Campaign流程中暫停人員。
 

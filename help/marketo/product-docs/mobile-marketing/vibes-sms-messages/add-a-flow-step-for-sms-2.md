@@ -4,7 +4,7 @@ title: 新增簡訊的流程步驟
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: fee2d692acd8d54f2e308e2d5edc9876d13d5a4d
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 0%
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 新增簡訊的流程步驟 {#add-a-flow-step-for-sms}
 
-Marketo Engage有三個流程步驟可用於SMS智慧行銷活動：
+Marketo Engage有三個流程步驟可用於簡訊智慧行銷活動：
 
 <table>
 <tbody>
   <tr>
     <td style="width:25%">傳送簡訊訊息</td>
-    <td>此流程動作會從Marketo智慧清單傳送訊息給訂閱使用者選擇加入的Vibes訂閱清單的使用者。 它不會起始訂閱程式。 <a href="/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-a-vibes-sms-message.md">深入瞭解</a>。</td>
+    <td>此流程動作會從Marketo智慧清單傳送訊息給訂閱使用者選擇加入的Vibes訂閱清單的使用者。 它不會起始訂閱程式。 <a href="/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-a-vibes-sms-message.md">了解更多</a>。</td>
   </tr>
 
 <tr>

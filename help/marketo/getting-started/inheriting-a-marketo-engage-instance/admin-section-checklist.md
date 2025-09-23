@@ -3,14 +3,14 @@ description: 繼承執行個體管理員檢查清單 — Marketo檔案 — 產�
 title: 繼承執行個體管理員檢查清單
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1858'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# 繼承執行個體：管理員區段檢查清單 {#inherited-instance-admin-section-checklist}
+# 繼承的執行個體：管理員區段檢查清單 {#inherited-instance-admin-section-checklist}
 
 Adobe Professional Services已將以下核對清單（連結至每篇文章底部的後續核對清單）與Marketo Champions的輸入彙整在一起，協助您快速上手。 您也可以[下載檢查清單](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx)並追蹤進度。
 
@@ -33,7 +33,7 @@ Adobe Professional Services已將以下核對清單（連結至每篇文章底�
   <tr>
    <td>訂閱與Marketo Engage產品管理員</td>
    <td><li>您的Marketo Engage訂閱是否已移轉至<a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe IMS</a>？
-<br/>     若是如此，您的「Adobe Admin Console系統管理員」是否已授予您「Adobe Admin Console產品管理員」角色？ 如果您不確定組織中的哪些人擁有主控台中的管理員許可權，請聯絡<a href="https://helpx.adobe.com/tw/contact.html" target="_blank">Adobe客戶服務</a>。</li>
+<br/>     若是如此，您的「Adobe Admin Console系統管理員」是否已授予您「Adobe Admin Console產品管理員」角色？ 如果您不確定組織中的哪些人擁有主控台中的管理員許可權，請聯絡<a href="https://helpx.adobe.com/contact.html" target="_blank">Adobe客戶服務</a>。</li>
 <li>您是否接受「Marketo Engage產品管理員」邀請？ 在Adobe Admin Console中指派角色時，會傳送電子郵件。
 <br/>     如果沒有，請在收件匣中尋找<a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#initial-setup" target="_blank">歡迎電子郵件</a>，並接受邀請以啟用您的Adobe ID。</li></td>
   </tr>
@@ -138,7 +138,7 @@ Adobe Professional Services已將以下核對清單（連結至每篇文章底�
  </tbody>
 </table>
 
-## Smart Campaign {#smart-campaigns}
+## 智慧行銷活動 {#smart-campaigns}
 
 <table style="table-layout:auto">
  <tbody>
@@ -147,7 +147,7 @@ Adobe Professional Services已將以下核對清單（連結至每篇文章底�
    <th>評論焦點</th>
   </tr>
   <tr>
-   <td>Smart Campaign</td>
+   <td>智慧行銷活動</td>
    <td><li><a href="/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md" target="_blank">您對Smart Campaign的大小是否有限制</a>？
    <br/>     如果沒有，請考慮新增一個。 我們建議將Smart Campaign限制限製為資料庫的25%，以避免在工作流程中過度通訊或處理整個資料庫；這不僅可保護您的品牌，還有助於保護執行個體的效能。</li></td>
   </tr>
@@ -293,7 +293,7 @@ Adobe Professional Services已將以下核對清單（連結至每篇文章底�
   </tr>
   <tr>
    <td>Adobe Dynamic Chat （如果適用）</td>
-<td>若要遵循下列步驟，必須存取<a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a>。 如果您尚未設定Adobe ID，請<a href="https://helpx.adobe.com/tw/manage-account/using/create-update-adobe-id.html" target="_blank">在這裡瞭解如何設定</a>。
+<td>若要遵循下列步驟，必須存取<a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a>。 如果您尚未設定Adobe ID，請<a href="https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html" target="_blank">在這裡瞭解如何設定</a>。
 <br/>
 <li>您是否接受<a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">Dynamic Chat產品管理員</a>邀請？ 電子郵件會在您的Marketo Engage執行個體中啟用Dynamic Chat時傳送，而且您會指定為系統管理員。
 <br/>     如果沒有，請在收件匣中尋找歡迎電子郵件，並接受邀請以設定您的Adobe ID。</li>
@@ -351,7 +351,7 @@ Adobe Professional Services已將以下核對清單（連結至每篇文章底�
 <li>是否有應開啟或關閉的功能？</li></td>
   </tr>
   <tr>
-   <td>行銷活動檢視窗</td>
+   <td>行銷活動檢查器</td>
    <td><li><a href="/help/marketo/product-docs/administration/settings/campaign-inspector.md" target="_blank">行銷活動檢視窗</a>是否已開啟？
 <br/>如果沒有，請考慮開啟以輕鬆識別哪些促銷活動：作用中、與您的CRM同步，以及/或刪除記錄。</li></td>
   </tr>

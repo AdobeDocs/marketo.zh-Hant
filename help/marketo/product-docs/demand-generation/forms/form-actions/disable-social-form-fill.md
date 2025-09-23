@@ -4,10 +4,10 @@ description: 停用社交表單填寫 — Marketo檔案 — 產品檔案
 title: 停用社交表單填寫
 exl-id: 69b66a7e-c6c9-4e29-a5b3-688da9cae505
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '71'
-ht-degree: 2%
+ht-degree: 14%
 
 ---
 

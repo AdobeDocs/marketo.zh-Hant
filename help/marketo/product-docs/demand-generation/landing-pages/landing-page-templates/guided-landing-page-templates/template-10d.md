@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8784008
 description: 範本10D - Marketo檔案 — 產品檔案
-title: 範本10D
+title: 範本 10D
 exl-id: cd6a2879-032b-4722-ab6a-561bbccdff31
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '51'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# 範本10D {#template-10d}
+# 範本 10D {#template-10d}
 
-按一下滑鼠右鍵以[下載範本10D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10d.html?lang=zh-Hant)
+按一下滑鼠右鍵以[下載範本10D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10d.html)
 
 ![](assets/image2015-7-27-11-3a3-3a12.png)
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 **在下方按一下滑鼠右鍵以下載此範本：**
 
-[範本10D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10d.html?lang=zh-Hant)
+[範本10D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10d.html)

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352536
 description: 檢視追蹤的運作方式 — Marketo檔案 — 產品檔案
-title: 檢視追蹤的運作方式
+title: 視圖追蹤的運作原理
 exl-id: 5eae19f7-c360-486a-9da5-38a3059ad7af
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '109'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# 檢視追蹤的運作方式 {#how-view-tracking-works}
+# 視圖追蹤的運作原理 {#how-view-tracking-works}
 
 我們會在您傳送的電子郵件內放置不可見的影像，以追蹤電子郵件開啟次數。
 

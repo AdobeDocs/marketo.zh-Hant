@@ -1,17 +1,17 @@
 ---
 unique-page-id: 13796464
 description: Sales Connect概述 — Marketo檔案 — 產品檔案
-title: Sales Connect概觀
+title: Sales Connect 概觀
 exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '234'
-ht-degree: 4%
+ht-degree: 9%
 
 ---
 
-# Sales Connect概觀 {#sales-connect-overview}
+# Sales Connect 概觀 {#sales-connect-overview}
 
 Marketo Sales Connect是多方面的銷售支援解決方案，具備多種功能，可協助您在整個銷售週期中提高參與度。
 
@@ -19,13 +19,13 @@ Marketo Sales Connect是多方面的銷售支援解決方案，具備多種功�
 >
 >並非每個人都購買過此功能。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
 
-## 即時摘要 {#the-live-feed}
+## 即時動態 {#the-live-feed}
 
 銷售代表可以檢視行銷和銷售內容的[即時參與](/help/marketo/product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md)。
 
 ![](assets/engagement.jpg)
 
-## 個人詳細資料檢視 {#person-detail-view}
+## 人員詳細資料視圖 {#person-detail-view}
 
 存取[詳細的人員統計資料](/help/marketo/product-docs/marketo-sales-connect/people/person-detail-view.md)。
 

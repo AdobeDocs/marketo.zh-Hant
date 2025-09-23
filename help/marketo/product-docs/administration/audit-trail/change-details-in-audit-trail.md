@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11379928
 description: 稽核軌跡 — Marketo檔案 — 產品檔案中的變更詳細資料
-title: 變更稽核軌跡的詳細資料
+title: 稽核軌跡中的變更詳細資料
 exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
 feature: Audit Trail
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1902'
-ht-degree: 11%
+ht-degree: 12%
 
 ---
 
-# 變更稽核軌跡的詳細資料 {#change-details-in-audit-trail}
+# 稽核軌跡中的變更詳細資料 {#change-details-in-audit-trail}
 
 稽核軌跡提供許多insight，讓您瞭解誰在您的Marketo訂閱中執行什麼操作。 詳情如下。
 

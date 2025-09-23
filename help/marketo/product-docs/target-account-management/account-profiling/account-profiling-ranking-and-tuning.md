@@ -1,17 +1,17 @@
 ---
 unique-page-id: 15695924
 description: 帳戶分析排名和調整 — Marketo檔案 — 產品檔案
-title: 帳戶設定檔排名與調整
+title: 帳戶剖析排名和調整
 exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
 feature: Target Account Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '380'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# 帳戶設定檔排名與調整 {#account-profiling-ranking-and-tuning}
+# 帳戶剖析排名和調整 {#account-profiling-ranking-and-tuning}
 
 帳戶設定檔會識別您的理想客戶設定檔(ICP)、根據ICP對資料庫中的公司進行排名，並將ICP指標資料新增至升級為[!UICONTROL Named Accounts]的帳戶。
 

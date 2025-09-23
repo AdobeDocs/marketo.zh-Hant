@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359474
 description: 編輯區段 — Marketo檔案 — 產品檔案
-title: 編輯分段
+title: 編輯細分
 exl-id: 8a217ce4-af14-4fc2-b5d7-7fc696b7665d
 feature: Segmentation
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '171'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 編輯分段 {#edit-a-segmentation}
+# 編輯細分 {#edit-a-segmentation}
 
 對現有區段進行變更很容易。 以下是最低限度。
 

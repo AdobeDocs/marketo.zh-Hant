@@ -3,7 +3,7 @@ description: 執行行銷活動 — Marketo檔案 — 產品檔案
 title: 執行行銷活動
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '692'
 ht-degree: 0%
@@ -52,7 +52,7 @@ ht-degree: 0%
 
 設為true時，系統會將下列權杖內容傳送至子行銷活動（正在執行的行銷活動）：
 
-* 我的代號
+* 我的權杖
 * 行銷活動Token
 * 計畫權杖
 * 成員Token
@@ -60,7 +60,7 @@ ht-degree: 0%
 
 **API互動**
 
-在API[中使用排程或請求促銷活動](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch)時，兩者都可以讓您傳遞「我的Token」的值，這會覆寫在您呼叫之促銷活動中為這些Token設定的值。 如果該行銷活動接著執行另一個行銷活動並設定「使用父項內容為True」，則它會使用透過API傳遞的值，而不是應用程式中設定的值。
+在API[中使用排程或請求促銷活動](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch)時，兩者都可以讓您傳遞「我的Token」的值，這會覆寫在您呼叫之促銷活動中為這些Token設定的值。 如果該行銷活動接著執行另一個行銷活動並設定「使用父項內容為True」，則它會使用透過API傳遞的值，而不是應用程式中設定的值。
 
 ## 注意事項 {#things-to-note}
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720917
 description: Facebook中的個人化再行銷 — Marketo檔案 — 產品檔案
-title: Facebook中的個人化再行銷
+title: Facebook 中的個人化再行銷
 exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
 feature: Web Personalization
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '254'
-ht-degree: 6%
+ht-degree: 7%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 6%
 >[!PREREQUISITES]
 >
 >* 完成使用Web Personalization資料重新鎖定目標的[設定](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
->* 檢閱關於自訂對象[和再行銷的](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)Facebook檔案。
+>* 檢閱關於自訂對象[和再行銷的](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)[ ](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)Facebook檔案。
 
 ## 在[!DNL Facebook]中建立對象 {#creating-an-audience-in-facebook}
 
@@ -32,7 +32,7 @@ ht-degree: 6%
 
 ![](assets/two-1.png)
 
-1. 選擇「**[!UICONTROL Website Traffic]**」。
+1. 選取「**[!UICONTROL Website Traffic]**」。
 
 ![](assets/image2015-1-19-16-3a32-3a2.png)
 
@@ -72,7 +72,7 @@ ht-degree: 6%
       <tbody>
        <tr>
         <th>參數</th>
-        <th>值</th>
+        <th>價值</th>
        </tr>
        <tr>
         <td>ABM清單</td>

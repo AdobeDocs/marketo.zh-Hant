@@ -4,10 +4,10 @@ description: 使用內建/系統智慧清單 — Marketo檔案 — 產品檔案
 title: 使用內建/系統智慧清單
 exl-id: f4db0e02-2250-4c56-ba74-f9fa8a5b9c11
 feature: Smart Lists
-source-git-commit: d087b22e84c23fea5e38fe7bf20349dc7eec09f7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 1%
+source-wordcount: '188'
+ht-degree: 7%
 
 ---
 
@@ -15,15 +15,15 @@ ht-degree: 1%
 
 Marketo Engage有一些非常實用的內建智慧清單。 讓我們看看他們！
 
-1. 移至&#x200B;**[!UICONTROL 資料庫]**。
+1. 移至&#x200B;**[!UICONTROL Database]**。
 
    ![](assets/use-built-in-system-smart-lists-1.png)
 
-1. 開啟&#x200B;**[!UICONTROL 系統智慧列示]**&#x200B;資料夾以顯示集合。
+1. 開啟&#x200B;**[!UICONTROL System Smart Lists]**&#x200B;資料夾以顯示集合。
 
    ![](assets/use-built-in-system-smart-lists-2.png)
 
-1. 若要檢視範例：選取&#x200B;**[!UICONTROL 所有人員]**，然後按一下&#x200B;**[!UICONTROL 人員]**&#x200B;索引標籤。
+1. 若要檢視範例：選取&#x200B;**[!UICONTROL All People]**，然後按一下&#x200B;**[!UICONTROL People]**&#x200B;索引標籤。
 
    ![](assets/use-built-in-system-smart-lists-3.png)
 
@@ -48,7 +48,7 @@ Marketo Engage有一些非常實用的內建智慧清單。 讓我們看看他�
     <td>這些人員只能收到操作電子郵件；這通常由人員自己控制。</td>
   </tr>
   <tr>
-    <td>行銷活動已暫停</td>
+    <td>行銷活動暫停</td>
     <td>這些人員只能收到操作電子郵件；這通常由您（行銷人員）控制。</td>
   </tr>
   <tr>

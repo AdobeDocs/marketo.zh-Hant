@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1146942
 description: 定義Smart Campaign的智慧清單 | 觸發器 — Marketo檔案 — 產品檔案
-title: 定義Smart Campaign的智慧清單 | 觸發
+title: 定義智慧行銷活動的智慧清單 | 觸發程序
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
 feature: Smart Campaigns
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '251'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 定義Smart Campaign的智慧清單 | 觸發 {#define-smart-list-for-smart-campaign-trigger}
+# 定義智慧行銷活動的智慧清單 | 觸發程序 {#define-smart-list-for-smart-campaign-trigger}
 
 透過新增觸發程式，根據即時事件逐人執行Smart Campaign。
 

@@ -4,10 +4,10 @@ description: 轉換人員 — Marketo檔案 — 產品檔案
 title: 轉換人員
 exl-id: b0ff0b63-a6a3-48c5-92ef-7ece5c182d28
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 0%
+source-wordcount: '100'
+ht-degree: 6%
 
 ---
 
@@ -29,10 +29,10 @@ ht-degree: 0%
    >
    >在Marketo中轉換人員將在[!DNL Salesforce]中產生新帳戶和機會。 如果您不想要重複的帳戶，請使用[!DNL Salesforce]進行轉換。
 
-1. 選擇是否要將&#x200B;**[!UICONTROL 通知]**&#x200B;傳送給擁有者。
+1. 選擇是否要將&#x200B;**[!UICONTROL notification]**&#x200B;傳送給擁有者。
 
    ![](assets/convert-person-3.png)
 
-1. 選取&#x200B;**[!UICONTROL 轉換狀態]**。
+1. 選取 **[!UICONTROL converted status]**。
 
    ![](assets/convert-person-4.png)

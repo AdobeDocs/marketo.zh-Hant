@@ -4,10 +4,10 @@ description: 程式成員自訂欄位 — Marketo檔案 — 產品檔案
 title: 方案成員自訂欄位
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '403'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
@@ -51,7 +51,7 @@ ht-degree: 1%
 |---|---|
 | 公司 | 與個人相關聯的公司名稱。 |
 | 機會 | 商機可以與個人或帳戶相關聯，作為潛在的未來銷售。 他們通常會透過CRM或API進入Marketo。 |
-| 個人 | 您透過行銷活動與之Marketo資料庫中的個人互動。 |
+| 人員 | 您透過行銷活動與之Marketo資料庫中的個人互動。 |
 | 計畫成員 | 同時身為計畫成員的人 |
 
 ## 觸發器和篩選器 {#triggers-and-filters}
@@ -60,7 +60,7 @@ ht-degree: 1%
 
 ![](assets/six.png)
 
-## 須知 {#things-to-know}
+## 應知事項 {#things-to-know}
 
 * 方案成員自訂欄位僅可用於本機資產。 Design Studio不支援這些設定，因為無法將其繫結至特定程式。
 * 您無法複製/移動包含程式成員自訂欄位的表單（或含有表單的登陸頁面）至Design Studio。

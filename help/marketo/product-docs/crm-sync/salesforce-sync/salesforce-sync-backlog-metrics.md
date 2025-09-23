@@ -1,16 +1,16 @@
 ---
 description: Salesforce同步處理待處理量度 — Marketo檔案 — 產品檔案
-title: Salesforce同步處理待處理專案量度
+title: Salesforce 同步待辦項目量度
 feature: Reporting
 exl-id: 6b58eb50-ff0d-4774-a232-3ae929948e2a
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1048'
 ht-degree: 0%
 
 ---
 
-# Salesforce同步處理待處理專案量度  {#salesforce-sync-backlog-metrics}
+# Salesforce 同步待辦項目量度  {#salesforce-sync-backlog-metrics}
 
 同步處理待處理專案是用於擱置同步處理之記錄的名稱。 它會將擱置從Salesforce同步至Marketo Engage的記錄計算在內，反之亦然。 確保待處理專案維持在可控範圍內，可順利進行時間同步。 待處理專案涵蓋兩側擱置同步發佈更新的數量，而非同步流程步驟(例如Sync Lead to SFDC流程步驟)所執行的數量。
 
@@ -98,9 +98,9 @@ ht-degree: 0%
 
 **經常更新的欄位**：有些欄位很容易經常更新。 例如，貨幣欄位可能會發生貨幣變更。 檢閱這些欄位是否需要同步，或欄位是否應以不同方式設計。 如果您有其他經常更新且不需要的欄位，請向同步使用者隱藏它們。 請務必與您的SFDC管理員整合討論可能會更新欄位的問題。
 
-**自訂物件**：定期檢閱[啟用同步的自訂物件](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"}，並停用不再需要同步的自訂物件。
+**自訂物件**：定期檢閱[啟用同步的自訂物件](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"}，並停用不再需要同步的自訂物件。
 
-**活動**： [檢閱是否有任何活動](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"}已啟用從同步中移除的同步。  每個潛在客戶每天只能同步處理一次這些活動。
+**活動**： [檢閱是否有任何活動](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"}已啟用從同步中移除的同步。  每個潛在客戶每天只能同步處理一次這些活動。
 
 **檢閱同步處理錯誤**：例外狀況處理可能會減慢同步處理的速度。 檢閱使用者通知並解決錯誤可以改善同步處理健康情況。
 

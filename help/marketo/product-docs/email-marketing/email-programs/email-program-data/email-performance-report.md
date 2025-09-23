@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359467
 description: 電子郵件效能報表 — Marketo檔案 — 產品檔案
-title: 以電子郵件傳送效能報表
+title: 電子郵件績效報告
 exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
 feature: Email Programs
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '489'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# 以電子郵件傳送效能報表 {#email-performance-report}
+# 電子郵件績效報告 {#email-performance-report}
 
 若要檢視您的電子郵件含統計資料（如已傳遞、已開啟、已點按等）的執行狀況，請建立電子郵件效能報表。
 
@@ -78,7 +78,7 @@ ht-degree: 1%
 
 * **規則2**：如果電子郵件記錄顯示&#x200B;_[!UICONTROL Opened]_，則計為_&#x200B;已傳遞&#x200B;_。
 
-* **規則3**：如果電子郵件記錄顯示&#x200B;_[!UICONTROL Clicked Email]_&#x200B;或_[!UICONTROL Unsubscribed]_，則計為&#x200B;_已傳遞_&#x200B;及&#x200B;_已開啟_。
+* **規則3**：如果電子郵件記錄顯示&#x200B;_[!UICONTROL Clicked Email]_或_[!UICONTROL Unsubscribed]_，則計為&#x200B;_已傳遞_&#x200B;及&#x200B;_已開啟_。
 
 * **規則4**：如果電子郵件為&#x200B;_[!UICONTROL Opened]_，則會忽略退信。 如果電子郵件尚未開啟，_&#x200B;硬退信&#x200B;_優先於_&#x200B;軟退信&#x200B;_和_&#x200B;已傳遞&#x200B;_。
 

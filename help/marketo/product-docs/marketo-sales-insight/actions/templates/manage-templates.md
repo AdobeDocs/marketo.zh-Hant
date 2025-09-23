@@ -3,10 +3,10 @@ description: 管理範本 — Marketo檔案 — 產品檔案
 title: 管理範本
 exl-id: a18e7112-91e8-462c-9d1a-3a0f43c1b1cf
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '498'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -46,7 +46,7 @@ ht-degree: 0%
   <td>檢閱並編輯、設定條件以使範本成為建議的範本、新增附註</td>
  </tr>
  <tr>
-  <td><strong>Analytics</strong></td>
+  <td><strong>分析</strong></td>
   <td>檢閱範本的參與分析。 執行篩選搜尋。</td>
  </tr>
  <tr>
@@ -87,7 +87,7 @@ ht-degree: 0%
 
    ![](assets/manage-templates-9.png)
 
-## 將範本加入最愛 {#favorite-a-template}
+## 將範本設為最愛 {#favorite-a-template}
 
 您可以從任何類別將範本新增至「我的最愛」清單。 這會自動在清單頂端產生新類別，讓您能夠快速存取最常使用的範本。
 
@@ -103,7 +103,7 @@ ht-degree: 0%
 
    ![](assets/manage-templates-12.png)
 
-## 自訂範本檢視 {#customize-template-view}
+## 自訂範本視圖 {#customize-template-view}
 
 從&#x200B;**[!UICONTROL View]**&#x200B;下拉式清單中，您可以選擇檢視：所有範本、您的範本、我的最愛範本、共用範本、非共用範本，或未使用的範本（過去90天內未使用的範本）。
 

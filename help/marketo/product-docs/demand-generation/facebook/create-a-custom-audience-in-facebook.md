@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720275
 description: 在Facebook中建立自訂對象 — Marketo檔案 — 產品檔案
-title: 在Facebook中建立自訂對象
+title: 在 Facebook 中建立自訂客群
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '219'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
@@ -30,11 +30,11 @@ ht-degree: 0%
 
    ![](assets/create-a-custom-audience-in-facebook-2.png)
 
-1. 選取&#x200B;**[!UICONTROL Facebook]**&#x200B;並按一下&#x200B;**[!UICONTROL Next]**。
+1. 選取「**[!UICONTROL Facebook]**」然後按一下「**[!UICONTROL Next]**」。
 
    ![](assets/create-a-custom-audience-in-facebook-3.png)
 
-1. 按一下&#x200B;**[!UICONTROL Audience]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL + New Audience]**。
+1. 按一下「**[!UICONTROL Audience]**」下拉式選單，選取「**[!UICONTROL + New Audience]**」。
 
    ![](assets/create-a-custom-audience-in-facebook-4.png)
 

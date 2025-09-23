@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360188
 description: 行銷活動電子郵件效能報表 — Marketo檔案 — 產品檔案
-title: 行銷活動電子郵件效能報表
+title: 行銷活動電子郵件績效報告
 exl-id: 524222c6-7cf6-4e6d-a1a5-20a771cd9da5
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '206'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 行銷活動電子郵件效能報表 {#campaign-email-performance-report}
+# 行銷活動電子郵件績效報告 {#campaign-email-performance-report}
 
 若要檢視依[智慧行銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)分組的電子郵件效能統計資料，請執行行銷活動電子郵件效能報告。
 

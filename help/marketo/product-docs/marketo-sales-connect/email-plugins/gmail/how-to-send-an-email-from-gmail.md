@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352440
 description: 如何從Gmail傳送電子郵件 — Marketo檔案 — 產品檔案
-title: 如何從Gmail傳送電子郵件
+title: 如何從 Gmail 傳送電子郵件
 exl-id: 8a036b37-984c-4298-917e-fa680657b79f
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# 如何從Gmail傳送電子郵件 {#how-to-send-an-email-from-gmail}
+# 如何從 Gmail 傳送電子郵件 {#how-to-send-an-email-from-gmail}
 
 >[!CAUTION]
 >

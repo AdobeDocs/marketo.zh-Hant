@@ -1,23 +1,23 @@
 ---
 unique-page-id: 14745823
 description: 在Salesforce中建立工作流程規則 — Marketo檔案 — 產品檔案
-title: 在Salesforce中建立工作流程規則
+title: 在 Salesforce 中建立工作流程規則
 exl-id: 0cfce178-453b-4949-96aa-c327278a267d
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '393'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
-# 在Salesforce中建立工作流程規則 {#creating-workflow-rules-in-salesforce}
+# 在 Salesforce 中建立工作流程規則 {#creating-workflow-rules-in-salesforce}
 
 並行使用Marketo Sales Insight (MSI)和Marketo Sales Connect (MSC)時，[!DNL Salesforce]中的MSI首選功能將不會更新。 所有其他MSI功能都照常運作（在iFrame中檢視有趣的時刻、傳送電子郵件、新增促銷活動等）。 本文提供讓最佳賭注再次運作的因應措施。
 
 >[!NOTE]
 >
->這只會影響同時使用&#x200B;**1&rbrace; MSI和MSE以及想要在MSI中使用Best Bets功能的客戶。**&#x200B;如果您不需要/使用「首選」，可以忽略。
+>這只會影響同時使用&#x200B;**1} MSI和MSE以及想要在MSI中使用Best Bets功能的客戶。**&#x200B;如果您不需要/使用「首選」，可以忽略。
 
 ## 快速入門 {#getting-started}
 
@@ -56,7 +56,7 @@ ht-degree: 1%
 
    ![](assets/one-1.png)
 
-1. 選擇「**[!UICONTROL New Rule]**」。
+1. 選取「**[!UICONTROL New Rule]**」。
 
    ![](assets/two-1.png)
 

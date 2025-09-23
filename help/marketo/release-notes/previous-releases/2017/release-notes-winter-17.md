@@ -3,14 +3,14 @@ unique-page-id: 12255606
 description: 發行說明–2017年冬季 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2017年冬
 exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
-source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '345'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 發行說明： 2017年冬季 {#release-notes-winter}
+# 發行說明：2017 年冬季 {#release-notes-winter}
 
 以下功能包含在2017年冬季發行版本中。 檢查您的Marketo版本是否有功能可用。
 
@@ -60,7 +60,7 @@ Web Personalization、[!UICONTROL Predictive Content]和電子郵件深入分析
 
 **[依[!UICONTROL Enabled Source]](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**&#x200B;篩選
 
-篩選已為[!UICONTROL Email]、[!UICONTROL Rich Media]或[!UICONTROL Recommendation Bar]啟用的[!UICONTROL Predictive Content]個片段。
+篩選已為[!UICONTROL Predictive Content]、[!UICONTROL Email]或[!UICONTROL Rich Media]啟用的[!UICONTROL Recommendation Bar]個片段。
 
 ![](assets/predictive-content-enabled-source.png)
 

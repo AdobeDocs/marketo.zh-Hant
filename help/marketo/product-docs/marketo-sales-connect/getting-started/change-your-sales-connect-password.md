@@ -1,16 +1,16 @@
 ---
 description: 變更您的Sales Connect密碼 — Marketo檔案 — 產品檔案
-title: 變更您的Sales Connect密碼
+title: 變更您的 Sales Connect 密碼
 exl-id: b8c14c7c-c79a-452f-afba-6c8578be2ecd
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# 變更您的Sales Connect密碼 {#change-your-sales-connect-password}
+# 變更您的 Sales Connect 密碼 {#change-your-sales-connect-password}
 
 需要變更您的密碼嗎？ 方法如下。
 

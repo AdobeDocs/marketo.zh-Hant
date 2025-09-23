@@ -4,20 +4,20 @@ description: 發行說明 — 2014年8月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2014年8月
 exl-id: 789af65d-f42a-4500-bebc-fc4dd709379d
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '399'
-ht-degree: 0%
+source-wordcount: '398'
+ht-degree: 1%
 
 ---
 
-# 發行說明： 2014年8月 {#release-notes-august}
+# 發行說明：2014 年 8 月 {#release-notes-august}
 
 2014年8月發行版本包含下列功能。 檢查您的Marketo版本是否有功能可用。 在發行後返回以取得詳細功能檔案的連結。
 
 ## 行銷行事曆授權 {#marketing-calendar-licenses}
 
-2014年9月5日之後，只有5位使用者可以免費存取行銷行事曆。 請務必先將行銷行事曆授權[&#128279;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md)問題/撤銷給您選擇的使用者，再將其設為未中斷存取。
+2014年9月5日之後，只有5位使用者可以免費存取行銷行事曆。 請務必先將行銷行事曆授權[問題/撤銷給您選擇的使用者，再將其設為未中斷存取。](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md)
 
 ![—](assets/image2014-9-16-9-3a45-3a52.png)
 
@@ -69,7 +69,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-16-12-3a23-3a43.png)
 
-## 增強的1:1細分和目標定位 {#enhanced-segmentation-and-targeting}
+## 增強的1:1細分與目標定位 {#enhanced-segmentation-and-targeting}
 
 您現在可以使用進階篩選器運運算元來鎖定已知訪客。
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4720710
 description: 針對您的電子郵件傳遞能力設定SPF和DKIM - Marketo檔案 — 產品檔案
-title: 設定SPF和DKIM以提供您的電子郵件傳遞能力
+title: 設定 SPF 和 DKIM 確保電子郵件傳遞能力
 exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
 feature: Deliverability
-source-git-commit: b95458ffab422901ef5e674756ae5e413ec542fd
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '421'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 設定SPF和DKIM以提供您的電子郵件傳遞能力 {#set-up-spf-and-dkim-for-your-email-deliverability}
+# 設定 SPF 和 DKIM 確保電子郵件傳遞能力 {#set-up-spf-and-dkim-for-your-email-deliverability}
 
 改善電子郵件傳遞率的快速方法之一，就是將&#x200B;**SPF** （寄件者原則架構）和&#x200B;**DKIM** (Domain Keys Identified Mail)合併到您的DNS設定中。 除了您的DNS專案以外，您也會告訴收件者，您已授權Marketo代表您傳送電子郵件。 若沒有此變更，則您的電子郵件被標示為垃圾郵件的可能性會較高，因為電子郵件是從您的網域寄出，但是從具有Marketo網域的IP位址傳送。
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 如果您的DNS專案中已有SPF記錄，請新增下列內容：
 
-包含：mktomail.com
+include:mktomail.com
 
 ## 設定DKIM {#set-up-dkim}
 

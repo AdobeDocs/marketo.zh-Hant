@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10095347
 description: 保護訂閱管理設定 — Marketo檔案 — 產品檔案
-title: 保護訂閱管理設定
+title: 確保訂閱管理設定
 exl-id: 0cc1bc36-6a97-4f8d-afea-21746e8e3d84
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '82'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# 保護訂閱管理設定 {#secure-the-subscription-admin-setting}
+# 確保訂閱管理設定 {#secure-the-subscription-admin-setting}
 
 >[!NOTE]
 >

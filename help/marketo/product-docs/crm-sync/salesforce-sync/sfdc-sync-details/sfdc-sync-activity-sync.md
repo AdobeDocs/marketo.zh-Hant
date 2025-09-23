@@ -4,14 +4,14 @@ description: SFDC同步 — Activity Sync - Marketo檔案 — 產品檔案
 title: SFDC同步 — 活動同步
 exl-id: 780e9cb7-b8b2-4a79-a0b8-d9d34a655330
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '160'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# SFDC同步： Activity Sync {#sfdc-sync-activity-sync}
+# SFDC 同步：活動同步 {#sfdc-sync-activity-sync}
 
 Marketo也會同步處理[!DNL Salesforce]個活動資料。 以下是一些問題和答案。
 

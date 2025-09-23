@@ -4,10 +4,10 @@ description: 步驟3之1 — 將Marketo欄位新增至Salesforce （專業） - 
 title: 步驟3之1 — 將Marketo欄位新增至Salesforce （專業）
 exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
 feature: Salesforce Integration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '722'
-ht-degree: 8%
+ht-degree: 9%
 
 ---
 
@@ -82,7 +82,7 @@ Marketo使用一組欄位來擷取特定型別的行銷相關資訊。 若您想
    <td>長度10<br>小數位數0 </td>
   </tr>
   <tr>
-   <td>獲取日期</td>
+   <td>贏取日期</td>
    <td>mkto71_Acquisition_Date</td>
    <td>日期/時間</td>
    <td> </td>

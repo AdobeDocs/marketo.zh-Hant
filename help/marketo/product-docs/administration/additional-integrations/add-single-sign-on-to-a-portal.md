@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360356
 description: 將單一登入新增至入口網站 — Marketo檔案 — 產品檔案
-title: 新增單一登入至入口網站
+title: 將單一登入新增至入口網站
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '571'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 新增單一登入至入口網站 {#add-single-sign-on-to-a-portal}
+# 將單一登入新增至入口網站 {#add-single-sign-on-to-a-portal}
 
 如果您有驗證使用者的目錄服務，可以允許單一登入(SSO)進入Marketo。 我們使用[!DNL Security Assertion Markup Language] (SAML) 2.0版和更新版本支援此功能。
 
@@ -59,7 +59,7 @@ Marketo的作用就像是SAML服務提供者(SP)，並且仰賴外部身分提�
 
 SSO預設為停用。 請依照以下步驟啟用SAML並進行設定。
 
-1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/add-single-sign-on-to-a-portal-1.png)
 

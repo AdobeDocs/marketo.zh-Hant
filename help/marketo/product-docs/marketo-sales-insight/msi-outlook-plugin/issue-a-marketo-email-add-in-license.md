@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949281
 description: 發出Marketo電子郵件增益集授權 — Marketo檔案 — 產品檔案
-title: 發出Marketo電子郵件增益集授權
+title: 核發 Marketo 電子郵件增益集授權
 exl-id: 179bb2b6-2e06-4e85-8f3f-2cd5d3ae3081
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '289'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 發出Marketo電子郵件增益集授權 {#issue-a-marketo-email-add-in-license}
+# 核發 Marketo 電子郵件增益集授權 {#issue-a-marketo-email-add-in-license}
 
 任何想要使用Marketo電子郵件[!DNL Outlook]增益集的人都必須先取得授權。 提供授權的方式有兩種。
 

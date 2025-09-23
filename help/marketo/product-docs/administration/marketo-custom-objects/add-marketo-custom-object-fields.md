@@ -1,23 +1,23 @@
 ---
 unique-page-id: 10093688
 description: 新增Marketo自訂物件欄位 — Marketo檔案 — 產品檔案
-title: 新增Marketo自訂物件欄位
+title: 新增 Marketo 自訂物件欄位
 exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
 feature: Custom Objects
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '277'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 新增Marketo自訂物件欄位 {#add-marketo-custom-object-fields}
+# 新增 Marketo 自訂物件欄位 {#add-marketo-custom-object-fields}
 
 建立自訂物件後，您需要新增欄位以符合業務需求。
 
 欄位會定義自訂物件所使用的特定資訊。 連結欄位有特殊工作可連線自訂物件，而且包含在[個別文章](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)中。
 
-1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/add-marketo-custom-object-fields-1.png)
 

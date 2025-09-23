@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360276
 description: 隱藏/取消隱藏方案頻道 — Marketo檔案 — 產品檔案
-title: 隱藏/取消隱藏方案頻道
+title: 隱藏/取消隱藏方案管道
 exl-id: 17061f87-85c9-4940-bd8e-590e4c7c04f1
 feature: Tags
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '95'
-ht-degree: 1%
+ht-degree: 15%
 
 ---
 
-# 隱藏/取消隱藏方案頻道 {#hide-unhide-a-program-channel}
+# 隱藏/取消隱藏方案管道 {#hide-unhide-a-program-channel}
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 1%
 
 ## 隱藏方案頻道 {#hide-a-program-channel}
 
-1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/hide-unhide-a-program-channel-1.png)
 

@@ -4,10 +4,10 @@ description: 建立表單 — Marketo檔案 — 產品檔案
 title: 建立表單
 exl-id: ab0f2700-99e5-4ceb-b9df-80016f30fc85
 feature: Forms
-source-git-commit: f27b520544583b9511428b0bc3a41cc1527cc332
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 1%
+ht-degree: 7%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->瞭解Marketo Engage如何確保您的表單安全[&#128279;](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038)。
+>瞭解Marketo Engage如何確保您的表單安全[](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038)。
 
 1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
@@ -27,7 +27,7 @@ ht-degree: 1%
 
    ![](assets/create-a-form-2.png)
 
-1. 選擇「**[!UICONTROL Form]**」。
+1. 選取「**[!UICONTROL Form]**」。
 
    ![](assets/create-a-form-3.png)
 

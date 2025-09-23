@@ -3,10 +3,10 @@ description: 自動附加取消訂閱訊息設定 — Marketo檔案 — 產品�
 title: 自動附加取消訂閱訊息設定
 feature: Sales Insight Actions
 exl-id: 17734f62-74e6-4168-a9c8-7835e3daf5ff
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '175'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 
    ![](assets/auto-append-unsubscribe-message-setting-1.png)
 
-1. 在[管理設定]下，按一下[取消訂閱]。**&#x200B;**
+1. 在[管理設定]下，按一下[取消訂閱]。****
 
    ![](assets/auto-append-unsubscribe-message-setting-2.png)
 

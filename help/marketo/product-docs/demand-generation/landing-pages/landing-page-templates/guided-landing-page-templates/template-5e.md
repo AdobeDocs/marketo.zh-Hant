@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8783926
 description: 範本5E - Marketo檔案 — 產品檔案
-title: 範本5E
+title: 範本 5E
 exl-id: ca90093d-a420-4777-8ed4-970f29ffc575
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '55'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# 範本5E {#template-5e}
+# 範本 5E {#template-5e}
 
-按一下滑鼠右鍵以[下載範本5E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5e.html?lang=zh-Hant)
+按一下滑鼠右鍵以[下載範本5E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5e.html)
 
 ![](assets/image2015-7-29-15-3a24-3a40.png)
 
@@ -29,4 +29,4 @@ ht-degree: 0%
 
 **在下方按一下滑鼠右鍵以下載此範本：**
 
-[範本5E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5e.html?lang=zh-Hant)
+[範本5E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5e.html)

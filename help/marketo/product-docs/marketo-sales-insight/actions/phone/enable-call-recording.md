@@ -1,16 +1,16 @@
 ---
 description: 啟用通話錄製 — Marketo檔案 — 產品檔案
-title: 啟用通話錄製
+title: 啟用通話錄音
 exl-id: 85a271f7-5cd9-4660-80b3-60742b743979
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '83'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# 啟用通話錄製 {#enable-call-recording}
+# 啟用通話錄音 {#enable-call-recording}
 
 身為管理員，您可以啟用[!DNL Sales Insight Actions]通話的通話錄製。 記錄團隊的電話是指導銷售代表最佳電話慣例的好方法。
 

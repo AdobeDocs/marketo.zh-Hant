@@ -1,18 +1,18 @@
 ---
 description: 人員頁面欄 — Marketo檔案 — 產品檔案
-title: 人員頁面欄
+title: 人物頁面欄
 hide: true
 hidefromtoc: true
 exl-id: 29870197-81e1-4f88-a129-b1ff6da34924
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '234'
-ht-degree: 6%
+ht-degree: 8%
 
 ---
 
-# 人員頁面欄 {#people-page-columns}
+# 人物頁面欄 {#people-page-columns}
 
 您可以選擇顯示哪些欄，以自訂您看到的連絡資訊。
 

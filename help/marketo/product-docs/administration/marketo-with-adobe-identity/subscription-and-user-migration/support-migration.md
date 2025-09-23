@@ -1,16 +1,16 @@
 ---
 description: Marketo Engage支援移轉 — Marketo檔案 — 產品檔案
-title: Marketo Engage支援移轉
+title: Marketo Engage 支援移轉
 feature: Marketo with Adobe Identity
 exl-id: 07e4377a-73d7-4293-938c-ae87c769c128
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '468'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# Marketo Engage支援移轉 {#marketo-engage-support-migration}
+# Marketo Engage 支援移轉 {#marketo-engage-support-migration}
 
 進一步瞭解Adobe Marketo Engage支援流程即將發生的變更。 這些更新旨在簡化您的管理工作，並提升您的整體體驗。
 
@@ -40,11 +40,11 @@ ht-degree: 1%
 
 ## 其他資源 {#additional-resources}
 
-* 瞭解如何使用[Adobe Admin Console來管理您整個組織的Adobe權益](https://helpx.adobe.com/tw/enterprise/using/admin-roles.html){target="_blank"}。
+* 瞭解如何使用[Adobe Admin Console來管理您整個組織的Adobe權益](https://helpx.adobe.com/enterprise/using/admin-roles.html){target="_blank"}。
 
 * 如需有關如何使用Adobe ID [登入Marketo Engage的詳細資訊，請參閱此處](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}。
 
-* 深入瞭解[Adobe Experience League](https://experienceleague.adobe.com/zh-hant){target="_blank"}。
+* 深入瞭解[Adobe Experience League](https://experienceleague.adobe.com/){target="_blank"}。
 
 ## 仍有問題嗎？ {#still-have-questions}
 

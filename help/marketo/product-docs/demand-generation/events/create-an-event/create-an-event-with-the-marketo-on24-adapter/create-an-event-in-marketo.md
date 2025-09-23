@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10096725
 description: 在Marketo中建立事件 — Marketo檔案 — 產品檔案
-title: 在Marketo中建立事件
+title: 在 Marketo 中建立事件
 exl-id: c55116b7-dd65-439f-b7d4-63892fb940cb
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '135'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# 在Marketo中建立事件 {#create-an-event-in-marketo}
+# 在 Marketo 中建立事件 {#create-an-event-in-marketo}
 
 Marketo事件會追蹤您的人員透過方案的進度。 它會使用ON24介面卡推送註冊資訊和提取出勤資訊。 事件會擷取您人員在過程中進行處理的狀態。
 

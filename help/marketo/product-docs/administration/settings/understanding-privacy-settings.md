@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10617187
 description: 瞭解隱私設定 — Marketo檔案 — 產品檔案
-title: 瞭解隱私權設定
+title: 了解隱私權設定
 exl-id: 1fde9011-02a9-4ec9-bfa4-c56a52ce1eed
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '500'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 瞭解隱私權設定 {#understanding-privacy-settings}
+# 了解隱私權設定 {#understanding-privacy-settings}
 
 ## 概觀 {#overview}
 
@@ -60,7 +60,7 @@ Marketo為行銷人員提供了取得網頁訪客同意追蹤他們的方法。 
 >
 >目前僅適用於[!DNL Munchkin]版本152及更高版本。
 
-## 選擇加入 {#opt-in}
+## 加入宣告 {#opt-in}
 
 行銷人員可在電子郵件、表單、登入頁面和其他方法中使用Marketo的功能，讓使用者選擇加入。
 

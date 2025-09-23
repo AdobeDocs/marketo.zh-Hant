@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10100257
 description: 電子郵件深入分析常見問題集 — Marketo檔案 — 產品檔案
-title: 電子郵件深入分析常見問題集
+title: 電子郵件洞察常見問題
 exl-id: de3aca5a-08b4-4af8-ab92-675cb46dcbb2
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '580'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 電子郵件深入分析常見問題集 {#email-insights-faq}
+# 電子郵件洞察常見問題 {#email-insights-faq}
 
 ## 含有[!UICONTROL Email Insights]的比率量度與其他Marketo電子郵件報告之間是否有任何差異？ {#are-there-any-differences-between-ratio-metrics-with-email-insights-and-other-marketo-email-reporting}
 

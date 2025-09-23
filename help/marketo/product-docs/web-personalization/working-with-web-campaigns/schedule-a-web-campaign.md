@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10097100
 description: 排程網站行銷活動 — Marketo檔案 — 產品檔案
-title: 排程網站行銷活動
+title: 安排網頁行銷活動時間
 exl-id: 53ad93ef-b1a8-42fd-8aff-923e02946527
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '289'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 排程網站行銷活動 {#schedule-a-web-campaign}
+# 安排網頁行銷活動時間 {#schedule-a-web-campaign}
 
 如果您知道要在何時執行網路行銷活動，可以預先排程。 可輕鬆設定開始和停止日期、重複日期和多天。
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7512105
 description: 將報表複製至群組報表 — Marketo檔案 — 產品檔案
-title: 將報表複製到群組報表
+title: 將報告原地複製到群組報告
 exl-id: e5587d17-9ff6-4a38-ae50-1fe8c2685a72
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '94'
-ht-degree: 2%
+ht-degree: 14%
 
 ---
 
-# 將報表複製到群組報表 {#clone-a-report-to-group-reports}
+# 將報告原地複製到群組報告 {#clone-a-report-to-group-reports}
 
 **[!UICONTROL My Reports]**&#x200B;中的任何報告僅對您可見。 如果您希望讓其他所有人都能存取報告，該怎麼做？ 以下提供相關操作說明：
 

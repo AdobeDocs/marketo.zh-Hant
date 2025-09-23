@@ -1,15 +1,15 @@
 ---
 description: 連線到Outlook - Marketo檔案 — 產品檔案
-title: 連線到Outlook
+title: 連接至 Outlook
 exl-id: 760db2d2-2e5d-4988-891a-9c57250264ac
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '485'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 連線到Outlook {#connect-to-outlook}
+# 連接至 Outlook {#connect-to-outlook}
 
 瞭解如何將Sales Insight Actions帳戶與Outlook連結。
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/connect-to-outlook-3.png)
 
-1. 按一下&#x200B;**開始使用**。
+1. 按一下「**開始使用**」。
 
    ![](assets/connect-to-outlook-4.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    ![](assets/connect-to-outlook-5.png)
 
-1. 選取您正在使用的Outlook版本，然後按一下[下一步] **&#x200B;**。 在此範例中，我們選擇Outlook Online。
+1. 選取您正在使用的Outlook版本，然後按一下[下一步] ****。 在此範例中，我們選擇Outlook Online。
 
    ![](assets/connect-to-outlook-6.png)
 
@@ -66,7 +66,7 @@ ht-degree: 0%
 
    ![](assets/connect-to-outlook-7.png)
 
-1. 如果您尚未登入Outlook，請輸入您的登入資訊，然後按一下[下一步] **&#x200B;**。 如果是，請選擇您要連線的帳戶，然後按一下[下一步] **&#x200B;**。 在此範例中，我們已登入。
+1. 如果您尚未登入Outlook，請輸入您的登入資訊，然後按一下[下一步] ****。 如果是，請選擇您要連線的帳戶，然後按一下[下一步] ****。 在此範例中，我們已登入。
 
    ![](assets/connect-to-outlook-8.png)
 
@@ -96,7 +96,7 @@ ht-degree: 0%
 
    ![](assets/connect-to-outlook-12.png)
 
-1. 按一下&#x200B;**開始使用**。
+1. 按一下「**開始使用**」。
 
    ![](assets/connect-to-outlook-13.png)
 
@@ -104,7 +104,7 @@ ht-degree: 0%
 
    ![](assets/connect-to-outlook-14.png)
 
-1. 選取您正在使用的Outlook版本，然後按一下[下一步] **&#x200B;**。 在此範例中，我們選擇Exchange On-premise。
+1. 選取您正在使用的Outlook版本，然後按一下[下一步] ****。 在此範例中，我們選擇Exchange On-premise。
 
    ![](assets/connect-to-outlook-15.png)
 

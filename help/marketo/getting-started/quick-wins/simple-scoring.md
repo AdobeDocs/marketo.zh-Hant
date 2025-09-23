@@ -1,26 +1,26 @@
 ---
 unique-page-id: 2359414
 description: 簡單評分 — Marketo檔案 — 產品檔案
-title: 簡單分數
+title: 簡單評分
 exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
 feature: Getting Started
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '350'
-ht-degree: 0%
+ht-degree: 17%
 
 ---
 
-# 簡單分數 {#simple-scoring}
+# 簡單評分 {#simple-scoring}
 
 >[!PREREQUISITES]
 >
->* [設定並新增人員](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
->* [含有表單的登陸頁面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
+>* [完成設定與新增人員](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>* [附有表單的登陸頁面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
 
 ## 步驟1：建立評分行銷活動 {#step-create-a-scoring-campaign}
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**&#x200B;區域。
+1. 前往「**[!UICONTROL Marketing Activities]**」區域。
 
    ![](assets/simple-scoring-1.png)
 
@@ -60,7 +60,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您以表單[&#128279;](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}快速成功完成登陸頁面，您應該有表單。 如果您的表單使用不同的名稱，請選取該名稱。
+   >如果您以表單[快速成功完成](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}登陸頁面，您應該有表單。 如果您的表單使用不同的名稱，請選取該名稱。
 
 1. 按一下「**[!UICONTROL Flow]**」標籤。
 
@@ -82,15 +82,15 @@ ht-degree: 0%
 
    ![](assets/simple-scoring-12.png)
 
-1. 按一下確認畫面上的&#x200B;**[!UICONTROL Activate]**。
+1. 在確認畫面上按一下「**[!UICONTROL Activate]**」。
 
    ![](assets/simple-scoring-13.png)
 
 >[!NOTE]
 >
->一旦啟用，此行銷活動就會在每次有人填寫表單時執行。 行銷活動將持續執行直到其停用。
+>一旦啟用，此行銷活動就會在每次有人填寫表單時執行。 行銷活動會持續執行，直到停用為止。
 
-## 步驟2：填寫表單 {#step-fill-out-the-form}
+## 步驟 2：填寫表單 {#step-fill-out-the-form}
 
 1. 選取您在[登陸頁面（含表單](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}快速入門）中建立的登陸頁面。
 
@@ -100,7 +100,7 @@ ht-degree: 0%
 
    ![](assets/simple-scoring-15.png)
 
-1. 填寫您的名字、姓氏和電子郵件地址，然後按一下&#x200B;**[!UICONTROL Submit]**。
+1. 在表單中填寫您的名字、姓氏和電子郵件地址，然後按一下「**[!UICONTROL Submit]**」。
 
    ![](assets/simple-scoring-16.png)
 
@@ -110,7 +110,7 @@ ht-degree: 0%
 
 ## 步驟3：檢視人員資訊 {#step-view-the-person-info}
 
-1. 移至&#x200B;**[!UICONTROL Database]**&#x200B;區域。
+1. 前往「**[!UICONTROL Database]**」區域。
 
    ![](assets/simple-scoring-17.png)
 
@@ -128,7 +128,7 @@ ht-degree: 0%
 
 ## 任務完成！ {#mission-complete}
 
-<br> 
+<br>
 
 [◄任務2：含表單的登陸頁面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719340
 description: 排除特定的IP不受追蹤 — Marketo檔案 — 產品檔案
-title: 排除特定的IP不受追蹤
+title: 排除特定 IP 的追蹤
 exl-id: d6989c8f-46ff-40a8-bf7f-5d34e701b359
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '190'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# 排除特定的IP不受追蹤 {#exclude-specific-ips-from-being-tracked}
+# 排除特定 IP 的追蹤 {#exclude-specific-ips-from-being-tracked}
 
 想要從[!UICONTROL Web Personalization]中的追蹤與報告排除您自己的員工與組織名稱嗎？
 

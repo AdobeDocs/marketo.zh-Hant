@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2953405
 description: 編輯Analytics行為設定 — Marketo檔案 — 產品檔案
-title: 編輯Analytics行為設定
+title: 編輯分析行為設定
 exl-id: 672973f9-35f7-4427-8bea-8f2e0c9d0b35
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 1%
+source-wordcount: '173'
+ht-degree: 6%
 
 ---
 
-# 編輯Analytics行為設定 {#edit-analytics-behavior-settings}
+# 編輯分析行為設定 {#edit-analytics-behavior-settings}
 
-您可以在頻道[&#128279;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md){target="_blank"}的管理員層級設定分析行為，但您也可以在方案層級進行編輯。 方法如下。
+您可以在頻道[的管理員層級設定](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md){target="_blank"}分析行為，但您也可以在方案層級進行編輯。 方法如下。
 
-1. 移至&#x200B;**[!UICONTROL 行銷活動]**。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -23,7 +23,7 @@ ht-degree: 1%
 
    ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-1. 在&#x200B;**[!UICONTROL 設定]**&#x200B;標籤中，將[!UICONTROL Analytics行為]拖曳到畫布上。
+1. 在&#x200B;**[!UICONTROL Setup]**&#x200B;索引標籤中，將[!UICONTROL Analytics Behavior]拖曳到畫布上。
 
    ![](assets/image2014-9-24-11-3a41-3a2.png)
 
@@ -35,15 +35,15 @@ ht-degree: 1%
 >
 >**定義**
 >
->**[!UICONTROL 包含]** — 此選項將確保無論您是否包含期間成本，程式都可在收入總管和分析程式中進行報告。
+>**[!UICONTROL Inclusive]** — 此選項將確保程式可用於在收入總管和分析器中報告，無論您是否包含期間成本。
 >
->**[!UICONTROL 營運]** — 此選項導致程式無法顯示在收入總管或分析器中。
+>**[!UICONTROL Operational]** — 此選項導致程式無法顯示在收入總管或分析器中。
 
 >[!NOTE]
 >
 >預設行為（如果未套用此設定）是，只有在至少有一個期間成本（即使指派零美元）時，程式才會包含在Analytics中。
 
-1. 按一下&#x200B;**[!UICONTROL 保存]**。
+1. 按一下「**[!UICONTROL Save]**」。
 
    ![](assets/image2014-9-24-11-3a42-3a6.png)
 

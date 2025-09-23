@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11384645
 description: 瞭解所有內容 — Marketo檔案 — 產品檔案
-title: 瞭解所有內容
+title: 了解所有內容
 exl-id: 475943f0-bba4-4bd7-8808-de75475f934d
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '258'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 瞭解所有內容 {#understanding-all-content}
+# 了解所有內容 {#understanding-all-content}
 
 「所有內容」頁面會顯示已發現或手動新增的所有內容。
 

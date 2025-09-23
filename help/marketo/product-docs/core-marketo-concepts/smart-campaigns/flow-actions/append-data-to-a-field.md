@@ -4,10 +4,10 @@ description: 將資料附加至欄位 — Marketo檔案 — 產品檔案
 title: 將資料附加至欄位
 exl-id: 62d68efd-b2df-48bd-925e-f9a95907f33c
 feature: Smart Campaigns
-source-git-commit: 7dd2e21969b71a50bfd4643ab15459150ca07c92
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 0%
+source-wordcount: '105'
+ht-degree: 13%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >下列步驟也適用於[變更方案成員資料](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target="_blank"}。
 
-1. 在&#x200B;**[!UICONTROL 流量]**&#x200B;標籤下，拖曳至&#x200B;**[!UICONTROL 變更資料值]**&#x200B;流量步驟。
+1. 在&#x200B;**[!UICONTROL Flow]**&#x200B;標籤下，拖曳至&#x200B;**[!UICONTROL Change Data Value]**&#x200B;流程步驟。
 
    ![](assets/append-data-to-a-field-1.png)
 
@@ -39,4 +39,4 @@ ht-degree: 0%
 
    ![](assets/append-data-to-a-field-4.png)
 
-完成了！ 您可以在這裡取得創意並新增多個Token。
+完成了！您可以在這裡取得創意並新增多個Token。

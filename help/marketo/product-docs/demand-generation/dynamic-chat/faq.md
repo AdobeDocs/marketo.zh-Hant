@@ -3,7 +3,7 @@ description: Dynamic Chat常見問題集 — Marketo檔案 — 產品檔案
 title: Dynamic Chat常見問題集
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '882'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Dynamic Chat JavaScript程式碼片段可安裝在任何網站以及Marketo登�
 
 **資料會儲存多久以用於報告？**
 
-90天。 如需限制/引數的完整清單，請造訪Marketo Engage [產品說明頁面](https://helpx.adobe.com/tw/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}。
+90天。 如需限制/引數的完整清單，請造訪Marketo Engage [產品說明頁面](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}。
 
 **Dynamic Chat是否支援英文以外的任何語言？**
 
@@ -94,7 +94,7 @@ Dynamic Chat透過Salesforce整合與Marketo Engage Salesforce整合。
 
 Dynamic Chat中使用多個辭彙。 其中許多的定義可在各自區域的說明文章中找到。
 
-* 您可以在此找到「已取得人員」之類的Analytics辭彙[&#128279;](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions){target="_blank"}。
+* 您可以在此找到「已取得人員」之類的Analytics辭彙[](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions){target="_blank"}。
 * 智慧清單觸發程式/篩選器定義[可以在這裡找到](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md#definitions){target="_blank"}。
 * 各種串流Designer卡片[的說明可在此找到](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards){target="_blank"}。
 

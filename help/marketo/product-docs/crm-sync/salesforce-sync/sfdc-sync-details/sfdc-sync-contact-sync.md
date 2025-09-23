@@ -4,14 +4,14 @@ description: SFDC同步處理 — 連絡人同步處理 — Marketo檔案 — �
 title: SFDC同步 — 連絡人同步
 exl-id: 537bbc95-9233-4454-892e-81f962cf729d
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '229'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# SFDC同步：連絡人同步 {#sfdc-sync-contact-sync}
+# SFDC 同步：聯絡人同步 {#sfdc-sync-contact-sync}
 
 您知道Marketo會將您的整個資料庫與[!DNL Salesforce]同步嗎？ 它會同步，然後等待5分鐘，然後每天再次同步。 以下是Marketo如何特別處理[!DNL Salesforce]聯絡人的部分細節。
 

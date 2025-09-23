@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352546
 description: 防止次要Gmail位址與Sales Connect整合 — Marketo檔案 — 產品檔案
-title: 防止次要Gmail位址與Sales Connect整合
+title: 防止次要 Gmail 地址與 Sales Connect 整合
 exl-id: a84fe53b-0ec8-400c-8747-be496c68a8e3
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '309'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 

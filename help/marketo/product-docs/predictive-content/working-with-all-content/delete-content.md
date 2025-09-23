@@ -4,10 +4,10 @@ description: 刪除內容 — Marketo檔案 — 產品檔案
 title: 刪除內容
 exl-id: b4463baf-689f-432e-bf5b-375fe218a407
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '46'
-ht-degree: 0%
+ht-degree: 19%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/image2017-10-3-9-3a8-3a39.png)
 
-1. 按一下&#x200B;**[!UICONTROL Content Actions]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Delete Content]**。
+1. 按一下「**[!UICONTROL Content Actions]**」下拉式選單，選取「**[!UICONTROL Delete Content]**」。
 
    ![](assets/image2017-10-3-9-3a9-3a12.png)
 

@@ -1,12 +1,12 @@
 ---
 description: 瞭解團隊標籤 — Marketo檔案 — 產品檔案
-title: 瞭解「專案團隊」標籤
+title: 了解團隊索引標籤
 exl-id: 36189eb2-a802-4601-afca-dca3006e4608
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '137'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 

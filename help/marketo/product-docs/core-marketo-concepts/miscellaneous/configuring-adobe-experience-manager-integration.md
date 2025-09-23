@@ -1,19 +1,19 @@
 ---
 unique-page-id: 30081815
 description: 設定Adobe Experience Manager整合 — Marketo檔案 — 產品檔案
-title: 設定Adobe Experience Manager整合
+title: 設定 Adobe Experience Manager 整合
 hide: true
 hidefromtoc: true
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '188'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# 設定Adobe Experience Manager整合 {#configuring-adobe-experience-manager-integration}
+# 設定 Adobe Experience Manager 整合 {#configuring-adobe-experience-manager-integration}
 
 設定Adobe Experience Manager (AEM)，讓您能夠存取、選取AEM資產，並將其匯入Marketo Engage Design Studio。
 
@@ -63,7 +63,7 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. 在Marketo Engage中，按一下&#x200B;**[!UICONTROL Admin]**。
+1. 在 Marketo Engage 中，按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/nine.png)
 

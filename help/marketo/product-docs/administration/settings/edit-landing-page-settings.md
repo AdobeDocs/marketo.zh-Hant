@@ -4,10 +4,10 @@ description: 編輯登陸頁面設定 — Marketo檔案 — 產品檔案
 title: 編輯登陸頁面設定
 exl-id: 019b4651-3a66-46f9-8722-66af30194380
 feature: Administration, Landing Pages
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '203'
-ht-degree: 2%
+ht-degree: 9%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 2%
 >
 >**需要管理員許可權**
 
-1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/edit-landing-page-settings-1.png)
 

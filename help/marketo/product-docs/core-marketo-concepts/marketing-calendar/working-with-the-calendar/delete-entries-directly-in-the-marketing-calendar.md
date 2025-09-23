@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953358
 description: 直接刪除行銷行事曆中的專案 — Marketo檔案 — 產品檔案
-title: 直接刪除行銷行事曆中的專案
+title: 直接在行銷行事曆中刪除條目
 exl-id: c0e2dbc5-f9b1-4743-b07d-c31fecea9977
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 0%
+source-wordcount: '82'
+ht-degree: 19%
 
 ---
 
-# 直接刪除行銷行事曆中的專案 {#delete-entries-directly-in-the-marketing-calendar}
+# 直接在行銷行事曆中刪除條目 {#delete-entries-directly-in-the-marketing-calendar}
 
 除了[建立](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"}和[編輯](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}專案外，您也可以直接在行銷行事曆中刪除它們。 方法如下。
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/2017-05-10-15-30-47-4.png)
 
-1. 選取您要刪除的專案，然後按一下[顯示程式焦點] **&#x200B;**。
+1. 選取要刪除的專案，然後按一下&#x200B;**[!UICONTROL Show Program Focus]**。
 
    ![](assets/image2014-10-20-13-3a20-3a33.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359987
 description: 訂閱基本報表 — Marketo檔案 — 產品檔案
-title: 訂閱基本報表
+title: 訂閱基本報告
 exl-id: d2550578-e576-44e6-ae56-43563f8d3d45
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '119'
-ht-degree: 2%
+ht-degree: 14%
 
 ---
 
-# 訂閱基本報表 {#subscribe-to-a-basic-report}
+# 訂閱基本報告 {#subscribe-to-a-basic-report}
 
 若要接收基本報表的自動更新或共用基本報表，您可以訂閱現有報表的任何電子郵件地址。
 
@@ -19,7 +19,7 @@ ht-degree: 2%
 >
 >若為Revenue Cycle Explorer報表訂閱，請參閱[訂閱Revenue Explorer報表](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**&#x200B;區域。
+1. 前往「**[!UICONTROL Marketing Activities]**」區域。
 
    ![](assets/image2014-9-16-10-3a31-3a54.png)
 

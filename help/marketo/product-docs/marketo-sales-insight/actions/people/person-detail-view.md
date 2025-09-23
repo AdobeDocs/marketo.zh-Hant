@@ -1,18 +1,18 @@
 ---
 description: 個人詳細資料檢視 — Marketo檔案 — 產品檔案
-title: 個人詳細資料檢視
+title: 人員詳細資料視圖
 hide: true
 hidefromtoc: true
 exl-id: 3d172daa-745d-44f9-8460-40866d0247a1
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '283'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 個人詳細資料檢視 {#person-detail-view}
+# 人員詳細資料視圖 {#person-detail-view}
 
 個人詳細資料檢視會提供您[!DNL Marketo Sales]帳戶中每個人的詳細個人檔案。
 

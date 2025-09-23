@@ -1,24 +1,24 @@
 ---
 unique-page-id: 2359500
 description: 區段訂單優先順序 — Marketo檔案 — 產品檔案
-title: 分段順序優先順序
+title: 細分順序優先順序
 exl-id: c20d07c8-5e53-4f54-a7a3-2e1aa4fb0cdd
 feature: Segmentation
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 分段順序優先順序 {#segmentation-order-priority}
+# 細分順序優先順序 {#segmentation-order-priority}
 
 瞭解&#x200B;**訂單**&#x200B;如何設定分段中人員評估的優先順序很重要。
 
 >[!PREREQUISITES]
 >
 >[建立分段](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->&#x200B;>[定義區段規則](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
+>>[定義區段規則](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
 
 >[!NOTE]
 >

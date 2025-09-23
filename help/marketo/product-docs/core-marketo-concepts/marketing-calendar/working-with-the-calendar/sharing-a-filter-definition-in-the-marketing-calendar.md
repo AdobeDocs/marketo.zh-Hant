@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147304
 description: 在行銷行事曆中共用篩選器定義 — Marketo檔案 — 產品檔案
-title: 共用行銷行事曆中的篩選器定義
+title: 在行銷行事曆中共用篩選器定義
 exl-id: 3429edba-fdb1-43e9-82ff-01b952036526
 feature: Marketing Calendar
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '107'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
-# 共用行銷行事曆中的篩選器定義 {#sharing-a-filter-definition-in-the-marketing-calendar}
+# 在行銷行事曆中共用篩選器定義 {#sharing-a-filter-definition-in-the-marketing-calendar}
 
 不同使用者可以共用篩選器。
 

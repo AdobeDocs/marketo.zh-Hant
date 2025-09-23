@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4720810
 description: Google中的個人化再行銷 — Marketo檔案 — 產品檔案
-title: Google中的個人化再行銷
+title: Google 中的個人化再行銷
 exl-id: cc733f43-161d-41e4-afdf-8b5217700810
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '225'
-ht-degree: 2%
+ht-degree: 6%
 
 ---
 
-# Google中的個人化再行銷 {#personalized-remarketing-in-google}
+# Google 中的個人化再行銷 {#personalized-remarketing-in-google}
 
 個人化再行銷可讓您利用RTP資料和Google Analytics的強大功能，並透過Google顯示網路觸及範圍，重新與使用者互動。
 
@@ -34,7 +34,7 @@ ht-degree: 2%
 
    ![](assets/image2015-1-15-17-3a32-3a4.png)
 
-1. 在對象產生器中，按一下&#x200B;**[!UICONTROL Sequences]**、**[!UICONTROL Find the RTP Data]**、[!UICONTROL Custom Dimensions]下的[!UICONTROL UICONTROL [ !] Custom Variables]和[!UICONTROL Events]。
+1. 在對象產生器中，按一下&#x200B;**[!UICONTROL Sequences]**、**[!UICONTROL Find the RTP Data]**、[!UICONTROL Custom Dimensions]下的[!UICONTROL [!]UICONTROL Custom Variables]和[!UICONTROL Events]。
 
 >[!TIP]
 >
@@ -66,7 +66,7 @@ ht-degree: 2%
 ![](assets/image2015-1-15-17-3a36-3a5.png)
 
 1. 按一下「**[!UICONTROL Sequences]**」。
-1. 選擇「**[!UICONTROL RTP-Industry]**」。
+1. 選取「**[!UICONTROL RTP-Industry]**」。
 1. 輸入&#x200B;**產業名稱** （例如[!UICONTROL Financial Services]，[!UICONTROL Education]...）。
 1. 按一下「**[!UICONTROL Apply]**」。
 1. 輸入&#x200B;**[!UICONTROL Audience Name]**。 按一下「**[!UICONTROL Save]**」。

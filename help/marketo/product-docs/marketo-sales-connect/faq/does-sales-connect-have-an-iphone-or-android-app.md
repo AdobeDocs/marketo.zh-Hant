@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352507
-description: Sales Connect有iPhone或Android應用程式嗎？ - Marketo檔案 — 產品檔案
-title: Sales Connect有iPhone或Android應用程式嗎？
+description: Sales Connect有iPhone或Android應用程式嗎？ - Marketo 文件 - 產品文件
+title: Sales Connect 是否有 iPhone 或 Android 應用程式？
 exl-id: 94f1106a-69fe-44ea-bb57-beba51cee576
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '49'
-ht-degree: 0%
+ht-degree: 26%
 
 ---
 

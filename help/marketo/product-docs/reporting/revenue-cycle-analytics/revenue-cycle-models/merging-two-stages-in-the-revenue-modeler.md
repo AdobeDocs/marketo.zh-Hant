@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718685
 description: 在收入Modeler - Marketo檔案 — 產品檔案中合併兩個階段
-title: 在收入Modeler中合併兩個階段
+title: 在收入建模工具中合併兩個階段
 exl-id: d4798f50-5c3e-469f-b3ae-0a7e6977a116
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '99'
-ht-degree: 1%
+ht-degree: 15%
 
 ---
 
-# 在收入Modeler中合併兩個階段 {#merging-two-stages-in-the-revenue-modeler}
+# 在收入建模工具中合併兩個階段 {#merging-two-stages-in-the-revenue-modeler}
 
 核准模型後，您便無法在編輯草稿時刪除階段。 您可以將該階段與另一個階段合併。
 

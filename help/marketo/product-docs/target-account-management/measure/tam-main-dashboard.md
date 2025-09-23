@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11380783
 description: TAM主要控制面板 — Marketo檔案 — 產品檔案
-title: TAM主要儀表板
+title: TAM 主儀表板
 exl-id: f550dd99-f5b1-4d75-9e11-d9791043baea
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '108'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# TAM主要儀表板 {#tam-main-dashboard}
+# TAM 主儀表板 {#tam-main-dashboard}
 
 主要儀表板提供您[!UICONTROL Target Account Management]努力的摘要。 您可以看到顯示成功的目標帳戶或帳戶清單，以及需要更多注意的帳戶或帳戶清單。
 

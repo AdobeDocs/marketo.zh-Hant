@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10100311
 description: 使用通用ID進行訂閱登入 — Marketo檔案 — 產品檔案
-title: 使用通用ID進行訂閱登入
+title: 使用通用 ID 進行訂閱登入
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 feature: Administration
-source-git-commit: 5a8ea3c5356cb370b4e502b23eea8a457bfc97f1
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '569'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 使用通用ID進行訂閱登入 {#using-a-universal-id-for-subscription-login}
+# 使用通用 ID 進行訂閱登入 {#using-a-universal-id-for-subscription-login}
 
 通用ID可讓您透過單一登入存取多個Marketo訂閱，並在訂閱之間快速切換。 不過，您可以視需求對訂閱使用不同的登入。
 

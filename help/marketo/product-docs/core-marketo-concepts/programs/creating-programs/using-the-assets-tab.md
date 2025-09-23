@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147124
 description: 使用Assets標籤 — Marketo檔案 — 產品檔案
-title: 使用Assets標籤
+title: 使用資產索引標籤
 exl-id: 7e7679bb-f83d-4b7f-adfb-2733259eeac2
 feature: Programs
-source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 0%
+source-wordcount: '136'
+ht-degree: 8%
 
 ---
 
-# 使用Assets標籤 {#using-the-assets-tab}
+# 使用資產索引標籤 {#using-the-assets-tab}
 
 資產畫布是預設或事件程式的視覺化表示法。 您可以使用它來新增本機資產，以及與現有資產互動。
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 當您的程式中有資產時，您會在此處看到這些資產。
 
-| 橙色 | 觸發行銷活動 |
+| 橙色 | 觸發程序行銷活動 |
 |---|---|
 | 綠色 | 批次行銷活動 |
 

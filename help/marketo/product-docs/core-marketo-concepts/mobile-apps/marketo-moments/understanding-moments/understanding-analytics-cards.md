@@ -1,17 +1,17 @@
 ---
 unique-page-id: 8781988
 description: 瞭解Analytics卡片 — Marketo檔案 — 產品檔案
-title: 瞭解Analytics卡片
+title: 了解分析卡片
 exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '260'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 瞭解Analytics卡片 {#understanding-analytics-cards}
+# 了解分析卡片 {#understanding-analytics-cards}
 
 每個月初，「Marketo時刻」會提供三種不同的報表卡片： [!UICONTROL Acquired Leads]、[!UICONTROL New Leads]和[!UICONTROL Unsubscribes]。 每個報表會顯示六個月的每月績效和趨勢。
 

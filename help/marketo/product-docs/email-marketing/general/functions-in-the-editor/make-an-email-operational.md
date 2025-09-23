@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147354
 description: 讓電子郵件可正常運作 — Marketo檔案 — 產品檔案
-title: 讓電子郵件運作正常
+title: 讓電子郵件可供操作
 exl-id: e36c6a7b-2c50-4d9f-9e6d-0828ab3af5a8
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '155'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 讓電子郵件運作正常 {#make-an-email-operational}
+# 讓電子郵件可供操作 {#make-an-email-operational}
 
 營運電子郵件會忽略取消訂閱和行銷暫停狀態。 它們也不受通訊限制的約束。 他們無論如何都會傳送。
 

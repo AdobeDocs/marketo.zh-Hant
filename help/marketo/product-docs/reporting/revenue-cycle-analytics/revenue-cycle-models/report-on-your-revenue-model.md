@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360429
 description: 收入模型報表 — Marketo檔案 — 產品檔案
-title: 收入模型報表
+title: 報告您的收入模型
 exl-id: a9abbfcb-b4ee-402c-9092-c2e0d388f7a4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# 收入模型報表 {#report-on-your-revenue-model}
+# 報告您的收入模型 {#report-on-your-revenue-model}
 
 對於每個收入週期模型，您可以產生每個階段中潛在客戶數量的報告。
 

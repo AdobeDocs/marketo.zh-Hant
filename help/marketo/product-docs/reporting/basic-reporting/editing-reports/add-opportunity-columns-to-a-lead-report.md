@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2360018
 description: 將機會欄新增至銷售機會報表 — Marketo檔案 — 產品檔案
-title: 新增商機欄位至銷售機會報表
+title: 新增機會欄至商機報告
 exl-id: 446befcd-a2fe-478b-9f36-288a6a31adbd
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '240'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# 新增商機欄位至銷售機會報表 {#add-opportunity-columns-to-a-lead-report}
+# 新增機會欄至商機報告 {#add-opportunity-columns-to-a-lead-report}
 
 若要檢視個人報表中機會的統計資料，您可以新增機會欄。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**&#x200B;區域。
+1. 前往「**[!UICONTROL Marketing Activities]**」區域。
 
    ![](assets/ma.png)
 

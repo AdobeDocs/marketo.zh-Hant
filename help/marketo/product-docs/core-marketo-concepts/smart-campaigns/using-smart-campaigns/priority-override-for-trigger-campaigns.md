@@ -1,16 +1,16 @@
 ---
 description: 觸發器行銷活動的優先順序覆寫 — Marketo檔案 — 產品檔案
-title: 觸發器行銷活動的優先順序覆寫
+title: 觸發程序行銷活動的優先順序覆寫
 exl-id: cf9b4d27-0e4c-40cf-accd-4f4a102160cc
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '222'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 觸發器行銷活動的優先順序覆寫 {#priority-override-for-trigger-campaigns}
+# 觸發程序行銷活動的優先順序覆寫 {#priority-override-for-trigger-campaigns}
 
 管理員可以覆寫Marketo Engage為觸發行銷活動決定的優先順序，以設定更符合業務目標的優先順序。
 

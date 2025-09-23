@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4720856
 description: 為您的自由表單登陸頁面新增行動裝置檢視 — Marketo檔案 — 產品檔案
-title: 為您的自由表單登陸頁面新增行動裝置檢視
+title: 新增自由格式登陸頁面的行動裝置視圖
 exl-id: 1fc9689f-a39c-4ab4-9b03-0953fe229a8c
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '126'
-ht-degree: 2%
+ht-degree: 16%
 
 ---
 
-# 為您的自由表單登陸頁面新增行動裝置檢視 {#add-a-mobile-view-for-your-free-form-landing-page}
+# 新增自由格式登陸頁面的行動裝置視圖 {#add-a-mobile-view-for-your-free-form-landing-page}
 
 讓您的自由格式登陸頁面在智慧型手機上看起來很棒，非常容易。
 

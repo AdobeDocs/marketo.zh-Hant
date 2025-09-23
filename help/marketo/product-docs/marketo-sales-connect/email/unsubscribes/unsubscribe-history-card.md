@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14746184
 description: 取消訂閱歷程卡 — Marketo檔案 — 產品檔案
-title: 取消訂閱歷程記錄卡
+title: 取消訂閱歷史記錄卡片
 exl-id: ae44552d-7f9e-4f5c-bb22-62c55b63f3e6
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '139'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 取消訂閱歷程記錄卡 {#unsubscribe-history-card}
+# 取消訂閱歷史記錄卡片 {#unsubscribe-history-card}
 
 [!UICONTROL Unsubscribe History]卡片可協助管理員和使用者取得有關其連絡人取消訂閱歷程記錄的內容資訊。
 

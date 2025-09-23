@@ -3,7 +3,7 @@ description: 許可權 — Marketo檔案 — 產品檔案
 title: 權限
 feature: Dynamic Chat
 exl-id: 06798ac4-636b-476e-bbb1-498062844406
-source-git-commit: 38e1e2d8c2fef7163f77d7774837571008075b5f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '712'
 ht-degree: 4%
@@ -12,7 +12,7 @@ ht-degree: 4%
 
 # 權限 {#permissions}
 
-共有五個預設設定檔具有預先定義的許可權，您可以在Dynamic Chat中編輯。 您也可以建立具有自訂許可權集的自訂設定檔。 我們來看看這兩個。
+在Dynamic Chat中有五個預設設定檔具有預先定義的許可權，您可以加以編輯。 您也可以建立具有自訂許可權集的自訂設定檔。 我們來看看這兩個。
 
 ## 編輯現有許可權 {#edit-existing-permissions}
 
@@ -84,10 +84,10 @@ ht-degree: 4%
     <td>交談管理</td>
     <td><li>檢視對話方塊</li>
     <li>管理對話方塊（建立、刪除）</li>
-    <li>Publish對話方塊</li>
+    <li>發佈對話方塊</li>
     <li>檢視對話流程</li>
     <li>管理對話流程（建立、刪除）</li>
-    <li>Publish對話流程</li></td>
+    <li>發佈交談流程</li></td>
   </tr>
   <tr>
     <td>即時聊天</td>
@@ -99,14 +99,14 @@ ht-degree: 4%
     <td><li>管理所有會議</li>
   </tr>
   <tr>
-    <td>Analytics</td>
+    <td>分析</td>
     <td><li>檢視全域效能報表</li>
     <li>檢視即時聊天報告</li>
     <li>檢視會議報告</li>
     <li>匯出報告</li></td>
   </tr>
   <tr>
-    <td>專員設定</td>
+    <td>代理人設定</td>
     <td><li>管理即時聊天可用性</li>
     <li>連線您的行事曆</li>
     <li>管理行事曆可用性</li></td>
@@ -140,7 +140,7 @@ ht-degree: 4%
 <table>
 <thead>
   <tr>
-    <th style="width:25%">設定檔</th>
+    <th style="width:25%">輪廓</th>
     <th>預設許可權</th>
   </tr>
 </thead>
@@ -150,10 +150,10 @@ ht-degree: 4%
     <td><i>交談管理</i>
     <li>檢視對話方塊</li>
     <li>管理對話方塊（建立、刪除）</li>
-    <li>Publish對話方塊</li>
+    <li>發佈對話方塊</li>
     <li>檢視對話流程</li>
     <li>管理對話流程（建立、刪除）</li>
-    <li>Publish對話流程</li>
+    <li>發佈交談流程</li>
     <br>
     <i>即時交談</i>
     <li>不適用</li>
@@ -238,10 +238,10 @@ ht-degree: 4%
     <td><i>交談管理</i>
     <li>檢視對話方塊</li>
     <li>管理對話方塊（建立、刪除）</li>
-    <li>Publish對話方塊</li>
+    <li>發佈對話方塊</li>
     <li>檢視對話流程</li>
     <li>管理對話流程（建立、刪除）</li>
-    <li>Publish對話流程</li>
+    <li>發佈交談流程</li>
     <br>
     <i>即時交談</i>
     <li>不適用</li>

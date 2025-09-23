@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359798
 description: 新增其他登陸頁面CNAME - Marketo檔案 — 產品檔案
-title: 新增其他登陸頁面CNAME
+title: 新增其他登陸頁面 CNAME
 exl-id: eb5a7f69-552e-49a2-91db-a784f4639cd0
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '221'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 新增其他登陸頁面CNAME {#add-additional-landing-page-cnames}
+# 新增其他登陸頁面 CNAME {#add-additional-landing-page-cnames}
 
 您可能想要新增登陸頁面CNAME，以允許不同的URL指向您的Marketo登陸頁面。 依照下列步驟操作將協助您管理多個網域。
 

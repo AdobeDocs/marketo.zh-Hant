@@ -1,17 +1,17 @@
 ---
 unique-page-id: 37357050
 description: 升級MSI套件 — Marketo檔案 — 產品檔案
-title: 升級MSI封裝
+title: 升級您的 MSI 封裝
 exl-id: 45004990-8452-4824-a9b2-89cd8302fe43
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '260'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 升級MSI封裝 {#upgrading-your-msi-package}
+# 升級您的 MSI 封裝 {#upgrading-your-msi-package}
 
 >[!IMPORTANT]
 >
@@ -27,7 +27,7 @@ ht-degree: 0%
    >
    >建議您在升級生產執行個體之前，先在沙箱執行個體上測試此專案。
 
-1. 您可以選擇「僅供管理員安裝」（並在稍後提供特定設定檔的MSI存取權）、「為所有使用者安裝」或「為特定設定檔安裝」來升級套件。 在此範例中，我們選擇「僅限管理員」。 當您選擇完畢後，請按一下[升級]。**&#x200B;**
+1. 您可以選擇「僅供管理員安裝」（並在稍後提供特定設定檔的MSI存取權）、「為所有使用者安裝」或「為特定設定檔安裝」來升級套件。 在此範例中，我們選擇「僅限管理員」。 當您選擇完畢後，請按一下[升級]。****
 
    ![](assets/four.png)
 

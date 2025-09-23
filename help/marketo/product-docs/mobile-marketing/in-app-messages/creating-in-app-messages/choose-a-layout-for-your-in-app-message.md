@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10100434
 description: 選擇應用程式內訊息的配置 — Marketo檔案 — 產品檔案
-title: 選擇應用程式內訊息的配置
+title: 為應用程式內訊息選擇版面
 exl-id: e36507d1-df04-43ac-9da0-14116db3add6
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '479'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 選擇應用程式內訊息的配置 {#choose-a-layout-for-your-in-app-message}
+# 為應用程式內訊息選擇版面 {#choose-a-layout-for-your-in-app-message}
 
 Marketo提供六種版面來建置應用程式內訊息。
 

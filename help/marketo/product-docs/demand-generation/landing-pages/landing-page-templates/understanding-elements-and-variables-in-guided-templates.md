@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7515069
 description: 瞭解引導式範本中的元素和變數 — Marketo檔案 — 產品檔案
-title: 瞭解引導式範本中的元素和變數
+title: 了解引導式範本中的元素和變數
 exl-id: c25c8b2b-d596-46f7-a570-b4a5cb5957a6
 feature: Landing Pages
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '189'
-ht-degree: 2%
+ht-degree: 10%
 
 ---
 
-# 瞭解引導式範本中的元素和變數 {#understanding-elements-and-variables-in-guided-templates}
+# 了解引導式範本中的元素和變數 {#understanding-elements-and-variables-in-guided-templates}
 
 引導式登入頁面範本有兩種型別的可編輯區段：元素和變數。
 

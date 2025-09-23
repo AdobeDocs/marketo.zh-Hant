@@ -1,16 +1,16 @@
 ---
 description: 授予Marketo存取權給使用者 — Marketo檔案 — 產品檔案
-title: 授予使用者存取Marketo的許可權
+title: 授予使用者 Marketo 存取權
 exl-id: 0efb3e85-cc75-4810-bc67-05127f44e012
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '199'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# 授予使用者存取Marketo的許可權 {#grant-marketo-access-to-users}
+# 授予使用者 Marketo 存取權 {#grant-marketo-access-to-users}
 
 請依照本文的步驟操作，授與您的[!DNL Sales Insight Actions]使用者存取Marketo連線的許可權。 這將可解鎖「即時摘要」中「有趣時刻」等功能以及行銷活動的存取權。
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 
    ![](assets/grant-marketo-access-to-users-2.png)
 
-1. 按一下「**[!UICONTROL User Access]**」標籤。 選取一或多個使用者，然後按一下&#x200B;**[!UICONTROL Connect]**。
+1. 按一下「**[!UICONTROL User Access]**」索引標籤。選取一或多個使用者，然後按一下&#x200B;**[!UICONTROL Connect]**。
 
    ![](assets/grant-marketo-access-to-users-3.png)
 

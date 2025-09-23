@@ -4,14 +4,14 @@ description: SFDC同步 — 銷售機會同步 — Marketo檔案 — 產品檔�
 title: SFDC同步 — 銷售機會同步
 exl-id: cf38e091-7344-4b95-b9e1-77eda751c4a9
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '230'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# SFDC同步：銷售機會同步 {#sfdc-sync-lead-sync}
+# SFDC 同步：商機同步 {#sfdc-sync-lead-sync}
 
 您知道來自[!DNL Salesforce]資料庫的Marketo同步嗎？ 它會同步、等待5分鐘，然後再次同步。 一整天，每天。 以下是Marketo如何特別處理[!DNL Salesforce]潛在客戶的一些詳細資料。
 

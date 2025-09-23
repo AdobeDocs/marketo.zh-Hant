@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7516390
 description: 在Marketo AppExchange中安裝Salesforce銷售Insight套件 — Marketo檔案 — 產品檔案
-title: 在Salesforce AppExchange中安裝Marketo Sales Insight套件
+title: 在 Salesforce AppExchange 中安裝 Marketo 銷售洞察封裝
 exl-id: d0c54d6a-e9d5-4ddb-8679-873b61375a82
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '211'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 

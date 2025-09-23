@@ -4,7 +4,7 @@ description: 推送至 [!DNL Sales Connect] - Marketo檔案 — 產品檔案
 title: 推送至 [!DNL Sales Connect]
 exl-id: 8fb99d28-d6c6-47c3-b4d2-c416251aff47
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 2%
@@ -29,8 +29,8 @@ ht-degree: 2%
 1. 切換至[!DNL Sales Connect]按鈕旁的清單檢視，您要推送至[!UICONTROL Go]。
 1. 按一下「**[!UICONTROL Go]**」。
 1. 選取您要推播到推播的所有潛在客戶/連絡人。
-1. 選擇「**[!UICONTROL Push to MSE]**」。
-1. 隨後會出現新視窗，驗證您要推播的潛在客戶/聯絡人數量。 選擇「**[!UICONTROL Proceed to Group]**」。[!DNL Sales Connect]不會推播任何在[!UICONTROL Email Opt Out]中標示為[!DNL Salesforce]或在[!UICONTROL Unsubscribed]中標示為[!DNL Sales Connect]的連絡人。
+1. 選取「**[!UICONTROL Push to MSE]**」。
+1. 隨後會出現新視窗，驗證您要推播的潛在客戶/聯絡人數量。 選取「**[!UICONTROL Proceed to Group]**」。[!DNL Sales Connect]不會推播任何在[!UICONTROL Email Opt Out]中標示為[!DNL Salesforce]或在[!UICONTROL Unsubscribed]中標示為[!DNL Sales Connect]的連絡人。
 
    >[!NOTE]
    >

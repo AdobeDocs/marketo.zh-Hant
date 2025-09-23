@@ -4,14 +4,14 @@ description: 達人/挑戰者 — 宣告達人 — Marketo檔案 — 產品檔�
 title: 冠軍/挑戰者 — 宣告冠軍
 exl-id: 04686934-6b6e-407f-8e50-bbf75139e367
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 冠軍/挑戰者：宣告冠軍 {#champion-challenger-declare-a-champion}
+# 衛冕者/挑戰者：宣告衛冕者 {#champion-challenger-declare-a-champion}
 
 準備就緒後，您可以為電子郵件測試宣告擁護者。
 

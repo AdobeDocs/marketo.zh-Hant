@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360315
 description: 建立人員資料分割 — Marketo檔案 — 產品檔案
-title: 建立個人資料分割
+title: 建立人員分割
 exl-id: 097fd314-c3e1-4123-af47-2f7e53a658e3
 feature: Partitions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '66'
-ht-degree: 1%
+ht-degree: 19%
 
 ---
 
-# 建立個人資料分割 {#create-a-person-partition}
+# 建立人員分割 {#create-a-person-partition}
 
 按照以下步驟建立新的人員分割。
 
@@ -23,7 +23,7 @@ ht-degree: 1%
 >
 >透過[瞭解Workspace和Person Partitions](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)先瞭解。
 
-1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/create-a-person-partition-1.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147257
 description: 瀏覽行銷行事曆 — Marketo檔案 — 產品檔案
-title: 瀏覽行銷行事曆
+title: 導覽行銷行事曆
 exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
 feature: Marketing Calendar
-source-git-commit: afdf59729f16d27a548fa60a8156c941be54a8a7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 0%
+source-wordcount: '168'
+ht-degree: 6%
 
 ---
 
-# 瀏覽行銷行事曆 {#navigating-the-marketing-calendar}
+# 導覽行銷行事曆 {#navigating-the-marketing-calendar}
 
 瀏覽行銷行事曆很容易。 方法如下。
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## 在模式之間變更 {#change-between-modes}
 
-1. 按一下&#x200B;**[!UICONTROL 3週]**&#x200B;或&#x200B;**[!UICONTROL 月]**&#x200B;索引標籤，以切換模式。
+1. 按一下&#x200B;**[!UICONTROL 3 weeks]**&#x200B;或&#x200B;**[!UICONTROL Month]**&#x200B;索引標籤以切換模式。
 
    ![](assets/image2014-9-15-16-3a46-3a16.png)
 
@@ -41,11 +41,11 @@ ht-degree: 0%
 
 議程檢視會將您所有的專案顯示為清單。
 
-1. 按一下&#x200B;**[!UICONTROL 篩選器]**&#x200B;下拉式清單。
+1. 按一下&#x200B;**[!UICONTROL Filter]**&#x200B;下拉式清單。
 
    ![](assets/image2014-9-26-10-3a29-3a6.png)
 
-1. 選取&#x200B;**[!UICONTROL 議程]**&#x200B;檢視。
+1. 選取&#x200B;**[!UICONTROL Agenda]**&#x200B;檢視。
 
    ![](assets/image2014-9-26-10-3a29-3a36.png)
 

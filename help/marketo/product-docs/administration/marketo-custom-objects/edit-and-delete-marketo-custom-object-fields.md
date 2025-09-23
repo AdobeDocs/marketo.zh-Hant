@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10095453
 description: 編輯和刪除Marketo自訂物件欄位 — Marketo檔案 — 產品檔案
-title: 編輯和刪除Marketo自訂物件欄位
+title: 編輯和刪除 Marketo 自訂物件欄位
 exl-id: 42fb7a24-0669-440b-a15e-3b8f0f4c5105
 feature: Custom Objects
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# 編輯和刪除Marketo自訂物件欄位 {#edit-and-delete-marketo-custom-object-fields}
+# 編輯和刪除 Marketo 自訂物件欄位 {#edit-and-delete-marketo-custom-object-fields}
 
 ## 編輯欄位 {#edit-a-field}
 

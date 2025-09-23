@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359669
 description: 啟動和停用串流內容 — Marketo檔案 — 產品檔案
-title: 啟用和停用串流內容
+title: 啟用和停用資料流內容
 exl-id: cd5acec0-13aa-491e-b4ee-1db3d66a5056
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '127'
-ht-degree: 1%
+ht-degree: 9%
 
 ---
 
-# 啟用和停用串流內容 {#activate-and-deactivate-stream-content}
+# 啟用和停用資料流內容 {#activate-and-deactivate-stream-content}
 
 串流內容預設為「關閉」。 啟用內容以在參與鑄造期間傳送它們。
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359592
 description: 重新排序表單中的欄位 — Marketo檔案 — 產品檔案
-title: 重新排序表單中的欄位
+title: 重新排列表單中的欄位
 exl-id: 62846099-f925-44d6-8ff3-d9fffd2816b9
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '70'
-ht-degree: 2%
+ht-degree: 20%
 
 ---
 
-# 重新排序表單中的欄位 {#reorder-fields-in-a-form}
+# 重新排列表單中的欄位 {#reorder-fields-in-a-form}
 
 在Marketo表單上重新排序欄位很容易。 方法如下。
 

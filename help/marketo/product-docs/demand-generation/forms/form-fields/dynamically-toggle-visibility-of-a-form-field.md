@@ -4,10 +4,10 @@ description: 動態切換表單欄位的可見度 — Marketo檔案 — 產品�
 title: 動態切換表單欄位的可見度
 exl-id: 51b9283d-bfa1-4535-89ba-96c0ae2ea909
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '233'
-ht-degree: 2%
+ht-degree: 8%
 
 ---
 
@@ -69,6 +69,6 @@ Marketo表單的一個很酷的功能是您可以動態隱藏/顯示表單欄位
 
 >[!IMPORTANT]
 >
->使用Forms 2.0中的[API函式](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"}透過自訂指令碼設定/更新欄位值時，表單欄位行為將順暢運作。
+>使用Forms 2.0中的[API函式](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"}透過自訂指令碼設定/更新欄位值時，表單欄位行為將順暢運作。
 >
 >如果欄位值是由Forms 2.0 JavaScript API以外的外部指令碼修改，則條件欄位可能會無法如預期運作。

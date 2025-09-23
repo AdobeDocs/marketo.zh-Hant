@@ -1,16 +1,16 @@
 ---
 description: 通話結果 — Marketo檔案 — 產品檔案
-title: 呼叫結果
+title: 通話結果
 exl-id: 0166c6fa-70d3-45ea-9138-f2d2c4c28b41
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '180'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 呼叫結果 {#call-outcomes}
+# 通話結果 {#call-outcomes}
 
 讓您的銷售團隊在進行通話時選取通話結果，以便您的團隊瞭解客戶參與工作的影響。
 

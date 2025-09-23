@@ -4,14 +4,14 @@ description: 發行說明–2016年春季 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2016年春季
 exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
 feature: Release Information
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '786'
 ht-degree: 0%
 
 ---
 
-# 發行說明： 2016年春季 {#release-notes-spring}
+# 發行說明：2016 年春季 {#release-notes-spring}
 
 以下功能包含在2016年春季發行版本中。 請按一下標題連結以檢視每個功能的詳細文章。
 

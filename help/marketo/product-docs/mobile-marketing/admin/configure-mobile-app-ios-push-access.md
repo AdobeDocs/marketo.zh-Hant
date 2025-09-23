@@ -1,23 +1,23 @@
 ---
 unique-page-id: 7512434
 description: 設定行動應用程式iOS推送存取權 — Marketo檔案 — 產品檔案
-title: 設定行動應用程式iOS推送存取權
+title: 設定行動應用程式 iOS 推播存取權
 exl-id: d8c54232-3df2-4e25-ab25-3e72aaf49252
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
 
-# 設定行動應用程式iOS推送存取權 {#configure-mobile-app-ios-push-access}
+# 設定行動應用程式 iOS 推播存取權 {#configure-mobile-app-ios-push-access}
 
 1. 按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. 選擇「**[!UICONTROL Mobile Apps]**」。
+1. 選取「**[!UICONTROL Mobile Apps]**」。
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 

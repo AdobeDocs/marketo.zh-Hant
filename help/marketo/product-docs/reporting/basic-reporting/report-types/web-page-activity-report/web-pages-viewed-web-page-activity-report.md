@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360052
 description: 已檢視的網頁、網頁活動報表 — Marketo檔案 — 產品檔案
-title: 已檢視的網頁、網頁活動報表
+title: 被瀏覽的網頁，網頁活動報告
 exl-id: fb061f2a-7741-4ba8-8ae1-a35f24642e93
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '105'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-# 已檢視的網頁、網頁活動報表 {#web-pages-viewed-web-page-activity-report}
+# 被瀏覽的網頁，網頁活動報告 {#web-pages-viewed-web-page-activity-report}
 
 從[[!UICONTROL Web Page Activity]報表](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)，您可以在報表中看到人員檢視的特定頁面。
 

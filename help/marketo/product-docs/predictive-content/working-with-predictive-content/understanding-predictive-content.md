@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11384665
 description: 瞭解預測性內容 — Marketo檔案 — 產品檔案
-title: 瞭解預測性內容
+title: 了解預測內容
 exl-id: 3a8dd077-dc21-4d17-bc85-bb32e009dd94
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '271'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 瞭解預測性內容 {#understanding-predictive-content}
+# 了解預測內容 {#understanding-predictive-content}
 
 在您[核准預測性內容的標題](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)後，請在這裡處理它。 [!UICONTROL Predictive Content]頁面會顯示您已核准用於預測性內容的所有標題。
 

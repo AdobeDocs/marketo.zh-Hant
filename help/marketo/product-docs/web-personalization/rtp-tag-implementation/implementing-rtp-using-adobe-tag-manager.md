@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4720218
 description: 使用Adobe Tag Manager實作RTP - Marketo檔案 — 產品檔案
-title: 使用Adobe Tag Manager實作RTP
+title: 使用 Adobe Tag Manager 實施 RTP
 exl-id: 5a938d02-6b09-45d5-94b0-dbb50b5d62b6
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '176'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# 使用Adobe Tag Manager實作RTP {#implementing-rtp-using-adobe-tag-manager}
+# 使用 Adobe Tag Manager 實施 RTP {#implementing-rtp-using-adobe-tag-manager}
 
 若要實作RTP標籤，請遵循下列安裝指示：
 

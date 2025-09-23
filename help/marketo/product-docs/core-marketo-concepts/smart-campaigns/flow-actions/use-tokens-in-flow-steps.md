@@ -4,10 +4,10 @@ description: 在流程步驟中使用權杖 — Marketo檔案 — 產品檔案
 title: 在流程步驟中使用權杖
 exl-id: 9b4c3d57-5906-4d7c-8215-4ba2271be3f8
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '193'
-ht-degree: 2%
+ht-degree: 10%
 
 ---
 
@@ -21,9 +21,9 @@ ht-degree: 2%
 
 * 變更資料值
 * 變更方案成員資料
-* 精彩時刻
+* 關鍵時刻
 * [!DNL Salesforce]個行銷活動步驟（新增、移除、變更狀態）
-* 建立任務
+* 建立工作
 * 傳送警報（僅限觸發促銷活動）
 
 1. 在流程步驟中，開始輸入`{{`以取得Token類別。

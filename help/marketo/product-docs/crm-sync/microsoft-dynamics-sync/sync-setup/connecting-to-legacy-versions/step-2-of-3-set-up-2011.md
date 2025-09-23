@@ -4,7 +4,7 @@ description: 步驟3之2 — 在 [!DNL Dynamics] 中設定Marketo同步使用者
 title: 步驟3之2 — 在 [!DNL Dynamics] 中設定Marketo同步使用者（2011內部部署）
 exl-id: 807c8902-24a6-48b6-a5c9-96a72764fdef
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 1%
@@ -39,7 +39,7 @@ ht-degree: 1%
 
    ![](assets/image2015-4-2-14-3a3-3a30.png)
 
-1. 選擇「**[!UICONTROL Users]**」。
+1. 選取「**[!UICONTROL Users]**」。
 
    ![](assets/image2015-4-2-14-3a4-3a37.png)
 

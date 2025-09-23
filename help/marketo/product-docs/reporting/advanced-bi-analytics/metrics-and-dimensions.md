@@ -1,22 +1,22 @@
 ---
-description: 度量與維度 - Marketo 檔 - 產品檔
-title: 度量和維度
+description: 量度和維度 — Marketo檔案 — 產品檔案
+title: 量度和維度
 feature: Reporting
 exl-id: 5f348007-ed0d-4900-ba4b-ecc9b935c6d2
-source-git-commit: 90242f8b08b0c4773ae73134d67f571f66730878
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1040'
-ht-degree: 5%
+ht-degree: 7%
 
 ---
 
-# 度量和維度 {#metrics-and-dimensions}
+# 量度和維度 {#metrics-and-dimensions}
 
-以下是收入週期分析報表可用的所有量度和維度。
+在下方，您會找到Revenue Cycle Explorer分析報表可用的所有量度和維度。
 
 >[!TIP]
 >
->如果任何表格看起來太窄，您可以通過按兩下此頁面頂部的向左 （![](assets/icon-left-arrow.png)） 和向右 （![](assets/icon-right-arrow.png)） 箭頭來展開視圖，同時摺疊左側和右側邊欄。
+>如果有任何表格看起來太窄，您可以按一下指向此頁面頂端的左(![](assets/icon-left-arrow.png))和右(![](assets/icon-right-arrow.png))箭頭，收合左右邊欄，以展開檢視。
 
 ## 維度和測量 {#dimensions-and-measures}
 
@@ -64,15 +64,15 @@ ht-degree: 5%
       </td>
       <td>
         <ul>
-          <li>度量 （M）</li>
+          <li>測量(M)</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>銷售機會分析</td>
+      <td>潛在客戶分析</td>
       <td>
         <ul>
-          <li>銷售機會已建立時間範圍</li>
+          <li>潛在客戶建立時間範圍</li>
           <li>機會建立時間範圍</li>
         </ul>
       </td>
@@ -130,13 +130,13 @@ ht-degree: 5%
       </td>
       <td>
         <ul>
-          <li>從管理員 RCA &gt;→潛在客戶屬性</li>
+          <li>從「管理員&gt; RCA」→取潛在客戶屬性</li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>關於階段的測量（m）</li>
-          <li>階段之間的度量 （m）</li>
+          <li>關於階段(M)的測量</li>
+          <li>階段之間的測量(M)</li>
         </ul>
       </td>
     </tr>
@@ -145,13 +145,13 @@ ht-degree: 5%
       <td>
         <ul>
           <li>潛在客戶建立時間範圍</li>
-          <li>機會已創造時間範圍</li>
-          <li>商機結束時間範圍</li>
+          <li>機會建立時間範圍</li>
+          <li>機會關閉時間範圍</li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>ABM 帳戶屬性</li>
+          <li>ABM帳戶屬性</li>
           <li>公司屬性</li>
           <li>潛在客戶屬性</li>
           <li>機會屬性</li>
@@ -162,12 +162,12 @@ ht-degree: 5%
         <ul>
           <li>自訂公司屬性</li>
           <li>自訂銷售機會屬性</li>
-          <li>自定義機會屬性</li>
+          <li>自訂機會屬性</li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>度量 （M）</li>
+          <li>測量(M)</li>
         </ul>
       </td>
     </tr>
@@ -209,8 +209,8 @@ ht-degree: 5%
           <li>計畫狀態屬性</li>
           <li>公司屬性</li>
           <li>潛在客戶屬性</li>
-          <li>ABM 帳戶屬性</li>
-          <li>程序標記</li>
+          <li>ABM帳戶屬性</li>
+          <li>計畫標籤</li>
         </ul>
       </td>
       <td>
@@ -222,22 +222,22 @@ ht-degree: 5%
       <td>
         <ul>
           <li>計畫會籍測量(M)</li>
-          <li>計劃成功度量 （M）</li>
-          <li>計劃狀態措施（M）</li>
+          <li>計畫成功標準(M)</li>
+          <li>程式狀態測量(M)</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>計劃機會分析</td>
+      <td>計畫機會分析</td>
       <td>
         <ul>
           <li>機會時間範圍</li>
-          <li>計劃成本時間範圍</li>
+          <li>方案成本時間範圍</li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>程序屬性</li>
+          <li>計畫屬性</li>
           <li>機會屬性</li>
           <li>計畫標籤</li>
         </ul>
@@ -264,13 +264,13 @@ ht-degree: 5%
         <ul>
           <li>模型屬性</li>
           <li>計畫屬性</li>
-          <li>程序標記</li>
+          <li>計畫標籤</li>
         </ul>
       </td>
       <td> </td>
       <td>
         <ul>
-          <li>舞台會員 （M）</li>
+          <li>階段會籍(M)</li>
         </ul>
       </td>
     </tr>
@@ -288,8 +288,8 @@ ht-degree: 5%
       <th>潛在客戶屬性</th>
       <th>公司屬性</th>
       <th>機會屬性</th>
-      <th>程序屬性</th>
-      <th>節目狀態屬性</th>
+      <th>計畫屬性</th>
+      <th>計畫狀態屬性</th>
       <th>ABM帳戶屬性</th>
       <th>模型屬性</th>
       <th>機會角色</th>
@@ -299,25 +299,25 @@ ht-degree: 5%
           <ul>
             <li>電子郵件名稱</li>
             <li>電子郵件主旨</li>
-            <li>寄件者位址</li>
+            <li>電子郵件寄件者地址</li>
             <li>電子郵件範本</li>
             <li>電子郵件連結</li>
           </ul>
       </td>
       <td>
           <ul>
-            <li>收購計劃</li>
+            <li>贏取方案</li>
             <li>列入黑名單</li>
-            <li>轉化為商機</li>
+            <li>已轉換為商機</li>
             <li>請勿來電</li>
             <li>全名</li>
             <li>職稱</li>
-            <li>行銷活動已暫停</li>
+            <li>行銷活動暫停</li>
             <li>原始來源資訊</li>
             <li>原始來源類型</li>
             <li>潛在客戶分割</li>
-            <li>註冊來源類型</li>
-            <li>退訂</li>
+            <li>註冊Source型別</li>
+            <li>已取消訂閱</li>
             <li>電子郵件地址</li>
             <li>電子郵件無效</li>
             <li>潛在客戶擁有者電子郵件地址</li>
@@ -343,16 +343,16 @@ ht-degree: 5%
       </td>
       <td>
           <ul>
-            <li>（FT） 機會關閉前</li>
+            <li>(FT)商機結束前</li>
             <li>(FT)商機建立前</li>
             <li>行銷影響</li>
             <li>(MT)商機結束前</li>
             <li>(MT)建立機會之前</li>
-            <li>機會已結束</li>
+            <li>商機已關閉</li>
             <li>機會預測類別</li>
             <li>機會名稱</li>
             <li>機會階段</li>
-            <li>機會類型</li>
+            <li>機會型別</li>
             <li>機會擁有者名稱</li>
             <li>已贏得的機會</li>
             <li>機會機率(%)</li>
@@ -360,8 +360,8 @@ ht-degree: 5%
       </td>
       <td>
           <ul>
-            <li>節目頻道</li>
-            <li>節目名稱</li>
+            <li>方案頻道</li>
+            <li>方案名稱</li>
           </ul>
       </td>
       <td>
@@ -375,33 +375,33 @@ ht-degree: 5%
           <ul>
             <li>ABM國家</li>
             <li>ABM CRM ID</li>
-            <li>具名帳戶</li>
+            <li>已命名帳戶</li>
           </ul>
       </td>
       <td>MPA_C
         <ul>
-            <li>模型作用中</li>
-            <li>舞臺活動時</li>
+            <li>模型為作用中</li>
+            <li>階段作用中</li>
             <li>在成功路徑上</li>
             <li>為追蹤公司</li>
             <li>模型</li>
             <li>階段</li>
-            <li>舞臺類型</li>
+            <li>階段型別</li>
          </ul>
           <p>
           MPA_L
           <ul>
-            <li>以上所有內容和一些附加內容</li>
-            <li>是直接過渡</li>
-            <li>舞臺是否處於活動狀態（至舞臺）
-            <li>在成功路徑上（進入階段）</li>
-            <li>舞臺類型 （至舞臺）</li>
+            <li>以上及部分其他</li>
+            <li>為直接轉換</li>
+            <li>階段作用中（至階段）
+            <li>成功路徑上（至階段）</li>
+            <li>階段型別（至階段）</li>
           </ul>
       </td>
       <td>
           <ul>
             <li>新增至商機</li>
-            <li>是主要的</li>
+            <li>是主要</li>
             <li>角色</li>
           </ul>
       </td>
@@ -457,21 +457,21 @@ ht-degree: 5%
       </td>
       <td>
           <ul>
-            <li>已傳送 （日期）</li>
-            <li>已傳送 （日期）</li>
-            <li>硬跳出 （日期）</li>
-            <li>開啟 （ 日期 ）</li>
-            <li>點擊 （ 日期）</li>
+            <li>傳送（日期）</li>
+            <li>已傳遞（日期）</li>
+            <li>硬退信（日期）</li>
+            <li>已開啟（日期）</li>
+            <li>已點按（日期）</li>
             <li>已取消訂閱（日期）</li>
             <li>投訴（日期）</li>
           </ul>
       </td>
       <td>
           <ul>
-            <li>已傳送 （星期幾）</li>
-            <li>已傳送 （星期幾）</li>
-            <li>硬跳出 （星期幾）</li>
-            <li>開啟 （星期幾）</li>
+            <li>已傳送（星期）</li>
+            <li>已傳遞（星期）</li>
+            <li>硬跳出（星期）</li>
+            <li>已開啟（星期）</li>
             <li>已點按（星期）</li>
             <li>已取消訂閱（星期）</li>
             <li>投訴（星期幾）</li>
@@ -481,9 +481,9 @@ ht-degree: 5%
           <ul>
             <li>已傳送（小時）</li>
             <li>已傳遞（小時）</li>
-            <li>硬跳出 （一天中的第幾個小時）</li>
-            <li>已開啟 （一天中的某小時）</li>
-            <li>已點按 （一天中的某小時）</li>
+            <li>硬跳出（小時）</li>
+            <li>已開啟（小時）</li>
+            <li>已點按（小時）</li>
             <li>已取消訂閱（小時）</li>
             <li>投訴（小時）</li>
           </ul>
@@ -498,21 +498,21 @@ ht-degree: 5%
   <tbody>
     <tr>
       <th>時間範圍</th>
-      <th>銷售機會已建立時間範圍</th>
-      <th>機會已創造時間範圍</th>
-      <th>商機結束時間範圍</th>
-      <th>計劃成本時間範圍</th>
-      <th>計劃成員資格時間範圍</th>
-      <th>計劃成功時間範圍</th>
-      <th>計劃獲取時間範圍</th>
-      <th>節目狀態時間範圍</th>
+      <th>潛在客戶建立時間範圍</th>
+      <th>機會建立時間範圍</th>
+      <th>機會關閉時間範圍</th>
+      <th>方案成本時間範圍</th>
+      <th>計畫會籍時間範圍</th>
+      <th>計畫成功時間範圍</th>
+      <th>計畫贏取時間範圍</th>
+      <th>方案狀態時間範圍</th>
     </tr>
     <tr>
       <td>
           <ul>
-            <li>年</li>
+            <li>Year</li>
             <li>季度</li>
-            <li>月</li>
+            <li>Month</li>
             <li>週</li>
             <li>日期</li>
           </ul>
@@ -556,7 +556,7 @@ ht-degree: 5%
             <li>會籍年份</li>
             <li>會籍季度</li>
             <li>會籍月份</li>
-            <li>會員周</li>
+            <li>會籍周</li>
             <li>會籍日期</li>
           </ul>
       </td>
@@ -571,18 +571,18 @@ ht-degree: 5%
       </td>
       <td>
         <ul>
-            <li>收購年份</li>
-            <li>收購季度</li>
+            <li>贏取年份</li>
+            <li>贏取季度</li>
             <li>贏取月份</li>
             <li>贏取周</li>
-            <li>獲取日期</li>
+            <li>贏取日期</li>
         </ul>
       </td>
       <td>
           <ul>
             <li>狀態年份</li>
             <li>狀態季度</li>
-            <li>狀態月</li>
+            <li>狀態月份</li>
             <li>狀態周</li>
             <li>狀態日期</li>
           </ul>
@@ -601,28 +601,28 @@ ht-degree: 5%
       <th>電子郵件測量</th>
       <th>潛在客戶測量</th>
       <th>階段相關測量</th>
-      <th>階段之間的度量</th>
+      <th>階段之間的測量</th>
       <th>投資</th>
-      <th>會員/計劃會員措施</th>
+      <th>會籍/方案會籍測量</th>
       <th>成功/方案成功度量</th>
     </tr>
     <tr>
       <td>
         <ul>
             <li>%點按</li>
-            <li>% 點擊開啟</li>
-            <li>% 投訴</li>
-            <li>% 已傳送</li>
-            <li>% 已開啟</li>
+            <li>%點按以開啟</li>
+            <li>%投訴</li>
+            <li>%已傳遞</li>
+            <li>%已開啟</li>
             <li>%已取消訂閱</li>
             <li>已點按</li>
             <li>投訴</li>
             <li>已傳遞</li>
-            <li>硬跳出</li>
-            <li>打開</li>
+            <li>硬退回</li>
+            <li>已開啟</li>
             <li>已傳送</li>
-            <li>不重複點按次數</li>
-            <li>退訂</li>
+            <li>不重複點按</li>
+            <li>已取消訂閱</li>
           </ul>
       </td>
       <td>
@@ -654,25 +654,25 @@ ht-degree: 5%
             <li>平均 年齡</li>
             <li>已合併/已刪除</li>
             <li>SLA到期日</li>
-            <li>SLA 過期</li>
+            <li>SLA已過期</li>
         </ul>
       </td>
       <td>
           <ul>
-            <li>平均過渡 （天）</li>
+            <li>平均轉換（天）</li>
             <li>交談比例（所有型別）</li>
             <li>交談配額（現有）</li>
             <li>交談比例（新）</li>
-            <li>流量</li>
-            <li>流量 （現存）</li>
-            <li>流量 （僅限新）</li>
+            <li>流程</li>
+            <li>流量（現有）</li>
+            <li>流量（僅限新增）</li>
         </ul>
       </td>
       <td>
           <ul>
-            <li>每次會員成本</li>
-            <li>名稱的每次新成本</li>
-            <li>每次成功成本</li>
+            <li>每個成員的成本</li>
+            <li>每個新名稱的成本</li>
+            <li>每次成功的成本</li>
             <li>每次成功的成本（新名稱）</li>
             <li>計畫成本</li>
           </ul>
@@ -724,11 +724,11 @@ ht-degree: 5%
             <li>(FT)成功的機會</li>
             <li>(FT)管道已建立</li>
             <li>(FT)管道已建立 — 仍開啟</li>
-            <li>（英尺）預期收入</li>
-            <li>（英尺）投資收益</li>
-            <li>（英尺）贏得的收入</li>
-            <li>（MT）機會成本</li>
-            <li>（MT）創造的機會</li>
+            <li>(FT)預期營收</li>
+            <li>(FT)投資收益</li>
+            <li>(FT)贏得的收入</li>
+            <li>(MT)機會成本</li>
+            <li>(MT)建立的商機</li>
             <li>(MT)成功的機會</li>
             <li>(MT)管道已建立</li>
             <li>(MT)管道已建立 — 仍然開啟</li>

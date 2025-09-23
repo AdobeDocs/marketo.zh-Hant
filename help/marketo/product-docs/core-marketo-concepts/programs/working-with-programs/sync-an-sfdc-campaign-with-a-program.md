@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147154
 description: 將SFDC行銷活動與程式同步 — Marketo檔案 — 產品檔案
-title: 將SFDC行銷活動與程式同步
+title: 將 SFDC 行銷活動與方案同步
 exl-id: b95be580-c960-4a76-9d43-c7f624f43d03
 feature: Programs
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '163'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
 
-# 將SFDC行銷活動與程式同步 {#sync-an-sfdc-campaign-with-a-program}
+# 將 SFDC 行銷活動與方案同步 {#sync-an-sfdc-campaign-with-a-program}
 
 Marketo Engage可讓您將方案與[!DNL Salesforce]行銷活動同步，以維持兩個系統中的相同人員清單，包括其狀態。 我們開始吧！
 

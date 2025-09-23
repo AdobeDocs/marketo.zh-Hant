@@ -1,31 +1,31 @@
 ---
 unique-page-id: 7514918
 description: 瞭解取消訂閱 — Marketo檔案 — 產品檔案
-title: 瞭解取消訂閱
+title: 了解取消訂閱
 exl-id: 30866dc0-cdac-4e73-8dbf-d4b509012269
 feature: Deliverability
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '221'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
-# 瞭解取消訂閱 {#understanding-unsubscribe}
+# 了解取消訂閱 {#understanding-unsubscribe}
 
 Marketo中實際上有數種不同型別的內建取消訂閱。 它們都由person物件上的欄位表示，就像「名字」一樣。
 
 所有這些欄位都內建在您的Marketo訂閱中。 全都是布林值（核取方塊）型別。 它們可以在Forms或[變更資料值](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)流程步驟中使用。
 
-## 退訂 {#unsubscribed}
+## 已取消訂閱 {#unsubscribed}
 
 這會用於標準取消訂閱頁面。 如果人員核取此方塊，或按一下電子郵件中的取消訂閱連結，將不再收到行銷電子郵件。 但他們會收到[封營運電子郵件](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)。
 
-## 行銷活動已暫停 {#marketing-suspended}
+## 行銷活動暫停 {#marketing-suspended}
 
 使用者設定此欄位，以暫時取消訂閱使用者。 只有手動變更人員或使用變更資料值流程步驟時，他們才能取得此狀態。
 
-## 電子郵件已暫停 {#email-suspended}
+## 電子郵件暫停 {#email-suspended}
 
 硬跳出發生後，此狀態會在24小時內封鎖個人傳送的郵件。 24小時後，該人員將再次變為可郵寄狀態。
 

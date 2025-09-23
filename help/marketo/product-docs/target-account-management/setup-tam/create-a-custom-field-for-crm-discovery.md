@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12978647
 description: 建立CRM Discovery的自訂欄位 — Marketo檔案 — 產品檔案
-title: 建立CRM探索的自訂欄位
+title: 針對 CRM 探索建立自訂欄位
 exl-id: 16e03f6f-e3c2-443c-803e-bf35a346693a
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '115'
-ht-degree: 0%
+ht-degree: 21%
 
 ---
 
-# 建立CRM探索的自訂欄位 {#create-a-custom-field-for-crm-discovery}
+# 針對 CRM 探索建立自訂欄位 {#create-a-custom-field-for-crm-discovery}
 
 新增自訂欄位到帳戶，將它們對應到您的CRM，並使用它們在Marketo中進行CRM帳戶探索。
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/two-4.png)
 
-1. 按一下&#x200B;**[!UICONTROL Object]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Named Account]**。
+1. 按一下「**[!UICONTROL Object]**」下拉式選單，選取「**[!UICONTROL Named Account]**」。
 
    ![](assets/three-3.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/five-3.png)
 
-1. 建立欄位後，從右側的樹狀結構中選取該欄位。 按一下&#x200B;**[!UICONTROL Field Actions]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Map to CRM Field]**。
+1. 建立欄位後，從右側的樹狀結構中選取該欄位。 按一下「**[!UICONTROL Field Actions]**」下拉式選單，選取「**[!UICONTROL Map to CRM Field]**」。
 
    ![](assets/six-2.png)
 

@@ -1,30 +1,30 @@
 ---
 unique-page-id: 10096409
 description: 避免傳送重複內容 — Marketo檔案 — 產品檔案
-title: 避免傳送重複的內容
+title: 避免傳送重複內容
 exl-id: fd7118e8-6e34-4973-8aa5-effb774447fd
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '201'
-ht-degree: 3%
+ht-degree: 7%
 
 ---
 
-# 避免傳送重複的內容 {#avoid-sending-duplicate-content}
+# 避免傳送重複內容 {#avoid-sending-duplicate-content}
 
 您曾收到過相同的電子郵件兩次嗎？ 很煩人，不是嗎？
 
 以下是可注意的七個可能案例和結果，以防止透過參與計畫將相同的訊息傳送給某人兩次。
 
-## 狀況 {#scenarios}
+## 方案 {#scenarios}
 
 | 電子郵件的寄件者 | 此人是否 | 個人收到電子郵件 |
 |---|---|---|
 | 在獨立、獨立、預設程式中的行銷活動 | 不是預設計畫的成員 | 是 |
-| 在獨立、獨立、預設程式中的行銷活動 | 預設方案的成員 | 否 |
-| 從&#x200B;**same** CEE方案中的轉換觸發的預設方案中的行銷活動 | 預設方案的成員 | 否 |
+| 在獨立、獨立、預設程式中的行銷活動 | 預設方案的成員 | 無 |
+| 從&#x200B;**same** CEE方案中的轉換觸發的預設方案中的行銷活動 | 預設方案的成員 | 無 |
 | 從&#x200B;**same** CEE方案中的轉換觸發的預設方案中的行銷活動 | 不是預設計畫的成員 | 是 |
-| 從&#x200B;**不同** CEE方案中的轉換觸發的預設方案中的行銷活動 | 預設方案的成員 | 否 |
+| 從&#x200B;**不同** CEE方案中的轉換觸發的預設方案中的行銷活動 | 預設方案的成員 | 無 |
 | 從&#x200B;**不同** CEE方案中的轉換觸發的預設方案中的行銷活動 | 不是預設計畫的成員 | 是 |
-| 使用智慧資料流的&#x200B;**不同** CEE程式 | 同時是CEE計畫的成員 | 否 |
+| 使用智慧資料流的&#x200B;**不同** CEE程式 | 同時是CEE計畫的成員 | 無 |

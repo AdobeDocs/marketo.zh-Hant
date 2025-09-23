@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352468
 description: 透過CSV匯入連絡人 — Marketo檔案 — 產品檔案
-title: 透過CSV匯入連絡人
+title: 透過 CSV 匯入聯絡人
 exl-id: e1a15e9f-7978-4112-b38d-ab78a4300a5a
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '110'
-ht-degree: 1%
+ht-degree: 9%
 
 ---
 
-# 透過CSV匯入連絡人 {#import-contacts-via-csv}
+# 透過 CSV 匯入聯絡人 {#import-contacts-via-csv}
 
 在[!UICONTROL People]頁面中擁有聯絡人很重要，因為這是我們從中提取的位置，以便自動填寫範本中動態欄位的個人化資訊。 請確定您的CSV中每個連絡人都至少有一個姓名和電子郵件地址，並對應到這些欄位。
 

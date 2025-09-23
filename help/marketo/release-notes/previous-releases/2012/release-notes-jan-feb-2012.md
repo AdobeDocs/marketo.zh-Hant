@@ -4,14 +4,14 @@ description: 發行說明–2012年1月/2月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2012年1月/2月
 exl-id: 4d1ca9b6-e269-4982-9c0c-cf12363feafb
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '432'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 發行說明： 2012年1月/2月 {#release-notes-jan-feb}
+# 發行說明：2012 年 1 月/2 月 {#release-notes-jan-feb}
 
 1月/2月版本包含下列功能。 檢查您的Marketo版本是否有功能可用。 在發行後返回以取得詳細功能檔案的連結。
 
@@ -23,7 +23,7 @@ _適用於Pro和Enterprise版本_
 
 ![](assets/image2014-9-23-9-3a50-3a27.png)
 
-## 分段  {#segmentation}
+## 細分  {#segmentation}
 
 _適用於Pro和Enterprise版本_
 

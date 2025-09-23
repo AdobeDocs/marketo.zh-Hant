@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719400
 description: 在區域中建立新的網頁行銷活動 — Marketo檔案 — 產品檔案
-title: 建立新的In Zone網頁行銷活動
+title: 建立新的特定區塊動態顯示網頁行銷活動
 exl-id: 5cbe80a2-5e20-4e35-a722-b4cb479b4df7
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '673'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 建立新的In Zone網頁行銷活動 {#create-a-new-in-zone-web-campaign}
+# 建立新的特定區塊動態顯示網頁行銷活動 {#create-a-new-in-zone-web-campaign}
 
 網路行銷活動是與特定區段關聯的自訂反應，可以是您網站上的[對話方塊](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)、區域取代、[Widget功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)或電子郵件警示。 「地區」網路促銷活動會根據地區ID將您網站的元素替換為內容或圖形橫幅。
 
@@ -102,11 +102,11 @@ ht-degree: 0%
 
    ![](assets/in-zone-web-campaign-preview.png)
 
-## 複製網站行銷活動 {#clone-a-web-campaign}
+## 原地複製網頁行銷活動 {#clone-a-web-campaign}
 
 請參閱[複製網站行銷活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md)。
 
-## 刪除網站行銷活動 {#delete-a-web-campaign}
+## 刪除網頁行銷活動 {#delete-a-web-campaign}
 
 1. 從網頁行銷活動頁面，按一下您要刪除行銷活動上的&#x200B;**[!UICONTROL Delete]**。
 

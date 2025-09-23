@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359494
 description: 使用「主旨列」A/B測試 — Marketo檔案 — 產品檔案
-title: 使用「主旨列」A/B測試
+title: 使用「主旨行」A/B 測試
 exl-id: 99c2415e-886b-44fa-ba96-5d4ec371753e
 feature: Email Programs, A/B Testing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
 workflow-type: tm+mt
 source-wordcount: '231'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 使用「主旨列」A/B測試 {#use-subject-line-a-b-testing}
+# 使用「主旨行」A/B 測試 {#use-subject-line-a-b-testing}
 
 您可以輕鬆對電子郵件進行A/B測試。 最常見的測試之一是&#x200B;**[!UICONTROL Subject Line]**&#x200B;測試。
 

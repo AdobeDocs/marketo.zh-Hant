@@ -4,14 +4,14 @@ description: 發行說明 — 2013年9月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2013年9月
 exl-id: 43428813-0405-4c35-9165-f189fbb5ffb7
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '485'
 ht-degree: 0%
 
 ---
 
-# 發行說明： 2013年9月 {#release-notes-september}
+# 發行說明：2013 年 9 月 {#release-notes-september}
 
 9月版本中包括下列功能。
 
@@ -69,7 +69,7 @@ Explicit設定只會檢查具有角色（目前行為）的連絡人。 隱含�
 
 ## [!UICONTROL Sales Insight]提供法文和德文版（僅限[!DNL Salesforce]） {#sales-insight-available-in-french-and-german-salesforce-only}
 
-從[!DNL AppExchange]下載最新版的Marketo銷售機會管理和Marketo [!UICONTROL Sales Insight]，讓您的法文和德文銷售人員可以他們的慣用語言看到[!UICONTROL Sales Insight]內容。
+從[!UICONTROL Sales Insight]下載最新版的Marketo銷售機會管理和Marketo [!DNL AppExchange]，讓您的法文和德文銷售人員可以他們的慣用語言看到[!UICONTROL Sales Insight]內容。
 
 ![](assets/image2014-9-22-17-3a13-3a12.png)
 

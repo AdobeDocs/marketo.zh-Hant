@@ -1,22 +1,22 @@
 ---
 unique-page-id: 4720779
 description: 瞭解資料夾 — Marketo檔案 — 產品檔案
-title: 瞭解資料夾
+title: 了解資料夾
 exl-id: 2ea914f6-ca64-4e87-806c-93beba075ab2
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '252'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
-# 瞭解資料夾 {#understanding-folders}
+# 了解資料夾 {#understanding-folders}
 
 方案內的資料夾可用於組織您的智慧行銷活動和資產。 這些資料夾與[行銷活動資料夾](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)不同。
 
 ## 建立資料夾 {#create-a-folder}
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**&#x200B;區域。
+1. 前往「**[!UICONTROL Marketing Activities]**」區域。
 
    ![](assets/ma.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147142
 description: 在方案排程檢視中建立批次Smart Campaign - Marketo檔案 — 產品檔案
-title: 在方案排程檢視中建立批次智慧型行銷活動
+title: 在方案排程視圖中建立批次智慧行銷活動
 exl-id: 8baf07c5-d45f-4b17-9c9c-45063dd95aac
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 0%
+source-wordcount: '151'
+ht-degree: 13%
 
 ---
 
-# 在方案排程檢視中建立批次智慧型行銷活動 {#creating-a-batch-smart-campaign-in-the-program-schedule-view}
+# 在方案排程視圖中建立批次智慧行銷活動 {#creating-a-batch-smart-campaign-in-the-program-schedule-view}
 
 您可以從方案排程檢視建立新的Smart Campaigns並在方案內[重新執行現有的行銷活動](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rerun-a-smart-campaign-in-the-program-schedule-view.md){target="_blank"}。
 
@@ -23,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a28-3a20.png)
 
-1. 為您的專案選擇名稱，這會成為新的Smart Campaign。 按下&#x200B;**[!UICONTROL Enter/Return]**&#x200B;鍵以確認名稱。
+1. 為您的專案選擇名稱，這會成為新的Smart Campaign。 按&#x200B;**[!UICONTROL Enter/Return]**&#x200B;鍵以確認名稱。
 
    ![](assets/image2014-9-23-15-3a28-3a28.png)
 
-1. 按一下&#x200B;**[!UICONTROL 型別]**&#x200B;下拉式清單，然後選擇&#x200B;**[!UICONTROL 智慧行銷活動]**。
+1. 按一下&#x200B;**[!UICONTROL Type]**&#x200B;下拉式清單，然後選擇&#x200B;**[!UICONTROL Smart Campaign]**。
 
    ![](assets/typechoose.png)
 

@@ -1,16 +1,16 @@
 ---
 description: 對話流程概觀 — Marketo檔案 — 產品檔案
-title: 對話流程概觀
+title: 交談流程概觀
 feature: Dynamic Chat
 exl-id: c741886d-d672-471f-8902-208d25898afa
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '339'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 對話流程概觀 {#conversational-flow-overview}
+# 交談流程概觀 {#conversational-flow-overview}
 
 設計對話流程，並根據特定動作(例如按一下call-to-action按鈕、頁面載入時、頁面逗留時間等)觸發給任何訪客。
 
@@ -62,7 +62,7 @@ ht-degree: 0%
 
 ![](assets/conversational-flow-overview-4.png)
 
-## 設定標籤 {#settings-tab}
+## 設定索引標籤 {#settings-tab}
 
 ![](assets/conversational-flow-overview-5.png)
 
@@ -82,7 +82,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->檢視[交談SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/?lang=zh-Hant){target="_blank"}正在執行中！
+>檢視[交談SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"}正在執行中！
 
 >[!MORELIKETHIS]
 >

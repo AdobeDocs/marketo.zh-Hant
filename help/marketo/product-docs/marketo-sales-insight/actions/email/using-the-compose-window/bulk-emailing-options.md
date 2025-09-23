@@ -1,16 +1,16 @@
 ---
 description: 大量電子郵件選項 — Marketo檔案 — 產品檔案
-title: 大量電子郵件選項
+title: 大量寄送電子郵件選項
 exl-id: 08cc60d5-0db1-4dfa-9441-4c5e5a021d73
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '252'
-ht-degree: 3%
+ht-degree: 5%
 
 ---
 
-# 大量電子郵件選項 {#bulk-emailing-options}
+# 大量寄送電子郵件選項 {#bulk-emailing-options}
 
 大量傳送電子郵件是加速潛在客戶參與的絕佳方式。 [!DNL Marketo Sales]提供兩種大量傳送電子郵件的方式：**群組電子郵件**&#x200B;和&#x200B;**選取並傳送**。 群組電子郵件是快速傳送數百封電子郵件至目標群組的絕佳方式。 使用選取並傳送表示電子郵件限制較低，但為使用者提供更多的自訂機會。
 

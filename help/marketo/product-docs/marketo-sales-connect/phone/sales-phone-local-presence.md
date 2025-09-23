@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352436
 description: 銷售電話當地訊息 — Marketo檔案 — 產品檔案
-title: 銷售電話當地狀態
+title: 銷售電話本地業務
 exl-id: 8ebd971f-caf6-40ac-8067-dd0028fec9ab
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '137'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 銷售電話當地狀態 {#sales-phone-local-presence}
+# 銷售電話本地業務 {#sales-phone-local-presence}
 
 如果您想要看起來像是從某人的相同區碼撥打電話，只需在撥打電話前勾選&#x200B;**[!UICONTROL Local Presence]**&#x200B;方塊即可。
 

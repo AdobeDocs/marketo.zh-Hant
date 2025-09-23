@@ -4,10 +4,10 @@ description: 支援的瀏覽器 — Marketo檔案 — 產品檔案
 title: 支援的瀏覽器
 exl-id: 58c35407-ddc5-4932-9853-aeb4d47bab7f
 feature: Administration, Getting Started
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '64'
-ht-degree: 1%
+ht-degree: 7%
 
 ---
 

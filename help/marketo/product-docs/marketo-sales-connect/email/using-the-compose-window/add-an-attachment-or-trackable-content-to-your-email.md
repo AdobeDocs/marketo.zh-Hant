@@ -1,17 +1,17 @@
 ---
 unique-page-id: 37356587
 description: 新增附件或可追蹤內容至您的電子郵件 — Marketo檔案 — 產品檔案
-title: 新增附件或可追蹤的內容至您的電子郵件
+title: 新增附件或可追蹤內容至您的電子郵件
 exl-id: 06a80676-00bd-46d3-a989-ae503f7e76a6
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '279'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# 新增附件或可追蹤的內容至您的電子郵件 {#add-an-attachment-or-trackable-content-to-your-email}
+# 新增附件或可追蹤內容至您的電子郵件 {#add-an-attachment-or-trackable-content-to-your-email}
 
 透過[!DNL Sales Connect]傳送電子郵件時，您可以選擇新增檔案作為附件，或將檔案設為可下載（且可追蹤）連結。
 

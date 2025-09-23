@@ -4,10 +4,10 @@ description: 建立基本網頁區段 — Marketo檔案 — 產品檔案
 title: 建立基本網頁區段
 exl-id: 99bc3788-e04c-46a3-86e5-76d398f8a6e6
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '151'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 

@@ -1,16 +1,16 @@
 ---
 description: 傳統圖示字彙表 — Marketo檔案 — 產品檔案
-title: 傳統圖示字彙表
+title: Classic 圖示字彙表
 feature: Getting Started
 exl-id: 05706dc2-9e8b-4f10-89cf-996a69bc4816
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '563'
-ht-degree: 8%
+ht-degree: 13%
 
 ---
 
-# 傳統圖示字彙表 {#classic-icon-glossary}
+# Classic 圖示字彙表 {#classic-icon-glossary}
 
 以下是Marketo Classic介面的舊圖示。 目前的圖示字彙表可在[此處](/help/marketo/getting-started/things-to-know/icon-glossary.md){target="_blank"}找到。
 
@@ -69,7 +69,7 @@ ht-degree: 8%
   <tr>
    <td><img height="22" width="22" src="assets/trigger.png">
     </td>
-   <td>觸發</td>
+   <td>觸發程序</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-9-10-3a37-3a40.png">
@@ -195,7 +195,7 @@ ht-degree: 8%
   <tr>
    <td><img src="assets/image2015-1-8-18-3a28-3a16.png">
     </td>
-   <td>啟動點</td>
+   <td>LaunchPoint</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-8-18-3a44-3a51.png">
@@ -220,7 +220,7 @@ ht-degree: 8%
   <tr>
    <td><img src="assets/image2015-1-9-8-3a40-3a3.png">
     </td>
-   <td>管理</td>
+   <td>管理員</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-9-8-3a46-3a19.png">
@@ -261,7 +261,7 @@ ht-degree: 8%
   <tr>
    <td><img src="assets/image2014-12-23-11-3a38-3a16.png">
     </td>
-   <td>新增至參與計畫</td>
+   <td>新增至參與方案</td>
   </tr>
   <tr>
    <td><img src="assets/image2014-12-23-11-3a40-3a19.png">
@@ -617,7 +617,7 @@ ht-degree: 8%
   <tr>
    <td><img src="assets/image2015-1-14-13-3a8-3a40.png">
     </td>
-   <td>新增</td>
+   <td>新版</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-14-13-3a8-3a47.png">
@@ -668,7 +668,7 @@ ht-degree: 8%
   <tr>
    <td><img src="assets/image2015-1-9-12-3a55-3a51.png">
     </td>
-   <td>報表</td>
+   <td>報告</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-9-12-3a56-3a29.png">
@@ -688,7 +688,7 @@ ht-degree: 8%
   <tr>
    <td><img src="assets/image2015-1-9-15-3a46-3a10.png">
     </td>
-   <td>有趣的時刻概述</td>
+   <td>關鍵時刻概觀</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-9-13-3a35-3a23.png">
@@ -856,7 +856,7 @@ ht-degree: 8%
   <tr>
    <td><img src="assets/image2015-1-5-16-3a42-3a11.png">
     </td>
-   <td>欄位組織者</td>
+   <td>欄位組織工具</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-5-14-3a43-3a28.png">
@@ -871,7 +871,7 @@ ht-degree: 8%
   <tr>
    <td><img src="assets/image2015-1-14-13-3a9-3a33.png">
     </td>
-   <td>新增</td>
+   <td>新版</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-14-13-3a9-3a39.png">
@@ -881,7 +881,7 @@ ht-degree: 8%
   <tr>
    <td><img src="assets/image2015-1-14-13-3a9-3a47.png">
     </td>
-   <td>讀入</td>
+   <td>匯入</td>
   </tr>
  </tbody>
 </table>

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360411
 description: 建立成功路徑分析器 — Marketo檔案 — 產品檔案
-title: 建立成功路徑分析器
+title: 建立成功路徑分析工具
 exl-id: bcf3075c-4de6-428c-aebf-8191076169c0
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '161'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# 建立成功路徑分析器 {#create-a-success-path-analyzer}
+# 建立成功路徑分析工具 {#create-a-success-path-analyzer}
 
 透過您的收入週期模型，取得速度和流量的視覺化表示法。
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->要儲存您的報告嗎？ 按一下&#x200B;**[!UICONTROL Analyzer Actions]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Save As]**。
+>要儲存您的報告嗎？ 按一下「**[!UICONTROL Analyzer Actions]**」下拉式選單，選取「**[!UICONTROL Save As]**」。
 
 >[!MORELIKETHIS]
 >

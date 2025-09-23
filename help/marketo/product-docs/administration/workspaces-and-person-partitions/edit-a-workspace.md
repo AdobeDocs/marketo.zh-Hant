@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11380986
 description: 編輯Workspace - Marketo檔案 — 產品檔案
-title: 編輯Workspace
+title: 編輯工作區
 exl-id: 4c268759-5234-465b-8666-dcb47a0d7ea4
 feature: Workspaces
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '136'
-ht-degree: 2%
+ht-degree: 10%
 
 ---
 
-# 編輯Workspace {#edit-a-workspace}
+# 編輯工作區 {#edit-a-workspace}
 
 有時您需要在Workspace中進行變更。 設定很簡單。
 
@@ -23,7 +23,7 @@ ht-degree: 2%
 >
 >透過[瞭解工作區與人員分割](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}在工作區上筆刷。
 
-1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/edit-a-workspace-1.png)
 

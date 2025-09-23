@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359858
 description: 將影像和檔案新增至Marketo - Marketo檔案 — 產品檔案
-title: 將影像和檔案新增至Marketo
+title: 新增影像和檔案至 Marketo
 exl-id: 31462189-55fd-458e-8b28-85e525dad5b5
 feature: Image Editor
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '102'
-ht-degree: 0%
+ht-degree: 16%
 
 ---
 
-# 將影像和檔案新增至Marketo {#add-images-and-files-to-marketo}
+# 新增影像和檔案至 Marketo {#add-images-and-files-to-marketo}
 
 瞭解如何將新影像或檔案新增至您的Marketo Engage執行個體。
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/add-images-and-files-to-marketo-2.png)
 
-1. 按一下&#x200B;**[!UICONTROL Image and file actions]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Upload image or file]**。
+1. 按一下「**[!UICONTROL Image and file actions]**」下拉式選單，選取「**[!UICONTROL Upload image or file]**」。
 
    ![](assets/add-images-and-files-to-marketo-3.png)
 

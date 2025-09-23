@@ -1,16 +1,16 @@
 ---
 description: 設定ON24與Marketo的整合 — Marketo檔案 — 產品檔案
-title: 設定ON24與Marketo的整合
+title: 設定 ON24 與 Marketo 的整合
 exl-id: 395ffa37-b87d-4eb4-bf9f-72aa96dc819c
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '205'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# 設定ON24與Marketo的整合{#set-up-the-on24-integration-with-marketo}
+# 設定 ON24 與 Marketo 的整合{#set-up-the-on24-integration-with-marketo}
 
 以下說明如何設定您的ON24事件整合。
 

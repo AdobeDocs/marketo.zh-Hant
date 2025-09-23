@@ -1,16 +1,16 @@
 ---
 description: 啟用Campaign同步 — Marketo檔案 — 產品檔案
-title: 啟用Campaign同步
+title: 啟用行銷活動同步
 exl-id: b33af554-b4c0-465c-a5a4-3ee3450af5e5
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 1%
+ht-degree: 7%
 
 ---
 
-# 啟用Campaign同步 {#enable-campaign-sync}
+# 啟用行銷活動同步 {#enable-campaign-sync}
 
 此選項可讓Marketo從[!DNL MS Dynamics]行銷活動新增及移除成員。
 

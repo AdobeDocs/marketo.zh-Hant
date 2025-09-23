@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359614
 description: 在選項或表單的選取欄位中定義值 — Marketo檔案 — 產品檔案
-title: 定義表格中無線電或選取欄位的值
+title: 定義表單中單選或所選欄位的值
 exl-id: 62e8d1db-3de7-4129-80d5-11c1fe8d9dd3
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '172'
-ht-degree: 1%
+ht-degree: 15%
 
 ---
 
-# 定義表格中無線電或選取欄位的值 {#define-values-in-a-radio-or-selected-field-in-a-form}
+# 定義表單中單選或所選欄位的值 {#define-values-in-a-radio-or-selected-field-in-a-form}
 
 一旦您[將欄位型別](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md)設定為選項按鈕或選取型別，您就會想要定義使用者可選擇的值。 方法如下。
 

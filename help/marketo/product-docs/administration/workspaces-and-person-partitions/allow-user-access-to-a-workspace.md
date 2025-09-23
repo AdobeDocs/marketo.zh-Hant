@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360325
 description: 允許使用者存取Workspace - Marketo檔案 — 產品檔案
-title: 允許使用者存取Workspace
+title: 允許使用者存取工作區
 exl-id: 8ccec529-ae28-4bf8-a9ba-4d9c7df809d9
 feature: Workspaces
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '110'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
-# 允許使用者存取Workspace {#allow-user-access-to-a-workspace}
+# 允許使用者存取工作區 {#allow-user-access-to-a-workspace}
 
 工作區可以因任何原因（例如業務單位或地理區隔）。 他們會分隔每個團隊的資產（智慧清單、計畫等）。 以下說明如何授予使用者一或多個工作區的存取權。
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >深入瞭解[工作區](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)。
 
-1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/allow-user-access-to-a-workspace-1.png)
 

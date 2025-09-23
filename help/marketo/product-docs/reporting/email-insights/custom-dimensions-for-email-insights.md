@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11375276
 description: 電子郵件深入分析的自訂維度 — Marketo檔案 — 產品檔案
-title: 電子郵件深入分析的自訂維度
+title: 電子郵件洞察的自訂維度
 exl-id: e648a788-50da-495b-b195-f287bcbaeecb
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '97'
-ht-degree: 1%
+ht-degree: 11%
 
 ---
 
-# 電子郵件深入分析的自訂維度 {#custom-dimensions-for-email-insights}
+# 電子郵件洞察的自訂維度 {#custom-dimensions-for-email-insights}
 
 所有標準Marketo維度都會包括在內，但您可以選擇新增最多10個自訂維度。 自訂維度包含分段和程式標籤。 以下是其新增方式。
 

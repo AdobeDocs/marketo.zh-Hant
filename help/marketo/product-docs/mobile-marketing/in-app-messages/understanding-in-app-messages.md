@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10100397
 description: 瞭解應用程式內訊息 — Marketo檔案 — 產品檔案
-title: 瞭解應用程式內訊息
+title: 了解應用程式內訊息
 exl-id: afa7c974-71d9-4170-b4d9-7e37721fd931
 feature: Mobile Marketing
-source-git-commit: ea9bf2a002415936cdfb5bfb723ce80723003da5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '241'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 瞭解應用程式內訊息 {#understanding-in-app-messages}
+# 了解應用程式內訊息 {#understanding-in-app-messages}
 
 >[!AVAILABILITY]
 >

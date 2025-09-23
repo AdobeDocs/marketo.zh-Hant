@@ -4,20 +4,20 @@ description: 發行說明–2020年2月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2020年2月
 exl-id: 6216b405-69c6-422b-a78c-7df0e8d271e9
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '639'
-ht-degree: 0%
+source-wordcount: '637'
+ht-degree: 2%
 
 ---
 
-# 發行說明： 2020年2月 {#release-notes-feb}
+# 發行說明：2020 年 2 月 {#release-notes-feb}
 
 2020年2月發行版本包含下列功能。 檢查您的Marketo版本是否有功能可用。
 
 >[!AVAILABILITY]
 >
->以星號(![（星號）](assets/yellow-star.png))表示的功能是付費附加元件。 請聯絡您的Marketo Engage代表以瞭解更多資訊。
+>以星號(![（星號）](assets/yellow-star.png))表示的功能是付費附加元件。 請聯絡您的 Marketo Engage 代表，了解更多相關資訊。
 
 **_每季發行_**&#x200B;下列功能已於&#x200B;**2020年2月21日發行**。
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 * **登陸頁面重新導向規則API**：自動管理登陸頁面重新導向規則。 這是我們API呼叫功能的增強功能。
 * **表單描述元快取**：我們將透過快取表單作為資源來減少內嵌表單的載入時間，並提升整體應用程式穩定性。 請注意，對內嵌式表單的核准，最多可能需要四分鐘才能反映在網路上。 這是登陸頁面和Forms功能的增強功能。
 
-<br> 
+<br>
 
 **_整個季度發行_**
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 * **撰寫視窗更新**：我們已簡化透過[!DNL Sales Connect]選取範本及傳送電子郵件的程式。 在我們的網頁使用者端和Salesforce中使用「撰寫」視窗，作為賣家的一站式商店，能夠儲存範本類別、排程電子郵件、大量傳送電子郵件，以及傳送包含檢視和點選追蹤的電子郵件。
 * **指揮中心更新**：我們正在重新建置[!DNL Sales Connect]指揮中心，為賣家insight提供其所有電子郵件、通話和從[!DNL Sales Connect]啟動的工作。 他們也可以從指揮中心檢視電子郵件參與度和傳遞能力等資訊。
 
-&quot;<br>&quot;
+<br>
 
 ## 公告 {#announcements}
 
@@ -59,4 +59,4 @@ ht-degree: 0%
 * **資產API「_method」引數**： 2020年9月後，資產API端點將不再接受於POST主體中使用「_method」傳遞查詢引數，以略過URI長度限制。 為因應需要此引數的請求，資產API的URI限制將從6KiB增加到65KiB，以便提交較長的請求URI。
 * **Internet Explorer支援淘汰**：從2020年7月31日推出的七月版開始，Internet Explorer將不再支援Marketo Engage使用者介面。
 
-**_產品發行網路研討會_** [於3月3日上午11:00點/下午2:00點（東部時間）加入我們](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html)，參加我們產品團隊舉辦的即時網路研討會，並深入瞭解此發行版本包含的功能。
+**_產品發行網路研討會_** [於3月3日11](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) PT / 2:00AM ET加入我們:00PM，參加我們產品團隊舉辦的即時網路研討會，並深入瞭解此發行版本包含的功能。

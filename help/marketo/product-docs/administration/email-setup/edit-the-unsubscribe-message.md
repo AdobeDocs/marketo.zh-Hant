@@ -4,10 +4,10 @@ description: 編輯取消訂閱訊息 — Marketo檔案 — 產品檔案
 title: 編輯取消訂閱訊息
 exl-id: 68a3ebc1-b2c9-4e6c-bb13-e5a94c9596d2
 feature: Email Setup
-source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 0%
+source-wordcount: '127'
+ht-degree: 8%
 
 ---
 
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 ## 在何處進行編輯 {#where-to-make-the-edit}
 
-1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區段。
+1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區段。
 
    ![](assets/edit-the-unsubscribe-message-1.png)
 
-1. 按一下&#x200B;**[!UICONTROL 電子郵件]**。
+1. 按一下「**[!UICONTROL Email]**」。
 
    ![](assets/edit-the-unsubscribe-message-2.png)
 
@@ -36,7 +36,7 @@ ht-degree: 0%
    >* `%mkt_opt_out_prefix%`
    >* `mkt_unsubscribe=1&mkt_tok=##MKT_TOK##`
 
-1. 編輯您喜歡的&#x200B;**[!UICONTROL 取消訂閱HTML]**&#x200B;和&#x200B;**[!UICONTROL 取消訂閱文字]**&#x200B;版本，然後按一下&#x200B;**[!UICONTROL 儲存變更]**。
+1. 編輯您喜歡的&#x200B;**[!UICONTROL Unsubscribe HTML]**&#x200B;和&#x200B;**[!UICONTROL Unsubscribe Text]**&#x200B;版本，然後按一下&#x200B;**[!UICONTROL Save Changes]**。
 
    ![](assets/edit-the-unsubscribe-message-3.png)
 
@@ -44,14 +44,14 @@ ht-degree: 0%
 
 >[!TIP]
 >
->您可以使用[代號](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md)來自訂電子郵件中取消訂閱HTML的位置。
+>您可以使用[代號](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md)，自訂電子郵件中取消訂閱HTML的位置。
 
 ## 預設取消訂閱文字 {#default-unsubscribe-text}
 
 如果您需要恢復為預設系統取消訂閱，請複製/貼上以下內容：
 
-[!UICONTROL 取消訂閱HTML]：
-`<p><font face="Verdana" size="1">If you no longer wish to receive these emails, click on the following link: <a href="%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##">Unsubscribe</a><br/></font></p>` [!UICONTROL 取消訂閱文字]：
+[!UICONTROL Unsubscribe HTML]：
+`<p><font face="Verdana" size="1">If you no longer wish to receive these emails, click on the following link: <a href="%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##">Unsubscribe</a><br/></font></p>` [!UICONTROL Unsubscribe Text]：
 `%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##`
 
 >[!MORELIKETHIS]

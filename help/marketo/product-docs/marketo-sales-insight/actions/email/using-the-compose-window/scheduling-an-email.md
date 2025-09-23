@@ -1,14 +1,14 @@
 ---
 description: 排程電子郵件 — Marketo檔案 — 產品檔案
-title: 排程電子郵件
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+title: 安排電子郵件傳送時間
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '131'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 排程電子郵件 {#scheduling-an-email}
+# 安排電子郵件傳送時間 {#scheduling-an-email}
 
 請依照這些簡單的步驟排程電子郵件。
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 
    ![](assets/scheduling-an-email-3.png)
 
-1. 輸入您要電子郵件發出的時間。 選取想要的時區，然後按一下[儲存]。**&#x200B;** 完成時關閉排程器。
+1. 輸入您要電子郵件發出的時間。 選取想要的時區，然後按一下[儲存]。**** 完成時關閉排程器。
 
    ![](assets/scheduling-an-email-4.png)
 

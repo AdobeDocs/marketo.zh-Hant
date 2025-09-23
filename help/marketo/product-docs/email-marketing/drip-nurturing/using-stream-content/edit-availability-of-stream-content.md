@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359910
 description: 編輯串流內容的可用性 — Marketo檔案 — 產品檔案
-title: 編輯串流內容的可用性
+title: 編輯資料流內容的可用性
 exl-id: 72d9848c-607c-4cdb-bcd4-a5d41d820c54
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '101'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# 編輯串流內容的可用性 {#edit-availability-of-stream-content}
+# 編輯資料流內容的可用性 {#edit-availability-of-stream-content}
 
 您可以設定內容在串流中處於作用中狀態的時間範圍。 方法如下。
 

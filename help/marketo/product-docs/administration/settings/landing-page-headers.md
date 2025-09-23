@@ -3,10 +3,10 @@ description: 登陸頁面標頭 — Marketo檔案 — 產品檔案
 title: 登陸頁面標頭
 exl-id: 58eaa0cd-2a2b-4abe-9180-f60a2a1dcc87
 feature: Administration, Landing Pages
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 0%
+source-wordcount: '122'
+ht-degree: 5%
 
 ---
 
@@ -14,19 +14,19 @@ ht-degree: 0%
 
 請依照下列步驟，自訂您的登陸頁面網域上的部分HTTP標題。
 
-1. 在Marketo中，按一下&#x200B;**[!UICONTROL 管理員]**。
+1. 在Marketo中，按一下&#x200B;**[!UICONTROL Admin]**。
 
    ![](assets/landing-page-headers-1.png)
 
-1. 按一下&#x200B;**[!UICONTROL 登陸頁面]**。
+1. 按一下「**[!UICONTROL Landing Pages]**」。
 
    ![](assets/landing-page-headers-2.png)
 
-1. 按一下登陸頁面HTTP標題旁的&#x200B;**[!UICONTROL 編輯]**。
+1. 按一下登陸頁面HTTP標題旁的&#x200B;**[!UICONTROL Edit]**。
 
    ![](assets/landing-page-headers-3.png)
 
-1. 選擇您想要的設定，完成時按一下&#x200B;**[!UICONTROL 儲存]**。
+1. 選擇您想要的設定，完成時按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/landing-page-headers-4.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
  </tr>
  <tr>
   <td><strong>[!UICONTROL X-Frame-Options]</strong></td>
-  <td>可讓您定義是否可將Marketo Engage託管資產內嵌在外部網頁中</td>
+  <td>可讓您定義Marketo Engage託管的資產是否可嵌入外部網頁</td>
  </tr>
 </table>
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10096420
 description: 銷售情報 — Marketo檔案 — 產品檔案
-title: Sales Intelligence
+title: 銷售情報
 exl-id: 118da902-8c02-413b-8959-2e970d3dd9a4
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '193'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Sales Intelligence {#sales-intelligence}
+# 銷售情報 {#sales-intelligence}
 
 Marketo Web Personalization針對造訪您網站的匿名與已知網頁訪客與組織，提供寶貴資訊。 銷售主管可以使用此功能，根據特定地區追蹤、監控及接收主要組織及帳戶的警示。
 

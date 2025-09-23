@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2951877
 description: 瞭解計畫機會分析區域 — Marketo檔案 — 產品檔案
-title: 瞭解計畫機會分析領域
+title: 了解方案機會分析區域
 exl-id: 6105df93-b3de-4929-85e3-fd328372bd24
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '907'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 瞭解計畫機會分析領域 {#understanding-the-program-opportunity-analysis-area}
+# 了解方案機會分析區域 {#understanding-the-program-opportunity-analysis-area}
 
 ## 概觀 {#overview}
 

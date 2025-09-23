@@ -3,10 +3,10 @@ description: 變更計畫成員資料 — Marketo檔案 — 產品檔案
 title: 變更方案成員資料
 exl-id: 2ed8468e-0dbb-48c1-be60-7b51e92f9095
 feature: Smart Campaigns
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 0%
+source-wordcount: '132'
+ht-degree: 6%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 0%
 >
 >您也可以封鎖欄位不更新。 如需詳細資訊，請參閱封鎖欄位的更新。
 
-1. 在Smart Campaign的「流量」標籤中，帶入&#x200B;**[!UICONTROL 變更方案成員資料]**&#x200B;流量步驟，然後選擇所需的方案。
+1. 在Smart Campaign的「流量」標籤中，帶入&#x200B;**[!UICONTROL Change Program Member Data]**&#x200B;流量步驟並選擇所需的程式。
 
    ![](assets/change-program-member-data-1.png)
 
@@ -32,13 +32,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->您也可以在[!UICONTROL 新值]中使用權杖。
+>您也可以在[!UICONTROL New Value]中使用權杖。
 
 現在，只要執行Smart Campaign，您就完成了！
 
 >[!TIP]
 >
->如果您要清除欄位而不是更新欄位，可以輸入「NULL」（無引號，全部大寫）作為[!UICONTROL 新值]。
+>如果您要清除欄位而不是更新欄位，您可以輸入「NULL」（無引號，全部大寫）作為[!UICONTROL New Value]。
 
 >[!MORELIKETHIS]
 >

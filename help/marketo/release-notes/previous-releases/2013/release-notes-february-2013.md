@@ -4,20 +4,20 @@ description: 發行說明 — 2013年2月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2013年2月
 exl-id: 9adfa676-09ea-497a-bcce-42300848b9d8
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '251'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 發行說明： 2013年2月 {#release-notes-february}
+# 發行說明：2013 年 2 月 {#release-notes-february}
 
 2月版本包含強烈要求的功能、[!DNL Apple Safari]支援和其他小型增強功能。
 
 ## [!DNL Apple Safari]的官方支援 {#official-support-for-apple-safari}
 
-Mac和[!DNL Windows]的最新版本[!DNL Apple Safari]完全支援搭配Marketo銷售機會管理使用。 注意： iOS上的[!DNL Safari]不完全相容。
+Mac和[!DNL Apple Safari]的最新版本[!DNL Windows]完全支援搭配Marketo銷售機會管理使用。 注意： iOS上的[!DNL Safari]不完全相容。
 
 ## Webhooks增強功能 {#webhooks-enhancements}
 

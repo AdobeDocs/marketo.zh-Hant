@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719312
 description: 新增/移除挑選清單值 — Marketo檔案 — 產品檔案
-title: 新增/移除挑選清單值
+title: 新增/移除選項清單值
 exl-id: f1230c43-10cb-47ff-89d7-9f835b034db0
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '225'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 新增/移除挑選清單值 {#add-remove-picklist-values}
+# 新增/移除選項清單值 {#add-remove-picklist-values}
 
 以下是在[!DNL Salesforce]中新增和移除挑選清單值的一些須知事項。
 

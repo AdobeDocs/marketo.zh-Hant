@@ -3,7 +3,7 @@ description: 安裝Marketo for [!DNL Microsoft Dynamics] 2016/Dynamics 365內部
 title: 安裝Marketo for [!DNL Microsoft Dynamics] 2016/Dynamics 365內部部署步驟1之3
 exl-id: 0a494ae7-87da-4ff9-bb47-990b957533e1
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 1%

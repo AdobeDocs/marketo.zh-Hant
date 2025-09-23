@@ -1,17 +1,17 @@
 ---
 unique-page-id: 37356429
 description: 在Microsoft中建立任務 — Marketo檔案 — 產品檔案
-title: 在Microsoft中建立任務
+title: 在 Microsoft 中建立工作
 exl-id: b9ae425b-edf1-4aae-92f4-e7c6cf647cdc
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 0%
+source-wordcount: '164'
+ht-degree: 4%
 
 ---
 
-# 在Microsoft中建立任務 {#create-task-in-microsoft}
+# 在 Microsoft 中建立工作 {#create-task-in-microsoft}
 
 身為行銷人員，您擁有可協助銷售完成交易的資訊。 您可以建立任務，讓他們知道應該做什麼，以及何時應該做。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->當Marketo同步使用者建立任務時，**[!UICONTROL 在]**&#x200B;到期是將在[!DNL Microsoft]中建立任務的必要欄位。 如果未輸入值，Marketo預設會輸入五天。
+>當Marketo Sync使用者建立任務時，**[!UICONTROL Due In]**&#x200B;是將在[!DNL Microsoft]中建立之任務的必要欄位。 如果未輸入值，Marketo預設會輸入五天。
 
 自訂所有欄位，以您想要的方式建立任務。
 
@@ -39,4 +39,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->您可以在&#x200B;**[!UICONTROL 主旨]**&#x200B;和&#x200B;**[!UICONTROL 描述]**&#x200B;中使用`{{lead.tokens}}`、`{{company.tokens}}`、`{{campaign.tokens}}`和`{{system.tokens}}`。 如需詳細資訊，請參閱流程步驟[&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"}的權杖。
+>您可以在`{{lead.tokens}}`和`{{company.tokens}}`中使用`{{campaign.tokens}}`、`{{system.tokens}}`、**[!UICONTROL Subject]**&#x200B;和&#x200B;**[!UICONTROL Description]**。 如需詳細資訊，請參閱流程步驟[的](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"}權杖。

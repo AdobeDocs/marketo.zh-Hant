@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360207
 description: 建立僅限API的使用者 — Marketo檔案 — 產品檔案
-title: 建立僅限API的使用者
+title: 建立僅 API 使用者
 exl-id: 23c92255-07a8-41c2-b7b8-8e495d135671
 feature: Users and Roles
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '172'
-ht-degree: 2%
+ht-degree: 12%
 
 ---
 
-# 建立僅限API的使用者 {#create-an-api-only-user}
+# 建立僅 API 使用者 {#create-an-api-only-user}
 
 如果您想要透過[REST API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}與Marketo整合，您將需要建立「僅限API使用者」。 方法如下。
 
@@ -27,7 +27,7 @@ ht-degree: 2%
 >
 >**需要管理員許可權**
 
-1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/create-an-api-only-user-1.png)
 

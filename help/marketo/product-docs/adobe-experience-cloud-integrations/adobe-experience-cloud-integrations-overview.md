@@ -3,8 +3,8 @@ description: Adobe Experience Cloud 整合概觀 - Marketo 文件 - 產品文件
 title: Adobe Experience Cloud 整合概觀
 exl-id: ae75fb01-4b46-412f-b153-6f37c8de9b65
 feature: Integrations
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 100%
 

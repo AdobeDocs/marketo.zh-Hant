@@ -1,16 +1,16 @@
 ---
 description: OP-Scoring-Geroptical - Marketo檔案 — 產品檔案
-title: OP評分人口統計
+title: OP-評分-人口統計
 feature: Programs
 exl-id: ed11616e-b587-4d03-b293-9cc9fa3c1699
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '310'
-ht-degree: 24%
+ht-degree: 25%
 
 ---
 
-# OP評分人口統計 {#op-scoring-demographic}
+# OP-評分-人口統計 {#op-scoring-demographic}
 
 這是進階（代碼化）作業方案的範例，利用Marketo Engage預設方案進行人口統計評分。 在方案的「我的Token」索引標籤下檢視和編輯評分值。 需要名為「人口統計分數」的自訂分數欄位。
 
@@ -21,7 +21,7 @@ ht-degree: 24%
 <table style="table-layout:auto">
  <tbody>
   <tr>
-   <th>頻道</th>
+   <th>管道</th>
    <th>成員資格狀態</th>
    <th>Analytics行為</th>
    <th>計畫型別</th>
@@ -138,7 +138,7 @@ ht-degree: 24%
   <tr>
    <th>權杖型別</th>
    <th>代號名稱</th>
-   <th>值</th>
+   <th>價值</th>
   </tr>
   <tr>
    <td>分數</td>

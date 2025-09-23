@@ -5,16 +5,16 @@ hide: true
 hidefromtoc: true
 feature: Email Editor
 exl-id: bfa8d9c2-93d7-494c-ac5e-f743894c58e7
-source-git-commit: 7837499e74558e6e48bf7b1e681f936f63d2843f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '1504'
+source-wordcount: '1486'
 ht-degree: 1%
 
 ---
 
 # 電子郵件製作 {#email-authoring}
 
-瞭解如何在新Marketo Engage電子郵件Designer中建立、個人化和預覽電子郵件。
+瞭解如何在新的Marketo Engage電子郵件Designer中建立、個人化和預覽電子郵件。
 
 >[!IMPORTANT]
 >
@@ -22,7 +22,7 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->若要存取新的電子郵件設計工具，您的Marketo Engage訂閱必須移轉至[AdobeIdentity Management系統(IMS)](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。 如果尚未收到您的請求，而您想要請求加急，請聯絡Adobe客戶團隊（您的客戶經理）或[Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support)。
+>若要存取新的電子郵件設計工具，您的Marketo Engage訂閱必須移轉至[Adobe Identity Management系統(IMS)](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。 如果尚未收到您的邀請，而您想要請求加急，請聯絡Adobe客戶團隊（您的客戶經理）或[Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support)。
 
 ## 建立電子郵件 {#create-an-email}
 
@@ -76,7 +76,7 @@ ht-degree: 1%
 
 ### 匯入HTML {#import-html}
 
-您可以匯入現有的HTML內容來設計電子郵件。 內容可以是：
+您可以匯入現有的HTML內容來設計您的電子郵件。 內容可以是：
 
 * 包含內建樣式表的HTML檔案
 
@@ -86,7 +86,7 @@ ht-degree: 1%
 >
 >.zip檔案結構沒有限制。 不過，參照必須是相對參照，而且符合.zip資料夾的樹狀結構。
 
-1. 在[設計範本]頁面中，選取&#x200B;**匯入HTML**。
+1. 在「設計範本」頁面中，選取&#x200B;**匯入HTML**。
 
 1. 拖放所需的HTML或.zip檔案（或從電腦中選取檔案），然後按一下&#x200B;**匯入**。
 
@@ -94,7 +94,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->上傳HTML內容時，您的內容將處於相容模式。 在此模式中，您只能個人化您的文字、新增連結或新增資產至您的內容。
+>上傳HTML內容時，您的內容會處於相容模式。 在此模式中，您只能個人化您的文字、新增連結或新增資產至您的內容。
 
 您可以使用[視覺化電子郵件編輯器工具](#add-structure-and-content)對匯入的內容進行所需的變更。
 
@@ -144,7 +144,7 @@ ht-degree: 1%
 
    >[!TIP]
    >
-   >選取n：n欄元件以定義您選擇的欄數（介於3到10之間）。 您也可以移動欄下方的箭頭來定義每欄的寬度。
+   >選取n:n欄元件以定義您選擇的欄數（介於3到10之間）。 您也可以移動欄下方的箭頭來定義每欄的寬度。
 
    ![](assets/authoring-add-structure-and-content-1.png)
 
@@ -188,24 +188,24 @@ ht-degree: 1%
 
 1. 直接在畫布中選取結構元件中的欄，或使用左側顯示的&#x200B;_導覽樹狀結構_。
 
-1. 在欄工具列中，按一下&#x200B;_[!UICONTROL 選取欄]_&#x200B;工具，然後選擇您要編輯的工具。
+1. 從欄工具列中，按一下&#x200B;_[!UICONTROL Select a column]_工具並選擇您要編輯的工具。
 
-   您也可以從結構樹中選取它。 該欄的可編輯引數會顯示在右側的&#x200B;_[!UICONTROL 設定]_&#x200B;和&#x200B;_[!UICONTROL 樣式]_&#x200B;索引標籤中。
+   您也可以從結構樹中選取它。 該欄的可編輯引數會顯示在右側的&#x200B;_[!UICONTROL Settings]_和_[!UICONTROL Styles]_&#x200B;索引標籤中。
 
    ![](assets/authoring-layers-settings-styles-2.png)
 
-1. 若要編輯欄屬性，請按一下右側的&#x200B;_[!UICONTROL 樣式]_&#x200B;索引標籤，並根據您的需求加以變更：
+1. 若要編輯欄屬性，請按一下右側的&#x200B;_[!UICONTROL Styles]_標籤，並根據您的需求加以變更：
 
-   * 針對&#x200B;**[!UICONTROL 背景]**，視需要變更背景顏色。
+   * 針對&#x200B;**[!UICONTROL Background]**，視需要變更背景顏色。
 
-     清除透明背景的核取方塊。 啟用&#x200B;**[!UICONTROL 背景影像]**&#x200B;設定，以使用影像做為背景，而非純色。
+     清除透明背景的核取方塊。 啟用&#x200B;**[!UICONTROL Background image]**&#x200B;設定以影像作為背景，而非純色。
 
-   * 針對&#x200B;**[!UICONTROL 對齊]**，請選取&#x200B;_上_、_中_&#x200B;或&#x200B;_下_&#x200B;圖示。
-   * 針對&#x200B;**[!UICONTROL 內距]**，定義所有邊的內距。
+   * 針對&#x200B;**[!UICONTROL Alignment]**，選取&#x200B;_Top_、_Middle_&#x200B;或&#x200B;_Bottom_&#x200B;圖示。
+   * 針對&#x200B;**[!UICONTROL Padding]**，定義所有邊的內距。
 
-     如果要調整內距，請選取&#x200B;**[!UICONTROL 每一邊不同的內距]**。 按一下&#x200B;_鎖定_&#x200B;圖示以中斷同步處理。
+     若要調整內距，請選取&#x200B;**[!UICONTROL Different padding for each side]**。 按一下&#x200B;_鎖定_&#x200B;圖示以中斷同步處理。
 
-   * 展開&#x200B;**[!UICONTROL 進階]**&#x200B;區段以定義資料行的內嵌樣式。
+   * 展開&#x200B;**[!UICONTROL Advanced]**&#x200B;區段以定義欄的內嵌樣式。
 
    ![](assets/authoring-layers-settings-styles-3.png)
 
@@ -213,7 +213,7 @@ ht-degree: 1%
 
 1. 儲存您的變更。
 
-### 個人化內容 {#personalize-content}
+### 將內容個人化 {#personalize-content}
 
 Token在新編輯器中的運作方式與舊版相同，但圖示看起來不同。 以下範例概述如何使用遞補文字新增名字代號。
 
@@ -233,7 +233,7 @@ Token在新編輯器中的運作方式與舊版相同，但圖示看起來不同
    >
    >「遞補文字」是預設值的新編輯器辭彙。 範例： ``{{lead.First Name:default=Friend}}``。 如果您選擇的欄位中沒有該人員的值，建議您這麼做。
 
-1. 設定您的遞補文字，然後按一下[新增]。**&#x200B;**
+1. 設定您的遞補文字，然後按一下[新增]。****
 
    ![](assets/authoring-personalize-content-4.png)
 
@@ -315,9 +315,9 @@ Token在新編輯器中的運作方式與舊版相同，但圖示看起來不同
 
 在新編輯器中建立電子郵件後，您可以在「智慧行銷活動」和/或「智慧列示」中參考該電子郵件，操作方法與使用任何其他電子郵件時相同。
 
-* 依照一般步驟[&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)，由在智慧清單中參照它。
+* 依照一般步驟[，由](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)在智慧清單中參照它。
 
-* 按照一般步驟[&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)，由在Smart Campaign中參考它。
+* 按照一般步驟[，由](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)在Smart Campaign中參考它。
 
 >[!NOTE]
 >

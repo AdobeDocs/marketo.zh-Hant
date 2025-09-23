@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359665
 description: 設定串流步調 — Marketo檔案 — 產品檔案
-title: 設定資料流步調
+title: 設定資料流頻率
 exl-id: 589eeefa-b2f6-4131-a72b-359c97ab98c0
 feature: Engagement Programs
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '361'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# 設定資料流步調 {#set-stream-cadence}
+# 設定資料流頻率 {#set-stream-cadence}
 
 您可以依您想要的間隔傳送參與內容。 例如：一週一次，或每個月的第三個星期二。
 
@@ -29,7 +29,7 @@ ht-degree: 1%
 
 ## 每週 {#weekly}
 
-1. 選擇「**[!UICONTROL Weekly]**」。
+1. 選取「**[!UICONTROL Weekly]**」。
 
    ![](assets/image2017-12-5-14-3a9-3a43.png)
 

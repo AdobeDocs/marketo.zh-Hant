@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352545
 description: Gmail - Marketo檔案 — 產品檔案中的意外錯誤
-title: Gmail發生未預期的錯誤
+title: Gmail 中出現非預期的錯誤
 exl-id: fdf87562-b127-4f7e-b11e-8452b428ed16
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 1%
+ht-degree: 11%
 
 ---
 
-# Gmail發生未預期的錯誤 {#unexpected-error-in-gmail}
+# Gmail 中出現非預期的錯誤 {#unexpected-error-in-gmail}
 
 如果您在嘗試傳送電子郵件時，在Gmail中收到「意外錯誤」，您可能需要在Gmail連線上執行重設。
 

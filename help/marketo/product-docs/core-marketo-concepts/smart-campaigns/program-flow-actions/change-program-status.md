@@ -4,10 +4,10 @@ description: 變更計畫狀態 — Marketo檔案 — 產品檔案
 title: 變更方案狀態
 exl-id: ca6076a6-10f4-4687-8486-1bbcb6ea9255
 feature: Smart Campaigns
-source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 0%
+source-wordcount: '124'
+ht-degree: 4%
 
 ---
 
@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >變更參與計畫中的計畫狀態會自動將其新增到第一個資料流。 他們將會開始接收內容。
 
-1. 拖曳至&#x200B;**[!UICONTROL 變更方案狀態]**&#x200B;流程步驟。
+1. 拖曳至&#x200B;**[!UICONTROL Change Program Status]**&#x200B;流程步驟。
 
    ![](assets/change-program-status-1.png)
 
-1. 選取您要設定的&#x200B;**[!UICONTROL 新狀態]**。 如果人員尚未成為計畫成員，則也會成為計畫成員。
+1. 選取您要設定的&#x200B;**[!UICONTROL New Status]**。 如果人員尚未成為計畫成員，則也會成為計畫成員。
 
    ![](assets/change-program-status-2.png)
 
