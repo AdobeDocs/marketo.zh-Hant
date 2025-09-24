@@ -4,9 +4,9 @@ description: 尋找及合併重複人員 — Marketo檔案 — 產品檔案
 title: 找到重複人員並將其合併
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3456e4d0d9fdcd4590884d9a5b15ef206fcff875
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '411'
 ht-degree: 3%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 3%
 
 >[!PREREQUISITES]
 >
->尋找及合併重複專案需要使用[內建/系統智慧列示](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}。
+>尋找及合併重複專案涉及使用[內建/系統智慧列示](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}。
 
 >[!NOTE]
 >
@@ -59,13 +59,15 @@ ht-degree: 3%
    >
    >您可以為同一個人員設定兩個或多個重複專案 — 一次選取所有專案。
 
-1. 您會看到&#x200B;_不符合_&#x200B;的記錄之間的值。 為每個欄位選取要保留的值。 完成時，按一下&#x200B;**[!UICONTROL Merge]**。 如果您不想要其中一個值，可以核取&#x200B;**[!UICONTROL Custom]**&#x200B;並輸入您選擇的值。
+1. 不符合的記錄之間的值會出現。 _選取您要為每個欄位保留的值_。 完成時，按一下&#x200B;**[!UICONTROL Merge]**。 如果您不想要其中一個值，可以核取&#x200B;**[!UICONTROL Custom]**&#x200B;並輸入您選擇的值。
 
    ![](assets/find-and-merge-duplicate-people-4.png)
 
    >[!NOTE]
    >
-   >手動合併人員時，第一個選取的人員即為「獲勝者」。 所以在「人物」索引標籤中，如果您要合併記錄ID 198與199，而且剛好是先按一下199,199將會是合併之人士的記錄ID。 如果合併兩個以上的記錄，這也適用。
+   >* 與Salesforce不同，在Marketo中合併人員時，他們的分數是&#x200B;_而不是_&#x200B;總和。 您可以選取要保留的值。
+   >
+   >* 手動合併人員時，第一個選取的人員即為「獲勝者」。 所以在「人物」索引標籤中，如果您要合併記錄ID 198與199，而且剛好是先按一下199,199將會是合併之人士的記錄ID。 如果合併兩個以上的記錄，這也適用。
 
    >[!TIP]
    >
