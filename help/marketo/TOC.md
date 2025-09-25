@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: 7082c8d573411070b279b4157b91e73fba9b0f27
+source-git-commit: f960d7918d97a2c5e3d16673bc4c5c592004ff1e
 workflow-type: tm+mt
-source-wordcount: '9306'
+source-wordcount: '9308'
 ht-degree: 99%
 
 ---
@@ -1032,6 +1032,7 @@ ht-degree: 99%
          + [自訂 CSS](product-docs/email-marketing/email-designer/custom-css.md)
          + [品牌主題](product-docs/email-marketing/email-designer/brand-themes.md)
          + [套用品牌](product-docs/email-marketing/email-designer/apply-brand.md)
+         + [深色模式](product-docs/email-marketing/email-designer/dark-mode.md)
          + [使用 Litmus 測試電子郵件呈現](product-docs/email-marketing/email-designer/test-email-rendering.md)
          + [個人化權杖](product-docs/email-marketing/email-designer/personalization-tokens.md)
          + [使用 AEM Assets](product-docs/email-marketing/email-designer/aem-assets.md)
