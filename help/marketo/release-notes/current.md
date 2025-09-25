@@ -6,7 +6,7 @@ feature: Release Information
 source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '654'
-ht-degree: 72%
+ht-degree: 86%
 
 ---
 
@@ -42,7 +42,7 @@ ht-degree: 72%
    <td> </td>
   </tr>
   <tr>
-   <td><strong>電子郵件Designer — 內容Collaboration工作流程</strong>：您現在可以在電子郵件資產中評論Marketo使用者，並與他們共同作業。 標籤團隊成員(具有適當資產許可權的Marketo使用者)後，他們將會收到電子郵件或脈衝通知。</td>
+   <td><strong>電子郵件Designer — 內容Collaboration工作流程</strong>：您現在可以在電子郵件資產中評論Marketo使用者，並與他們共同作業。 標記團隊成員 (具有適當資產權限的 Marketo 使用者) 後，他們將收到電子郵件或即時簡短通知。</td>
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
   </tr>
@@ -52,7 +52,7 @@ ht-degree: 72%
    <td> </td>
   </tr>
   <tr>
-   <td><strong>電子郵件Designer - AI助理許可權</strong>： Marketo管理員可以為特定使用者提供GenAI功能的存取權。</td>
+   <td><strong>電子郵件設計工具 - AI 助理權限</strong>：Marketo 管理員可以為特定使用者提供生成式 AI 功能的存取權。</td>
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
   </tr>
@@ -72,7 +72,7 @@ ht-degree: 72%
    <td> </td>
   </tr>
   <tr>
-   <td><strong>電子郵件Designer — 重新導向修正</strong>：部分使用者在使用新Designer建立的電子郵件中，遇到URL的重新導向問題（例如，直接貼上URL或為電子郵件資產建立書籤並不一定有效）。 此問題已解決。 此外，從<b>電子郵件範本</b> &gt; <b>詳細資料</b> &gt; <b>使用者</b>的電子郵件資產連結，將重新導向至對應的電子郵件資產。</td>
+   <td><strong>電子郵件設計工具 - 重新導向修正</strong>：部分使用者在使用這項新的設計工具建立電子郵件時，遇到 URL 重新導向的問題 (例如有時無法直接貼上 URL 或將電子郵件資產加入書籤)。此問題已解決。此外，從「<b>電子郵件範本</b>」&gt;「<b>詳細資料</b>」&gt;「<b>使用者</b>」的電子郵件資產連結，將重新導向至對應的電子郵件資產。</td>
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
   </tr>
