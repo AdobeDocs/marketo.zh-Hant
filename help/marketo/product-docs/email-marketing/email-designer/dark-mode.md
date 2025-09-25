@@ -5,9 +5,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: f960d7918d97a2c5e3d16673bc4c5c592004ff1e
+source-git-commit: e6aa9e921776ca635c4c234b950c173bc000a3f7
 workflow-type: tm+mt
-source-wordcount: '1252'
+source-wordcount: '1253'
 ht-degree: 1%
 
 ---
@@ -136,7 +136,7 @@ ht-degree: 1%
 
 1. 在您滿意深色模式的變更後，請按一下&#x200B;**[!UICONTROL Simulate Content]**。
 
-   ![](assets/dark-mode-simulate.png)
+   熒幕擷圖
 
 1. 選取&#x200B;**[!UICONTROL Render email]**&#x200B;並連線至您的Litmus帳戶。 您可以看到各種電子郵件使用者端的最終深色模式演算。 深入瞭解[電子郵件呈現](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md)。
 
