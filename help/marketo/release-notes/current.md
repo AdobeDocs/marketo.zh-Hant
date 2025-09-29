@@ -3,7 +3,7 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: fb620ef951ab6d6c24e5694a8d0b398855906644
+source-git-commit: fd36cb6835fa49c08b92f574707c4d10ed6e73b4
 workflow-type: tm+mt
 source-wordcount: '654'
 ht-degree: 99%
@@ -54,7 +54,7 @@ ht-degree: 99%
   <tr>
    <td><strong>電子郵件設計工具 - AI 助理權限</strong>：Marketo 管理員可以為特定使用者提供生成式 AI 功能的存取權。</td>
    <td>已發布</td>
-   <td><a href="/help\marketo\product-docs\email-marketing\email-designer\ai-assistant.md#set-up-permissions">設定許可權</a></td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md#set-up-permissions">設定許可權</a></td>
   </tr>
   <tr>
    <td> </td>
