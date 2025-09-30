@@ -5,7 +5,7 @@ title: 電子郵件個人化
 exl-id: 1562796e-da47-4305-b950-3bed1d36d339
 feature: Getting Started
 source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '319'
 ht-degree: 100%
 

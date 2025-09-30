@@ -3,7 +3,7 @@ unique-page-id: 557086
 description: 其他應用程式 - Marketo 文件 - 產品文件
 title: 其他應用程式
 source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '66'
 ht-degree: 100%
 

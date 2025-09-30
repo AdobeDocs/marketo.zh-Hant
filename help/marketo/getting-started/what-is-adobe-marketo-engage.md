@@ -5,7 +5,7 @@ title: Adobe Marketo Engage 是什麼？
 exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
 feature: Getting Started
 source-git-commit: 94f8ed13720ead55696572be211889d36789a0bd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '286'
 ht-degree: 100%
 

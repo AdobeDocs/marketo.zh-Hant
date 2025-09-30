@@ -3,7 +3,7 @@ unique-page-id: 557080
 description: 個人化 - Marketo 文件 - 產品文件
 title: 個人化
 source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
 ht-degree: 100%
 

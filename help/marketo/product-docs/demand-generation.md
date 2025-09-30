@@ -3,7 +3,7 @@ unique-page-id: 557078
 description: 需求開發 - Marketo 文件 - 產品文件
 title: 需求開發
 source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '141'
 ht-degree: 100%
 

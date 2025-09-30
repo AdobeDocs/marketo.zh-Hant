@@ -5,9 +5,9 @@ title: 發行排程
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
 source-git-commit: f6b0e5c6409e173803a0ec4f8c912511bd90c41f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '135'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -69,7 +69,7 @@ _發行日期/功能可能會有所變更_
   </tr>
   <tr>
    <td>2025 年 10 月</td>
-   <td>2025年10月31日</td>
+   <td>2025 年 10 月 31 日</td>
    <td>準時發行</td>
   </tr>
  </tbody>
