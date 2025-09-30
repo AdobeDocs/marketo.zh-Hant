@@ -3,9 +3,9 @@ description: 非原生MS[!DNL Sales Insight]整合的 [!DNL Dynamics]  - Marketo
 title: '非原生MS[!DNL Sales Insight]整合的 [!DNL Dynamics] '
 exl-id: 07613ff8-b197-4a3d-88e9-720b68a6b8da
 feature: Marketo Sales Insights
-source-git-commit: fb620ef951ab6d6c24e5694a8d0b398855906644
+source-git-commit: 7a57e52b497b271beff95b203bddd0c911e2e6a3
 workflow-type: tm+mt
-source-wordcount: '1269'
+source-wordcount: '1262'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ ht-degree: 0%
     </tbody>
    </table>
 
-   * 銷售人員的[API檔案](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/lead-database/sales-persons){target="_blank"}
+   * 銷售人員的[API檔案](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/sales-persons){target="_blank"}
    * 同步處理銷售人員的[API檔案](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST){target="_blank"}
 
 1. 將MS [!DNL Dynamics]帳戶同步至Marketo。
@@ -80,7 +80,7 @@ ht-degree: 0%
     </tbody>
    </table>
 
-   * 公司的API檔案： [https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/lead-database/companies](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/lead-database/companies){target="_blank"}
+   * 公司的API檔案： [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/companies](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/companies){target="_blank"}
    * 同步處理公司的API檔案： [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST){target="_blank"}
 
 1. 將MS [!DNL Dynamics]銷售機會/聯絡人同步至Marketo。
@@ -117,7 +117,7 @@ ht-degree: 0%
     </tbody>
    </table>
 
-   * 潛在客戶的API檔案： [https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/lead-database/lead-database](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/lead-database/lead-database){target="_blank"}
+   * 潛在客戶的API檔案： [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database){target="_blank"}
    * 同步潛在客戶的API檔案： [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST){target="_blank"}
 
 1. 將MS [!DNL Dynamics]商機同步至Marketo。
@@ -154,7 +154,7 @@ ht-degree: 0%
     </tbody>
    </table>
 
-   * 機會的API檔案： [https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
+   * 機會的API檔案： [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
    * 同步商機的API檔案： [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. 將MS [!DNL Dynamics]連絡人角色同步至Marketo。
@@ -191,7 +191,7 @@ ht-degree: 0%
     </tbody>
    </table>
 
-   * 機會的API檔案： [https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
+   * 機會的API檔案： [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
    * 同步商機的API檔案： [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. 將上一個有趣的時刻/MSI評分欄位同步至MS [!DNL Dynamics]。
@@ -259,6 +259,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >針對銷售機會/聯絡人和帳戶物件型別：如果您正在同步至您自己的自訂欄位，以使用這些必要欄位，在操作Marketo Sales Insights時，我們支援此自訂。 請連絡[Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}以取得此自訂的相關協助。
+   >針對銷售機會/聯絡人和帳戶物件型別：使用Marketo Sales Insights時，Marketo支援使用您自己的自訂欄位作為外部ID欄位。 如果您需要此自訂的相關協助，請連絡[Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。
 
    正確使用外部欄位是成功非原生同步化的關鍵。 如果您在某些檢視中看不到資料，可能是因為某個欄位未正確同步。 例如，如果在檢視「帳戶」底下的MSI Widget時，沒有顯示潛在客戶的活動和有趣的時刻，則可能是潛在客戶的公司或帳戶未正確同步。 在指定外部欄位時對此潛在客戶執行GET要求，將協助您驗證該潛在客戶是否已正確同步。 此外，Marketo中外部銷售人員的電子郵件必須與MS Dynamics中該使用者的電子郵件相符。 如果電子郵件不符，資料可能不會顯示在MS Dynamics的Marketo索引標籤中。
