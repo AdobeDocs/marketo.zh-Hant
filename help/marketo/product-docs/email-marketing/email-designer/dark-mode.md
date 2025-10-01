@@ -5,9 +5,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: e6aa9e921776ca635c4c234b950c173bc000a3f7
+source-git-commit: 618514b786546bfc8eb91de04093791bdb41eeae
 workflow-type: tm+mt
-source-wordcount: '1253'
+source-wordcount: '1195'
 ht-degree: 1%
 
 ---
@@ -41,21 +41,21 @@ ht-degree: 1%
 
 有些電子郵件使用者端會系統地將其本身的預設深色模式套用至所收到的所有電子郵件。 顏色、背景、影像等會自動調整為該電子郵件使用者端專用的深色模式設定。 無法進行外部修改。
 
-例如，這些使用者端：
+以下是一些範例：
 
 * Gmail (案頭網頁郵件、iOS、Android、行動網頁郵件)
 * Outlook Windows
 * Outlook Windows Mail
 
-在此案例中，如果您在電子郵件Designer中定義自訂深色模式設定，則電子郵件使用者端設定會覆寫這些設定。
+在此案例中，如果您在電子郵件Designer中定義自訂深色模式設定，則這些設定會被電子郵件使用者端的設定覆寫。
 
 因此，雖然這些電子郵件使用者端確實會處理深色模式，但您的特定深色模式設計將不會呈現。
 
-### 支援自訂深色模式的使用者端 {#custom-support}
+### 支援自訂深色模式的使用者端 {#custom-dark-mode}
 
-其他電子郵件使用者端提供以`@media (prefers-color-scheme: dark)`查詢呈現自訂深色模式的選項，這是[!DNL Marketo Engage]電子郵件Designer所使用的方法。
+某些電子郵件使用者端提供以`@media (prefers-color-scheme: dark)`查詢呈現自訂深色模式的選項，這是[!DNL Marketo Engage]電子郵件Designer所使用的方法。
 
-以下是處理此選項的主要使用者端清單：
+處理此選項的主要使用者端有：
 
 * Apple Mail macOS
 * Apple Mail iOS
@@ -64,15 +64,15 @@ ht-degree: 1%
 * Outlook iOS
 * Outlook Android
 
-在此情況下，應顯示您在電子郵件Designer中定義的設定。
+此時應會顯示您在電子郵件Designer中定義的設定。
 
 >[!NOTE]
 >
->在[本節](#define-custom-dark-mode)中瞭解如何使用電子郵件Designer定義自訂深色模式設定。
+>瞭解如何在電子郵件Designer中定義[自訂深色模式設定](#define-custom-dark-mode)。
 
-不過，某些限制可能會根據每個電子郵件使用者端而適用。 例如，如果影像存在，Apple Mail 16 (macOs 13)等使用者端將不會產生深色模式。
+每個電子郵件使用者端可能會有不同的限制。 例如，如果影像存在，部分使用者端(例如Apple Mail 16)將不會產生深色模式。
 
-為了獲得最佳結果，請在您定位的電子郵件使用者端中測試您的內容。 若要檢視儘可能接近每個使用者端最終結果的模擬，請使用「電子郵件Designer」中的[電子郵件呈現](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md)功能。
+為了獲得最佳結果，請在您定位的電子郵件使用者端中測試您的內容。 若要檢視每個使用者端中的模擬，請使用電子郵件Designer中的[電子郵件呈現](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md)功能。
 
 ## 電子郵件設計工具中的深色模式 {#dark-mode-email-designer}
 
@@ -84,7 +84,7 @@ ht-degree: 1%
 
 ### 預覽預設深色模式 {#preview-dark-mode}
 
-若要存取電子郵件Designer中的深色模式，並取得預設深色模式設定的預覽，請遵循下列步驟。
+瞭解如何在電子郵件Designer中存取深色模式，並取得預設深色模式設定的預覽。
 
 1. 從電子郵件Designer首頁，選取&#x200B;**[!UICONTROL Design from scratch]**&#x200B;選項。
 
@@ -92,61 +92,61 @@ ht-degree: 1%
 
 1. 在右上方，啟用&#x200B;**[!UICONTROL Dark mode]**&#x200B;切換按鈕。
 
-   熒幕擷圖
+   ![](assets/dark-mode-1.png)
 
 1. 預設深色模式預覽隨即顯示。
 
-   熒幕擷圖
+   ![](assets/dark-mode-2.png)
 
 依預設，電子郵件Designer深色模式預覽會將「全色反轉」色彩配置套用至影像和圖示以外的所有元素。
 
-這表示它會偵測含有明暗元素的區域，並加以反轉，讓淺色背景變成深色，深色文字變成淺色，而深色背景變成淺色，淺色文字變成深色。
+也就是說，它會偵測含有明暗元素的區域，並加以反轉，讓淺色背景變成深色，深色文字變成淺色，而深色背景變成淺色，淺色文字變成深色。
 
 >[!CAUTION]
 >
->最終呈現內容可能會因收件者的電子郵件使用者端而異。 若要檢視儘可能接近每個電子郵件使用者端最終結果的模擬，請使用[電子郵件呈現](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md)選項。
+>最終呈現內容可能會因收件者的電子郵件使用者端而異。 若要檢視每個電子郵件使用者端的模擬，請使用[電子郵件呈現](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md)功能。
 
 ### 定義自訂深色模式 {#define-custom-dark-mode}
 
-切換至&#x200B;**[!UICONTROL Dark mode]**&#x200B;後，您可以選擇編輯內容的特定樣式元素，這些樣式元素只有在收件者的電子郵件使用者端中啟用深色模式時才會顯示，前提是它支援該功能。
+切換至&#x200B;**[!UICONTROL Dark mode]**&#x200B;後，您可以選擇編輯內容的特定樣式元素，這些樣式元素只有在收件者的電子郵件使用者端中啟用深色模式時才會顯示（前提是它支援該功能）。
 
->[!WARNING]
+>[!IMPORTANT]
 >
->深色模式的最終呈現取決於每個電子郵件使用者端，因此結果可能因人而異。 [了解更多](#guardrails)
+>深色模式的最終呈現取決於每個電子郵件使用者端，因此結果可能會因使用者端而異。 [了解更多](#guardrails)
 
-若要運用Email Designer自訂深色模式樣式，Journey Optimizer會使用`@media (prefers-color-scheme: dark)` CSS查詢，以偵測使用者的電子郵件使用者端是否已設為深色模式，並套用您電子郵件中定義的深色主題設計。
+若要運用Email Designer自訂深色模式樣式，Marketo Engage會使用`@media (prefers-color-scheme: dark)` CSS查詢，以偵測使用者的電子郵件使用者端是否已設為深色模式，並套用您電子郵件中定義的深色主題設計。
 
 若要定義自訂深色模式設定，請遵循下列步驟。
 
-1. 請務必切換至電子郵件Designer中的&#x200B;**[!UICONTROL Dark mode]**&#x200B;預覽。 [了解作法](#preview-dark-mode)
+1. 在電子郵件Designer中切換至[深色模式預覽](#preview-dark-mode)。
 
 1. 編輯任何樣式色彩屬性，例如文字、背景、按鈕等。
 
 1. 您無法變更影像和圖示的顏色，但只能為深色模式定義特定資產。 若要這麼做，請選取任何影像。 使用&#x200B;**[!UICONTROL Dark mode]**&#x200B;窗格中的專用切換開關切換至&#x200B;**[!UICONTROL Settings]**，並選取其他資產。
 
-   熒幕擷圖
+   ![](assets/dark-mode-3.png)
 
-1. 您隨時可以&#x200B;**[!UICONTROL Switch to live view]**，以檢查您的內容在各種裝置大小上可能會如何呈現。 從這個檢視中，選取畫面頂端的「深色模式」切換按鈕，即可預覽不同裝置上的深色模式內容版本。
+1. 您隨時可以&#x200B;**[!UICONTROL Switch to live view]**，以檢視您的內容在各種裝置大小上的呈現方式。 從此檢視中，選取「深色模式」切換按鈕，即可預覽不同裝置上深色模式內容的版本。
 
-   熒幕擷圖
+   ![](assets/dark-mode-4.png)
 
-   >[!CAUTION]
+   >[!NOTE]
    >
    >即時檢視是通用的預覽，用來比較各種裝置大小下的轉譯效果。 最終呈現內容可能會因收件者的電子郵件使用者端而異。
 
 1. 在您滿意深色模式的變更後，請按一下&#x200B;**[!UICONTROL Simulate Content]**。
 
-   熒幕擷圖
+   ![](assets/dark-mode-5.png)
 
 1. 選取&#x200B;**[!UICONTROL Render email]**&#x200B;並連線至您的Litmus帳戶。 您可以看到各種電子郵件使用者端的最終深色模式演算。 深入瞭解[電子郵件呈現](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md)。
 
-   >[!WARNING]
+   >[!IMPORTANT]
    >
-   >雖然模擬非常接近電子郵件在深色模式下的顯示方式，但由於電子郵件服務提供者或裝置層級設定的差異，實際呈現可能會有所不同。
+   >雖然模擬非常接近電子郵件在深色模式下的顯示方式，但由於電子郵件服務提供者或裝置設定的差異，實際呈現可能會有所不同。
 
 ## 最佳做法 {#best-practices}
 
-隨著主要電子郵件使用者端採用深色模式的人數增加，您必須考量您的電子郵件在明暗環境中呈現的方式，不論您是否使用[自訂深色模式](#define-custom-dark-mode)。
+隨著主要電子郵件使用者端採用深色模式的人數增加，無論您是否使用[自訂深色模式](#define-custom-dark-mode)，都必須考慮您的電子郵件在明暗環境中的呈現方式。
 
 深色模式可以改變顏色、背景和影像 — 有時會覆寫設計選擇。 為確保視覺一致性、協助工具及品牌完整性，請遵循下列最佳實務。
 
@@ -182,4 +182,4 @@ ht-degree: 1%
 
 * 使用電子郵件Designer的[深色模式預覽](#preview-dark-mode)，它使用反轉的色彩配置來提早發現問題。
 
-* 使用[電子郵件呈現](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md)選項，利用Litmus在主要電子郵件使用者端(Apple Mail、Gmail、Outlook)間模擬您的設計，並瞭解色彩和影像在深色模式下的行為。
+* 使用[電子郵件呈現](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md)功能，此功能可利用Litmus模擬您跨主要電子郵件使用者端的設計，並瞭解色彩和影像在深色模式下的行為。
