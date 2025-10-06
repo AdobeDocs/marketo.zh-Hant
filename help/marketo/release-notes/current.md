@@ -3,9 +3,9 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: fd36cb6835fa49c08b92f574707c4d10ed6e73b4
+source-git-commit: 77008ff8d8f7c577f48b508737e1b8eb2ac1e5ce
 workflow-type: tm+mt
-source-wordcount: '654'
+source-wordcount: '653'
 ht-degree: 99%
 
 ---
@@ -54,7 +54,7 @@ ht-degree: 99%
   <tr>
    <td><strong>電子郵件設計工具 - AI 助理權限</strong>：Marketo 管理員可以為特定使用者提供生成式 AI 功能的存取權。</td>
    <td>已發布</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md#set-up-permissions">設定許可權</a></td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md#set-up-permissions">設定權限</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -63,8 +63,8 @@ ht-degree: 99%
   </tr>
   <tr>
    <td><strong>電子郵件設計工具 - 深色模式</strong>：您現在可以使用深色模式，讓支援的電子郵件用戶端和應用程式以較深色的背景顯示電子郵件，並以較淺的顏色顯示文字、按鈕及其他 UI 元素。</td>
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+   <td>已發布</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/dark-mode.md">深色模式</a></td>
   </tr>
   <tr>
    <td> </td>

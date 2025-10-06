@@ -3,12 +3,10 @@ description: 深色模式 — Marketo檔案 — 產品檔案
 title: 深色模式
 level: Beginner, Intermediate
 feature: Email Designer
-hide: true
-hidefromtoc: true
-source-git-commit: 618514b786546bfc8eb91de04093791bdb41eeae
+source-git-commit: 77008ff8d8f7c577f48b508737e1b8eb2ac1e5ce
 workflow-type: tm+mt
 source-wordcount: '1195'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
