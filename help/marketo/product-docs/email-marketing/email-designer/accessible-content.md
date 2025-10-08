@@ -1,13 +1,13 @@
 ---
 title: 設計無障礙內容
-description: 瞭解如何在Marketo Engage中為您的電子郵件設計無障礙內容。
+description: 瞭解如何在Adobe Marketo Engage中為您的電子郵件設計無障礙內容。
 feature: Email Designer
 role: User
 level: Beginner, Intermediate
 keywords: 電子郵件、設計、協助工具
-source-git-commit: 753455b40ead039a56c595fa61ab9a95b7936382
+source-git-commit: 5adfebfd8f9f0cdaebb1eb86a68c136d46298446
 workflow-type: tm+mt
-source-wordcount: '1358'
+source-wordcount: '1359'
 ht-degree: 0%
 
 ---
