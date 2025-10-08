@@ -3,9 +3,9 @@ description: 事件工作流程 — Marketo檔案 — 產品檔案
 title: 事件工作流程
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
 feature: Interactive Webinars
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 9c6a441bc2ae10953d68f84db798da057c56f2d7
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '456'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## 手動同步 {#manual-sync}
 
-互動式網路研討會可讓您在網路研討會完成後的兩小時內，若未自動收到Adobe Connect提供的互動資料，即可取得該網路研討會的互動資料。 「總覽」頁面會顯示「立即同步」按鈕。 按一下&#x200B;**立即同步**&#x200B;會觸發從Adobe Connect提取以填入Marketo Engage中的資料。 進行同步之後，按鈕會消失，「儀表板」標籤會填入。
+互動式網路研討會可讓您在網路研討會完成後的兩小時內，若未自動收到Adobe Connect提供的互動資料，即可取得該網路研討會的互動資料。 互動式網路研討會傳送日期起的31天後，網路研討會的&#x200B;_控制面板_&#x200B;標題右側會顯示「同步隨選活動」選項。 按一下滑鼠左鍵會觸發從Adobe Connect提取，以填入Marketo Engage中的資料。 它會同步從您的網路研討會日期到您按一下&#x200B;**同步隨選活動**&#x200B;日期的資料。
 
 ## 儀表板Widget {#dashboard-widgets}
 
