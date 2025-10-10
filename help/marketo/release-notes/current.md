@@ -4,9 +4,9 @@ title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
 source-git-commit: 77008ff8d8f7c577f48b508737e1b8eb2ac1e5ce
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '653'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
