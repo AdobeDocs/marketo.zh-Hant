@@ -21,7 +21,7 @@ ht-degree: 1%
 
 您現在可以從登入頁面編輯器中[建立登入頁面](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)的行動檢視。 無論裝置為何，都能有效傳遞您的訊息，並藉由量身打造您的內容以提升參與度，讓您在行動中輕鬆使用。 此功能將在發行後的一週內逐步推出。
 
-[ — 登陸頁面逐步解說影片 — ](https://youtu.be/aPQHlG2X6c0)
+[&#x200B; — 登陸頁面逐步解說影片 — &#x200B;](https://youtu.be/aPQHlG2X6c0)
 
 **新REST API呼叫**
 

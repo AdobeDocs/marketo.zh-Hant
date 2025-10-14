@@ -28,7 +28,7 @@ Adobe正在改善您管理Adobe Marketo Engage訂閱和使用者的方式，為�
 
 * **使用者將使用Adobe身分識別登入**。 Adobe會將現有使用者移轉至Adobe Admin Console。 使用者將使用新的Adobe Identity (Adobe ID或Adobe Federated ID (SSO))登入其Marketo訂閱。
 
-* 移轉後&#x200B;**個URL看起來會不同**。 Marketo Engage將從experience.adobe.com提供至Adobe Experience Cloud，URL的格式如下： `https://experience.adobe.com/#/@tenantID/so:XXX-XXX-XXX/marketo-engage/classic/` (XXX代表Munchkin ID，@tenantID來自您的Adobe組織)。 您必須與IT團隊合作，將所有Adobe網域加入允許清單（列於本文頂端[） ](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"}，以防止對Marketo Engage存取的中斷。
+* 移轉後&#x200B;**個URL看起來會不同**。 Marketo Engage將從experience.adobe.com提供至Adobe Experience Cloud，URL的格式如下： `https://experience.adobe.com/#/@tenantID/so:XXX-XXX-XXX/marketo-engage/classic/` (XXX代表Munchkin ID，@tenantID來自您的Adobe組織)。 您必須與IT團隊合作，將所有Adobe網域加入允許清單（列於本文頂端[） &#x200B;](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"}，以防止對Marketo Engage存取的中斷。
 
 資產的ID號碼維持不變。 而且engage-xx.marketo.com網域&#x200B;_上Marketo Engage資產的先前連結和書籤將會_&#x200B;繼續運作。 不過，您必須先登入要導覽至的URL的Marketo Engage執行個體。 例如，若要導覽至Munchkin ID為123-ABC-456之執行個體中Smart Campaign的書籤，您必須先以Munchkin ID 123-ABC-456登入Marketo Engage執行個體。
 

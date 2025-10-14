@@ -66,7 +66,7 @@ ht-degree: 0%
 **錯誤：** EXPIRED_Access
 **類別：**&#x200B;驗證
 **訊息：** invalid_grant：存取權/重新整理權杖已過期
-**發生狀況：**&#x200B;存取或重新整理Token已過期。 Token會根據[ [!DNL Salesforce]中的](https://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via)工作階段設定到期。
+**發生狀況：**&#x200B;存取或重新整理Token已過期。 Token會根據[&#x200B; [!DNL Salesforce]中的](https://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via)工作階段設定到期。
 **疑難排解步驟：**&#x200B;您需要重新驗證。 中斷[!DNL Salesforce]連線並重新連線。
 
 **錯誤：** FAILED_WRITE

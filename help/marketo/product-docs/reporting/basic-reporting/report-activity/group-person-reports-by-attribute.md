@@ -37,7 +37,7 @@ ht-degree: 10%
 
    >[!TIP]
    >
-   >如果您選擇具有數值的屬性，例如&#x200B;_[!UICONTROL Created At]_&#x200B;或_[!UICONTROL Annual Revenue]_，請從右側的&#x200B;**[!UICONTROL Units]**&#x200B;下拉式清單中選取量度。
+   >如果您選擇具有數值的屬性，例如&#x200B;_[!UICONTROL Created At]_&#x200B;或&#x200B;_[!UICONTROL Annual Revenue]_，請從右側的&#x200B;**[!UICONTROL Units]**&#x200B;下拉式清單中選取量度。
 
    完成了！按一下「**[!UICONTROL Report]**」標籤，檢視您相應分組的報告。
 

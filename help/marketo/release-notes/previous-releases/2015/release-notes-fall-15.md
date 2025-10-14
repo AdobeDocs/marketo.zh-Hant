@@ -43,7 +43,7 @@ ht-degree: 1%
 
 ## [!DNL Google Chrome]的Marketo深入分析 {#marketo-insights-for-google-chrome}
 
-[ [!DNL Google Chrome]的Marketo深入分析](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+[&#x200B; [!DNL Google Chrome]的Marketo深入分析](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
 我們很高興宣佈[!DNL Google Mail] [!DNL Sales Insight]擴充功能的更新發行！ 在[[!DNL Chrome Store]](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb)中檢視它。
 

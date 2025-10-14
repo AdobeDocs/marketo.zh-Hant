@@ -20,7 +20,7 @@ ht-degree: 6%
 
 >[!TIP]
 >
->深入瞭解[ [!DNL Facebook]中的](https://www.facebook.com/help/341425252616329){target="_blank"}自訂對象。
+>深入瞭解[&#x200B; [!DNL Facebook]中的](https://www.facebook.com/help/341425252616329){target="_blank"}自訂對象。
 
 1. 尋找並選取智慧或靜態清單，其中包含您要建立對象的潛在客戶。
 

@@ -96,4 +96,4 @@ ht-degree: 1%
 
    >[!MORELIKETHIS]
    >
-   >使用經理帳戶在收入模型中設定[轉換 [!DNL Google AdWords] ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md){target="_blank"}
+   >使用經理帳戶在收入模型中設定[轉換 [!DNL Google AdWords] &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md){target="_blank"}

@@ -23,7 +23,7 @@ ht-degree: 5%
 >
 >[!DNL Marketo Sales Insight]與[!DNL Salesforce] Platform (Shield)加密相容。
 
-1. 移至[ [!DNL Marketo Sales Insight]的](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)AppExchange頁面，然後按一下&#x200B;**[!UICONTROL Get it Now]**。
+1. 移至[&#x200B; [!DNL Marketo Sales Insight]的](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)AppExchange頁面，然後按一下&#x200B;**[!UICONTROL Get it Now]**。
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-1.png)
 

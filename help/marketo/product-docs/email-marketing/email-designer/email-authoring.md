@@ -229,7 +229,7 @@ ht-degree: 1%
 
 1. 從欄工具列中，按一下&#x200B;_[!UICONTROL Select a column]_&#x200B;工具並選擇您要編輯的工具。
 
-   您也可以從結構樹中選取它。 該欄的可編輯引數會顯示在右側的&#x200B;_[!UICONTROL Settings]_&#x200B;和_[!UICONTROL Styles]_&#x200B;索引標籤中。
+   您也可以從結構樹中選取它。 該欄的可編輯引數會顯示在右側的&#x200B;_[!UICONTROL Settings]_&#x200B;和&#x200B;_[!UICONTROL Styles]_&#x200B;索引標籤中。
 
    ![](assets/authoring-layers-settings-styles-2.png)
 

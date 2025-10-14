@@ -94,4 +94,4 @@ ht-degree: 1%
 
 >[!MORELIKETHIS]
 >
->在收入模型中設定[轉換 [!DNL Google AdWords] ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md){target="_blank"}
+>在收入模型中設定[轉換 [!DNL Google AdWords] &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md){target="_blank"}
