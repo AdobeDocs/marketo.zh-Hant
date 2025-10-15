@@ -4,9 +4,9 @@ description: 角色許可權說明 — Marketo檔案 — 產品檔案
 title: 角色權限說明
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 78af5df3bd62754e6c3097f0497930948bc109d8
 workflow-type: tm+mt
-source-wordcount: '1447'
+source-wordcount: '1451'
 ht-degree: 1%
 
 ---
@@ -120,7 +120,7 @@ _&#42;為避免現有使用者中斷，此許可權將以被動模式引入，�
 
 * 存取電子郵件
    * 編輯電子郵件 — 提供使用者編輯、建立和複製電子郵件的許可權
-      * 讓電子郵件運作 — 授予使用者讓電子郵件運作的許可權。 請參閱：[讓電子郵件運作](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
+      * 製作和編輯營運電子郵件 — 授予使用者建立和/或編輯營運電子郵件的許可權。 請參閱：[讓電子郵件運作](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
 
       * 核准電子郵件 — 讓使用者可核准電子郵件。
       * 刪除電子郵件 — 讓使用者可以刪除電子郵件。
