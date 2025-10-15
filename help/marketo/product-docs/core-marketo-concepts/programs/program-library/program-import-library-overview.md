@@ -14,7 +14,7 @@ ht-degree: 6%
 
 Marketo Engage參考資料庫包含數個入門程式，您可以直接匯入您的Marketo執行個體，以快速開始建立將協助支援您團隊的程式。
 
-程式庫包含類似的程式：電子郵件、參與、事件、評分、傳遞能力及作業。 所有計畫均由Adobe產品團隊開發，並交由我們的[全球專業服務](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}團隊稽核，以發揮最高的品質和效率。
+程式庫包含類似的程式：電子郵件、參與、事件、評分、傳遞能力及作業。 所有計畫均由Adobe產品團隊開發，並交由我們的[全球專業服務](https://business.adobe.com/tw/customers/consulting-services/main.html){target="_blank"}團隊稽核，以發揮最高的品質和效率。
 
 ## 可用的計畫範例 {#available-program-examples}
 

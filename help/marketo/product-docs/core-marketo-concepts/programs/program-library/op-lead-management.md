@@ -18,7 +18,7 @@ ht-degree: 7%
 >
 >在Marketo Engage中，資料庫中的記錄稱為人員/人員。 此範例中的潛在客戶管理會參照您CRM中的記錄。
 
-如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html)頁面。
+如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/tw/customers/consulting-services/main.html)頁面。
 
 ## 頻道摘要 {#channel-summary}
 

@@ -14,7 +14,7 @@ ht-degree: 8%
 
 此為線上廣告追蹤程式的範例，包含具有登錄檔單的Marketo登陸頁面，且使用Marketo預設程式。 優惠連結可顯示在感謝頁面上、以感謝電子郵件傳送或兩者皆顯示。
 
-如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}頁面。
+如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/tw/customers/consulting-services/main.html){target="_blank"}頁面。
 
 ## 頻道摘要 {#channel-summary}
 

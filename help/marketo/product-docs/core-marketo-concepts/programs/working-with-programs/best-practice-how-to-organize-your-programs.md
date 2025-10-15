@@ -121,4 +121,4 @@ Marketo最酷的功能之一是復製程式。 這表示您可以設定方案「
 
 ## 摘要 {#summary}
 
-如您所見，Marketo可提供強大的功能。 我們在這裡介紹了基本知識，但請考慮來自[Marketo Engage專家](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}的其他服務，以進行微調並為您做好成功準備。
+如您所見，Marketo可提供強大的功能。 我們在這裡介紹了基本知識，但請考慮來自[Marketo Engage專家](https://business.adobe.com/tw/products/marketo/services-support.html){target="_blank"}的其他服務，以進行微調並為您做好成功準備。

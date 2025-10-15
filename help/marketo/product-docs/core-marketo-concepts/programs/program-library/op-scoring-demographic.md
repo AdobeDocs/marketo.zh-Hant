@@ -14,7 +14,7 @@ ht-degree: 25%
 
 這是進階（代碼化）作業方案的範例，利用Marketo Engage預設方案進行人口統計評分。 在方案的「我的Token」索引標籤下檢視和編輯評分值。 需要名為「人口統計分數」的自訂分數欄位。
 
-如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}頁面。
+如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/tw/customers/consulting-services/main.html){target="_blank"}頁面。
 
 ## 頻道摘要 {#channel-summary}
 

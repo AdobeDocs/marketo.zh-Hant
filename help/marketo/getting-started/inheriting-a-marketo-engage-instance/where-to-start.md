@@ -64,6 +64,6 @@ Adobe運用Marketo Champions提供的意見，整合了數個Marketo Engage繼�
 
 * 與&#x200B;**[Adobe Marketo Engage社群](https://nation.marketo.com/){target="_blank"}**&#x200B;中的Marketo Engage使用者進行連絡並與其學習。
 
-* 如需充分利用Marketo Engage執行個體的實際操作協助，請聯絡&#x200B;**[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}**。
+* 如需充分利用Marketo Engage執行個體的實際操作協助，請聯絡&#x200B;**[Adobe Professional Services](https://business.adobe.com/tw/products/marketo/services-support.html){target="_blank"}**。
 
 * 觀看&#x200B;**[精選教學課程影片](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=zh-Hant){target="_blank"}**，瞭解Marketo Engage的各個層面。

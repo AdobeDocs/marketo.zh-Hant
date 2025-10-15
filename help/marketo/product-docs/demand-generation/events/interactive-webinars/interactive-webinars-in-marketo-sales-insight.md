@@ -16,7 +16,7 @@ Marketo銷售Insight中的互動式網路研討會，可讓您在Salesforce的Ma
 
 >[!PREREQUISITES]
 >
->此功能僅支援已購買[Marketo Sales Insight](https://business.adobe.com/products/marketo/sales-intelligence-engagement.html)附加元件的使用者。
+>此功能僅支援已購買[Marketo Sales Insight](https://business.adobe.com/tw/products/marketo/sales-intelligence-engagement.html)附加元件的使用者。
 
 在Marketo Engage中註冊活動後(在Adobe Connect中完成網路研討會後)，會透過MSI外掛程式即時同步到Salesforce。
 

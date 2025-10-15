@@ -14,7 +14,7 @@ ht-degree: 11%
 
 這是簡單的Nurture計畫範例，利用Marketo Engage參與計畫，有節奏的內容會隨著時間滴到您的資料庫，同時利用資料流根據行為引導記錄完成歷程。
 
-如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}頁面。
+如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/tw/customers/consulting-services/main.html){target="_blank"}頁面。
 
 ## 頻道摘要 {#channel-summary}
 

@@ -14,7 +14,7 @@ ht-degree: 15%
 
 這是使用預設程式的簡單作業資料管理最佳實務工作流程的範例，協助您管理Marketo Engage資料庫中記錄的資料一致性。
 
-如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}頁面。
+如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/tw/customers/consulting-services/main.html){target="_blank"}頁面。
 
 ## 頻道摘要 {#channel-summary}
 

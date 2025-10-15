@@ -14,7 +14,7 @@ ht-degree: 9%
 
 此範例旨在成為利用Marketo Engage登陸頁面和Marketo Engage表單(使用Marketo Engage預設程式)的內容程式。 此表單用於存取內容/選件。 優惠連結可顯示在感謝頁面上、以感謝電子郵件傳送或兩者皆顯示。
 
-如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}頁面。
+如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/tw/customers/consulting-services/main.html){target="_blank"}頁面。
 
 ## 頻道摘要 {#channel-summary}
 
