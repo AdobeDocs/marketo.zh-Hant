@@ -5,16 +5,16 @@ hide: true
 hidefromtoc: true
 feature: Release Information
 exl-id: 0ca5e844-c30b-4c86-a23d-d8f2c1bdddf5
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7234082102356fc05c760f359ef19ca8cff375b5
 workflow-type: tm+mt
-source-wordcount: '494'
-ht-degree: 92%
+source-wordcount: '538'
+ht-degree: 81%
 
 ---
 
-# 發行說明：2025 年 9 月 {#release-notes-sep-25}
+# 發行說明：2025 年 10 月 {#release-notes-oct-25}
 
-以下為 2025 年 9 月發行版本中包含的所有功能。請查看您的 Adobe Marketo Engage 版本是否提供這些功能。
+下方提供2025年10月發行版本包含的所有功能。 請查看您的 Adobe Marketo Engage 版本是否提供這些功能。
 
 如需 Adobe Dynamic Chat 特定的發行說明，[請參閱這裡](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}。
 
@@ -24,7 +24,7 @@ ht-degree: 92%
 
 ## 標準發行週期功能 {#standard-release-cycle-features}
 
-以下功能屬於標準發行週期，且將於 **2025 年 9 月 19 日**&#x200B;開始發行，其餘功能則會在接下來數週內分階段推出。發行的功能和日期可能有所變更。如需了解各項功能的狀態，請查看其旁邊欄位。
+下列功能屬於標準發行週期，並將於&#x200B;**2025年10月31日**&#x200B;開始發行，並在接下來的幾週內分階段推出剩餘功能。 發行的功能和日期可能有所變更。如需了解各項功能的狀態，請查看其旁邊欄位。
 
 <table style="table-layout:auto">
  <tbody>
@@ -34,15 +34,61 @@ ht-degree: 92%
    <th style="width:25%">文件</th>
   </tr>
   <tr>
-   <td><strong>隨選網路研討會活動保留</strong>：互動式網路研討會使用者現在可使用隨選網路研討會儀表板資料 30 天以上 (之前是只能從網路研討會當日起最多 30 天)。</td>
+   <td><strong>標題</strong>：文字</td>
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
   </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>標題</strong>：文字</td>
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
+  </tr>
+  <tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>標題</strong>：文字</td>
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
+  </tr>
+  <tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>標題</strong>：文字</td>
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
+  </tr>
+  <tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+ <tr>
+   <td><strong>標題</strong>：文字</td>
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
+  </tr>
+  <tr>
   </tbody>
 </table>
 <br/>
 
 ## 公告 {#announcements}
+
+* **REST API雙斜線取代**：在2025年9月16日，Adobe轉換至更現代的REST API URL託管基礎結構，採用更新的技術，增加安全性和擴充性。 如果您的訂閱在URL中使用帶有雙正斜線(//)的API，請閱讀[此Nation貼文](https://nation.marketo.com/t5/product-blogs/rest-api-double-slash-deprecation/ba-p/358616){target="_blank"}以瞭解後續步驟。
 
 * **在新的電子郵件設計工具中切換回 Velocity 指令碼**：Adobe Marketo Engage 於今年 6 月針對新的電子郵件設計工具發布了一項稱為&#x200B;_條件式內容_&#x200B;的功能。此功能之前是由 Handlebar 指令碼而不是 Velocity 指令碼提供支援，以在您的動態內容中提供更多靈活度。但是，當我們發現它導致部分權杖發生錯誤解析時，我們就決定暫時停用。[了解更多](https://nation.marketo.com/t5/product-blogs/update-on-email-scripting-in-the-new-email-designer/ba-p/358179){target="_blank"}
 
@@ -54,6 +100,6 @@ ht-degree: 92%
 
 * **棄用「_轉寄給好友_」功能**：自 2025 年 9 月 29 日起，Marketo Engage 2.0 電子郵件 (舊版電子郵件編輯器) 中的「_轉寄給好友_」功能將在所有訂閱中全面棄用。這會影響已經寄出或即將寄出，且使用「轉寄給好友」權杖的電子郵件中的「轉寄給好友」權杖和連結。[了解更多](https://nation.marketo.com/t5/product-blogs/deprecation-of-forward-to-a-friend/ba-p/358045#M2889){target="_blank"}
 
-* **Rest API &#39;access_token&#39;引數淘汰**：用於驗證Marketo REST API呼叫的`access_token`查詢引數已淘汰，並將於2026年1月31日後無法使用。 所有新的和現有的整合都應使用「授權」標頭驗證 REST API 呼叫，方法[如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
+* **REST API「access_token」參數棄用**：用於驗證 Marketo REST API 呼叫的 `access_token` 查詢參數將棄用，且於 2026 年 1 月 31 日之後不再提供使用。所有新的和現有的整合都應使用「授權」標頭來驗證 REST API 呼叫，方法[如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
-* **SOAP API淘汰**：對Marketo SOAP API的支援將於2026年1月31日終止。 使用 SOAP API 功能的服務應移轉至 [REST API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。
+* **SOAP API 棄用**：將於 2026 年 1 月 31 日停止支援 Marketo SOAP API。使用 SOAP API 功能的服務應移轉至 [REST API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。
