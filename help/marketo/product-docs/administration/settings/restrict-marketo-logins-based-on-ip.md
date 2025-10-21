@@ -21,7 +21,7 @@ ht-degree: 9%
 
 >[!IMPORTANT]
 >
->Adobe Admin Console (AAC)支援[IP型存取控制](https://helpx.adobe.com/enterprise/using/ip-based-access.html){target="_blank"}。 為確保順暢轉換，在啟用此功能的訂閱中，現有Marketo Engage IP限制將啟用，包括到2026年第1季的Adobe ID使用者。
+>Adobe Admin Console (AAC)支援[IP型存取控制](https://helpx.adobe.com/tw/enterprise/using/ip-based-access.html){target="_blank"}。 為確保順暢轉換，在啟用此功能的訂閱中，現有Marketo Engage IP限制將啟用，包括到2026年第1季的Adobe ID使用者。
 >
 >* 您可以隨時設定AAC IP型存取。
 >* AAC和Marketo Engage限制可以同時執行。 使用相同的IP允許清單以瞭解相容性。

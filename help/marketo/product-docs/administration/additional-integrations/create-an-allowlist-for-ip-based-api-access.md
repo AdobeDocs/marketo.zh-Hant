@@ -21,7 +21,7 @@ ht-degree: 13%
 
 >[!NOTE]
 >
->此功能獨立於Marketo Engage [以IP為基礎的登入限制](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"}運作，Admin Console的[以IP為基礎的存取控制](https://helpx.adobe.com/enterprise/using/ip-based-access.html){target="_blank"}正在取代這些限制。 Adobe IMS移轉後，伺服器可繼續正常運作。
+>此功能獨立於Marketo Engage [以IP為基礎的登入限制](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"}運作，Admin Console的[以IP為基礎的存取控制](https://helpx.adobe.com/tw/enterprise/using/ip-based-access.html){target="_blank"}正在取代這些限制。 Adobe IMS移轉後，伺服器可繼續正常運作。
 
 1. 前往「**[!UICONTROL Admin]**」區域。
 
