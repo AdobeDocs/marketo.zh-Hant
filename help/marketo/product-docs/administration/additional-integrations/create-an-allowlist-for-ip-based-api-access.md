@@ -4,10 +4,10 @@ description: 建立IP型API存取的允許清單 — Marketo檔案 — 產品檔
 title: 建立 IP 型 API 存取的允許清單
 exl-id: 1a2f2216-07ee-4d37-b883-458ea39fc452
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3595cdc76a0f92da10dc5ddaac64c4cf83056e88
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 12%
+source-wordcount: '152'
+ht-degree: 13%
 
 ---
 
@@ -21,9 +21,7 @@ ht-degree: 12%
 
 >[!NOTE]
 >
->此功能獨立於Marketo Engage IP型登入限制運作(取代為Admin Console的IP存取清單*)，並將於[Adobe IMS移轉](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)後繼續運作。
->&#x200B;> 
->&#x200B;>&#42;IP存取清單預計於2025年第4季正式推出。
+>此功能獨立於Marketo Engage [以IP為基礎的登入限制](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"}運作，Admin Console的[以IP為基礎的存取控制](https://helpx.adobe.com/enterprise/using/ip-based-access.html){target="_blank"}正在取代這些限制。 Adobe IMS移轉後，伺服器可繼續正常運作。
 
 1. 前往「**[!UICONTROL Admin]**」區域。
 
