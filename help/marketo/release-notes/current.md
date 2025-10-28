@@ -6,7 +6,7 @@ feature: Release Information
 source-git-commit: 49068be70579166eaf0e90a8b2769081a873edd9
 workflow-type: tm+mt
 source-wordcount: '688'
-ht-degree: 55%
+ht-degree: 63%
 
 ---
 
@@ -95,7 +95,7 @@ ht-degree: 55%
 
 ## 公告 {#announcements}
 
-* **REST API雙斜線取代**：在2025年9月16日，Adobe轉換至更現代的REST API URL託管基礎結構，採用更新的技術，增加安全性和擴充性。 如果您的訂閱在URL中使用帶有雙正斜線(//)的API，請閱讀[此Nation貼文](https://nation.marketo.com/t5/product-blogs/rest-api-double-slash-deprecation/ba-p/358616){target="_blank"}以瞭解後續步驟。
+* **REST API 雙斜線棄用**：在 2025 年 9 月 16 日，Adobe 已轉換至更現代化的 REST API URL 託管基礎結構，採用更新的技術，增加安全性和擴充性。如果您的訂閱在 URL 中使用具有雙正斜線 (//) 的 API，請閱讀[此 Nation 文章](https://nation.marketo.com/t5/product-blogs/rest-api-double-slash-deprecation/ba-p/358616){target="_blank"}，以了解後續步驟。
 
 * **在新的電子郵件設計工具中切換回 Velocity 指令碼**：Adobe Marketo Engage 於今年 6 月針對新的電子郵件設計工具發布了一項稱為&#x200B;_條件式內容_&#x200B;的功能。此功能之前是由 Handlebar 指令碼而不是 Velocity 指令碼提供支援，以在您的動態內容中提供更多靈活度。但是，當我們發現它導致部分權杖發生錯誤解析時，我們就決定暫時停用。[了解更多](https://nation.marketo.com/t5/product-blogs/update-on-email-scripting-in-the-new-email-designer/ba-p/358179){target="_blank"}
 
