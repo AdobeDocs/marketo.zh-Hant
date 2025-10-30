@@ -3,16 +3,16 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 517ac202934acb737aa7b1496693668871f38f71
+source-git-commit: dda635ffac84c76eb60ecac395707914c4902c9d
 workflow-type: tm+mt
-source-wordcount: '690'
-ht-degree: 62%
+source-wordcount: '730'
+ht-degree: 91%
 
 ---
 
 # 發行說明：2025 年 10 月 {#release-notes-oct-25}
 
-下方提供2025年10月發行版本包含的所有功能。 請查看您的 Adobe Marketo Engage 版本是否提供這些功能。
+以下為 2025 年 10 月發行版本中包含的所有功能。請查看您的 Adobe Marketo Engage 版本是否提供這些功能。
 
 如需 Adobe Dynamic Chat 特定的發行說明，[請參閱這裡](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}。
 
@@ -22,7 +22,7 @@ ht-degree: 62%
 
 ## 標準發行週期功能 {#standard-release-cycle-features}
 
-下列功能屬於標準發行週期，並將於&#x200B;**2025年10月31日**&#x200B;開始發行，並在接下來的幾週內分階段推出剩餘功能。 發行的功能和日期可能有所變更。如需了解各項功能的狀態，請查看其旁邊欄位。
+以下功能屬於標準發行週期，並且將於 **2025 年 10 月 31 日**&#x200B;開始發行，其餘功能則會在接下來數週內分階段推出。發行的功能和日期可能有所變更。如需了解各項功能的狀態，請查看其旁邊欄位。
 
 <table style="table-layout:auto">
  <tbody>
@@ -42,7 +42,7 @@ ht-degree: 62%
    <td> </td>
   </tr>
   <tr>
-   <td><strong>電子郵件Designer — 條件式內容</strong>：新電子郵件Designer的同等功能，可讓您在權杖之外實現電子郵件個人化。</td>
+   <td><strong>電子郵件設計工具 - 條件式內容</strong>：新電子郵件設計工具的同等功能，可讓您在權杖之外實現電子郵件個人化。</td>
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
   </tr>
@@ -53,7 +53,7 @@ ht-degree: 62%
    <td> </td>
   </tr>
   <tr>
-   <td><strong>電子郵件Designer - A/B測試</strong>：新電子郵件Designer的同等功能，可讓您執行A/B測試，以檢視哪些型別的內容接收最佳回應。</td>
+   <td><strong>電子郵件設計工具 - A/B 測試</strong>：新電子郵件設計工具的同等功能，可讓您執行 A/B 測試，藉此查看哪些類型的內容接收最佳回應。</td>
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
   </tr>
@@ -64,7 +64,7 @@ ht-degree: 62%
    <td> </td>
   </tr>
   <tr>
-   <td><strong>電子郵件Designer — 品牌主題</strong>：您現在可以在Marketo Engage中定義品牌主題。 樣式設定可以跨電子郵件範本和其他電子郵件資產重複使用和套用，以保持品牌一致性。</td>
+   <td><strong>電子郵件設計工具 - 品牌主題</strong>：您現在可以在 Marketo Engage 中定義品牌主題。樣式設定可以在電子郵件範本和其他電子郵件資產中重複使用及套用，以維持品牌一致性。</td>
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
   </tr>
@@ -75,7 +75,7 @@ ht-degree: 62%
    <td> </td>
   </tr>
  <tr>
-   <td><strong>電子郵件Designer — 影像至HTML Converter</strong>：上傳電子郵件的相容PNG/JPEG影像檔案，該檔案會自動轉換為HTML，以便用於新的電子郵件Designer。</td>
+   <td><strong>電子郵件設計工具 - 影像轉 HTML 轉換器</strong>：上傳電子郵件相容的 PNG/JPEG 影像檔案，此檔案會自動轉換為 HTML，以便用於新電子郵件設計工具。</td>
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
   </tr>
@@ -85,7 +85,7 @@ ht-degree: 62%
    <td> </td>
   </tr>
   <tr>
-   <td><strong>電子郵件Designer — 複製電子郵件動作</strong>：您現在可以將電子郵件複製至行銷活動中的另一個方案資料夾，並快速重複使用現有的電子郵件。</td>
+   <td><strong>電子郵件設計工具 - 原地複製電子郵件動作</strong>：您現在可以將電子郵件原地複製至行銷活動中另一個計劃的資料夾，並快速重複使用現有的電子郵件。</td>
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
   </tr>
@@ -94,6 +94,8 @@ ht-degree: 62%
 <br/>
 
 ## 公告 {#announcements}
+
+* **Salesforce CRM整合升級**：將從2025年11月13日起，在七天的時間內，將新版本的原生CRM整合部署至已啟用原生聯結器的使用中沙箱。 在[此國家貼文](https://nation.marketo.com/t5/product-blogs/salesforce-crm-integration-upgrade/ba-p/358702){target="_blank"}中取得完整詳細資料
 
 * **REST API 雙斜線棄用**：在 2025 年 9 月 16 日，Adobe 已轉換至更現代化的 REST API URL 託管基礎結構，採用更新的技術，增加安全性和擴充性。如果您的訂閱在 URL 中使用具有雙正斜線 (//) 的 API，請閱讀[此 Nation 文章](https://nation.marketo.com/t5/product-blogs/rest-api-double-slash-deprecation/ba-p/358616){target="_blank"}，以了解後續步驟。
 
@@ -105,7 +107,7 @@ ht-degree: 62%
 
    * _單一登入 (SSO) 棄用_：已於 2025 年 7 月 30 日停止支援 [Marketo Identity SSO](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"}。該功能將保持正常運作，直到轉換至 Adobe Identity 的過程完成為止。在 Adobe Admin Console 中，Adobe Identity 單一登入必須個別設定。關於設定步驟，請參閱[設定身分識別和單一登入](https://helpx.adobe.com/tw/enterprise/using/set-up-identity.html){target="_blank"}。
 
-* **淘汰&#x200B;_轉寄給朋友_功能**：在2025年9月29日，Marketo Engage 2.0電子郵件（舊版電子郵件編輯器）中的&#x200B;_轉寄給朋友_&#x200B;功能已完全淘汰。 這會影響電子郵件中的「轉寄給朋友」權杖和「轉寄給朋友」連結，這些電子郵件已使用權杖或排程使用權杖來傳送。 [了解更多](https://nation.marketo.com/t5/product-blogs/deprecation-of-forward-to-a-friend/ba-p/358045#M2889){target="_blank"}
+* **棄用「_轉寄給好友_」功能**：自 2025 年 9 月 29 日起，Marketo Engage 2.0 電子郵件 (舊版電子郵件編輯器) 中的「_轉寄給好友_」功能在所有訂閱中已全面棄用。此變更影響已寄出或即將寄出，且使用「轉寄給好友」權杖的電子郵件中的「轉寄給好友」權杖和連結。[了解更多](https://nation.marketo.com/t5/product-blogs/deprecation-of-forward-to-a-friend/ba-p/358045#M2889){target="_blank"}
 
 * **REST API「access_token」參數棄用**：用於驗證 Marketo REST API 呼叫的 `access_token` 查詢參數將棄用，且於 2026 年 1 月 31 日之後不再提供使用。所有新的和現有的整合都應使用「授權」標頭來驗證 REST API 呼叫，方法[如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
