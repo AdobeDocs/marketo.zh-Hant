@@ -5,18 +5,19 @@ title: 範本匯入
 description: 瞭解如何將您現有的電子郵件範本從傳統編輯器匯入新的電子郵件Designer。
 level: Beginner, Intermediate
 feature: Email Designer
+badge: Beta
 hide: true
 hidefromtoc: true
-source-git-commit: f5f5e256631b09937d97d7b70f9475f2c286676d
+source-git-commit: 316d5b59c7ea573f9246613ab3df2de86bdf4706
 workflow-type: tm+mt
-source-wordcount: '710'
-ht-degree: 0%
+source-wordcount: '723'
+ht-degree: 1%
 
 ---
 
 # 範本匯入 {#template-import}
 
-將您現有的電子郵件範本從傳統編輯器順暢地匯入新的電子郵件Designer，保留您的設計，並使用熟悉且可重複使用的結構加快範本建立。
+將您現有的電子郵件範本從傳統編輯器順暢地匯入新的電子郵件Designer，保留您的設計，並使用熟悉且可重複使用的結構加快範本建立。 檢閱[最佳實務](#best-practices)並瞭解[限制和補救措施](#limitations-and-remedies)。
 
 1. 移至&#x200B;**設計工作室**。
 
@@ -62,7 +63,7 @@ ht-degree: 0%
 
    熒幕擷圖
 
-1. 選取元件或結構，然後按一下[建立]。**&#x200B;**
+1. 選取元件或結構，然後按一下[建立]。****
 
    熒幕擷圖
 
@@ -77,6 +78,8 @@ ht-degree: 0%
 * 匯入後，您可以將可重複使用的區段儲存為片段，並核准電子郵件作者使用。 套用品牌主題以維持一致性和法規遵循。
 
 * 您可以繼續使用Velocity指令碼，並考慮使用片段和條件式內容的組合重新實作較舊的程式碼片段，以提升彈性和控制能力。
+
+## 限制與補救措施 {#limitations-and-remedies}
 
 <table><thead>
   <tr>

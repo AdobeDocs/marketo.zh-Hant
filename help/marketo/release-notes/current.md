@@ -3,10 +3,10 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: dda635ffac84c76eb60ecac395707914c4902c9d
+source-git-commit: 316d5b59c7ea573f9246613ab3df2de86bdf4706
 workflow-type: tm+mt
-source-wordcount: '730'
-ht-degree: 91%
+source-wordcount: '731'
+ht-degree: 90%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 91%
    <th style="width:25%">文件</th>
   </tr>
   <tr>
-   <td><strong>電子郵件Designer — 範本匯入工具</strong>：從傳統電子郵件編輯器匯入電子郵件範本，以建立與Design Studio中的新電子郵件Designer相容的範本。</td>
+   <td><strong>電子郵件Designer — 範本匯入工具(Beta)</strong>：從傳統電子郵件編輯器匯入電子郵件範本，以建立與Design Studio中的新電子郵件Designer相容的範本。</td>
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
   </tr>
