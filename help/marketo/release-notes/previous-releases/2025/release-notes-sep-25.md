@@ -2,7 +2,7 @@
 description: 發行說明 — 2025年9月 — Marketo檔案 — 產品檔案
 title: 發行說明 - 2025 年 9 月
 feature: Release Information
-source-git-commit: 58b1315db1a88c5e7aee813ef8dc0042bf8a6b14
+source-git-commit: a0c6dd9413c8ecce0d1d674d7635d57dabd2ae12
 workflow-type: tm+mt
 source-wordcount: '704'
 ht-degree: 98%
@@ -33,7 +33,7 @@ ht-degree: 98%
   <tr>
    <td><strong>隨選網路研討會活動保留</strong>：互動式網路研討會使用者現在可使用隨選網路研討會儀表板資料 30 天以上 (之前是只能從網路研討會當日起最多 30 天)。</td>
    <td>已發布</td>
-   <td><a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">手動同步</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">手動同步</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -63,7 +63,7 @@ ht-degree: 98%
   <tr>
    <td><strong>電子郵件設計工具 - 內容共同作業工作流程</strong>：您現在可以在電子郵件資產中進行註解，以及與其他 Marketo 使用者共同作業。標記團隊成員 (具有適當資產權限的 Marketo 使用者) 後，他們將收到電子郵件或即時簡短通知。</td>
    <td>已發布</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/email-collaboration">電子郵件共同作業</a></td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/email-collaboration.md">電子郵件共同作業</a></td>
   </tr>
   <tr>
    <td> </td>
