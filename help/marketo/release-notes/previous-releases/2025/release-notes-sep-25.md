@@ -2,9 +2,9 @@
 description: 發行說明 — 2025年9月 — Marketo檔案 — 產品檔案
 title: 發行說明 - 2025 年 9 月
 feature: Release Information
-source-git-commit: 7f56808ec26ec28065cc974716a5eab66e1d38b3
+source-git-commit: 58b1315db1a88c5e7aee813ef8dc0042bf8a6b14
 workflow-type: tm+mt
-source-wordcount: '706'
+source-wordcount: '704'
 ht-degree: 98%
 
 ---
@@ -33,17 +33,7 @@ ht-degree: 98%
   <tr>
    <td><strong>隨選網路研討會活動保留</strong>：互動式網路研討會使用者現在可使用隨選網路研討會儀表板資料 30 天以上 (之前是只能從網路研討會當日起最多 30 天)。</td>
    <td>已發布</td>
-   <td><a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">手動同步</a></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>電子郵件設計工具 - 內容共同作業工作流程</strong>：您現在可以在電子郵件資產中進行註解，以及與其他 Marketo 使用者共同作業。標記團隊成員 (具有適當資產權限的 Marketo 使用者) 後，他們將收到電子郵件或即時簡短通知。</td>
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">手動同步</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -71,9 +61,19 @@ ht-degree: 98%
    <td> </td>
   </tr>
   <tr>
+   <td><strong>電子郵件設計工具 - 內容共同作業工作流程</strong>：您現在可以在電子郵件資產中進行註解，以及與其他 Marketo 使用者共同作業。標記團隊成員 (具有適當資產權限的 Marketo 使用者) 後，他們將收到電子郵件或即時簡短通知。</td>
+   <td>已發布</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/email-collaboration">電子郵件共同作業</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
    <td><strong>電子郵件設計工具 - 重新導向修正</strong>：部分使用者在使用這項新的設計工具建立電子郵件時，遇到 URL 重新導向的問題 (例如有時無法直接貼上 URL 或將電子郵件資產加入書籤)。此問題已解決。此外，從「<b>電子郵件範本</b>」&gt;「<b>詳細資料</b>」&gt;「<b>使用者</b>」的電子郵件資產連結，將重新導向至對應的電子郵件資產。</td>
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+   <td>已發布</td>
+   <td>不適用</td>
   </tr>
   </tbody>
 </table>

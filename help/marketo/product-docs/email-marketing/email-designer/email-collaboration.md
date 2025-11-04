@@ -3,13 +3,11 @@ description: 電子郵件共同作業 — Marketo檔案 — 產品檔案
 title: 電子郵件共同作業
 level: Beginner, Intermediate
 feature: Email Designer
-hide: true
-hidefromtoc: true
 exl-id: 686a6950-6ca0-412f-8f47-24974c6428af
-source-git-commit: 3718ab4d6241c45b937929d253297d9d0cf1b3d4
+source-git-commit: 58b1315db1a88c5e7aee813ef8dc0042bf8a6b14
 workflow-type: tm+mt
 source-wordcount: '299'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
