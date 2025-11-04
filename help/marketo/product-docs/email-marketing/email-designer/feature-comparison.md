@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 95bfc3434b1bee5b0050d628cd5f2af219597bad
+source-git-commit: e786cb9f2e8b9726743b4cd2a368252b6731b5c2
 workflow-type: tm+mt
-source-wordcount: '892'
-ht-degree: 10%
+source-wordcount: '888'
+ht-degree: 11%
 
 ---
 
@@ -262,21 +262,21 @@ ht-degree: 10%
     <td>即將推出</td>
   </tr>
   <tr>
-    <td>內容核准工作流程</td>
-    <td>能夠在Marketo Engage中引入電子郵件的核准工作流程。</td>
-    <td>不可用</td>
-    <td>計畫於2025年第4季推出</td>
-  </tr>
-  <tr>
     <td>品牌手冊</td>
     <td>能夠改善反映品牌指引的電子郵件。</td>
     <td>不可用</td>
-    <td>計畫於2026年第1季度推出</td>
+    <td>即將推出</td>
   </tr>
   <tr>
     <td>實驗（A/B測試）</td>
     <td>在將電子郵件傳送給您的對象之前測試電子郵件的功能。</td>
     <td>可用</td>
+    <td>即將推出</td>
+  </tr>
+  <tr>
+    <td>內容核准工作流程</td>
+    <td>能夠在Marketo Engage中引入電子郵件的核准工作流程。</td>
+    <td>不可用</td>
     <td>待定</td>
   </tr>
   <tr>
