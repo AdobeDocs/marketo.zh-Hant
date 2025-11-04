@@ -8,48 +8,50 @@ feature: Email Designer
 badge: Beta
 hide: true
 hidefromtoc: true
-source-git-commit: 316d5b59c7ea573f9246613ab3df2de86bdf4706
+source-git-commit: 3923ddfdffc21b5afd196c413bcf0ea3e2b806f5
 workflow-type: tm+mt
-source-wordcount: '723'
+source-wordcount: '759'
 ht-degree: 1%
 
 ---
 
 # 範本匯入 {#template-import}
 
-將您現有的電子郵件範本從傳統編輯器順暢地匯入新的電子郵件Designer，保留您的設計，並使用熟悉且可重複使用的結構加快範本建立。 檢閱[最佳實務](#best-practices)並瞭解[限制和補救措施](#limitations-and-remedies)。
+從傳統編輯器輕鬆將您現有的電子郵件範本匯入新的電子郵件Designer，保留您的設計，並使用熟悉且可重複使用的結構加快範本建立。 檢閱[最佳實務](#best-practices)並瞭解[限制和補救措施](#limitations-and-remedies)。
+
+>[!NOTE]
+>
+>傳統電子郵件範本是使用自由式HTML開發的，因此此匯入工具不一定能完美匯入每個元件。 請檢閱您匯入的範本，以確保所有區段都可編輯且正確對應。 如果區域無法選取，請重新建立區域以獲得最佳結果。
+
+## 匯入範本 {#import-a-template}
 
 1. 移至&#x200B;**設計工作室**。
 
-   熒幕擷圖
+   ![](assets/import-template-1.png)
 
 1. 按一下&#x200B;**電子郵件範本**&#x200B;並選取&#x200B;**電子郵件範本（新增）**。
 
-   熒幕擷圖
+   ![](assets/import-template-2.png)
 
 1. 按一下&#x200B;**建立範本**。
 
-   熒幕擷圖
+   ![](assets/import-template-3.png)
 
 1. 輸入&#x200B;_名稱_&#x200B;和（選擇性） _描述_。
 
-   熒幕擷圖
+   ![](assets/import-template-4.png)
 
-1. 按一下&#x200B;**Marketo範本**，然後選擇在傳統電子郵件編輯器中建立的現有範本。
+1. 按一下「**Marketo範本**」標籤，然後從使用傳統電子郵件編輯器建立的現有範本中選擇。
 
-   熒幕擷圖
+   ![](assets/import-template-5.png)
 
    >[!NOTE]
    >
    >只能匯入已核准且已與目前工作區共用的範本和範本。
 
-1. 選取所需的範本。
+1. 按一下&#x200B;**使用此範本**。
 
-   熒幕擷圖
-
-1. 按一下「使用此範本」。
-
-   熒幕擷圖
+   ![](assets/import-template-6.png)
 
 1. 匯入的範本會在「電子郵件Designer」中開啟。
 
@@ -61,19 +63,19 @@ ht-degree: 1%
 
 1. 按一下頂端的&#x200B;**...更多**&#x200B;按鈕，然後選取&#x200B;**另存為片段**。
 
-   熒幕擷圖
+   ![](assets/import-template-7.png)
 
-1. 選取元件或結構，然後按一下[建立]。**&#x200B;**
+1. 選取元件或結構，然後按一下[建立]。****
 
-   熒幕擷圖
+   ![](assets/import-template-8.png)
 
 1. 輸入名稱（和選用的說明），然後按一下&#x200B;**儲存**。
 
-   熒幕擷圖
+   ![](assets/import-template-9.png)
 
 ## 最佳做法 {#best-practices}
 
-* 由於自由式HTML的差異可能很大，匯入工具可能不會總是完美地解譯每個元件。 請檢閱匯入的範本，以確保所有區段都可編輯且正確對應。 如果零件無法選取，則只要重新建立該區段以獲得最佳結果即可。
+* 傳統電子郵件範本是使用自由式HTML開發的，因此此匯入工具不一定能完美匯入每個元件。 請檢閱您匯入的範本，以確保所有區段都可編輯且正確對應。 如果區域無法選取，請重新建立區域以獲得最佳結果。
 
 * 匯入後，您可以將可重複使用的區段儲存為片段，並核准電子郵件作者使用。 套用品牌主題以維持一致性和法規遵循。
 
@@ -113,7 +115,7 @@ ht-degree: 1%
   <tr>
     <td>專案符號本身不受支援。</td>
     <td>電子郵件Designer目前不提供專案符號。</td>
-    <td>考慮使用替代技術重新實作專案符號。</td>
+    <td>考慮使用替代技術重新建立專案符號。</td>
   </tr>
   <tr>
     <td>容器的內容與值屬性值不相符時，垂直對齊會扭曲。</td>
@@ -143,6 +145,6 @@ ht-degree: 1%
   <tr>
     <td>舊範本中的程式碼片段無法用於電子郵件Designer。</td>
     <td>電子郵件Designer不支援代碼片段。</td>
-    <td>將您的程式碼片段重新實作為片段搭配條件式內容。</td>
+    <td>將您的程式碼片段重新建立為片段並搭配條件式內容。</td>
   </tr>
 </tbody></table>
