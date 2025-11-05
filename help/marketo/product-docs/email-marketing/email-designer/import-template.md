@@ -63,7 +63,7 @@ ht-degree: 1%
 
    ![](assets/import-template-7.png)
 
-1. 選取元件或結構，然後按一下[建立]。****
+1. 選取元件或結構，然後按一下[建立]。**&#x200B;**
 
    ![](assets/import-template-8.png)
 
