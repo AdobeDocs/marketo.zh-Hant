@@ -4,9 +4,9 @@ description: 排程A/B測試 — Marketo檔案 — 產品檔案
 title: 安排 A/B 測試的時間
 exl-id: f50a00a3-da03-468a-89f8-0d31b69314c0
 feature: Email Programs, A/B Testing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: c80d25aeafe2314fcff1d99359ff146c88acad06
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '201'
 ht-degree: 5%
 
 ---
@@ -25,35 +25,35 @@ ht-degree: 5%
 
 1. 選取&#x200B;**[!UICONTROL Send Test]**&#x200B;日期。
 
-![](assets/image2014-9-12-15-3a59-3a54.png)
+![](assets/schedule-the-a-b-test-1.png)
 
 1. 選取&#x200B;**[!UICONTROL Send Test]**&#x200B;時間。
 
-   ![](assets/image2014-9-12-16-3a0-3a2.png)
+   ![](assets/schedule-the-a-b-test-2.png)
 
    >[!NOTE]
    >
    >傳送測試並傳送獲勝者必須相隔至少4小時。 不過，對於較大的傳送，您可能想要等待24小時，以留出足夠的時間取得良好的結果。
 
-1. 對&#x200B;**[!UICONTROL Send Winner]**&#x200B;執行相同操作。 輸入通知收件者（選擇性）並按一下&#x200B;**[!UICONTROL Next]**。
+1. 對&#x200B;_傳送獲勝者_&#x200B;重複步驟1和2。 輸入通知收件者（選擇性）並按一下&#x200B;**[!UICONTROL Next]**。
 
    >[!NOTE]
    >
    >只有測試群組會接收測試變體。
 
-   ![](assets/image2014-9-12-16-3a0-3a12.png)
+   ![](assets/schedule-the-a-b-test-3.png)
 
    >[!NOTE]
    >
    >如果您選擇手動宣告獲勝者，您將定義&#x200B;**報告傳送**&#x200B;日期/時間，而非&#x200B;**完成郵寄**&#x200B;日期/時間。
 
-   超級！ 您已完成，只要檢閱摘要並按一下「**[!UICONTROL Close]**」即可。
+1. 檢閱摘要並按一下&#x200B;**[!UICONTROL Close]**。
 
-   ![](assets/image2014-9-12-16-3a1-3a23.png)
+   ![](assets/schedule-the-a-b-test-4.png)
 
    您會注意到&#x200B;**[!UICONTROL Schedule]**&#x200B;圖磚現在已更新。
 
-   ![](assets/image2014-9-12-16-3a1-3a33.png)
+   ![](assets/schedule-the-a-b-test-5.png)
 
    >[!NOTE]
    >

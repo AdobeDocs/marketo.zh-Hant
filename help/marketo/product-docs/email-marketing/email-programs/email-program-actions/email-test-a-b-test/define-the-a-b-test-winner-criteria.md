@@ -4,9 +4,9 @@ description: 定義A/B測試獲勝者條件 — Marketo檔案 — 產品檔案
 title: 定義 A/B 測試勝出條件
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
 feature: Email Programs, A/B Testing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: c80d25aeafe2314fcff1d99359ff146c88acad06
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '413'
 ht-degree: 21%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 21%
 
 1. 預設&#x200B;**[!UICONTROL Winner Criteria]**&#x200B;選項會先列出。
 
-   ![](assets/image2014-9-12-15-3a51-3a3.png)
+   ![](assets/define-the-a-b-test-winner-criteria-1.png)
 
    <table>
    <tr>
@@ -40,7 +40,7 @@ ht-degree: 21%
    </tr>
    <tr>
    <td><b>[!UICONTROL Engagement Score]</b></td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html?lang=zh-Hant" target="_blank">參與分數</a>可協助您判斷內容的有效性。</td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html" target="_blank">參與分數</a>可協助您判斷內容的有效性。</td>
    </tr>
    </table>
 
@@ -50,35 +50,33 @@ ht-degree: 21%
 
 1. 您也可以選取&#x200B;**[!UICONTROL Custom Conversion]**&#x200B;並按一下&#x200B;**[!UICONTROL Edit]**&#x200B;來自訂條件。
 
-   ![](assets/image2014-9-12-15-3a51-3a53.png)
+   ![](assets/define-the-a-b-test-winner-criteria-2.png)
 
    >[!NOTE]
    >
    >自訂轉換可讓您使用觸發器和篩選器挑選任何事件作為轉換。
 
-1. 視窗隨即開啟。 找出您選擇的觸發器，並將其拖曳至畫布中。
+1. 隨即開啟一個視窗。 找出您選擇的觸發器，並將其拖曳至畫布中。
 
-   ![](assets/image2014-9-12-15-3a52-3a18.png)
+   ![](assets/define-the-a-b-test-winner-criteria-3.png)
 
 1. 定義觸發器。
 
-   ![](assets/image2014-9-12-15-3a53-3a11.png)
+   ![](assets/define-the-a-b-test-winner-criteria-4.png)
 
    >[!IMPORTANT]
    >
    >Marketo僅允許從這個電子郵件程式傳送電子郵件之人員的觸發器/篩選器，因此不需要新增「已傳送電子郵件」篩選器。 此外，使用電子郵件相關的觸發器/篩選器時，請務必使用「is any」作為運運算元。
 
-1. 按一下「**[!UICONTROL Close]**」。
+1. 關閉開啟的新視窗（或標籤）。 「智慧清單」會自動儲存。
 
-   ![](assets/image2014-9-12-15-3a53-3a36.png)
-
-   太棒了！ 現在該決定如何決定獲勝者了。
+現在該決定如何決定獲勝者了。
 
 ## 宣告贏家 {#declare-winner}
 
 1. 從兩個可用選項中選擇一個。
 
-   ![](assets/image2014-9-12-15-3a53-3a44.png)
+   ![](assets/define-the-a-b-test-winner-criteria-5.png)
 
    >[!NOTE]
    >
@@ -88,10 +86,10 @@ ht-degree: 21%
 
 1. 「自動」很棒，而且是預設選項。 只需按一下&#x200B;**[!UICONTROL Next]**。
 
-   ![](assets/image2014-9-12-15-3a54-3a35.png)
+   ![](assets/define-the-a-b-test-winner-criteria-6.png)
 
    >[!TIP]
    >
    >選擇&#x200B;**[!UICONTROL Manual]**&#x200B;將會傳送測試並等待您宣告獲勝者。 您將會收到結果的報告。
 
-完美！ 現在[排程A/B測試](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"}。
+現在[排程A/B測試](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"}。
