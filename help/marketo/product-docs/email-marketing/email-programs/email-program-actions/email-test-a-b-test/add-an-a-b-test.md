@@ -4,9 +4,9 @@ description: 新增A/B測試 — Marketo檔案 — 產品檔案
 title: 新增 A/B 測試
 exl-id: 18397dde-496c-4809-a224-3c025c8ccc84
 feature: Email Programs, A/B Testing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: de037f08506f51ecf4a98a0806a8b2a430f6bc81
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '176'
 ht-degree: 5%
 
 ---
@@ -24,21 +24,21 @@ ht-degree: 5%
 
 1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
-   ![](assets/login-marketing-activities.png)
+   ![](assets/add-an-a-b-test-1.png)
 
 1. 選取您的電子郵件程式。
 
-   ![](assets/selectemailprogram.jpg)
+   ![](assets/add-an-a-b-test-2.jpg)
 
 1. 在&#x200B;**[!UICONTROL Email]**&#x200B;圖磚下，按一下&#x200B;**[!UICONTROL Add A/B Test]**。
 
-   ![](assets/image2014-9-12-14-3a39-3a29.png)
+   ![](assets/add-an-a-b-test-3.png)
 
    >[!NOTE]
    >
    >新增A/B測試時，選取的電子郵件將無法再用於任何其他程式。
 
-1. 新視窗會隨即開啟，其中有不同的&#x200B;**測試型別**&#x200B;可供選擇。 探索以下任一相關文章以繼續。
+1. 新視窗會開啟，其中有不同的&#x200B;**測試型別**&#x200B;可供選擇。 探索以下任一相關文章以繼續。
 
    >[!CAUTION]
    >
