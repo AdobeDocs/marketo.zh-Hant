@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 6f1b4b6478e95d6d8aa332622daf2f29dd794bfe
+source-git-commit: 4667062002f24cd4f09aed3f747d82cd003351f6
 workflow-type: tm+mt
-source-wordcount: '1326'
+source-wordcount: '1272'
 ht-degree: 1%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 1%
 >[!PREREQUISITES]
 >
 >* 您必須先同意[核心Gen-AI條款與補充條款](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}，才能在電子郵件Designer中使用Gen-AI功能。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
->* 您必須擁有&#x200B;_存取名稱_，以及在您的Marketo角色&#x200B;_中啟用_&#x200B;的[存取電子郵件範本](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role)許可權。
+>* 您必須擁有&#x200B;_存取電子郵件範本_&#x200B;以及&#x200B;_編輯/產生電子郵件範本_&#x200B;許可權，並在您的Marketo角色[中啟用](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role)。
 
 ## 轉換影像 {#convert-an-image}
 
@@ -46,14 +46,6 @@ ht-degree: 1%
 1. 輸入&#x200B;_範本名稱_&#x200B;和選擇性描述。 您也可以選擇品牌樣式。 上傳或拖放所需的影像。
 
    ![](assets/image-to-html-3.png)
-
-   我是否可以DELETE此警告標籤……
-
-   >[!CAUTION]
-   >
-   >當您上傳影像以進行轉換時，將會刪除目前新增至電子郵件中的&#x200B;**所有內容，並以**&#x200B;產生的範本取代。 如果您的電子郵件中有現有內容，請務必先儲存內容，再繼續進行影像轉換。
-
-   我是否可以DELETE此警告標籤^^^
 
 1. 向下捲動並選取&#x200B;_上傳檔案不包含……_&#x200B;核取方塊。 按一下&#x200B;**轉換**。
 
