@@ -3,10 +3,10 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 588ec23961df42de8a8c0aed919ba9a016b61f18
+source-git-commit: a53178021f3abdbfc5e1cdff76bc1f0483c4b887
 workflow-type: tm+mt
-source-wordcount: '730'
-ht-degree: 90%
+source-wordcount: '729'
+ht-degree: 99%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 90%
    <th style="width:25%">文件</th>
   </tr>
   <tr>
-   <td><strong>電子郵件Designer — 範本匯入工具(Beta)</strong>：從傳統電子郵件編輯器匯入電子郵件範本，以建立與Design Studio中的新電子郵件Designer相容的範本。</td>
+   <td><strong>電子郵件設計工具 - 範本匯入工具 (Beta)</strong>：從傳統電子郵件編輯器匯入電子郵件範本，來建立與 Design Studio 中新電子郵件設計工具相容的範本。</td>
    <td>已發布</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/import-template.md" target="_blank">範本匯入</a></td>
   </tr>
@@ -86,8 +86,8 @@ ht-degree: 90%
   </tr>
   <tr>
    <td><strong>電子郵件設計工具 - 原地複製電子郵件動作</strong>：您現在可以將電子郵件原地複製至行銷活動中另一個計劃的資料夾，並快速重複使用現有的電子郵件。</td>
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+   <td>已發布</td>
+   <td>不適用</td>
   </tr>
   </tbody>
 </table>
@@ -95,7 +95,7 @@ ht-degree: 90%
 
 ## 公告 {#announcements}
 
-* **Salesforce CRM整合升級**：將從2025年11月13日起，在七天的時間內，將新版本的原生CRM整合部署至已啟用原生聯結器的使用中沙箱。 在[此國家貼文](https://nation.marketo.com/t5/product-blogs/salesforce-crm-integration-upgrade/ba-p/358702){target="_blank"}中取得完整詳細資料
+* **Salesforce CRM 整合升級**：原生 CRM 整合的新版本自 2025 年 11 月 13 日起的七日內，將部署至已啟用原生連接器的主要沙箱。在[此 Nation 貼文](https://nation.marketo.com/t5/product-blogs/salesforce-crm-integration-upgrade/ba-p/358702){target="_blank"}中取得完整詳細資訊
 
 * **REST API 雙斜線棄用**：在 2025 年 9 月 16 日，Adobe 已轉換至更現代化的 REST API URL 託管基礎結構，採用更新的技術，增加安全性和擴充性。如果您的訂閱在 URL 中使用具有雙正斜線 (//) 的 API，請閱讀[此 Nation 文章](https://nation.marketo.com/t5/product-blogs/rest-api-double-slash-deprecation/ba-p/358616){target="_blank"}，以了解後續步驟。
 
