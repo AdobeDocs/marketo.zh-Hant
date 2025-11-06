@@ -4,9 +4,9 @@ description: 建立細分 — Marketo檔案 — 產品檔案
 title: 建立細分
 exl-id: a7907f1d-bc78-4b63-9875-044e96609755
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b29186ba84ec88be42432e56d1ad0e77c5b43900
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '215'
 ht-degree: 3%
 
 ---
@@ -15,13 +15,13 @@ ht-degree: 3%
 
 區段可讓您將人員分組為不同的設定檔，以便報告和動態內容。 以下是其建立方式。
 
-1. 移至&#x200B;**[!UICONTROL Database]**。
+1. 前往您的&#x200B;**[!UICONTROL Database]**。
 
-   ![](assets/image2017-3-28-13-3a44-3a54.png)
+   ![](assets/create-a-segmentation-1.png)
 
 1. 按一下&#x200B;**[!UICONTROL New]**，然後再按&#x200B;**[!UICONTROL New Segmentation]**。
 
-   ![](assets/image2017-3-28-13-3a56-3a57.png)
+   ![](assets/create-a-segmentation-2.png)
 
    >[!TIP]
    >
@@ -29,7 +29,7 @@ ht-degree: 3%
 
 1. 輸入&#x200B;**[!UICONTROL Name]**，按一下&#x200B;**[!UICONTROL Add Segment]**&#x200B;並命名它。
 
-   ![](assets/image2014-9-15-10-3a1-3a1.png)
+   ![](assets/create-a-segmentation-3.png)
 
    >[!NOTE]
    >
@@ -37,7 +37,7 @@ ht-degree: 3%
 
 1. 新增任意所需數量的區段（最多100個）。
 
-   ![](assets/image2014-9-15-10-3a1-3a16.png)
+   ![](assets/create-a-segmentation-4.png)
 
    >[!CAUTION]
    >
@@ -47,7 +47,7 @@ ht-degree: 3%
 
 1. 拖放區段四處以變更其順序。 完成後，按一下&#x200B;**[!UICONTROL Create]**。
 
-   ![](assets/image2014-9-15-10-3a1-3a30.png)
+   ![](assets/create-a-segmentation-5.png)
 
    >[!NOTE]
    >
