@@ -6,7 +6,7 @@ description: 瞭解如何使用Adobe Express在Adobe Marketo Engage電子郵件�
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 40fdd38d8ec5b63568c8ed9beeab0ef50974b7fd
 workflow-type: tm+mt
 source-wordcount: '807'
 ht-degree: 1%
@@ -88,7 +88,7 @@ Adobe Marketo Engage與Adobe Express原生整合，可讓您存取多種影像�
 
 >[!IMPORTANT]
 >
->購買的授權必須與您的Marketo Engage訂閱屬於同一個IMS組織，才能存取所有Adobe Express編輯功能。 此外，每位使用者都必須擁有Adobe Express的授權。 沒有授權的使用者[&#128279;](#users-without-an-enterprise-license)只能存取Adobe Express中的快速動作。
+>購買的授權必須與您的Marketo Engage訂閱屬於同一個IMS組織，才能存取所有Adobe Express編輯功能。 此外，每位使用者都必須擁有Adobe Express的授權。 沒有授權的使用者[](#users-without-an-enterprise-license)只能存取Adobe Express中的快速動作。
 
 ### 沒有企業授權的使用者 {#users-without-an-enterprise-license}
 
@@ -109,7 +109,7 @@ Adobe Marketo Engage與Adobe Express原生整合，可讓您存取多種影像�
 
 1. 進行您想要的變更，完成時按一下&#x200B;**套用**。
 
-![調整影像視窗大小，顯示所有可用的選項](assets/edit-images-with-adobe-express-5.png){width="800" zoomable="yes"}
+![調整影像視窗大小，顯示所有可用選項](assets/edit-images-with-adobe-express-5.png){width="800" zoomable="yes"}
 
 <table><tbody>
   <tr>
@@ -135,7 +135,7 @@ Adobe Marketo Engage與Adobe Express原生整合，可讓您存取多種影像�
 
 1. 按一下&#x200B;**移除背景**。
 
-1. Adobe Express會顯示沒有背景的影像。 如果符合您的需求，請按一下[套用]。**&#x200B;**
+1. Adobe Express會顯示沒有背景的影像。 如果符合您的需求，請按一下[套用]。****
 
 ![剛移除背景的狗影像](assets/edit-images-with-adobe-express-6.png){width="800" zoomable="yes"}
 
