@@ -5,9 +5,7 @@ title: 條件式內容
 description: 在電子郵件中使用條件式內容，以根據收件者動態顯示內容。
 level: Beginner, Intermediate
 feature: Email Designer
-hide: true
-hidefromtoc: true
-source-git-commit: 6f2d3256f3422f1c5054dfd87db3e31c862724a5
+source-git-commit: fdd1cc80d215fc7dee484a9e7b9fa640a47c4519
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 3%
@@ -20,7 +18,7 @@ ht-degree: 3%
 
 >[!PREREQUISITES]
 >
->已建立至少一個區段[&#128279;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)且[已核准](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)。
+>已建立至少一個區段[](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)且[已核准](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)。
 
 ## 新增條件式內容 {#add-conditional-content}
 
@@ -52,7 +50,7 @@ ht-degree: 3%
 
    ![](assets/conditional-content-7.png){width="600" zoomable="yes"}
 
-1. 若要新增其他變體（選擇性），請按一下[新增變體] **&#x200B;**，然後遵循相同的步驟。
+1. 若要新增其他變體（選擇性），請按一下[新增變體] ****，然後遵循相同的步驟。
 
    ![](assets/conditional-content-8.png)
 
