@@ -3,7 +3,7 @@ unique-page-id: 2952292
 description: 瞭解通知 — Marketo檔案 — 產品檔案
 title: 了解通知
 exl-id: c47b10ae-cca0-427d-88e3-8f5f84aa5467
-source-git-commit: 759d79fd932924b68ae2727b36cd1b9fb3b7a278
+source-git-commit: 5596dd02ff980145c3ada82d116f8b7619d2ce84
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 2%
@@ -28,7 +28,7 @@ ht-degree: 2%
 
 您可以訂閱通知，以便在電子郵件中接收這些通知。
 
-1. 在&#x200B;_通知_&#x200B;畫面中按一下&#x200B;**[!UICONTROL Subscribe]**。
+1. 在&#x200B;_通知_&#x200B;畫面中，按一下&#x200B;**[!UICONTROL Subscribe]**。
 
    ![](assets/understanding-notifications-3.png)
 
@@ -38,7 +38,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->**[!UICONTROL Send to]**&#x200B;方塊僅供您輸入電子郵件地址；它不會顯示現有訂閱者的清單。
+>_[!UICONTROL Send to]_方塊僅供您輸入電子郵件地址；它不會顯示現有訂閱者的清單。
 
 在某些情況下，通知會提供「檢視完整清單」連結來下載逗號分隔值(CSV)檔案，例如Microsoft Dynamics同步錯誤檔案。 Marketo Engage會將這些CSV檔案保留30天。 如果您在30天後嘗試下載檔案，將會出現404錯誤。
 
