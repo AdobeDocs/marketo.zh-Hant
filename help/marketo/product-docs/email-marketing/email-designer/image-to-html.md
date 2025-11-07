@@ -1,15 +1,15 @@
 ---
-title: GenStudio 與 Marketo Engage 的整合
-description: 瞭解如何在Marketo Engage中使用GenStudio。
+title: 將影像轉換為HTML範本
+description: 使用此無程式碼工具將影像轉換為可編輯的電子郵件範本。
 solution: Marketo Engage
 product: marketo
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 4667062002f24cd4f09aed3f747d82cd003351f6
+source-git-commit: 1e067b5f5e8a989d2fc98d54a5a5720cc93c644c
 workflow-type: tm+mt
-source-wordcount: '1272'
+source-wordcount: '1277'
 ht-degree: 1%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 1%
 >[!PREREQUISITES]
 >
 >* 您必須先同意[核心Gen-AI條款與補充條款](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}，才能在電子郵件Designer中使用Gen-AI功能。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
->* 您必須擁有&#x200B;_存取電子郵件範本_&#x200B;以及&#x200B;_編輯/產生電子郵件範本_&#x200B;許可權，並在您的Marketo角色[中啟用](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role)。
+>* 您必須擁有&#x200B;_存取電子郵件範本_&#x200B;以及&#x200B;_編輯/產生電子郵件範本_&#x200B;許可權，並在您的Marketo角色[中啟用](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role)。
 
 ## 轉換影像 {#convert-an-image}
 
