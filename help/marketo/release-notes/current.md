@@ -3,9 +3,9 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: fdd1cc80d215fc7dee484a9e7b9fa640a47c4519
+source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
 workflow-type: tm+mt
-source-wordcount: '728'
+source-wordcount: '730'
 ht-degree: 99%
 
 ---
@@ -47,6 +47,25 @@ ht-degree: 99%
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/conditional-content.md" target="_blank">條件式內容</a></td>
   </tr>
   <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+ <tr>
+   <td><strong>電子郵件設計工具 - 影像轉 HTML 轉換器</strong>：上傳電子郵件相容的 PNG/JPEG 影像檔案，此檔案會自動轉換為 HTML，以便用於新電子郵件設計工具。</td>
+   <td>已發布</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/image-to-html.md" target="_blank">將影像轉換為HTML範本</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>電子郵件設計工具 - 原地複製電子郵件動作</strong>：您現在可以將電子郵件原地複製至行銷活動中另一個計劃的資料夾，並快速重複使用現有的電子郵件。</td>
+   <td>已發布</td>
+   <td>不適用</td>
+  </tr>
   <tr>
    <td> </td>
    <td> </td>
@@ -58,7 +77,6 @@ ht-degree: 99%
    <td><i>即將推出</i></td>
   </tr>
   <tr>
-  <tr>
    <td> </td>
    <td> </td>
    <td> </td>
@@ -67,27 +85,6 @@ ht-degree: 99%
    <td><strong>電子郵件設計工具 - 品牌主題</strong>：您現在可以在 Marketo Engage 中定義品牌主題。樣式設定可以在電子郵件範本和其他電子郵件資產中重複使用及套用，以維持品牌一致性。</td>
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
-  </tr>
-  <tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
- <tr>
-   <td><strong>電子郵件設計工具 - 影像轉 HTML 轉換器</strong>：上傳電子郵件相容的 PNG/JPEG 影像檔案，此檔案會自動轉換為 HTML，以便用於新電子郵件設計工具。</td>
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>電子郵件設計工具 - 原地複製電子郵件動作</strong>：您現在可以將電子郵件原地複製至行銷活動中另一個計劃的資料夾，並快速重複使用現有的電子郵件。</td>
-   <td>已發布</td>
-   <td>不適用</td>
   </tr>
   </tbody>
 </table>
