@@ -18,7 +18,7 @@ ht-degree: 3%
 
 >[!PREREQUISITES]
 >
->已建立至少一個區段[](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)且[已核准](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)。
+>已建立至少一個區段[&#128279;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)且[已核准](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)。
 
 ## 新增條件式內容 {#add-conditional-content}
 
@@ -50,7 +50,7 @@ ht-degree: 3%
 
    ![](assets/conditional-content-7.png){width="600" zoomable="yes"}
 
-1. 若要新增其他變體（選擇性），請按一下[新增變體] ****，然後遵循相同的步驟。
+1. 若要新增其他變體（選擇性），請按一下[新增變體] **&#x200B;**，然後遵循相同的步驟。
 
    ![](assets/conditional-content-8.png)
 
