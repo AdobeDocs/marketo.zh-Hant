@@ -5,9 +5,9 @@ title: 條件式內容
 description: 在電子郵件中使用條件式內容，以根據收件者動態顯示內容。
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
+source-git-commit: 759d79fd932924b68ae2727b36cd1b9fb3b7a278
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '303'
 ht-degree: 2%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 2%
 
 >[!PREREQUISITES]
 >
->已建立至少一個區段[&#128279;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)且[已核准](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)。
+>已建立至少一個區段[](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)且[已核准](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)。
 
 ## 新增條件式內容 {#add-conditional-content}
 
@@ -46,7 +46,7 @@ ht-degree: 2%
 
    ![](assets/conditional-content-6.png){width="600" zoomable="yes"}
 
-1. 新影像隨即顯示。 建議您重新命名變體，以便於識別。 只要按一下省略符號並選取&#x200B;**重新命名**&#x200B;即可。
+1. 新影像隨即顯示。 建議您重新命名變體，以便於識別。 按一下省略符號並選取&#x200B;**重新命名**。
 
    >[!NOTE]
    >
@@ -54,7 +54,7 @@ ht-degree: 2%
 
    ![](assets/conditional-content-7.png){width="600" zoomable="yes"}
 
-1. 若要新增其他變體（選擇性），請按一下[新增變體] **&#x200B;**，然後遵循相同的步驟。
+1. 若要新增其他變體（選擇性），請按一下[新增變體] ****，然後遵循相同的步驟。
 
    ![](assets/conditional-content-8.png)
 
