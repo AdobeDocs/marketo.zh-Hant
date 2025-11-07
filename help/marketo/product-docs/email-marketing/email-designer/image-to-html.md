@@ -5,9 +5,9 @@ solution: Marketo Engage
 product: marketo
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
+source-git-commit: 74c8b1597bed7e2ac827bea444200dacfe4b29a5
 workflow-type: tm+mt
-source-wordcount: '1277'
+source-wordcount: '1281'
 ht-degree: 1%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 1%
 >[!PREREQUISITES]
 >
 >* 您必須先同意[核心Gen-AI條款與補充條款](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}，才能在電子郵件Designer中使用Gen-AI功能。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
->* 您必須擁有&#x200B;_存取電子郵件範本_&#x200B;以及&#x200B;_編輯/產生電子郵件範本_&#x200B;許可權，並在您的Marketo角色[中啟用](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role)。
+>* 您必須擁有&#x200B;_存取電子郵件範本_&#x200B;以及&#x200B;_編輯/產生電子郵件範本_&#x200B;許可權，並在您的Marketo角色[中啟用](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role)。
 
 ## 轉換影像 {#convert-an-image}
 
@@ -53,7 +53,7 @@ ht-degree: 1%
    >
    >根據影像設計的複雜性和大小，產生程式最多可能需要五分鐘。 AI處理會在背景進行，因此您可以在轉換過程中離開此畫面處理其他任務。 您可能需要重新整理&#x200B;_電子郵件範本_&#x200B;資料庫畫面才能檢視狀態變更。
 
-1. 轉換完成後，您的範本會自動儲存為草稿。 選取它……
+1. 轉換完成後，您的範本會自動儲存為草稿。 按一下其名稱以檢視/編輯。
 
    ![](assets/image-to-html-5.png)
 
