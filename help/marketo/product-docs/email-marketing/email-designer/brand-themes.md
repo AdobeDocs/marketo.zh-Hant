@@ -1,16 +1,16 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: 標題
-description: 說明。
+title: 品牌主題
+description: 瞭解如何建立及管理您的品牌指引。
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
 exl-id: e6b576e5-3456-4bee-9383-b63cd6728620
-source-git-commit: 6ff95c8c3b59239586982b10996e18e942509f8d
+source-git-commit: 2f0ac66406a0e9d077ce784f8b2492cdbe21fe30
 workflow-type: tm+mt
-source-wordcount: '1226'
+source-wordcount: '1201'
 ht-degree: 0%
 
 ---
@@ -81,17 +81,13 @@ ht-degree: 0%
 
 若要編輯變體，請按一下其鉛筆圖示。
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-9.png)
 
 >[!NOTE]
 >
 >您最多可以建立六個變體。
 
-有多個元素可供自訂。
-
-![](assets/brand-themes-.png)
-
-變體設定會分組到以下類別中：
+有多個元素可供自訂。 變體設定會分組到以下類別中：
 
 * 一般
 * 標題
@@ -102,55 +98,49 @@ ht-degree: 0%
 
 這些設定可讓您設定主體、結構、背景、容器、影像等的顏色。
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-10.png)
 
 **標題**
 
 設定每個標題型別的文字和邊框顏色，從「標題1」到「標題6」。
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-11.png)
 
 **段落**
 
 設定最多三種段落型別的文字和邊框顏色。
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-12.png)
 
 **按鈕**
 
 設定三種不同按鈕型別的填色、邊框和文字色彩：主要、次要和第三種。
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-13.png)
 
 ### 文字設定 {#text-settings}
 
 設定全域、標題和段落的字型型別和大小。
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-14.png)
 
 **全域**
 
-在「全域文字設定」下，選擇「標準字型庫」與「Google字型庫」之間的「表單庫」。
+在Standard或Google字型資料庫及其各自的字型系列之間選擇。
 
-![](assets/brand-themes-.png)
-
-在「標準」下，從不同的字型系列中選擇。
-
-![](assets/brand-themes-.png)
-
-同樣地，在「Google字型」下，會顯示可分別從支援的字型中進行選擇的選項。
+![](assets/brand-themes-15.png)
 
 **標題**
 
-您可以在此設定不同標題型別的字型庫、系列、大小、文字樣式和文字對齊。
+設定不同標題型別的字型庫、系列、大小、文字樣式和文字對齊。
 
-熒幕擷圖
+![](assets/brand-themes-16.png)
 
 **段落**
 
-您可以在此設定不同段落預設集的字型庫、系列、大小、文字樣式和文字對齊。
+設定不同段落預設集的字型庫、系列、大小、文字樣式和文字對齊。
 
-熒幕擷圖
+![](assets/brand-themes-17.png)
 
 ### 間距與邊框 {#spacing-and-border}
 
