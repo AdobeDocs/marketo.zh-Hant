@@ -5,9 +5,9 @@ title: 發行排程
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
 source-git-commit: 7921c7dcc8cad17285cbd464b558afc39d5ff661
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '126'
-ht-degree: 69%
+ht-degree: 100%
 
 ---
 
@@ -19,9 +19,9 @@ ht-degree: 69%
 
 **狀態**：
 
-* **依排程** — 我們計畫於指定日期發行功能與增強功能
-* **進行中** — 我們正在推出此版本的功能
-* **已送出** — 發行完成
+* **準時發行** - 我們規劃在指定的日期發行功能和增強功能
+* **進行中** - 我們正在分階段推出此發行版本的各項功能
+* **已發布** - 發行已完成
 
 _發行日期/功能可能會有所變更_
 
@@ -58,9 +58,9 @@ _發行日期/功能可能會有所變更_
    <td>2025 年 10 月 31 日</td>
    <td>進行中</td>
   </tr>
-  <td>2026年1月</td>
-   <td>2026年1月30日</td>
-   <td>依排程</td>
+  <td>2026 年 1 月</td>
+   <td>2026 年 1 月 30 日</td>
+   <td>準時發行</td>
   </tr>
  </tbody>
 </table>
