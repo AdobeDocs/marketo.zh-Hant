@@ -3,9 +3,9 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
+source-git-commit: 6c362502c975676a635b1425393bf43e1cf0be12
 workflow-type: tm+mt
-source-wordcount: '730'
+source-wordcount: '729'
 ht-degree: 99%
 
 ---
@@ -35,6 +35,16 @@ ht-degree: 99%
    <td><strong>電子郵件設計工具 - 範本匯入工具 (Beta)</strong>：從傳統電子郵件編輯器匯入電子郵件範本，來建立與 Design Studio 中新電子郵件設計工具相容的範本。</td>
    <td>已發布</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/import-template.md" target="_blank">範本匯入</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>電子郵件設計工具 - 品牌主題</strong>：您現在可以在 Marketo Engage 中定義品牌主題。樣式設定可以在電子郵件範本和其他電子郵件資產中重複使用及套用，以維持品牌一致性。</td>
+   <td>已發布</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md" target="_blank">品牌主題</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -73,16 +83,6 @@ ht-degree: 99%
   </tr>
   <tr>
    <td><strong>電子郵件設計工具 - A/B 測試</strong>：新電子郵件設計工具的同等功能，可讓您執行 A/B 測試，藉此查看哪些類型的內容接收最佳回應。</td>
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>電子郵件設計工具 - 品牌主題</strong>：您現在可以在 Marketo Engage 中定義品牌主題。樣式設定可以在電子郵件範本和其他電子郵件資產中重複使用及套用，以維持品牌一致性。</td>
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
   </tr>
