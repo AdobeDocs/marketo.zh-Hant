@@ -8,10 +8,10 @@ feature: Email Designer
 hide: true
 hidefromtoc: true
 exl-id: e6b576e5-3456-4bee-9383-b63cd6728620
-source-git-commit: 2f0ac66406a0e9d077ce784f8b2492cdbe21fe30
+source-git-commit: 14c673a1cc4563b8a8066d3e72c0aec482d49e00
 workflow-type: tm+mt
-source-wordcount: '1201'
-ht-degree: 0%
+source-wordcount: '1097'
+ht-degree: 1%
 
 ---
 
@@ -21,17 +21,7 @@ ht-degree: 0%
 
 此功能可讓行銷人員更快且更輕鬆地運用視覺上吸引人、品牌一致的電子郵件，同時提供進階自訂選項以滿足獨特的設計需求。
 
-## 注意事項 {#things-to-note}
-
-* 從頭開始建立電子郵件時，您可以選擇使用主題開始建立內容，以快速套用符合您的品牌和設計的特定樣式。 如果您選擇Classic模式，除非重設電子郵件，否則無法套用任何主題。
-
-* 佈景主題和傳統模式之間的片段不相容。 為了能夠在套用了主題的內容中使用片段，必須在主題模式下建立片段。
-
-* 更新主題不會自動重疊顯示至使用它們的所有資產。 您需要編輯個別物件以重新整理主題。
-
-* 刪除主題時，不會影響使用它們的資產。
-
-## 建立品牌主題 {#create-a-brand-theme}
+## 建立主題 {#create-a-theme}
 
 1. 請依照步驟[建立電子郵件範本](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template)。
 
@@ -47,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/brand-themes-3.png)
 
-## 設定
+## 設定 {#settings}
 
 您可以透過右側的圖示存取所有設定選項。 讓我們逐一檢視。
 
@@ -144,214 +134,263 @@ ht-degree: 0%
 
 ### 間距與邊框 {#spacing-and-border}
 
-在此底下，您可以為不同型別的結構或按鈕設定邊框間距和邊界。  在第一個下拉式清單中選擇型別，然後繼續為該元素設定「內距」和/或「邊界」。 視情況逐一重複此步驟。
+從多個不同的結構中選擇，並自訂其邊界、邊框間距或邊框。
 
-熒幕擷圖
+![](assets/brand-themes-18.png)
 
-結構型別如下：
+在下列範例中，我們正在自訂容器。
 
-熒幕擷圖
+**邊界**
 
-範例元素的設定，例如Container。
+![](assets/brand-themes-19.png)
 
-邊界
+**內距**
 
-熒幕擷圖
+![](assets/brand-themes-20.png)
 
-內距
+**角**
 
-熒幕擷圖
+![](assets/brand-themes-21.png)
 
-轉角
-
-熒幕擷圖
-
-邊框
+**框線**
 
 將邊框切換為開啟以顯示設定大小、樣式和位置的選項。
 
-熒幕擷圖
+![](assets/brand-themes-22.png)
 
-樣式的選項
+以下是變更框線樣式的一些視覺範例。
 
-熒幕擷圖
+<table><thead>
+  <tr>
+    <th>類型</th>
+    <th>大小和樣式設定</th>
+    <th>效果</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>虛線</td>
+    <td><img src="assets/brand-themes-23a.png"></td>
+    <td><img src="assets/brand-themes-23b.png"></td>
+  </tr>
+  <tr>
+    <td>虛線</td>
+    <td><img src="assets/brand-themes-24a.png"></td>
+    <td><img src="assets/brand-themes-24b.png"></td>
+  </tr>
+  <tr>
+    <td>實線</td>
+    <td><img src="assets/brand-themes-25a.png"></td>
+    <td><img src="assets/brand-themes-25b.png"></td>
+  </tr>
+</tbody></table>
 
-方塊樣式效果的一些範例
+調整要顯示或隱藏邊框的側邊。 在下列範例中，上方邊框是隱藏的。
 
-```
-TABLE
-
-Type
-
-Size and Style setting
-
-Effect
-
-Dashed
-
-Dotted
-
-Solid
-```
-
-調整框線是否顯示或使用框線位置隱藏
-
-範例：在下列範例中，Top是隱藏的。
-
-```
-TABLE
-
-Position setting
-
-Effect
-```
-
-針對不同型別的結構，重複設定邊界、內邊距、邊角和邊框型別的設定。
+<table><thead>
+  <tr>
+    <th>位置設定</th>
+    <th>效果</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td><img src="assets/brand-themes-26a.png"></td>
+    <td><img src="assets/brand-themes-26b.png"></td>
+  </tr>
+</tbody></table>
 
 ### 按鈕設定 {#button-settings}
 
-在此底下，您可以設定關於按鈕的不同元素（顏色除外），例如按鈕形狀、按鈕半徑、按鈕文字和按鈕大小。 您可以為3個預設集設定這些專案：主要、次要和第三個。
+設定按鈕的非顏色元素，例如形狀、半徑、文字和大小。 這三個預設集是：「主要」、「次要」和「第三」。
 
-熒幕擷圖
+![](assets/brand-themes-27.png)
 
-```
-TABLE
+<table><thead>
+  <tr>
+    <th>設定</th>
+    <th>說明</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>邊框&gt;邊框半徑</td>
+    <td>按鈕邊框轉角曲率</td>
+  </tr>
+  <tr>
+    <td>邊框&gt;邊框大小 </td>
+    <td>按鈕邊框粗細</td>
+  </tr>
+  <tr>
+    <td>邊框&gt;邊框樣式</td>
+    <td>按鈕邊框樣式（虛線、實線、點狀等）</td>
+  </tr>
+  <tr>
+    <td>主要/次要/第三</td>
+    <td>允許按鈕設定的三個預設集</td>
+  </tr>
+  <tr>
+    <td>「大小」&gt;「高度」</td>
+    <td>按鈕的高度設定</td>
+  </tr>
+  <tr>
+    <td>大小&gt;寬度</td>
+    <td>按鈕的寬度設定</td>
+  </tr>
+  <tr>
+    <td>文字&gt;字型系列</td>
+    <td>按鈕文字的字型系列選擇</td>
+  </tr>
+  <tr>
+    <td>文字&gt;字型庫</td>
+    <td>按鈕文字的字型庫選擇</td>
+  </tr>
+  <tr>
+    <td>文字&gt;字型大小</td>
+    <td>按鈕文字的字型大小</td>
+  </tr>
+  <tr>
+    <td>文字&gt;文字對齊方式</td>
+    <td>按鈕文字的對齊方式</td>
+  </tr>
+  <tr>
+    <td>文字&gt;文字樣式</td>
+    <td>按鈕文字的文字樣式（粗體、斜體、底線、刪除線）</td>
+  </tr>
+</tbody></table>
 
-Primary/Secondary/Tertiary    Allows settings for 3 presets of button configurations
-Text > Font Library    Font library choice for button text
-Text > Font family    Font family choice for button text
-Text > Font size    Font size for button text
-Text > Text styles    Text style (bold, italicized, underlined, strikethrough) for button text
-Text > Text alignment    Alignment for button text
-Border> Border size     Button border thickness
-Border> Border style    Button border style (dashed, solid, dotted, etc.)
-Border> Border radius    Button border corner curvature
-SIZE > Height    Height setting for the button
-SIZE > Width    Width setting for the button
-```
+### 分隔線 {#divider}
 
-### 分隔線設定 {#divider-settings}
+設定分隔線的線條型別和容器設定。
 
-在此底下，您可以設定分隔線的線條型別和容器設定。
-
-熒幕擷圖
+![](assets/brand-themes-28.png)
 
 ### 格線設定 {#grid-settings}
 
-使用「欄」間隙來控制格點中的間距。
+使用&#x200B;_欄間隔_&#x200B;來控制格點中的間距。
 
-```
-TABLE
-```
+![](assets/brand-themes-29.png)
 
-完成時，按一下「儲存」 。
+<table><tbody>
+  <tr>
+    <td><img src="assets/brand-themes-30a.png"></td>
+    <td><img src="assets/brand-themes-30b.png"></td>
+  </tr>
+ <tr>
+    <td><img src="assets/brand-themes-31a.png"></td>
+    <td><img src="assets/brand-themes-31b.png"></td>
+  </tr>
+</tbody></table>
 
-熒幕擷圖
+完成時，按一下&#x200B;**儲存**。
 
-## 編輯品牌主題 {#editing-brand-themes}
+![](assets/brand-themes-32.png)
 
-您可以在編輯器中的範本選取面板中建立品牌主題。 您可以在建立新範本時存取此面板，或從編輯器內的Change Design中存取。
+## 編輯現有主題 {#edit-a-brand-theme}
 
-熒幕擷圖
+1. 請依照步驟[建立電子郵件範本](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template)。
 
-按一下「變更您的設計」。
+1. 在&#x200B;_設計您的範本_&#x200B;畫面中，選取&#x200B;**建立或編輯主題**。
 
-熒幕擷圖
+   ![](assets/brand-themes-33.png)
 
-按一下建立或編輯主題
+1. 按一下&#x200B;**我的佈景主題**&#x200B;標籤。
 
-熒幕擷圖
+   ![](assets/brand-themes-34.png)
 
-選取「自訂主題」以顯示組織中建立的自訂主題清單。 選擇佈景主題，然後按一下「編輯」。
+1. 選取所需的主題。 _建立_&#x200B;按鈕會變成&#x200B;_編輯_&#x200B;按鈕。 按一下&#x200B;**編輯**。
 
-熒幕擷圖
+   ![](assets/brand-themes-35.png)
 
-現在，畫布已開啟以進行編輯。
+1. 畫布隨即開啟以進行編輯。 在&#x200B;**[設定](#settings)**&#x200B;中的任何選項中進行您想要的變更。
 
-熒幕擷圖
-
-修改右窗格區段下的任何設定。
-
-熒幕擷圖
-
-完成後，按一下「儲存」 。
-
-熒幕擷圖
+>[!TIP]
+>
+>請記得儲存您的工作！
 
 ## 使用品牌主題 {#using-brand-themes}
 
-因此建立/編輯的品牌主題已準備好在電子郵件、電子郵件範本和片段資產中運用。
+在電子郵件、電子郵件範本和片段中善用主題。
 
-Adobe Marketo Engage：此建立/編輯的品牌主題已準備就緒，可在電子郵件、電子郵件範本和使用新電子郵件編輯器建立的片段資產中使用。
-
-您可以在編輯器中建立結構和元件，並套用任何品牌主題及其任何變體。
+您可以在編輯器中建立結構和元件，並套用任何品牌主題及其變體。
 
 ### 在您的電子郵件中 {#in-your-emails}
 
-從頭開始建立電子郵件/電子郵件範本
+1. 請依照步驟[建立電子郵件](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#create-an-email)。
 
-* 從「建立電子郵件」/「建立電子郵件範本」開始，選取「從草稿開始設計」選項
+1. 建立之後，按一下&#x200B;**編輯電子郵件內容**。
 
-* 在出現的模式中，選取「使用主題」
+   ![](assets/brand-themes-36.png)
 
-熒幕擷圖
+1. 選取&#x200B;**從頭開始設計**。
 
-注意：只有此選項建立的電子郵件才能運用上一節中定義的品牌主題
+   ![](assets/brand-themes-37.png)
 
-* 此新選項會顯示在右側列中，讓您能夠在電子郵件中使用品牌主題
+1. 選取「**使用佈景主題**」（預設應該選取它）並按一下「**確認**」。
 
-熒幕擷圖
+   ![](assets/brand-themes-38.png)
 
-* 您可以從Adobe主題或為您的品牌建立的自訂主題中選取
+>[!NOTE]
+>
+>只有此選項建立的電子郵件才能運用您定義的品牌主題。
 
-熒幕擷圖
+1. 按一下右側列中的&#x200B;_主題_&#x200B;圖示。
 
-* 在畫布中設計電子郵件內容，並選取要套用至內容的主題
+   ![](assets/brand-themes-39.png)
 
-* 一個電子郵件只能包含一個品牌主題
+1. 從Adobe主題或您已建立的主題中選取。
 
-* 對於在此資產中建立的任何元件，您可以從右窗格的「樣式」索引標籤套用主題中可用的任何樣式選項
+   ![](assets/brand-themes-40.png)
 
-* 例如，CTA可設定為主要的/次要的/第三個
+   >[!NOTE]
+   >
+   >* 在畫布中設計電子郵件內容，並選取要套用至內容的主題。
+   >* 電子郵件只能包含一個品牌主題。
+   >* 對於在此資產中建立的任何元件，您可以從右窗格的「樣式」索引標籤套用主題中可用的任何樣式選項(例如，call-to-action可設定為主要/次要/第三)。
 
-熒幕擷圖
+1. 實作您想要的設計。 例如，您可以選取文字元件，以套用主題中定義的任何標題/段落樣式。
 
-* 例如，您可以選取文字元件，以套用主題中定義的任何標題/段落樣式
+   ![](assets/brand-themes-41.png)
 
-熒幕擷圖
+   >[!NOTE]
+   >
+   >「樣式」標籤看起來不同於傳統的手動樣式設定電子郵件，後者有更多創意空間來設定元件的樣式。
 
-* 請注意，現在「樣式」索引標籤看起來與傳統手動樣式設定電子郵件不同，在手動樣式設定電子郵件中，有更多創意可設定元件的樣式
+### 讓範本與主題相容 {#make-a-template-compatible}
 
-### 從範本建立電子郵件/電子郵件範本
+1. 尋找並選取所需的範本。
 
-* 當您從先前存在的電子郵件範本（也使用主題建立）建立電子郵件或電子郵件範本時，可以利用主題
+1. 按一下&#x200B;**編輯電子郵件範本**。
 
-* 從「建立電子郵件」/「建立電子郵件範本」開始，從「儲存的範本」區段中，選取使用主題建立的其中一個電子郵件範本
+   ![](assets/brand-themes-42.png)
 
-* 現在，已儲存電子郵件範本中使用的主題會自動套用
+1. 按一下&#x200B;_主題_&#x200B;圖示，然後按一下&#x200B;**從內容產生主題**。
 
-熒幕擷圖
+   ![](assets/brand-themes-43.png)
 
-* 您也可以透過右側列中的「主題」選項，變更此電子郵件/電子郵件範本中的主題
+1. _建立佈景主題_&#x200B;視窗隨即開啟。 Marketo Engage會自動偵測樣式元素並將其合併為新主題。
 
-熒幕擷圖
+   ![](assets/brand-themes-44.png)
 
-* 您也可以將佈景主題的任何變體套用至內容
+1. 為主題命名。
 
-熒幕擷圖
+1. 進行您想要的變更（就像從頭開始建立主題時一樣）。 完成時，按一下&#x200B;**儲存**。
 
-熒幕擷圖
+   ![](assets/brand-themes-45.png)
 
 ### 在您的片段中 {#in-your-fragments}
 
-從「建立新片段」開始
+1. 請依照步驟[建立片段](/help/marketo/product-docs/email-marketing/email-designer/fragments.md#create-a-fragment)。
 
-從右側列的「佈景主題」選項中，選取所需的佈景主題並套用相同的佈景主題
+1. 使用&#x200B;**[設定](#settings)**&#x200B;中的選項來設計您的內容主題。
 
-熒幕擷圖
+此後，在畫布中建立的所有片段內容都將採用所選的主題。 您也可以將佈景主題的任何變體套用至內容。
 
-之後在畫布中建立的所有片段內容將會採用所選的主題
+片段發佈後，可用於使用主題建立的任何電子郵件/電子郵件範本。
 
-您也可以將佈景主題的任何變體套用至內容
+## 注意事項 {#things-to-note}
 
-此片段發佈後，此片段可用於使用「主題」建立的任何電子郵件/電子郵件範本
+* 從頭開始建立電子郵件時，您可以選擇使用主題開始建立內容，以快速套用符合您的品牌和設計的特定樣式。 如果您選擇Classic模式，除非重設電子郵件，否則無法套用任何主題。
+
+* 佈景主題和傳統模式之間的片段不相容。 為了能夠在套用了主題的內容中使用片段，必須在主題模式下建立片段。
+
+* 更新主題不會自動重疊顯示至使用它們的所有資產。 您需要編輯個別物件以重新整理主題。
+
+* 刪除主題時，不會影響使用它們的資產。

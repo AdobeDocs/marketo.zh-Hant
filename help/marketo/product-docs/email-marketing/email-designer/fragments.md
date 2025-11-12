@@ -6,9 +6,9 @@ description: 瞭解如何建立視覺化內容片段，並將其用作電子郵�
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 14c673a1cc4563b8a8066d3e72c0aec482d49e00
 workflow-type: tm+mt
-source-wordcount: '1851'
+source-wordcount: '1881'
 ht-degree: 1%
 
 ---
@@ -36,7 +36,7 @@ ht-degree: 1%
 
 ![存取片段](assets/access-and-manage-fragments-1.png){width="600" zoomable="yes"}
 
-依預設，表格是依&#x200B;_[!UICONTROL Modified]_&#x200B;欄排序。 按一下其他欄標題以變更表格排序依據。 再按一下相同標題，在升序和降序之間切換。
+依預設，表格是依&#x200B;_[!UICONTROL Modified]_欄排序。 按一下其他欄標題以變更表格排序依據。 再按一下相同標題，在升序和降序之間切換。
 
 ### 尋找和篩選
 
@@ -94,7 +94,7 @@ ht-degree: 1%
 </tbody>
 </table>
 
-## 建立內容片段 {#create-fragments}
+## 建立片段 {#create-a-fragment}
 
 1. 若要建立新的視覺化片段，請按一下片段清單頁面右上角的&#x200B;**[!UICONTROL Create fragment]**。
 
@@ -119,9 +119,21 @@ ht-degree: 1%
    >
    >目前無法修改片段的&#x200B;**型別**。
 
-   視覺化設計工具會以空白畫布開啟。
+1. _建立您的電子郵件_&#x200B;強制回應視窗隨即顯示。 選擇&#x200B;_使用主題_&#x200B;或&#x200B;_手動樣式_。 在此選項中，我們選擇&#x200B;**使用主題**。 完成時，按一下&#x200B;**確認**。
 
-1. 使用[內容設計工具](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content){target="_blank"}來建立視覺片段內容。
+   ![](assets/create-fragments-4.png)
+
+   >[!NOTE]
+   >
+   >如果您選擇「手動樣式」，請使用[內容設計工具](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content){target="_blank"}來建立視覺片段內容。
+
+1. 按一下&#x200B;_主題_&#x200B;圖示。
+
+   ![](assets/create-fragments-5.png)
+
+   >[!INFO]
+   >
+   >深入瞭解[主題設定](/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md#settings){target="_blank"}。
 
 1. 隨時按一下「**[!UICONTROL Save]**」以儲存草稿片段。
 
@@ -160,7 +172,7 @@ ht-degree: 1%
 您可以使用下列其中一種方法來刪除片段：
 
 * 從右側的片段詳細資料中，按一下&#x200B;**[!UICONTROL Delete]**。
-* 從&#x200B;_[!UICONTROL Fragments]_&#x200B;清單頁面，按一下片段旁的省略符號，然後選擇&#x200B;**[!UICONTROL Delete]**。
+* 從&#x200B;_[!UICONTROL Fragments]_清單頁面，按一下片段旁的省略符號，然後選擇&#x200B;**[!UICONTROL Delete]**。
 
 此動作會開啟確認對話方塊。 您可以按一下&#x200B;**[!UICONTROL Cancel]**&#x200B;或按一下&#x200B;**[!UICONTROL Delete]**&#x200B;確認刪除，以中止程式。
 
@@ -178,7 +190,7 @@ ht-degree: 1%
 
 >[!TAB 草稿]
 
-1. 從&#x200B;_[!UICONTROL Fragments]_&#x200B;清單頁面，按一下片段名稱以開啟。
+1. 從&#x200B;_[!UICONTROL Fragments]_清單頁面，按一下片段名稱以開啟。
 
    接著會顯示視覺內容的預覽，片段詳細資訊位於右側。
 
@@ -194,7 +206,7 @@ ht-degree: 1%
 
 >[!TAB 已發佈]
 
-1. 從&#x200B;_[!UICONTROL Fragments]_&#x200B;清單頁面，按一下片段名稱以開啟。
+1. 從&#x200B;_[!UICONTROL Fragments]_清單頁面，按一下片段名稱以開啟。
 
    接著會顯示視覺內容的預覽，片段詳細資訊位於右側。
 
@@ -218,7 +230,7 @@ ht-degree: 1%
 
 >[!TAB 已發佈草稿]
 
-有兩種方式可開啟草稿版本，以從&#x200B;_[!UICONTROL Fragments]_&#x200B;清單頁面進行編輯：
+有兩種方式可開啟草稿版本，以從&#x200B;_[!UICONTROL Fragments]_清單頁面進行編輯：
 
 * 按一下片段名稱旁的&#x200B;_更多_&#x200B;圖示(**...**)，然後選擇&#x200B;**[!UICONTROL Open draft version]**。
 
@@ -246,7 +258,7 @@ ht-degree: 1%
 
 您可以使用以下任一方法復製片段：
 
-* 從&#x200B;_[!UICONTROL Fragments]_&#x200B;清單頁面，按一下片段名稱旁的_&#x200B;更多&#x200B;_圖示(**...**)，然後選擇&#x200B;**[!UICONTROL Duplicate]**。
+* 從&#x200B;_[!UICONTROL Fragments]_清單頁面，按一下片段名稱旁的_&#x200B;更多&#x200B;_圖示(**...**)，然後選擇&#x200B;**[!UICONTROL Duplicate]**。
 * 在片段詳細資訊頁面的右上方，按一下&#x200B;**[!UICONTROL ... More]**&#x200B;並選擇&#x200B;**[!UICONTROL Duplicate]**。
 
 ![復製片段](assets/fragment-details-duplicate.png){width="600" zoomable="yes"}
@@ -289,7 +301,7 @@ ht-degree: 1%
 >
 >如果您希望片段佔據電子郵件內的整個水準配置，請新增[!UICONTROL 1:1欄]結構，然後將片段拖放到其中。
 
-儲存電子郵件/電子郵件範本後，當選取&#x200B;_[!UICONTROL Used By]_&#x200B;索引標籤時，其會出現在片段詳細資訊頁面中。 新增的片段在電子郵件或範本中無法編輯 — 發佈的來源片段會定義內容。
+儲存電子郵件/電子郵件範本後，當選取&#x200B;_[!UICONTROL Used By]_索引標籤時，其會出現在片段詳細資訊頁面中。 新增的片段在電子郵件或範本中無法編輯 — 發佈的來源片段會定義內容。
 
 ## 電子郵件和範本製作期間的片段動作 {#fragment-actions-during-email-and-template-authoring}
 
