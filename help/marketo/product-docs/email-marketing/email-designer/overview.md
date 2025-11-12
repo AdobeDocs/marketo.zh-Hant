@@ -5,10 +5,10 @@ description: 歡迎使用新的Adobe Marketo Engage電子郵件Designer。
 title: 概觀
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 6389e9549ec8caf9d96e6524e46b61e801fc7806
+source-git-commit: 4c0c880202ea4785b157366d8d8712c830921d69
 workflow-type: tm+mt
-source-wordcount: '871'
-ht-degree: 1%
+source-wordcount: '680'
+ht-degree: 4%
 
 ---
 
@@ -44,7 +44,9 @@ ht-degree: 1%
 
 +++
 
-## 可用文章 {#available-articles}
+## 受歡迎的文章 {#popular-articles}
+
+### 快速入門 {#getting-started}
 
 * [電子郵件編寫](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}：瞭解如何在新的編輯器中建立、設計和參考電子郵件。
 
@@ -52,21 +54,15 @@ ht-degree: 1%
 
 * [片段](/help/marketo/product-docs/email-marketing/email-designer/fragments.md){target="_blank"}：瞭解如何建立和使用視覺內容片段，作為電子郵件和電子郵件範本的可重複使用元件。
 
-* [可自訂的片段](/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md){target="_blank"}：瞭解如何透過編輯某些欄位來自訂片段。
+### 新功能 {#new-features}
 
-* [使用AEM資產](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}：瞭解如何輕鬆存取AEM數位資產，以用於Marketo Engage。
+* [影像到HTML轉換器](/help/marketo/product-docs/email-marketing/email-designer/feature-comparison.md){target="_blank"}：上傳符合規範的電子郵件PNG/JPEG影像檔案，該檔案會自動轉換為HTML，以便用於新的電子郵件Designer。
 
-* [使用Adobe Express編輯影像](/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md){target="_blank"}：瞭解如何使用Adobe Express在Adobe Marketo Engage電子郵件編輯器中編輯影像。
+* [品牌主題](/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md){target="_blank"}：在Marketo Engage中定義品牌主題。 樣式設定可以在電子郵件範本和其他電子郵件資產中重複使用及套用，以維持品牌一致性。
 
-* [使用AI助理](/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md){target="_blank"}：利用Adobe的創作AI技術，將有用的文字和/或影像新增到您的電子郵件中。
+* [範本匯入工具](/help/marketo/product-docs/email-marketing/email-designer/import-template.md){target="_blank"}：從傳統電子郵件編輯器匯入電子郵件範本，以建立與Design Studio中的新電子郵件Designer相容的範本。
 
-* [鎖定電子郵件範本中的內容](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md){target="_blank"}：瞭解如何鎖定電子郵件範本中的內容，以防止無意編輯或刪除。
-
-* [使用Litmus測試電子郵件呈現](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md){target="_blank"}：利用您在Marketo Engage中的Litmus帳戶，立即檢視您的電子郵件在常見電子郵件使用者端中的呈現方式。
-
-* [使用SpamAssassin偵測垃圾郵件](/help/marketo/product-docs/email-marketing/email-designer/spam-report.md){target="_blank"}：在Marketo Engage中使用SpamAssassin，您可以測試您的電子郵件內容並檢視ISP/信箱提供者標示為垃圾郵件的可能性。
-
-* [功能比較](/help/marketo/product-docs/email-marketing/email-designer/feature-comparison.md){target="_blank"}：比較舊版電子郵件編輯器(Email Editor 2.0)與新版Email Designer中功能的可用性。
+* [條件式內容](/help/marketo/product-docs/email-marketing/email-designer/conditional-content.md){target="_blank"}：新電子郵件Designer的同等功能，可讓您在權杖之外實現電子郵件個人化。
 
 ## 常見問題 {#faq}
 
@@ -78,9 +74,9 @@ ht-degree: 1%
 
 新的電子郵件Designer電子郵件可在所有計畫存取（互動式網路研討會計畫除外）。 複製功能也可供使用。
 
-**我們現有的電子郵件範本是否可以在新的設計工具中運作？ 如果沒有，我們是否需要使用新的設計工具來建立範本，以便讓所有區段/模組都對應到我們想要的內容外觀？**
+**我們現有的電子郵件範本是否可以在新的設計工具中運作？**
 
-來自傳統編輯器的電子郵件範本無法在新設計工具中參照。 您將需要在新的設計工具中建立新的範本。 不過，您&#x200B;_可以_&#x200B;將範本HTML匯入新的設計工具，然後進行必要的調整。 **注意**：即將推出與新設計工具的傳統編輯器範本相容性。
+是，但是它們[需要匯入](/help/marketo/product-docs/email-marketing/email-designer/import-template.md)。
 
 **我可以輕鬆地將新的設計工具資產移至其他程式嗎？**
 
@@ -92,7 +88,7 @@ ht-degree: 1%
 
 **是否有辦法強制執行品牌化（字型、標誌和顏色）？**
 
-鎖定內容區段是新設計工具的一部分，並且即將推出鎖定樣式、顏色等。
+是！使用[品牌主題](/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md)建立和管理您的品牌指導方針。
 
 **範本模組是否更可自訂且可擴充？**
 
@@ -100,15 +96,11 @@ ht-degree: 1%
 
 **電子郵件範本建立程式在新設計工具中如何運作？ 是WYSIWYG，還是需要HTML知識？**
 
-它是WYSIWYG；不需要HTML知識。 您可以輕鬆在設計工具中建立範本，減少外部Web開發人員的需求。 不過，您仍可選擇透過HTML更新CSS及編輯個別區段。 我們也在研究將範本從傳統編輯器輕鬆移轉到新設計工具的方法。
+它是WYSIWYG；不需要HTML知識。 您可以輕鬆在設計工具中建立範本，減少外部Web開發人員的需求。 不過，您仍可選擇透過HTML更新CSS及編輯個別區段。
 
 **新的電子郵件Designer是否支援AMP語言？**
 
 目前不支援AMP。
-
-**依屬性的動態內容很好，但依區段的動態內容是否仍然有效？**
-
-目前，新設計工具僅支援屬性，但我們正在努力在未來版本中新增區段。
 
 **如何判斷我們的Marketo Engage訂閱是否已移轉至IMS (Adobe Admin Console)？**
 
