@@ -4,9 +4,9 @@ description: ' [!DNL Microsoft Dynamics] MSI的外掛程式發行版本 — Mark
 title: ' [!DNL Microsoft Dynamics] MSI的外掛程式發行版本'
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 6fb25aab33dfc0f6792950a7d5d802a9e4be8303
 workflow-type: tm+mt
-source-wordcount: '394'
+source-wordcount: '433'
 ht-degree: 1%
 
 ---
@@ -63,7 +63,9 @@ ht-degree: 1%
    <td>2.00.31</td>
    <td>變更匿名網路活動的分頁。
    <p>
-   從使用者檢視中加密機密金鑰資訊。 匯入新封裝後需要變更密碼才能進行加密。</td>
+   從使用者檢視中加密機密金鑰資訊。 匯入新封裝後需要變更密碼才能進行加密。
+   <p>
+   更新MSI for Dynamics外掛程式時，建議以重新整理形式更新SOAP API秘密金鑰和MSI憑證，以確保在安裝新套件時不會發生存取許可權。</td>
   </tr>
   <tr>
    <td>10/18/23</td>
