@@ -5,9 +5,9 @@ description: 歡迎使用新的Adobe Marketo Engage電子郵件Designer。
 title: 概觀
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 4c0c880202ea4785b157366d8d8712c830921d69
+source-git-commit: 46b832ccf64b0e9e7eae0d8b3255528db903b422
 workflow-type: tm+mt
-source-wordcount: '680'
+source-wordcount: '659'
 ht-degree: 4%
 
 ---
@@ -17,10 +17,6 @@ ht-degree: 4%
 歡迎使用新的Adobe Marketo Engage電子郵件Designer。
 
 電子郵件Designer是Marketo Engage的最新創新，旨在提供改版後的電子郵件和電子郵件範本建立體驗，透過提供視覺拖放編輯器和標準現成範本來提高生產力和效率。 輕鬆建立自訂的電子郵件範本，無需花錢購買廠商。
-
->[!NOTE]
->
->雖然電子郵件Designer可在所有主要瀏覽器中存取，但目前不支援Firefox的完整功能。
 
 ## 如何存取 {#how-to-access}
 
