@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 6c362502c975676a635b1425393bf43e1cf0be12
+source-git-commit: 9b41a880ad3b4eefe4a5078265a773aadc270a0a
 workflow-type: tm+mt
-source-wordcount: '868'
-ht-degree: 11%
+source-wordcount: '865'
+ht-degree: 10%
 
 ---
 
@@ -244,22 +244,22 @@ ht-degree: 11%
     <td>可用</td>
   </tr>
   <tr>
+    <td>Velocity指令碼</td>
+    <td>能夠在電子郵件中使用Velocity指令碼。</td>
+    <td>可用</td>
+    <td>可用</td>
+  </tr>
+  <tr>
     <td>支援使用電子郵件資產移動、刪除和匯入程式</td>
     <td>能夠移動、刪除和匯入電子郵件計畫以及電子郵件資產。</td>
     <td>可用</td>
-    <td>即將推出</td>
+    <td>可用</td>
   </tr>
   <tr>
     <td>角色與權限</td>
     <td>能夠新增電子郵件、電子郵件範本和片段的角色和許可權。</td>
     <td>可用</td>
-    <td>即將推出</td>
-  </tr>
-  <tr>
-    <td>Velocity指令碼</td>
-    <td>能夠在電子郵件中使用Velocity指令碼。</td>
     <td>可用</td>
-    <td>即將推出</td>
   </tr>
   <tr>
     <td>實驗（A/B測試）</td>
