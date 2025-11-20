@@ -3,10 +3,10 @@ description: Adobe Identity Management常見問題集 — Marketo檔案 — 產�
 title: Adobe Identity Management常見問題集
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 95ed91736b7276dd7a5b9e09958c1f09832ae719
 workflow-type: tm+mt
-source-wordcount: '1645'
-ht-degree: 0%
+source-wordcount: '1579'
+ht-degree: 1%
 
 ---
 
@@ -32,7 +32,7 @@ Adobe Identity Management系統包含三個元件。
 
 **我們需要做任何事來準備URL變更嗎？**
 
-可以。移轉後，Marketo Engage會從experience.adobe.com改用Adobe Experience Cloud。 您必須與IT團隊合作，將所有Adobe網域加入允許清單（列於本文頂端[） &#x200B;](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"}，以防止對Marketo Engage存取的中斷。
+可以。移轉後，Marketo Engage會從experience.adobe.com改用Adobe Experience Cloud。 您必須與IT團隊合作，將所有Adobe網域加入允許清單（列於本文頂端[） ](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"}，以防止對Marketo Engage存取的中斷。
 
 engage-xx.marketo.com網域&#x200B;_上Marketo Engage資產的先前連結和書籤將會_&#x200B;繼續運作。 不過，您必須先登入要導覽至的URL的Marketo Engage執行個體。 例如，若要導覽至Munchkin ID為123-ABC-456之執行個體中Smart Campaign的書籤，您必須先以Munchkin ID 123-ABC-456登入Marketo Engage執行個體。
 
@@ -40,7 +40,7 @@ engage-xx.marketo.com網域&#x200B;_上Marketo Engage資產的先前連結和書
 
 **這是否適用於SSO？**
 
-可以。與Adobe IMS的整合可支援通用ID使用者和SSO。 SSO現在由Adobe IMS驅動，並在Adobe Admin Console中的組織層級設定。 不過，Marketo Engage IdP啟動的支援與Adobe SP啟動的支援有所不同（[在這裡瞭解更多](https://helpx.adobe.com/tw/enterprise/using/set-up-identity.html){target="_blank"}）。 若您在移轉至Admin Console後需要有關SSO差異的協助，請聯絡[Adobe客戶服務](https://helpx.adobe.com/tw/contact.html){target="_blank"}。
+可以。與Adobe IMS的整合可支援通用ID使用者和SSO。 SSO現在由Adobe IMS驅動，並在Adobe Admin Console中的組織層級設定。 不過，Marketo Engage IdP啟動的支援與Adobe SP啟動的支援有所不同（[在這裡瞭解更多](https://helpx.adobe.com/tw/enterprise/using/set-up-identity.html){target="_blank"}）。 若您在移轉至Admin Console後需要有關SSO差異的協助，請聯絡[Adobe客戶服務](https://helpx.adobe.com/contact.html){target="_blank"}。
 
 **Adobe產品管理員和Marketo Engage管理員有何不同？**
 
@@ -75,7 +75,7 @@ engage-xx.marketo.com網域&#x200B;_上Marketo Engage資產的先前連結和書
 
 **我是IMS整合式訂閱的Marketo管理員，無法存取Admin Console。 如何取得存取權？**
 
-任何可存取貴組織Admin Console的Adobe系統或產品管理員都可以為您提供存取權。 如果您不確定組織中的哪些人擁有主控台中的管理員許可權，請聯絡[Adobe客戶服務](https://helpx.adobe.com/tw/contact.html){target="_blank"}。
+任何可存取貴組織Admin Console的Adobe系統或產品管理員都可以為您提供存取權。 如果您不確定組織中的哪些人擁有主控台中的管理員許可權，請聯絡[Adobe客戶服務](https://helpx.adobe.com/contact.html){target="_blank"}。
 
 **管理員如何將使用者新增至Marketo [!DNL Sales Connect]？**
 
@@ -83,7 +83,7 @@ engage-xx.marketo.com網域&#x200B;_上Marketo Engage資產的先前連結和書
 
 **我可以在何處進一步瞭解Adobe Admin Console？**
 
-[https://helpx.adobe.com/tw/enterprise/admin-guide.html](https://helpx.adobe.com/tw/enterprise/admin-guide.html){target="_blank"}。
+[https://helpx.adobe.com/enterprise/admin-guide.html](https://helpx.adobe.com/tw/enterprise/admin-guide.html){target="_blank"}。
 
 **我是否仍要移至Marketo的「管理員」區段，為我的帳戶變更使用者帳戶？**
 
@@ -123,11 +123,9 @@ Adobe IMS目前不支援Marketo的裝置授權功能之類的功能。
 
 **如果我的訂閱使用IP限制設定，Adobe身分識別移轉後會發生什麼事？**
 
-訂閱上架至Adobe身分時，IP限制設定不會移轉至Adobe Admin Console。 Marketo的IP限制設定包括僅允許從特定IP位址存取，以及封鎖特定IP位址的存取。 目前，Adobe Identity Management系統不支援IP限制功能。
+您目前的IP限制將在2026年第1季度保持作用中（這適用於在移轉前啟用這些IP限制的訂閱）。 這些限制也會套用至Adobe ID使用者，因此您的存取控制項可繼續正常運作。
 
-Adobe Identity Management System將在2025年中推出一項功能，僅允許特定IP位址，支援目前使用此功能的Marketo使用者的轉換。 目前使用此功能的使用者在功能發行前不會進行使用者移轉。 交付功能後，使用者將會收到排程其移轉的通知。 我們會在有需要時提供有關功能的詳細資訊。
-
-目前使用IP限制來封鎖特定位址存取的使用者，在移轉至Adobe Identity後將無法再使用此功能，因為Adobe Identity Management系統不支援此功能。
+自2026年第1季度起，將淘汰舊版IP限制。 此後，Adobe Admin Console (AAC)將專門管理IP型存取。 為了維護安全存取，您需要在AAC中設定IP限制。 如需詳細資訊，請參閱此[行銷國家部落格](https://nation.marketo.com/t5/product-blogs/updated-important-update-ip-restrictions-feature-transition/ba-p/358420){target="_blank"}。
 
 **如果我的使用者擁有「略過單一登入」的選項，Adobe身分移轉後會發生什麼事？**
 
@@ -143,7 +141,7 @@ Adobe Admin Console隨附預設的企業ID目錄。 在Adobe組織的Federated I
 
 **如何防止工作階段逾時？**
 
-在[進階設定](https://helpx.adobe.com/tw/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"}中，您可以自訂想要的最長工作階段存留期（需要系統管理員許可權）。 建議在產品移轉後、使用者移轉前建立此設定。
+在[進階設定](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"}中，您可以自訂想要的最長工作階段存留期（需要系統管理員許可權）。 建議在產品移轉後、使用者移轉前建立此設定。
 
 **我現在必須導覽至Experience Cloud才能存取Marketo Engage。 有辦法簡化此流程嗎？**
 
