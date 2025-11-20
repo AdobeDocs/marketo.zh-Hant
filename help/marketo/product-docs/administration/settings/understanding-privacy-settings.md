@@ -4,9 +4,9 @@ description: 瞭解隱私設定 — Marketo檔案 — 產品檔案
 title: 了解隱私權設定
 exl-id: 1fde9011-02a9-4ec9-bfa4-c56a52ce1eed
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: eccf4a66f5d3c581a82a363918b40ae37aa73576
 workflow-type: tm+mt
-source-wordcount: '500'
+source-wordcount: '479'
 ht-degree: 1%
 
 ---
@@ -68,11 +68,7 @@ Marketo為行銷人員提供了取得網頁訪客同意追蹤他們的方法。 
 
 行銷人員可使用匿名化的IP位址追蹤使用者，以保留隱私權。 若要這麼做，請將此程式碼新增至網站內嵌的RTP或[!DNL Munchkin] Javascript。
 
-* 若為[!DNL Munchkin]，只要將{&quot;anonymizeIP&quot;，true}新增至init函式。
-
-  >[!NOTE]
-  >
-  >使用此引數需要啟用[!DNL Munchkin] V2。 若要為您的訂閱啟用此功能，請連絡[Marketo支援](https://nation.marketo.com/community/support_solutions)。
+* 針對[!DNL Munchkin]，只要將`{"anonymizeIP",true}`新增到[init函式](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"}即可。
 
 * 針對Web Personalization (RTP)，請將此專案新增至Javascript：
 
