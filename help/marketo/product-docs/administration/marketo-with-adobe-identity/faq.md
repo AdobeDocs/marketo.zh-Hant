@@ -40,7 +40,7 @@ engage-xx.marketo.com網域&#x200B;_上Marketo Engage資產的先前連結和書
 
 **這是否適用於SSO？**
 
-可以。與Adobe IMS的整合可支援通用ID使用者和SSO。 SSO現在由Adobe IMS驅動，並在Adobe Admin Console中的組織層級設定。 不過，Marketo Engage IdP啟動的支援與Adobe SP啟動的支援有所不同（[在這裡瞭解更多](https://helpx.adobe.com/tw/enterprise/using/set-up-identity.html){target="_blank"}）。 若您在移轉至Admin Console後需要有關SSO差異的協助，請聯絡[Adobe客戶服務](https://helpx.adobe.com/contact.html){target="_blank"}。
+可以。與Adobe IMS的整合可支援通用ID使用者和SSO。 SSO現在由Adobe IMS驅動，並在Adobe Admin Console中的組織層級設定。 不過，Marketo Engage IdP啟動的支援與Adobe SP啟動的支援有所不同（[在這裡瞭解更多](https://helpx.adobe.com/tw/enterprise/using/set-up-identity.html){target="_blank"}）。 若您在移轉至Admin Console後需要有關SSO差異的協助，請聯絡[Adobe客戶服務](https://helpx.adobe.com/tw/contact.html){target="_blank"}。
 
 **Adobe產品管理員和Marketo Engage管理員有何不同？**
 
@@ -75,7 +75,7 @@ engage-xx.marketo.com網域&#x200B;_上Marketo Engage資產的先前連結和書
 
 **我是IMS整合式訂閱的Marketo管理員，無法存取Admin Console。 如何取得存取權？**
 
-任何可存取貴組織Admin Console的Adobe系統或產品管理員都可以為您提供存取權。 如果您不確定組織中的哪些人擁有主控台中的管理員許可權，請聯絡[Adobe客戶服務](https://helpx.adobe.com/contact.html){target="_blank"}。
+任何可存取貴組織Admin Console的Adobe系統或產品管理員都可以為您提供存取權。 如果您不確定組織中的哪些人擁有主控台中的管理員許可權，請聯絡[Adobe客戶服務](https://helpx.adobe.com/tw/contact.html){target="_blank"}。
 
 **管理員如何將使用者新增至Marketo [!DNL Sales Connect]？**
 
@@ -83,7 +83,7 @@ engage-xx.marketo.com網域&#x200B;_上Marketo Engage資產的先前連結和書
 
 **我可以在何處進一步瞭解Adobe Admin Console？**
 
-[https://helpx.adobe.com/enterprise/admin-guide.html](https://helpx.adobe.com/tw/enterprise/admin-guide.html){target="_blank"}。
+[https://helpx.adobe.com/tw/enterprise/admin-guide.html](https://helpx.adobe.com/tw/enterprise/admin-guide.html){target="_blank"}。
 
 **我是否仍要移至Marketo的「管理員」區段，為我的帳戶變更使用者帳戶？**
 
@@ -141,7 +141,7 @@ Adobe Admin Console隨附預設的企業ID目錄。 在Adobe組織的Federated I
 
 **如何防止工作階段逾時？**
 
-在[進階設定](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"}中，您可以自訂想要的最長工作階段存留期（需要系統管理員許可權）。 建議在產品移轉後、使用者移轉前建立此設定。
+在[進階設定](https://helpx.adobe.com/tw/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"}中，您可以自訂想要的最長工作階段存留期（需要系統管理員許可權）。 建議在產品移轉後、使用者移轉前建立此設定。
 
 **我現在必須導覽至Experience Cloud才能存取Marketo Engage。 有辦法簡化此流程嗎？**
 
