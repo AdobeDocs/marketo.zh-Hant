@@ -21,7 +21,7 @@ Marketo Engage Email Designer中的AI Assistant可幫助您建立當代、高效
 >
 >AI助理預設為未啟用。 您必須先同意[核心Gen-AI條款與補充條款](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}，才能在電子郵件Designer中使用Gen-AI功能。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
 
-## 設定許可權 {#set-up-permissions}
+## 設定權限 {#set-up-permissions}
 
 _依照上述必要條件，_&#x200B;之後，Marketo管理員必須先套用存取權給特定使用者/角色，使用者才能看到GenAI按鈕。
 
@@ -107,7 +107,7 @@ AI Assistant有三個主要使用案例：
 
 ![](assets/use-the-ai-assistant-5.png)
 
-若要選擇變數，請選取其核取方塊，然後按一下&#x200B;**選取**。 您也可以按一下「調整&#x200B;**&#x200B;**」來調整它。 此外，您可以按一下向上或向下縮圖示提供意見回饋，讓Gen-AI技術學習您的偏好設定。
+若要選擇變數，請選取其核取方塊，然後按一下&#x200B;**選取**。 您也可以按一下「調整&#x200B;****」來調整它。 此外，您可以按一下向上或向下縮圖示提供意見回饋，讓Gen-AI技術學習您的偏好設定。
 
 做出選擇後，主旨列會填入您的電子郵件詳細資訊中。
 

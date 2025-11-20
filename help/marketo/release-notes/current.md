@@ -6,7 +6,7 @@ feature: Release Information
 source-git-commit: 6c362502c975676a635b1425393bf43e1cf0be12
 workflow-type: tm+mt
 source-wordcount: '729'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -64,7 +64,7 @@ ht-degree: 99%
  <tr>
    <td><strong>電子郵件設計工具 - 影像轉 HTML 轉換器</strong>：上傳電子郵件相容的 PNG/JPEG 影像檔案，此檔案會自動轉換為 HTML，以便用於新電子郵件設計工具。</td>
    <td>已發布</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/image-to-html.md" target="_blank">將影像轉換為HTML範本</a></td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/image-to-html.md" target="_blank">將影像轉換為 HTML 範本</a></td>
   </tr>
   <tr>
    <td> </td>
