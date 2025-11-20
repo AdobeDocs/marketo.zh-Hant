@@ -68,7 +68,7 @@ Marketo為行銷人員提供了取得網頁訪客同意追蹤他們的方法。 
 
 行銷人員可使用匿名化的IP位址追蹤使用者，以保留隱私權。 若要這麼做，請將此程式碼新增至網站內嵌的RTP或[!DNL Munchkin] Javascript。
 
-* 針對[!DNL Munchkin]，只要將`{"anonymizeIP",true}`新增到[init函式](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"}即可。
+* 針對[!DNL Munchkin]，只要將`{"anonymizeIP",true}`新增到[init函式](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"}即可。
 
 * 針對Web Personalization (RTP)，請將此專案新增至Javascript：
 
