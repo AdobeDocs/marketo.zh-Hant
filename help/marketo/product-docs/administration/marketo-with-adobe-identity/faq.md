@@ -32,7 +32,7 @@ Adobe Identity Management系統包含三個元件。
 
 **我們需要做任何事來準備URL變更嗎？**
 
-可以。移轉後，Marketo Engage會從experience.adobe.com改用Adobe Experience Cloud。 您必須與IT團隊合作，將所有Adobe網域加入允許清單（列於本文頂端[） ](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"}，以防止對Marketo Engage存取的中斷。
+可以。移轉後，Marketo Engage會從experience.adobe.com改用Adobe Experience Cloud。 您必須與IT團隊合作，將所有Adobe網域加入允許清單（列於本文頂端[） &#x200B;](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"}，以防止對Marketo Engage存取的中斷。
 
 engage-xx.marketo.com網域&#x200B;_上Marketo Engage資產的先前連結和書籤將會_&#x200B;繼續運作。 不過，您必須先登入要導覽至的URL的Marketo Engage執行個體。 例如，若要導覽至Munchkin ID為123-ABC-456之執行個體中Smart Campaign的書籤，您必須先以Munchkin ID 123-ABC-456登入Marketo Engage執行個體。
 
