@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 278e21eb8c121cb30e55214913733bd02674e5c1
+source-git-commit: 5c9b5d656b685d5afd8d1118268957fc7be068ee
 workflow-type: tm+mt
 source-wordcount: '866'
 ht-degree: 10%
@@ -250,12 +250,6 @@ ht-degree: 10%
     <td>可用</td>
   </tr>
   <tr>
-    <td>支援使用電子郵件資產移動、刪除和匯入程式</td>
-    <td>能夠移動、刪除和匯入電子郵件計畫以及電子郵件資產。</td>
-    <td>可用</td>
-    <td>不可用</td>
-  </tr>
-  <tr>
     <td>角色與權限</td>
     <td>能夠新增電子郵件、電子郵件範本和片段的角色和許可權。</td>
     <td>可用</td>
@@ -284,6 +278,12 @@ ht-degree: 10%
     <td>修改電子郵件、電子郵件範本及片段之HTML內容的功能。</td>
     <td>可用</td>
     <td>待定</td>
+  </tr>
+  <tr>
+    <td>支援使用電子郵件資產移動、刪除和匯入程式</td>
+    <td>能夠移動、刪除和匯入電子郵件計畫以及電子郵件資產。</td>
+    <td>可用</td>
+    <td>不可用</td>
   </tr>
   <tr>
     <td>預測內容</td>
