@@ -4,16 +4,20 @@ description: 電子郵件編輯器v2.0概覽 — Marketo檔案 — 產品檔案
 title: 電子郵件編輯器 v2.0 概觀
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: bbb72b79d4d8b19a3aa986737651a3efa65449e2
 workflow-type: tm+mt
-source-wordcount: '390'
-ht-degree: 2%
+source-wordcount: '436'
+ht-degree: 1%
 
 ---
 
 # 電子郵件編輯器 v2.0 概觀 {#email-editor-v2-overview}
 
-當您決定啟動[!DNL Email Editor v2.0]時，您會注意到幾個新功能。
+傳統電子郵件編輯器的概觀。
+
+>[!IMPORTANT]
+>
+>雖然尚未設定確切日期，但傳統電子郵件編輯器可能會在2026年遭到取代（屆時會宣佈確切日期）。 強烈建議開始採用進階[電子郵件Designer](/help/marketo/product-docs/email-marketing/email-designer/overview.md){target="_blank"}，因為它有許多傳統編輯器中無法提供的功能。
 
 **電子郵件範本選擇器**
 
