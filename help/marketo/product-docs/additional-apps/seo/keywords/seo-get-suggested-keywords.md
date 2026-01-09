@@ -19,10 +19,10 @@ Marketo SEO可建議您應該追蹤哪些關鍵字。 我們可以根據關鍵�
 >
 >在2026年3月31日，Marketo Engage將淘汰搜尋引擎最佳化功能。 請在3月30日或之前匯出任何相關資料。 [了解更多](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}。
 >
->* [匯出問題](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
->* [匯出關鍵字結果](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
->* [匯出關鍵字趨勢](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
->* [匯出競爭者關鍵字趨勢](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
+>* [匯出問題](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [匯出關鍵字結果](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [匯出關鍵字趨勢](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [匯出競爭者關鍵字趨勢](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 ## 使用關鍵字取得關鍵字建議 {#get-keyword-suggestions-using-a-keyword}
 
