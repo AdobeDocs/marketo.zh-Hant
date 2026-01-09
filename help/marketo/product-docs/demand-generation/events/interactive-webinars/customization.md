@@ -3,9 +3,9 @@ description: 互動式網路研討會自訂 — Marketo檔案 — 產品檔案
 title: 互動式網路研討會自訂
 feature: Interactive Webinars
 exl-id: 52933cb6-7bce-4c81-ba3f-68eaf211e8eb
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 6350137c2abfb46a0a8451772a8dc08391f3e4b5
 workflow-type: tm+mt
-source-wordcount: '715'
+source-wordcount: '759'
 ht-degree: 0%
 
 ---
@@ -61,7 +61,7 @@ ht-degree: 0%
 
    ![](assets/interactive-webinars-customization-8.png)
 
-### 自訂會議室介面 {#customize-the-room-interface}
+## 自訂會議室介面 {#customize-the-room-interface}
 
 您可以透過變更標誌、可點按的重新導向連結和顏色來自訂工作階段會議室的外觀。 您的變更將會反映在您組織中的所有活動和會議室。
 
@@ -134,3 +134,11 @@ Adobe Connect提供九種預設背景可供使用。 您可以在「預覽」中
 ![](assets/interactive-webinars-customization-13.png)
 
 選取&#x200B;**套用**&#x200B;以儲存變更，或選取&#x200B;**重設為預設值**&#x200B;以重設為預設值。
+
+### 建立可自訂的主題 {#create-customizable-themes}
+
+* 管理員可以使用自訂標誌、顏色和視訊背景來建立/管理主題。
+
+* 主人在建立房間時可以選擇主題，或稍後從房間資訊頁更新主題（**房間頂列** > **更多功能表** > **檢視房間資訊**）。
+
+深入瞭解[主題](https://helpx.adobe.com/adobe-connect/connect-central-admin/connect-central-ui-customization-basics.html){target="_blank"}。

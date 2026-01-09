@@ -3,9 +3,9 @@ description: 設計互動式網路研討會 — Marketo檔案 — 產品檔案
 title: 設計互動式網路研討會
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 6350137c2abfb46a0a8451772a8dc08391f3e4b5
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '567'
 ht-degree: 1%
 
 ---
@@ -75,6 +75,10 @@ ht-degree: 1%
 **版面配置**：參考將多個必要元件安排在特定範本中以確保網路研討會成功的各種方式。 單一範本可以有多個版面供您選擇。 網路研討會的基本元件在各範本上維持不變。 您選取的排列方式最適合您或傳送網路研討會的主持人的風格/需求。
 
 **Pod**：範本內的元件，會在網路研討會期間執行特定活動。 例如，設定並傳送投票，以擷取一個活動中可透過投票Pod完成之參與者的回應。 同樣地，與參與者聊天以傳達訊息或與其隨意互動可以是透過聊天Pod傳送的活動。 有多個其他Pod可供使用，例如「分享」、「附註」、「視訊」、「聊天」、「與會者清單」、「檔案」、「網頁連結」、「投票」以及「問答」。
+
+      **調查Pod**：允許主機直接在即時工作階段中設計和傳遞結構化意見表單。 Survey Pod擴充了現有的Poll Pod功能，允許多個問題一起出現，提供更精簡且更有凝聚力的方式來收集參與者的深入解析。 [了解更多](https://helpx.adobe.com/adobe-connect/using/survey-pod.html){target="_blank"}
+
+      **資源Pod**：取代先前的檔案和Web連結Pod，提供在即時工作階段中共用資源的單一統一方式。 [了解更多](https://helpx.adobe.com/adobe-connect/using/resources-pod.html){target="_blank"}
 
 >[!MORELIKETHIS]
 >
