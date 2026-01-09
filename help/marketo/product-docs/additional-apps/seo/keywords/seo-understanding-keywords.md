@@ -4,16 +4,25 @@ description: SEO — 瞭解關鍵字 — Marketo檔案 — 產品檔案
 title: SEO - 了解關鍵字
 exl-id: 33a350c9-7b57-4031-b916-58d2b12c1927
 feature: SEO
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
 workflow-type: tm+mt
-source-wordcount: '210'
-ht-degree: 1%
+source-wordcount: '250'
+ht-degree: 2%
 
 ---
 
 # SEO — 瞭解[!UICONTROL Keywords] {#seo-understanding-keywords}
 
 [!UICONTROL Keywords]是您的SEO策略骨幹。 您的目標是位於第一頁，儘可能靠近#1取與您的業務相關的關鍵字。
+
+>[!IMPORTANT]
+>
+>在2026年3月31日，Marketo Engage將淘汰搜尋引擎最佳化功能。 請在3月30日或之前匯出任何相關資料。 [了解更多](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}。
+>
+>* [匯出問題](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [匯出關鍵字結果](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [匯出關鍵字趨勢](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [匯出競爭者關鍵字趨勢](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 [!UICONTROL Keywords]區段會向您顯示您的網站在達成此目標方面的成功程度，以及您如何棧疊最多[您的競爭對手](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)。
 

@@ -4,9 +4,9 @@ description: SEO — 使用頁面詳細資料深入研究 — Marketo檔案 — 
 title: SEO - 使用頁面詳細資料深入研究
 exl-id: 2fa1fdf3-2d42-424c-911e-188195e4551a
 feature: SEO
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '273'
 ht-degree: 6%
 
 ---
@@ -14,6 +14,15 @@ ht-degree: 6%
 # SEO - 使用頁面詳細資料深入研究 {#seo-using-the-page-detail-drill-down}
 
 您可以使用頁面詳細資料向下展開，檢視頁面的許多相關資訊。
+
+>[!IMPORTANT]
+>
+>在2026年3月31日，Marketo Engage將淘汰搜尋引擎最佳化功能。 請在3月30日或之前匯出任何相關資料。 [了解更多](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}。
+>
+>* [匯出問題](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [匯出關鍵字結果](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [匯出關鍵字趨勢](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [匯出競爭者關鍵字趨勢](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 ## 尋找頁面向下展開 {#find-page-drill-down}
 

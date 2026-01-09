@@ -4,10 +4,10 @@ description: SEO — 瞭解頁面 — Marketo檔案 — 產品檔案
 title: SEO - 了解頁面
 exl-id: c0fa5408-4b4f-4981-b4ba-20f40c475244
 feature: SEO
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
 workflow-type: tm+mt
-source-wordcount: '267'
-ht-degree: 2%
+source-wordcount: '286'
+ht-degree: 3%
 
 ---
 
@@ -15,17 +15,20 @@ ht-degree: 2%
 
 ## 頁面最佳化分數/待辦事項Widget {#page-optimization-score-to-do-widget}
 
-![](assets/image2014-9-17-21-3a52-3a3.png)
-
 頁面[!UICONTROL Optimization Score]是頁面最佳化搜尋的整體排名，以1到100為分母。 這套技術以SEO數十種最佳實務為基礎。
 
 * 0 - 35 =未妥善最佳化
 * 35 - 70 =在右軌道
 * 70 - 100 =做得很好！
 
->[!TIP]
+>[!IMPORTANT]
 >
->按一下「[!UICONTROL High Impact]」方塊中的「[!UICONTROL To Do]」連結，這會將您重新導向至「[!UICONTROL Issues tab]」並顯示要解決的高優先順序問題。
+>在2026年3月31日，Marketo Engage將淘汰搜尋引擎最佳化功能。 請在3月30日或之前匯出任何相關資料。 [了解更多](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}。
+>
+>* [匯出問題](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [匯出關鍵字結果](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [匯出關鍵字趨勢](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [匯出競爭者關鍵字趨勢](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 ## [!UICONTROL Pages]索引標籤 {#pages-tab}
 

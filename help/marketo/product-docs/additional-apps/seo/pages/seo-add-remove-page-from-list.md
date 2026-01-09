@@ -4,16 +4,25 @@ description: SEO — 從清單新增/移除頁面 — Marketo檔案 — 產品�
 title: SEO - 從清單中新增/移除頁面
 exl-id: 05394bfc-b8c5-41a4-b6dd-78e7a408b7a2
 feature: SEO
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '221'
 ht-degree: 7%
 
 ---
 
 # SEO - 從清單中新增/移除頁面 {#seo-add-remove-page-from-list}
 
-您要管理您的頁面嗎？ 您可以透過建立清單輕鬆完成此操作。 您可以使用清單來組織頁面或篩選儀表板中的資料。
+建立清單以輕鬆管理頁面。 您可以使用清單來組織頁面或篩選儀表板中的資料。
+
+>[!IMPORTANT]
+>
+>在2026年3月31日，Marketo Engage將淘汰搜尋引擎最佳化功能。 請在3月30日或之前匯出任何相關資料。 [了解更多](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}。
+>
+>* [匯出問題](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [匯出關鍵字結果](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [匯出關鍵字趨勢](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [匯出競爭者關鍵字趨勢](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 ## 將頁面新增至清單 {#add-page-to-a-list}
 
