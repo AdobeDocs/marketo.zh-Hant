@@ -4,9 +4,9 @@ description: 步驟3之3 — 連線Marketo和Salesforce (Enterprise/Unlimited) -
 title: 步驟3之3 — 連線Marketo和Salesforce (Enterprise/Unlimited)
 exl-id: ef74bc53-9dc9-43c7-a9aa-565463fdd2e5
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f27e0d42161161347cc4c774853fb04e7ccecb5c
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '422'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >如果您看到「登入[!DNL Salesforce]」按鈕而非使用者名稱/密碼/權杖欄位，表示您的Marketo訂閱已啟用OAuth。 請[參考本文章](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md)。 只要同步開始使用一組認證，**就不會切換[!DNL Salesforce]認證或訂閱**。 如果您想要使用基本驗證，請聯絡您的客戶成功經理。
+   >如果您看到「登入[!DNL Salesforce]」按鈕而非使用者名稱/密碼/權杖欄位，表示您的Marketo訂閱已啟用OAuth。 請[參考本文章](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md)。 只要同步開始使用一組認證，**就不會切換[!DNL Salesforce]認證或訂閱**。 如果您想要使用基本驗證，請聯絡您的帳戶管理員。
 
 1. 閱讀警告，然後按一下&#x200B;**[!UICONTROL Confirm Credentials]**。
 
