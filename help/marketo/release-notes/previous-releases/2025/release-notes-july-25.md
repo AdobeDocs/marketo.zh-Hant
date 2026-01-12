@@ -3,7 +3,7 @@ description: 發行說明 — 2025年7月 — Marketo檔案 — 產品檔案
 title: 發行說明 - 2025 年 7 月
 feature: Release Information
 exl-id: 86776722-c640-4e55-9551-38ff34de566b
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f806c0984cf221bd88fdf50013a8f1d2911b5d86
 workflow-type: tm+mt
 source-wordcount: '714'
 ht-degree: 93%
@@ -37,9 +37,9 @@ ht-degree: 93%
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/genstudio.md">GenStudio 與 Marketo Engage 的整合</a></td>
   </tr>
   <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
+   <td>  </td>
+   <td>  </td>
+   <td>  </td>
   </tr>
   <tr>
    <td><strong>電子郵件設計工具 - 自訂 CSS</strong>：現在，您在設計電子郵件時，可以在電子郵件設計工具中直接新增自訂 CSS。</td>
@@ -47,9 +47,9 @@ ht-degree: 93%
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/custom-css.md">將自訂 CSS 新增至您的電子郵件內容</a></td>
   </tr>
   <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
+   <td>  </td>
+   <td>  </td>
+   <td>  </td>
   </tr>
   <tr>
    <td><strong>電子郵件設計工具 - 使用 SpamAssassin 偵測垃圾郵件</strong>：您可以使用 Marketo Engage 中的 SpamAssassin 來測試電子郵件內容，了解 ISP/信箱提供者將其標記為垃圾郵件的可能性。</td>
@@ -57,9 +57,9 @@ ht-degree: 93%
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/spam-report.md">垃圾郵件報告</a></td>
   </tr>
   <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
+   <td>  </td>
+   <td>  </td>
+   <td>  </td>
   </tr>
   <tr>
    <td><strong>電子郵件設計工具 - 支援移動資產與方案刪除</strong>：在不同的方案之間快速搬動電子郵件資產。您現在也可以刪除包含有新的設計工具電子郵件資產的方案。</td>
@@ -67,9 +67,9 @@ ht-degree: 93%
    <td>不適用</td>
   </tr>
   <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
+   <td>  </td>
+   <td>  </td>
+   <td>  </td>
   </tr>
   <tr>
    <td><strong>電子郵件設計工具 - Firefox 支援</strong>：Mozilla Firefox 現已完全支援電子郵件設計工具。若要實現最佳體驗，請務必維持瀏覽器的最新狀態。</td>
@@ -77,9 +77,9 @@ ht-degree: 93%
    <td>不適用</td>
   </tr>
   <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
+   <td>  </td>
+   <td>  </td>
+   <td>  </td>
   </tr>
   <tr>
    <td><strong>電子郵件設計工具 - 從屬性頁面模擬內容</strong>：利用<i>電子郵件屬性</i>模擬電子郵件資產的內容，但不需要返回編輯畫面。</td>
@@ -87,9 +87,9 @@ ht-degree: 93%
    <td>不適用</td>
   </tr>
    <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
+   <td>  </td>
+   <td>  </td>
+   <td>  </td>
   </tr>
   <tr>
    <td><strong>電子郵件設計工具 - 資產的角色型存取控制</strong>：5 月發行版本已針對編輯、核准和刪除權限實施角色型存取控制 (RBAC)。此版本現在提供讀取權限。</td>
@@ -97,9 +97,9 @@ ht-degree: 93%
    <td>不適用</td>
   </tr>
   <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
+   <td>  </td>
+   <td>  </td>
+   <td>  </td>
   </tr>
   <tr>
    <td><strong>電子郵件設計工具 - 編輯已發佈電子郵件的電子郵件屬性</strong>：即使在電子郵件發佈之後也能編輯<i>電子郵件屬性</i>。</td>
@@ -107,9 +107,9 @@ ht-degree: 93%
    <td>不適用</td>
   </tr>
   <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
+   <td>  </td>
+   <td>  </td>
+   <td>  </td>
   </tr>
   <tr>
    <td><strong>電子郵件設計工具 - 選取品牌化網域和網域 IP 設定</strong>：您現在可以針對每項電子郵件資產選取一個「品牌網域」和「網域 IP 設定」。</td>
@@ -117,9 +117,9 @@ ht-degree: 93%
    <td>不適用</td>
   </tr>
   <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
+   <td>  </td>
+   <td>  </td>
+   <td>  </td>
   </tr>
   <tr>
    <td><strong>REST API 錯誤代碼通知更新</strong>：應用程式內通知新增兩類 REST API 錯誤：606 - 超出最大速率限制，和 607 - 已達到每日配額。</td>
@@ -127,9 +127,9 @@ ht-degree: 93%
    <td>不適用</td>
   </tr>
   <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
+   <td>  </td>
+   <td>  </td>
+   <td>  </td>
   </tr>
   <tr>
    <td><strong>在欄位管理中顯示方案會員標準欄位</strong>：現在<i>欄位管理</i>中可以看見標準和自訂兩種方案會員欄位。</td>
@@ -137,9 +137,9 @@ ht-degree: 93%
    <td>不適用</td>
   </tr>
   <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
+   <td>  </td>
+   <td>  </td>
+   <td>  </td>
   </tr>
   <tr>
    <td><strong>欄位管理中的 REST API 名稱</strong>：此更新允許管理員查看 REST API 欄位名稱，但不需要匯出清單。</td>
@@ -147,9 +147,9 @@ ht-degree: 93%
    <td>不適用</td>
   </tr>
   <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
+   <td>  </td>
+   <td>  </td>
+   <td>  </td>
   </tr>
   <tr>
    <td><strong>可以檢視 Munchkin Cookie 和 ECID</strong>：現在於<a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page">人員詳細資料頁面</a>的「資訊」索引標籤中可以看到 Munchkin Cookie 和 ECID (Experience Cloud 身分識別) 號碼清單，降低依賴 API 呼叫獲取該資訊的程度。</td>
@@ -168,6 +168,6 @@ ht-degree: 93%
 
    * _單一登入 (SSO) 棄用_：將於 2025 年 7 月 30 日停止支援 [Marketo Identity SSO](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"}。該功能將保持正常運作，直到轉換至 Adobe Identity 的過程完成為止。在 Adobe Admin Console 中，Adobe Identity 單一登入必須個別設定。關於設定步驟，請參閱[設定身分識別和單一登入](https://helpx.adobe.com/tw/enterprise/using/set-up-identity.html){target="_blank"}。
 
-* **Rest API &#39;access_token&#39;引數淘汰**：用於驗證Marketo REST API呼叫的`access_token`查詢引數已淘汰，並將於2026年1月31日後無法使用。 所有新的和現有的整合都應使用「授權」標頭驗證 REST API 呼叫，方法[如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
+* **Rest API &#39;access_token&#39;引數淘汰**：用於驗證Marketo REST API呼叫的`access_token`查詢引數已淘汰，並將於2026年3月31日後無法使用。 所有新的和現有的整合都應使用「授權」標頭來驗證 REST API 呼叫，方法[如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
-* **SOAP API淘汰**：對Marketo SOAP API的支援將於2026年1月31日終止。 使用 SOAP API 功能的服務應移轉至 [REST API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。
+* **SOAP API淘汰**：對Marketo SOAP API的支援將於2026年3月31日終止。 使用 SOAP API 功能的服務應移轉至 [REST API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。

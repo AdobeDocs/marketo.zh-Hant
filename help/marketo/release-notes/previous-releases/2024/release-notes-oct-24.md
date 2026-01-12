@@ -3,7 +3,7 @@ description: 發行說明 — 2024年10月 — Marketo檔案 — 產品檔案
 title: 版本注意事項 - 2024 年 10 月
 feature: Release Information
 exl-id: 2e28ae7f-51de-4510-b3e8-79a989f0daf5
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f806c0984cf221bd88fdf50013a8f1d2911b5d86
 workflow-type: tm+mt
 source-wordcount: '548'
 ht-degree: 16%
@@ -37,9 +37,9 @@ ht-degree: 16%
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md#interactive-webinars-tokens" target="_blank">推廣互動式網路研討會</a></td>
   </tr>
   <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
+   <td>  </td>
+   <td>  </td>
+   <td>  </td>
   </tr>
   </tr>
    <tr>
@@ -48,9 +48,9 @@ ht-degree: 16%
    <td>不適用</td>
   </tr>
   <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
+   <td>  </td>
+   <td>  </td>
+   <td>  </td>
   </tr>
   </tr>
    <tr>
@@ -59,9 +59,9 @@ ht-degree: 16%
    <td>不適用</td>
   </tr>
   <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
+   <td>  </td>
+   <td>  </td>
+   <td>  </td>
   </tr>
    <tr>
    <td><strong>電子郵件效能報告增強功能</strong>：已針對電子郵件報告量度和活動追蹤進行多項改進，以提供其他深入分析並改善準確性。
@@ -74,9 +74,9 @@ ht-degree: 16%
    <td><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">電子郵件績效報告</a></td>
   </tr>
   <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
+   <td>  </td>
+   <td>  </td>
+   <td>  </td>
   </tr>
    <tr>
    <td><strong>Salesforce同步處理待處理專案量度</strong>：監視同步處理輸送量和待處理專案趨勢，以便規劃及排程CRM更新，提供最佳的同步處理體驗。
@@ -92,7 +92,7 @@ ht-degree: 16%
 
 * **大量擷取API更新**：我們已修正大量擷取API中涉及columnHeaderNames選項的問題，該選項可讓您在匯出的檔案中指定自訂欄標題名稱。 以前，包含非ASCII字元的欄標題名稱可能會損毀。
 
-* **Rest API access_token引數淘汰**：用於驗證Marketo REST API呼叫的「access_token」查詢引數已淘汰，並將於2026年1月31日後無法使用。 所有新的和現有的整合應該使用&#39;Authorization&#39;標頭[驗證REST API呼叫，如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication#using-an-access-token)。
+* **Rest API access_token引數淘汰**：用於驗證Marketo REST API呼叫的「access_token」查詢引數已淘汰，並將於2026年3月31日後無法使用。 所有新的和現有的整合應該使用&#39;Authorization&#39;標頭[驗證REST API呼叫，如此處所述](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#using-an-access-token)。
 
 * **QR碼淘汰**：自2024年10月4日起，推播通知和應用程式內訊息資產中使用的QR碼功能將被淘汰。 這包括使用新測試裝置的QR碼，以及使用QR碼建立新資產。 淘汰使用率較低的功能，可讓我們重新分配其資源，以進行Marketo Engage的整體維護。
 

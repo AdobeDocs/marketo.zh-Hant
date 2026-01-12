@@ -3,10 +3,10 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 6c362502c975676a635b1425393bf43e1cf0be12
+source-git-commit: f806c0984cf221bd88fdf50013a8f1d2911b5d86
 workflow-type: tm+mt
 source-wordcount: '729'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
 
@@ -37,9 +37,9 @@ ht-degree: 100%
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/import-template.md" target="_blank">範本匯入</a></td>
   </tr>
   <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
+   <td>  </td>
+   <td>  </td>
+   <td>  </td>
   </tr>
   <tr>
    <td><strong>電子郵件設計工具 - 品牌主題</strong>：您現在可以在 Marketo Engage 中定義品牌主題。樣式設定可以在電子郵件範本和其他電子郵件資產中重複使用及套用，以維持品牌一致性。</td>
@@ -47,9 +47,9 @@ ht-degree: 100%
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md" target="_blank">品牌主題</a></td>
   </tr>
   <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
+   <td>  </td>
+   <td>  </td>
+   <td>  </td>
   </tr>
   <tr>
    <td><strong>電子郵件設計工具 - 條件式內容</strong>：新電子郵件設計工具的同等功能，可讓您在權杖之外實現電子郵件個人化。</td>
@@ -57,9 +57,9 @@ ht-degree: 100%
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/conditional-content.md" target="_blank">條件式內容</a></td>
   </tr>
   <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
+   <td>  </td>
+   <td>  </td>
+   <td>  </td>
   </tr>
  <tr>
    <td><strong>電子郵件設計工具 - 影像轉 HTML 轉換器</strong>：上傳電子郵件相容的 PNG/JPEG 影像檔案，此檔案會自動轉換為 HTML，以便用於新電子郵件設計工具。</td>
@@ -67,9 +67,9 @@ ht-degree: 100%
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/image-to-html.md" target="_blank">將影像轉換為 HTML 範本</a></td>
   </tr>
   <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
+   <td>  </td>
+   <td>  </td>
+   <td>  </td>
   </tr>
   <tr>
    <td><strong>電子郵件設計工具 - 原地複製電子郵件動作</strong>：您現在可以將電子郵件原地複製至行銷活動中另一個計劃的資料夾，並快速重複使用現有的電子郵件。</td>
@@ -77,9 +77,9 @@ ht-degree: 100%
    <td>不適用</td>
   </tr>
   <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
+   <td>  </td>
+   <td>  </td>
+   <td>  </td>
   </tr>
   <tr>
    <td><strong>電子郵件設計工具 - A/B 測試</strong>：新電子郵件設計工具的同等功能，可讓您執行 A/B 測試，藉此查看哪些類型的內容接收最佳回應。</td>
@@ -106,6 +106,6 @@ ht-degree: 100%
 
 * **棄用「_轉寄給好友_」功能**：自 2025 年 9 月 29 日起，Marketo Engage 2.0 電子郵件 (舊版電子郵件編輯器) 中的「_轉寄給好友_」功能在所有訂閱中已全面棄用。此變更影響已寄出或即將寄出，且使用「轉寄給好友」權杖的電子郵件中的「轉寄給好友」權杖和連結。[了解更多](https://nation.marketo.com/t5/product-blogs/deprecation-of-forward-to-a-friend/ba-p/358045#M2889){target="_blank"}
 
-* **REST API「access_token」參數棄用**：用於驗證 Marketo REST API 呼叫的 `access_token` 查詢參數將棄用，且於 2026 年 1 月 31 日之後不再提供使用。所有新的和現有的整合都應使用「授權」標頭來驗證 REST API 呼叫，方法[如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
+* **Rest API &#39;access_token&#39;引數淘汰**：用於驗證Marketo REST API呼叫的`access_token`查詢引數已淘汰，並將於2026年3月31日後無法使用。 所有新的和現有的整合都應使用「授權」標頭來驗證 REST API 呼叫，方法[如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
-* **SOAP API 棄用**：將於 2026 年 1 月 31 日停止支援 Marketo SOAP API。使用 SOAP API 功能的服務應移轉至 [REST API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。
+* **SOAP API淘汰**：對Marketo SOAP API的支援將於2026年3月31日終止。 使用 SOAP API 功能的服務應移轉至 [REST API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。

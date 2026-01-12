@@ -2,10 +2,11 @@
 description: 發行說明 — 2025年8月 — Marketo檔案 — 產品檔案
 title: 發行說明 - 2025 年 8 月
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+exl-id: f4f71a77-d0c0-41c3-9362-afbfb467cc7a
+source-git-commit: f806c0984cf221bd88fdf50013a8f1d2911b5d86
 workflow-type: tm+mt
-source-wordcount: '598'
-ht-degree: 92%
+source-wordcount: '573'
+ht-degree: 91%
 
 ---
 
@@ -36,9 +37,9 @@ ht-degree: 92%
    <td>不適用</td>
   </tr>
   <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
+   <td>  </td>
+   <td>  </td>
+   <td>  </td>
   </tr>
   <tr>
    <td><strong>電子郵件設計工具 - 自動完成移除</strong>：權杖個人化編輯器中的「自動完成」選項先前指向了錯誤的物件，已遭移除。目前沒有重新實作此功能的計劃。</td>
@@ -46,9 +47,9 @@ ht-degree: 92%
    <td>不適用</td>
   </tr>
   <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
+   <td>  </td>
+   <td>  </td>
+   <td>  </td>
   </tr>
   <tr>
    <td><strong>電子郵件設計工具 - 電子郵件預覽最佳化</strong>：部分使用者嘗試在電子郵件/電子郵件範本/片段詳細資料頁面中預覽電子郵件時，遇到載入時間較慢的問題。此體驗已完成最佳化，載入時間可加速 60%。</td>
@@ -56,9 +57,9 @@ ht-degree: 92%
    <td>不適用</td>
   </tr>
   <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
+   <td>  </td>
+   <td>  </td>
+   <td>  </td>
   </tr>
   <tr>
    <td><strong>電子郵件設計工具 - 範本修正</strong>：部分現成可用的範本出現轉譯問題 (例如在特定瀏覽器/深色模式下無法正確轉譯、影像未對齊、CTA 按鈕錯置及其他問題)。此版本已修正以上所有問題。</td>
@@ -66,24 +67,14 @@ ht-degree: 92%
    <td>不適用</td>
   </tr>
   <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
+   <td>  </td>
+   <td>  </td>
+   <td>  </td>
   </tr>
   <tr>
    <td><strong>電子郵件設計工具 - 內容鎖定修正</strong>：過去，如果使用內容鎖定建立電子郵件範本，且將此範本用於建立電子郵件，則即使重設電子郵件或選取「變更設計」，內容鎖定仍會存在。此版本已修正此問題。</td>
    <td>已發布</td>
    <td>不適用</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>編輯智慧行銷活動限制的權限</strong>：管理員現在可以規定，只有具備權限的使用者才能修改智慧行銷活動的限制。</td>
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
   </tr>
   </tbody>
 </table>
@@ -99,6 +90,6 @@ ht-degree: 92%
 
 * **棄用「_轉寄給好友_」功能**：自 2025 年 9 月 29 日起，Marketo Engage 2.0 電子郵件 (舊版電子郵件編輯器) 中的「_轉寄給好友_」功能將在所有訂閱中全面棄用。這會影響已經寄出或即將寄出，且使用「轉寄給好友」權杖的電子郵件中的「轉寄給好友」權杖和連結。[了解更多](https://nation.marketo.com/t5/product-blogs/deprecation-of-forward-to-a-friend/ba-p/358045#M2889){target="_blank"}
 
-* **Rest API &#39;access_token&#39;引數淘汰**：用於驗證Marketo REST API呼叫的`access_token`查詢引數已淘汰，並將於2026年1月31日後無法使用。 所有新的和現有的整合都應使用「授權」標頭驗證 REST API 呼叫，方法[如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
+* **Rest API &#39;access_token&#39;引數淘汰**：用於驗證Marketo REST API呼叫的`access_token`查詢引數已淘汰，並將於2026年3月31日後無法使用。 所有新的和現有的整合都應使用「授權」標頭來驗證 REST API 呼叫，方法[如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
-* **SOAP API淘汰**：對Marketo SOAP API的支援將於2026年1月31日終止。 使用 SOAP API 功能的服務應移轉至 [REST API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。
+* **SOAP API淘汰**：對Marketo SOAP API的支援將於2026年3月31日終止。 使用 SOAP API 功能的服務應移轉至 [REST API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。

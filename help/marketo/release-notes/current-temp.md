@@ -5,16 +5,16 @@ hide: true
 hidefromtoc: true
 feature: Release Information
 exl-id: 0ca5e844-c30b-4c86-a23d-d8f2c1bdddf5
-source-git-commit: 49068be70579166eaf0e90a8b2769081a873edd9
+source-git-commit: f806c0984cf221bd88fdf50013a8f1d2911b5d86
 workflow-type: tm+mt
-source-wordcount: '691'
-ht-degree: 55%
+source-wordcount: '455'
+ht-degree: 47%
 
 ---
 
-# 發行說明：2025 年 10 月 {#release-notes-oct-25}
+# 發行說明：2026 年 1 月 {#release-notes-jan-26}
 
-下方提供2025年10月發行版本包含的所有功能。 請查看您的 Adobe Marketo Engage 版本是否提供這些功能。
+以下是2026年1月發行版本包含的所有功能。 請查看您的 Adobe Marketo Engage 版本是否提供這些功能。
 
 如需 Adobe Dynamic Chat 特定的發行說明，[請參閱這裡](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}。
 
@@ -24,7 +24,7 @@ ht-degree: 55%
 
 ## 標準發行週期功能 {#standard-release-cycle-features}
 
-下列功能屬於標準發行週期，並將於&#x200B;**2025年10月31日**&#x200B;開始發行，並在接下來的幾週內分階段推出剩餘功能。 發行的功能和日期可能有所變更。如需了解各項功能的狀態，請查看其旁邊欄位。
+下列功能屬於標準發行週期，並將於&#x200B;**2026年1月30日**&#x200B;開始發行，在接下來的幾週內分階段推出剩餘功能。 發行的功能和日期可能有所變更。如需了解各項功能的狀態，請查看其旁邊欄位。
 
 <table style="table-layout:auto">
  <tbody>
@@ -34,60 +34,27 @@ ht-degree: 55%
    <th style="width:25%">文件</th>
   </tr>
   <tr>
-   <td><strong>範本匯入工具</strong>：從傳統電子郵件編輯器匯入電子郵件範本，以建立與Design Studio中的新電子郵件Designer相容的範本。</td>
+   <td><strong>功能標題</strong>：功能說明。</td>
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
   </tr>
   <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
+   <td>  </td>
+   <td>  </td>
+   <td>  </td>
   </tr>
   <tr>
-   <td><strong>電子郵件Designer — 條件式內容</strong>：新電子郵件Designer的同等功能，可讓您在權杖之外實現電子郵件個人化。</td>
+   <td><strong>功能標題</strong>：功能說明。</td>
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
   </tr>
   <tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
+   <td>  </td>
+   <td>  </td>
+   <td>  </td>
   </tr>
   <tr>
-   <td><strong>電子郵件Designer - A/B測試</strong>：新電子郵件Designer的同等功能，可讓您執行A/B測試，以檢視哪些型別的內容接收最佳回應。</td>
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
-  </tr>
-  <tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>電子郵件Designer — 品牌主題</strong>：您現在可以在Marketo Engage中定義品牌主題。 樣式設定可以跨電子郵件範本和其他電子郵件資產重複使用和套用，以保持品牌一致性。</td>
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
-  </tr>
-  <tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
- <tr>
-   <td><strong>電子郵件Designer — 影像至HTML Converter</strong>：您現在可以上傳電子郵件的相容PNG/JPEG影像檔案，該檔案會自動轉換為HTML，以便用於新的電子郵件Designer。</td>
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>電子郵件Designer — 複製電子郵件動作</strong>：您現在可以將電子郵件複製至行銷活動中的另一個方案資料夾，並快速重複使用現有的電子郵件。</td>
+   <td><strong>功能標題</strong>：功能說明。</td>
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
   </tr>
@@ -95,20 +62,26 @@ ht-degree: 55%
 </table>
 <br/>
 
+## Adobe Connect功能 {#adobe-connect-features}
+
+Marketo Engage [互動式網路研討會](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview){target="_blank"}功能由Adobe Connect提供技術支援，透過事件資料豐富人員管理和行銷活動，並提升人員品質。 以下是一些直接影響互動式網路研討會使用者的最新Adobe Connect版本。
+
+* **調查Pod**： Adobe Connect 12.11推出新的Survey Pod，讓主機直接在即時工作階段中設計和傳遞結構化意見表單。
+
+* **資源Pod**：新的資源Pod會取代先前的檔案和Web連結Pod，提供在即時工作階段中共用資源的單一統一方式。
+
+* **增強型房間介面體驗**： Adobe Connect 12.11採用更新且更現代的房間介面，建構在Adobe最新的Spectrum 2設計架構上，與其他Adobe產品(例如Creative Cloud和Experience Cloud)所使用的視覺語言一致。
+
+如需完整詳細資訊，請檢閱[Adobe Connect 12.11發行說明](https://helpx.adobe.com/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}。
+
 ## 公告 {#announcements}
 
-* **REST API雙斜線取代**：在2025年9月16日，Adobe轉換至更現代的REST API URL託管基礎結構，採用更新的技術，增加安全性和擴充性。 如果您的訂閱在URL中使用帶有雙正斜線(//)的API，請閱讀[此Nation貼文](https://nation.marketo.com/t5/product-blogs/rest-api-double-slash-deprecation/ba-p/358616){target="_blank"}以瞭解後續步驟。
+* **Rest API &#39;access_token&#39;引數淘汰**：用於驗證Marketo REST API呼叫的`access_token`查詢引數已淘汰，並將於2026年3月31日後無法使用。 所有新的和現有的整合都應使用「授權」標頭來驗證 REST API 呼叫，方法[如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
-* **在新的電子郵件設計工具中切換回 Velocity 指令碼**：Adobe Marketo Engage 於今年 6 月針對新的電子郵件設計工具發布了一項稱為&#x200B;_條件式內容_&#x200B;的功能。此功能之前是由 Handlebar 指令碼而不是 Velocity 指令碼提供支援，以在您的動態內容中提供更多靈活度。但是，當我們發現它導致部分權杖發生錯誤解析時，我們就決定暫時停用。[了解更多](https://nation.marketo.com/t5/product-blogs/update-on-email-scripting-in-the-new-email-designer/ba-p/358179){target="_blank"}
+* **SOAP API淘汰**：對Marketo SOAP API的支援將於2026年3月31日終止。 使用 SOAP API 功能的服務應移轉至 [REST API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。
 
-* **Marketo Engage Identity 終止服務**：2025 年 8 月，Adobe 已開始逐步停止對於 Marketo Engage Identity (透過 `login.marketo.com` 登入) 的支援。為避免 Marketo Engage 的存取中斷，您最晚必須在 2025 年 9 月 30 日轉換至 [Adobe Identity](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}。
+* **Marketo Engage身分服務終止**：
 
    * _IP 限制棄用_：已於 2025 年 7 月 30 日停止支援「[根據 IP 限制 Marketo 登入](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"}」的功能。此功能將保持正常運作，直到轉換至 Adobe Identity 的作業完成為止。Adobe Admin Console 中即將推出適用於 Adobe Identity 的全新位置型存取控制功能。
 
    * _單一登入 (SSO) 棄用_：已於 2025 年 7 月 30 日停止支援 [Marketo Identity SSO](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"}。該功能將保持正常運作，直到轉換至 Adobe Identity 的過程完成為止。在 Adobe Admin Console 中，Adobe Identity 單一登入必須個別設定。關於設定步驟，請參閱[設定身分識別和單一登入](https://helpx.adobe.com/tw/enterprise/using/set-up-identity.html){target="_blank"}。
-
-* **淘汰&#x200B;_轉寄給朋友_功能**：在2025年9月29日，Marketo Engage 2.0電子郵件（舊版電子郵件編輯器）中的&#x200B;_轉寄給朋友_&#x200B;功能已完全淘汰。 這會影響電子郵件中的「轉寄給朋友」權杖和「轉寄給朋友」連結，這些電子郵件已使用權杖或排程使用權杖來傳送。 [了解更多](https://nation.marketo.com/t5/product-blogs/deprecation-of-forward-to-a-friend/ba-p/358045#M2889){target="_blank"}
-
-* **REST API「access_token」參數棄用**：用於驗證 Marketo REST API 呼叫的 `access_token` 查詢參數將棄用，且於 2026 年 1 月 31 日之後不再提供使用。所有新的和現有的整合都應使用「授權」標頭來驗證 REST API 呼叫，方法[如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
-
-* **SOAP API 棄用**：將於 2026 年 1 月 31 日停止支援 Marketo SOAP API。使用 SOAP API 功能的服務應移轉至 [REST API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。

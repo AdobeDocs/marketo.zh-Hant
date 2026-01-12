@@ -2,10 +2,10 @@
 description: 發行說明 — 2025年9月 — Marketo檔案 — 產品檔案
 title: 發行說明 - 2025 年 9 月
 feature: Release Information
-source-git-commit: a0c6dd9413c8ecce0d1d674d7635d57dabd2ae12
+source-git-commit: f806c0984cf221bd88fdf50013a8f1d2911b5d86
 workflow-type: tm+mt
 source-wordcount: '704'
-ht-degree: 98%
+ht-degree: 93%
 
 ---
 
@@ -33,12 +33,12 @@ ht-degree: 98%
   <tr>
    <td><strong>隨選網路研討會活動保留</strong>：互動式網路研討會使用者現在可使用隨選網路研討會儀表板資料 30 天以上 (之前是只能從網路研討會當日起最多 30 天)。</td>
    <td>已發布</td>
-   <td><a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">手動同步</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">手動同步</a></td>
   </tr>
   <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
+   <td>  </td>
+   <td>  </td>
+   <td>  </td>
   </tr>
   <tr>
    <td><strong>電子郵件設計工具 - AI 助理權限</strong>：Marketo 管理員可以為特定使用者提供生成式 AI 功能的存取權。</td>
@@ -46,9 +46,9 @@ ht-degree: 98%
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md#set-up-permissions">設定權限</a></td>
   </tr>
   <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
+   <td>  </td>
+   <td>  </td>
+   <td>  </td>
   </tr>
   <tr>
    <td><strong>電子郵件設計工具 - 深色模式</strong>：您現在可以使用深色模式，讓支援的電子郵件用戶端和應用程式以較深色的背景顯示電子郵件，並以較淺的顏色顯示文字、按鈕及其他 UI 元素。</td>
@@ -56,9 +56,9 @@ ht-degree: 98%
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/dark-mode.md">深色模式</a></td>
   </tr>
   <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
+   <td>  </td>
+   <td>  </td>
+   <td>  </td>
   </tr>
   <tr>
    <td><strong>電子郵件設計工具 - 內容共同作業工作流程</strong>：您現在可以在電子郵件資產中進行註解，以及與其他 Marketo 使用者共同作業。標記團隊成員 (具有適當資產權限的 Marketo 使用者) 後，他們將收到電子郵件或即時簡短通知。</td>
@@ -66,9 +66,9 @@ ht-degree: 98%
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/email-collaboration.md">電子郵件共同作業</a></td>
   </tr>
   <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
+   <td>  </td>
+   <td>  </td>
+   <td>  </td>
   </tr>
   <tr>
    <td><strong>電子郵件設計工具 - 重新導向修正</strong>：部分使用者在使用這項新的設計工具建立電子郵件時，遇到 URL 重新導向的問題 (例如有時無法直接貼上 URL 或將電子郵件資產加入書籤)。此問題已解決。此外，從「<b>電子郵件範本</b>」&gt;「<b>詳細資料</b>」&gt;「<b>使用者</b>」的電子郵件資產連結，將重新導向至對應的電子郵件資產。</td>
@@ -93,6 +93,6 @@ ht-degree: 98%
 
 * **棄用「_轉寄給好友_」功能**：自 2025 年 9 月 29 日起，Marketo Engage 2.0 電子郵件 (舊版電子郵件編輯器) 中的「_轉寄給好友_」功能將在所有訂閱中全面棄用。這會影響已經寄出或即將寄出，且使用「轉寄給好友」權杖的電子郵件中的「轉寄給好友」權杖和連結。[了解更多](https://nation.marketo.com/t5/product-blogs/deprecation-of-forward-to-a-friend/ba-p/358045#M2889){target="_blank"}
 
-* **REST API「access_token」參數棄用**：用於驗證 Marketo REST API 呼叫的 `access_token` 查詢參數將棄用，且於 2026 年 1 月 31 日之後不再提供使用。所有新的和現有的整合都應使用「授權」標頭來驗證 REST API 呼叫，方法[如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
+* **Rest API &#39;access_token&#39;引數淘汰**：用於驗證Marketo REST API呼叫的`access_token`查詢引數已淘汰，並將於2026年3月31日後無法使用。 所有新的和現有的整合都應使用「授權」標頭來驗證 REST API 呼叫，方法[如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
-* **SOAP API 棄用**：將於 2026 年 1 月 31 日停止支援 Marketo SOAP API。使用 SOAP API 功能的服務應移轉至 [REST API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。
+* **SOAP API淘汰**：對Marketo SOAP API的支援將於2026年3月31日終止。 使用 SOAP API 功能的服務應移轉至 [REST API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。

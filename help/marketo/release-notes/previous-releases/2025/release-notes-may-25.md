@@ -3,7 +3,7 @@ description: 發行說明 — 2025年5月 — Marketo檔案 — 產品檔案
 title: 發行說明 - 2025 年 5 月
 feature: Release Information
 exl-id: 99cd1d54-0a80-40fa-9d0c-1cb437be90f0
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f806c0984cf221bd88fdf50013a8f1d2911b5d86
 workflow-type: tm+mt
 source-wordcount: '435'
 ht-degree: 25%
@@ -37,9 +37,9 @@ ht-degree: 25%
    <td><a href="https://nation.marketo.com/t5/latest-product-innovations/product-updates-granular-permissions-to-new-email-designer/ba-p/357057">新電子郵件Designer的精細許可權（部落格）</a></td>
   </tr>
   <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
+   <td>  </td>
+   <td>  </td>
+   <td>  </td>
   </tr>
   <tr>
    <td><strong>複製在電子郵件Designer中建立的電子郵件</strong>：您現在可以複製使用新電子郵件Designer建立的現有電子郵件。</td>
@@ -47,9 +47,9 @@ ht-degree: 25%
    <td>不適用</td>
   </tr>
   <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
+   <td>  </td>
+   <td>  </td>
+   <td>  </td>
   </tr>
   <tr>
    <td><strong>任何屬性的觸發權杖</strong>：擴充的觸發權杖清單，可支援在Smart Campaign欄位中使用任何活動屬性的資料。</td>
@@ -62,12 +62,12 @@ ht-degree: 25%
 
 ## 公告 {#announcements}
 
-* **Facebook離線轉換整合更新**：在2025年5月29日，Marketo Engage的[Facebook離線轉換](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions){target="_blank"}整合將移轉到新的中繼資料[轉換API](https://developers.facebook.com/docs/marketing-api/conversions-api){target="_blank"}，因為中繼資料已棄用[離線轉換API](https://developers.facebook.com/docs/marketing-api/offline-conversions/){target="_blank"}，與Graph API版本設定一致。 如需詳細資訊，請檢視Meta的指南，以[透過Conversions API](https://developers.facebook.com/docs/marketing-api/conversions-api/offline-events/){target="_blank"} (CAPI for Offline)傳送離線事件。
+* **Facebook離線轉換整合更新**：在2025年5月29日，Marketo Engage的[Facebook離線轉換](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions){target="_blank"}整合將移轉到新的Meta [轉換API](https://developers.facebook.com/docs/marketing-api/conversions-api){target="_blank"}，因為Meta已依照Graph API版本設定棄用[離線轉換API](https://developers.facebook.com/docs/marketing-api/offline-conversions/){target="_blank"}。 如需詳細資訊，請檢視Meta的[透過轉換API](https://developers.facebook.com/docs/marketing-api/conversions-api/offline-events/){target="_blank"} （離線的CAPI）傳送離線事件的指南。
 
 * **全新Analytics功能 — 公用Beta**： [進階BI Analytics](/help/marketo/product-docs/reporting/advanced-bi-analytics/overview.md){target="_blank"} (先前稱為Revenue Explorer和Advanced Report Builder)已於4月中旬開始向所有目前的Revenue Cycle Explorer使用者推出。 這個新工具針對Marketo Engage資料提供彈性的報表和視覺化介面，提供關於進度、效能等專案的詳細資訊。 它提供更豐富的互動性和視覺效果、更快的效能，以及更順暢且直覺的使用者體驗。
 
 若要存取此功能，您必須已購買進階BI Analytics附加元件。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
 
-* **Rest API &#39;access_token&#39;引數淘汰**：用於驗證Marketo REST API呼叫的`access_token`查詢引數已淘汰，並將於2026年1月31日後無法使用。 所有新的和現有的整合都應使用「授權」標頭驗證 REST API 呼叫，方法[如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
+* **Rest API &#39;access_token&#39;引數淘汰**：用於驗證Marketo REST API呼叫的`access_token`查詢引數已淘汰，並將於2026年3月31日後無法使用。 所有新的和現有的整合都應使用「授權」標頭來驗證 REST API 呼叫，方法[如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
-* **SOAP API淘汰**：對Marketo SOAP API的支援將於2026年1月31日終止。 使用 SOAP API 功能的服務應移轉至 [REST API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。
+* **SOAP API淘汰**：對Marketo SOAP API的支援將於2026年3月31日終止。 使用 SOAP API 功能的服務應移轉至 [REST API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。
