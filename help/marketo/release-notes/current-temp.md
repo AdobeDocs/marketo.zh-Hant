@@ -5,10 +5,10 @@ hide: true
 hidefromtoc: true
 feature: Release Information
 exl-id: 0ca5e844-c30b-4c86-a23d-d8f2c1bdddf5
-source-git-commit: f806c0984cf221bd88fdf50013a8f1d2911b5d86
+source-git-commit: c6b8dd17c4337b32c6bb4f0a1b9ce22c1e3b8715
 workflow-type: tm+mt
-source-wordcount: '455'
-ht-degree: 47%
+source-wordcount: '452'
+ht-degree: 48%
 
 ---
 
@@ -64,7 +64,7 @@ ht-degree: 47%
 
 ## Adobe Connect功能 {#adobe-connect-features}
 
-Marketo Engage [互動式網路研討會](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview){target="_blank"}功能由Adobe Connect提供技術支援，透過事件資料豐富人員管理和行銷活動，並提升人員品質。 以下是一些直接影響互動式網路研討會使用者的最新Adobe Connect版本。
+Adobe Connect團隊已發佈這些功能。 Marketo Engage [互動式網路研討會](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview){target="_blank"}由Adobe Connect提供技術支援。 因此，以下功能僅適用於互動式網路研討會使用者。
 
 * **調查Pod**： Adobe Connect 12.11推出新的Survey Pod，讓主機直接在即時工作階段中設計和傳遞結構化意見表單。
 
@@ -72,7 +72,7 @@ Marketo Engage [互動式網路研討會](https://experienceleague.adobe.com/zh-
 
 * **增強型房間介面體驗**： Adobe Connect 12.11採用更新且更現代的房間介面，建構在Adobe最新的Spectrum 2設計架構上，與其他Adobe產品(例如Creative Cloud和Experience Cloud)所使用的視覺語言一致。
 
-如需完整詳細資訊，請檢閱[Adobe Connect 12.11發行說明](https://helpx.adobe.com/tw/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}。
+如需完整詳細資訊，請參閱[Adobe Connect 12.11發行說明](https://helpx.adobe.com/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}。
 
 ## 公告 {#announcements}
 
