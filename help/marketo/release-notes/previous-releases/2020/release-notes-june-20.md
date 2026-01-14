@@ -4,7 +4,7 @@ description: 發行說明–2020年6月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2020年6月
 exl-id: ffc39c9f-8c0c-45af-8ee6-f58971e230b9
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7595f00ac2a752afe3b471f4ff701e3206841ffd
 workflow-type: tm+mt
 source-wordcount: '1031'
 ht-degree: 1%
@@ -23,7 +23,7 @@ ht-degree: 1%
 
 ## 核心Marketo Engage {#core-marketo-engage}
 
-* **[預測對象](https://experienceleague.adobe.com/docs/marketo/sky/predictive-audiences/getting-started-with-predictive-audiences.html?lang=zh-Hant#predictive-audiences)** ![(star)](assets/yellow-star.png)：由Adobe Sensei支援的新智慧列示和智慧行銷活動篩選器可讓您為電子郵件、事件和網路研討會行銷方案建立AI支援的對象區段。 使用AI可協助您根據潛在客戶註冊事件、出席事件或取消訂閱的可能性來細分對象。 根據過去的計畫建立相似的受眾，以有效復寫先前的成功。 透過預測性目標追蹤達成轉換目標，並取得有關如何調整事件方案對象區段的建議。
+* **[預測對象](https://experienceleague.adobe.com/docs/marketo/sky/predictive-audiences/getting-started-with-predictive-audiences.html?lang=en#predictive-audiences)** ![(star)](assets/yellow-star.png)：由Adobe AI提供支援的新智慧列示和智慧行銷活動篩選器，可讓您為電子郵件、事件和網路研討會行銷方案建立AI支援的對象區段。 使用AI可協助您根據潛在客戶註冊事件、出席事件或取消訂閱的可能性來細分對象。 根據過去的計畫建立相似的受眾，以有效復寫先前的成功。 透過預測性目標追蹤達成轉換目標，並取得有關如何調整事件方案對象區段的建議。
 * **批次電子郵件提升** ![(star)](assets/yellow-star.png)：增強我們的電子郵件行銷功能，可讓您每小時最多傳送300萬封批次電子郵件。 我們已重新架構批次行銷活動和電子郵件報告處理，以提升電子郵件程式和批次電子郵件行銷活動的效能。 這會縮短傳送的前置時間，並改善完成時間。 設定您的電子郵件傳送，如同您一般的作法，不會增加複雜性。 此增強功能可作為產品附加元件提供，其中也包含傳遞服務啟動套件、電子郵件傳遞工具和多個專用IP位址。
 * **[與Adobe Experience Cloud (AEC)的受眾整合](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)**：全新的Adobe Experience Cloud (AEC)整合，可讓您將Marketo Engage的已知潛在客戶靜態清單與多個AEC應用程式同步，以強化現有計畫、解鎖新使用案例，以及協調多管道行銷活動。 此整合包括Adobe Analytics、Adobe Target、Adobe Experience Manager、Adobe Audience Manager和Adobe Advertising Cloud。
 * **[方案成員自訂欄位](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md)**：擷取並利用方案成員的相關自訂欄位。 在Marketo Engage表單中使用這些新欄位、在方案的成員清單中檢視這些欄位、在智慧清單篩選器和觸發器中運用這些欄位，並將其納入新的智慧行銷活動流量動作中，以增強自動化和更精細的個人化。 您也可以透過UI和API匯入及匯出這些內容。 增強我們的自訂資料物件和欄位功能。
@@ -53,7 +53,7 @@ ht-degree: 1%
 
 * **Marketo Engage程式整合**：直接從Marketo Engage提取程式資料，以在[!DNL Bizible]中建立歸因歷程中的接觸點，以適當地評價電子郵件和參與程式。 增強Marketo Engage整合功能。
 * **Marketo Engage活動整合(BETA)**：將Marketo Engage活動資料直接匯入[!DNL Bizible]，以在客戶歷程和所有歸因模型中建立接觸點。 範例包括銷售機會分數變更、有趣的時刻、電子郵件點按或任何自訂活動。 增強Marketo Engage整合功能。
-* **[!DNL Bizible]B2B客戶屬性整合(BETA)**：這是與Adobe Analytics的Adobe Experience Cloud整合，可讓您直接將選取的Bizible資料帶入Adobe Analytics，以進行更深入的分析。 範例包括以帳戶為基礎的網站流量，以及依公司名稱、帳戶屬性、CRM商機，以及[!DNL Bizible]歸因收入和漏斗階段定義的高價值個人的內容分析。
+* **[!DNL Bizible]B2B客戶屬性整合(BETA)**：這是與Adobe Analytics的Adobe Experience Cloud整合，可讓您直接將選取的Bizible資料帶入Adobe Analytics，以進行更深入的分析。 範例包括以帳戶為基礎的網站流量，以及依公司名稱、帳戶屬性、CRM商機，以及[!DNL Bizible]歸因收入和funnel階段所定義的高價值個人的內容分析。
 * **[!DNL Bizible]探索篩選器和增強功能**：使用跨控制面板的管道、子管道、行銷活動和區段篩選器來分析您的資料。 使用更多向下鑽研屬性來強化資料的可見度。 這是我們Discover Boards的增強功能。
 * **[!DNL Microsoft Dynamics]**&#x200B;的活動同步：將[!DNL Microsoft Dynamics]個CRM活動帶入接觸點歷程並追蹤事件（例如與您潛在客戶或連絡人相關聯的電話、約會或工作），以屬性銷售互動。 增強我們的[!DNL Microsoft Dynamics] CRM整合。
 
