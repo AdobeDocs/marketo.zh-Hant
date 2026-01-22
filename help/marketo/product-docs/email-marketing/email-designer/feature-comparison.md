@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 5c9b5d656b685d5afd8d1118268957fc7be068ee
+source-git-commit: 6bb4455f1962164f6192ee050078fc65472f7ada
 workflow-type: tm+mt
-source-wordcount: '866'
+source-wordcount: '865'
 ht-degree: 10%
 
 ---
@@ -259,7 +259,7 @@ ht-degree: 10%
     <td>實驗（A/B測試）</td>
     <td>在將電子郵件傳送給您的對象之前測試電子郵件的功能。</td>
     <td>可用</td>
-    <td>即將推出</td>
+    <td>可用</td>
   </tr>
   <tr>
     <td>內容核准工作流程</td>
