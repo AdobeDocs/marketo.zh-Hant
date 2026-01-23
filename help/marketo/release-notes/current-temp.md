@@ -5,10 +5,10 @@ hide: true
 hidefromtoc: true
 feature: Release Information
 exl-id: 0ca5e844-c30b-4c86-a23d-d8f2c1bdddf5
-source-git-commit: 96050d108aae64bbdab377cf5e31392df177b363
+source-git-commit: c353425db0dc8b08620feb68092b25c664111a03
 workflow-type: tm+mt
-source-wordcount: '484'
-ht-degree: 48%
+source-wordcount: '599'
+ht-degree: 38%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 48%
    <th style="width:25%">文件</th>
   </tr>
   <tr>
-   <td><strong>功能標題</strong>：功能說明。</td>
+   <td><strong>電子郵件Designer — 管理品牌（測試版）</strong>：根據您組織/品牌的特定撰寫准則產生電子郵件內容。</td>
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
   </tr>
@@ -44,7 +44,7 @@ ht-degree: 48%
    <td>  </td>
   </tr>
   <tr>
-   <td><strong>功能標題</strong>：功能說明。</td>
+   <td><strong>電子郵件Designer - AI助理增強功能</strong>：您現在可以在提示中直接新增品牌資產，並要求模型參照該來源以產生內容，而非手動將品牌資產新增為檔案。</td>
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
   </tr>
@@ -54,7 +54,7 @@ ht-degree: 48%
    <td>  </td>
   </tr>
   <tr>
-   <td><strong>功能標題</strong>：功能說明。</td>
+   <td><strong>電子郵件Designer — 片段的視覺預覽</strong>：所有發佈的片段現在都會顯示為縮圖，讓您更快識別您需要的片段。</td>
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
   </tr>
@@ -64,7 +64,7 @@ ht-degree: 48%
    <td>  </td>
   </tr>
   <tr>
-   <td><strong>功能標題</strong>：功能說明。</td>
+   <td><strong>電子郵件Designer — 專案符號</strong>：您現在可以在電子郵件Designer中編寫電子郵件時，建立多層級專案符號。</td>
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
   </tr>
@@ -74,7 +74,12 @@ ht-degree: 48%
    <td>  </td>
   </tr>
   <tr>
-   <td><strong>功能標題</strong>：功能說明。</td>
+   <td><strong>電子郵件Designer — 條件式內容增強功能</strong>：與舊電子郵件編輯器中的<i>動態內容</i>功能對等。
+   <ul>
+   <li>條件式內容現在適用於共用資料夾中的分段。</li>
+   <li>區段現在會依字母順序排序。</li>
+   </ul>
+   </td>
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
   </tr>
@@ -84,17 +89,7 @@ ht-degree: 48%
    <td>  </td>
   </tr>
   <tr>
-   <td><strong>功能標題</strong>：功能說明。</td>
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
-  </tr>
-  <tr>
-   <td>  </td>
-   <td>  </td>
-   <td>  </td>
-  </tr>
-  <tr>
-   <td><strong>功能標題</strong>：功能說明。</td>
+   <td><strong>電子郵件Designer — 資料夾</strong>：您現在可以整理使用電子郵件Designer （電子郵件、電子郵件範本、片段）建立的資產以及資料夾。</td>
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
   </tr>
@@ -102,19 +97,23 @@ ht-degree: 48%
 </table>
 <br/>
 
-## Adobe Connect功能 {#adobe-connect-features}
+## 非標準發行週期功能 {#non-standard-release-cycle-features}
 
-Adobe Connect團隊已發佈這些功能。 Marketo Engage [互動式網路研討會](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview){target="_blank"}由Adobe Connect提供技術支援。 因此，以下功能僅適用於互動式網路研討會使用者。
+下列功能是在標準Marketo Engage發行週期之外發行的。
 
-* **調查Pod**： Adobe Connect 12.11推出新的Survey Pod，讓主機直接在即時工作階段中設計和傳遞結構化意見表單。
+### 互動式網路研討會 {#interactive-webinars}
+
+* **調查Pod**：新的Survey Pod可讓主機直接在即時工作階段中設計和傳遞結構化意見表單。
 
 * **資源Pod**：新的資源Pod會取代先前的檔案和Web連結Pod，提供在即時工作階段中共用資源的單一統一方式。
 
-* **增強型房間介面體驗**： Adobe Connect 12.11採用更新且更現代的房間介面，建構在Adobe最新的Spectrum 2設計架構上，與其他Adobe產品(例如Creative Cloud和Experience Cloud)所使用的視覺語言一致。
+* **增強的房間介面體驗**：享受更新且更現代的房間介面，此介面建置於Adobe最新的Spectrum 2設計架構上，並與其他Adobe產品(例如Creative Cloud和Experience Cloud)所使用的視覺語言一致。
 
-如需完整詳細資訊，請參閱[Adobe Connect 12.11發行說明](https://helpx.adobe.com/tw/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}。
+如需完整詳細資訊，請造訪[此頁面](https://helpx.adobe.com/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}。
 
 ## 公告 {#announcements}
+
+* **Marketo社群移轉完成**：新的Adobe Experience League社群現已上線！ [已進行數個增強功能](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673){target="_blank"}，讓您的Marketo社群體驗更佳。 [簽出](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"}。
 
 * **Rest API &#39;access_token&#39;引數淘汰**：用於驗證Marketo REST API呼叫的`access_token`查詢引數已淘汰，並將於2026年3月31日後無法使用。 所有新的和現有的整合都應使用「授權」標頭來驗證 REST API 呼叫，方法[如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
