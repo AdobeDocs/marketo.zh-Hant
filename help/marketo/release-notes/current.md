@@ -103,7 +103,7 @@ ht-degree: 43%
 
 * **增強的房間介面體驗**：享受更新且更現代的房間介面，此介面建置於Adobe最新的Spectrum 2設計架構上，並與其他Adobe產品(例如Creative Cloud和Experience Cloud)所使用的視覺語言一致。
 
-如需完整詳細資訊，請造訪[此頁面](https://helpx.adobe.com/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}。
+如需完整詳細資訊，請造訪[此頁面](https://helpx.adobe.com/tw/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}。
 
 ## 公告 {#announcements}
 
