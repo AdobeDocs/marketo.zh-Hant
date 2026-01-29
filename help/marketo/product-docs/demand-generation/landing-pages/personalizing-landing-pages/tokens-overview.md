@@ -1,39 +1,39 @@
 ---
 unique-page-id: 2950799
-description: Token概述 — Marketo檔案 — 產品檔案
+description: 權杖概觀 - Marketo 文件 - 產品文件
 title: 權杖概觀
 exl-id: d60816ce-33fb-4e18-8acd-71d4e90f47de
 feature: Landing Pages
 source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '296'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
 # 權杖概觀 {#tokens-overview}
 
-代號是可用於Marketo智慧行銷活動流程步驟、電子郵件、登陸頁面、代碼片段和網頁行銷活動的變數。
+權杖是可用於 Marketo 智慧行銷活動流程步驟、電子郵件、登陸頁面、程式碼片段和網頁行銷活動的變數。
 
-## 瞭解預設值 {#understanding-default-values}
+## 了解預設值 {#understanding-default-values}
 
-使用代號時，您也要提供預設值。 這是顯示某人是否沒有您參考之欄位值的文字。
+使用權杖時，您也要提供預設值。如果某個人員在您所參照的欄位中沒有任何值，就會顯示這段文字。
 
 ![](assets/image2014-12-2-13-3a16-3a48.png)
 
-在此範例中，電子郵件會顯示「Greetings， (first name)」或「Greetings， earthling」（預設值）。
+在此範例中，電子郵件會顯示「(first name)，您好」或「earthling，您好」(預設值)。
 
 ![](assets/two.png)
 
 >[!CAUTION]
 >
->使用Marketo的電子郵件編輯器時，Token在預覽版中無法運作。 若要在預覽文字中使用代號，必須透過電子郵件範本中您自己的HTML進行。
+>使用 Marketo 的電子郵件編輯器時，權杖無法在預覽文字中運作。若要在預覽文字中使用權杖，您必須透過電子郵件範本中您自己的 HTML 進行。
 
 >[!NOTE]
 >
->此清單並非詳盡無遺。 系統也會針對您在Marketo中擁有的每個自訂欄位建立代號。
+>此清單並非完整清單。系統也會針對您在 Marketo 中擁有的每個自訂欄位建立權杖。
 
-## 人員Token {#person-tokens}
+## 人員權杖 {#person-tokens}
 
 * `{{lead.Acquisition Date}}`
 * `{{lead.Acquisition Program Name}}`
@@ -87,9 +87,9 @@ ht-degree: 1%
 * `{{lead.Unsubscribed}}`
 * `{{lead.Unsubscribed Reason}}`
 * `{{lead.Updated At}}`
-* 如果您使用其顯示名稱，例如`{{lead.Custom Field Name}}`，自訂人員欄位也可運作
+* 如果您使用自訂人員欄位的顯示名稱，則也同樣可正常運作，例如 `{{lead.Custom Field Name}}`。
 
-## 公司Token {#company-tokens}
+## 公司權杖 {#company-tokens}
 
 * `{{Company.Account Owner Email Address}}`
 * `{{Company.Address}}`
@@ -110,9 +110,9 @@ ht-degree: 1%
 * `{{Company.Site}}`
 * `{{Company.State}}`
 * `{{Company.Website}}`
-* 如果您使用其顯示名稱，自訂公司欄位也可運作，例如：`{{Company.Custom Field Name}}`
+* 如果您使用自訂公司欄位的顯示名稱，則也同樣可正常運作，例如：`{{Company.Custom Field Name}}`
 
-## 行銷活動Token {#campaign-tokens}
+## 行銷活動權杖 {#campaign-tokens}
 
 * `{{campaign.name}}`
 * `{{campaign.id}}`
@@ -122,7 +122,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->在[系統權杖字彙表](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md)中進一步瞭解這些權杖。
+>若要了解更多有關這些權杖的資訊，請參閱[系統權杖字彙表](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md)。
 
 * `{{system.date}}`
 * `{{system.time}}`
@@ -131,7 +131,7 @@ ht-degree: 1%
 * `{{system.unsubscribeLink}}`
 * `{{system.viewAsWebpageLink}}`
 
-## 觸發Token {#trigger-tokens}
+## 觸發程序權杖 {#trigger-tokens}
 
 * `{{trigger.Trigger Name}}`
 * `{{trigger.Name}}`
@@ -149,9 +149,9 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->根據智慧行銷活動中使用的觸發程式，尋找有關[有趣時刻的Token](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)的詳細資訊。
+>根據在智慧行銷活動中所使用的觸發程序，尋找更多有關[關鍵時刻的權杖](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)的詳細資料。
 
-## 計畫權杖 {#program-tokens}
+## 方案權杖 {#program-tokens}
 
 * `{{program.Name}}`
 * `{{program.Description}}`
@@ -159,14 +159,14 @@ ht-degree: 1%
 
 ## [!UICONTROL My Tokens] {#my-tokens}
 
-[!UICONTROL My Tokens]是在程式中定義，且以`{{my.`開頭，後面接著您為權杖建立的名稱。 深入瞭解[我的方案](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)代號。
+[!UICONTROL My Tokens]是在方案中進行定義，且以 `{{my.` 開頭，後接您為權杖所建立的名稱。了解更多有關[「方案中的我的權杖」](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)的資訊。
 
 ## 成員權杖 {#member-token}
 
-成員Token可用來插入整合式服務合作夥伴的唯一值。 「成員代號」的常見用途是網路研討會出席者的唯一URL。 每個使用者都有一個唯一的URL可存取可使用`{{member.webinar url}}`權杖插入的網路研討會。 `{{member.webinar url}}`權杖會自動解析服務提供者產生的個人唯一確認URL。
+成員權杖可用於插入整合式服務合作夥伴的唯一值。成員權杖的常見用途為網路研討會出席者的唯一 URL。每個使用者都有唯一 URL，可用於存取可使用 `{{member.webinar url}}` 權杖插入的網路研討會。`{{member.webinar url}}` 權杖會自動解析服務提供者所產生的個人唯一確認 URL。
 
 * `{{member.webinar url}}`
 
 >[!CAUTION]
 >
->只有在傳送電子郵件的智慧型行銷活動是事件程式的子資產時，`{{member.webinar url}}`權杖才會填入。
+>只有在傳送電子郵件的智慧行銷活動為事件方案的下層資產時，`{{member.webinar url}}` 權杖才會填入。

@@ -1,25 +1,25 @@
 ---
-description: 使用Adobe ID登入的使用者 — Marketo檔案 — 產品檔案
+description: 使用者透過 Adobe ID 登入 - Marketo 文件 - 產品文件
 title: 使用者透過 Adobe ID 登入
 exl-id: d17f4de3-491c-45a7-b4b8-f68b9bd35124
 feature: Marketo with Adobe Identity
 source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
-ht-degree: 10%
+ht-degree: 100%
 
 ---
 
 # 使用者透過 Adobe ID 登入 {#user-sign-in-with-adobe-id}
 
-當具有Adobe身分識別的使用者需要登入Marketo Engage應用程式時，他們必須透過AdobeID登入連結登入，而不是透過Marketo Engage登入頁面上的典型登入。 按一下連結後，系統會將使用者導向至Marketo Engage應用程式。
+Adobe Identity 的使用者需要登入 Marketo Engage 應用程式時，必須透過 AdobeID 登入連結登入，而不是使用 Marketo Engage 登入頁面上的一般登入方式。按一下連結後，系統即會將使用者導向至 Marketo Engage 應用程式。
 
-1. 按一下Marketo Engage登入頁面上的&#x200B;**[!UICONTROL Continue with AdobeID]**。
+1. 按一下 Marketo Engage 登入頁面上的 **[!UICONTROL Continue with AdobeID]**。
 
    ![](assets/user-sign-in-with-adobe-id-1.png)
 
-1. 輸入您的Adobe認證，然後按一下&#x200B;**[!UICONTROL Continue]**。
+1. 輸入您的 Adobe 認證，然後按一下 **[!UICONTROL Continue]**。
 
    ![](assets/user-sign-in-with-adobe-id-2.png)
 
-成功登入後，系統會將您導向至Marketo Engage應用程式。
+成功登入後，系統即會將您導向至 Marketo Engage 應用程式。

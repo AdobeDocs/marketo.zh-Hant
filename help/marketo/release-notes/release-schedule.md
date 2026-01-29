@@ -5,9 +5,9 @@ title: 發行排程
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
 source-git-commit: 5c9b5d656b685d5afd8d1118268957fc7be068ee
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '137'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -58,18 +58,18 @@ _發行日期/功能可能會有所變更_
    <td>準時發行</td>
   </tr>
   <tr>
-  <td>2026年2月</td>
-   <td>2026年2月20日</td>
+  <td>2026 年 2 月</td>
+   <td>2026 年 2 月 20 日</td>
    <td>準時發行</td>
   </tr>
   <tr>
-  <td>2026年3月</td>
-   <td>2026年3月27日</td>
+  <td>2026 年 3 月</td>
+   <td>2026 年 3 月 27 日</td>
    <td>準時發行</td>
   </tr>
   <tr>
-  <td>2026年5月</td>
-   <td>2026年5月1日</td>
+  <td>2026 年 5 月</td>
+   <td>2026 年 5 月 1 日</td>
    <td>準時發行</td>
   </tr>
  </tbody>

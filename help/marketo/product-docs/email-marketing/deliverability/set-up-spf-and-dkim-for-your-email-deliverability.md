@@ -1,56 +1,56 @@
 ---
 unique-page-id: 4720710
-description: 針對您的電子郵件傳遞能力設定SPF和DKIM - Marketo檔案 — 產品檔案
-title: 設定 SPF 和 DKIM 確保電子郵件傳遞能力
+description: 設定 SPF 和 DKIM 以確保電子郵件傳遞能力 - Marketo 文件 — 產品文件
+title: 設定 SPF 和 DKIM 以確保電子郵件傳遞能力
 exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
 feature: Deliverability
 source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '421'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
-# 設定 SPF 和 DKIM 確保電子郵件傳遞能力 {#set-up-spf-and-dkim-for-your-email-deliverability}
+# 設定 SPF 和 DKIM 以確保電子郵件傳遞能力 {#set-up-spf-and-dkim-for-your-email-deliverability}
 
-改善電子郵件傳遞率的快速方法之一，就是將&#x200B;**SPF** （寄件者原則架構）和&#x200B;**DKIM** (Domain Keys Identified Mail)合併到您的DNS設定中。 除了您的DNS專案以外，您也會告訴收件者，您已授權Marketo代表您傳送電子郵件。 若沒有此變更，則您的電子郵件被標示為垃圾郵件的可能性會較高，因為電子郵件是從您的網域寄出，但是從具有Marketo網域的IP位址傳送。
+提升電子郵件傳遞率的快速方法之一就是將 **SPF** (寄件者原則架構) 和 **DKIM** (Domain Keys Identified Mail) 納入您的 DNS 設定。透過在 DNS 項目中新增此內容，可通知收件者，您已授權 Marketo 代表您傳送電子郵件。若未進行此變更，您的電子郵件被標記為垃圾郵件的可能性會較高，因為電子郵件雖然顯示寄件網域為您的網域，但實際卻是由 Marketo 網域的 IP 位址傳送。
 
 >[!CAUTION]
 >
->您需要網路系統管理員才能在DNS記錄中進行此變更。
+>您需要請網路管理員在 DNS 記錄中進行此變更。
 
-## 設定SPF {#set-up-spf}
+## 設定 SPF {#set-up-spf}
 
-**如果您的網域沒有SPF記錄**
+**如果您的網域沒有 SPF 記錄**
 
-請要求您的網路管理員將以下行新增到您的DNS專案中。 將[網域]取代為您網站的主網域(例如： &quot;company.com&quot;)和[corpIP] (含您公司電子郵件伺服器的IP位址，例如： &quot;255.255.255.255&quot;)。 如果您透過Marketo從多個網域傳送電子郵件，應將此專案新增至每個網域（一行）。
+請要求您的網路管理員將下行新增到您的 DNS 項目中。將[網域]替換為您網站的主網域 (例如： 「company.com」)，並將 [corpIP] 替換為貴公司電子郵件伺服器的 IP 位址 (例如：「255.255.255.255」)。如果您透過 Marketo 從多個網域傳送電子郵件，應將此新增至每個網域 (在同一行)。
 
 `[domain] IN TXT v=spf1 mx ip4:[corpIP] include:mktomail.com ~all`
 
-**如果您的網域中確實有SPF記錄**
+**如果您的網域中確實存在 SPF 記錄**
 
-如果您的DNS專案中已有SPF記錄，請新增下列內容：
+如果您的 DNS 項目中已經有 SPF 記錄，則請在其中新增以下內容：
 
 include:mktomail.com
 
-## 設定DKIM {#set-up-dkim}
+## 設定 DKIM {#set-up-dkim}
 
-**什麼是DKIM？ 為什麼要設定DKIM？**
+**什麼是 DKIM？為什麼要設定 DKIM？**
 
-DKIM是一種驗證通訊協定，電子郵件接收者會使用該通訊協定來判斷是否有電子郵件訊息是由傳送者所傳送。 DKIM通常可改善將電子郵件傳送至收件匣的功能，因為收件者可確信訊息並非偽造。
+DKIM 是一種驗證通訊協定，電子郵件接收者會將其用於確定電子郵件是否真由聲稱的寄件者所傳送。DKIM 通常可提升電子郵件至收件匣的傳遞能力，因為接收者可確信該訊息並非偽造。
 
-**DKIM如何運作？**
+**DKIM 如何運作？**
 
-當您在DNS記錄中設定公開金鑰並在Admin區段中啟用傳送網域後(A)，我們將針對您的傳出郵件開啟自訂DKIM簽署，其中包括我們為您傳送的每封電子郵件的加密數位簽名(B)。 接收者將透過在傳送網域的DNS (C)中查詢「公開金鑰」來解密數位簽名。 如果電子郵件中的金鑰與您DNS記錄中的金鑰相對應，則接收郵件伺服器將更有可能接受代表您傳送的電子郵件Marketo。
+您在 DNS 記錄中設定公開金鑰並在「管理員」區段中啟用傳送網域後 (A)，我們即會為您的傳出訊息開啟自訂 DKIM 簽署，其中包括我們為您傳送的每封電子郵件的加密數位簽名 (B)。接收者即可透過在傳送網域的 DNS 中查詢「公開金鑰」將數位簽名解密 (C)。如果電子郵件中的金鑰與您 DNS 記錄中的金鑰相對應，則接收郵件伺服器即更有可能接受 Marketo 代表您傳送的電子郵件。
 
 ![](assets/image2015-1-12-13-3a56-3a55.png)
 
-**如何設定DKIM？**
+**如何設定 DKIM？**
 
-請參閱[設定自訂DKIM簽章](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}。
+請參閱[設定自訂 DKIM 簽名](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}。
 
 >[!MORELIKETHIS]
 >
->* 進一步瞭解SPF及其運作方式`: http://www.open-spf.org/Introduction/`
->* 我的SPF設定是否正確？： `https://www.kitterman.com/spf/validate.html`
->* 我是否使用正確的語法？： `http://www.open-spf.org/SPF_Record_Syntax/`
+>* 了解更多 SPF 及其運作方式的資訊`: http://www.open-spf.org/Introduction/`
+>* 我的 SPF 設定是否正確？：`https://www.kitterman.com/spf/validate.html`
+>* 我是否使用正確的語法？：`http://www.open-spf.org/SPF_Record_Syntax/`
