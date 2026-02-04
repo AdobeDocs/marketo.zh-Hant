@@ -4,9 +4,9 @@ description: 設定 Marketo Engage 的通訊協定 - Marketo Engage 文件 - 產
 title: 設定 Marketo Engage 的通訊協定
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '2131'
+source-git-commit: ee8b46179d9fe85c4d5f2ebd7c2d31b7fbf516c3
+workflow-type: tm+mt
+source-wordcount: '2129'
 ht-degree: 100%
 
 ---
@@ -62,8 +62,6 @@ ht-degree: 100%
 您的行銷群組使用 Marketo Engage 來傳送測試電子郵件 (在傳送電子郵件群發前的最佳做法) 時，測試電子郵件有時會遭到反垃圾郵件系統封鎖，這些系統依賴寄件者 IP 位址來驗證電子郵件是否有效。為確保這些測試電子郵件順利送達，請將 Marketo Engage 新增至您的允許清單。
 
 將這些 IP 位址新增至您的公司允許清單：
-
-103.237.104.0/22
 
 130.248.172.0/24
 
@@ -298,9 +296,6 @@ Marketo Engage [Salesforce CRM Sync](/help/marketo/product-docs/crm-sync/salesfo
  <tbody>
   <tr>
    <th>IP 區塊 (CIDR 標記法)</th>
-  </tr>
-  <tr>
-   <td>103.237.104.0/22</td>
   </tr>
    <tr>
    <td>130.248.172.0/24</td>

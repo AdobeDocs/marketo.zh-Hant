@@ -7,9 +7,9 @@ role: User
 level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
-source-git-commit: 2f3cea36349de368e706da59f944a92708d976d2
+source-git-commit: ee8b46179d9fe85c4d5f2ebd7c2d31b7fbf516c3
 workflow-type: tm+mt
-source-wordcount: '1326'
+source-wordcount: '1319'
 ht-degree: 8%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 8%
 
 品牌指引是一組詳細的規則和標準，可建立品牌的視覺和口頭識別。 這些可作為參考，以在所有行銷和通訊平台上維持一致的品牌代表性。
 
-在[!DNL Marketo Engage]中，您現在可以選擇手動輸入及組織您的品牌詳細資料，或上傳品牌指引檔案以進行自動資訊擷取。
+手動輸入及組織您的品牌詳細資料，或上傳品牌指引檔案，以便自動擷取資訊。
 
 >[!AVAILABILITY]
 >
