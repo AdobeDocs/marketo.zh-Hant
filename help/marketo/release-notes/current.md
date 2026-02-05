@@ -3,10 +3,10 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: c353425db0dc8b08620feb68092b25c664111a03
+source-git-commit: d46ce01ca654ce17c1909d9e458cab1a8cb520f9
 workflow-type: tm+mt
-source-wordcount: '581'
-ht-degree: 43%
+source-wordcount: '479'
+ht-degree: 32%
 
 ---
 
@@ -103,18 +103,12 @@ ht-degree: 43%
 
 * **增強的房間介面體驗**：享受更新且更現代的房間介面，此介面建置於Adobe最新的Spectrum 2設計架構上，並與其他Adobe產品(例如Creative Cloud和Experience Cloud)所使用的視覺語言一致。
 
-如需完整詳細資訊，請造訪[此頁面](https://helpx.adobe.com/tw/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}。
+如需完整詳細資訊，請造訪[此頁面](https://helpx.adobe.com/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}。
 
 ## 公告 {#announcements}
 
-* **Marketo社群移轉完成**：新的Adobe Experience League社群現已上線！ [已進行數個增強功能](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673?profile.language=zh-Hant){target="_blank"}，讓您的Marketo社群體驗更佳。 [簽出](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=zh-Hant){target="_blank"}。
+* **Marketo社群移轉完成**：新的Adobe Experience League社群現已上線！ [已進行數個增強功能](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673){target="_blank"}，讓您的Marketo社群體驗更佳。 [簽出](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"}。
 
 * **REST API「access_token」參數棄用**：用於驗證 Marketo REST API 呼叫的 `access_token` 查詢參數將棄用，且於 2026 年 3 月 31 日之後即不再提供。所有新的和現有的整合都應使用「Authorization」標頭來驗證 REST API 呼叫，方法[如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
 * **SOAP API 棄用**：將於 2026 年 3 月 31 日停止支援 Marketo SOAP API。使用 SOAP API 功能的服務應遷移至 [REST API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。
-
-* **Marketo Engage身分服務終止**：
-
-   * _IP 限制棄用_：已於 2025 年 7 月 30 日停止支援「[根據 IP 限制 Marketo 登入](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"}」的功能。此功能將保持正常運作，直到轉換至 Adobe Identity 的作業完成為止。Adobe Admin Console 中即將推出適用於 Adobe Identity 的全新位置型存取控制功能。
-
-   * _單一登入 (SSO) 棄用_：已於 2025 年 7 月 30 日停止支援 [Marketo Identity SSO](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"}。該功能將保持正常運作，直到轉換至 Adobe Identity 的過程完成為止。在 Adobe Admin Console 中，Adobe Identity 單一登入必須個別設定。關於設定步驟，請參閱[設定身分識別和單一登入](https://helpx.adobe.com/tw/enterprise/using/set-up-identity.html){target="_blank"}。
