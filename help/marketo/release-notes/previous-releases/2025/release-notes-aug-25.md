@@ -3,10 +3,10 @@ description: 發行說明 — 2025年8月 — Marketo檔案 — 產品檔案
 title: 發行說明 - 2025 年 8 月
 feature: Release Information
 exl-id: f4f71a77-d0c0-41c3-9362-afbfb467cc7a
-source-git-commit: f806c0984cf221bd88fdf50013a8f1d2911b5d86
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '573'
-ht-degree: 91%
+ht-degree: 97%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 91%
   </tr>
   <tr>
    <td><strong>電子郵件設計工具 - 報告</strong>：電子郵件績效和電子郵件連結績效報告現在會顯示使用新的電子郵件設計工具建立的電子郵件資料。</td>
-   <td>已發布</td>
+   <td>已發行</td>
    <td>不適用</td>
   </tr>
   <tr>
@@ -43,7 +43,7 @@ ht-degree: 91%
   </tr>
   <tr>
    <td><strong>電子郵件設計工具 - 自動完成移除</strong>：權杖個人化編輯器中的「自動完成」選項先前指向了錯誤的物件，已遭移除。目前沒有重新實作此功能的計劃。</td>
-   <td>已發布</td>
+   <td>已發行</td>
    <td>不適用</td>
   </tr>
   <tr>
@@ -53,7 +53,7 @@ ht-degree: 91%
   </tr>
   <tr>
    <td><strong>電子郵件設計工具 - 電子郵件預覽最佳化</strong>：部分使用者嘗試在電子郵件/電子郵件範本/片段詳細資料頁面中預覽電子郵件時，遇到載入時間較慢的問題。此體驗已完成最佳化，載入時間可加速 60%。</td>
-   <td>已發布</td>
+   <td>已發行</td>
    <td>不適用</td>
   </tr>
   <tr>
@@ -63,7 +63,7 @@ ht-degree: 91%
   </tr>
   <tr>
    <td><strong>電子郵件設計工具 - 範本修正</strong>：部分現成可用的範本出現轉譯問題 (例如在特定瀏覽器/深色模式下無法正確轉譯、影像未對齊、CTA 按鈕錯置及其他問題)。此版本已修正以上所有問題。</td>
-   <td>已發布</td>
+   <td>已發行</td>
    <td>不適用</td>
   </tr>
   <tr>
@@ -73,7 +73,7 @@ ht-degree: 91%
   </tr>
   <tr>
    <td><strong>電子郵件設計工具 - 內容鎖定修正</strong>：過去，如果使用內容鎖定建立電子郵件範本，且將此範本用於建立電子郵件，則即使重設電子郵件或選取「變更設計」，內容鎖定仍會存在。此版本已修正此問題。</td>
-   <td>已發布</td>
+   <td>已發行</td>
    <td>不適用</td>
   </tr>
   </tbody>
@@ -90,6 +90,6 @@ ht-degree: 91%
 
 * **棄用「_轉寄給好友_」功能**：自 2025 年 9 月 29 日起，Marketo Engage 2.0 電子郵件 (舊版電子郵件編輯器) 中的「_轉寄給好友_」功能將在所有訂閱中全面棄用。這會影響已經寄出或即將寄出，且使用「轉寄給好友」權杖的電子郵件中的「轉寄給好友」權杖和連結。[了解更多](https://nation.marketo.com/t5/product-blogs/deprecation-of-forward-to-a-friend/ba-p/358045#M2889){target="_blank"}
 
-* **Rest API &#39;access_token&#39;引數淘汰**：用於驗證Marketo REST API呼叫的`access_token`查詢引數已淘汰，並將於2026年3月31日後無法使用。 所有新的和現有的整合都應使用「授權」標頭來驗證 REST API 呼叫，方法[如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
+* **REST API「access_token」參數棄用**：用於驗證 Marketo REST API 呼叫的 `access_token` 查詢參數將棄用，且於 2026 年 3 月 31 日之後即不再提供。所有新的和現有的整合都應使用「Authorization」標頭來驗證 REST API 呼叫，方法[如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
-* **SOAP API淘汰**：對Marketo SOAP API的支援將於2026年3月31日終止。 使用 SOAP API 功能的服務應移轉至 [REST API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。
+* **SOAP API 棄用**：將於 2026 年 3 月 31 日停止支援 Marketo SOAP API。使用 SOAP API 功能的服務應遷移至 [REST API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。

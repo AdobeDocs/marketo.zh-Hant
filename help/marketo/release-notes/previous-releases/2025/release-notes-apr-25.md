@@ -3,10 +3,10 @@ description: 發行說明 — 2025年4月 — Marketo檔案 — 產品檔案
 title: 發行說明 - 2025 年 4 月
 feature: Release Information
 exl-id: 94010780-41aa-4212-a1d4-1b78806bd728
-source-git-commit: f806c0984cf221bd88fdf50013a8f1d2911b5d86
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '408'
-ht-degree: 27%
+ht-degree: 37%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 27%
   </tr>
   <tr>
    <td><strong>安全通訊端層(SSL)自助服務</strong>： SSL加密可讓您保護Marketo Engage執行個體的登入頁面。 啟用此功能過去需要Adobe支援團隊的協助。 Marketo使用者現在可以自行啟用，節省寶貴時間。</td>
-   <td>已發布</td>
+   <td>已發行</td>
    <td><a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-ssl-to-your-landing-pages.md">新增SSL至您的登入頁面</a></td>
   </tr>
  </tbody>
@@ -46,9 +46,9 @@ ht-degree: 27%
 
 若要存取此功能，您必須已購買進階BI Analytics附加元件。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
 
-* **Rest API &#39;access_token&#39;引數淘汰**：用於驗證Marketo REST API呼叫的`access_token`查詢引數已淘汰，並將於2026年3月31日後無法使用。 所有新的和現有的整合都應使用「授權」標頭來驗證 REST API 呼叫，方法[如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
+* **REST API「access_token」參數棄用**：用於驗證 Marketo REST API 呼叫的 `access_token` 查詢參數將棄用，且於 2026 年 3 月 31 日之後即不再提供。所有新的和現有的整合都應使用「Authorization」標頭來驗證 REST API 呼叫，方法[如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
-* **SOAP API淘汰**：對Marketo SOAP API的支援將於2026年3月31日終止。 使用 SOAP API 功能的服務應移轉至 [REST API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。
+* **SOAP API 棄用**：將於 2026 年 3 月 31 日停止支援 Marketo SOAP API。使用 SOAP API 功能的服務應遷移至 [REST API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。
 
 * **棄用社交功能**： 2024年7月31日星期三，Marketo Engage開始棄用產品中的下列社交功能：
 

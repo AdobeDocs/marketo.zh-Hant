@@ -2,7 +2,7 @@
 description: 發行說明 — 2023年5月 — Marketo檔案 — 產品檔案
 title: 版本注意事項 - 2023 年 5 月
 exl-id: beefd8ad-b0d2-4a6f-9f2e-74f03fc3abe7
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 19%
@@ -33,7 +33,7 @@ ht-degree: 19%
    <td><b>文件更新</b></td>
   </tr>
   <tr>
-   <td>已發布</td>
+   <td>已發行</td>
    <td><a href="/help/marketo/product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md">Experience Cloud介面概觀</a></td>
   </tr>
   </tbody>
@@ -47,7 +47,7 @@ ht-degree: 19%
    <td><b>文件更新</b></td>
   </tr>
   <tr>
-   <td>已發布</td>
+   <td>已發行</td>
    <td><a href="/help/marketo/getting-started/things-to-know/help-center.md">說明中心</a></td>
   </tr>
   </tbody>
@@ -74,7 +74,7 @@ ht-degree: 19%
   </tr>
   <tr>
    <td>開始推出</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html?lang=zh-Hant">互動式網路研討會概觀</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html">互動式網路研討會概觀</a></td>
   </tr>
   </tbody>
 </table>

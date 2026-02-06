@@ -3,10 +3,10 @@ description: 發行說明 — 2022年10月 — Marketo檔案 — 產品檔案
 title: 版本注意事項 - 2022 年 10 月
 exl-id: 1494b8b9-049c-4969-ab95-a4be41d886b0
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '603'
-ht-degree: 18%
+ht-degree: 16%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 18%
    <td><b>文件更新</b></td>
   </tr>
   <tr>
-   <td>已發布</td>
+   <td>已發行</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">方案成員自訂欄位同步</a></td>
   </tr>
   </tbody>
@@ -48,7 +48,7 @@ ht-degree: 18%
    <td><b>文件更新</b></td>
   </tr>
   <tr>
-   <td>已發布</td>
+   <td>已發行</td>
    <td><a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md">Adobe Identity Management</a></td>
   </tr>
   </tbody>
@@ -69,7 +69,7 @@ ht-degree: 18%
    <td><b>文件更新</b></td>
   </tr>
   <tr>
-   <td>已發布</td>
+   <td>已發行</td>
    <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">切換按鈕</a></td>
   </tr>
   </tbody>
@@ -83,7 +83,7 @@ ht-degree: 18%
    <td><b>文件更新</b></td>
   </tr>
   <tr>
-   <td>已發布</td>
+   <td>已發行</td>
    <td>不適用</td>
   </tr>
   </tbody>
@@ -97,7 +97,7 @@ ht-degree: 18%
    <td><b>文件更新</b></td>
   </tr>
   <tr>
-   <td>已發布</td>
+   <td>已發行</td>
    <td>不適用</td>
   </tr>
   </tbody>
@@ -115,7 +115,7 @@ ht-degree: 18%
    <td><b>文件更新</b></td>
   </tr>
   <tr>
-   <td>已發布</td>
+   <td>已發行</td>
    <td><a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Bulk-Import-Leads">大量潛在客戶匯入</a></td>
   </tr>
   </tbody>
@@ -135,7 +135,7 @@ ht-degree: 18%
    <td><b>文件更新</b></td>
   </tr>
   <tr>
-   <td>已發布</td>
+   <td>已發行</td>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md">Dynamic Chat 整合</a></td>
   </tr>
   </tbody>
@@ -153,7 +153,7 @@ ht-degree: 18%
    <td><b>文件更新</b></td>
   </tr>
   <tr>
-   <td>已發布</td>
+   <td>已發行</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-icons">串流Designer圖示</a></td>
   </tr>
   </tbody>
@@ -167,7 +167,7 @@ ht-degree: 18%
    <td><b>文件更新</b></td>
   </tr>
   <tr>
-   <td>已發布</td>
+   <td>已發行</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md">行事曆</a></td>
   </tr>
   </tbody>
@@ -181,7 +181,7 @@ ht-degree: 18%
    <td><b>文件更新</b></td>
   </tr>
   <tr>
-   <td>已發布</td>
+   <td>已發行</td>
    <td>不適用</td>
   </tr>
   </tbody>

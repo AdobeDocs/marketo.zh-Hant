@@ -3,10 +3,10 @@ description: 發行說明 — 2025年1月 — Marketo檔案 — 產品檔案
 title: 發行說明 - 2025 年 1 月
 feature: Release Information
 exl-id: fd816b9c-9e06-4292-87d6-9fa991c4681f
-source-git-commit: f806c0984cf221bd88fdf50013a8f1d2911b5d86
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '551'
-ht-degree: 23%
+ht-degree: 29%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 23%
     <tr>
    <td><strong>新電子郵件Designer</strong>：使用Marketo Engage中的新原生電子郵件Designer，建立現代且有效的電子郵件。 存取其中一個預先設計的現成電子郵件範本，或輕鬆建立您自己的範本。 使用動態內容並從Adobe Experience Manager雲端服務存取影像。 使用Content Accelerator Gen-AI功能，大規模建立創新且高效能的電子郵件。
    <p><img src="assets/note-icon.png" alt="附註圖示"> 注意：若要存取新的電子郵件設計工具，您的Marketo Engage訂閱必須移轉至<a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview">Adobe Identity Management系統(IMS)</a>。 如果尚未收到您的邀請，而您想要請求加急，請聯絡Adobe客戶團隊（您的客戶經理）或<a href="https://nation.marketo.com/t5/support/ct-p/Support">Marketo支援</a>。 若要存取Content Accelerator Gen-AI功能，請聯絡Adobe客戶團隊。</td>
-   <td>已發布</td>
+   <td>已發行</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/overview.md">電子郵件設計工具概觀</a></td>
   </tr>
   <tr>
@@ -73,8 +73,8 @@ ht-degree: 23%
 
 截至目前，使用者無法在Marketo Engage中建立、複製或嵌入任何這些Social功能。 現有的社交資產可持續使用至2025年1月31日。 在2025年2月1日，社交資產將停止運作。 需要移除內嵌在登陸頁面中的社交功能。 [了解更多](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
-* **取得方案成員API更新**：我們已增強[取得方案成員](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/lead-database/program-members#query){target="_blank"} API以支援擷取方案成員識別碼的功能。 做法是將ID新增至API請求的欄位引數中指定的欄位清單中。
+* **取得方案成員API更新**：我們已增強[取得方案成員](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/program-members#query){target="_blank"} API以支援擷取方案成員識別碼的功能。 做法是將ID新增至API請求的欄位引數中指定的欄位清單中。
 
-* **Rest API &#39;access_token&#39;引數淘汰**：用於驗證Marketo REST API呼叫的`access_token`查詢引數已淘汰，並將於2026年3月31日後無法使用。 所有新的和現有的整合都應使用「授權」標頭來驗證 REST API 呼叫，方法[如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
+* **REST API「access_token」參數棄用**：用於驗證 Marketo REST API 呼叫的 `access_token` 查詢參數將棄用，且於 2026 年 3 月 31 日之後即不再提供。所有新的和現有的整合都應使用「Authorization」標頭來驗證 REST API 呼叫，方法[如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
-* **SOAP API淘汰**：對Marketo SOAP API的支援將於2026年3月31日終止。 使用 SOAP API 功能的服務應移轉至 [REST API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。
+* **SOAP API 棄用**：將於 2026 年 3 月 31 日停止支援 Marketo SOAP API。使用 SOAP API 功能的服務應遷移至 [REST API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。

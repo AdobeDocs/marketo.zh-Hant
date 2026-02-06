@@ -3,10 +3,10 @@ description: 發行說明 — 2024年4月 — Marketo檔案 — 產品檔案
 title: 發行說明 - 2024 年 4 月
 feature: Release Information
 exl-id: d87474f8-fc47-407b-bc97-e343b56c1f8f
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '447'
-ht-degree: 21%
+ht-degree: 20%
 
 ---
 
@@ -33,14 +33,14 @@ ht-degree: 21%
   </tr>
      <tr>
    <td><strong>互動式網路研討會增強功能</strong>：您現在可以讓主機和主持人新增網路研討會標題、重新命名聊天室，以及在事件傳送後手動同步互動資料。</td>
-   <td>已發布</td>
+   <td>已發行</td>
    <td><li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md">建立互動式網路研討會</a></li>
    <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#manual-sync">手動同步</a></li></td>
   </tr>
   <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
+   <td>  </td>
+   <td>  </td>
+   <td>  </td>
   </tr>
     <tr>
    <td><strong>稽核軌跡增強功能</strong>：
@@ -49,9 +49,9 @@ ht-degree: 21%
    <td><i>即將推出</i></td>
   </tr>
   <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
+   <td>  </td>
+   <td>  </td>
+   <td>  </td>
   </tr>
     <tr>
    <td><strong>新使用者和角色許可權</strong>：新許可權已推出，讓使用者能更精細地存取Marketo Engage。 控制先前未啟用的管理員部分（例如新體驗和預測對象）、分割許可權以分別授予資產稽核軌跡和管理稽核軌跡的存取權，以及使用新的資產和資料夾的建立和移動許可權來防止唯讀使用者進行變更。
@@ -66,7 +66,7 @@ ht-degree: 21%
    <li>建立清單</li>
    <li>匯出行銷活動內容</li>
    </td>
-   <td>已發布</td>
+   <td>已發行</td>
    <td><a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md">角色權限說明</a></td>
   </tr>
  </tbody>

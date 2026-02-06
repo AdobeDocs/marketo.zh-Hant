@@ -3,7 +3,7 @@ description: 發行說明 — 2024年3月 — Marketo檔案 — 產品檔案
 title: 發行說明 - 2024 年 3 月
 feature: Release Information
 exl-id: d8bc7f88-a77b-4b49-aed5-aceab9e639f0
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '350'
 ht-degree: 22%
@@ -31,29 +31,29 @@ ht-degree: 22%
   </tr>
   <tr>
    <td><strong>進階交談流程邏輯</strong>：在交談流程後續追蹤的單一選擇中，新增要評估的其他欄位。</td>
-   <td>已發布</td>
+   <td>已發行</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Marketo Engage 表單的交談流程設定</a></td>
   </tr>
    <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
+   <td>  </td>
+   <td>  </td>
+   <td>  </td>
   </tr>
    </tr>
     <tr>
    <td><strong>重新排序對話流程邏輯</strong>：在Marketo Engage Forms中，您現在可以重新排序對話流程選擇，而不必刪除並重新新增。</td>
-   <td>已發布</td>
+   <td>已發行</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Marketo Engage 表單的交談流程設定</a></td>
    </tr>
   <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
+   <td>  </td>
+   <td>  </td>
+   <td>  </td>
   </tr>
     <tr>
    <td><strong>API活動中繼資料</strong>：
    使用者代理程式、平台和裝置等中繼資料現在包含在網路和電子郵件活動中，有助於透過Marketo REST API提供這些活動的一致深入分析。</td>
-   <td>已發布</td>
+   <td>已發行</td>
    <td>不適用</td>
   </tr>
  </tbody>

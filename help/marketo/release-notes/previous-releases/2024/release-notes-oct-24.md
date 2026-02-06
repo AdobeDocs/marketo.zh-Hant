@@ -3,10 +3,10 @@ description: 發行說明 — 2024年10月 — Marketo檔案 — 產品檔案
 title: 版本注意事項 - 2024 年 10 月
 feature: Release Information
 exl-id: 2e28ae7f-51de-4510-b3e8-79a989f0daf5
-source-git-commit: f806c0984cf221bd88fdf50013a8f1d2911b5d86
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '548'
-ht-degree: 16%
+ht-degree: 15%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 16%
   </tr>
     <tr>
    <td><strong>互動式網路研討會的權杖化</strong>：您現在可以使用權杖在電子郵件和登陸頁面中推廣互動式網路研討會，而無需手動新增網路研討會詳細資訊。</td>
-   <td>已發布</td>
+   <td>已發行</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md#interactive-webinars-tokens" target="_blank">推廣互動式網路研討會</a></td>
   </tr>
   <tr>
@@ -44,7 +44,7 @@ ht-degree: 16%
   </tr>
    <tr>
    <td><strong>智慧清單「設定為影響」計數</strong>：檢視編輯Smart Campaign的資格規則時會影響多少人。</td>
-   <td>已發布</td>
+   <td>已發行</td>
    <td>不適用</td>
   </tr>
   <tr>
@@ -55,7 +55,7 @@ ht-degree: 16%
   </tr>
    <tr>
    <td><strong>導覽邊欄中的「我的帳戶」按鈕</strong>：對於已移轉至Adobe Identity Management系統的使用者，左側導覽邊欄中新的「我的帳戶」按鈕可讓您設定時區並存取訂閱詳細資料。</td>
-   <td>已發布</td>
+   <td>已發行</td>
    <td>不適用</td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@ ht-degree: 16%
    <li>電子郵件在等待回應活動三天後現在分類為<i>已中止</i></li>
    <li>電子郵件開啟次數會計為每個Smart Campaign個別開啟的唯一開啟次數</li>
    </td>
-   <td>已發布</td>
+   <td>已發行</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">電子郵件績效報告</a></td>
   </tr>
   <tr>
@@ -81,7 +81,7 @@ ht-degree: 16%
    <tr>
    <td><strong>Salesforce同步處理待處理專案量度</strong>：監視同步處理輸送量和待處理專案趨勢，以便規劃及排程CRM更新，提供最佳的同步處理體驗。
    </td>
-   <td>已發布</td>
+   <td>已發行</td>
    <td><a href="/help/marketo/product-docs/crm-sync/salesforce-sync/salesforce-sync-backlog-metrics.md" target="_blank">Salesforce 同步待辦項目量度</a></td>
   </tr>
  </tbody>
@@ -92,7 +92,7 @@ ht-degree: 16%
 
 * **大量擷取API更新**：我們已修正大量擷取API中涉及columnHeaderNames選項的問題，該選項可讓您在匯出的檔案中指定自訂欄標題名稱。 以前，包含非ASCII字元的欄標題名稱可能會損毀。
 
-* **Rest API access_token引數淘汰**：用於驗證Marketo REST API呼叫的「access_token」查詢引數已淘汰，並將於2026年3月31日後無法使用。 所有新的和現有的整合應該使用&#39;Authorization&#39;標頭[驗證REST API呼叫，如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication#using-an-access-token)。
+* **Rest API access_token引數淘汰**：用於驗證Marketo REST API呼叫的「access_token」查詢引數已淘汰，並將於2026年3月31日後無法使用。 所有新的和現有的整合應該使用&#39;Authorization&#39;標頭[驗證REST API呼叫，如此處所述](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#using-an-access-token)。
 
 * **QR碼淘汰**：自2024年10月4日起，推播通知和應用程式內訊息資產中使用的QR碼功能將被淘汰。 這包括使用新測試裝置的QR碼，以及使用QR碼建立新資產。 淘汰使用率較低的功能，可讓我們重新分配其資源，以進行Marketo Engage的整體維護。
 

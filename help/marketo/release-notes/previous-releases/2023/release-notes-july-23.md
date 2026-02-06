@@ -3,10 +3,10 @@ description: 發行說明 — 2023年7月 — Marketo檔案 — 產品檔案
 title: 版本注意事項 - 2023 年 7 月
 feature: Release Information
 exl-id: 4056353c-4125-4849-8350-59c58afb9e66
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '655'
-ht-degree: 17%
+ht-degree: 16%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 17%
    <td><b>文件更新</b></td>
   </tr>
   <tr>
-   <td>已發布</td>
+   <td>已發行</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-overview.md" target="_blank">參與地圖概觀</a></td>
   </tr>
   </tbody>
@@ -46,7 +46,7 @@ ht-degree: 17%
    <td><b>文件更新</b></td>
   </tr>
   <tr>
-   <td>已發布</td>
+   <td>已發行</td>
    <td>不適用</td>
   </tr>
   </tbody>
@@ -68,7 +68,7 @@ ht-degree: 17%
    <td><b>文件更新</b></td>
   </tr>
   <tr>
-   <td>已發布</td>
+   <td>已發行</td>
    <td>不適用</td>
   </tr>
   </tbody>
@@ -82,7 +82,7 @@ ht-degree: 17%
    <td><b>文件更新</b></td>
   </tr>
   <tr>
-   <td>已發布</td>
+   <td>已發行</td>
    <td>不適用</td>
   </tr>
   </tbody>
@@ -100,7 +100,7 @@ ht-degree: 17%
    <td><b>文件更新</b></td>
   </tr>
   <tr>
-   <td>已發布</td>
+   <td>已發行</td>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md" target="_blank">自動附加取消訂閱訊息設定</a></td>
   </tr>
   </tbody>
@@ -114,7 +114,7 @@ ht-degree: 17%
    <td><b>文件更新</b></td>
   </tr>
   <tr>
-   <td>已發布</td>
+   <td>已發行</td>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/templates/field-prompts.md" target="_blank">欄位提示</a></td>
   </tr>
   </tbody>
@@ -128,7 +128,7 @@ ht-degree: 17%
    <td><b>文件更新</b></td>
   </tr>
   <tr>
-   <td>已發布</td>
+   <td>已發行</td>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md" target="_blank">動態欄位</a></td>
   </tr>
   </tbody>
@@ -170,7 +170,7 @@ ht-degree: 17%
    <td><b>文件更新</b></td>
   </tr>
   <tr>
-   <td>已發布</td>
+   <td>已發行</td>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md" target="_blank">Dynamic Chat觸發權杖</a></td>
   </tr>
   </tbody>
