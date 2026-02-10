@@ -4,10 +4,10 @@ description: 將檢視新增為網頁連結至電子郵件 — Marketo檔案 —
 title: 在電子郵件中新增「以網頁形式檢視」連結
 exl-id: 0f420d1b-6c12-4e66-9dfa-3c8f6145dc89
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 555745d293928961263a2aafed431a7b9e22d407
 workflow-type: tm+mt
-source-wordcount: '149'
-ht-degree: 13%
+source-wordcount: '159'
+ht-degree: 12%
 
 ---
 
@@ -17,7 +17,9 @@ ht-degree: 13%
 
 >[!NOTE]
 >
->建立新電子郵件時，未啟用以網頁檢視。 如果啟用並複製電子郵件，則會複製此設定。
+>* 建立新電子郵件時，未啟用以網頁檢視。 如果啟用並複製電子郵件，則會複製此設定。
+>
+>* 「以網頁方式檢視」連結會在六個月後過期。
 
 1. 選取您的電子郵件並按一下&#x200B;**[!UICONTROL Edit Draft]**。
 
