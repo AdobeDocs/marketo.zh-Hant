@@ -4,10 +4,10 @@ description: 設定LinkedIn潛在客戶Gen Forms - Marketo檔案 — 產品檔�
 title: 設定 LinkedIn 商機開發表單
 exl-id: 554a546c-adeb-4132-830d-ff15ba5cf9a1
 feature: Social
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 0e164542f45045f5259b2e9c068bd3bade150656
 workflow-type: tm+mt
-source-wordcount: '496'
-ht-degree: 3%
+source-wordcount: '477'
+ht-degree: 4%
 
 ---
 
@@ -15,17 +15,13 @@ ht-degree: 3%
 
 使用LinkedIn Lead Gen Forms在LinkedIn中執行廣告行銷活動，並產生Marketo的銷售機會。
 
->[!IMPORTANT]
->
->LinkedIn正在升級其Marketo Engage LinkedIn整合所使用的行銷API。 這些變更需要在2024年6月7日至12月15日期間，重新驗證您&#x200B;**管理員** > **LaunchPoint**&#x200B;功能表中的所有LinkedIn LaunchPoint服務，以避免服務中斷。 如需詳細資訊，請參閱[移轉常見問題集](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}。
-
 >[!NOTE]
 >
->**需要管理員許可權**
-
->[!NOTE]
+>* **需要管理員權限**
 >
->如果LinkedIn銷售機會符合Marketo中與使用公司API建立的公司記錄相關聯的現有個人記錄，並且Marketo訂閱未連線至CRM，則不會進入Marketo Engage。
+>* 建立LinkedIn銷售機會一般表單時，請確定表單名稱不包含數字字元。 表單名稱必須是字母或字母數字。
+>
+>* 如果LinkedIn銷售機會符合Marketo中與使用公司API建立的公司記錄相關聯的現有個人記錄，並且Marketo訂閱未連線至CRM，則不會進入Marketo Engage。
 
 1. 前往「**[!UICONTROL Admin]**」區域。
 

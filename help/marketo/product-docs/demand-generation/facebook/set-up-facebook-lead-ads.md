@@ -4,10 +4,10 @@ description: 設定Facebook銷售機會廣告 — Marketo檔案 — 產品檔案
 title: 設定 Facebook 商機廣告
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 0e164542f45045f5259b2e9c068bd3bade150656
 workflow-type: tm+mt
-source-wordcount: '298'
-ht-degree: 3%
+source-wordcount: '324'
+ht-degree: 4%
 
 ---
 
@@ -17,7 +17,9 @@ ht-degree: 3%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>* **需要管理員權限**
+>
+>* 建立Facebook潛在客戶廣告表單時，請確定表單名稱不僅包含數字字元。 表單名稱必須是字母或字母數字。
 
 >[!AVAILABILITY]
 >
