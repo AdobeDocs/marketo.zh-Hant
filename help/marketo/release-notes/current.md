@@ -3,10 +3,10 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: ce6a748acfb25ebc90c31dbfb16cf0230ca20b73
+source-git-commit: 223e20c6c29a8392ee582c3bb69a384edfba6427
 workflow-type: tm+mt
-source-wordcount: '305'
-ht-degree: 49%
+source-wordcount: '286'
+ht-degree: 51%
 
 ---
 
@@ -64,16 +64,6 @@ ht-degree: 49%
   </tr>
   <tr>
    <td><strong>電子郵件Designer - API</strong>：您現在可以使用電子郵件Designer的API呼叫。</td>
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
-  </tr>
-  <tr>
-   <td>  </td>
-   <td>  </td>
-   <td>  </td>
-  </tr>
-  <tr>
-   <td><strong>挑選清單管理</strong>：指定可以在Marketo介面的欄位中使用的值。</td>
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
   </tr>
