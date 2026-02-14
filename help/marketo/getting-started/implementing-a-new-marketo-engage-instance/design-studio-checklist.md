@@ -58,7 +58,7 @@ Design Studio區段是可重複使用之「全域資產」的所在位置。 建
   </tr>
   <tr>
     <td>隱私權與合規性</td>
-    <td><li>讓您的表單符合<a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">一般資料保護規範(GDPR)</a>。</li></td>
+    <td><li>讓您的表單符合<a href="https://business.adobe.com/tw/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">一般資料保護規範(GDPR)</a>。</li></td>
   </tr>
   <tr>
     <td>資料標準化</td>

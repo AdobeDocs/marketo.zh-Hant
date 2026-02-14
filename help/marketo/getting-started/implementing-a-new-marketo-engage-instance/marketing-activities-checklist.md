@@ -139,7 +139,7 @@ ht-degree: 1%
   </tr>
   <tr>
     <td>隱私權與合規性</td>
-    <td><li>建立程式以確保您符合資料隱私權與垃圾郵件法規，例如<a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR、CASL、CAN-SPAM、CCPA等。</a></li>
+    <td><li>建立程式以確保您符合資料隱私權與垃圾郵件法規，例如<a href="https://business.adobe.com/tw/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR、CASL、CAN-SPAM、CCPA等。</a></li>
     <p><img src="assets/note-icon.png" alt="附註圖示"> 注意：請務必就這些問題諮詢您的法律團隊。 在進行任何變更之前，請向您的團隊詢問先前的行動方案，以維持法規遵循。</td>
   </tr>
   <tr>
