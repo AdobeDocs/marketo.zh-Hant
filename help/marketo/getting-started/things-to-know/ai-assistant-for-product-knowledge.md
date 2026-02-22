@@ -40,4 +40,4 @@ ht-degree: 0%
 
 ## 快速入門：60秒影片概觀 {#video}
 
->[!VIDEO](https://video.tv.adobe.com/v/3480115?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3480126?captions=chi_hant&learn=on){transcript=true}
