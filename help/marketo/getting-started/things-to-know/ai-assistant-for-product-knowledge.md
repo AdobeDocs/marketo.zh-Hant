@@ -5,9 +5,9 @@ feature: Getting Started
 hide: true
 hidefromtoc: true
 exl-id: 7e5d14fc-3131-4d83-b502-bd177931506c
-source-git-commit: a9aebd242033df4e45c3bf5cb3b5a91d80d94d0e
+source-git-commit: b39db1dae33fee1a7436013845a216fa8995105e
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,11 @@ ht-degree: 0%
 
 1. 透過[Adobe Experience Cloud](https://experience.adobe.com/)登入Marketo Engage。
 
-1. 在標題中選取AI助理圖示。
+1. 選取標題右側的AI助理圖示。
 
    熒幕擷圖
 
-1. 在提示視窗中，使用自然語言輸入所需的提示。
+1. 使用自然語言輸入所需的提示。
 
    熒幕擷圖
 
@@ -36,7 +36,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >使用此圖示（圖示的影像）展開畫面，使用此圖示（圖示的影像）檢視提示歷程記錄。 &lt; — 可以追溯到多久以前？ 有設定嗎？
+   >使用此圖示（這裡的圖示影像）展開畫面，使用此圖示（這裡的圖示影像）檢視您的歷程記錄或開始新的交談。
 
 ## 快速入門：60秒影片概觀 {#video}
 
