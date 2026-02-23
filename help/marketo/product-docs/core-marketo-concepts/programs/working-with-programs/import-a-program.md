@@ -4,9 +4,9 @@ description: 匯入計畫 — Marketo檔案 — 產品檔案
 title: 匯入方案
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7cf6194ba042fa47711bf9ef3b6d1d7570fe3451
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '538'
 ht-degree: 2%
 
 ---
@@ -17,11 +17,14 @@ ht-degree: 2%
 
 >[!CAUTION]
 >
->程式若具有包含「自訂物件已更新」觸發器的智慧清單，將會導致匯入失敗。 在執行以下概述的步驟之前，請從所有智慧列示中移除此觸發器。
+>
+>* 匯入程式時，會略過包含程式碼片段或[動態內容](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md){target="_blank"}的電子郵件/登陸頁面。
+>
+>* 程式若具有包含「自訂物件已更新」觸發器的智慧清單，將會導致匯入失敗。 在執行以下概述的步驟之前，請從所有智慧列示中移除此觸發器。
 
 ## 匯入方案 {#importing-a-program}
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/import-a-program-1.png)
 
@@ -82,7 +85,3 @@ ht-degree: 2%
 >影像型別我的權杖不支援程式匯入。 如果匯入的程式具有影像型別我的權杖，_no_&#x200B;權杖將會通過。
 
 **程式標籤：**&#x200B;您可以使用衝突規則來控制如何處理目的地帳戶中不存在的程式標籤。 使用預設規則將會建立程式標籤，或者您可以選擇忽略標籤。
-
->[!CAUTION]
->
->匯入程式時，將略過包含[動態內容](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md){target="_blank"}的電子郵件/登陸頁面。
