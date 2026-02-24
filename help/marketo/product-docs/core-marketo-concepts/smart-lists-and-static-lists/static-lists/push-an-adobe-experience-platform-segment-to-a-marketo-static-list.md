@@ -3,7 +3,7 @@ description: 將Adobe Experience Platform區段推送至Marketo靜態清單 — 
 title: 將 Adobe Experience Platform 區段推送至 Marketo 靜態清單
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
 feature: Static Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7f8968210659ed2c51640966115f22da47e42ebf
 workflow-type: tm+mt
 source-wordcount: '601'
 ht-degree: 4%
@@ -17,7 +17,7 @@ ht-degree: 4%
 >[!PREREQUISITES]
 >
 >* [編輯API角色](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#edit-an-existing-role){target="_blank"}，確定它具有&#x200B;**讀寫人員**&#x200B;許可權（可在「存取API」下拉式清單下找到）。
->* 在Marketo中[建立API使用者](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md){target="_blank"}。
+>* 在Marketo中[建立API使用者](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}。
 >* 前往&#x200B;**[!UICONTROL Admin]** > **[!UICONTROL Launchpoint]**。 尋找您剛建立的角色名稱，然後按一下&#x200B;**[!UICONTROL View Details]**。 複製並儲存&#x200B;**[!UICONTROL Client ID]**&#x200B;和&#x200B;**[!UICONTROL Client Secret]**&#x200B;中的資訊，因為您可能在步驟7中需要它。
 >* 在Marketo中建立靜態清單，或尋找並選取您已建立的清單。 您需要其ID。
 
@@ -99,7 +99,7 @@ ht-degree: 4%
 
    >[!NOTE]
    >
-   >您可以將屬性從Experience Platform對應至貴組織在Marketo Engage中可存取的任何屬性。 使用[Describe API要求](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"}來擷取貴組織有權存取的屬性欄位。
+   >您可以將屬性從Experience Platform對應至貴組織在Marketo Engage中可存取的任何屬性。 使用[Describe API要求](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"}來擷取貴組織有權存取的屬性欄位。
 
 1. 再次按一下&#x200B;**[!UICONTROL Add New Mapping]**&#x200B;並重複步驟15兩次，選擇&#x200B;**[!UICONTROL lastName]**&#x200B;再選擇&#x200B;**[!UICONTROL companyName]**，以對應姓氏和公司名稱。
 

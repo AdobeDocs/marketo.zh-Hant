@@ -4,20 +4,20 @@ description: 建立僅限API的使用者角色 — Marketo檔案 — 產品檔�
 title: 建立僅 API 使用者角色
 exl-id: 731e3e85-8f3d-4c76-91be-1506697211a1
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7f8968210659ed2c51640966115f22da47e42ebf
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 15%
+ht-degree: 18%
 
 ---
 
 # 建立僅 API 使用者角色 {#create-an-api-only-user-role}
 
-如果您想要透過[REST API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api)與Marketo整合，最佳實務是[將僅限API的角色指派給使用者](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)，然後[建立自訂服務以與REST API搭配使用](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)。 以下說明如何建立僅限API的使用者角色。
+如果您想要透過[REST API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api)與Marketo整合，最佳實務是[將僅限API的角色指派給使用者](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md)，然後[建立自訂服務以與REST API搭配使用](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)。 以下說明如何建立僅限API的使用者角色。
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 1. 前往「**[!UICONTROL Admin]**」區域。
 
@@ -41,4 +41,4 @@ ht-degree: 15%
 
 >[!MORELIKETHIS]
 >
->好的，做得好！ 現在[只建立API使用者](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)。
+>好的，做得好！ 現在[只建立API使用者](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md)。
