@@ -5,10 +5,10 @@ description: 歡迎使用新的 Adobe Marketo Engage 電子郵件設計工具。
 title: 概觀
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 46b832ccf64b0e9e7eae0d8b3255528db903b422
-workflow-type: ht
+source-git-commit: 735721e66b1cd2e21df5c2b85051d4bfee44d2e0
+workflow-type: tm+mt
 source-wordcount: '659'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -88,7 +88,7 @@ ht-degree: 100%
 
 **建立範本模組是否會使其更可自訂及可擴展？**
 
-是的，當然會，我們的 WYSIWYG (所見即所得) 編輯器會更可自訂。
+是的，當然了，我們的WYSIWYG （所見即所得）編輯器更能提供自訂功能。
 
 **電子郵件範本建立流程在新設計工具中如何運作？是 WYSIWYG，還是需要 HTML 知識？**
 
