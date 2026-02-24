@@ -4,10 +4,10 @@ description: 根據IP限制Marketo登入 — Marketo檔案 — 產品檔案
 title: 根據 IP 限制 Marketo 登入
 exl-id: 5d9d0b88-b4bc-4e1b-b70c-2c2e7b4269f5
 feature: Administration
-source-git-commit: 3595cdc76a0f92da10dc5ddaac64c4cf83056e88
+source-git-commit: b6680c404075f13b1713ce28299e60a4d26f4a06
 workflow-type: tm+mt
 source-wordcount: '220'
-ht-degree: 9%
+ht-degree: 10%
 
 ---
 
@@ -17,16 +17,16 @@ ht-degree: 9%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 >[!IMPORTANT]
 >
->Adobe Admin Console (AAC)支援[IP型存取控制](https://helpx.adobe.com/tw/enterprise/using/ip-based-access.html){target="_blank"}。 為確保順暢轉換，在啟用此功能的訂閱中，現有Marketo Engage IP限制將啟用，包括到2026年第1季的Adobe ID使用者。
+>Adobe Admin Console (AAC)支援[IP型存取控制](https://helpx.adobe.com/enterprise/using/ip-based-access.html){target="_blank"}。 為確保順暢轉換，在啟用此功能的訂閱中，現有Marketo Engage IP限制將啟用，包括到2027年第1季的Adobe ID使用者。
 >
 >* 您可以隨時設定AAC IP型存取。
 >* AAC和Marketo Engage限制可以同時執行。 使用相同的IP允許清單以瞭解相容性。
 >
->2026年第1季度後，Marketo Engage IP限制將會淘汰。 IP型存取將透過AAC獨家管理，且必須設定為強制執行登入限制。 最終轉換日期將於稍後宣佈。
+>2027年第1季度後，Marketo Engage IP限制將會淘汰。 IP型存取將透過AAC獨家管理，且必須設定為強制執行登入限制。 最終轉換日期將於稍後宣佈。
 
 1. 前往「**[!UICONTROL Admin]**」區域。
 
