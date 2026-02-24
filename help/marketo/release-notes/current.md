@@ -3,10 +3,10 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 223e20c6c29a8392ee582c3bb69a384edfba6427
+source-git-commit: 466f4b43124a2cb0894c4b8ce605521be1c4b4cd
 workflow-type: tm+mt
-source-wordcount: '286'
-ht-degree: 51%
+source-wordcount: '306'
+ht-degree: 49%
 
 ---
 
@@ -43,6 +43,26 @@ ht-degree: 51%
    <td>  </td>
   </tr>
   <tr>
+   <td><strong>電子郵件Designer - API</strong>：您現在可以使用電子郵件Designer的API呼叫。</td>
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
+  </tr>
+  <tr>
+   <td>  </td>
+   <td>  </td>
+   <td>  </td>
+  </tr>
+  <tr>
+   <td><strong>電子郵件Designer — 管理品牌（測試版）</strong>：根據您組織/品牌的特定撰寫准則產生電子郵件內容。</td>
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
+  </tr>
+  <tr>
+   <td>  </td>
+   <td>  </td>
+   <td>  </td>
+  </tr>
+  <tr>
    <td><strong>電子郵件Designer - Brand Quality Checker</strong>：評估一般內容品質，找出可讀性、內容一致性和有效性的潛在問題，不受品牌准則影響。</td>
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
@@ -54,16 +74,6 @@ ht-degree: 51%
   </tr>
   <tr>
    <td><strong>電子郵件Designer - AI助理影像產生</strong>：現在除了Firefly之外，您還可以使用Nano Banana模型，透過AI助理產生電子郵件內容的影像。</td>
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
-  </tr>
-  <tr>
-   <td>  </td>
-   <td>  </td>
-   <td>  </td>
-  </tr>
-  <tr>
-   <td><strong>電子郵件Designer - API</strong>：您現在可以使用電子郵件Designer的API呼叫。</td>
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
   </tr>
