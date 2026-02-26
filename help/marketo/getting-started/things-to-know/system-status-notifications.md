@@ -75,7 +75,7 @@ ht-degree: 1%
 
    ![](assets/subscribe-to-system-status-notifications-3.png)
 
-1. 使用您的Adobe認證登入（如果尚未登入），或如果沒有帳戶，請按一下[建立帳戶]。****
+1. 使用您的Adobe認證登入（如果尚未登入），或如果沒有帳戶，請按一下[建立帳戶]。**&#x200B;**
 
    ![](assets/subscribe-to-system-status-notifications-4.png)
 
@@ -87,7 +87,7 @@ ht-degree: 1%
 
    ![](assets/subscribe-to-system-status-notifications-6.png)
 
-1. 選取您想要接收相關通知的產品方案/服務，然後按一下[繼續]。****
+1. 選取您想要接收相關通知的產品方案/服務，然後按一下[繼續]。**&#x200B;**
 
    >[!TIP]
    >
