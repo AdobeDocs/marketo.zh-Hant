@@ -5,16 +5,16 @@ feature: Getting Started
 hide: true
 hidefromtoc: true
 exl-id: f4404a26-3b86-4dc7-8ecb-52a24fdb09b4
-source-git-commit: 2a598119d59ed409a5a7367bae51b547908a1303
+source-git-commit: 700e1c62e00ce8d8f510637233de42636e5b90cb
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '364'
 ht-degree: 1%
 
 ---
 
 # 訂閱系統狀態通知 {#subscribe-to-system-status-notifications}
 
-簡介文字
+瞭解如何訂閱不同的狀態通知，以掌握目前問題的最新消息。
 
 >[!PREREQUISITES]
 >
@@ -76,7 +76,7 @@ ht-degree: 1%
 
    ![](assets/subscribe-to-system-status-notifications-3.png)
 
-1. 使用您的Adobe認證登入（如果尚未登入），或如果沒有帳戶，請按一下[建立帳戶]。**&#x200B;**
+1. 使用您的Adobe認證登入（如果尚未登入），或如果沒有帳戶，請按一下[建立帳戶]。****
 
    ![](assets/subscribe-to-system-status-notifications-4.png)
 
@@ -88,7 +88,7 @@ ht-degree: 1%
 
    ![](assets/subscribe-to-system-status-notifications-6.png){width="800"}
 
-1. 選取您想要接收相關通知的產品方案/服務，然後按一下[繼續]。**&#x200B;**
+1. 選取您要接收相關通知的產品方案/服務，然後按一下[繼續]。****
 
    >[!TIP]
    >
@@ -100,28 +100,32 @@ ht-degree: 1%
 
    ![](assets/subscribe-to-system-status-notifications-8.png)
 
-   <table style="width:600px;">
+   <table style="width:500px;">
    <tr>
-   <td style="width:40%;"><b>重大服務問題</b></td>
+   <td style="width:35%;"><b>重大服務問題</b></td>
    <td>針對生產系統上的多位使用者，造成服務無法使用或效能嚴重下降。</td>
    </tr>
    <tr>
-   <td style="width:40%;"><b>次要服務問題</b></td>
+   <td style="width:35%;"><b>次要服務問題</b></td>
    <td>生產系統上的多個使用者出現部分服務無法使用或效能適度下降。</td>
    </tr>
    <tr>
-   <td style="width:40%;"><b>服務維護</b></td>
-   <td>文字</td>
+   <td style="width:35%;"><b>服務維護</b></td>
+   <td>排程的視窗，用於執行可能會影響產品可用性或效能的產品維護。</td>
    </tr>
    <tr>
-   <td style="width:40%;"><b>公告</b></td>
-   <td>和相關的宣告……</td>
+   <td style="width:35%;"><b>公告</b></td>
+   <td>影響廣泛的全域、產品系列或產品相關訊息。</td>
    </tr>
    </table>
 
-1. 選取所需的區域位置和環境。 按一下&#x200B;**繼續**。
+1. 選取地區位置與環境。 按一下&#x200B;**繼續**。
 
    ![](assets/subscribe-to-system-status-notifications-9.png){width="900"}
+
+   >[!NOTE]
+   >
+   >如果您錯過了尋找此專案的位置，請參閱[識別您的資料中心](#identify)。
 
 1. 選擇您的訂閱偏好設定&#x200B;**電子郵件**&#x200B;或&#x200B;**Slack**，然後按一下&#x200B;**繼續**。
 
