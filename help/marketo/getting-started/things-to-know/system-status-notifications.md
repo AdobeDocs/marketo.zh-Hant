@@ -4,7 +4,7 @@ title: 訂閱系統狀態通知
 feature: Getting Started
 hide: true
 hidefromtoc: true
-source-git-commit: 5c82b2e793596878186256f993ed3d672152556d
+source-git-commit: cf60167b9e9ee2ea2a2861a3cd3c661781dbf0b0
 workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 1%
@@ -75,7 +75,7 @@ ht-degree: 1%
 
    ![](assets/subscribe-to-system-status-notifications-3.png)
 
-1. 使用您的Adobe認證登入（如果尚未登入），或如果沒有帳戶，請按一下[建立帳戶]。**&#x200B;**
+1. 使用您的Adobe認證登入（如果尚未登入），或如果沒有帳戶，請按一下[建立帳戶]。****
 
    ![](assets/subscribe-to-system-status-notifications-4.png)
 
@@ -85,15 +85,15 @@ ht-degree: 1%
 
 1. 按一下![Experience Cloud](assets/icon-plus-sign.png)旁的&#x200B;_加號圖示_&#x200B;圖示以展開功能表。 對&#x200B;_Adobe Marketo Engage_&#x200B;執行相同操作。
 
-   ![](assets/subscribe-to-system-status-notifications-6.png)
+   ![](assets/subscribe-to-system-status-notifications-6.png){width="800" zoomable="yes"}
 
-1. 選取您想要接收相關通知的產品方案/服務，然後按一下[繼續]。**&#x200B;**
+1. 選取您想要接收相關通知的產品方案/服務，然後按一下[繼續]。****
 
    >[!TIP]
    >
    >勾選&#x200B;_Adobe Marketo Engage_&#x200B;以全部選取。
 
-   ![](assets/subscribe-to-system-status-notifications-7.png)
+   ![](assets/subscribe-to-system-status-notifications-7.png){width="800" zoomable="yes"}
 
 1. 選取所需的事件型別。
 
@@ -120,7 +120,7 @@ ht-degree: 1%
 
 1. 選取所需的區域位置和環境。 按一下&#x200B;**繼續**。
 
-   ![](assets/subscribe-to-system-status-notifications-9.png)
+   ![](assets/subscribe-to-system-status-notifications-9.png){width="800" zoomable="yes"}
 
 1. 選擇您的訂閱偏好設定&#x200B;**電子郵件**&#x200B;或&#x200B;**Slack**，然後按一下&#x200B;**繼續**。
 
