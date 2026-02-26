@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: 5c82b2e793596878186256f993ed3d672152556d
+source-git-commit: 4d8780a55bf5018394905d455a25b20634d4b021
 workflow-type: tm+mt
 source-wordcount: '9334'
 ht-degree: 99%
@@ -33,7 +33,7 @@ ht-degree: 99%
       + [圖示字彙表](getting-started/things-to-know/icon-glossary.md)
       + [傳統圖示字彙表](getting-started/things-to-know/classic-icon-glossary.md)
       + [說明中心](getting-started/things-to-know/help-center.md)
-      + [訂閱系統狀態通知](getting-started/things-to-know/subscribe-to-system-status-notifications.md)
+      + [訂閱系統狀態通知](getting-started/things-to-know/system-status-notifications.md)
       + [產品知識的AI助理](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
       + [行銷國家社群](getting-started/things-to-know/community.md)
    + 快速成果 {#quick-wins}
@@ -1597,7 +1597,7 @@ ht-degree: 99%
          + [使用註冊碼安裝 Outlook 適用的 Marketo 電子郵件增益集](product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)
          + [核發 Marketo 電子郵件增益集授權](product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md)
          + [由 IT 人員進行的 Marketo Outlook 外掛程式安裝](product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-installation-by-it.md)
-         + [由 IT 人員進行的 Marketo Outlook 外掛程式解除安裝 &#x200B;](product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)
+         + [由 IT 人員進行的 Marketo Outlook 外掛程式解除安裝 ](product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)
          + [使用 Outlook 適用的電子郵件增益集傳送及追蹤電子郵件](product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
          + [使用 Marketo 範本從 Outlook 傳送及追蹤](product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
          + [指定 Marketo 銷售洞察外掛程式管理員](product-docs/marketo-sales-insight/msi-outlook-plugin/specify-marketo-sales-insight-plugin-admins.md)
