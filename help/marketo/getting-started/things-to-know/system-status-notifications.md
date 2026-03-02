@@ -2,12 +2,10 @@
 description: 訂閱系統狀態通知 — Marketo Engage檔案 — 產品檔案
 title: 訂閱系統狀態通知
 feature: Getting Started
-hide: true
-hidefromtoc: true
 exl-id: f4404a26-3b86-4dc7-8ecb-52a24fdb09b4
-source-git-commit: 700e1c62e00ce8d8f510637233de42636e5b90cb
+source-git-commit: b17727645a56dd4417e91ee2d94f680d4dec2ca8
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '357'
 ht-degree: 1%
 
 ---
@@ -22,8 +20,6 @@ ht-degree: 1%
 
 ## 識別您的資料中心 {#identify}
 
-+++識別您的資料中心和pod/伺服器
-
 1. 在Marketo Engage的&#x200B;**管理員**&#x200B;區段中，按一下&#x200B;**我的帳戶**。
 
    ![](assets/subscribe-to-system-status-notifications-1.png)
@@ -34,39 +30,19 @@ ht-degree: 1%
 
 在&#x200B;_資料中心_&#x200B;欄位中，字母是資料中心，數字是Pod。 在上述範例中，使用者位於pod 49上的Ashburn資料中心。
 
-在[建立訂閱](#create-a-subscription)的步驟7中，此使用者會選取區域位置&#x200B;**Marketo Ashburn**&#x200B;和pod **ab49**。
+在[步驟7的](#create-a-subscription)下，此使用者會選取區域位置&#x200B;**Marketo Ashburn**&#x200B;和pod **ab49**。
 
-<table style="width:300px;">
-  <tr>
-    <th colspan="2">資料中心縮寫</th>
-  </tr>
-  <tr>
-    <td style="width:25%;">ab</td>
-    <td>Ashburn</td>
-  </tr>
-  <tr>
-    <td style="width:25%;">sj</td>
-    <td>聖荷西</td>
-  </tr>
-  <tr>
-    <td style="width:25%;">sn</td>
-    <td>雪梨</td>
-  </tr>
-  <tr>
-    <td style="width:25%;">lon</td>
-    <td>倫敦</td>
-  </tr>
-  <tr>
-    <td style="width:25%;">nld</td>
-    <td>阿姆斯特丹</td>
-  </tr>
-</table>
+**資料中心縮寫**
+
+ab：Ashburn
+sj：聖荷西
+sn：雪梨
+lon：倫敦
+nld：阿姆斯特丹
 
 >[!TIP]
 >
 >此方法也可用來識別您的訂閱所在的Real-time Personalization (RTP) pod/伺服器。
-
-+++
 
 ## 建立訂閱 {#create-a-subscription}
 
@@ -76,7 +52,7 @@ ht-degree: 1%
 
    ![](assets/subscribe-to-system-status-notifications-3.png)
 
-1. 使用您的Adobe認證登入（如果尚未登入），或如果沒有帳戶，請按一下[建立帳戶]。**&#x200B;**
+1. 使用您的Adobe認證登入（如果尚未登入），或如果沒有帳戶，請按一下[建立帳戶]。****
 
    ![](assets/subscribe-to-system-status-notifications-4.png)
 
@@ -88,7 +64,7 @@ ht-degree: 1%
 
    ![](assets/subscribe-to-system-status-notifications-6.png){width="800"}
 
-1. 選取您要接收相關通知的產品方案/服務，然後按一下[繼續]。**&#x200B;**
+1. 選取您要接收相關通知的產品方案/服務，然後按一下[繼續]。****
 
    >[!TIP]
    >
