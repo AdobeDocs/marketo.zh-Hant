@@ -5,9 +5,9 @@ feature: Getting Started
 hide: true
 hidefromtoc: true
 exl-id: 7e5d14fc-3131-4d83-b502-bd177931506c
-source-git-commit: b39db1dae33fee1a7436013845a216fa8995105e
+source-git-commit: 3d6d689bf3983ab132dc059111aa826e7e69b2f1
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -24,20 +24,20 @@ ht-degree: 0%
 
 1. 選取標題右側的AI助理圖示。
 
-   熒幕擷圖
+   ![](assets/ai-assistant-pk-1.png)
 
 1. 使用自然語言輸入所需的提示。
 
-   熒幕擷圖
+   ![](assets/ai-assistant-pk-2.png)
 
 1. 按一下藍色箭頭提交您的提示。
 
-   熒幕擷圖
+   ![](assets/ai-assistant-pk-3.png)
 
    >[!TIP]
    >
-   >使用此圖示（這裡的圖示影像）展開畫面，使用此圖示（這裡的圖示影像）檢視您的歷程記錄或開始新的交談。
+   >使用此圖示![](assets/icon-arrows.png)展開畫面，使用此圖示![](assets/icon-conversation-history.png)檢視您的歷程記錄或開始新的交談。
 
 ## 快速入門：60秒影片概觀 {#video}
 
->[!VIDEO](https://video.tv.adobe.com/v/3480126?captions=chi_hant&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3480115?learn=on){transcript=true}
