@@ -42,4 +42,4 @@ ht-degree: 0%
 
 在約一分鐘內，瞭解產品知識的AI助理如何運作。
 
->[!VIDEO](https://video.tv.adobe.com/v/3480115?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3480126?captions=chi_hant&learn=on){transcript=true}
