@@ -3,10 +3,10 @@ description: 發行說明 — 2026年1月 — Marketo檔案 — 產品檔案
 title: 發行說明 - 2026 年 1 月
 feature: Release Information
 exl-id: 82773c7e-7c25-4407-8283-b1ae21e470f5
-source-git-commit: 466f4b43124a2cb0894c4b8ce605521be1c4b4cd
+source-git-commit: de55f86fdad952d7be1e134d67d865c377a8c1e4
 workflow-type: tm+mt
-source-wordcount: '453'
-ht-degree: 29%
+source-wordcount: '497'
+ht-degree: 27%
 
 ---
 
@@ -88,11 +88,13 @@ ht-degree: 29%
 
 * **增強的房間介面體驗**：享受更新且更現代的房間介面，此介面建置於Adobe最新的Spectrum 2設計架構上，並與其他Adobe產品(例如Creative Cloud和Experience Cloud)所使用的視覺語言一致。
 
-如需完整詳細資訊，請造訪[此頁面](https://helpx.adobe.com/tw/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}。
+如需完整詳細資訊，請造訪[此頁面](https://helpx.adobe.com/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}。
 
 ## 公告 {#announcements}
 
-* **Marketo社群移轉完成**：新的Adobe Experience League社群現已上線！ [已進行數個增強功能](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673?profile.language=zh-Hant){target="_blank"}，讓您的Marketo社群體驗更佳。 [簽出](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=zh-Hant){target="_blank"}。
+* **SEO功能淘汰**： 2026年3月31日（星期二），Marketo Engage將淘汰搜尋引擎最佳化功能(SEO)。 如果您未主動使用SEO，則不必執行任何動作。 如果您最近曾使用SEO，您可以選擇匯出資料。 [了解更多](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617){target="_blank"}。
+
+* **Marketo社群移轉完成**：新的Adobe Experience League社群現已上線！ [已進行數個增強功能](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673){target="_blank"}，讓您的Marketo社群體驗更佳。 [簽出](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"}。
 
 * **REST API「access_token」參數棄用**：用於驗證 Marketo REST API 呼叫的 `access_token` 查詢參數將棄用，且於 2026 年 3 月 31 日之後即不再提供。所有新的和現有的整合都應使用「Authorization」標頭來驗證 REST API 呼叫，方法[如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
