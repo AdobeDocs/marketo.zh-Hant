@@ -3,7 +3,7 @@ description: 訂閱系統狀態通知 — Marketo Engage檔案 — 產品檔案
 title: 訂閱系統狀態通知
 feature: Getting Started
 exl-id: f4404a26-3b86-4dc7-8ecb-52a24fdb09b4
-source-git-commit: b17727645a56dd4417e91ee2d94f680d4dec2ca8
+source-git-commit: b056173fbae44ec710ae17172b4a3fc162935dda
 workflow-type: tm+mt
 source-wordcount: '357'
 ht-degree: 1%
@@ -30,15 +30,15 @@ ht-degree: 1%
 
 在&#x200B;_資料中心_&#x200B;欄位中，字母是資料中心，數字是Pod。 在上述範例中，使用者位於pod 49上的Ashburn資料中心。
 
-在[步驟7的](#create-a-subscription)下，此使用者會選取區域位置&#x200B;**Marketo Ashburn**&#x200B;和pod **ab49**。
+在[步驟7的](#create-a-subscription)下方，使用者會選取區域位置&#x200B;**Marketo Ashburn**&#x200B;和pod **ab49**。
 
 **資料中心縮寫**
 
-ab：Ashburn
-sj：聖荷西
-sn：雪梨
-lon：倫敦
-nld：阿姆斯特丹
+* ab：Ashburn
+* sj：聖荷西
+* sn：雪梨
+* lon：倫敦
+* nld：阿姆斯特丹
 
 >[!TIP]
 >
@@ -52,7 +52,7 @@ nld：阿姆斯特丹
 
    ![](assets/subscribe-to-system-status-notifications-3.png)
 
-1. 使用您的Adobe認證登入（如果尚未登入），或如果沒有帳戶，請按一下[建立帳戶]。**&#x200B;**
+1. 使用您的Adobe認證登入（如果尚未登入），或如果沒有帳戶，請按一下[建立帳戶]。****
 
    ![](assets/subscribe-to-system-status-notifications-4.png)
 
@@ -64,7 +64,7 @@ nld：阿姆斯特丹
 
    ![](assets/subscribe-to-system-status-notifications-6.png){width="800"}
 
-1. 選取您要接收相關通知的產品方案/服務，然後按一下[繼續]。**&#x200B;**
+1. 選取您要接收相關通知的產品方案/服務，然後按一下[繼續]。****
 
    >[!TIP]
    >
