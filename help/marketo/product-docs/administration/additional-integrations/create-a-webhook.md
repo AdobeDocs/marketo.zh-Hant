@@ -51,4 +51,4 @@ ht-degree: 3%
 
 >[!NOTE]
 >
->深入瞭解[[!DNL Webhooks]](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}。
+>深入瞭解[[!DNL Webhooks]](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}。
