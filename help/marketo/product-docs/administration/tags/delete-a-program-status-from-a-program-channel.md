@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360278
-description: 從方案頻道刪除方案狀態 — Marketo檔案 — 產品檔案
+description: 如何從管理員中的管道移除標籤下的計畫狀態，包括何時必須隱藏狀態而不是刪除狀態。
 title: 從方案管道中刪除方案狀態
 exl-id: 01bda910-cd6d-49df-a300-8163701482cd
 feature: Tags
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 18%
+source-wordcount: '128'
+ht-degree: 16%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360317
-description: 將人員分割區指派至工作區 — Marketo檔案 — 產品檔案
+description: 瞭解如何編輯將哪些人員分割區指派給工作區。
 title: 將人員分割指派給工作區
 exl-id: 84c539f0-ca68-4be3-a462-cbe9d191dbb6
 feature: Workspaces
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 12%
+source-wordcount: '131'
+ht-degree: 15%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 12%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 >[!PREREQUISITES]
 >

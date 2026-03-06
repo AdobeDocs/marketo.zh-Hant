@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11382122
-description: 啟用稽核軌跡 — Marketo檔案 — 產品檔案
+description: 啟用角色的稽核軌跡和登入歷史記錄，並透過管理員許可權將角色指派給使用者。
 title: 啟用稽核軌跡
 exl-id: 3ab2d7b2-1be1-4b3f-a9cc-d3edfa963679
 feature: Audit Trail
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '223'
 ht-degree: 5%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2951259
-description: 自訂欄位型別字彙表 — Marketo檔案 — 產品檔案
+description: Marketo中自訂欄位型別的參考，包括布林值、貨幣、日期、電子郵件、公式等。
 title: 自訂欄位類型字彙表
 exl-id: 495d4deb-28f1-4044-98d3-27c20756fe73
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '594'
+source-wordcount: '601'
 ht-degree: 3%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360323
-description: 編輯現有的人員分割區 — Marketo檔案 — 產品檔案
+description: 編輯人員分割區名稱和工作區指派的步驟。
 title: 編輯現有的人員分割
 exl-id: 23353e93-f0f0-4f0d-b833-d870ff345b1a
 feature: Partitions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 16%
+source-wordcount: '94'
+ht-degree: 19%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 16%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 >[!PREREQUISITES]
 >

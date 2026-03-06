@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360352
-description: 設定SOAP API設定 — Marketo檔案 — 產品檔案
+description: 在「管理網站服務」中，為開發人員設定SOAP API加密金鑰並取得端點詳細資訊。
 title: 設定您的 SOAP API 設定
 exl-id: a848f5c5-b3ca-40cc-9202-467f26d3916f
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 22%
+source-wordcount: '79'
+ht-degree: 24%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 22%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 1. 前往「**[!UICONTROL Admin]**」區域。
 
@@ -39,4 +39,4 @@ ht-degree: 22%
 
 >[!MORELIKETHIS]
 >
->[SOAP API檔案](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/soap/soap-api)
+>[SOAP API檔案](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api)

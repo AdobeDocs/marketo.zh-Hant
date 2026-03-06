@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11378468
-description: 在稽核軌跡中篩選 — Marketo檔案 — 產品檔案
+description: 依時間範圍、資產型別、使用者和動作篩選稽核軌跡，以尋找特定變更。
 title: 稽核軌跡的篩選
 exl-id: 7928dfff-4d3f-42b4-94ad-0147a2fc3433
 feature: Audit Trail
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 15%
+source-wordcount: '136'
+ht-degree: 14%
 
 ---
 

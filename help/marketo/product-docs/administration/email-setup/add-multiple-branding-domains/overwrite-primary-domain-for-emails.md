@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11378051
-description: 覆寫電子郵件的主要網域 — Marketo檔案 — 產品檔案
+description: 覆寫個別電子郵件的主要品牌網域，以變更傳送連結時的品牌方式。
 title: 覆寫電子郵件的主要網域
 exl-id: ebf5d581-db90-4b83-8357-abdb34ca1e63
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 12%
+source-wordcount: '89'
+ht-degree: 13%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 12%
 
 您可以根據電子郵件覆寫主要品牌網域。 這會變更傳送電子郵件時連結的品牌化方式。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/overwrite-primary-domain-for-emails-1.png)
 

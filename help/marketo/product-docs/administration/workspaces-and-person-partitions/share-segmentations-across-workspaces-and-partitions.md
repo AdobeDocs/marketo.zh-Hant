@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7515767
-description: 跨工作區和分割區共用區段 — Marketo檔案 — 產品檔案
+description: 跨工作區和分割區共用分割區的規則和步驟，包括在預設工作區中建立分割區的限制和提示。
 title: 跨工作區和分割共用細分
 exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
 feature: Partitions, Workspaces
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '466'
-ht-degree: 2%
+source-wordcount: '477'
+ht-degree: 3%
 
 ---
 
@@ -72,7 +72,7 @@ Marketo擅長挑選適合方案或智慧行銷活動的人員。 不過，對於
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-6.png)
 
-1. 在資料夾上按一下滑鼠右鍵，然後選取&#x200B;**[!UICONTROL Share Folder]**。
+1. 以滑鼠右鍵按一下資料夾，然後選取 **[!UICONTROL Share Folder]**。
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-7.png)
 

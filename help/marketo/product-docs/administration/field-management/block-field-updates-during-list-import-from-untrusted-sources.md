@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360335
-description: 從不受信任的來源匯入清單期間封鎖欄位更新 — Marketo檔案 — 產品檔案
+description: 在從不受信任的來源匯入清單期間，封鎖金鑰欄位不被覆寫，以保護現有資料。
 title: 清單匯入期間封鎖來自不信任來源的欄位更新
 exl-id: 0fd59f0c-6cb9-442c-937b-da18a4466873
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 13%
+source-wordcount: '191'
+ht-degree: 14%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 13%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 ## 封鎖來自不受信任來源的欄位更新 {#blocking-field-updates-from-untrusted-sources}
 

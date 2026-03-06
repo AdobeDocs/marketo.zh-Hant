@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10093688
-description: 新增Marketo自訂物件欄位 — Marketo檔案 — 產品檔案
+description: 將欄位新增至自訂物件的步驟，包括顯示名稱、說明和資料型別。
 title: 新增 Marketo 自訂物件欄位
 exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '283'
 ht-degree: 5%
 
 ---

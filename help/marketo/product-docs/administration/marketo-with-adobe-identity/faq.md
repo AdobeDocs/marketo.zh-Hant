@@ -1,12 +1,12 @@
 ---
-description: Adobe Identity Management 常見問題集 — Marketo 文件 — 產品文件
+description: 有關適用於Marketo Engage的Adobe身分的常見問題集，包括移轉、URL、SSO、產品管理員與Marketo管理員的比較，以及允許清單。
 title: Adobe Identity Management 常見問題集
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 95ed91736b7276dd7a5b9e09958c1f09832ae719
-workflow-type: ht
-source-wordcount: '1579'
-ht-degree: 100%
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+workflow-type: tm+mt
+source-wordcount: '1591'
+ht-degree: 98%
 
 ---
 

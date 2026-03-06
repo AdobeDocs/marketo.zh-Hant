@@ -1,12 +1,12 @@
 ---
-description: Adobe Identity Management概觀 — Marketo檔案 — 產品檔案
+description: 適用於Marketo Engage的Adobe Identity Management概觀，包括移轉時間、Admin Console使用者管理和設定檔層級，例如系統管理員和產品管理員。
 title: Adobe Identity Management 概觀
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '445'
-ht-degree: 2%
+source-wordcount: '462'
+ht-degree: 11%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->如果您想要實作單一登入，而且您的訂閱已上線到Adobe Identity而未在Adobe組織中實作SSO，請提交票證至[Marketo支援](https://nation.marketo.com/){target="_blank"}，並將主題指定為「在Admin Console上實作Marketo SSO」。
+>如果您想要實作單一登入，而且您的訂閱已加入 Adobe Identity，但在 Adobe 組織中未實作 SSO，請提交票證至 [Marketo 支援](https://nation.marketo.com/){target="_blank"}，並將主題指定為「Admin Console 上的 Marketo，實作 SSO」。
 
 ## 設定檔層級 {#profile-levels}
 
@@ -55,7 +55,7 @@ ht-degree: 2%
  </tr>
 </table>
 
-## 常見問題 {#faq}
+## 常見問題集 {#faq}
 
 常見問題集[可在此找到](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}。
 

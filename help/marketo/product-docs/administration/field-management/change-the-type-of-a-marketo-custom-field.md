@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360331
-description: 變更Marketo自訂欄位的型別 — Marketo檔案 — 產品檔案
+description: 如何變更欄位管理中自訂欄位的資料型別（無法變更分數和公式欄位）。
 title: 變更 Marketo 自訂欄位的類型
 exl-id: b9b3dfc5-cb5f-4233-9fe6-f8fdf111d48c
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 22%
+source-wordcount: '102'
+ht-degree: 20%
 
 ---
 

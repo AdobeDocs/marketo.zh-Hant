@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10617187
-description: 瞭解隱私設定 — Marketo檔案 — 產品檔案
+description: 隱私權和追蹤選項概述，包括「不追蹤瀏覽器」支援、選擇退出Cookie，以及網頁訪客的匿名化IP追蹤。
 title: 了解隱私權設定
 exl-id: 1fde9011-02a9-4ec9-bfa4-c56a52ce1eed
 feature: Administration
-source-git-commit: eccf4a66f5d3c581a82a363918b40ae37aa73576
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '493'
 ht-degree: 1%
 
 ---
@@ -68,7 +68,7 @@ Marketo為行銷人員提供了取得網頁訪客同意追蹤他們的方法。 
 
 行銷人員可使用匿名化的IP位址追蹤使用者，以保留隱私權。 若要這麼做，請將此程式碼新增至網站內嵌的RTP或[!DNL Munchkin] Javascript。
 
-* 針對[!DNL Munchkin]，只要將`{"anonymizeIP",true}`新增到[init函式](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"}即可。
+* 針對[!DNL Munchkin]，只要將`{"anonymizeIP",true}`新增到[init函式](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"}即可。
 
 * 針對Web Personalization (RTP)，請將此專案新增至Javascript：
 

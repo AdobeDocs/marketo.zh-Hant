@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360274
-description: 管理標籤值 — Marketo檔案 — 產品檔案
+description: 如何新增、隱藏及顯示程式標籤的標籤值，包括選取標籤型別及使用「顯示隱藏專案」選項。
 title: 管理標記值
 exl-id: cb733007-fc8b-4d7a-a341-b40ea5d4febe
 feature: Tags
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 8%
+source-wordcount: '172'
+ht-degree: 9%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 8%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 >[!PREREQUISITES]
 >

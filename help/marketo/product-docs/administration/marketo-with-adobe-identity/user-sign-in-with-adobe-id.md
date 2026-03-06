@@ -1,12 +1,12 @@
 ---
-description: 使用者透過 Adobe ID 登入 - Marketo 文件 - 產品文件
+description: 具有Adobe身分識別的使用者使用「繼續使用AdobeID」連結和Marketo Engage憑證登入Adobe的步驟。
 title: 使用者透過 Adobe ID 登入
 exl-id: d17f4de3-491c-45a7-b4b8-f68b9bd35124
 feature: Marketo with Adobe Identity
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '91'
-ht-degree: 100%
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+workflow-type: tm+mt
+source-wordcount: '103'
+ht-degree: 79%
 
 ---
 

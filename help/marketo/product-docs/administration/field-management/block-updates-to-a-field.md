@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360291
-description: 封鎖欄位更新 — Marketo檔案 — 產品檔案
+description: 封鎖欄位的更新，以便在記錄的存留期內保留所寫入的第一個值。
 title: 封鎖欄位更新
 exl-id: 763097a3-cfa0-4df7-bfd1-40332b8dda1e
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 9%
+source-wordcount: '167'
+ht-degree: 10%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 9%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 1. 前往「**[!UICONTROL Admin]**」區域。
 

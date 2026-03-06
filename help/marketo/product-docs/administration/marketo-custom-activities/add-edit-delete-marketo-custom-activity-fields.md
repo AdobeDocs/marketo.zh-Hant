@@ -1,10 +1,10 @@
 ---
 unique-page-id: 10100275
-description: 新增/編輯/刪除Marketo自訂活動欄位 — Marketo檔案 — 產品檔案
+description: 如何在自訂活動上新增、編輯或刪除欄位。
 title: 新增/編輯/刪除 Marketo 自訂活動欄位
 exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
 feature: Custom Activities
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 14%

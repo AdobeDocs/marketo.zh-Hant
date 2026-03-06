@@ -1,13 +1,13 @@
 ---
 unique-page-id: 6848782
-description: 語言動態顯示取消訂閱訊息 — Marketo檔案 — 產品檔案
+description: 使用動態內容和分段來顯示不同語言的取消訂閱訊息和連結。
 title: 讓您的取消訂閱訊息使用不同語言動態顯示
 exl-id: 953a7fd8-b1f2-4f3f-b889-87d1f0471e0d
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '434'
-ht-degree: 6%
+source-wordcount: '438'
+ht-degree: 7%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 6%
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-2.png)
 
-1. 為區段&#x200B;**[!UICONTROL Preferred Language]**&#x200B;命名。 按一下&#x200B;**[!UICONTROL Add Segment]**。 輸入語言。
+1. 為區段&#x200B;**[!UICONTROL Preferred Language]**&#x200B;命名。 按一下「**[!UICONTROL Add Segment]**」。 輸入語言。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-3.png)
 
@@ -53,7 +53,7 @@ ht-degree: 6%
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-5.png)
 
-1. 前往&#x200B;**[!UICONTROL Smart List]**&#x200B;標籤。 在搜尋欄位中輸入&#x200B;**[!UICONTROL Preferred Language]**。 將篩選器拖放至畫布上。
+1. 前往「**[!UICONTROL Smart List]**」索引標籤。 在搜尋欄位中輸入&#x200B;**[!UICONTROL Preferred Language]**。 將篩選器拖放至畫布上。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-6.png)
 

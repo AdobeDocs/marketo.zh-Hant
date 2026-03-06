@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10100272
-description: 發佈自訂活動 — Marketo檔案 — 產品檔案
+description: 發佈自訂活動的步驟。
 title: 發佈自訂活動
 exl-id: 16ac19ed-8c31-4ddf-819e-72a0ec8a3904
 feature: Custom Activities
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 30%
+source-wordcount: '58'
+ht-degree: 31%
 
 ---
 

@@ -1,11 +1,11 @@
 ---
-description: Marketo Engage支援移轉 — Marketo檔案 — 產品檔案
+description: 綜覽移轉至Adobe Admin Console和Experience League的支援，用於使用者管理和支援服務單提交，包括案例移轉和PSA角色。
 title: Marketo Engage 支援移轉
 feature: Marketo with Adobe Identity
 exl-id: 07e4377a-73d7-4293-938c-ae87c769c128
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '468'
+source-wordcount: '484'
 ht-degree: 2%
 
 ---
@@ -40,11 +40,11 @@ ht-degree: 2%
 
 ## 其他資源 {#additional-resources}
 
-* 瞭解如何使用[Adobe Admin Console來管理您整個組織的Adobe權益](https://helpx.adobe.com/tw/enterprise/using/admin-roles.html){target="_blank"}。
+* 瞭解如何使用[Adobe Admin Console來管理您整個組織的Adobe權益](https://helpx.adobe.com/enterprise/using/admin-roles.html){target="_blank"}。
 
 * 如需有關如何使用Adobe ID [登入Marketo Engage的詳細資訊，請參閱此處](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}。
 
-* 深入瞭解[Adobe Experience League](https://experienceleague.adobe.com/zh-hant){target="_blank"}。
+* 深入瞭解[Adobe Experience League](https://experienceleague.adobe.com/){target="_blank"}。
 
 ## 仍有問題嗎？ {#still-have-questions}
 

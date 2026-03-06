@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11378713
-description: 觸發自訂物件變更 — Marketo檔案 — 產品檔案
+description: 如何在Marketo自訂物件的智慧行銷活動智慧清單中使用自訂物件新增或變更觸發器，以及新增觸發器和設定限制的步驟。
 title: 觸發自訂物件變更
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '198'
 ht-degree: 6%
 
 ---

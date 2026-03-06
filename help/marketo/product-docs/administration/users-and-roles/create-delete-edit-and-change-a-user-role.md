@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360198
-description: 建立、刪除、編輯和變更使用者角色 — Marketo檔案 — 產品檔案
+description: 建立、刪除和編輯使用者角色的步驟，包括命名角色、選取許可權以及無法變更的系統角色。
 title: 建立、刪除、編輯和變更使用者角色
 exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '268'
-ht-degree: 13%
+source-wordcount: '276'
+ht-degree: 15%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 13%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 >[!IMPORTANT]
 >
@@ -83,7 +83,7 @@ ht-degree: 13%
 
    ![](assets/create-delete-edit-and-change-a-user-role-10.png)
 
-1. 按一下「**[!UICONTROL Roles]**」標籤。
+1. 按一下「**[!UICONTROL Roles]**」索引標籤。
 
    ![](assets/create-delete-edit-and-change-a-user-role-11.png)
 

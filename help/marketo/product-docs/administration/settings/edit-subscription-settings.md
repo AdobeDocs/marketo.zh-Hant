@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10099785
-description: 編輯訂閱設定 — Marketo檔案 — 產品檔案
+description: 如何為您的Marketo訂閱提供唯一的顯示名稱，以便您分辨多個訂閱。
 title: 編輯訂閱設定
 exl-id: 005eaf79-60f5-45d5-bf73-e55f93553d64
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 10%
+source-wordcount: '90'
+ht-degree: 11%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 10%
 
 例如，如果您在生產環境與沙箱執行個體中工作，您可以將一個訂閱命名為&#x200B;**Marketo生產環境**，將另一個&#x200B;**Marketo沙箱**&#x200B;命名。
 
-1. 移至&#x200B;**[!UICONTROL Admin]**。
+1. 前往 **[!UICONTROL Admin]**。
 
    ![](assets/edit-subscription-settings-1.png)
 

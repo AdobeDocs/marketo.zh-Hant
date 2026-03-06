@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359906
-description: 管理Marketo使用者 — Marketo檔案 — 產品檔案
+description: 對於不使用Adobe Identity的訂閱，建立及刪除使用者、重設密碼、編輯使用者資訊和許可權的步驟。
 title: 管理 Marketo 使用者
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '381'
 ht-degree: 7%
 
 ---

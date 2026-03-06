@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360217
-description: 變更Analytics的歸因設定 — Marketo檔案 — 產品檔案
+description: 如何在Revenue Cycle Analytics中設定首次接觸和多點接觸歸因、潛在客戶轉換，以及受行銷影響的機會選項。
 title: 變更分析的歸因設定
 exl-id: 4740b0fa-ddaf-46ed-87d6-8b3f8d35afe3
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '179'
 ht-degree: 8%
 
 ---

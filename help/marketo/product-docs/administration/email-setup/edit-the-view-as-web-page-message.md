@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360253
-description: 編輯「以網頁方式檢視」訊息 — Marketo檔案 — 產品檔案
+description: 自訂「管理員電子郵件」中的「以網頁連結文字檢視」和「HTML」，同時保持所需變數不變。
 title: 編輯「以網頁形式檢視」訊息
 exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
 feature: Email Setup
-source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 16%
+source-wordcount: '162'
+ht-degree: 17%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 16%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 ## 編輯「以網頁形式檢視」訊息 {#edit-the-view-as-web-page-message-1}
 

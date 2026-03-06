@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360358
-description: 將使用者登入限製為僅限SSO - Marketo檔案 — 產品檔案
+description: 所有使用者均需使用SSO，才能透過管理員登入設定略過SSO安全性（不適用於Adobe IMS）。
 title: 限制使用者只可透過 SSO 登入
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '228'
-ht-degree: 8%
+source-wordcount: '239'
+ht-degree: 9%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 8%
 
 >[!IMPORTANT]
 >
->本文不適用於[已啟用IMS的Adobe &#x200B;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md) Marketo訂閱。
+>本文不適用於[已啟用IMS的Adobe ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md) Marketo訂閱。
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 1. 前往「**[!UICONTROL Admin]**」區域。
 

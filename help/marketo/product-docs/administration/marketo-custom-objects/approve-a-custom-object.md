@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10094188
-description: 核准自訂物件 — Marketo檔案 — 產品檔案
+description: 如何在Admin中核准新的或已編輯的自訂物件，包括一對多、多對多和中介物件的需求。
 title: 核准自訂物件
 exl-id: 8bae94df-91fe-4722-8c75-c26df882c65d
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '259'
-ht-degree: 8%
+source-wordcount: '269'
+ht-degree: 7%
 
 ---
 

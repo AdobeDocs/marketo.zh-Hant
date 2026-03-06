@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360337
-description: 建立並使用串連字串（公式）欄位 — Marketo檔案 — 產品檔案
+description: 結合來自多個欄位的值，或使用Marketo Engage中的公式欄位建立條件值。
 title: 建立和使用串連字串 (公式) 欄位
 exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '161'
 ht-degree: 13%
 
 ---

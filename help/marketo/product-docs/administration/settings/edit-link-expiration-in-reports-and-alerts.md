@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360213
-description: 在報表和警報中編輯連結過期 — Marketo檔案 — 產品檔案
+description: 如何變更報告訂閱電子郵件中的連結保留有效天數。
 title: 編輯報告和警報中的連結期限
 exl-id: 9be08798-c413-451b-9b67-893042668061
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 18%
+source-wordcount: '95'
+ht-degree: 21%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 18%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區段。
 

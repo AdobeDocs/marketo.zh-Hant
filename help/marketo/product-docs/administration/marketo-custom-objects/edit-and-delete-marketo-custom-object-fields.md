@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10095453
-description: 編輯和刪除Marketo自訂物件欄位 — Marketo檔案 — 產品檔案
+description: 如何使用欄位動作編輯或刪除未核准自訂物件上的欄位。
 title: 編輯和刪除 Marketo 自訂物件欄位
 exl-id: 42fb7a24-0669-440b-a15e-3b8f0f4c5105
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '121'
 ht-degree: 12%
 
 ---

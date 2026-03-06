@@ -1,12 +1,12 @@
 ---
-description: 快速指南 - Marketo 文件 - 產品文件
+description: 提供快速參考資料，內含設定Marketo Engage與Adobe身分識別的連結，包括系統管理員設定、使用者管理、僅限API的使用者和登入。
 title: 快速指南
 exl-id: eb854ec8-fabb-477d-977b-9dc7e7d9f24f
 feature: Marketo with Adobe Identity
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '111'
-ht-degree: 100%
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+workflow-type: tm+mt
+source-wordcount: '128'
+ht-degree: 82%
 
 ---
 

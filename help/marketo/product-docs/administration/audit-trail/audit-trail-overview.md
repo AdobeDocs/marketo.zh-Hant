@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11377945
-description: 稽核軌跡&rbrack;概觀 — Marketo檔案 — 產品檔案
+description: 稽核軌跡概觀，以及它如何在Marketo執行個體中擷取六個月變更和登入活動的歷史記錄。
 title: 稽核軌跡概觀
 exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
 feature: Audit Trail
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '332'
-ht-degree: 1%
+source-wordcount: '345'
+ht-degree: 2%
 
 ---
 
@@ -37,7 +37,7 @@ Marketo將稽核[建立、編輯和刪除](/help/marketo/product-docs/administra
 
 * Design Studio資產
 * 所有Marketo計畫
-* 智慧型行銷活動
+* 智慧行銷活動
 * 清單（智慧/靜態）
 * 使用者（管理員）
 * 角色和許可權（管理員）

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10093192
-description: 建立Marketo自訂物件 — Marketo檔案 — 產品檔案
+description: 為一對多或多對多結構建立Marketo自訂物件的步驟，包括顯示名稱、API名稱和「在潛在客戶詳細資料中顯示」。
 title: 建立 Marketo 自訂物件
 exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '616'
+source-wordcount: '629'
 ht-degree: 5%
 
 ---

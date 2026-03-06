@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10095636
-description: 啟用程式碼片段的免草稿 — Marketo檔案 — 產品檔案
+description: 瞭解如何啟用代碼片段的不草稿功能，讓代碼片段變更可套用至已核准的資產，而不需要新的草稿。
 title: 啟用程式碼片段無草稿
 exl-id: 8a6b6f18-175f-417c-9937-4e000afd71af
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 11%
+source-wordcount: '144'
+ht-degree: 12%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 11%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 1. 前往「**[!UICONTROL Admin]**」區域。
 

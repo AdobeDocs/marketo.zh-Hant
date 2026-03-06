@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360276
-description: 隱藏/取消隱藏方案頻道 — Marketo檔案 — 產品檔案
+description: 使用中時隱藏程式頻道的步驟，或使用「顯示隱藏專案」核取方塊取消隱藏程式的步驟。
 title: 隱藏/取消隱藏方案管道
 exl-id: 17061f87-85c9-4940-bd8e-590e4c7c04f1
 feature: Tags
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 15%
+source-wordcount: '105'
+ht-degree: 17%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 15%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 如果任何程式未使用某個程式頻道[，您可以](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md)刪除它。  不過，一旦使用，我們就需要加以儲存。  不過，如果您不再需要它，可以將其隱藏。
 

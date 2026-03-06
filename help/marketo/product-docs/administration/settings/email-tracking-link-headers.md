@@ -1,12 +1,12 @@
 ---
-description: 電子郵件追蹤連結標題 — Marketo檔案 — 產品檔案
+description: 如何透過IT檢閱指引在「管理員」的「電子郵件」底下自訂電子郵件追蹤連結標題，包括HTTPS的嚴格傳輸安全性。
 title: 電子郵件追蹤連結標頭
 exl-id: 2db1f1b3-3afe-4710-a8b1-b06fbf09ec8c
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 9%
+source-wordcount: '110'
+ht-degree: 8%
 
 ---
 

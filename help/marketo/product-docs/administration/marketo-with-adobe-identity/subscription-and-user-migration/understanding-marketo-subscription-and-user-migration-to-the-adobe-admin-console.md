@@ -1,12 +1,12 @@
 ---
-description: 了解 Marketo 訂閱和使用者遷移至 Adobe Admin Console - Marketo 文件 - 產品文件
+description: 訂閱和使用者移轉至Adobe Admin Console時會有何改變，包括系統管理員和產品管理員角色、使用Adobe身分識別、URL和移轉時間表登入。
 title: 了解 Marketo 訂閱和使用者遷移至 Adobe Admin Console
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '1571'
-ht-degree: 100%
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+workflow-type: tm+mt
+source-wordcount: '1584'
+ht-degree: 98%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10093188
-description: 瞭解Marketo自訂物件 — Marketo檔案 — 產品檔案
+description: 追蹤業務特定量度的自訂物件概觀，包括一對多和多對多關係、篩選器、觸發器，以及在Admin中存取這些物件的位置。
 title: 了解 Marketo 自訂物件
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '689'
+source-wordcount: '703'
 ht-degree: 2%
 
 ---
@@ -71,7 +71,7 @@ ht-degree: 2%
 
 建立自訂物件結構後，當您上傳特定自訂物件資料時，自訂物件會自動使用自訂物件中的連結欄位與資料庫中的人員建立關聯。 您可以從人員詳細資訊頁面上的[!UICONTROL Custom Objects]索引標籤檢視資訊。
 
-1. 移至&#x200B;**[!UICONTROL Database]**。
+1. 前往 **[!UICONTROL Database]**。
 
    ![](assets/understanding-marketo-custom-objects-5.png)
 

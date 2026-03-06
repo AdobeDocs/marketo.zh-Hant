@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360307
-description: 啟用或停用寶箱功能 — Marketo檔案 — 產品檔案
+description: 如何開啟或關閉實驗寶箱功能。
 title: 啟用或停用藏寶箱功能
 exl-id: 79cbe2af-9a00-4798-8b1d-1db475d42ab1
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
 source-wordcount: '79'
-ht-degree: 21%
+ht-degree: 25%
 
 ---
 
@@ -17,7 +17,7 @@ The Treasure Chest提供尚未完全支援的有趣實驗功能。
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 1. 前往「**[!UICONTROL Admin]**」區域。
 

@@ -1,12 +1,12 @@
 ---
-description: 新增或移除使用者 — Marketo檔案 — 產品檔案
+description: 如何在Adobe Admin Console中新增或移除Marketo Engage使用者，方法是選取產品設定檔並管理使用者索引標籤。
 title: 新增或移除使用者
 exl-id: b1087d41-b548-47bd-91b7-282dc902cba3
 feature: Marketo with Adobe Identity
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '232'
-ht-degree: 6%
+source-wordcount: '246'
+ht-degree: 9%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 6%
 
    ![](assets/add-or-remove-a-user-3.png)
 
-1. 按一下「**[!UICONTROL Users]**」標籤。
+1. 按一下「**[!UICONTROL Users]**」索引標籤。
 
    ![](assets/add-or-remove-a-user-4.png)
 
@@ -74,7 +74,7 @@ ht-degree: 6%
 
    ![](assets/add-or-remove-a-user-11.png)
 
-1. 按一下「**[!UICONTROL Users]**」標籤。
+1. 按一下「**[!UICONTROL Users]**」索引標籤。
 
    ![](assets/add-or-remove-a-user-12.png)
 
@@ -82,7 +82,7 @@ ht-degree: 6%
 
    ![](assets/add-or-remove-a-user-13.png)
 
-1. 按一下&#x200B;**[!UICONTROL Remove User]**&#x200B;確認。
+1. 按一下 **[!UICONTROL Remove User]** 確認。
 
    ![](assets/add-or-remove-a-user-14.png)
 

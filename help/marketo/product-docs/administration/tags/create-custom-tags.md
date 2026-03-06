@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2950660
-description: 建立自訂標籤 — Marketo檔案 — 產品檔案
+description: 如何使用值建立新的標籤型別、選擇套用到的程式型別，並將標籤設定為必要或選用。
 title: 建立自訂標記
 exl-id: f8efcbf5-7557-4cdf-b4e6-29d25b2fdd75
 feature: Tags
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '205'
-ht-degree: 3%
+source-wordcount: '222'
+ht-degree: 4%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 3%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 ## 建立新的標籤型別 {#create-a-new-tag-type}
 

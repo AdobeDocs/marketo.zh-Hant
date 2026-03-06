@@ -1,12 +1,12 @@
 ---
-description: 新增或移除產品管理員 — Marketo檔案 — 產品檔案
+description: 在Adobe Admin Console中新增或移除產品管理員的步驟。
 title: 新增或移除產品管理員
 exl-id: 9c48b830-cce6-48bd-88c4-4d02e3ada2b1
 feature: Marketo with Adobe Identity
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '275'
-ht-degree: 6%
+source-wordcount: '277'
+ht-degree: 9%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 6%
 
    ![](assets/add-or-remove-a-product-admin-3.png)
 
-1. 按一下「**[!UICONTROL Admins]**」標籤。
+1. 按一下「**[!UICONTROL Admins]**」索引標籤。
 
    ![](assets/add-or-remove-a-product-admin-4.png)
 
@@ -82,7 +82,7 @@ ht-degree: 6%
 
    ![](assets/add-or-remove-a-product-admin-13.png)
 
-1. 按一下「**[!UICONTROL Admins]**」標籤。
+1. 按一下「**[!UICONTROL Admins]**」索引標籤。
 
    ![](assets/add-or-remove-a-product-admin-14.png)
 
@@ -90,7 +90,7 @@ ht-degree: 6%
 
    ![](assets/add-or-remove-a-product-admin-15.png)
 
-1. 按一下&#x200B;**[!UICONTROL Remove Admin]**&#x200B;確認。
+1. 按一下 **[!UICONTROL Remove Admin]** 確認。
 
    ![](assets/add-or-remove-a-product-admin-16.png)
 

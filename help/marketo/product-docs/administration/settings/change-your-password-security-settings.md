@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360185
-description: 變更您的密碼安全性設定 — Marketo檔案 — 產品檔案
+description: 如何設定訂閱密碼原則，包括範本、到期日和非作用中工作階段逾時。
 title: 變更您的密碼安全性設定
 exl-id: cda7ec70-32aa-4e0a-86b2-eb9bea70ef72
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 11%
+source-wordcount: '158'
+ht-degree: 12%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 11%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 1. 前往「**[!UICONTROL Admin]**」區域。
 

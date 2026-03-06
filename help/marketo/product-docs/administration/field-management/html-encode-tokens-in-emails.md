@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720461
-description: 電子郵件中的HTML編碼權杖 — Marketo檔案 — 產品檔案
+description: 啟用或停用電子郵件中使用之人員和公司權杖的HTML編碼，以確保正確傳輸。
 title: 電子郵件中的 HTML 編碼權杖
 exl-id: aeac6eec-0f43-4cf3-a850-d193e4fc194d
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 16%
+source-wordcount: '99'
+ht-degree: 18%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 16%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 >[!NOTE]
 >

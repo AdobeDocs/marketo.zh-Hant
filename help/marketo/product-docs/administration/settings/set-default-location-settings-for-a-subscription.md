@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359902
-description: 設定訂閱的預設位置設定 — Marketo檔案 — 產品檔案
+description: 管理員如何檢視和編輯訂閱的預設位置設定，包括語言、地區設定、時區和貨幣。
 title: 設定訂閱的預設位置設定
 exl-id: 9181e22b-be60-4dc0-bc75-f4583ee5dbea
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '241'
 ht-degree: 11%
 
 ---

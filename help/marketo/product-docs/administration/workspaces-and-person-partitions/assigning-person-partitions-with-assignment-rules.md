@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360327
-description: 使用指派規則指派人員分割區 — Marketo檔案 — 產品檔案
+description: 如何設定指派規則，以將人員從您的CRM路由到正確的人員分割區。
 title: 使用指派規則指派人員分割
 exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
 feature: Partitions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 11%
+source-wordcount: '166'
+ht-degree: 12%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 11%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 >[!PREREQUISITES]
 >

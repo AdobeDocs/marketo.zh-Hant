@@ -1,11 +1,11 @@
 ---
-description: 在 [!DNL Velocity Scripting] - Marketo檔案 — 產品檔案中變更自訂物件擷取限制
+description: 增加或減少電子郵件中 [!DNL Velocity] 指令碼的父級自訂物件擷取限制（10至100）。
 title: 變更 [!DNL Velocity Scripting]中的自訂物件擷取限制
 exl-id: ef45205e-421d-4d1d-8c9d-7d627326a90c
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
@@ -22,20 +22,20 @@ ht-degree: 0%
 
 ## 如何變更限制 {#how-to-change-the-limit}
 
-1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區段。
+1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區段。
 
    ![](assets/change-custom-object-retrieval-limits-in-velocity-scripting-1.png)
 
-1. 按一下&#x200B;**[!UICONTROL 電子郵件]**。
+1. 按一下「**[!UICONTROL Email]**」。
 
    ![](assets/change-custom-object-retrieval-limits-in-velocity-scripting-2.png)
 
-1. 在[!UICONTROL 自訂物件擷取限制]表格中，輸入新的[!UICONTROL 父擷取限制]，然後按一下&#x200B;**[!UICONTROL 儲存變更]**。
+1. 在[!UICONTROL Custom Object Retrieval Limits]表格中，輸入新的[!UICONTROL Parent Retrieval Limit]並按一下&#x200B;**[!UICONTROL Save Changes]**。
 
    ![](assets/change-custom-object-retrieval-limits-in-velocity-scripting-3.png)
 
 >[!NOTE]
 >
->[!UICONTROL 父擷取限制]值必須在10到100的範圍內。 已自動為您設定[!UICONTROL 子擷取限制]。 若要這麼做，請將1000除以[!UICONTROL 父擷取限制]。 例如，如果您將父限制設為50，子限制會變成20 (1000 ÷ 50 = 20)。
+>[!UICONTROL Parent Retrieval Limit]值必須在10 - 100的範圍內。 系統會自動為您設定[!UICONTROL Child Retrieval Limit]。 這是以1000除以[!UICONTROL Parent Retrieval Limit]來完成。 例如，如果您將父限制設為50，子限制會變成20 (1000 ÷ 50 = 20)。
 
 很好！ 您現在可以從[!DNL Velocity script]存取更多自訂物件。

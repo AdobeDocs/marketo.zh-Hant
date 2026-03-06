@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360251
-description: 編輯取消訂閱訊息 — Marketo檔案 — 產品檔案
+description: 變更管理員電子郵件中預設取消訂閱文字和附加至行銷電子郵件的連結。
 title: 編輯取消訂閱訊息
 exl-id: 68a3ebc1-b2c9-4e6c-bb13-e5a94c9596d2
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 8%
+source-wordcount: '133'
+ht-degree: 10%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 8%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 當您傳送行銷電子郵件（非[可操作](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)）時，取消訂閱文字和連結會附加至底部。 您可以變更預設值。 方法如下。
 

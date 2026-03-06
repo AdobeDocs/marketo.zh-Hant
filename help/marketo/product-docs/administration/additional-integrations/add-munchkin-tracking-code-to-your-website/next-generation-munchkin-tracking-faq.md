@@ -1,14 +1,14 @@
 ---
 unique-page-id: 10096583
-description: 新一代 [!DNL Munchkin] 追蹤常見問題集 — Marketo檔案 — 產品檔案
+description: 有關新一代 [!DNL Munchkin] 追蹤轉出和Is Anonymous篩選器變更的常見問題集。
 title: 新一代 [!DNL Munchkin] 追蹤常見問題集
 exl-id: 283189ac-c817-479a-b896-91233980608c
 feature: Administration, Munchkin Tracking Code
 hide: true
 hidefromtoc: true
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '698'
+source-wordcount: '702'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 ## 我是否需要變更網站上的[!DNL Munchkin]追蹤？ {#will-i-need-to-make-any-changes-to-my-munchkin-tracking-on-my-website}
 
-不可以。 [!DNL Munchkin]追蹤程式碼維持不變。 您的網站不需要任何變更。
+否。[!DNL Munchkin]追蹤程式碼維持不變。 您的網站不需要任何變更。
 
 >[!NOTE]
 >
@@ -46,8 +46,8 @@ ht-degree: 0%
 >[!NOTE]
 >
 >**觸發器**：瀏覽網頁，網頁為定價頁面
->&#x200B;>**流量**：變更分數+10和有趣的時刻
->&#x200B;>**Web**：已檢視的定價頁面
+>**流量**：變更分數+10和有趣的時刻
+>**Web**：已檢視的定價頁面
 >
 >透過[!DNL Munchkin] V2，如果匿名人員造訪定價頁面，她不會立即進入行銷活動。 當匿名人士成為已知人時，我們會針對她執行此行銷活動。 她會：
 >

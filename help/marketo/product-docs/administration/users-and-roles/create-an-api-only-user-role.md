@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360203
-description: 建立僅限API的使用者角色 — Marketo檔案 — 產品檔案
+description: 如何定義角色名稱並選取要授予的API存取許可權，以建立REST API整合的「僅限API」使用者角色。
 title: 建立僅 API 使用者角色
 exl-id: 731e3e85-8f3d-4c76-91be-1506697211a1
 feature: Users and Roles
-source-git-commit: 7f8968210659ed2c51640966115f22da47e42ebf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 18%
+source-wordcount: '131'
+ht-degree: 16%
 
 ---
 

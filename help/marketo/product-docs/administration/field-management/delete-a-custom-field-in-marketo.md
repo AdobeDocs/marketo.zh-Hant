@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360339
-description: 刪除Marketo中的自訂欄位 — Marketo檔案 — 產品檔案
+description: 如何在不再需要自訂欄位時，從使用者介面隱藏該欄位，以從中移除該欄位。
 title: 在 Marketo 中刪除自訂欄位
 exl-id: 35829827-6e3c-4120-b57f-4fd68a7d4739
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '95'
 ht-degree: 26%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 26%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 如果您不再需要使用某個欄位，您可能會想要移除過去建立的欄位。 很遺憾，您無法刪除Marketo中的欄位，但您可以&#x200B;_在使用者介面中_&#x200B;隱藏它們。
 

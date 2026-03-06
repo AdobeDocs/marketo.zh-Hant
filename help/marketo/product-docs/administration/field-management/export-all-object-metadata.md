@@ -1,12 +1,12 @@
 ---
-description: 匯出所有物件中繼資料 — Marketo檔案 — 產品檔案
+description: 將所有物件及其中繼資料（包括潛在客戶欄位、自訂物件、活動、管道和標籤）匯出為CSV。
 title: 匯出所有物件後設資料
 exl-id: 93ddf737-98db-4791-b526-d399c59147ee
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 28%
+source-wordcount: '78'
+ht-degree: 29%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 28%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 ## 物件 {#objects}
 

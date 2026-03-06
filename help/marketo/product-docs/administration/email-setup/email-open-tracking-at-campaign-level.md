@@ -1,12 +1,12 @@
 ---
-description: 行銷活動層級的電子郵件開啟追蹤 — Marketo檔案 — 產品檔案
+description: 控制每個行銷活動要追蹤電子郵件開啟次數，還是每個行銷活動的人要追蹤一次。
 title: 行銷活動層級的電子郵件開啟追蹤
 feature: Email Setup
 exl-id: 23cd6ba8-5e3f-44f1-af8d-da03f4b038f2
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 13%
+source-wordcount: '108'
+ht-degree: 15%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 13%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 1. 移至&#x200B;**管理員**&#x200B;區域。
 
@@ -30,7 +30,7 @@ ht-degree: 13%
 
    ![](assets/email-open-tracking-at-campaign-level-3.png)
 
-1. 按一下下拉式清單，選擇您想要的設定，然後按一下[儲存]。**&#x200B;**
+1. 按一下下拉式清單，選擇您想要的設定，然後按一下[儲存]。****
 
    ![](assets/email-open-tracking-at-campaign-level-4.png)
 

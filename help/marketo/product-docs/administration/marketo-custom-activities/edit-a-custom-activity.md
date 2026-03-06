@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10100269
-description: 編輯自訂活動 — Marketo檔案 — 產品檔案
+description: 瞭解如何編輯自訂活動，以及草稿或發佈狀態如何受到影響。
 title: 編輯自訂活動
 exl-id: bdfbf0aa-0035-46d2-80dd-21a1366c6514
 feature: Custom Activities
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 15%
+source-wordcount: '101'
+ht-degree: 14%
 
 ---
 

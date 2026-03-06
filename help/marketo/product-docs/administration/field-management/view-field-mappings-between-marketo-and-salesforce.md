@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360344
-description: 檢視Marketo與 [!DNL Salesforce] - Marketo檔案之間的欄位對應 — 產品檔案
+description: 瞭解如何在管理欄位管理中檢視哪些 [!DNL Salesforce] 欄位對應到Marketo欄位。
 title: 檢視Marketo與 [!DNL Salesforce]之間的欄位對應
 exl-id: a60835ec-da8f-4141-af54-0160e2531581
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 0%
+source-wordcount: '95'
+ht-degree: 8%
 
 ---
 
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
-1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/view-field-mappings-between-marketo-and-salesforce-1.png)
 
-1. 按一下&#x200B;**[!UICONTROL 欄位管理]**。
+1. 按一下「**[!UICONTROL Field Management]**」。
 
    ![](assets/view-field-mappings-between-marketo-and-salesforce-2.png)
 

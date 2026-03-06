@@ -1,18 +1,18 @@
 ---
-description: 大量匯出API資訊 — Marketo檔案 — 產品檔案
+description: 如何檢查過去七天的大量擷取API容量使用情況以及配置重設時間。
 title: 大量匯出 API 資訊
 exl-id: 527c446b-d5d1-458a-bc4d-d4eb53339ed6
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 13%
+source-wordcount: '103'
+ht-degree: 12%
 
 ---
 
 # 大量匯出 API 資訊 {#bulk-export-api-information}
 
-瞭解如何檢查您的Marketo Engage執行個體在過去七天使用了多少[大量擷取API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"}容量。
+瞭解如何檢查您的Marketo Engage執行個體在過去七天使用了多少[大量擷取API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"}容量。
 
 >[!NOTE]
 >

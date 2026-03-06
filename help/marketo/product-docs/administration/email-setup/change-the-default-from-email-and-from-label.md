@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360247
-description: 從電子郵件和標籤變更預設值 — Marketo檔案 — 產品檔案
+description: 設定新電子郵件的「寄件者電子郵件」和「寄件者標籤」預設值為管理員使用者。
 title: 變更預設的寄件者電子郵件和寄件者標籤
 exl-id: ad0fa157-28f9-4008-a46c-84749c1987a9
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 17%
+source-wordcount: '103'
+ht-degree: 19%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 17%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區段。
 

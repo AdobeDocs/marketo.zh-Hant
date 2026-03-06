@@ -1,29 +1,29 @@
 ---
 unique-page-id: 2360243
-description: 為智慧行銷活動啟用人員限制 — Marketo檔案 — 產品檔案
-title: 啟用智慧行銷活動的個人限制
+description: 設定符合Smart Campaign資格的人數上限，以避免意外傳送電子郵件給整個資料庫。
+title: 啟用智慧行銷活動人員限制
 exl-id: 45bdaf3f-874c-493f-9746-440f7703713c
 feature: Email Setup
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 1%
+source-wordcount: '155'
+ht-degree: 13%
 
 ---
 
-# 啟用智慧行銷活動的個人限制 {#enable-person-restrictions-for-smart-campaigns}
+# 啟用智慧行銷活動人員限制 {#enable-person-restrictions-for-smart-campaigns}
 
 Marketo提供的一項功能，可限制符合Smart Campaign資格的&#x200B;_上限_&#x200B;人數。 這樣可避免不小心將整個資料庫傳送至電子郵件。
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 >[!CAUTION]
 >
 >這僅適用於批次行銷活動和電子郵件方案。
 
-1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/enable-person-restrictions-for-smart-campaigns-1.png)
 

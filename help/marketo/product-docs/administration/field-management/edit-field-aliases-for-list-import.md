@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360346
-description: 編輯清單匯入的欄位別名 — Marketo檔案 — 產品檔案
+description: 建立和編輯欄位別名，以便列出具有未知欄標題的匯入專案以對應到正確的Marketo欄位。
 title: 編輯清單匯入的欄位別名
 exl-id: 0cc2f4c8-6858-4b41-bae3-4a8d267efe88
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 14%
+source-wordcount: '128'
+ht-degree: 15%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 14%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 1. 前往「**[!UICONTROL Admin]**」區域。
 

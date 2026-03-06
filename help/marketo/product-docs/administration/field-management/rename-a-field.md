@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360293
-description: 重新命名欄位 — Marketo檔案 — 產品檔案
+description: 在移除自訂欄位在表單、智慧列示和促銷活動中的所有使用後，重新命名Marketo中自訂欄位的步驟。
 title: 重新命名欄位
 exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 9%
+source-wordcount: '131'
+ht-degree: 10%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 9%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 1. 前往「**[!UICONTROL Admin]**」區域。
 

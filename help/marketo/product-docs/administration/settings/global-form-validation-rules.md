@@ -1,12 +1,12 @@
 ---
-description: 全域表單驗證規則 — Marketo檔案 — 產品檔案
+description: 如何啟用「存取表單驗證規則」許可權並建立全域規則，以封鎖特定網域提交至Marketo Engage表單。
 title: 全域表單驗證規則
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '240'
-ht-degree: 4%
+source-wordcount: '255'
+ht-degree: 5%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 4%
 
    ![](assets/global-form-validation-rules-2.png)
 
-1. 按一下「**[!UICONTROL Roles]**」標籤。
+1. 按一下「**[!UICONTROL Roles]**」索引標籤。
 
    ![](assets/global-form-validation-rules-3.png)
 

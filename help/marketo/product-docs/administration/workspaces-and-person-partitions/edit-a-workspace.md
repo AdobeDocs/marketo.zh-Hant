@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11380986
-description: 編輯Workspace - Marketo檔案 — 產品檔案
+description: 瞭解如何變更工作區的銷售機會分割、主要人員分割和主要品牌網域。
 title: 編輯工作區
 exl-id: 4c268759-5234-465b-8666-dcb47a0d7ea4
 feature: Workspaces
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 10%
+source-wordcount: '144'
+ht-degree: 11%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 10%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 >[!NOTE]
 >

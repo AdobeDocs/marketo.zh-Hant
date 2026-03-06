@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512289
-description: 新增 [!DNL GoToWebinar] 作為 [!DNL LaunchPoint] 服務 — Marketo檔案 — 產品檔案
+description: 將 [!DNL GoToWebinar] 新增為LaunchPoint服務，讓Marketo管理網路研討會註冊和出席情形。
 title: 將 [!DNL GoToWebinar] 新增為 [!DNL LaunchPoint] 服務
 exl-id: ebc845df-68e6-408f-8d0f-0c56d7e4baa3
 feature: Administration, Integrations
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 0%
+source-wordcount: '137'
+ht-degree: 6%
 
 ---
 
@@ -17,7 +17,7 @@ Marketo會管理您的[!DNL GoToWebinar]註冊和出席情況。
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 >[!NOTE]
 >
@@ -27,35 +27,35 @@ Marketo會管理您的[!DNL GoToWebinar]註冊和出席情況。
 >
 >目前不支援[!DNL GoToMeeting]、[!DNL GoToWebcast]和[!DNL GoToTraining]。
 
-1. 移至&#x200B;**[!UICONTROL 管理員]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-1.png)
 
-1. 按一下&#x200B;**[!UICONTROL 啟動點]**。
+1. 按一下「**[!UICONTROL LaunchPoint]**」。
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-2.png)
 
-1. 選取&#x200B;**[!UICONTROL 新]**&#x200B;和&#x200B;**[!UICONTROL 新服務]**。
+1. 選取&#x200B;**[!UICONTROL New]**&#x200B;和&#x200B;**[!UICONTROL New Service]**。
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-3.png)
 
-1. 輸入&#x200B;**[!UICONTROL 顯示名稱]**。 在&#x200B;**[!UICONTROL 服務]**&#x200B;下，選取&#x200B;**[!UICONTROL GoToWebinar]**。
+1. 輸入&#x200B;**[!UICONTROL Display Name]**。 在&#x200B;**[!UICONTROL Service]**&#x200B;下，選取&#x200B;**[!UICONTROL GoToWebinar]**。
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-4.png)
 
-1. 按一下&#x200B;**[!UICONTROL 登入GoToWebinar]**。
+1. 按一下「**[!UICONTROL Log Into GoToWebinar]**」。
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-5.png)
 
    >[!NOTE]
    >
-   >如果您想要將Marketo表單中的公司名稱和職稱同步到[!DNL GoToWebinar]，請選取&#x200B;**[!UICONTROL 啟用其他欄位]**&#x200B;方塊。
+   >如果您想要將Marketo表單中的公司名稱與職稱同步至[!DNL GoToWebinar]，請選取「**[!UICONTROL Enable Additional Fields]**」方塊。
 
-1. 在「[!DNL GoToWebinar]登入」彈出式視窗中，輸入您的&#x200B;**[!UICONTROL GoToWebinar]**&#x200B;電子郵件和密碼，然後按一下「**[!UICONTROL 登入]**」。
+1. 在「[!DNL GoToWebinar]登入」彈出式視窗中，輸入您的&#x200B;**[!UICONTROL GoToWebinar]**&#x200B;電子郵件和密碼，然後按一下「**[!UICONTROL Sign In]**」。
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-6.png)
 
-1. 視窗關閉後，按一下&#x200B;**[!UICONTROL 建立]**。
+1. 視窗關閉後，按一下&#x200B;**[!UICONTROL Create]**。
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-7.png)
 

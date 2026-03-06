@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359909
-description: 管理使用者角色和許可權 — Marketo檔案 — 產品檔案
+description: 如何設定、建立和編輯使用者角色、將角色指派給使用者，以及控制每個Marketo使用者可以存取的區域和功能。
 title: 管理使用者角色和權限
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '455'
-ht-degree: 7%
+source-wordcount: '469'
+ht-degree: 10%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 7%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 Marketo提供數個內建角色，具有不同的存取層級：
 
@@ -71,7 +71,7 @@ Marketo提供數個內建角色，具有不同的存取層級：
 
    ![](assets/managing-user-roles-and-permissions-6.png)
 
-1. 按一下「**[!UICONTROL Roles]**」標籤。
+1. 按一下「**[!UICONTROL Roles]**」索引標籤。
 
    ![](assets/managing-user-roles-and-permissions-7.png)
 
@@ -95,7 +95,7 @@ Marketo提供數個內建角色，具有不同的存取層級：
 
    ![](assets/managing-user-roles-and-permissions-11.png)
 
-1. 按一下「**[!UICONTROL Roles]**」標籤。
+1. 按一下「**[!UICONTROL Roles]**」索引標籤。
 
    ![](assets/managing-user-roles-and-permissions-12.png)
 
@@ -123,7 +123,7 @@ Marketo提供數個內建角色，具有不同的存取層級：
 
    ![](assets/managing-user-roles-and-permissions-16.png)
 
-1. 按一下「**[!UICONTROL Roles]**」標籤。
+1. 按一下「**[!UICONTROL Roles]**」索引標籤。
 
    ![](assets/managing-user-roles-and-permissions-17.png)
 
@@ -131,6 +131,6 @@ Marketo提供數個內建角色，具有不同的存取層級：
 
    ![](assets/managing-user-roles-and-permissions-18.png)
 
-1. 按一下&#x200B;**[!UICONTROL Delete]**&#x200B;確認。
+1. 按一下 **[!UICONTROL Delete]** 確認。
 
    ![](assets/managing-user-roles-and-permissions-19.png)

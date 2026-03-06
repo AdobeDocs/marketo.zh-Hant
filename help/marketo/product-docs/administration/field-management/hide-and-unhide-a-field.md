@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360333
-description: 隱藏和取消隱藏欄位 — Marketo檔案 — 產品檔案
+description: 不再需要時從Marketo UI隱藏欄位，或取消隱藏以再次顯示。
 title: 隱藏和取消隱藏欄位
 exl-id: 14395c31-d0f4-4aec-8592-a60a764a7263
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 13%
+source-wordcount: '169'
+ht-degree: 16%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 13%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 1. 前往「**[!UICONTROL Admin]**」區域。
 
@@ -39,7 +39,7 @@ ht-degree: 13%
    >* 您無法隱藏標準（系統）欄位。
    >* 您無法隱藏機會資訊欄位。
 
-1. 按一下&#x200B;**[!UICONTROL Hide]**&#x200B;確認。
+1. 按一下 **[!UICONTROL Hide]** 確認。
 
    ![](assets/hide-and-unhide-a-field-4.png)
 

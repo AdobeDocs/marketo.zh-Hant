@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512272
-description: 新增 [!DNL Webex] 作為 [!DNL LaunchPoint] 服務 — Marketo檔案 — 產品檔案
+description: 新增 [!DNL Webex] 網路研討會作為LaunchPoint服務，以便與Marketo同步註冊及出席情況。
 title: 將 [!DNL Webex] 新增為 [!DNL LaunchPoint] 服務
 exl-id: 2c2cedde-d38f-4d53-a760-104b517afc4c
 feature: Administration, Integrations
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 3%
+source-wordcount: '101'
+ht-degree: 9%
 
 ---
 
@@ -17,9 +17,9 @@ Marketo Engage會管理您的[!DNL Webex]網路研討會註冊與出席情況。
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
-1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/add-webex-as-a-launchpoint-service-1.png)
 

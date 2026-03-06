@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11377958
-description: 使用者登入歷史記錄 — Marketo檔案 — 產品檔案
+description: 透過管理員使用者和角色檢視誰已登入您的訂閱以及何時登入（包括嘗試失敗）。
 title: 使用者登入歷史記錄
 exl-id: 4ae3f755-28af-48b5-abe1-377c6952d00a
 feature: Audit Trail
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 9%
+source-wordcount: '179'
+ht-degree: 8%
 
 ---
 

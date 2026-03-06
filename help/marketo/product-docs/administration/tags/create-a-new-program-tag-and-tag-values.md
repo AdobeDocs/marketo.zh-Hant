@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360272
-description: 建立新的程式標籤和標籤值 — Marketo檔案 — 產品檔案
+description: 如何建立自訂程式標籤並指派值、選擇程式型別，以及讓標籤在建立新程式時成為必要標籤。
 title: 建立新的方案標記和標記值
 exl-id: 67300761-df6d-45ce-850f-4443789a3be9
 feature: Tags
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '160'
 ht-degree: 16%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 16%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 您可以為程式建立自訂[標籤](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)，並為標籤指派值。
 

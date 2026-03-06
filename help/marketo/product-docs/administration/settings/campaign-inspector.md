@@ -1,12 +1,12 @@
 ---
-description: Campaign Inspector - Marketo檔案 — 產品檔案
+description: 如何啟用及使用中的「行銷活動檢視器」，在一個位置檢視及搜尋所有Smart Campaigns。
 title: 行銷活動檢查器
 exl-id: bac4a24d-9177-4a03-b8c3-e3836676a3ad
 feature: Campaign Inspector
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 8%
+source-wordcount: '123'
+ht-degree: 7%
 
 ---
 

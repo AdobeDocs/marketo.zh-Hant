@@ -1,12 +1,12 @@
 ---
 unique-page-id: 6848747
-description: 角色許可權說明 — Marketo檔案 — 產品檔案
+description: Marketo中所有角色許可權的參考清單，包括存取管理員、存取API，以及您建立或編輯角色時可指派的其他許可權群組。
 title: 角色權限說明
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: 78af5df3bd62754e6c3097f0497930948bc109d8
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '1451'
+source-wordcount: '1468'
 ht-degree: 1%
 
 ---

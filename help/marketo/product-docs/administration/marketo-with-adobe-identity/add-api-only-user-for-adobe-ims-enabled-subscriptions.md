@@ -1,12 +1,12 @@
 ---
-description: 僅新增API使用者以使用Adobe IMS啟用的訂閱 — Marketo檔案 — 產品檔案
+description: 當您的訂閱使用Adobe IMS時，如何在Marketo Engage中建立和管理僅限API的使用者。
 title: 新增 Adobe IMS 啟用訂閱的僅 API 使用者
 exl-id: bf908a50-de2f-4ea0-8d6a-5d7ed6d39ebf
 feature: Marketo with Adobe Identity
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 14%
+source-wordcount: '138'
+ht-degree: 15%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 14%
 
    ![](assets/add-api-only-user-for-adobe-ims-2.png)
 
-1. 輸入[!UICONTROL Email]、[!UICONTROL First Name]和[!UICONTROL Last Name]給僅限API的使用者。 選取您要指派給使用者的[!UICONTROL API Only]角色。 完成時，按一下&#x200B;**[!UICONTROL Create API Only User]**。
+1. 輸入[!UICONTROL Email]、[!UICONTROL First Name]和[!UICONTROL Last Name]給僅限API的使用者。 選取您要指派給使用者的[!UICONTROL API Only]角色。 完成後請按一下 **[!UICONTROL Create API Only User]**。
 
    ![](assets/add-api-only-user-for-adobe-ims-3.png)
 

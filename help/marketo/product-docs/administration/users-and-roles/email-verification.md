@@ -1,11 +1,11 @@
 ---
-description: 電子郵件驗證 — Marketo檔案 — 產品檔案
+description: Marketo Engage使用者電子郵件驗證概觀，包括為何需要驗證、邀請流程、驗證電子郵件以及解析多個登入ID。
 title: 電子郵件驗證
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '462'
+source-wordcount: '478'
 ht-degree: 1%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10098433
-description: 建立IP型API存取的允許清單 — Marketo檔案 — 產品檔案
+description: 透過管理網站服務IP限制，將API存取許可權製為特定IP位址或範圍。
 title: 建立 IP 型 API 存取的允許清單
 exl-id: 1a2f2216-07ee-4d37-b883-458ea39fc452
 feature: Administration
-source-git-commit: 3595cdc76a0f92da10dc5ddaac64c4cf83056e88
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 13%
+source-wordcount: '156'
+ht-degree: 15%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 13%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 >[!NOTE]
 >
->此功能獨立於Marketo Engage [以IP為基礎的登入限制](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"}運作，Admin Console的[以IP為基礎的存取控制](https://helpx.adobe.com/tw/enterprise/using/ip-based-access.html){target="_blank"}正在取代這些限制。 Adobe IMS移轉後，伺服器可繼續正常運作。
+>此功能獨立於Marketo Engage [以IP為基礎的登入限制](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"}運作，Admin Console的[以IP為基礎的存取控制](https://helpx.adobe.com/enterprise/using/ip-based-access.html){target="_blank"}正在取代這些限制。 Adobe IMS移轉後，伺服器可繼續正常運作。
 
 1. 前往「**[!UICONTROL Admin]**」區域。
 

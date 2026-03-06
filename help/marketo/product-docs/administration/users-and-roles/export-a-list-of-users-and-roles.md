@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359912
-description: 匯出使用者和角色清單 — Marketo檔案 — 產品檔案
+description: 瞭解如何匯出使用者和角色清單。
 title: 匯出使用者和角色清單
 exl-id: dd3c5372-4c34-438c-8f47-34ae2d14db24
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 21%
+source-wordcount: '79'
+ht-degree: 27%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 21%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 匯出使用者和使用者角色的完整清單相當容易。 方法如下。
 
-1. 移至&#x200B;**[!UICONTROL Admin]**。
+1. 前往 **[!UICONTROL Admin]**。
 
    ![](assets/export-a-list-of-users-and-roles-1.png)
 

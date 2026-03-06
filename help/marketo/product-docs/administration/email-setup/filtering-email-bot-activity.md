@@ -1,11 +1,11 @@
 ---
-description: 篩選電子郵件機器人活動 — Marketo檔案 — 產品檔案
+description: 篩選或記錄電子郵件機器人活動，以防止使用IAB清單比對和近似程度模式膨脹的開啟和點按。
 title: 篩選電子郵件機器人活動
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '456'
+source-wordcount: '467'
 ht-degree: 2%
 
 ---
@@ -39,7 +39,7 @@ ht-degree: 2%
 
    ![](assets/filtering-email-bot-activity-2.png)
 
-1. 按一下「**[!UICONTROL Bot Activity]**」標籤。
+1. 按一下「**[!UICONTROL Bot Activity]**」索引標籤。
 
    ![](assets/filtering-email-bot-activity-3.png)
 

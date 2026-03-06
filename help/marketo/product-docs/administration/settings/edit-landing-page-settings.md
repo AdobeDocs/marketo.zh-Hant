@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359918
-description: 編輯登陸頁面設定 — Marketo檔案 — 產品檔案
+description: 如何編輯網域名稱、後援頁面、表單預填和其他登陸頁面選項。
 title: 編輯登陸頁面設定
 exl-id: 019b4651-3a66-46f9-8722-66af30194380
 feature: Administration, Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '203'
-ht-degree: 9%
+source-wordcount: '209'
+ht-degree: 10%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 9%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 1. 前往「**[!UICONTROL Admin]**」區域。
 
