@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949208
-description: SEO — 篩選關鍵字結果 — Marketo檔案 — 產品檔案
+description: 依清單、SERP排名範圍或搜尋欄位篩選關鍵字結果，以尋找所需的關鍵字。
 title: SEO - 篩選關鍵字結果
 exl-id: 8f237814-09b7-4041-9fe7-bb9a6ce016ca
 feature: SEO
-source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
+source-git-commit: b42922726bebab913436bb0955557339af96d0f5
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '191'
 ht-degree: 5%
 
 ---
@@ -19,10 +19,10 @@ ht-degree: 5%
 >
 >在2026年3月31日，Marketo Engage將淘汰搜尋引擎最佳化功能。 請在3月30日或之前匯出任何相關資料。 [了解更多](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}。
 >
->* [匯出問題](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
->* [匯出關鍵字結果](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
->* [匯出關鍵字趨勢](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
->* [匯出競爭者關鍵字趨勢](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
+>* [匯出問題](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [匯出關鍵字結果](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [匯出關鍵字趨勢](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [匯出競爭者關鍵字趨勢](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 ## 依清單篩選 {#filter-by-list}
 
