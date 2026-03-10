@@ -1,12 +1,12 @@
 ---
-description: Adobe Experience Cloud 整合概觀 - Marketo 文件 - 產品文件
+description: 瞭解Adobe Experience Cloud與Marketo Engage的整合，包括原生受眾同步和Audience Manager。 設定整合，並解鎖Adobe應用程式中的B2B需求行銷。
 title: Adobe Experience Cloud 整合概觀
 exl-id: ae75fb01-4b46-412f-b153-6f37c8de9b65
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '168'
-ht-degree: 100%
+source-git-commit: 0851dedd240b2239fd3daca43aa84d8123a4d791
+workflow-type: tm+mt
+source-wordcount: '186'
+ht-degree: 85%
 
 ---
 

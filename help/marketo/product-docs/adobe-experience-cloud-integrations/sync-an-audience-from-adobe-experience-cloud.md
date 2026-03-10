@@ -1,11 +1,11 @@
 ---
-description: 從Adobe Experience Cloud同步受眾 — Marketo檔案 — 產品檔案
+description: 瞭解如何將受眾從Adobe Experience Cloud同步至Marketo Engage。 將對象從對象庫提取到Marketo資料庫，以用於行銷活動和方案。
 title: 從 Adobe Experience Cloud 同步客群
 exl-id: 2288ee01-2c2e-4f33-b5c9-da3a431c1816
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 0851dedd240b2239fd3daca43aa84d8123a4d791
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '277'
 ht-degree: 8%
 
 ---
@@ -38,7 +38,7 @@ ht-degree: 8%
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-4.png)
 
-1. 您可以針對目的地選取現有清單，或輸入新清單的名稱。 在此範例中，我們正在建立新範本。 完成時，按一下&#x200B;**[!UICONTROL Sync]**。
+1. 您可以針對目的地選取現有清單，或輸入新清單的名稱。 在此範例中，我們正在建立新範本。 完成後請按一下 **[!UICONTROL Sync]**。
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-5.png)
 
@@ -46,7 +46,7 @@ ht-degree: 8%
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-6.png)
 
-## 常見問題 {#faq}
+## 常見問題集 {#faq}
 
 **Cookie同步如何運作？**
 

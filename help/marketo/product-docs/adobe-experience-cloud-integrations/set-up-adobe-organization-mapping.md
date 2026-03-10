@@ -1,12 +1,12 @@
 ---
 unique-page-id: 42762511
-description: 設定Adobe組織對應 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo Engage中設定Adobe組織對應，以便與Audience Manager和其他Adobe應用程式同步。
 title: 設定 Adobe 組織對應
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 0851dedd240b2239fd3daca43aa84d8123a4d791
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '233'
 ht-degree: 5%
 
 ---
@@ -36,7 +36,7 @@ ht-degree: 5%
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-3.png)
 
-1. 輸入您的Adobe IMS組織ID （在[這裡](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=zh-Hant){target="_blank"}瞭解如何找到該ID），然後按一下&#x200B;**[!UICONTROL OK]**。
+1. 輸入您的Adobe IMS組織ID （在[這裡](https://experienceleague.adobe.com/docs/control-panel/using/faq.html){target="_blank"}瞭解如何找到該ID），然後按一下&#x200B;**[!UICONTROL OK]**。
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-4.png)
 

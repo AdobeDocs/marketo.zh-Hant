@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37355768
-description: 使用Adobe Experience Manager匯入Assets - Marketo檔案 — 產品檔案
+description: 瞭解如何從Adobe Experience Manager將資產匯入Marketo Design Studio。 使用「資產選擇器」存取、選取AEM影像，並將其帶入Marketo行銷活動。
 title: 使用 Adobe Experience Manager 匯入資產
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 0851dedd240b2239fd3daca43aa84d8123a4d791
 workflow-type: tm+mt
-source-wordcount: '217'
-ht-degree: 5%
+source-wordcount: '235'
+ht-degree: 6%
 
 ---
 
@@ -43,7 +43,7 @@ ht-degree: 5%
 
    ![](assets/importing-assets-with-adobe-experience-manager-4.png)
 
-1. 選擇您的資料夾。 然後，按一下縮圖來選取您想要的影像（您最多可以選擇10張）。 完成時，按一下&#x200B;**[!UICONTROL Select]**。
+1. 選擇您的資料夾。 然後，按一下縮圖來選取您想要的影像（您最多可以選擇10張）。 完成後請按一下 **[!UICONTROL Select]**。
 
    ![](assets/importing-assets-with-adobe-experience-manager-5.png)
 
