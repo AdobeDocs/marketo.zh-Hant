@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11384433
-description: 帳戶團隊設定 — Marketo檔案 — 產品檔案
+description: 瞭解如何設定帳戶團隊並將CRM帳戶角色對應至TAM。 選擇哪些使用者查詢欄位會成為帳戶團隊成員。
 title: 帳戶團隊設定
 exl-id: a4aee37f-5e39-4296-b720-b1c73c98df9e
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 4%
+source-wordcount: '185'
+ht-degree: 5%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 4%
    >
    >您無法選取[!UICONTROL Account Owner]。 預設會從CRM中的帳戶層級選擇。
 
-1. 完成時，按一下&#x200B;**[!UICONTROL Save]**。
+1. 完成後請按一下 **[!UICONTROL Save]**。
 
    ![](assets/five-2.png)
 

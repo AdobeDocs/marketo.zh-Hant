@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11380783
-description: TAM主要控制面板 — Marketo檔案 — 產品檔案
+description: 瞭解TAM主要控制面板和目標帳戶工作的摘要。 依帳戶清單篩選，並深入研究清單或具名帳戶分析。
 title: TAM 主儀表板
 exl-id: f550dd99-f5b1-4d75-9e11-d9791043baea
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 5%
+source-wordcount: '126'
+ht-degree: 4%
 
 ---
 

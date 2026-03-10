@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12979223
-description: 設定帳戶Insight - Marketo檔案 — 產品檔案
+description: 瞭解如何為銷售團隊設定帳戶Insight 。 在Sales索引標籤中設定已命名帳戶和參與人員的優先順序。
 title: 設定帳戶洞察
 exl-id: 50e24974-339b-4a42-b5ca-2e80ab47d313
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 11%
+source-wordcount: '114'
+ht-degree: 9%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 11%
 
 >[!PREREQUISITES]
 >
->必須先設定TAM帳戶分數[&#128279;](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md)。
+>必須先設定TAM帳戶分數[](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md)。
 
 1. 按一下「**[!UICONTROL Admin]**」。
 

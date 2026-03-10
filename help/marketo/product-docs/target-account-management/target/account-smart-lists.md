@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11378814
-description: 帳戶智慧清單 — Marketo檔案 — 產品檔案
+description: 瞭解如何建立帳戶智慧清單，以識別高價值帳戶。 定義帳戶和相符的人員篩選器，並在行銷活動或匯出中使用結果。
 title: 帳戶智慧清單
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '445'
 ht-degree: 2%
 
 ---

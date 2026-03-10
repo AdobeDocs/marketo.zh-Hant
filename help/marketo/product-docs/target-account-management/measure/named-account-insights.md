@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11380785
-description: 具名帳戶深入分析 — Marketo檔案 — 產品檔案
+description: 瞭解具名帳戶儀表板及其目標帳戶的360度檢視。 檢視參與度、商機、客戶團隊和ICP指標。
 title: 已命名帳戶洞察
 exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '399'
 ht-degree: 2%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12615804
-description: 在指定帳戶中篩選 — Marketo檔案 — 產品檔案
+description: 瞭解如何篩選具名帳戶以快速縮小資料。 在篩選器中使用產業、國家/地區、員工和其他CRM同步欄位。
 title: 已命名帳戶的篩選功能
 exl-id: 4592ff5e-e2bf-408c-b213-e582110b83e4
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 12%
+source-wordcount: '130'
+ht-degree: 10%
 
 ---
 

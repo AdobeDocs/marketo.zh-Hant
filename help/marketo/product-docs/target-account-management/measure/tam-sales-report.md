@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11385183
-description: TAM銷售報表 — Marketo檔案 — 產品檔案
+description: 瞭解TAM Sales Report，這份TAM Sales Report每週都會寄送一封電子郵件，內含熱門帳戶及其趨勢。 接收帳戶分數、管道、頁面檢視和有趣的時刻。
 title: TAM 銷售報告
 exl-id: db4680df-74fd-41a4-9e9c-bf405da97bf0
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 9%
+source-wordcount: '143'
+ht-degree: 8%
 
 ---
 

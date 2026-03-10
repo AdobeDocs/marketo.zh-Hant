@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11381156
-description: 銷售線索帳戶比對 — Marketo檔案 — 產品檔案
+description: 瞭解銷售線索與帳戶的比對，以及Marketo如何以幾近即時的方式比對銷售線索與具名帳戶。 解決弱比對並觸發新潛在客戶。
 title: 商機與帳戶配對
 exl-id: 676ae500-7691-492d-abec-0cac708216b7
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '451'
+source-wordcount: '466'
 ht-degree: 2%
 
 ---

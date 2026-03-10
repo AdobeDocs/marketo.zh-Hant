@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11380774
-description: 帳戶分數 — Marketo檔案 — 產品檔案
+description: 瞭解帳戶評分，以及它如何協助安排參與目標帳戶的優先順序。 透過在TAM管理員中指派銷售機會分數來設定帳戶分數。
 title: 帳戶分數
 exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '334'
-ht-degree: 1%
+source-wordcount: '350'
+ht-degree: 2%
 
 ---
 
@@ -47,9 +47,9 @@ ht-degree: 1%
 >若要計算帳戶分數，您必須先建立潛在客戶分數。 Marketo TAM會自動將潛在客戶分數彙總至帳戶分數。 舉例來說，我們舉兩個上述範例（_帳戶產品興趣分數_&#x200B;和&#x200B;_帳戶網頁參與分數_）。
 >
 >首先，建立銷售機會分數欄位，從目標帳戶的每個銷售機會擷取相關詳細資訊。
->&#x200B;>然後，將這些潛在客戶分數指派給其個別帳戶分數：
->&#x200B;>帳戶產品利息分數= SUM （潛在客戶產品利息分數）
->&#x200B;>帳戶網站參與分數= SUM （潛在客戶網站參與分數）
+>然後，將這些潛在客戶分數指派給其個別帳戶分數：
+>帳戶產品利息分數= SUM （潛在客戶產品利息分數）
+>帳戶網站參與分數= SUM （潛在客戶網站參與分數）
 
 >[!NOTE]
 >
@@ -81,6 +81,6 @@ ht-degree: 1%
 
    ![](assets/account-score-5.png)
 
-1. 新增所有想要的分數。 完成時，按一下&#x200B;**[!UICONTROL Save]**。
+1. 新增所有想要的分數。 完成後請按一下 **[!UICONTROL Save]**。
 
    ![](assets/account-score-6.png)

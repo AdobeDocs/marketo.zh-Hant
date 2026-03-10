@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12615781
-description: 建立具名帳戶 — Marketo檔案 — 產品檔案
+description: 瞭解如何在TAM中手動建立具名帳戶。 使用「新增」下拉式清單，選取「建立具名帳戶」，然後填寫所需欄位。
 title: 建立已命名帳戶
 exl-id: 191ca1d2-8825-41ad-b8a0-53cf21526a91
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '49'
-ht-degree: 8%
+source-wordcount: '65'
+ht-degree: 6%
 
 ---
 

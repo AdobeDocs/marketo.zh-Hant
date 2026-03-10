@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11380734
-description: 帳戶觸發器 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用帳戶觸發程式來監聽帳戶層級的行為活動並採取行動。 在智慧行銷活動中使用具名帳戶觸發器，以與關鍵帳戶互動。
 title: 帳戶觸發程序
 exl-id: cf8d49ed-58c4-49d0-95e2-e5df8c9bef50
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 6%
+source-wordcount: '106'
+ht-degree: 5%
 
 ---
 

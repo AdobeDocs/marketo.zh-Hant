@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11380771
-description: 發行授權 — Marketo檔案 — 產品檔案
+description: 瞭解如何向使用者核發TAM授權，讓他們能夠使用Target帳戶管理。 啟用或移除授權。
 title: 核發授權
 exl-id: 5cf3b23a-ab86-4707-8538-97583e4f267b
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '97'
 ht-degree: 8%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 8%
 
    ![](assets/issue-a-license-1.png)
 
-1. 按一下&#x200B;**[!UICONTROL Users & Roles]**。 選取要向其發行授權的使用者，按一下&#x200B;**[!UICONTROL Issue License]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Target Account Management]**。
+1. 按一下「**[!UICONTROL Users & Roles]**」。 選取要向其發行授權的使用者，按一下&#x200B;**[!UICONTROL Issue License]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Target Account Management]**。
 
    ![](assets/issue-a-license-2.png)
 

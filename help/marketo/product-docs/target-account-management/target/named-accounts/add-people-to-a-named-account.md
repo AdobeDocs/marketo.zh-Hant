@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11378816
-description: 將人員新增至具名帳戶 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用流量動作、智慧行銷活動流量步驟或清單匯入，將人員新增至具名帳戶。
 title: 新增人員至已命名帳戶
 exl-id: 1fbe7cd2-7324-4b03-ba8b-66e35baaec03
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '166'
 ht-degree: 5%
 
 ---

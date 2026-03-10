@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12615802
-description: 刪除具名帳戶 — Marketo檔案 — 產品檔案
+description: 瞭解如何刪除TAM中的具名帳戶。 選取帳戶並使用具名帳戶動作進行刪除。
 title: 刪除已命名帳戶
 exl-id: 47a1ce87-43ac-4f8f-94ab-7dec2730ab21
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 10%
+source-wordcount: '109'
+ht-degree: 9%
 
 ---
 

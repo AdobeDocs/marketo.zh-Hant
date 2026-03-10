@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11380787
-description: 帳戶清單深入分析 — Marketo檔案 — 產品檔案
+description: 瞭解帳戶清單儀表板和來自指定帳戶的彙總見解。 檢視管道、收入、熱門帳戶以及使用每個清單的資產。
 title: 帳戶清單洞察
 exl-id: 27a4020b-b1e0-4f19-b676-2e6dc5fe9611
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '174'
 ht-degree: 4%
 
 ---

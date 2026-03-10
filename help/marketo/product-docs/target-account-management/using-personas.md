@@ -1,13 +1,13 @@
 ---
 unique-page-id: 17727818
-description: 使用角色 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用角色來細分您的ABM對象，並針對特定子集進行行銷。 在「管理員」中新增角色，並在智慧清單篩選器中使用這些角色。
 title: 使用人物誌
 exl-id: 8c8940ab-d336-494c-b6a0-dad09ed1c888
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 2%
+source-wordcount: '196'
+ht-degree: 5%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 2%
 
    ![](assets/four.png)
 
-1. 為您的角色命名，然後在下拉式選單中選取對應的欄位。 您最多可以新增兩個其他角色。 完成時，按一下&#x200B;**[!UICONTROL Save]**。
+1. 為您的角色命名，然後在下拉式選單中選取對應的欄位。 您最多可以新增兩個其他角色。 完成後請按一下 **[!UICONTROL Save]**。
 
    ![](assets/five.png)
 
@@ -53,7 +53,7 @@ ht-degree: 2%
 
    ![](assets/one-a.png)
 
-1. 按一下「**[!UICONTROL Personas]**」標籤。
+1. 按一下「**[!UICONTROL Personas]**」索引標籤。
 
    ![](assets/two-a.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11384438
-description: TAM報表設定 — Marketo檔案 — 產品檔案
+description: 瞭解如何設定帳戶團隊的每週TAM銷售報告電子郵件。 選擇交貨日期、排序順序，以及哪些帳戶擁有者或團隊成員收到該日期。
 title: TAM 報告設定
 exl-id: fc451b05-12a2-4761-a273-2c71f92f2284
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 7%
+source-wordcount: '166'
+ht-degree: 6%
 
 ---
 

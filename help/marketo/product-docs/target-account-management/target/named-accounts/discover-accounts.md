@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11378812
-description: 探索帳戶 — Marketo檔案 — 產品檔案
+description: 瞭解如何從您的CRM或Marketo公司發現潛在的目標帳戶。 將選取的帳戶新增為具名帳戶，並自動關聯人員。
 title: 探索帳戶
 exl-id: 90da4ae0-0a12-48bd-8bae-a7431d2cf4f4
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '508'
 ht-degree: 1%
 
 ---

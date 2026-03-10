@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12978647
-description: 建立CRM Discovery的自訂欄位 — Marketo檔案 — 產品檔案
+description: 瞭解如何建立自訂具名帳戶欄位，將其對應至您的CRM，並在CRM帳戶探索中使用它。 請參閱探索CRM格線中的對應資料。
 title: 針對 CRM 探索建立自訂欄位
 exl-id: 16e03f6f-e3c2-443c-803e-bf35a346693a
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 21%
+source-wordcount: '133'
+ht-degree: 18%
 
 ---
 

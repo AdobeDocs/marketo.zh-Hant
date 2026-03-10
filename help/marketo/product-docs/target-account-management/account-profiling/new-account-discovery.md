@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37355609
-description: 新帳戶探索 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用理想客戶設定檔中的AI支援建議尋找新帳戶以鎖定目標。 探索並儲存新的目標帳戶至帳戶清單。
 title: 新帳戶探索
 exl-id: 0d07cd0d-abf6-4daf-b818-21b91919bd9d
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '284'
-ht-degree: 2%
+source-wordcount: '302'
+ht-degree: 4%
 
 ---
 
@@ -31,11 +31,11 @@ ht-degree: 2%
 
    ![](assets/new-account-discovery-1.png)
 
-1. 按一下「**[!UICONTROL Account Profiling]**」標籤。
+1. 按一下「**[!UICONTROL Account Profiling]**」索引標籤。
 
    ![](assets/two-2.png)
 
-1. 按一下「**[!UICONTROL New Accounts]**」標籤。
+1. 按一下「**[!UICONTROL New Accounts]**」索引標籤。
 
    ![](assets/three-1.png)
 

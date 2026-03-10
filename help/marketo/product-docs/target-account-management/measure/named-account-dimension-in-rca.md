@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11380789
-description: RCA中的指定帳戶Dimension - Marketo檔案 — 產品檔案
+description: 瞭解如何使用Revenue Cycle Analytics中的具名帳戶維度建立收入型報表。 測量管道和來自目標帳戶的收入影響。
 title: RCA 中的已命名帳戶維度
 exl-id: 0c5d9fb9-94e3-4ad0-b024-26542c2d2fd3
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '149'
-ht-degree: 8%
+source-wordcount: '163'
+ht-degree: 7%
 
 ---
 

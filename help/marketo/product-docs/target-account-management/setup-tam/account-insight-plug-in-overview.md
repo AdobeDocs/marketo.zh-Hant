@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12979282
-description: '[!DNL Account Insight]外掛程式概述 — Marketo檔案 — 產品檔案'
+description: 瞭解為銷售團隊提供TAM見解的帳戶Insight Chrome外掛程式。 有效檢視具名帳戶、活動摘要及參與帳戶。
 title: '[!DNL Account Insight]外掛程式概述'
 exl-id: 0306f82d-43c8-44eb-943f-f7f01279b844
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '313'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 0%
 >
 >從帳戶、潛在客戶或連絡人啟動外掛程式時，CRM內容適用於Salesforce。 從帳戶、潛在客戶或連絡人啟動外掛程式時，CRM內容無法用於Dynamics。 對於Dynamics使用者，建議使用[!DNL Account Insight]外掛程式。
 
-## 具名帳戶 {#named-accounts}
+## 已命名帳戶 {#named-accounts}
 
 按帳戶彼此之間的等級順序檢視具名帳戶。 此清單僅供帳戶擁有者使用。 即將提供帳戶團隊支援。
 

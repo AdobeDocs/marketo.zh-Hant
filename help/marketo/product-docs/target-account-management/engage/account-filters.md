@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11380732
-description: 帳戶篩選器 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用以帳戶為中心的篩選器，識別並吸引指名帳戶和角色。 在智慧行銷活動中使用TAM篩選器來鎖定正確的帳戶。
 title: 帳戶篩選器
 exl-id: a359f53b-c0a0-4b46-bad0-2840ba668892
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '170'
 ht-degree: 1%
 
 ---

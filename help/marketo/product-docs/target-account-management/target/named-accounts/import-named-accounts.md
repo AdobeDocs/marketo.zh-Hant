@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12615800
-description: 匯入[!UICONTROL Named Accounts] - Marketo檔案 — 產品檔案
+description: 瞭解如何從CSV檔案將具名帳戶匯入TAM。 上傳清單、依帳戶名稱或網域選擇重複資料刪除模式，並對應欄位。
 title: 匯入[!UICONTROL Named Accounts]
 exl-id: 3f40e567-9256-4efd-beea-4e818770759f
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '440'
-ht-degree: 2%
+source-wordcount: '461'
+ht-degree: 3%
 
 ---
 
@@ -51,7 +51,7 @@ CSV中已經滿載了潛在的目標帳戶嗎？ 將它們直接匯入TAM！
 
    ![](assets/inasix-2.png)
 
-1. 連按兩下&#x200B;**[!UICONTROL Marketo Field]**&#x200B;下拉式清單並選取適當的欄位，以對應每個欄位。 完成時，按一下&#x200B;**[!UICONTROL Next]**。
+1. 連按兩下&#x200B;**[!UICONTROL Marketo Field]**&#x200B;下拉式清單並選取適當的欄位，以對應每個欄位。 完成後請按一下 **[!UICONTROL Next]**。
 
    ![](assets/inaseven.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11378809
-description: '[!UICONTROL Named Account]概述 — Marketo檔案 — 產品檔案'
+description: 瞭解具名帳戶，以及這些帳戶如何代管目標公司的人員。 檢視控制面板上所有具名帳戶的目前屬性資料。
 title: '[!UICONTROL Named Account] 概觀'
 exl-id: 6708bdd8-d0ab-49a2-a04b-4064ee5407ed
 feature: Target Account Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '226'
-ht-degree: 5%
+source-wordcount: '245'
+ht-degree: 6%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 5%
    <td>具名帳戶的識別碼</td>
   </tr>
   <tr>
-   <td><strong><span class="uicontrol">具名帳戶</span></strong></td>
+   <td><strong><span class="uicontrol">已命名帳戶</span></strong></td>
    <td>具名帳戶的名稱</td>
   </tr>
   <tr>

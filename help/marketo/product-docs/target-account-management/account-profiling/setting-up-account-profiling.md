@@ -1,13 +1,13 @@
 ---
 unique-page-id: 17432598
-description: 設定帳戶分析 — Marketo檔案 — 產品檔案
+description: 瞭解如何在TAM中設定帳戶設定檔並建立您的理想客戶設定檔模型。 開始使用模型標籤，並建立您的第一個模型。
 title: 設定帳戶剖析
 exl-id: 6f3af2e7-f820-473b-8ed6-ff0982672e54
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 8%
+source-wordcount: '176'
+ht-degree: 10%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 8%
 
    ![](assets/setting-up-account-profiling-1.png)
 
-1. 按一下「**[!UICONTROL Account Profiling]**」標籤。
+1. 按一下「**[!UICONTROL Account Profiling]**」索引標籤。
 
    ![](assets/two-1.png)
 
@@ -42,7 +42,7 @@ ht-degree: 8%
 
    ![](assets/three.png)
 
-1. 為您的模型命名，並選擇將作為理想客戶設定檔(ICP)基礎的人員清單型別/清單。 完成時，按一下&#x200B;**[!UICONTROL Create Model]**。
+1. 為您的模型命名，並選擇將作為理想客戶設定檔(ICP)基礎的人員清單型別/清單。 完成後請按一下 **[!UICONTROL Create Model]**。
 
    ![](assets/setting-up-account-profiling-4.png)
 

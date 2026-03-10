@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12615798
-description: 將現有的具名帳戶新增至帳戶清單 — Marketo檔案 — 產品檔案
+description: 瞭解如何將現有的具名帳戶新增至帳戶清單。 使用具名帳戶動作，並選取新增至帳戶清單與所需的清單。
 title: 將現有已命名帳戶新增至帳戶清單
 exl-id: 5c6c535c-05da-4d7e-b764-cdbbcc7ec415
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 17%
+source-wordcount: '93'
+ht-degree: 15%
 
 ---
 

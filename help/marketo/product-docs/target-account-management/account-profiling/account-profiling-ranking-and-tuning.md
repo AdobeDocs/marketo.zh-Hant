@@ -1,13 +1,13 @@
 ---
 unique-page-id: 15695924
-description: 帳戶分析排名和調整 — Marketo檔案 — 產品檔案
+description: 瞭解帳戶設定如何依您的ICP將公司排名，並將指標資料新增到已命名的帳戶。 調整您的模型並提升帳戶。
 title: 帳戶剖析排名和調整
 exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '380'
-ht-degree: 3%
+source-wordcount: '393'
+ht-degree: 4%
 
 ---
 

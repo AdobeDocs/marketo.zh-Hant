@@ -1,13 +1,13 @@
 ---
 unique-page-id: 13795734
-description: 建立階層 — Marketo檔案 — 產品檔案
+description: 瞭解如何在不使用CRM時手動建立具名帳戶階層。 使用依階層群組將帳戶連結至父級具名帳戶。
 title: 建立階層
 exl-id: ea56145b-f8c2-4b18-a50c-b547ac1102a1
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 8%
+source-wordcount: '150'
+ht-degree: 7%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12980105
-description: 邀請使用者存取[!UICONTROL Account Insight] - Marketo檔案 — 產品檔案
+description: 瞭解如何邀請使用者存取帳戶Insight。 透過CRM或電子郵件邀請，並從Sales Users索引標籤授與帳戶Insight存取權。
 title: 邀請使用者存取[!UICONTROL Account Insight]
 exl-id: 772e50d6-4ae8-4d3e-9d6a-9bc075bd4a06
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '159'
 ht-degree: 1%
 
 ---
