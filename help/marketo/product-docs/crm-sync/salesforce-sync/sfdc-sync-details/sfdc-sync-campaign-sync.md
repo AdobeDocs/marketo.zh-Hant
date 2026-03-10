@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953469
-description: SFDC同步 — Campaign同步 — Marketo檔案 — 產品檔案
+description: 瞭解如何將Marketo方案與Salesforce行銷活動同步。 將方案對應至促銷活動，並讓成員與狀態在兩個系統之間保持同步。
 title: SFDC同步 — Campaign同步
 exl-id: 62435e00-9c59-4dee-a9b7-ccf1d1f41b78
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '360'
+source-wordcount: '374'
 ht-degree: 1%
 
 ---
@@ -73,6 +73,6 @@ Marketo **方案成員**&#x200B;及其&#x200B;**[進度狀態](/help/marketo/pro
 >[!MORELIKETHIS]
 >
 >* [將SFDC行銷活動與程式同步](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target="_blank"}
->* [瞭解計畫成員資格](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}
+>* [了解方案會籍](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}
 >* [啟用/停用Campaign同步處理](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md){target="_blank"}
 >* [將Marketo同步處理使用者設為行銷使用者](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md){target="_blank"}

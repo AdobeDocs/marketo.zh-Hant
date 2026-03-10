@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571840
-description: Microsoft [!DNL Dynamics] Sync -User Sync - Marketo檔案 — 產品檔案
+description: 瞭解使用者資料如何從Microsoft Dynamics同步至Marketo。 瞭解哪些擁有者欄位同步，以及如何在智慧列示和流程動作中使用這些欄位。
 title: Microsoft [!DNL Dynamics] 同步 — 使用者同步
 exl-id: d642d4d2-2beb-42c6-a6b2-3da5df1cd9c8
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## 我可以使用Marketo建立使用者嗎？ {#can-i-create-an-user-using-marketo}
 
-不可以。 Marketo無法在[!DNL Dynamics]中建立使用者。
+否。Marketo無法在[!DNL Dynamics]中建立使用者。
 
 ## 哪些欄位會同步至Marketo？ {#which-fields-will-sync-to-marketo}
 

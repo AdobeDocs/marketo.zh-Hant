@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504770
-description: 檢視組織服務URL - Marketo檔案 — 產品檔案
+description: 瞭解如何在Microsoft Dynamics中尋找組織服務URL。 使用進階設定和開發人員資源來複製Marketo同步設定的URL。
 title: 檢視組織服務 URL
 exl-id: 37c6afa3-ae82-4134-8a00-b4dc08064f5d
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 14%
+source-wordcount: '90'
+ht-degree: 12%
 
 ---
 

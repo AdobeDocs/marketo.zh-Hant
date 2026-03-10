@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953465
-description: SFDC同步 — 在Salesforce中將銷售機會轉換為聯絡人 — Marketo檔案 — 產品檔案
+description: 瞭解當您在Salesforce中將銷售機會轉換為聯絡人時，會發生什麼情況。 瞭解Marketo如何反映變更，以及如何使用Lead已轉換觸發器和篩選器。
 title: SFDC同步 — 在Salesforce中將銷售機會轉換為聯絡人
 exl-id: 9c9dbe9a-80a6-4153-ac86-96f85025fe77
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---

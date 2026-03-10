@@ -1,11 +1,11 @@
 ---
-description: 步驟4之3 — 在MS [!DNL Dynamics] 上設定使用者端應用程式 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Microsoft Dynamics上設定使用者端應用程式以進行ROPC連線。 在Azure AD中註冊應用程式，並產生Marketo同步的使用者端密碼。
 title: 步驟4之3 — 在MS [!DNL Dynamics]上設定使用者端應用程式
 exl-id: e7897174-3303-4c3b-8832-3e10f34fca96
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571807
-description: 步驟3之2 — 在 [!DNL Dynamics] 中設定Marketo同步使用者（2011年內部部署） - Marketo檔案 — 產品檔案
+description: 瞭解如何在Dynamics 2011內部部署中設定Marketo同步使用者。 在Dynamics中建立使用者並指派Marketo同步使用者角色。
 title: 步驟3之2 — 在 [!DNL Dynamics] 中設定Marketo同步使用者（2011內部部署）
 exl-id: 807c8902-24a6-48b6-a5c9-96a72764fdef
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '354'
 ht-degree: 1%
 
 ---
@@ -63,7 +63,7 @@ ht-degree: 1%
 
 即將完成！ 在前往下一篇文章之前，我們僅有最後幾項的設定。
 
-1. 選取&#x200B;**[!UICONTROL Settings]**。 然後在樹狀結構中選取&#x200B;**[!UICONTROL Marketo Config]**。
+1. 選取 **[!UICONTROL Settings]**。然後在樹狀結構中選取&#x200B;**[!UICONTROL Marketo Config]**。
 
    ![](assets/image2015-4-2-14-3a20-3a51.png)
 

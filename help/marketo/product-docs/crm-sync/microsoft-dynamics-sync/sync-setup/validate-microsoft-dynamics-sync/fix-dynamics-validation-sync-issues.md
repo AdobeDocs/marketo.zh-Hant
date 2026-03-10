@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10095429
-description: 修正Dynamics驗證同步問題 — Marketo檔案 — 產品檔案
+description: 瞭解如何在驗證同步工具回報錯誤時修正Dynamics驗證同步問題。 疑難排解URL、憑證、同步使用者角色和其他設定步驟。
 title: 修正 Dynamics 驗證同步問題
 exl-id: 1a300249-65b7-49b1-bf50-82236916298f
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '487'
-ht-degree: 2%
+source-wordcount: '503'
+ht-degree: 1%
 
 ---
 

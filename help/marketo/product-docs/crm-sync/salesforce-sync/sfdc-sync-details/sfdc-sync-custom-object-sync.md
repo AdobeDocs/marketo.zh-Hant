@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953471
-description: SFDC同步 — 自訂物件同步 — Marketo檔案 — 產品檔案
+description: 瞭解如何設定從Salesforce到Marketo的自訂物件同步。 啟用自訂物件，並在智慧清單、觸發器和行銷活動中使用。
 title: SFDC同步 — 自訂物件同步
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '277'
-ht-degree: 2%
+source-wordcount: '292'
+ht-degree: 3%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 >[!PREREQUISITES]
 >

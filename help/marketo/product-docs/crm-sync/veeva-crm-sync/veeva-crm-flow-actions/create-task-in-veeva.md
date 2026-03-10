@@ -1,11 +1,11 @@
 ---
-description: 在 [!DNL Veeva] - Marketo檔案 — 產品檔案中建立任務
+description: 瞭解如何從Marketo在Veeva中建立任務，以告知銷售人員要做什麼以及何時做。 使用「建立工作」流程步驟並自訂主旨、說明和到期日。
 title: 在 [!DNL Veeva]中建立任務
 exl-id: 342e45dd-2038-432d-a6b6-1740c8f0b58e
 feature: Veeva CRM
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360366
-description: 步驟3之3 — 連線Marketo和Salesforce (Enterprise/Unlimited) - Marketo檔案 — 產品檔案
+description: 瞭解如何在最終的Enterprise或Unlimited步驟中連線Marketo和Salesforce。 擷取同步處理使用者安全性權杖並設定認證。
 title: 步驟3之3 — 連線Marketo和Salesforce (Enterprise/Unlimited)
 exl-id: ef74bc53-9dc9-43c7-a9aa-565463fdd2e5
 feature: Salesforce Integration
-source-git-commit: f27e0d42161161347cc4c774853fb04e7ccecb5c
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '431'
 ht-degree: 0%
 
 ---

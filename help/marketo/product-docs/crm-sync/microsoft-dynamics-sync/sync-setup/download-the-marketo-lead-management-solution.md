@@ -1,13 +1,13 @@
 ---
 unique-page-id: 6848922
-description: 下載Marketo銷售機會管理解決方案 — Marketo檔案 — 產品檔案
+description: 瞭解如何下載適用於Microsoft Dynamics的Marketo銷售機會管理解決方案。
 title: 下載 Marketo 商機管理解決方案
 exl-id: 2deafcfc-19f4-4cbf-8764-402a7f69c7d2
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 18%
+source-wordcount: '100'
+ht-degree: 21%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 18%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 您必須下載並安裝Marketo解決方案至您的[!DNL Microsoft Dynamics]帳戶，才能開始同步。
 

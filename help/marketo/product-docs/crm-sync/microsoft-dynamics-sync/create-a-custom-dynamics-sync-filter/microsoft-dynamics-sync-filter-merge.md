@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10092969
-description: Microsoft Dynamics同步篩選器 — 合併 — Marketo檔案 — 產品檔案
+description: 瞭解合併潛在客戶時Dynamics同步篩選器的運作方式。 瞭解成功記錄同步篩選器值如何決定記錄是否同步至Marketo。
 title: Microsoft Dynamics同步篩選器 — 合併
 exl-id: f8da9c3c-0f04-4f61-be03-7e7953d25afe
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---

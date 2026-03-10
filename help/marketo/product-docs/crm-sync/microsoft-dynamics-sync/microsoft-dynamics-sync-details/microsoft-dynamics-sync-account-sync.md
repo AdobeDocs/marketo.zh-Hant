@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571836
-description: Microsoft Dynamics同步 — 帳戶同步 — Marketo檔案 — 產品檔案
+description: 瞭解帳戶資訊如何從Microsoft Dynamics同步至Marketo。 瞭解單向同步和聯絡人 — 帳戶關係。
 title: Microsoft Dynamics同步 — 帳戶同步
 exl-id: 86249d33-60dd-47e1-a7c8-3996c9444084
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 ## 我可以使用Marketo建立帳戶嗎？ {#can-i-create-an-account-using-marketo}
 
-不可以。 Marketo無法在[!DNL Dynamics]中建立帳戶。
+否。Marketo無法在[!DNL Dynamics]中建立帳戶。
 
 ## 哪些欄位會同步至Marketo？ {#which-fields-will-sync-to-marketo}
 

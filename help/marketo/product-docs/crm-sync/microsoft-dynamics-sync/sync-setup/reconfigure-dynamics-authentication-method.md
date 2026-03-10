@@ -1,12 +1,12 @@
 ---
-description: 重新設定 [!DNL Dynamics] 驗證方法 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo中重新設定Dynamics驗證方法。 停用同步、使用重新設定新的驗證方法，以及驗證Web API或ROPC的認證。
 title: 重新設定 [!DNL Dynamics] 驗證方法
 exl-id: 2bd6a992-3dfd-4e91-bec5-9fb3f7bbb840
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 1%
+source-wordcount: '271'
+ht-degree: 2%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 1%
    >
    >您必須暫時停用全域同步才能更新驗證方法。
 
-1. 按一下「**[!UICONTROL Reconfigure New Auth Method]**」標籤。
+1. 按一下「**[!UICONTROL Reconfigure New Auth Method]**」索引標籤。
 
    ![](assets/reconfigure-dynamics-authentication-method-3.png)
 

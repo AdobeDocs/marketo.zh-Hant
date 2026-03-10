@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10097584
-description: 同步狀態 — Marketo檔案 — 產品檔案
+description: 瞭解Microsoft Dynamics同步狀態以及如何監控輸送量和待處理專案。 檢視Admin中的「同步狀態」和「同步錯誤」標籤。
 title: 同步狀態
 exl-id: cab1cb1d-2bc7-4466-bab8-c9e03ab269f7
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 2%
+source-wordcount: '162'
+ht-degree: 4%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 2%
 
    ![](assets/image2016-1-20-11-3a34-3a14.png)
 
-1. 按一下「**[!UICONTROL Sync Status]**」標籤。
+1. 按一下「**[!UICONTROL Sync Status]**」索引標籤。
 
    ![](assets/image2016-5-19-10-3a1-3a11.png)
 

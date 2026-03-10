@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953455
-description: SFDC同步 — 銷售機會同步 — Marketo檔案 — 產品檔案
+description: 瞭解銷售機會同步如何在Salesforce和Marketo之間運作。 瞭解雙向同步、從Marketo建立銷售機會，並遵守驗證規則。
 title: SFDC同步 — 銷售機會同步
 exl-id: cf38e091-7344-4b95-b9e1-77eda751c4a9
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '243'
 ht-degree: 2%
 
 ---
@@ -41,4 +41,4 @@ Marketo獲勝。 很少發生這類資料衝突。
 
 ## Marketo是否會遵守[!DNL Salesforce]驗證規則？ {#will-marketo-respect-the-salesforce-validation-rules}
 
-可以。如果資料格式錯誤或遺失必要欄位資訊，同步處理將會失敗。 如果發生此情況，Marketo會將結果記錄在潛在客戶活動記錄中。
+是的。如果資料格式錯誤或遺失必要欄位資訊，同步處理將會失敗。 如果發生此情況，Marketo會將結果記錄在潛在客戶活動記錄中。

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 3571830
-description: 步驟3之3 — 將Marketo解決方案與伺服器連線至伺服器 — Marketo檔案 — 產品檔案
+description: 瞭解如何透過伺服器對伺服器連線，將Marketo解決方案連線至Dynamics 365。 在Marketo Admin中輸入同步使用者資訊並進行驗證，然後再啟用同步。
 title: 步驟3之3 — 使用伺服器對伺服器連線連線Marketo解決方案
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '420'
-ht-degree: 0%
+source-wordcount: '430'
+ht-degree: 1%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 >[!IMPORTANT]
 >

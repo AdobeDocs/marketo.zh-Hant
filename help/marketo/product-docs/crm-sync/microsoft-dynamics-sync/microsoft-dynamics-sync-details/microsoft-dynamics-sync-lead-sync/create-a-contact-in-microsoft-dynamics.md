@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10095389
-description: 在Microsoft Dynamics中建立連絡人 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Microsoft Dynamics中從Marketo建立連絡人。 在觸發行銷活動中使用將人員同步至Microsoft流程動作，以即時建立聯絡人。
 title: 在 Microsoft Dynamics 中建立聯絡人
 exl-id: 66cb26c0-f383-4d1e-be22-e7f8c6b266fb
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 7%
+source-wordcount: '117'
+ht-degree: 5%
 
 ---
 

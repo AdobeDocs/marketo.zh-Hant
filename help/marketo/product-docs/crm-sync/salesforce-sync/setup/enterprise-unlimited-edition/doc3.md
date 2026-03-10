@@ -1,13 +1,13 @@
 ---
-description: 步驟3之3 — 連線Marketo與Salesforce (Enterprise/Unlimited) - Marketo檔案 — 產品檔案
+description: 瞭解如何在最終的Enterprise或Unlimited步驟中連線Marketo和Salesforce。 擷取同步處理使用者安全性權杖，並在Marketo管理中設定認證。
 title: 步驟3之3 — 連線Marketo和Salesforce (Enterprise/Unlimited)
 hide: true
 hidefromtoc: true
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 9%
+source-wordcount: '121'
+ht-degree: 8%
 
 ---
 

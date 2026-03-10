@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7504736
-description: 安裝適用於Microsoft Dynamics 2015的Marketo內部部署步驟1之3 - Marketo檔案 — 產品檔案
+description: 瞭解如何在內部部署安裝適用於Dynamics 2015的Marketo解決方案。 在Dynamics中匯入解決方案並完成安裝步驟。
 title: 安裝適用於Microsoft Dynamics 2015內部部署的Marketo步驟3之1
 exl-id: c9b6d365-15c1-4eff-938c-8433b1fe7f24
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '267'
 ht-degree: 1%
 
 ---

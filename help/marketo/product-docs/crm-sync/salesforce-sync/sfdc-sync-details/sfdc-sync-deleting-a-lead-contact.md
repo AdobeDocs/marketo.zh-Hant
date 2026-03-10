@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7515131
-description: SFDC同步 — 刪除銷售機會/連絡人 — Marketo檔案 — 產品檔案
+description: 瞭解Salesforce和Marketo之間的潛在客戶及聯絡人刪除運作方式。 瞭解SFDC刪除人員，以及從SFDC刪除流程動作。
 title: SFDC同步 — 刪除銷售機會/連絡人
 exl-id: b859357e-09c5-48e5-940e-f5b4e955e374
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '149'
 ht-degree: 4%
 
 ---

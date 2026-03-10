@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719304
-description: 隱含的Salesforce動作 — Marketo檔案 — 產品檔案
+description: 瞭解哪些Salesforce流程步驟會觸發自動將人員同步到SFDC或其他動作。 瞭解新增至行銷活動、變更擁有者、建立任務和轉換人員的規則。
 title: 隱含的 Salesforce 動作
 exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 27%
+source-wordcount: '157'
+ht-degree: 23%
 
 ---
 

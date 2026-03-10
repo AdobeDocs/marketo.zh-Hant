@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719306
-description: 從Salesforce同步隱藏Marketo欄位 — Marketo檔案 — 產品檔案
+description: 瞭解如何從Salesforce同步中隱藏Marketo欄位，以將效能最佳化。 在同步使用者設定檔上使用欄位層級安全性來排除不需要的欄位。
 title: 對 Marketo 同步隱藏 Salesforce 欄位
 exl-id: 5d7229f0-43b0-4232-93ed-a9ca52ace401
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 7%
+source-wordcount: '169'
+ht-degree: 11%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 Salesforce並非每個欄位都適合行銷使用。 您可以僅包含您需要的欄位，以最佳化同步效能。 以下說明如何從Marketo Engage隱藏欄位。
 

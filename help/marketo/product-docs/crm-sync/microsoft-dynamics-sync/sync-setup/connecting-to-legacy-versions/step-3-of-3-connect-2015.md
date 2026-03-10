@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504744
-description: 安裝適用於Microsoft Dynamics 2015的Marketo內部部署步驟3之3 - Marketo檔案 — 產品檔案
+description: 瞭解如何在最後一個步驟中將Marketo連線到內部部署的Dynamics 2015。 在Marketo Admin中輸入同步使用者認證並啟用同步。
 title: 安裝適用於Microsoft Dynamics 2015內部部署的Marketo步驟3之3
 exl-id: 054bf725-7a80-4114-8360-2d86e2e33dd7
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '359'
-ht-degree: 1%
+source-wordcount: '368'
+ht-degree: 2%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 ## 輸入[!DNL Dynamics]同步使用者資訊 {#enter-dynamics-sync-user-information}
 
@@ -44,7 +44,7 @@ ht-degree: 1%
    >
    >請確認您的認證正確無誤，因為提交後就無法回覆後續的結構描述變更。 如果儲存不正確的認證，您必須取得新的Marketo訂閱。
 
-1. 輸入&#x200B;**[!UICONTROL Username]**、**[!UICONTROL Password]** [!DNL Microsoft Dynamics] **URL**&#x200B;和&#x200B;**[!UICONTROL Client Id]/[!UICONTROL Client Secret]**。 完成時，按一下&#x200B;**[!UICONTROL Save]**。
+1. 輸入&#x200B;**[!UICONTROL Username]**、**[!UICONTROL Password]** [!DNL Microsoft Dynamics] **URL**&#x200B;和&#x200B;**[!UICONTROL Client Id]/[!UICONTROL Client Secret]**。 完成後請按一下 **[!UICONTROL Save]**。
 
    ![](assets/step-3-of-3-5.png)
 

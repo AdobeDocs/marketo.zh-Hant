@@ -1,12 +1,12 @@
 ---
-description: Salesforce同步錯誤 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo中檢視及篩選Salesforce同步錯誤。 請參閱記錄層級和工作層級失敗，並使用錯誤詳細資料來疑難排解同步問題。
 title: Salesforce 同步錯誤
 exl-id: 4819f423-30c6-48e3-8cec-5d298ceb7b56
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 3%
+source-wordcount: '190'
+ht-degree: 6%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 3%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 ## 檢視同步處理錯誤 {#view-sync-errors}
 
@@ -48,7 +48,7 @@ ht-degree: 3%
 
    ![](assets/salesforce-sync-errors-3.png)
 
-1. 選取您的日期與時間範圍，然後依「錯誤型別」（「工作層次」或「記錄層次」）進行篩選。 完成時，按一下&#x200B;**[!UICONTROL Apply]**。
+1. 選取您的日期與時間範圍，然後依「錯誤型別」（「工作層次」或「記錄層次」）進行篩選。 完成後請按一下 **[!UICONTROL Apply]**。
 
    ![](assets/salesforce-sync-errors-4.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 3571819
-description: 步驟3之3 — 連線Marketo和Dynamics （2013內部部署） - Marketo檔案 — 產品檔案
+description: 瞭解如何在最後一個步驟中連結Marketo和Dynamics 2013內部部署。 在Marketo Admin中輸入同步使用者資訊，並啟用同步。
 title: 步驟3之3 — 連線Marketo和Dynamics （2013內部部署）
 exl-id: e28f1cc3-ee15-4981-a537-6c4a1682c4c1
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '374'
-ht-degree: 0%
+source-wordcount: '384'
+ht-degree: 1%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 ## 輸入[!DNL Dynamics]同步使用者資訊 {#enter-dynamics-sync-user-information}
 

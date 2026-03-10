@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571797
-description: 步驟3之2 — 建立Marketo （專業）的Salesforce使用者 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用Professional版本為Marketo建立Salesforce使用者。 設定版面配置並建立具有潛在客戶和聯絡人欄位許可權的同步使用者。
 title: 步驟3之2 — 建立Marketo的Salesforce使用者（專業）
 exl-id: 7eb4bf89-b6e4-45e0-adee-e2976cb01dd3
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '344'
+source-wordcount: '356'
 ht-degree: 0%
 
 ---

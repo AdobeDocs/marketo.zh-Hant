@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571848
-description: Microsoft Dynamics同步 — 銷售機會同步 — Marketo檔案 — 產品檔案
+description: 瞭解銷售機會同步如何在Microsoft Dynamics和Marketo之間運作。 瞭解雙向同步功能，並透過將人員同步至Microsoft來建立銷售機會。
 title: Microsoft Dynamics同步 — 銷售機會同步
 exl-id: ea04a039-32f7-41f9-85fb-18df8e236390
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---
@@ -45,4 +45,4 @@ Marketo與[!DNL Dynamics]的同步處理功能非常強大。 詳細資料如下
 
 ## Marketo是否會遵守[!DNL Dynamics]驗證規則？ {#will-marketo-respect-the-dynamics-validation-rules}
 
-可以。如果資料格式錯誤或遺失必要欄位資訊，同步處理將會失敗。 如果發生此情況，Marketo會將結果記錄在人員的活動記錄中。
+是的。如果資料格式錯誤或遺失必要欄位資訊，同步處理將會失敗。 如果發生此情況，Marketo會將結果記錄在人員的活動記錄中。

@@ -1,11 +1,11 @@
 ---
-description: 同步呼叫和呼叫重要訊息 — Marketo檔案 — 產品檔案
+description: 瞭解如何從Veeva CRM將呼叫和呼叫重要訊息物件同步到Marketo Engage。 在智慧清單和行銷活動中使用呼叫相關的觸發器和篩選器。
 title: 同步呼叫和呼叫關鍵訊息
 exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
 feature: Veeva CRM
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '477'
+source-wordcount: '493'
 ht-degree: 6%
 
 ---
@@ -109,7 +109,7 @@ ht-degree: 6%
     <tr>
       <td>號召</td>
       <td>記錄型別</td>
-      <td> </td>
+      <td>  </td>
       <td>RecordTypeId</td>
       <td>記錄型別</td>
     </tr>
@@ -144,7 +144,7 @@ ht-degree: 6%
     <tr>
       <td>呼叫鍵訊息</td>
       <td>產品名稱</td>
-      <td> </td>
+      <td>  </td>
       <td>Product_Name__c</td>
       <td>公式（文字）</td>
     </tr>

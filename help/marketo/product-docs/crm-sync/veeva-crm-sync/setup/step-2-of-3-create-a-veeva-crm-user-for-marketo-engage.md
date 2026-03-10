@@ -1,12 +1,12 @@
 ---
-description: 步驟2之3 — 建立Marketo Engage的 [!DNL Veeva] CRM使用者 — Marketo檔案 — 產品檔案
+description: 瞭解如何建立Veeva CRM使用者以進行Marketo Engage同步。 設定頁面配置、建立同步使用者以及指派欄位更新的許可權。
 title: 步驟3之2 — 建立Marketo Engage的Veeva CRM使用者
 exl-id: 78945192-36b0-4e0b-830a-f37eb0b83484
 feature: Veeva CRM
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '545'
-ht-degree: 6%
+source-wordcount: '555'
+ht-degree: 7%
 
 ---
 
@@ -142,7 +142,7 @@ ht-degree: 6%
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-18.png)
 
-找出不必要的欄位，確定[!UICONTROL Read Access]和[!UICONTROL Edit Access]已&#x200B;**取消勾選**。 完成時，按一下&#x200B;**[!UICONTROL Save]**。
+找出不必要的欄位，確定[!UICONTROL Read Access]和[!UICONTROL Edit Access]已&#x200B;**取消勾選**。 完成後請按一下 **[!UICONTROL Save]**。
 
 ![](assets/step-2-of-3-create-a-veeva-crm-user-19.png)
 
@@ -150,7 +150,7 @@ ht-degree: 6%
 >
 >僅編輯自訂欄位的協助工具。
 
-1. 在您停用完所有不必要的欄位後，請檢查[!UICONTROL Read Access]和[!UICONTROL Edit Access]下列物件欄位。 完成時，按一下&#x200B;**[!UICONTROL Save]**。
+1. 在您停用完所有不必要的欄位後，請檢查[!UICONTROL Read Access]和[!UICONTROL Edit Access]下列物件欄位。 完成後請按一下 **[!UICONTROL Save]**。
 
 <table>
  <tbody>
@@ -163,7 +163,7 @@ ht-degree: 6%
    <td>型別欄位</td>
   </tr>
   <tr>
-   <td>活動</td>
+   <td>事件</td>
    <td>所有欄位</td>
   </tr>
   <tr>

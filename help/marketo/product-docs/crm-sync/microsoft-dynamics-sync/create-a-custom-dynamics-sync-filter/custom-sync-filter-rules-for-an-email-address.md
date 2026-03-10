@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10095307
-description: 電子郵件地址的自訂同步篩選規則 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Dynamics中為電子郵件地址設定自訂同步篩選規則。 根據潛在客戶或聯絡人是否有電子郵件，使用工作流程將同步設定為Mkto。
 title: 電子郵件地址的自訂同步篩選器規則
 exl-id: d1d51310-0c59-447c-818c-b25aa281c15c
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 8%
+source-wordcount: '213'
+ht-degree: 7%
 
 ---
 

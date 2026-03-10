@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719283
-description: 了解 Salesforce 同步 - Marketo 文件 - 產品文件
+description: 瞭解Salesforce同步如何讓Marketo和Salesforce資料保持同步。 瞭解已同步的內容，以及雙向同步如何用於潛在客戶和聯絡人。
 title: 了解 Salesforce 同步
 exl-id: 658c81ff-5fb3-4ad8-8759-da55bbf4e263
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '212'
-ht-degree: 100%
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+workflow-type: tm+mt
+source-wordcount: '229'
+ht-degree: 89%
 
 ---
 

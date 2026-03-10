@@ -1,12 +1,12 @@
 ---
-description: 步驟4之4 — 使用資源所有者密碼控制連線來連線Marketo解決方案 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用ROPC連線將Marketo解決方案連線至Dynamics 365。 在Marketo Admin中輸入同步使用者認證並啟用同步。
 title: 步驟4之4 — 使用資源擁有者密碼控制連線來連線Marketo解決方案
 exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '391'
-ht-degree: 0%
+source-wordcount: '397'
+ht-degree: 2%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 >[!NOTE]
 >
@@ -54,7 +54,7 @@ ht-degree: 0%
    >
    >輸入新認證之前，您可以[在此驗證認證](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"}。
 
-1. 輸入&#x200B;**[!UICONTROL Username]**、**[!UICONTROL Password]**、[!DNL Microsoft Dynamics]、**[!UICONTROL URL]**、**[!UICONTROL Client ID]**&#x200B;和&#x200B;**[!UICONTROL Client Secret]**。 完成時，按一下&#x200B;**[!UICONTROL Save]**。
+1. 輸入&#x200B;**[!UICONTROL Username]**、**[!UICONTROL Password]**、[!DNL Microsoft Dynamics]、**[!UICONTROL URL]**、**[!UICONTROL Client ID]**&#x200B;和&#x200B;**[!UICONTROL Client Secret]**。 完成後請按一下 **[!UICONTROL Save]**。
 
    ![](assets/step-4-of-4-connect-ropc-5.png)
 

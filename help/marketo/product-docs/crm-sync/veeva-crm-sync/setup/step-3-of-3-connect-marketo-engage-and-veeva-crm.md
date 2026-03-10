@@ -1,12 +1,12 @@
 ---
-description: 步驟3之3 — 連線Marketo Engage與 [!DNL Veeva] CRM - Marketo檔案 — 產品檔案
+description: 瞭解如何在最後的設定步驟中將Marketo Engage連結至Veeva CRM。 設定OAuth、確認認證及同步欄位以完成連線。
 title: 步驟3之3 — 連線Marketo Engage和 [!DNL Veeva] CRM
 exl-id: aff91540-1d9d-448c-aae9-e6fa92a8ae01
 feature: Veeva CRM
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '305'
-ht-degree: 1%
+source-wordcount: '317'
+ht-degree: 2%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 1%
 
 ## 使用OAuth連線至[!DNL Veeva] CRM {#connect-to-veeva-crm-using-oauth}
 
-1. 在Marketo中，按一下&#x200B;**[!UICONTROL Admin]**。 選取&#x200B;**[!UICONTROL CRM]**&#x200B;並按一下&#x200B;**[!UICONTROL Sync with Veeva]**。
+1. 在Marketo中，按一下&#x200B;**[!UICONTROL Admin]**。 選取「**[!UICONTROL CRM]**」然後按一下「**[!UICONTROL Sync with Veeva]**」。
 
    ![](assets/step-3-of-3-connect-marketo-engage-1.png)
 

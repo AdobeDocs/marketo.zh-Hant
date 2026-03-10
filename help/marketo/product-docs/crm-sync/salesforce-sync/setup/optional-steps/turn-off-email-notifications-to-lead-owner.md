@@ -1,12 +1,12 @@
 ---
 unique-page-id: 13795802
-description: 關閉傳送給潛在客戶所有者的電子郵件通知 — Marketo檔案 — 產品檔案
+description: 瞭解如何在指派銷售機會時，在Salesforce中關閉銷售機會所有者的電子郵件通知。
 title: 關閉傳送給商機所有者的電子郵件通知
 exl-id: e079ed85-5fdd-49c9-a89c-aaf854a5db63
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '53'
+source-wordcount: '59'
 ht-degree: 33%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 33%
 
 您可以在銷售機會指派時停用在[!DNL Salesforce]中傳送給銷售機會擁有者的自動電子郵件通知。 方法如下。
 
-1. 移至&#x200B;**[!UICONTROL Admin]**。
+1. 前往 **[!UICONTROL Admin]**。
 
    ![](assets/admin-1.png)
 

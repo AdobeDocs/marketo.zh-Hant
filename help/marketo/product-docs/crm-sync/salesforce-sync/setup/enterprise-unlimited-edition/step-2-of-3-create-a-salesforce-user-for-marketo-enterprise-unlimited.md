@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360364
-description: 步驟3之2 — 建立Marketo的Salesforce使用者(Enterprise/Unlimited) - Marketo檔案 — 產品檔案
+description: 瞭解如何使用Enterprise或Unlimited版本為Marketo建立Salesforce使用者。 建立設定檔、設定許可權，並建立Marketo-Salesforce同步處理使用者。
 title: 步驟3之2 — 建立Marketo的Salesforce使用者(Enterprise/Unlimited)
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '351'
+source-wordcount: '360'
 ht-degree: 2%
 
 ---

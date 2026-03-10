@@ -1,12 +1,12 @@
 ---
-description: 授予使用者端ID和應用程式註冊的同意 — Marketo檔案 — 產品檔案
+description: 瞭解如何授與用於Dynamics同步處理之使用者端ID和應用程式註冊的同意。 建置授權URI並授與同步處理使用者的委派使用者許可權。
 title: 授予用戶端 ID 和應用程式註冊的同意
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '255'
-ht-degree: 6%
+source-wordcount: '272'
+ht-degree: 7%
 
 ---
 
@@ -63,7 +63,7 @@ ht-degree: 6%
 
    >[!NOTE]
    >
-   >如果您已在其他索引標籤中以管理員身分登入Azure，您將需要使用不同的瀏覽器或無痕模式以同步使用者身分登入。
+   >如果您已在其他索引標籤中以管理員身分登入Azure，則需使用其他瀏覽器或無痕模式以同步使用者身分登入。
 
 1. 按一下「**[!UICONTROL Accept]**」。
 
@@ -83,6 +83,6 @@ ht-degree: 6%
 
    ![](assets/grant-consent-for-client-id-app-registration-5.png)
 
-1. 按一下&#x200B;**[!UICONTROL Yes]**&#x200B;確認。
+1. 按一下 **[!UICONTROL Yes]** 確認。
 
    ![](assets/grant-consent-for-client-id-app-registration-6.png)

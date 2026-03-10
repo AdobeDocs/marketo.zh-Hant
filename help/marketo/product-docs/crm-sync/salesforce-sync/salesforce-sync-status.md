@@ -1,11 +1,11 @@
 ---
-description: Salesforce同步狀態 — Marketo檔案 — 產品檔案
+description: 瞭解Salesforce同步狀態控制面板以及如何檢視同步狀態。 依日期、作業型別或物件型別篩選，並將同步錯誤匯出為CSV。
 title: Salesforce 同步狀態
 exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: '562'
 ht-degree: 7%
 
 ---

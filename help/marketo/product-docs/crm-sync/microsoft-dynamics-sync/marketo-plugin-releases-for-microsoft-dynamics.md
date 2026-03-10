@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10099389
-description: 適用於 [!DNL Microsoft Dynamics] 的Marketo外掛程式發行版本 — Marketo檔案 — 產品檔案
+description: 瞭解適用於Microsoft Dynamics的Marketo外掛程式版本。 尋找版本記錄並下載您Dynamics執行個體適用的最新Marketo解決方案。
 title: 適用於 [!DNL Microsoft Dynamics]的Marketo外掛程式發行版本
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '457'
+source-wordcount: '470'
 ht-degree: 0%
 
 ---

@@ -1,11 +1,11 @@
 ---
-description: 步驟4之2 — 使用資源擁有者密碼控制連線設定Marketo解決方案 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用ROPC連線設定Marketo解決方案。 在Dynamics中建立同步處理使用者，並指派Marketo同步處理使用者角色以進行驗證。
 title: 步驟4之2 — 使用資源擁有者密碼控制連線設定Marketo解決方案
 exl-id: 41c05910-d8e3-4fb7-8f68-17ee10294e57
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '404'
 ht-degree: 1%
 
 ---

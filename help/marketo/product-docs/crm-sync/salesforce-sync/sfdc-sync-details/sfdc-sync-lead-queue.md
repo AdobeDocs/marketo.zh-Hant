@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7516241
-description: SFDC Sync — 潛在客戶佇列 — Marketo檔案 — 產品檔案
+description: 瞭解如何從Marketo將人員指派給Salesforce銷售機會佇列。 針對銷售機會分配，使用「同步處理人員至SFDC」或「變更擁有者」流程動作。
 title: SFDC同步 — 潛在客戶佇列
 exl-id: b3b5e14c-f914-429c-a4b9-6b535ad8e882
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 3%
+source-wordcount: '145'
+ht-degree: 2%
 
 ---
 

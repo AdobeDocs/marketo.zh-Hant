@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719291
-description: 設定預設人員姓氏和公司名稱 — Marketo檔案 — 產品檔案
+description: 瞭解如何設定Salesforce同步的預設人員姓氏和公司名稱。 使用管理和同步選項，讓部分記錄與預設值同步。
 title: 設定預設人員姓氏和公司名稱
 exl-id: 0216fb41-adf0-4ccf-be22-c064e90be65a
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 13%
+source-wordcount: '141'
+ht-degree: 12%
 
 ---
 

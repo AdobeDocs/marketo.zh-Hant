@@ -1,11 +1,11 @@
 ---
-description: 安裝Marketo for [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365內部部署步驟2之3 - Marketo檔案 — 產品檔案
+description: 瞭解如何為Dynamics 2016或Dynamics 365內部部署設定Marketo同步使用者。 在Dynamics中建立使用者並指派Marketo同步使用者角色。
 title: 為 [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365內部部署步驟2之3安裝Marketo
 exl-id: c789b977-7ada-4f5d-8488-e1b58963f7e3
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '459'
 ht-degree: 1%
 
 ---
@@ -36,7 +36,7 @@ ht-degree: 1%
 
    ![](assets/step-2-of-3-marketo-on-premises-2016-4.png)
 
-1. 按一下&#x200B;**[!UICONTROL Add and License Users]**。 新標籤應會開啟。
+1. 按一下「**[!UICONTROL Add and License Users]**」。 新標籤應會開啟。
 
    ![](assets/step-2-of-3-marketo-on-premises-2016-5.png)
 

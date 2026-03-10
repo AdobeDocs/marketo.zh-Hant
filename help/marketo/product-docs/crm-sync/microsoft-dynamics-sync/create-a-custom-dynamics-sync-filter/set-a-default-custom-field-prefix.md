@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10094647
-description: 設定預設自訂欄位首碼 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Microsoft Dynamics中將預設自訂欄位首碼設為「新增」。 使用設定和自訂，以便Marketo專有欄位正確同步。
 title: 設定預設自訂欄位前置詞
 exl-id: 5608864b-356d-451b-b079-4ea11c3296e5
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 17%
+source-wordcount: '102'
+ht-degree: 14%
 
 ---
 

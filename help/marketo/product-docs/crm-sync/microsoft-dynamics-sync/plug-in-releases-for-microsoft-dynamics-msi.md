@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10099102
-description: ' [!DNL Microsoft Dynamics] MSI的外掛程式發行版本 — Marketo檔案 — 產品檔案'
+description: 瞭解Microsoft Dynamics MSI的外掛程式版本。 尋找版本歷程記錄並下載您Dynamics版本的最新Marketo解決方案。
 title: ' [!DNL Microsoft Dynamics] MSI的外掛程式發行版本'
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
-source-git-commit: 6fb25aab33dfc0f6792950a7d5d802a9e4be8303
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '433'
+source-wordcount: '446'
 ht-degree: 1%
 
 ---

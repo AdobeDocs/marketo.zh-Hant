@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571844
-description: Microsoft Dynamics Sync -Opportunity Sync - Marketo檔案 — 產品檔案
+description: 瞭解機會同步從Microsoft Dynamics到Marketo的運作方式。 瞭解單向同步，以及商機如何與聯絡人和潛在客戶建立關聯。
 title: Microsoft Dynamics同步 — 機會同步
 exl-id: dcb72f28-c980-4183-8473-a1e5ad0c8d3c
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---

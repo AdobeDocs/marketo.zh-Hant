@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719302
-description: 啟用非英文的自訂物件同步 — Marketo檔案 — 產品檔案
+description: 瞭解當Marketo同步使用者使用非英文語言時，如何啟用自訂物件同步。 在Salesforce中將同步使用者語言設為英文，然後重新整理結構描述。
 title: 啟用非英語自訂物件同步
 exl-id: 5d1c5b52-5323-4f68-847b-7d24e6acd6c4
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 8%
+source-wordcount: '157'
+ht-degree: 7%
 
 ---
 

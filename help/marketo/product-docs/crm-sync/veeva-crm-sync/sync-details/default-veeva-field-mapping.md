@@ -1,11 +1,11 @@
 ---
-description: 預設 [!DNL Veeva] 欄位對應 — Marketo檔案 — 產品檔案
+description: 瞭解Veeva CRM和Marketo Engage之間的預設Veeva欄位對應。 瞭解聯絡人欄位和帳戶欄位如何對應，以及哪些自訂欄位同步。
 title: 預設 [!DNL Veeva] 欄位對應
 exl-id: 3bf36d50-daea-431f-9537-b3007ad75945
 feature: Veeva CRM
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '270'
 ht-degree: 36%
 
 ---
@@ -54,7 +54,7 @@ ht-degree: 36%
     </tr>
     <tr>
       <td>電子郵件選擇退出</td>
-      <td>退訂</td>
+      <td>已取消訂閱</td>
     </tr>
     <tr>
       <td>已刪除</td>
@@ -65,11 +65,11 @@ ht-degree: 36%
       <td>姓氏</td>
     </tr>
     <tr>
-      <td>銷售機會來源</td>
+      <td>銷售線索來源</td>
       <td>來源</td>
     </tr>
     <tr>
-      <td>銷售機會分數</td>
+      <td>銷售線索分數</td>
       <td>分數</td>
     </tr>
     <tr>

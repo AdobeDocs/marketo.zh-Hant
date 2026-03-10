@@ -1,11 +1,11 @@
 ---
-description: 在Dynamics - Marketo檔案 — 產品檔案中刪除欄位之前先編輯要同步的欄位
+description: 瞭解在Dynamics中刪除欄位之前，如何在Marketo中編輯要同步的欄位。 停用同步、重新整理結構描述，並從同步選取範圍中移除欄位。
 title: 在 Dynamics 中刪除欄位之前先編輯要同步的欄位
 exl-id: 6fa9f6c0-c69d-478f-b333-13a5c910f577
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '194'
 ht-degree: 5%
 
 ---

@@ -1,12 +1,12 @@
 ---
-description: 啟用Campaign同步 — Marketo檔案 — 產品檔案
+description: 瞭解如何啟用Microsoft Dynamics與Marketo之間的Campaign同步。 開啟「管理員」中的選項，讓Marketo程式與Dynamics行銷活動同步。
 title: 啟用行銷活動同步
 exl-id: b33af554-b4c0-465c-a5a4-3ee3450af5e5
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 7%
+source-wordcount: '107'
+ht-degree: 9%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 7%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 1. 在您的&#x200B;**[!UICONTROL My Marketo]**&#x200B;中，按一下&#x200B;**[!UICONTROL Admin]**。
 

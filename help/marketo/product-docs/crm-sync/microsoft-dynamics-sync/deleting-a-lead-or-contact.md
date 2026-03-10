@@ -1,12 +1,12 @@
 ---
 unique-page-id: 45417322
-description: 刪除銷售機會或連絡人 — Marketo檔案 — 產品檔案
+description: 瞭解Microsoft Dynamics和Marketo之間的潛在客戶及聯絡人刪除運作方式。 視需要使用Microsoft的已刪除旗標和刪除人員流程動作。
 title: 刪除商機或聯絡人
 exl-id: d561b424-6a2b-4abe-b9bd-81eb23f1a25b
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '166'
 ht-degree: 6%
 
 ---

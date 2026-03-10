@@ -1,11 +1,11 @@
 ---
-description: 預設動態欄位對應 — Marketo檔案 — 產品檔案
+description: 瞭解Dynamics和Marketo之間的預設Microsoft Dynamics欄位對應。 檢視銷售機會、聯絡人、帳戶和機會欄位如何自動對應。
 title: 預設 Dynamics 欄位對應
 exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '332'
+source-wordcount: '345'
 ht-degree: 4%
 
 ---
@@ -244,7 +244,7 @@ ht-degree: 4%
       <th>MS Dynamics API名稱</th>
     </tr>
     <tr>
-      <td>[!UICONTROL Owner] </td>
+      <td>[!UICONTROL Owner]  </td>
       <td>ownerid</td>
     </tr>
     <tr>
@@ -459,7 +459,7 @@ ht-degree: 4%
       <th>MS Dynamics API名稱</th>
     </tr>
     <tr>
-      <td>[!UICONTROL Owner] </td>
+      <td>[!UICONTROL Owner]  </td>
       <td>ownerid</td>
     </tr>
     <tr>
@@ -603,7 +603,7 @@ ht-degree: 4%
       <th>MS Dynamics API名稱</th>
     </tr>
     <tr>
-      <td>[!UICONTROL Owner] </td>
+      <td>[!UICONTROL Owner]  </td>
       <td>ownerid</td>
     </tr>
     <tr>
@@ -673,7 +673,7 @@ ht-degree: 4%
       <th>MS Dynamics API名稱</th>
     </tr>
     <tr>
-      <td>[!UICONTROL Owner] </td>
+      <td>[!UICONTROL Owner]  </td>
       <td>ownerid</td>
     </tr>
     <tr>

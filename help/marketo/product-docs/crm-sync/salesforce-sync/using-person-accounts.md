@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719316
-description: 使用個人帳戶 — Marketo檔案 — 產品檔案
+description: 瞭解Marketo Engage如何處理Salesforce個人帳戶。 區分個人和公司帳戶，並在智慧清單中使用Is Person帳戶篩選器。
 title: 使用人員帳戶
 exl-id: 3cc67ff2-f689-4dfb-8b67-2b5b8d389aaf
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '294'
 ht-degree: 2%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571838
-description: Microsoft Dynamics同步 — 欄位同步 — Marketo檔案 — 產品檔案
+description: 瞭解欄位同步如何在Microsoft Dynamics和Marketo之間運作。 瞭解潛在客戶和聯絡人的雙向同步以及其他實體的單向同步。
 title: Microsoft Dynamics同步 — 欄位同步
 exl-id: 78eef0eb-4086-45c5-bce3-a3399016f228
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---

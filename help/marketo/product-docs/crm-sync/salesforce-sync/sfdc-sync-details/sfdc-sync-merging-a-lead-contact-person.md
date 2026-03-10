@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7515133
-description: SFDC同步 — 合併銷售機會/聯絡人/人員 — Marketo檔案 — 產品檔案
+description: 瞭解Salesforce和Marketo中合併銷售機會、聯絡人和人員的運作方式。 瞭解分數、欄位值和活動記錄的合併規則。
 title: SFDC同步 — 合併銷售機會/聯絡人/人員
 exl-id: 0e755c80-27cd-4ba3-b540-d7918264c5f6
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '203'
 ht-degree: 3%
 
 ---

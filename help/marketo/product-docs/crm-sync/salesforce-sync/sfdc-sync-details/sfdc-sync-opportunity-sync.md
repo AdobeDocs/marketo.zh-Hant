@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953467
-description: SFDC同步 — Opportunity同步 — Marketo檔案 — 產品檔案
+description: 瞭解機會同步從Salesforce到Marketo的運作方式。 瞭解商機如何同步、與聯絡人建立關聯，以及使用商機觸發器和篩選器。
 title: SFDC同步 — 機會同步
 exl-id: f8acc528-c631-43f0-8899-2f3c6fdabe9e
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '279'
-ht-degree: 1%
+source-wordcount: '293'
+ht-degree: 4%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->您在Marketo中為[輸入的 [!DNL Salesforce]](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)認證可用來同步資料。 只有這些認證有權存取的資料才會包括在內。
+>您在Marketo中為[輸入的 [!DNL Salesforce]](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)認證可用來同步資料。 只有這些認證可存取的資料才會包括在內。
 
 ## 我可以起始機會同步處理嗎？ {#can-i-initiate-an-opportunity-sync}
 

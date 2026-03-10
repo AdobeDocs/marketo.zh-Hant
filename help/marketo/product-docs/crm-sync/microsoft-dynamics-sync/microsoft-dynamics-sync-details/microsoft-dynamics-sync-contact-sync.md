@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571833
-description: Microsoft Dynamics同步 — 連絡人同步 — Marketo檔案 — 產品檔案
+description: 瞭解Microsoft Dynamics與Marketo之間如何進行連絡人同步作業。 瞭解雙向同步、從Marketo建立連絡人和資料衝突規則。
 title: Microsoft Dynamics同步 — 連絡人同步
 exl-id: d4583ea0-2b52-415e-b28c-a8eafebeff64
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 ## 我可以使用Marketo建立連絡人嗎？ {#can-i-create-a-contact-using-marketo}
 
-可以。[以下是](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync/create-a-contact-in-microsoft-dynamics.md){target="_blank"}的方式。
+是的。[以下是](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync/create-a-contact-in-microsoft-dynamics.md){target="_blank"}的方式。
 
 >[!NOTE]
 >

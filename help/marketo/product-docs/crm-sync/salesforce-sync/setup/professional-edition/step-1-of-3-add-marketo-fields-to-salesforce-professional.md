@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11372975
-description: 步驟3之1 — 將Marketo欄位新增至Salesforce （專業） - Marketo檔案 — 產品檔案
+description: 瞭解如何將Marketo欄位新增至Salesforce Professional版本。 針對潛在客戶和聯絡物件建立分數、贏取方案和贏取日期。
 title: 步驟3之1 — 將Marketo欄位新增至Salesforce （專業）
 exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '722'
-ht-degree: 9%
+source-wordcount: '730'
+ht-degree: 8%
 
 ---
 

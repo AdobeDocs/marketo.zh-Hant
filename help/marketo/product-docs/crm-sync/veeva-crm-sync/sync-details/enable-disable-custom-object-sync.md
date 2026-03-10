@@ -1,11 +1,11 @@
 ---
-description: 啟用/停用自訂物件同步 — Marketo檔案 — 產品檔案
+description: 瞭解如何啟用或停用Veeva CRM與Marketo Engage之間的自訂物件同步。 使用「管理員」和「Veeva物件同步」來選取和同步自訂物件。
 title: 啟用/停用自訂物件同步
 exl-id: 01417fb6-70f5-449b-ad56-42e1c0b2ff68
 feature: Veeva CRM
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '202'
 ht-degree: 5%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719308
-description: 將現有的Salesforce欄位新增至Marketo同步 — Marketo檔案 — 產品檔案
+description: 瞭解如何將現有的Salesforce欄位新增至Marketo同步處理。 在Salesforce中將欄位設為同步使用者可見，以便在下一個週期同步。
 title: 新增現有的 Salesforce 欄位至 Marketo 同步
 exl-id: 6030aedd-9c4b-411f-89c7-f35fd39b0066
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 6%
+source-wordcount: '162'
+ht-degree: 8%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 6%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 通常，Salesforce中的新自訂欄位會自動同步至Marketo Engage。 如果沒有，Marketo Sync使用者可能無法看見這些欄位。 以下說明修正方法。
 

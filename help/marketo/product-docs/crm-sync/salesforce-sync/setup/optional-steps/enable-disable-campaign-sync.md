@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719289
-description: 啟用/停用Campaign同步 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo Engage中啟用或停用Salesforce行銷活動同步。
 title: 啟用/停用行銷活動同步
 exl-id: a8d53268-75b9-479d-8ffc-b3f19eb77483
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '86'
 ht-degree: 10%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719294
-description: 自訂活動同步 — Marketo檔案 — 產品檔案
+description: 瞭解如何自訂Marketo推送至Salesforce的活動。 在「管理員」和「同步選項」中啟用活動型別，從事件建立Salesforce活動歷史記錄。
 title: 自訂活動同步
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 3%
+source-wordcount: '271'
+ht-degree: 4%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 3%
 >
 >Salesforce/Marketo Engage同步不會將任何人推送至Salesforce前發生的任何活動推送至Salesforce。
 
-1. 移至&#x200B;**[!UICONTROL Admin]**。
+1. 前往 **[!UICONTROL Admin]**。
 
    ![](assets/customize-activities-sync-1.png)
 

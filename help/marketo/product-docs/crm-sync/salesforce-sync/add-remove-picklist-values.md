@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719312
-description: 新增/移除挑選清單值 — Marketo檔案 — 產品檔案
+description: 瞭解如何新增和移除Salesforce挑選清單值，以及這些值對Marketo有何影響。 從通知中新增值至表單，並在需要時手動移除值。
 title: 新增/移除選項清單值
 exl-id: f1230c43-10cb-47ff-89d7-9f835b034db0
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '243'
 ht-degree: 3%
 
 ---

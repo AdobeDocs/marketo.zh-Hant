@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10098379
-description: 將與Microsoft Dynamics快速同步用於新自訂欄位 — Marketo檔案 — 產品檔案
+description: 瞭解如何在新增自訂欄位時與Microsoft Dynamics搭配使用「快速同步」 。 新增欄位後，從Dynamics重新整理欄位資料至Marketo。
 title: 使用 Microsoft Dynamics 快速同步新的自訂欄位
 exl-id: c98f1443-c0dd-40e1-919b-f8110088b38a
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '336'
-ht-degree: 5%
+source-wordcount: '348'
+ht-degree: 4%
 
 ---
 
