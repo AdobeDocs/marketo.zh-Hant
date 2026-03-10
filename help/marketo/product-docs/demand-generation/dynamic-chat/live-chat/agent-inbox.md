@@ -3,10 +3,10 @@ description: 代理程式收件匣 — Marketo檔案 — 產品檔案
 title: 代理人收件匣
 feature: Dynamic Chat
 exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b3b62c9c73330415d11b1d19599862ae22eb453d
 workflow-type: tm+mt
-source-wordcount: '550'
-ht-degree: 0%
+source-wordcount: '581'
+ht-degree: 1%
 
 ---
 
@@ -116,7 +116,13 @@ ht-degree: 0%
 
    ![](assets/agent-inbox-16.png)
 
-## 交談摘要 {#conversation-summary}
+## 下載逐字稿 {#download-transcript}
+
+即時聊天結束後，請按一下聊天視窗底部的&#x200B;**下載成績單**&#x200B;按鈕，對話的.txt檔案會自動下載到您的[下載]資料夾。
+
+![](assets/agent-inbox-17.png)
+
+## 對話摘要 {#conversation-summary}
 
 >[!NOTE]
 >
@@ -124,7 +130,7 @@ ht-degree: 0%
 
 交談摘要會即時為您產生快速摘要，包括訪客表示有興趣的主題。 它位於每個聊天畫面的右下角。
 
-![](assets/agent-inbox-17.png)
+![](assets/agent-inbox-18.png)
 
 >[!NOTE]
 >
