@@ -94,7 +94,7 @@ Dynamic Chat透過Salesforce整合與Marketo Engage Salesforce整合。
 
 Dynamic Chat中使用多個辭彙。 其中許多的定義可在各自區域的說明文章中找到。
 
-* 您可以在此找到「已取得人員」之類的Analytics辭彙[](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions){target="_blank"}。
+* 您可以在此找到「已取得人員」之類的Analytics辭彙[&#128279;](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions){target="_blank"}。
 * 智慧清單觸發程式/篩選器定義[可以在這裡找到](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md#definitions){target="_blank"}。
 * 各種串流Designer卡片[的說明可在此找到](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards){target="_blank"}。
 

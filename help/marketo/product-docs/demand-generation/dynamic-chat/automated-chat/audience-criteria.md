@@ -46,7 +46,7 @@ ht-degree: 1%
 
    ![](assets/audience-criteria-7.png)
 
-1. _[!UICONTROL Is]_已預設設定。 在「選取值」欄位中輸入CA （您也可以按一下下拉式清單，然後從清單中選取）。
+1. _[!UICONTROL Is]_&#x200B;已預設設定。 在「選取值」欄位中輸入CA （您也可以按一下下拉式清單，然後從清單中選取）。
 
    ![](assets/audience-criteria-8.png)
 
@@ -88,7 +88,7 @@ ht-degree: 1%
    >
    >當有人造訪您的網站時，[Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}會對其進行Cookie並將其放入系統中。 我們會在特殊的資料庫中查詢他們的IP，並推斷出各種好的資訊。
 
-1. _[!UICONTROL Is]_已預設設定。 在「選取值」欄位中，輸入NY （您也可以按一下下拉式清單，然後從清單中選取）。
+1. _[!UICONTROL Is]_&#x200B;已預設設定。 在「選取值」欄位中，輸入NY （您也可以按一下下拉式清單，然後從清單中選取）。
 
    ![](assets/audience-criteria-15.png)
 

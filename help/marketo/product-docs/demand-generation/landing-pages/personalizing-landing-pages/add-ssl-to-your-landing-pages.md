@@ -65,7 +65,7 @@ SSL （安全通訊端層）加密可讓您保護Marketo Engage執行個體所�
 
 請依照下列步驟，為您現有的網域別名啟用SSL。
 
-1. 從&#x200B;_[!UICONTROL Admin]_區域，展開左側導覽中的&#x200B;**[!UICONTROL Integration]**並選取&#x200B;**[!UICONTROL Landing Pages]**。
+1. 從&#x200B;_[!UICONTROL Admin]_&#x200B;區域，展開左側導覽中的&#x200B;**[!UICONTROL Integration]**&#x200B;並選取&#x200B;**[!UICONTROL Landing Pages]**。
 
 1. 在頁面上，選取頂端的&#x200B;**[!UICONTROL Rules]**&#x200B;索引標籤。
 

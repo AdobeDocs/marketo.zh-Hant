@@ -27,7 +27,7 @@ Marketo _社交應用程式_&#x200B;可讓您的潛在客戶透過其在Facebook
 
 您可以指定要在由共用從您的登入頁面產生的[!DNL Facebook]個豐富貼文中使用的頁面資訊型別。
 
-1. 在編輯器中選取_**[!UICONTROL Facebook Message]**&#x200B;視訊或社交按鈕的&#x200B;_[!DNL YouTube_]_。
+1. 在編輯器中選取_&#x200B;**[!UICONTROL Facebook Message]**&#x200B;視訊或社交按鈕的&#x200B;_[!DNL YouTube_]_。
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 
