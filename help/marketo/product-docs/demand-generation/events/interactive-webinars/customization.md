@@ -141,4 +141,4 @@ Adobe Connect提供九種預設背景可供使用。 您可以在「預覽」中
 
 * 主人在建立房間時可以選擇主題，或稍後從房間資訊頁更新主題（**房間頂列** > **更多功能表** > **檢視房間資訊**）。
 
-深入瞭解[主題](https://helpx.adobe.com/adobe-connect/connect-central-admin/connect-central-ui-customization-basics.html){target="_blank"}。
+深入瞭解[主題](https://helpx.adobe.com/tw/adobe-connect/connect-central-admin/connect-central-ui-customization-basics.html){target="_blank"}。

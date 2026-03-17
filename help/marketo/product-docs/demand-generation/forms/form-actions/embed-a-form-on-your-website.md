@@ -47,6 +47,6 @@ Marketo可讓您將我們的表單內嵌在您自己的網站上。 以下說明
 
 >[!NOTE]
 >
->如果您的開發人員想要自訂外觀或存取進階API函式，請向他們顯示[Forms 2.0開發人員頁面](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)。
+>如果您的開發人員想要自訂外觀或存取進階API函式，請向他們顯示[Forms 2.0開發人員頁面](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)。
 
 做得好！您要[內嵌程式碼包含Lightbox程式碼](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md)嗎？ 這也很容易！
