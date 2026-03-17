@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359880
-description: 使用資料夾整理影像和檔案 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用Marketo中的資料夾來整理影像和檔案。 在Design Studio中建立資料夾，讓資產維持井然有序。
 title: 使用資料夾組織影像和檔案
 exl-id: b2961d6b-8bc0-4376-b438-03d9fd26be72
 feature: Image Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 21%
+source-wordcount: '98'
+ht-degree: 24%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 21%
 
    ![](assets/organize-your-images-and-files-using-folders-2.png)
 
-1. 命名資料夾並按一下&#x200B;**[!UICONTROL Create]**。
+1. 為資料夾命名，然後按一下 **[!UICONTROL Create]**。
 
    ![](assets/organize-your-images-and-files-using-folders-3.png)
 

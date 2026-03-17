@@ -1,12 +1,12 @@
 ---
-description: 使用對話式流程登陸頁面 — Marketo檔案 — 產品檔案
+description: 瞭解如何將對話流程內嵌在Marketo登陸頁面中。 讓訪客透過Dynamic Chat排程會議，而不需填寫表單。
 title: 使用對話式流程登陸頁面
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '240'
 ht-degree: 2%
 
 ---

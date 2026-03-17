@@ -1,12 +1,12 @@
 ---
-description: 串流Designer - Marketo檔案 — 產品檔案
+description: 瞭解串流Designer以建立與資訊卡的聊天對話。 包含訊息、問題、檔案和會議預約的形狀對話方塊。
 title: 資料流設計工具
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '1103'
+source-wordcount: '1117'
 ht-degree: 2%
 
 ---
@@ -43,7 +43,7 @@ ht-degree: 2%
  </tr>
  <tr>
   <td style="width:25%"><strong>會議預訂</strong></td>
-  <td>為訪客提供可用日期的行事曆以排程會議。 透過循環配置資源、特定代理程式或使用自訂規則，選擇行事曆可用性。 如果您想要擷取代理程式的名稱或電子郵件地址，並將它指派給聊天訪客的個人記錄以供日後查詢，請按一下<b>新增屬性</b> (秘訣：建立<a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">自訂欄位</a>以將代理程式的資訊對應到以免覆寫標準Marketo Engage欄位)。</td>
+  <td>為訪客提供可用日期的行事曆以排程會議。 透過循環配置資源、特定代理程式或使用自訂規則，選擇行事曆可用性。 如果您想要擷取代理程式的名稱或電子郵件地址，並將它指派給聊天訪客的個人記錄以供日後查詢，請按一下<b>新增屬性</b> （秘訣：建立<a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">自訂欄位</a>以將代理程式的資訊對應到以免覆寫標準Marketo Engage欄位）。</td>
  </tr>
  <tr>
   <td style="width:25%"><strong>目標</strong></td>
@@ -141,7 +141,7 @@ ht-degree: 2%
 
    ![](assets/stream-designer-14.png)
 
-1. 輸入您的回應，並為訪客新增回應選擇。 完成時，按一下&#x200B;**[!UICONTROL Save]**。
+1. 輸入您的回應，並為訪客新增回應選擇。 完成後請按一下 **[!UICONTROL Save]**。
 
    ![](assets/stream-designer-15.png)
 

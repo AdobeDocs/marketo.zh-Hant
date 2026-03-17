@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10097969
-description: 建立自由表單登陸頁面範本 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo中建立自由格式的登入頁面範本。 在Design Studio中建立可重複使用的範本，以供日後登陸頁面使用。
 title: 建立自由格式登陸頁面範本
 exl-id: bf633c86-6087-44bf-aaa2-63173154f0aa
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 6%
+source-wordcount: '189'
+ht-degree: 7%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 6%
 
 自由格式登陸頁面所需的技術知識少於其引導式對應頁面。 若要建立未來登入頁面的範本，請遵循下列步驟。
 
-1. 移至&#x200B;**[!UICONTROL Design Studio]**。
+1. 前往 **[!UICONTROL Design Studio]**。
 
    ![](assets/one.png)
 

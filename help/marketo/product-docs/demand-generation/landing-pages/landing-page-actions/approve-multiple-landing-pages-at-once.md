@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359724
-description: 一次核准多個登陸頁面 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo中一次核准多個登陸頁面。 大量核准頁面，讓頁面快速上線。
 title: 一次核准多個登陸頁面
 exl-id: 0ce831fd-29e5-4bf9-96a9-c955e4a32ddb
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '90'
 ht-degree: 16%
 
 ---
 
 # 一次核准多個登陸頁面 {#approve-multiple-landing-pages-at-once}
 
-1. 移至&#x200B;**[!UICONTROL Design Studio]**。
+1. 前往 **[!UICONTROL Design Studio]**。
 
    ![](assets/approve-multiple-landing-pages-at-once-1.png)
 

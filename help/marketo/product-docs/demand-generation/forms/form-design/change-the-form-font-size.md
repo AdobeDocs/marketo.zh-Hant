@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359610
-description: 變更表單字型大小 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo中變更表單字型大小。 調整表單標籤和欄位中的文字大小。
 title: 變更表單字體大小
 exl-id: 20774590-9209-4c3f-a791-dcbe7bb38031
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '117'
 ht-degree: 13%
 
 ---
@@ -19,7 +19,7 @@ Marketo可讓您輕鬆自訂表單的外觀和風格。 您可能想要變更字
 >
 >此設定會影響表單標籤、輸入文字及提交按鈕文字。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-1.png)
 

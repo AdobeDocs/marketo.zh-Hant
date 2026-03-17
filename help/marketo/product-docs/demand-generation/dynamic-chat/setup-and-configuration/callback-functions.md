@@ -1,11 +1,11 @@
 ---
-description: 回呼函式 — Marketo檔案 — 產品檔案
+description: 瞭解Dynamic Chat Widget回呼函式，以便將交談事件傳送至第三方平台。 使用事件來觸發、參與及達到目標的動作。
 title: 回呼函數
 feature: Dynamic Chat
 exl-id: 5ae7f6cb-5c57-4257-8a1a-992c9602cfaa
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '616'
+source-wordcount: '632'
 ht-degree: 3%
 
 ---

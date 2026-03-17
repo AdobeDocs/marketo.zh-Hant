@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359566
-description: 編輯表單中的欄位標籤 — Marketo檔案 — 產品檔案
+description: 瞭解如何編輯Marketo表單中的欄位標籤。 變更表單欄位旁顯示的標籤文字。
 title: 編輯表單中的欄位標籤
 exl-id: e9820766-5424-4fb8-bf26-2d38eb5e64cb
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '121'
 ht-degree: 14%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 14%
 
 您可以將表單上的標籤變更為任何內容 — 您甚至可以使用影像或完全拭除！ 以下是其操作方式。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/edit-a-field-label-in-a-form-1.png)
 

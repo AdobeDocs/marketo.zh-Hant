@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12980661
-description: 新增Google Customer Match as a [!DNL LaunchPoint] 服務 — Marketo檔案 — 產品檔案
+description: 瞭解如何將Google Customer Match新增為LaunchPoint服務。 將Marketo對象傳送至Google，以便在AdWords、YouTube、Search和Gmail上進行目標定位。
 title: 將Google Customer Match新增為 [!DNL LaunchPoint] 服務
 exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 1%
+source-wordcount: '179'
+ht-degree: 4%
 
 ---
 
@@ -17,9 +17,9 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
-1. 移至&#x200B;**[!UICONTROL Admin]**。
+1. 前往 **[!UICONTROL Admin]**。
 
    ![](assets/admin.png)
 

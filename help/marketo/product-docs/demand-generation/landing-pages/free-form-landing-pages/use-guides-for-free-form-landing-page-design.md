@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359728
-description: 使用自由格式登陸頁面設計手冊 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo中使用自由格式登陸頁面設計手冊。 對齊元素並保持版面與參考線一致。
 title: 使用指南進行自由格式登陸頁面設計
 exl-id: 44c6a984-ae05-464c-905a-9e1b53f73f37
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 13%
+source-wordcount: '111'
+ht-degree: 12%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359661
-description: 將表單欄位設定為隱藏 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo中將表單欄位設定為隱藏。 儲存資料而不向訪客顯示欄位。
 title: 將表單欄位設定為隱藏
 exl-id: 6f293477-69ec-4f56-9800-cc1baaf80f94
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '81'
 ht-degree: 22%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 22%
 
 隱藏的表單欄位可以自動擷取資料，而不需要訪客的輸入。 這是它的運作原理。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-3.png)
 

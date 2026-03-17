@@ -1,11 +1,11 @@
 ---
-description: 建立互動式網路研討會 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo中建立互動式網路研討會。 請依照步驟設定您的網路研討會，並設定即時或隨選傳送的設定。
 title: 建立互動式網路研討會
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '300'
 ht-degree: 2%
 
 ---

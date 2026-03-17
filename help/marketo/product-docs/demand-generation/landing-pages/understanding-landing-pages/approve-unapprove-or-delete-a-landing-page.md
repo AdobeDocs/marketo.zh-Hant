@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359710
-description: 核准、取消核准或刪除登陸頁面 — Marketo檔案 — 產品檔案
+description: 瞭解如何核准、取消核准或刪除Marketo中的登入頁面。 控制哪些頁面是即時頁面，並移除您不再需要的頁面。
 title: 核准、取消核准或刪除登陸頁面
 exl-id: ecd964e2-8363-495f-aaf0-e5ba452cb280
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '247'
 ht-degree: 10%
 
 ---
@@ -71,6 +71,6 @@ ht-degree: 10%
 
    ![](assets/approve-unapprove-or-delete-a-landing-page-8.png)
 
-1. 按一下&#x200B;**[!UICONTROL Delete]**&#x200B;確認。
+1. 按一下 **[!UICONTROL Delete]** 確認。
 
    ![](assets/approve-unapprove-or-delete-a-landing-page-9.png)

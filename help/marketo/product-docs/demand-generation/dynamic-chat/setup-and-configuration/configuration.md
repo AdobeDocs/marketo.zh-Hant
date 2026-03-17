@@ -1,11 +1,11 @@
 ---
-description: 設定 — Marketo檔案 — 產品檔案
+description: 瞭解如何自訂Dynamic Chat對話方塊視窗的外觀。 設定顏色、字型、位置、頭像和通知音效。
 title: 設定
 feature: Dynamic Chat
 exl-id: 01ca6a38-4918-46b0-b0f6-1baffbb0bbaf
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '405'
 ht-degree: 2%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 2%
 
 您將在此處定義顯示對話方塊的聊天機器人的外觀和風格，包括：顏色、字型、機器人Widget的位置以及聊天機器人的名稱/頭像。
 
-每個類別的顏色由[十六進位顏色值](https://color.adobe.com/create/color-wheel){target="_blank"}決定(例如，白色= #ffffff、紅色= #bf1932等)。
+每個類別的顏色由[十六進位顏色值](https://color.adobe.com/create/color-wheel){target="_blank"}決定（例如，白色= #ffffff、紅色= #bf1932等）。
 
 ![](assets/configuration-3.png)
 
@@ -38,7 +38,7 @@ ht-degree: 2%
 
 ### 機器人設定 {#agent-settings}
 
-在「機器人設定」中，您可以將標籤新增至聊天箱(例如：「Adobe助理」)，標籤會顯示於聊天箱頂端。 您也可以判斷回應延遲（以秒為單位），並變更您的聊天頭像。 若要上傳您自己的顯示圖片影像，請按一下&#x200B;**+**&#x200B;按鈕。
+在「機器人設定」中，您可以將標籤新增至聊天箱（例如：「Adobe助理」），標籤會顯示於聊天箱頂端。 您也可以判斷回應延遲（以秒為單位），並變更您的聊天頭像。 若要上傳您自己的顯示圖片影像，請按一下&#x200B;**+**&#x200B;按鈕。
 
 ![](assets/configuration-5.png)
 
@@ -60,7 +60,7 @@ ht-degree: 2%
 >
 >Poke只適用於交談中的前[張卡片](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards){target="_blank"}。
 
-完成變更後，請記得按一下[儲存]。**&#x200B;**
+完成變更後，請記得按一下[儲存]。****
 
 ![](assets/configuration-7.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359734
-description: 使用動態內容預覽登陸頁面 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo中預覽具有動態內容的登入頁面。 瞭解不同區段的內容如何變更。
 title: 預覽包含動態內容的登陸頁面
 exl-id: 638db767-bb20-4eef-8edd-8a7be4178d28
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 16%
+source-wordcount: '94'
+ht-degree: 14%
 
 ---
 

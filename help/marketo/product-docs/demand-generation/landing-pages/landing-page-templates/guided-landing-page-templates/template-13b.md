@@ -1,19 +1,19 @@
 ---
 unique-page-id: 9437789
-description: 範本13B - Marketo檔案 — 產品檔案
+description: 瞭解範本13B引導式登陸頁面範本。 下載並用於您的Marketo登陸頁面。
 title: 範本 13B
 exl-id: 507ecbb8-8844-499a-868e-b0a2de8402f4
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 8%
+source-wordcount: '58'
+ht-degree: 6%
 
 ---
 
 # 範本 13B {#template-13b}
 
-按一下滑鼠右鍵以[下載範本13B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13b.html?lang=zh-Hant)
+按一下滑鼠右鍵以[下載範本13B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13b.html)
 
 ![](assets/image2015-8-11-10-3a48-3a42.png)
 
@@ -28,4 +28,4 @@ ht-degree: 8%
 
 **在下方按一下滑鼠右鍵以下載此範本：**
 
-[範本13B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13b.html?lang=zh-Hant)
+[範本13B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13b.html)

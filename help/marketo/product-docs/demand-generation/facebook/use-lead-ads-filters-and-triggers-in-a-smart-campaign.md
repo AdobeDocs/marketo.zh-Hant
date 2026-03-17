@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10095239
-description: 在Smart Campaign中使用潛在客戶廣告篩選器和觸發器 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo智慧行銷活動中使用Facebook潛在客戶廣告篩選器和觸發器。 當潛在客戶從Facebook提交時自動化動作。
 title: 在智慧行銷活動中使用商機廣告篩選器和觸發程序
 exl-id: 3f711801-e03d-48e2-a48d-1007d4d7a556
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 26%
+source-wordcount: '84'
+ht-degree: 23%
 
 ---
 

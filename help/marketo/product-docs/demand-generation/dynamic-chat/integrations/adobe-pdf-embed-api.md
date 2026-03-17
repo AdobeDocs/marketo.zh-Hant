@@ -1,12 +1,12 @@
 ---
-description: Adobe PDF內嵌API - Marketo檔案 — 產品檔案
+description: 瞭解如何在Dynamic Chat中為檔案卡設定Adobe PDF Embed API。 在對話方塊中內嵌PDF並追蹤檔案參與。
 title: Adobe PDF 嵌入式 API
 feature: Dynamic Chat
 exl-id: 27482f55-1bd1-423c-9154-f650532ff1e5
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 7%
+source-wordcount: '143'
+ht-degree: 6%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 7%
 
    >[!IMPORTANT]
    >
-   >您必須使用將託管聊天機器人的網域(例如，如果您在mycompany.com上託管聊天機器人，請務必在步驟4中輸入)。
+   >您必須使用將託管聊天機器人的網域（例如，如果您在mycompany.com上託管聊天機器人，請務必在步驟4中輸入）。
 
 1. 按一下&#x200B;**[!UICONTROL Copy]**&#x200B;以複製您的使用者端識別碼。
 

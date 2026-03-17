@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8162246
-description: 範本6A - Marketo檔案 — 產品檔案
+description: 瞭解範本6A引導式登陸頁面範本。 下載並用於您的Marketo登陸頁面。
 title: 範本 6A
 exl-id: 7bfc6301-f012-4865-a592-6dc5f60469d3
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '49'
-ht-degree: 8%
+source-wordcount: '61'
+ht-degree: 6%
 
 ---
 
 # 範本 6A {#template-6a}
 
-按一下滑鼠右鍵以[下載範本6A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6a.html?lang=zh-Hant)
+按一下滑鼠右鍵以[下載範本6A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6a.html)
 
 ![](assets/image2015-6-29-16-3a14-3a11.png)
 
@@ -28,4 +28,4 @@ ht-degree: 8%
 
 **在下方按一下滑鼠右鍵以下載此範本：**
 
-[範本6A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6a.html?lang=zh-Hant)
+[範本6A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6a.html)

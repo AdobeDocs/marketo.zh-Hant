@@ -1,11 +1,11 @@
 ---
-description: 許可權 — Marketo檔案 — 產品檔案
+description: 瞭解Admin Console中的Dynamic Chat許可權和產品設定檔。 編輯現有的設定檔，或建立具有特定許可權的自訂設定檔。
 title: 權限
 feature: Dynamic Chat
 exl-id: 06798ac4-636b-476e-bbb1-498062844406
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '712'
+source-wordcount: '728'
 ht-degree: 4%
 
 ---

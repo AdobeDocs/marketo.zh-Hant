@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359679
-description: 編輯表單主題的CSS - Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo中編輯表單主題的CSS。 使用自訂樣式自訂表單的外觀。
 title: 編輯表單主題的 CSS
 exl-id: 33a124d5-2784-415b-80b6-623823f1eb19
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 10%
+source-wordcount: '176'
+ht-degree: 11%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 10%
 >
 >如果您想要嘗試此動作，請務必知道CSS，因為Marketo支援未設定為協助自訂編碼。 此外，所做的任何變更只會套用至您目前編輯的表單。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-5.png)
 
@@ -27,7 +27,7 @@ ht-degree: 10%
 
    ![](assets/image2014-9-15-14-3a37-3a7.png)
 
-1. 移至&#x200B;**[!UICONTROL Form Settings]**。
+1. 前往 **[!UICONTROL Form Settings]**。
 
    ![](assets/image2014-9-15-14-3a37-3a42.png)
 

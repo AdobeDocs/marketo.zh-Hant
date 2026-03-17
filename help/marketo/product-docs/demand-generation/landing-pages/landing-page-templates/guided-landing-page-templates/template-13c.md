@@ -1,19 +1,19 @@
 ---
 unique-page-id: 9437792
-description: 範本13C - Marketo檔案 — 產品檔案
+description: 瞭解範本13C引導式登陸頁面範本。 下載並用於您的Marketo登陸頁面。
 title: 範本 13C
 exl-id: 05624f86-03ab-45ab-8daa-61cf4f2b44ba
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '44'
-ht-degree: 9%
+source-wordcount: '56'
+ht-degree: 7%
 
 ---
 
 # 範本 13C {#template-13c}
 
-按一下滑鼠右鍵以[下載範本13C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13c.html?lang=zh-Hant)
+按一下滑鼠右鍵以[下載範本13C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13c.html)
 
 ![](assets/image2015-8-11-11-3a45-3a44.png)
 
@@ -28,4 +28,4 @@ ht-degree: 9%
 
 **在下方按一下滑鼠右鍵以下載此範本：**
 
-[Template13C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13c.html?lang=zh-Hant)
+[Template13C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13c.html)

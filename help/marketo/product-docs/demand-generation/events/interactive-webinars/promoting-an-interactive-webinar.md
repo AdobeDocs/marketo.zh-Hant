@@ -1,11 +1,11 @@
 ---
-description: 推廣互動式網路研討會 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo中推廣互動式網路研討會。 透過電子郵件和行銷活動共用註冊連結及提高出席率。
 title: 推廣互動式網路研討會
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '785'
+source-wordcount: '796'
 ht-degree: 1%
 
 ---

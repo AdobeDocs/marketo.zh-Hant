@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359540
-description: 在登陸頁面中包含行事曆事件ICS檔案 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo登陸頁面中包含行事曆事件ICS檔案。 允許訪客將事件新增至行事曆。
 title: 在登陸頁面中加入行事曆事件 ICS 檔案
 exl-id: 3975f5ba-f514-4708-b51e-bc20d1eed6b4
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 18%
+source-wordcount: '120'
+ht-degree: 17%
 
 ---
 

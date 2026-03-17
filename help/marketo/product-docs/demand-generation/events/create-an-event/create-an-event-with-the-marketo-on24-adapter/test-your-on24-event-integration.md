@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10096677
-description: 測試您的ON24事件整合 — Marketo檔案 — 產品檔案
+description: 瞭解如何測試您的ON24事件與Marketo的整合。 驗證同步、註冊流程和狀態更新是否正常運作。
 title: 測試您的 ON24 事件整合
 exl-id: 8326b81e-abf7-4615-9a0b-b0a579be8bb8
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '193'
 ht-degree: 5%
 
 ---

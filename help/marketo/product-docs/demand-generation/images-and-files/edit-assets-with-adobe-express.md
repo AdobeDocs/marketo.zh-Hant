@@ -1,14 +1,14 @@
 ---
-description: 使用Adobe Express編輯Assets - Marketo檔案 — 產品檔案
+description: 瞭解如何使用Marketo的Adobe Express編輯影像和資產。 在Express中開啟資產以進行快速編輯和更新。
 title: 使用 Adobe Express 編輯資產
 hide: true
 hidefromtoc: true
 feature: Image Editor
 exl-id: 711f1838-be5c-4cb6-a0ce-7a46dd3c5a46
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '22'
-ht-degree: 45%
+source-wordcount: '34'
+ht-degree: 29%
 
 ---
 

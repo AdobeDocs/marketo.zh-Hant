@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949874
-description: 使用 [!DNL GotoWebinar] - Marketo檔案建立事件 — 產品檔案
+description: 瞭解如何在Marketo中使用GotoWebinar建立活動。 透過Marketo設定整合與同步處理網路研討會註冊。
 title: 建立具有 [!DNL GotoWebinar]的事件
 exl-id: c0f0a202-e416-4523-b7d6-dbcfafc536cd
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '497'
 ht-degree: 0%
 
 ---

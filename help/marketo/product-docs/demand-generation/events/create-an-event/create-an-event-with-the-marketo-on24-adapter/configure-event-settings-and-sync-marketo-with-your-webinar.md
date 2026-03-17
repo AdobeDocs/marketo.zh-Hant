@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10096673
-description: 設定事件設定並將Marketo與您的網路研討會同步 — Marketo檔案 — 產品檔案
+description: 瞭解如何設定事件設定，以及將Marketo與您的ON24網路研討會同步。 對應欄位並保持註冊資料同步。
 title: 設定事件設定並將 Marketo 與您的網路研討會同步
 exl-id: 03b76c33-3dbe-4675-83f3-e2d82907f94e
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '210'
 ht-degree: 9%
 
 ---

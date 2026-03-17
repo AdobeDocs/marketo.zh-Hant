@@ -1,14 +1,14 @@
 ---
-description: 設定事件目標 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo活動程式中設定活動目標。 定義成功量度並追蹤達成事件目標的進度。
 title: 設定事件目標
 hide: true
 hidefromtoc: true
 exl-id: 9690adc0-1136-4416-bb7b-f721789d408b
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 5%
+source-wordcount: '116'
+ht-degree: 7%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 5%
 
    ![](assets/setting-event-goals-1.png)
 
-1. 選擇[!UICONTROL Campaign Folder]、提供您的活動[!UICONTROL Name]、選取[!UICONTROL Program Type]和[!UICONTROL Channel]。 完成時，按一下&#x200B;**[!UICONTROL Create]**。
+1. 選擇[!UICONTROL Campaign Folder]、提供您的活動[!UICONTROL Name]、選取[!UICONTROL Program Type]和[!UICONTROL Channel]。 完成後請按一下 **[!UICONTROL Create]**。
 
    ![](assets/setting-event-goals-2.png)
 

@@ -1,12 +1,12 @@
 ---
-description: Adobe Marketo Engage - Marketo檔案 — 產品檔案
+description: 瞭解如何將Dynamic Chat連線至您的Marketo Engage訂閱。 執行一次性同步，並選取人員和公司屬性以便鎖定目標。
 title: Adobe Marketo Engage
 feature: Dynamic Chat
 exl-id: 9ce43de3-0503-4894-89f2-ee24e7df9a73
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '252'
-ht-degree: 2%
+source-wordcount: '268'
+ht-degree: 3%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->Dynamic Chat支援同步[Marketo native](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"}和自訂人員欄位和公司欄位。
+>Dynamic Chat支援同步[Marketo native](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"}和自訂人員欄位和公司欄位。
 
 1. 在「我的Marketo」中，按一下「**[!UICONTROL Dynamic Chat]**」圖磚。
 
@@ -28,7 +28,7 @@ ht-degree: 2%
    >
    >如果沒有看見圖磚，請聯絡您的Marketo管理員。
 
-1. 如果您先前曾透過Adobe ID存取應用程式，您將會直接進入Dynamic Chat。 如果沒有，[請設定您的Adobe ID](https://helpx.adobe.com/tw/manage-account/using/create-update-adobe-id.html){target="_blank"}。
+1. 如果您先前曾透過Adobe ID存取應用程式，您將會直接進入Dynamic Chat。 如果沒有，[請設定您的Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}。
 
 1. 若要連線您的Marketo執行個體，請選取&#x200B;**[!UICONTROL Integrations]**。
 
@@ -38,7 +38,7 @@ ht-degree: 2%
 
    ![](assets/adobe-marketo-engage-3.png)
 
-1. 從您的Marketo執行個體中選取最多50個屬性（標準或自訂欄位），以同步至Dynamic Chat，以用於對象目標定位、資料對應和個人化。 完成時，按一下&#x200B;**[!UICONTROL Next]**。
+1. 從您的Marketo執行個體中選取最多50個屬性（標準或自訂欄位），以同步至Dynamic Chat，以用於對象目標定位、資料對應和個人化。 完成後請按一下 **[!UICONTROL Next]**。
 
    ![](assets/adobe-marketo-engage-4.png)
 

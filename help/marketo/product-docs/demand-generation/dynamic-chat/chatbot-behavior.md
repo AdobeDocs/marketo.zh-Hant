@@ -1,11 +1,11 @@
 ---
-description: 聊天機器人行為 — Marketo檔案 — 產品檔案
+description: 瞭解跨對話方塊、優先順序和訪客的Dynamic Chat聊天機器人行為。 請使用此參考資料來瞭解聊天機器人在不同情境中的行為方式。
 title: 聊天機器人行為
 feature: Dynamic Chat
 exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '1680'
+source-wordcount: '1697'
 ht-degree: 3%
 
 ---

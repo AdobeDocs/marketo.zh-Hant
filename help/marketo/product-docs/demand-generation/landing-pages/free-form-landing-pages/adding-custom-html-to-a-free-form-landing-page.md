@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359730
-description: 將自訂HTML新增至自由格式登陸頁面 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo中將自訂HTML新增至自由格式的登陸頁面。 插入自訂內容或追蹤的HTML區塊。
 title: 新增自訂 HTML 至自由格式登陸頁面
 exl-id: 1bcb215b-d291-42a5-be74-2c78f151384e
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '158'
 ht-degree: 10%
 
 ---
@@ -39,4 +39,4 @@ ht-degree: 10%
 
 >[!CAUTION]
 >
->如果您的自訂HTML不是轉譯(例如隱藏的JavaScript函式或CSS)，請將元素放在令人難忘的位置，例如左上角。 只有當您在其區域中按一下時，元素輪廓才會顯示。
+>如果您的自訂HTML不是轉譯（例如隱藏的JavaScript函式或CSS），請將元素放在令人難忘的位置，例如左上角。 只有當您在其區域中按一下時，元素輪廓才會顯示。

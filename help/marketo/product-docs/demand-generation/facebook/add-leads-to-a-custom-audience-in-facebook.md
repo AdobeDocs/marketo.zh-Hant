@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11376700
-description: 在Facebook中新增銷售機會至自訂對象 — Marketo檔案 — 產品檔案
+description: 瞭解如何從Marketo在Facebook中將潛在客戶新增至自訂對象。 將清單成員推播至Facebook以進行廣告目標定位。
 title: 新增商機至 Facebook 的自訂客群
 exl-id: cb8a81bf-2645-4500-8c54-03b8da09f245
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 9%
+source-wordcount: '153'
+ht-degree: 8%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359592
-description: 重新排序表單中的欄位 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo表單中重新排序欄位。 拖放以變更表單欄位順序。
 title: 重新排列表單中的欄位
 exl-id: 62846099-f925-44d6-8ff3-d9fffd2816b9
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '80'
 ht-degree: 20%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 20%
 
 在Marketo表單上重新排序欄位很容易。 方法如下。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities.png)
 

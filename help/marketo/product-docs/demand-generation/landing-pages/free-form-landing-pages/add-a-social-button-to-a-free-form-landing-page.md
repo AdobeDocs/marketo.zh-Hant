@@ -1,14 +1,14 @@
 ---
 unique-page-id: 2359718
-description: 將社交按鈕新增至自由表單登陸頁面 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo中將社交按鈕新增至自由表單登陸頁面。 新增共用或遵循按鈕至您的頁面。
 title: 新增社交按鈕至自由格式登陸頁面
 exl-id: 36e19771-e038-4c7d-ac8b-561c5480722f
 hide: true
 hidefromtoc: true
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '234'
 ht-degree: 8%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11383953
-description: 設定Facebook離線轉換 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo中設定Facebook離線轉換。 將來自Marketo的轉換資料傳送到Facebook以進行廣告最佳化。
 title: 設定 Facebook 離線轉換
 exl-id: e1974943-8fc8-41f6-be7e-1b594de13db6
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '281'
-ht-degree: 3%
+source-wordcount: '292'
+ht-degree: 4%
 
 ---
 
@@ -56,7 +56,7 @@ ht-degree: 3%
 
 ## 收入週期Modeler設定 {#revenue-cycle-modeler-configuration}
 
-1. 移至&#x200B;**[!UICONTROL Analytics]**。
+1. 前往 **[!UICONTROL Analytics]**。
 
    ![](assets/image2016-11-29-13-3a29-3a23.png)
 

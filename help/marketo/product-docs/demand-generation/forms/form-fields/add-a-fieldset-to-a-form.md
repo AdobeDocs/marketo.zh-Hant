@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359594
-description: 將FieldSet新增至表單 — Marketo檔案 — 產品檔案
+description: 瞭解如何將欄位集新增至Marketo表單。 將相關欄位與標題組成群組，以獲得更好的版面。
 title: 新增欄位集至表單
 exl-id: c549781f-f61b-4963-8f9e-58d3e7346fd1
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 12%
+source-wordcount: '105'
+ht-degree: 13%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 12%
 
 欄位集很酷。 他們會將多個欄位分組在一起。 您也可以一次控制整個區塊！
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-1.png)
 

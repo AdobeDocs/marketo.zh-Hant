@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359569
-description: 將表單欄位設為必填 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo中建立所需的表單欄位。 要求訪客在提交表單前完成欄位。
 title: 使表單欄位成為必填欄位
 exl-id: f07c4dd8-457a-442b-9ef8-89b51647829b
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '108'
 ht-degree: 14%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 14%
 
 當[將欄位新增至表單](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md){target="_blank"}時，您可能想要讓填寫欄位的人需要一些欄位。 方法如下。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/make-a-form-field-required-1.png)
 

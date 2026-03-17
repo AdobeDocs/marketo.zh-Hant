@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10096658
-description: 瞭解Marketo On24轉接器事件 — Marketo檔案 — 產品檔案
+description: 瞭解Marketo ON24轉接器以及它如何將ON24網路研討會連線到Marketo。 瞭解事件型別和同步行為。
 title: 了解 Marketo On24 Adapter 事件
 exl-id: 00c3ac54-b139-4cff-af53-d4d83d2610f9
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 7%
+source-wordcount: '144'
+ht-degree: 6%
 
 ---
 

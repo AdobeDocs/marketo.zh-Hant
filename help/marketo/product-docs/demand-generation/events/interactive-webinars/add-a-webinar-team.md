@@ -1,11 +1,11 @@
 ---
-description: 新增網路研討會團隊 — Marketo檔案 — 產品檔案
+description: 瞭解如何在互動式網路研討會中新增網路研討會團隊。 指派團隊成員協助建立、管理或提供網路研討會。
 title: 新增網路研討會團隊
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '425'
+source-wordcount: '437'
 ht-degree: 2%
 
 ---
@@ -54,7 +54,7 @@ ht-degree: 2%
 
 ## 新增簡報者 {#add-a-presenter}
 
-1. 在互動式網路研討會的[概觀]頁面中，按一下[新增主持人]。**&#x200B;**
+1. 在互動式網路研討會的[概觀]頁面中，按一下[新增主持人]。****
 
    ![](assets/add-a-webinar-team-5.png)
 

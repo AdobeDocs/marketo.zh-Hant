@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7516478
-description: 範本2D - Marketo檔案 — 產品檔案
+description: 瞭解範本2D引導式登陸頁面範本。 下載並用於您的Marketo登陸頁面。
 title: 範本 2D
 exl-id: 365cc108-ed50-4229-b267-9688ed31056e
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 6%
+source-wordcount: '73'
+ht-degree: 5%
 
 ---
 
 # 範本 2D {#template-2d}
 
-按一下滑鼠右鍵以[下載範本2D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html?lang=zh-Hant)
+按一下滑鼠右鍵以[下載範本2D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html)
 
 ![](assets/image2015-6-4-9-3a38-3a47.png)
 
@@ -29,4 +29,4 @@ ht-degree: 6%
 
 **在下方按一下滑鼠右鍵以下載此範本：**
 
-[範本2D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html?lang=zh-Hant)
+[範本2D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html)

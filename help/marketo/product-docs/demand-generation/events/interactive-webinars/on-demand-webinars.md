@@ -1,11 +1,11 @@
 ---
-description: 隨選網路研討會 — Marketo檔案 — 產品檔案
+description: 瞭解Marketo互動式網路研討會中的隨選網路研討會。 讓錄製的網路研討會可供在即時活動後檢視。
 title: 隨選網路研討會
 feature: Interactive Webinars
 exl-id: 65bfc1d2-6382-4cfa-9560-69cbb0c37c42
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '461'
 ht-degree: 0%
 
 ---

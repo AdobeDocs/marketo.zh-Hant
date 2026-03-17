@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10096681
-description: 瞭解網路研討會計畫狀態 — Marketo檔案 — 產品檔案
+description: 瞭解ON24和Marketo整合中的網路研討會計畫狀態。 瞭解已註冊、已出席和其他狀態值。
 title: 了解網路研討會方案狀態
 exl-id: ef0b1b94-a612-4aa8-9b4a-aa7ef0e2abaa
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '424'
 ht-degree: 1%
 
 ---

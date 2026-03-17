@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359620
-description: 變更提交按鈕樣式和色彩 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo表單中變更提交按鈕樣式和顏色。 將按鈕與您的品牌和設計配對。
 title: 變更提交按鈕樣式和顏色
 exl-id: a94143d4-0cd5-4c27-b8b1-73d803763e9d
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 10%
+source-wordcount: '148'
+ht-degree: 11%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 10%
 
 如果您發現標準提交按鈕很枯燥，或者您需要一些更精緻的按鈕，歡迎您選擇多種現成的按鈕樣式。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-3.png)
 

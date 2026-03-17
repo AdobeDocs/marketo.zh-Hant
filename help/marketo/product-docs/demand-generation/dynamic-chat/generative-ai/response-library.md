@@ -1,12 +1,12 @@
 ---
-description: 回應庫 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Dynamic Chat中管理Generative AI的回應資料庫。 新增、編輯及核准聊天行銷活動的問題和回應。
 title: 回答資料庫
 feature: Dynamic Chat
 exl-id: 774346fa-f633-48e8-a489-999404b6070b
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '346'
-ht-degree: 2%
+source-wordcount: '363'
+ht-degree: 4%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 2%
 
    ![](assets/response-library-1.png)
 
-1. 按一下「**[!UICONTROL Response library]**」標籤。
+1. 按一下「**[!UICONTROL Response library]**」索引標籤。
 
    ![](assets/response-library-2.png)
 
@@ -28,7 +28,7 @@ ht-degree: 2%
 
    ![](assets/response-library-3.png)
 
-1. 輸入您的問題和回應。 指派主題並新增使用者可與訪客共用的選用URL。 完成時，按一下&#x200B;**[!UICONTROL Save]**。
+1. 輸入您的問題和回應。 指派主題並新增使用者可與訪客共用的選用URL。 完成後請按一下 **[!UICONTROL Save]**。
 
    ![](assets/response-library-4.png)
 
@@ -89,7 +89,7 @@ ht-degree: 2%
 
    ![](assets/response-library-9.png)
 
-1. 輸入適用的工作名稱。 拖放檔案，或瀏覽至裝置上並加以選取。 完成時，按一下&#x200B;**[!UICONTROL Save]**。
+1. 輸入適用的工作名稱。 拖放檔案，或瀏覽至裝置上並加以選取。 完成後請按一下 **[!UICONTROL Save]**。
 
    ![](assets/response-library-10.png)
 

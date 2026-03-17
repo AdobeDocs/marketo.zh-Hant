@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359742
-description: 篩選登入頁面效能報表 — Marketo檔案 — 產品檔案
-title: 篩選登陸頁面績效報告
+description: 瞭解如何在Marketo中篩選登入頁面效能報表。 依日期、頁面或其他條件縮小結果。
+title: 篩選登陸頁面效能報告
 exl-id: 825bcdc9-67cc-4a06-b7c3-8a95ad74e30c
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 9%
+source-wordcount: '134'
+ht-degree: 8%
 
 ---
 
-# 篩選登陸頁面績效報告 {#filter-a-landing-page-performance-report}
+# 篩選登陸頁面效能報告 {#filter-a-landing-page-performance-report}
 
 將[登陸頁面效能報告](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)的焦點放在方案（本機資產）中的登陸頁面、[!UICONTROL Design Studio] （全域資產）中的登陸頁面，或已封存的登陸頁面。
 

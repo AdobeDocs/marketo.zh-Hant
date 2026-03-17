@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8162243
-description: 範本5A - Marketo檔案 — 產品檔案
+description: 瞭解範本5A引導式登陸頁面範本。 下載並用於您的Marketo登陸頁面。
 title: 範本 5A
 exl-id: 85f9732c-0968-44bc-b59f-d39207f12dd7
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 7%
+source-wordcount: '64'
+ht-degree: 6%
 
 ---
 
 # 範本 5A {#template-5a}
 
-按一下滑鼠右鍵以[下載範本5A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5a.html?lang=zh-Hant)
+按一下滑鼠右鍵以[下載範本5A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5a.html)
 
 ![](assets/image2015-6-29-16-3a9-3a32.png)
 
@@ -29,4 +29,4 @@ ht-degree: 7%
 
 **在下方按一下滑鼠右鍵以下載此範本：**
 
-[範本5A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5a.html?lang=zh-Hant)
+[範本5A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5a.html)

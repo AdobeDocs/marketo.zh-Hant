@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359671
-description: 新增提示文字至表單欄位 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo中新增提示文字至表單欄位。 顯示預留位置或協助程式文字以引導訪客。
 title: 新增提示文字至表單欄位
 exl-id: 317ca17f-eff7-4c57-ac91-214732b4d8e5
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 14%
+source-wordcount: '119'
+ht-degree: 15%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 14%
 >
 >表單&#x200B;**指示**&#x200B;是當訪客將游標停留在欄位上時顯示的小工具提示。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-5.png)
 

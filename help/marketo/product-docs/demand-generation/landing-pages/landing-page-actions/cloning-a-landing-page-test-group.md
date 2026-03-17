@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953038
-description: 複製登入頁面測試群組 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo中複製登入頁面測試群組。 複製測試群組以執行類似的測試或變數。
 title: 原地複製登陸頁面測試群組
 exl-id: d94fde6b-b377-42fc-a91a-e8ee4bf7c8bb
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 8%
+source-wordcount: '167'
+ht-degree: 7%
 
 ---
 

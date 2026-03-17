@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949962
-description: 動態切換表單欄位的可見度 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo中動態顯示或隱藏表單欄位。 根據其他欄位值或規則顯示欄位。
 title: 動態切換表單欄位的可見度
 exl-id: 51b9283d-bfa1-4535-89ba-96c0ae2ea909
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '243'
 ht-degree: 8%
 
 ---
@@ -25,7 +25,7 @@ Marketo表單的一個很酷的功能是您可以動態隱藏/顯示表單欄位
 >
 >在此範例中，除非選取&#x200B;**國家/地區**&#x200B;為「美國」，否則讓我們隱藏&#x200B;**國家**&#x200B;欄位。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-8.png)
 
@@ -69,6 +69,6 @@ Marketo表單的一個很酷的功能是您可以動態隱藏/顯示表單欄位
 
 >[!IMPORTANT]
 >
->使用Forms 2.0中的[API函式](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"}透過自訂指令碼設定/更新欄位值時，表單欄位行為將順暢運作。
+>使用Forms 2.0中的[API函式](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"}透過自訂指令碼設定/更新欄位值時，表單欄位行為將順暢運作。
 >
 >如果欄位值是由Forms 2.0 JavaScript API以外的外部指令碼修改，則條件欄位可能會無法如預期運作。

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10096712
-description: 在ON24中建立您的網路研討會活動 — Marketo檔案 — 產品檔案
+description: 瞭解如何在ON24中建立您的網路研討會事件，以便與Marketo搭配使用。 在與Marketo同步之前，請在ON24中設定事件。
 title: 在 ON24 中建立您的網路研討會事件
 exl-id: a5211f11-c099-44a0-95eb-b43f10fa5c91
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 7%
+source-wordcount: '183'
+ht-degree: 6%
 
 ---
 

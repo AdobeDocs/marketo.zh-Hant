@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359673
-description: 新增工具提示指示至表單欄位 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo中新增工具提示指示至表單欄位。 當訪客暫留在欄位上時顯示額外說明。
 title: 新增工具提示說明至表單欄位
 exl-id: 455d19de-2e2b-447d-a210-7d77fdda6dc9
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '124'
 ht-degree: 14%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 14%
 >
 >表單&#x200B;**指示**&#x200B;是當訪客在欄位上暫留時快顯的小工具提示。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-6.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949777
-description: 事件合作夥伴 — Marketo檔案 — 產品檔案
+description: 瞭解Marketo中的活動合作夥伴。 瞭解受支援的網路研討會和活動平台，以及這些平台如何與Marketo整合。
 title: 事件合作夥伴
 exl-id: 3d6c523f-a1ee-4b0c-8e3c-1724f3b7800e
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 5%
+source-wordcount: '92'
+ht-degree: 4%
 
 ---
 

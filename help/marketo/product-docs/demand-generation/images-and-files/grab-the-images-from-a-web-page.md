@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359866
-description: 從網頁擷取影像 — Marketo檔案 — 產品檔案
+description: 瞭解如何從網頁擷取影像至Marketo。 從URL將影像匯入您的Design Studio。
 title: 從網頁抓取影像
 exl-id: 5dd406da-082e-43cf-9d5e-3da2b960927d
 feature: Image Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 8%
+source-wordcount: '167'
+ht-degree: 9%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 8%
 
 若要從網頁新增影像，請複製含有所需影像之網頁的網址(URL)，然後遵循這些簡單的步驟進行。
 
-1. 移至&#x200B;**[!UICONTROL Design Studio]**。
+1. 前往 **[!UICONTROL Design Studio]**。
 
    ![](assets/designstudio-2.png)
 

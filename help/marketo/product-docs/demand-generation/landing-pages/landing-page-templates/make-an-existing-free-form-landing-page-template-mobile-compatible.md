@@ -1,13 +1,13 @@
 ---
 unique-page-id: 5472348
-description: 讓現有的自由表單登陸頁面範本與行動裝置相容 — Marketo檔案 — 產品檔案
+description: 瞭解如何讓現有的自由表單登陸頁面範本與行動裝置相容。 從範本或登入頁面編輯器升級。
 title: 讓現有的自由格式登陸頁面範本相容於行動裝置
 exl-id: 942456a5-3f3e-4a71-aecc-4cc6bf6237b3
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '228'
-ht-degree: 5%
+source-wordcount: '235'
+ht-degree: 6%
 
 ---
 
@@ -69,7 +69,7 @@ ht-degree: 5%
 
 當您編輯登入頁面並按一下行動標籤時，您有時會注意到範本尚未升級。 不要害怕！ 您可以在這裡進行升級。
 
-1. 按一下「**[!UICONTROL Mobile]**」標籤。
+1. 按一下「**[!UICONTROL Mobile]**」索引標籤。
 
    ![](assets/image2015-1-22-20-3a48-3a19.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359530
-description: 新增文字和權杖至登陸頁面 — Marketo檔案 — 產品檔案
+description: 瞭解如何將文字和權杖新增至Marketo登陸頁面。 插入靜態文字和動態權杖以進行個人化。
 title: 新增文字和權杖至登陸頁面
 exl-id: df6f17dc-50a0-4ee0-9a6e-96b0ebde46c7
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 9%
+source-wordcount: '190'
+ht-degree: 8%
 
 ---
 

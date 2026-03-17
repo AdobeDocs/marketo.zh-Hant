@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10096675
-description: 建立子行銷活動和本機Assets - Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo中為ON24事件建立子行銷活動和本機資產。 組織不同地區或語言的程式。
 title: 建立子系行銷活動和本地資產
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '650'
+source-wordcount: '661'
 ht-degree: 3%
 
 ---

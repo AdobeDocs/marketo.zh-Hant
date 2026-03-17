@@ -1,12 +1,12 @@
 ---
-description: 傳送清單至廣告網路 — Marketo檔案 — 產品檔案
+description: 瞭解如何將靜態清單傳送至LinkedIn、Facebook或Google。 使用「清單動作」和「傳送至廣告網路」來選擇對象和同步選項。
 title: 傳送清單至廣告網路
 exl-id: d5c55df7-53c8-491a-9d79-ecf7c25cee08
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 8%
+source-wordcount: '215'
+ht-degree: 7%
 
 ---
 
@@ -44,7 +44,7 @@ ht-degree: 8%
 
    ![](assets/send-a-list-to-an-ad-network-5.png)
 
-## 常見問題 {#faq}
+## 常見問題集 {#faq}
 
 **單一靜態清單可以與多個廣告對象同步嗎？**
 

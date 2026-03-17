@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949863
-description: 使用 [!DNL Webex] - Marketo檔案建立事件 — 產品檔案
+description: 瞭解如何在Marketo中使用Webex建立活動。 設定Webex整合，並與Marketo同步事件或會議資料。
 title: 建立具有 [!DNL Webex]的事件
 exl-id: 25266a6b-3951-46d1-8700-b36d7086ad2c
 feature: Events
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '628'
+source-wordcount: '642'
 ht-degree: 0%
 
 ---

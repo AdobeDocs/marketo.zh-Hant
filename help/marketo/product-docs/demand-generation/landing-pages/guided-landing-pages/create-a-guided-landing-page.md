@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7515266
-description: 建立引導式登陸頁面 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo中建立引導式登陸頁面。 選擇範本，然後使用引導式編輯器建置您的頁面。
 title: 建立引導式登陸頁面
 exl-id: 876735b7-1e71-4fd0-b5de-63e239bcfa30
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '172'
-ht-degree: 13%
+source-wordcount: '184'
+ht-degree: 15%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 13%
 
 引導式登入頁面可建立為方案的本機資產，或在[!UICONTROL Design Studio]中建立以全域使用。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/one-1.png)
 
@@ -51,7 +51,7 @@ ht-degree: 13%
 
 ## 在Design Studio中建立登陸頁面 {#create-a-landing-page-in-design-studio}
 
-1. 移至&#x200B;**[!UICONTROL Design Studio]**。
+1. 前往 **[!UICONTROL Design Studio]**。
 
    ![](assets/six.png)
 

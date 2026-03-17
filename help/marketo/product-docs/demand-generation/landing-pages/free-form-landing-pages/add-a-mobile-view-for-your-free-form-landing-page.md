@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720856
-description: 為您的自由表單登陸頁面新增行動裝置檢視 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo中為您的自由格式登陸頁面新增行動裝置檢視。 最佳化行動裝置的頁面配置。
 title: 新增自由格式登陸頁面的行動裝置視圖
 exl-id: 1fc9689f-a39c-4ab4-9b03-0953fe229a8c
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 16%
+source-wordcount: '134'
+ht-degree: 19%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 16%
 >
 >行動檢視可在480px寬（或更小）的熒幕上運作。 換句話說，就是智慧型手機。 以下是裝置解析度[的更多](https://www.mydevice.io/)資訊。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -31,7 +31,7 @@ ht-degree: 16%
 
    ![](assets/image2015-1-22-15-3a38-3a12.png)
 
-1. 按一下「**[!UICONTROL Mobile]**」標籤。
+1. 按一下「**[!UICONTROL Mobile]**」索引標籤。
 
    ![](assets/image2015-1-22-16-3a46-3a10.png)
 

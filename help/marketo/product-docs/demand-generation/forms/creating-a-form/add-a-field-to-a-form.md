@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359543
-description: 新增欄位至表單 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo中將欄位新增至表單。 新增表單欄位並將它們對應至人員或公司屬性。
 title: 新增欄位至表單
 exl-id: cda45a69-128b-4cdc-846e-637acb9555da
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '136'
 ht-degree: 12%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 12%
 
 當您[建立表單](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md){target="_blank"}並[選取主題](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md){target="_blank"}後，您可能想要新增其他欄位供人員填寫。 方法如下。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/add-a-field-to-a-form-1.png)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359614
-description: 在選項或表單的選取欄位中定義值 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo表單的選項或下拉式欄位中定義值。 設定訪客可選擇的選項。
 title: 定義表單中單選或所選欄位的值
 exl-id: 62e8d1db-3de7-4129-80d5-11c1fe8d9dd3
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '179'
 ht-degree: 15%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 15%
 
 一旦您[將欄位型別](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md)設定為選項按鈕或選取型別，您就會想要定義使用者可選擇的值。 方法如下。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/ma.png)
 

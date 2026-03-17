@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7515069
-description: 瞭解引導式範本中的元素和變數 — Marketo檔案 — 產品檔案
+description: 瞭解Marketo引導式登陸頁面範本中的元素和變數。 定義可編輯的專案和內容的放置方式。
 title: 了解引導式範本中的元素和變數
 exl-id: c25c8b2b-d596-46f7-a570-b4a5cb5957a6
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 10%
+source-wordcount: '198'
+ht-degree: 9%
 
 ---
 
@@ -49,7 +49,7 @@ ht-degree: 10%
   </tr>
   <tr>
    <td>顏色</td>
-   <td><p>色彩的可編輯十六進位代碼</p><p><img alt="—" src="assets/image2015-5-20-13-3a14-3a57.png" data-linked-resource-id="7515092" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>範例：背景顏色、字型顏色、框線顏色</p></td>
+   <td><p>色彩的可編輯十六進位代碼</p><p><img alt="--" src="assets/image2015-5-20-13-3a14-3a57.png" data-linked-resource-id="7515092" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>範例：背景顏色、字型顏色、框線顏色</p></td>
   </tr>
   <tr>
    <td>布林值</td>

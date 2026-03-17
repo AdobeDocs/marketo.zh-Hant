@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720257
-description: 新增 [!DNL Facebook] 自訂對象作為 [!DNL LaunchPoint] 服務 — Marketo檔案 — 產品檔案
+description: 瞭解如何將Facebook自訂對象新增為LaunchPoint服務。 將Marketo清單傳送至Facebook，作為廣告促銷活動中的自訂對象。
 title: 將 [!DNL Facebook] 自訂對象新增為 [!DNL LaunchPoint] 服務
 exl-id: 5c5b5c80-fd0f-482a-8163-6eef3dbcb236
 feature: Integrations
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '277'
-ht-degree: 1%
+source-wordcount: '291'
+ht-degree: 2%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 透過這項整合，您可以從Marketo靜態與智慧列示傳送對象資料至[!DNL Facebook]，以在[!DNL Facebook]廣告行銷活動中作為自訂對象使用。 以下說明設定方法。
 

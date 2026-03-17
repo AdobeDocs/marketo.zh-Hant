@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359746
-description: 使用CNAME自訂您的登陸頁面URL - Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo中使用CNAME自訂登陸頁面URL。 使用您自己的網域取得登陸頁面連結。
 title: 使用 CNAME 自訂您的登陸頁面 URL
 exl-id: 2cd87785-61e5-46cd-b1e0-6fbc145014d4
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '228'
-ht-degree: 7%
+source-wordcount: '236'
+ht-degree: 9%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 7%
 * info.YourCompany.com/NameOfPage.html
 * pages.YourCompany.com/NameOfPage.html
 
-一個字(加上YourCompany.com)稱為CNAME。 您稍後需要此資訊，請記下資訊。
+一個字（加上YourCompany.com）稱為CNAME。 您稍後需要此資訊，請記下資訊。
 
 ## 尋找您的Munchkin ID {#find-your-munchkin-id}
 
@@ -43,7 +43,7 @@ ht-degree: 7%
 
    >[!NOTE]
    >
-   >**需要管理員許可權**
+   >**需要管理員權限**
 
 1. 向下捲動至「支援資訊」並複製您的Munchkin ID。
 
@@ -51,7 +51,7 @@ ht-degree: 7%
 
 ## 傳送要求給IT {#send-request-to-it}
 
-請您的IT人員設定下列CNAME： (將單字[CNAME]和[Munchkin ID]取代為上一步驟的文字。)
+請您的IT人員設定下列CNAME： （將單字[CNAME]和[Munchkin ID]取代為上一步驟的文字。）
 
 [CNAME].YourCompany.com > [Munchkin ID].mktoweb.com
 

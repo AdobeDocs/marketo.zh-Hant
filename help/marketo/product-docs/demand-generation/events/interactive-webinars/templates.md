@@ -1,12 +1,12 @@
 ---
-description: 瞭解如何在互動式網路研討會中建立及實作範本。
+description: 瞭解如何在互動式網路研討會中建立及實作範本。 使用範本將網路研討會設計標準化，並加快建立速度。
 title: 互動式網路研討會範本
 feature: Interactive Webinars
 exl-id: 779deab6-f257-4002-904b-80d20bb73e3e
-source-git-commit: 089902e937d32e6bca77f20296d9751bcc4ebdd6
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '319'
-ht-degree: 0%
+source-wordcount: '306'
+ht-degree: 6%
 
 ---
 
@@ -18,11 +18,11 @@ ht-degree: 0%
 
 在您組織中的任何使用者能夠存取您的互動式網路研討會範本之前，Marketo Engage管理員必須先將存取權新增至所需的角色。
 
-1. 在Marketo Engage中，按一下&#x200B;**[!UICONTROL 管理員]**。
+1. 在 Marketo Engage 中，按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/templates-for-interactive-webinars-1.png)
 
-1. 按一下「**[!UICONTROL 使用者與角色]**」，然後按一下「**[!UICONTROL 角色]**」標籤。
+1. 按一下「**[!UICONTROL Users & Roles]**」，然後按一下「**[!UICONTROL Roles]**」標籤。
 
    ![](assets/templates-for-interactive-webinars-2.png)
 
@@ -34,21 +34,21 @@ ht-degree: 0%
 
    ![](assets/templates-for-interactive-webinars-4.png)
 
-1. 選取&#x200B;**[!UICONTROL 存取互動式網路研討會範本]**&#x200B;核取方塊。
+1. 選取&#x200B;**[!UICONTROL Access Interactive Webinars Templates]**&#x200B;核取方塊。
 
    ![](assets/templates-for-interactive-webinars-5.png)
 
 ## 建立範本 {#create-a-template}
 
-1. 在Marketo Engage中，按一下&#x200B;**[!UICONTROL Design Studio]**。
+1. 在 Marketo Engage 中，按一下「**[!UICONTROL Design Studio]**」。
 
    ![](assets/templates-for-interactive-webinars-6.png)
 
-1. 按一下&#x200B;**[!UICONTROL 互動式網路研討會]**。
+1. 按一下「**[!UICONTROL Interactive Webinars]**」。
 
    ![](assets/templates-for-interactive-webinars-7.png)
 
-1. 按一下&#x200B;**[!UICONTROL 管理範本]**。
+1. 按一下「**[!UICONTROL Manage Templates]**」。
 
    ![](assets/templates-for-interactive-webinars-8.png)
 
@@ -56,7 +56,7 @@ ht-degree: 0%
 
    ![](assets/templates-for-interactive-webinars-9.png)
 
-1. 在[標準範本]索引標籤中，選取所需的範本，然後按一下[下一步] **&#x200B;**。
+1. 在[標準範本]索引標籤中，選取所需的範本，然後按一下[下一步] ****。
 
    ![](assets/templates-for-interactive-webinars-10.png)
 
@@ -90,15 +90,15 @@ ht-degree: 0%
 
 請依照下列步驟編輯現有範本。
 
-1. 在Marketo Engage中，按一下&#x200B;**[!UICONTROL Design Studio]**。
+1. 在 Marketo Engage 中，按一下「**[!UICONTROL Design Studio]**」。
 
    ![](assets/templates-for-interactive-webinars-16.png)
 
-1. 按一下&#x200B;**[!UICONTROL 互動式網路研討會]**。
+1. 按一下「**[!UICONTROL Interactive Webinars]**」。
 
    ![](assets/templates-for-interactive-webinars-17.png)
 
-1. 按一下&#x200B;**[!UICONTROL 管理範本]**。
+1. 按一下「**[!UICONTROL Manage Templates]**」。
 
    ![](assets/templates-for-interactive-webinars-18.png)
 

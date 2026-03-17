@@ -1,11 +1,11 @@
 ---
-description: 測試互動式網路研討會 — Marketo檔案 — 產品檔案
+description: 瞭解如何在上線前測試互動式網路研討會。 確認註冊、內容和參與工具如預期般運作。
 title: 測試互動式網路研討會
 feature: Interactive Webinars
 exl-id: 40dc1c86-6978-4b9f-abeb-96a5cab7dc5d
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '381'
 ht-degree: 2%
 
 ---

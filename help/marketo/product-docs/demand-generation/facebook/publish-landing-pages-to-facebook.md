@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359823
-description: 將登入頁面發佈至Facebook - Marketo檔案 — 產品檔案
+description: 瞭解如何將Marketo登陸頁面發佈至Facebook。 將登入頁面內容分享為Facebook貼文，以供您的對象使用。
 title: 將登陸頁面發佈至 Facebook
 exl-id: 42ba4136-3538-4eef-b794-3fce7e9fb8e5
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '289'
 ht-degree: 1%
 
 ---

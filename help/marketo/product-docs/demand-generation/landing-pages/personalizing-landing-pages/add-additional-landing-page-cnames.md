@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359798
-description: 新增其他登陸頁面CNAME - Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo中新增其他登陸頁面CNAME。 對您的登入頁面使用多個自訂網域。
 title: 新增其他登陸頁面 CNAME
 exl-id: eb5a7f69-552e-49a2-91db-a784f4639cd0
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 4%
+source-wordcount: '230'
+ht-degree: 6%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 1. 移至&#x200B;**管理員**&#x200B;區域。
 
@@ -43,7 +43,7 @@ ht-degree: 4%
 
 ## 傳送要求給IT {#send-request-to-it}
 
-1. 請您的IT部門設定下列CNAME： (將[CNAME]取代為您選擇的CNAME，並將[Munchkin ID]取代為您先前步驟的文字)。
+1. 請您的IT部門設定下列CNAME： （將[CNAME]取代為您選擇的CNAME，並將[Munchkin ID]取代為您先前步驟的文字）。
 
    [CNAME].YourCompany.com > [Munchkin ID].mktoweb.com
 

@@ -1,11 +1,11 @@
 ---
-description: GenAI功能 — Marketo檔案 — 產品檔案
+description: 瞭解互動式網路研討會中的GenAI功能。 使用AI來增強網路研討會內容、摘要或參與。
 title: GenAI功能
 feature: Interactive Webinars
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: 6350137c2abfb46a0a8451772a8dc08391f3e4b5
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '668'
 ht-degree: 0%
 
 ---
@@ -78,7 +78,7 @@ ht-degree: 0%
 
 ## 使用產生的內容 {#use-generated-content}
 
-複製您要使用的內容後，將其貼到您選擇的編輯器(例如Marketo Engage登陸頁面編輯器)中並進行任何所需的調整。
+複製您要使用的內容後，將其貼到您選擇的編輯器（例如Marketo Engage登陸頁面編輯器）中並進行任何所需的調整。
 
 ### 摘要 {#summary}
 

@@ -1,11 +1,11 @@
 ---
-description: 互動式網路研討會自訂 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo中自訂互動式網路研討會。 設定品牌、版面配置和選項，以符合您的組織和事件。
 title: 互動式網路研討會自訂
 feature: Interactive Webinars
 exl-id: 52933cb6-7bce-4c81-ba3f-68eaf211e8eb
-source-git-commit: 6350137c2abfb46a0a8451772a8dc08391f3e4b5
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '759'
+source-wordcount: '770'
 ht-degree: 0%
 
 ---
@@ -141,4 +141,4 @@ Adobe Connect提供九種預設背景可供使用。 您可以在「預覽」中
 
 * 主人在建立房間時可以選擇主題，或稍後從房間資訊頁更新主題（**房間頂列** > **更多功能表** > **檢視房間資訊**）。
 
-深入瞭解[主題](https://helpx.adobe.com/tw/adobe-connect/connect-central-admin/connect-central-ui-customization-basics.html){target="_blank"}。
+深入瞭解[主題](https://helpx.adobe.com/adobe-connect/connect-central-admin/connect-central-ui-customization-basics.html){target="_blank"}。

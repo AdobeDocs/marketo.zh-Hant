@@ -1,19 +1,19 @@
 ---
 unique-page-id: 9437816
-description: 範本15A - Marketo檔案 — 產品檔案
+description: 瞭解範本15A引導式登陸頁面範本。 下載並用於您的Marketo登陸頁面。
 title: 範本 15A
 exl-id: 64aeaa61-cd39-487c-9ca5-9b2185dc04a3
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 8%
+source-wordcount: '58'
+ht-degree: 6%
 
 ---
 
 # 範本 15A {#template-15a}
 
-按一下滑鼠右鍵以[下載範本15A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15a.html?lang=zh-Hant)
+按一下滑鼠右鍵以[下載範本15A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15a.html)
 
 ![](assets/image2015-8-13-13-3a58-3a55.png)
 
@@ -28,4 +28,4 @@ ht-degree: 8%
 
 **在下方按一下滑鼠右鍵以下載此範本：**
 
-[範本15A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15a.html?lang=zh-Hant)
+[範本15A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15a.html)

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12983101
-description: 將自訂欄位對應至Marketo - Marketo檔案 — 產品檔案
+description: 瞭解如何將Facebook潛在客戶廣告自訂欄位對應至Marketo。 確保潛在客戶廣告資料對應至Marketo中的正確人員欄位。
 title: 將自訂欄位對應至 Marketo
 exl-id: c52c9bcb-6448-4ebe-b87f-9e3a48e3d27d
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 5%
+source-wordcount: '248'
+ht-degree: 6%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 5%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 1. 移至[管理]區域並按一下&#x200B;**[!UICONTROL LaunchPoint]**。 在[已安裝服務]下，尋找並編輯&#x200B;**[!UICONTROL Facebook Lead Ads]**。
 

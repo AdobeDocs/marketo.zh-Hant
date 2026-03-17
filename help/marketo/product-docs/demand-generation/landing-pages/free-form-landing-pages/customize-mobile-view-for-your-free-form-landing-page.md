@@ -1,13 +1,13 @@
 ---
 unique-page-id: 5472283
-description: 自訂自由表單登陸頁面的行動裝置檢視 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo中自訂您自由登陸頁面的行動裝置檢視。 調整行動訪客的版面和內容。
 title: 自訂自由格式登陸頁面的行動裝置視圖
 exl-id: 8a5b3d81-34b1-47be-9575-d5ab61cdf9e4
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '355'
-ht-degree: 5%
+source-wordcount: '363'
+ht-degree: 7%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 5%
 
    ![](assets/image2015-1-22-18-3a33-3a12.png)
 
-1. 按一下「**[!UICONTROL Mobile]**」標籤。
+1. 按一下「**[!UICONTROL Mobile]**」索引標籤。
 
    ![](assets/image2015-1-22-18-3a31-3a40.png)
 
@@ -107,7 +107,7 @@ ht-degree: 5%
    >
    >預覽不是互動式。 每部智慧型手機的顯示方式都有點不同。 我們建議您在幾個裝置上預覽您的登陸頁面，以檢視登陸頁面的確切行為。
 
-玩得開心！
+祝您有愉快的使用體驗！
 
 >[!MORELIKETHIS]
 >

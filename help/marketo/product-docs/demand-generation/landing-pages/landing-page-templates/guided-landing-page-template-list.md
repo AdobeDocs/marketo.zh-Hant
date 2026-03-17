@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7515616
-description: 引導式登陸頁面範本清單 — Marketo檔案 — 產品檔案
+description: 瞭解Marketo中的引導式登入頁面範本清單。 瀏覽並下載登入頁面的範本。
 title: 引導式登陸頁面範本清單
 exl-id: 93893c9c-dda2-4d18-b74c-e47388ed552c
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '338'
-ht-degree: 64%
+source-wordcount: '347'
+ht-degree: 62%
 
 ---
 
@@ -374,11 +374,11 @@ ht-degree: 64%
 <tr>
 <td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-20d.md">範本 20D</a></td>
 <td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-20e.md">範本 20E</a></td>
-<td> </td>
+<td>  </td>
 </tr>
 <tr>
 <td><img src="assets/20d.jpg"></td>
 <td><img src="assets/20e.jpg"></td>
-<td> </td>
+<td>  </td>
 </tr>
 </table>

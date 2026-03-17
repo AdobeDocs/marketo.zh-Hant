@@ -1,11 +1,11 @@
 ---
-description: 問題產生 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用來源URL和主題產生Dynamic Chat的問題。 建立AI輔助回應並在輔助回應中追蹤任務狀態。
 title: 問題產生
 feature: Dynamic Chat
 exl-id: 05e0fd4c-b8e0-47de-8ca8-d4ba07d6a06a
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '309'
 ht-degree: 3%
 
 ---

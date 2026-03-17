@@ -1,12 +1,12 @@
 ---
 unique-page-id: 17728023
-description: 使用 [!DNL Zoom] - Marketo檔案建立事件 — 產品檔案
+description: 瞭解如何在Marketo中使用縮放功能建立事件。 設定Zoom整合，並將會議或網路研討會與您的活動程式同步。
 title: 建立具有 [!DNL Zoom]的事件
 exl-id: 6a2aec58-902c-4e40-ab59-9cc33ec83cea
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '531'
+source-wordcount: '547'
 ht-degree: 0%
 
 ---
@@ -103,4 +103,4 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >資料可能需要48小時才會出現在Marketo中。 如果等了這麼久，您還是看不到任何內容，請從您事件的&#x200B;**摘要**&#x200B;索引標籤中的[事件動作]功能表，選取[網路研討會提供者]中的[重新整理]&#x200B;**&#x200B;**，然後按一下畫面右下方的重新整理圖示。
+   >資料可能需要48小時才會出現在Marketo中。 如果等了這麼久，您還是看不到任何內容，請從您事件的&#x200B;**摘要**&#x200B;索引標籤中的[事件動作]功能表，選取[網路研討會提供者]中的[重新整理]****，然後按一下畫面右下方的重新整理圖示。

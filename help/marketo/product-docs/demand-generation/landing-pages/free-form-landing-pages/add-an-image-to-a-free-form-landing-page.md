@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359703
-description: 將影像新增至自由表單登陸頁面 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo中將影像新增至自由格式的登陸頁面。 從Design Studio插入並定位影像。
 title: 新增影像至自由格式登陸頁面
 exl-id: 68b302e8-a2df-4bf3-9835-e92b36acce55
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 27%
+source-wordcount: '78'
+ht-degree: 24%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10098242
-description: 停用社交表單填寫 — Marketo檔案 — 產品檔案
+description: 瞭解如何停用Marketo表單上的社交表單填寫。 關閉讓訪客使用其社交網路提交的選項。
 title: 停用社交表單填寫
 exl-id: 69b66a7e-c6c9-4e29-a5b3-688da9cae505
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 14%
+source-wordcount: '86'
+ht-degree: 13%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 14%
 >
 >並非所有客戶都已購買此功能。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-10.png)
 

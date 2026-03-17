@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359736
-description: 新增自由表單登陸頁面影像的連結 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo的自由格式登陸頁面上新增影像連結。 將影像設為可點按的URL。
 title: 新增連結至自由格式登陸頁面影像
 exl-id: 74560863-b135-4e0e-b84d-9462aacbb902
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 22%
+source-wordcount: '90'
+ht-degree: 20%
 
 ---
 

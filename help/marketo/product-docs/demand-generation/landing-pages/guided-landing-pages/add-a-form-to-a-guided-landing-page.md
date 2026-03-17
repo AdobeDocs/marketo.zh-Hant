@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7515107
-description: 新增表單至引導式登陸頁面 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo中將表單新增到引導式登陸頁面。 插入表單元素，然後選擇您的Marketo表單。
 title: 新增表單至引導式登陸頁面
 exl-id: 480da9ab-909e-4eb5-83c2-34de56b05c78
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '161'
-ht-degree: 13%
+source-wordcount: '171'
+ht-degree: 12%
 
 ---
 

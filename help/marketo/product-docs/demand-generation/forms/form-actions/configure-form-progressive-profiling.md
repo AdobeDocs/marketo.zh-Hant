@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359646
-description: 設定表單Progressive Profiling - Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo表單上設定漸進式設定檔分析。 顯示一段時間的不同欄位，以收集更多資料而不需要冗長的表單。
 title: 設定表單漸進式剖析
 exl-id: 72afe3dc-0688-45ec-ab70-4dc9accf4fc8
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '307'
-ht-degree: 3%
+source-wordcount: '321'
+ht-degree: 4%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 3%
 >
 >為了讓此功能正常運作，請確定可見欄位已啟用表單預填，隱藏欄位則停用[已停用](/help/marketo/product-docs/demand-generation/forms/form-fields/disable-pre-fill-for-a-form-field.md)。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/ma-1.png)
 
@@ -35,7 +35,7 @@ ht-degree: 3%
 
    ![](assets/image2014-9-15-12-3a31-3a47.png)
 
-1. 好，現在來設定它。 移至&#x200B;**[!UICONTROL Field Details]**。
+1. 好，現在來設定它。 前往 **[!UICONTROL Field Details]**。
 
    ![](assets/image2014-9-15-12-3a31-3a55.png)
 

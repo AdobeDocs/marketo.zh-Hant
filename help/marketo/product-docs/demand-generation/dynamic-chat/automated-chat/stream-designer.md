@@ -1,12 +1,12 @@
 ---
-description: 串流Designer - Marketo檔案 — 產品檔案
+description: 瞭解串流Designer和用來建立聊天對話的卡片。 新增訊息、問題、檔案擷取、會議預約等至對話方塊。
 title: 資料流設計工具
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '1175'
-ht-degree: 1%
+source-wordcount: '1191'
+ht-degree: 2%
 
 ---
 
@@ -42,7 +42,7 @@ ht-degree: 1%
  </tr>
  <tr>
   <td style="width:25%"><strong>會議預訂</strong></td>
-  <td>為訪客提供可用日期的行事曆以排程會議。 透過循環配置資源、特定代理程式或使用自訂規則，選擇行事曆可用性。 如果您想要擷取代理程式的名稱或電子郵件地址，並將它指派給聊天訪客的個人記錄以供日後查詢，請按一下<b>新增屬性</b> (秘訣：建立<a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">自訂欄位</a>以將代理程式的資訊對應到以免覆寫標準Marketo Engage欄位)。</td>
+  <td>為訪客提供可用日期的行事曆以排程會議。 透過循環配置資源、特定代理程式或使用自訂規則，選擇行事曆可用性。 如果您想要擷取代理程式的名稱或電子郵件地址，並將它指派給聊天訪客的個人記錄以供日後查詢，請按一下<b>新增屬性</b> （秘訣：建立<a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">自訂欄位</a>以將代理程式的資訊對應到以免覆寫標準Marketo Engage欄位）。</td>
  </tr>
  <tr>
   <td style="width:25%"><strong>目標</strong></td>
@@ -109,7 +109,7 @@ ht-degree: 1%
 
    ![](assets/stream-designer-6.png)
 
-1. 拖放&#x200B;_[!UICONTROL Question]_&#x200B;卡片。
+1. 拖放&#x200B;_[!UICONTROL Question]_卡片。
 
    ![](assets/stream-designer-7.png)
 
@@ -145,7 +145,7 @@ ht-degree: 1%
 
    ![](assets/stream-designer-11.png)
 
-1. 由於這是目標，請將&#x200B;_[!UICONTROL Goal]_&#x200B;卡片拖曳到會議預約下方。
+1. 由於這是目標，請將&#x200B;_[!UICONTROL Goal]_卡片拖曳到會議預約下方。
 
    ![](assets/stream-designer-12.png)
 
@@ -157,7 +157,7 @@ ht-degree: 1%
 
    ![](assets/stream-designer-14.png)
 
-1. 輸入您的回應，並為訪客新增回應選擇。 完成時，按一下&#x200B;**[!UICONTROL Save]**。
+1. 輸入您的回應，並為訪客新增回應選擇。 完成後請按一下 **[!UICONTROL Save]**。
 
    ![](assets/stream-designer-15.png)
 
@@ -173,11 +173,11 @@ ht-degree: 1%
 
    ![](assets/stream-designer-17.png)
 
-1. 輸入聊天機器人訊息和預留位置。 如果您的資料庫中已有此屬性的值，請選擇是否要略過，或讓此資料覆寫它。 完成時，按一下&#x200B;**[!UICONTROL Save]**。
+1. 輸入聊天機器人訊息和預留位置。 如果您的資料庫中已有此屬性的值，請選擇是否要略過，或讓此資料覆寫它。 完成後請按一下 **[!UICONTROL Save]**。
 
    ![](assets/stream-designer-18.png)
 
-1. 由於收集他們的電子郵件是目標，請將&#x200B;_[!UICONTROL Goal]_&#x200B;卡片拖曳至「資訊擷取」下方。
+1. 由於收集他們的電子郵件是目標，請將&#x200B;_[!UICONTROL Goal]_卡片拖曳至「資訊擷取」下方。
 
    ![](assets/stream-designer-19.png)
 

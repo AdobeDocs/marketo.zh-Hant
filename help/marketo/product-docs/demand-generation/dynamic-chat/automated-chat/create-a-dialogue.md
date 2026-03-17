@@ -1,12 +1,12 @@
 ---
-description: 建立對話方塊 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Dynamic Chat中建立新的對話方塊。 選擇範本、設定名稱和優先順序，然後為您的交談建立串流。
 title: 建立對話
 feature: Dynamic Chat
 exl-id: 7de6ba05-39d5-41b9-921b-50bf5b2c5581
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 9%
+source-wordcount: '92'
+ht-degree: 7%
 
 ---
 

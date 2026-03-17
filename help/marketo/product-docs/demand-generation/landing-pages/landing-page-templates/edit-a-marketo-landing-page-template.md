@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720738
-description: 編輯Marketo登陸頁面範本 — Marketo檔案 — 產品檔案
+description: 瞭解如何編輯Marketo登入頁面範本。 更新Design Studio中的範本以變更未來頁面的版面或內容。
 title: 編輯 Marketo 登陸頁面範本
 exl-id: 247e057f-6da2-4415-a0b6-c0ffae3089fe
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '98'
 ht-degree: 15%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 15%
 
 您可以在Marketo中編輯任何登入頁面範本。
 
-1. 移至&#x200B;**[!UICONTROL Design Studio]**。
+1. 前往 **[!UICONTROL Design Studio]**。
 
    ![](assets/designstudio.png)
 

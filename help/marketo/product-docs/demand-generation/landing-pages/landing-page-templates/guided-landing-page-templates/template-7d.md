@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8783950
-description: 範本7D - Marketo檔案 — 產品檔案
+description: 瞭解範本7D引導式登陸頁面範本。 下載並用於您的Marketo登陸頁面。
 title: 範本 7D
 exl-id: 089bbf5e-5260-4190-ba66-520871d2d665
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '50'
-ht-degree: 8%
+source-wordcount: '62'
+ht-degree: 6%
 
 ---
 
 # 範本 7D {#template-7d}
 
-按一下滑鼠右鍵以[下載範本7D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7d.html?lang=zh-Hant)
+按一下滑鼠右鍵以[下載範本7D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7d.html)
 
 ![](assets/image2015-7-29-15-3a5-3a39.png)
 
@@ -29,4 +29,4 @@ ht-degree: 8%
 
 **在下方按一下滑鼠右鍵以下載此範本：**
 
-[範本7D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7d.html?lang=zh-Hant)
+[範本7D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7d.html)

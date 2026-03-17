@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11379622
-description: 設定Facebook銷售機會廣告 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用Marketo設定Facebook銷售機會廣告。 連線您的Facebook帳戶，並將銷售機會廣告提交同步至Marketo。
 title: 設定 Facebook 商機廣告
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
 feature: Integrations
-source-git-commit: 0e164542f45045f5259b2e9c068bd3bade150656
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '336'
 ht-degree: 4%
 
 ---

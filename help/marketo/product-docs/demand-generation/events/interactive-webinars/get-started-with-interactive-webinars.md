@@ -1,11 +1,11 @@
 ---
-description: 開始使用互動式網路研討會 — Marketo檔案 — 產品檔案
+description: 開始使用Marketo中的互動式網路研討會。 瞭解建立及舉辦您的第一個互動式網路研討會的先決條件、重要概念和步驟。
 title: 開始使用互動式網路研討會
 feature: Interactive Webinars
 exl-id: 6e1409aa-a60a-4fb2-8abd-cdc0c20a20d9
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '298'
 ht-degree: 3%
 
 ---
@@ -38,6 +38,6 @@ ht-degree: 3%
 
 我們有關於此主題的更多說明文章，包括[互動式網路研討會的最佳作法](/help/marketo/product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars.md){target="_blank"}、如何[自訂您的網路研討會](/help/marketo/product-docs/demand-generation/events/interactive-webinars/customization.md){target="_blank"}以反映您的需求/品牌化、使用[互動式網路研討會範本](/help/marketo/product-docs/demand-generation/events/interactive-webinars/templates.md){target="_blank"}建立整個組織的範本，以及如何在[會議室管理](/help/marketo/product-docs/demand-generation/events/interactive-webinars/room-management.md){target="_blank"}中管理會議室和錄製。
 
- 
+  
 
-盡情體驗互動式網路研討會(由Adobe Connect提供技術支援)！
+盡情體驗互動式網路研討會（由Adobe Connect提供技術支援）！

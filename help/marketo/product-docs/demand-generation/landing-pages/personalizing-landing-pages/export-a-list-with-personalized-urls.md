@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359815
-description: 匯出包含個人化URL的清單 — Marketo檔案 — 產品檔案
+description: 瞭解如何從Marketo匯出包含個人化URL的清單。 取得具有唯一登陸頁面URL的收件者清單。
 title: 匯出具有個人化 URL 的清單
 exl-id: a267af34-9812-4994-b506-bba32e89e66c
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 7%
+source-wordcount: '172'
+ht-degree: 6%
 
 ---
 

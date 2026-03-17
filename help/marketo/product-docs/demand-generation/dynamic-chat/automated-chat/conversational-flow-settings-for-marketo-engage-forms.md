@@ -1,12 +1,12 @@
 ---
-description: Marketo Engage Forms的對話流程設定 — Marketo檔案 — 產品檔案
+description: 瞭解如何讓Marketo表單與Dynamic Chat對話流程對話。 使用表單或清單資料讓潛在客戶符合預定和自訂目標。
 title: Marketo Engage Forms的對話流量設定
 feature: Dynamic Chat
 exl-id: 36d00862-4bb9-46fd-a5f8-69df7bf22ecf
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '267'
-ht-degree: 0%
+source-wordcount: '281'
+ht-degree: 1%
 
 ---
 
@@ -66,6 +66,6 @@ ht-degree: 0%
 
    ![](assets/conversational-flow-settings-9.png)
 
-1. 完成時，按一下&#x200B;**[!UICONTROL Finish]**。
+1. 完成後請按一下 **[!UICONTROL Finish]**。
 
    ![](assets/conversational-flow-settings-10.png)

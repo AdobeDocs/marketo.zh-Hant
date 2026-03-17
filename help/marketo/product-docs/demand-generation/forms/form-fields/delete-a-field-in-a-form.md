@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359606
-description: 刪除表單中的欄位 — Marketo檔案 — 產品檔案
+description: 瞭解如何從Marketo表單中刪除欄位。 從表單中移除您不再需要的欄位。
 title: 刪除表單中的欄位
 exl-id: 294150f1-309f-42a3-9569-628deb160fc9
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '78'
 ht-degree: 23%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 23%
 
 如果您的表單中有不再需要的欄位，可以輕鬆將其刪除。 方法如下。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-2.png)
 

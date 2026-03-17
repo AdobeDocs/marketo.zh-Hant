@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359663
-description: 設定隱藏表單欄位值 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo中設定隱藏的表單欄位值。 在提交表單時傳遞靜態或權杖值。
 title: 設定隱藏表單欄位值
 exl-id: acec7de1-8567-42c0-a6ce-a91b0bf69f41
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '265'
 ht-degree: 6%
 
 ---

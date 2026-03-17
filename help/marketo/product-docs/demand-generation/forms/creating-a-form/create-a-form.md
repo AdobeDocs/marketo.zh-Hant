@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359398
-description: 建立表單 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo中建立表單。 新增欄位、設定表單，並在登陸頁面或您的網站上使用它來擷取潛在客戶。
 title: 建立表單
 exl-id: ab0f2700-99e5-4ceb-b9df-80016f30fc85
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '117'
 ht-degree: 7%
 
 ---
@@ -17,9 +17,9 @@ ht-degree: 7%
 
 >[!NOTE]
 >
->瞭解Marketo Engage如何確保您的表單安全[&#128279;](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038)。
+>瞭解Marketo Engage如何確保您的表單安全[](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038)。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/create-a-form-1.png)
 

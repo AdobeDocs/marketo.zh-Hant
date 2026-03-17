@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7504180
-description: 使用Marketo清單或智慧清單做為LinkedIn對象區段 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用Marketo清單或智慧清單做為LinkedIn對象區段。 透過Ad Bridge將清單傳送至LinkedIn以進行廣告目標定位。
 title: 使用 Marketo 清單或智慧清單做為 LinkedIn 客群細分群體
 exl-id: 9a7943fe-b2e7-443a-87e0-da01001682de
 feature: Social
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '194'
 ht-degree: 15%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 15%
 
    ![](assets/list-as-a-linkedin-audience-segment-2.png)
 
-1. 按一下「**[!UICONTROL People]**」標籤。
+1. 按一下「**[!UICONTROL People]**」索引標籤。
 
    ![](assets/list-as-a-linkedin-audience-segment-3.png)
 

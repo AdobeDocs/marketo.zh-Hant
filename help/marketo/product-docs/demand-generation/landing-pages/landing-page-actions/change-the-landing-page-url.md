@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359738
-description: 變更登陸頁面URL - Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo中變更登陸頁面URL。 更新登入頁面的URL路徑或概要。
 title: 變更登陸頁面 URL
 exl-id: 4ce9ad93-f90e-4bbb-a90c-5d0c1e764fd1
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 10%
+source-wordcount: '104'
+ht-degree: 9%
 
 ---
 

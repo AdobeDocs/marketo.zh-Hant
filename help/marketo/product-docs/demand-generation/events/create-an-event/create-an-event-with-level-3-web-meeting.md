@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7512328
-description: 使用 [!DNL Level 3 Web Meeting] - Marketo檔案建立事件 — 產品檔案
+description: 瞭解如何在Marketo中使用Level 3 Web Meeting建立事件。 設定與Marketo整合併同步Web會議註冊。
 title: 建立具有 [!DNL Level 3 Web Meeting]的事件
 exl-id: 17ade784-a2f4-4e92-a875-3bf2f80c13ab
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---

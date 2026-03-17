@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10098759
-description: 測試Facebook銷售機會廣告與Marketo的行動整合 — Marketo檔案 — 產品檔案
+description: 瞭解如何測試Facebook Lead Ads與Marketo的行動整合。 驗證來自行動同步處理的銷售機會廣告提交是否正確。
 title: 測試與 Marketo 行動應用程式整合的 Facebook 商機廣告
 exl-id: 0c381c53-f97a-4e1d-b44d-5ee6521ac990
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 5%
+source-wordcount: '205'
+ht-degree: 4%
 
 ---
 

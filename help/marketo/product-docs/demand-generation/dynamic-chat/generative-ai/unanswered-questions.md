@@ -1,12 +1,12 @@
 ---
-description: 未回答的問題 — Marketo檔案 — 產品檔案
+description: 瞭解如何檢視和回應未回答或沒有幫助的聊天機器人問題。 從此清單將新的已核准回應新增至您的回應程式庫。
 title: 未回答的問題
 feature: Dynamic Chat
 exl-id: 2f0f61a5-8c82-437c-af78-4c2ccc74d135
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 3%
+source-wordcount: '118'
+ht-degree: 8%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 3%
 
    ![](assets/unanswered-questions-1.png)
 
-1. 按一下「**[!UICONTROL Unanswered questions]**」標籤。
+1. 按一下「**[!UICONTROL Unanswered questions]**」索引標籤。
 
    ![](assets/unanswered-questions-2.png)
 
@@ -30,7 +30,7 @@ ht-degree: 3%
 
    ![](assets/unanswered-questions-3.png)
 
-1. 輸入您的回應。 指派主題並新增使用者可與訪客共用的選用URL。 完成時，按一下&#x200B;**[!UICONTROL Save]**。
+1. 輸入您的回應。 指派主題並新增使用者可與訪客共用的選用URL。 完成後請按一下 **[!UICONTROL Save]**。
 
    ![](assets/unanswered-questions-4.png)
 

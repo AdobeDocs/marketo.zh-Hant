@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359740
-description: 將Marketo登入頁面重新導向至其他頁面 — Marketo檔案 — 產品檔案
+description: 瞭解如何將Marketo登入頁面重新導向至另一個頁面。 當訪客進入頁面時，將訪客傳送至不同的URL。
 title: 將 Marketo 登陸頁面重新導向至另一個頁面
 exl-id: fe744546-d075-4686-bf42-543bb3624dbb
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 12%
+source-wordcount: '148'
+ht-degree: 13%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 12%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 1. 在&#x200B;**[!UICONTROL Admin]**&#x200B;底下，按一下&#x200B;**[!UICONTROL Landing Pages]**。
 

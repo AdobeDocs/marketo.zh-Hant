@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359868
-description: 從Box上傳影像和檔案 — Marketo檔案 — 產品檔案
+description: 瞭解如何從Box將影像和檔案上傳至Marketo。 連線Box並將資產匯入Design Studio。
 title: 從 Box 上傳影像或檔案
 exl-id: 08596026-ce25-4076-957a-d069aa44b85a
 feature: Image Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 16%
+source-wordcount: '102'
+ht-degree: 18%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 16%
 
 您可以從Box上傳檔案，以用於登入頁面和電子郵件。
 
-1. 移至&#x200B;**[!UICONTROL Design Studio]**。
+1. 前往 **[!UICONTROL Design Studio]**。
 
    ![](assets/designstudio-3.png)
 
-1. 移至&#x200B;**[!UICONTROL Images and Files]**。 按一下&#x200B;**[!UICONTROL File Actions]**&#x200B;並選取&#x200B;**[!UICONTROL Grab Images from Web]**。
+1. 前往 **[!UICONTROL Images and Files]**。 按一下&#x200B;**[!UICONTROL File Actions]**&#x200B;並選取&#x200B;**[!UICONTROL Grab Images from Web]**。
 
    ![](assets/image2014-9-16-12-3a50-3a40.png)
 

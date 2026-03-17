@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359573
-description: 設定表單感謝頁面 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo中設定表單感謝頁面。 在提交者提交表單後，將其傳送至特定頁面或URL。
 title: 設定表單感謝頁面
 exl-id: ed221b1c-d6f0-4ee1-b9d3-41112490e070
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '335'
 ht-degree: 5%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 5%
 
 ## 編輯表單 {#edit-form}
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-5.png)
 

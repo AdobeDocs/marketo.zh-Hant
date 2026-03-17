@@ -1,11 +1,11 @@
 ---
-description: 安全性設定 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用封鎖或允許的網域來設定Dynamic Chat安全性。 限制代理程式可以檢視哪些電子郵件網域，以及哪些網站可以使用您的聊天指令碼。
 title: 安全性設定
 feature: Dynamic Chat
 exl-id: 68a53986-6f42-4aa2-86f6-0b2097f94963
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '130'
 ht-degree: 3%
 
 ---

@@ -1,13 +1,13 @@
 ---
-description: 通知 — Marketo檔案 — 產品檔案
+description: 瞭解如何為Dynamic Chat即時聊天代理啟用瀏覽器通知。 允許Chrome、Firefox或作業系統設定中的通知接收聊天警示。
 title: 通知
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
 exl-id: b06da576-39a4-41db-8e29-302083baca36
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '181'
 ht-degree: 1%
 
 ---

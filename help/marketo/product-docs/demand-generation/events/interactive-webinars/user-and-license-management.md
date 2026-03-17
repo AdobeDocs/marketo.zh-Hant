@@ -1,11 +1,11 @@
 ---
-description: 使用者和授權管理 — Marketo檔案 — 產品檔案
+description: 瞭解互動式網路研討會的使用者和授權管理。 指派存取權並管理誰可以建立或傳送網路研討會。
 title: 使用者和授權管理
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '717'
+source-wordcount: '728'
 ht-degree: 2%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 2%
 
    ![](assets/user-and-license-management-3.png)
 
-1. 按一下「可用的使用者」下拉式清單，選取您要新增的使用者，然後按一下「確定」**&#x200B;**。
+1. 按一下「可用的使用者」下拉式清單，選取您要新增的使用者，然後按一下「確定」****。
 
    ![](assets/user-and-license-management-4.png)
 

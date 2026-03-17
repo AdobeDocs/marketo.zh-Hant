@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359578
-description: 核准表單 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo中核准表單。 核准您的表單，以便用於登陸頁面並開始擷取潛在客戶。
 title: 核准表單
 exl-id: 4ff280d9-dfff-4d1e-829e-74414d731d57
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 9%
+source-wordcount: '120'
+ht-degree: 10%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 9%
 
 以下說明如何核准已可立即使用的現有表單。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/approve-a-form-1.png)
 

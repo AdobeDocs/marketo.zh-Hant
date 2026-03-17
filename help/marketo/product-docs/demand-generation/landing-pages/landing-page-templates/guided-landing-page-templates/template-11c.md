@@ -1,19 +1,19 @@
 ---
 unique-page-id: 9437562
-description: 範本11C - Marketo檔案 — 產品檔案
+description: 瞭解範本11C引導式登陸頁面範本。 下載並用於您的Marketo登陸頁面。
 title: 範本 11C
 exl-id: 7398604e-5a38-4630-b28e-31dc16cfcec3
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 7%
+source-wordcount: '66'
+ht-degree: 6%
 
 ---
 
 # 範本 11C {#template-11c}
 
-按一下滑鼠右鍵以[下載範本11C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11c.html?lang=zh-Hant)
+按一下滑鼠右鍵以[下載範本11C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11c.html)
 
 ![](assets/image2015-8-4-14-3a3-3a44.png)
 
@@ -26,4 +26,4 @@ ht-degree: 7%
 
 **在下方按一下滑鼠右鍵以下載此範本：**
 
-[範本11C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11c.html?lang=zh-Hant)
+[範本11C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11c.html)

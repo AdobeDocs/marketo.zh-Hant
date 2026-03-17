@@ -1,11 +1,11 @@
 ---
-description: 影像編輯器 — Marketo檔案 — 產品檔案
+description: 瞭解Marketo Design Studio中的影像編輯器。 裁切、調整大小及基本編輯影像，而不需離開Marketo。
 title: 影像編輯器
 exl-id: fef96635-3011-4549-9c40-e92c3f33c398
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 7%
+source-wordcount: '66'
+ht-degree: 10%
 
 ---
 
@@ -25,6 +25,6 @@ ht-degree: 7%
 
    ![](assets/image-editor-3.png)
 
-1. 從頂端工具列中的各種功能中選擇。 完成時，按一下&#x200B;**[!UICONTROL Save]**。
+1. 從頂端工具列中的各種功能中選擇。 完成後請按一下 **[!UICONTROL Save]**。
 
    ![](assets/image-editor-4.png)

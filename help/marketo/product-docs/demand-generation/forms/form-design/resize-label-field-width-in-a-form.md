@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359604
-description: 調整表單中標籤/欄位寬度大小 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo表單中調整標籤和欄位寬度大小。 調整標籤和輸入區域的寬度。
 title: 調整表單中標籤/欄位的寬度
 exl-id: cef10279-881e-44f3-a979-873fa24d7f4b
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 17%
+source-wordcount: '102'
+ht-degree: 15%
 
 ---
 

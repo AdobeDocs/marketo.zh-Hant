@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949865
-description: 使用Adobe Connect建立事件 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo中使用Adobe Connect建立活動。 設定整合併同步登記與出席資料。
 title: 使用 Adobe Connect 建立事件
 exl-id: 196b1640-9cfd-4485-9bc4-e907d3ac1f16
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '394'
 ht-degree: 3%
 
 ---

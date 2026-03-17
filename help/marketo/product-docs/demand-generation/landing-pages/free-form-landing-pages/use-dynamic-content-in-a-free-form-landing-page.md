@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359732
-description: 在自由格式登陸頁面中使用動態內容 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo的自由形式登陸頁面中使用動態內容。 顯示不同區段的不同內容。
 title: 在自由格式登陸頁面中使用動態內容
 exl-id: 76441566-96be-43fb-91da-4c0c520cc9e1
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '191'
-ht-degree: 8%
+source-wordcount: '198'
+ht-degree: 9%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 8%
 
 ## 新增分段 {#add-segmentation}
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-2.png)
 

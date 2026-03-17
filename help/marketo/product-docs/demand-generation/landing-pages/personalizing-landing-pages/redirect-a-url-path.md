@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359826
-description: 重新導向URL路徑 — Marketo檔案 — 產品檔案
+description: 瞭解如何重新導向Marketo登陸頁面的URL路徑。 傳送舊路徑至新URL或登陸頁面。
 title: 重新導向 URL 路徑
 exl-id: 5857971a-507b-4946-b131-a5a74eef0d9a
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 9%
+source-wordcount: '134'
+ht-degree: 10%
 
 ---
 
@@ -17,7 +17,7 @@ Marketo可讓您輕鬆將URL路徑重新導向至您選擇的任何頁面。 方
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 1. 在&#x200B;**[!UICONTROL Admin]**&#x200B;底下，按一下&#x200B;**[!UICONTROL Landing Pages]**。
 

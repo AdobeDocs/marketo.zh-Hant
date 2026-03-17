@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720275
-description: 在Facebook中建立自訂對象 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Facebook中從Marketo建立自訂對象。 傳送Marketo清單至Facebook以進行目標廣告促銷活動。
 title: 在 Facebook 中建立自訂客群
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '229'
 ht-degree: 6%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 6%
 
 >[!TIP]
 >
->深入瞭解[&#x200B; [!DNL Facebook]中的](https://www.facebook.com/help/341425252616329){target="_blank"}自訂對象。
+>深入瞭解[ [!DNL Facebook]中的](https://www.facebook.com/help/341425252616329){target="_blank"}自訂對象。
 
 1. 尋找並選取智慧或靜態清單，其中包含您要建立對象的潛在客戶。
 

@@ -1,11 +1,11 @@
 ---
-description: 對象條件 — Marketo檔案 — 產品檔案
+description: 瞭解目標定位的觀眾條件，哪些人會看到Dynamic Chat對話方塊。 使用事件、人員和公司屬性以及優先順序來定義對象。
 title: 客群推薦準則
 feature: Dynamic Chat
 exl-id: 95c4558e-0c0c-4623-bb7d-b6ac2f455c01
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '579'
+source-wordcount: '595'
 ht-degree: 1%
 
 ---
@@ -46,7 +46,7 @@ ht-degree: 1%
 
    ![](assets/audience-criteria-7.png)
 
-1. _[!UICONTROL Is]_&#x200B;已預設設定。 在「選取值」欄位中輸入CA （您也可以按一下下拉式清單，然後從清單中選取）。
+1. _[!UICONTROL Is]_已預設設定。 在「選取值」欄位中輸入CA （您也可以按一下下拉式清單，然後從清單中選取）。
 
    ![](assets/audience-criteria-8.png)
 
@@ -88,7 +88,7 @@ ht-degree: 1%
    >
    >當有人造訪您的網站時，[Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}會對其進行Cookie並將其放入系統中。 我們會在特殊的資料庫中查詢他們的IP，並推斷出各種好的資訊。
 
-1. _[!UICONTROL Is]_&#x200B;已預設設定。 在「選取值」欄位中，輸入NY （您也可以按一下下拉式清單，然後從清單中選取）。
+1. _[!UICONTROL Is]_已預設設定。 在「選取值」欄位中，輸入NY （您也可以按一下下拉式清單，然後從清單中選取）。
 
    ![](assets/audience-criteria-15.png)
 
@@ -129,11 +129,11 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->* 使用星號就像是一張全方位的萬用字元。 因此`https://*.website.com`會將對話方塊放在網站的每個頁面上，包括子網域（例如： `support.website.com`）。 而`https://website.com/folder/*`會將對話方塊放在後續資料夾的每個HTML頁面上(例如：在此案例中假設資料夾為&quot;sports&quot;，所以：website.com/sports/baseball.html、website.com/sports/football.html等)。
+>* 使用星號就像是一張全方位的萬用字元。 因此`https://*.website.com`會將對話方塊放在網站的每個頁面上，包括子網域（例如： `support.website.com`）。 而`https://website.com/folder/*`會將對話方塊放在後續資料夾的每個HTML頁面上（例如：在此案例中假設資料夾為&quot;sports&quot;，所以：website.com/sports/baseball.html、website.com/sports/football.html等）。
 >
 >* 目前不支援URL引數。
 
-**排除專案**
+**排除項目**
 
 使用排除專案來確保您的對話方塊&#x200B;_不會_&#x200B;出現在您網站的特定頁面/區域。 排除專案的格式與包含專案的格式相同。
 

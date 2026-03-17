@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504163
-description: 將 [!DNL LinkedIn] 相符的對象新增為 [!DNL LaunchPoint] 服務 — Marketo檔案 — 產品檔案
+description: 瞭解如何將LinkedIn相符對象新增為LaunchPoint服務。 使用Marketo清單做為LinkedIn對象區段的廣告目標定位。
 title: 將 [!DNL LinkedIn] 個相符的對象新增為 [!DNL LaunchPoint] 服務
 exl-id: 82096b19-aae9-4086-8fb4-defc5481d382
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 1%
+source-wordcount: '203'
+ht-degree: 2%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 將您的Marketo帳戶與[!DNL LinkedIn]個相符的對象連線，以使用Marketo靜態清單或智慧清單作為[!DNL LinkedIn]對象區段。
 
@@ -27,7 +27,7 @@ ht-degree: 1%
 
    ![](assets/admin.png)
 
-1. 選擇「**[!UICONTROL LaunchPoint]**」。
+1. 選取「**[!UICONTROL LaunchPoint]**」。
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 

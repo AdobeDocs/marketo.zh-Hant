@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2950799
-description: 權杖概觀 - Marketo 文件 - 產品文件
+description: 瞭解用於個人化Marketo登陸頁面的權杖。 使用權杖來插入動態內容並個人化體驗。
 title: 權杖概觀
 exl-id: d60816ce-33fb-4e18-8acd-71d4e90f47de
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '296'
-ht-degree: 100%
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+workflow-type: tm+mt
+source-wordcount: '308'
+ht-degree: 94%
 
 ---
 

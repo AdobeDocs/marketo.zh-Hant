@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10096725
-description: 在Marketo中建立事件 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo中建立事件以進行ON24整合。 設定程式，並將其連結至您的ON24網路研討會。
 title: 在 Marketo 中建立事件
 exl-id: c55116b7-dd65-439f-b7d4-63892fb940cb
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 7%
+source-wordcount: '149'
+ht-degree: 6%
 
 ---
 

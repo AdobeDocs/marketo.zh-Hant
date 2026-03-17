@@ -1,14 +1,14 @@
 ---
 unique-page-id: 2359616
-description: 啟用填寫表單的社交表單 — Marketo檔案 — 產品檔案
+description: 瞭解如何啟用社交表單填寫，讓訪客能使用社交網路提交表單。 取得額外的銷售機會資料，讓訪客獲得更快速的體驗。
 title: 在表單中啟用社交表單填寫
 exl-id: 0ca4941c-dbad-477b-b9c1-387876615c33
 hide: true
 hidefromtoc: true
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '125'
 ht-degree: 14%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 14%
 >
 >並非所有Marketo Engage使用者都已購買此功能。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-1.png)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10096679
-description: ON24事件整合範例 — Marketo檔案 — 產品檔案
+description: 從ON24事件與Marketo整合的範例學習。 檢視從網路研討會建立到註冊同步的範例流程。
 title: ON24 事件整合範例
 exl-id: 9d34d1bf-1ff8-4b26-906e-4a6bb9d5f3f6
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '372'
 ht-degree: 2%
 
 ---

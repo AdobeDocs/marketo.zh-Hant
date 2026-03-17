@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359705
-description: 將新表單新增至自由表單登陸頁面 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo中將新表單新增至自由表單登陸頁面。 插入Marketo表單以擷取頁面上的潛在客戶。
 title: 新增新的表單至自由格式登陸頁面
 exl-id: cfdcf4b1-5391-4eff-b4dd-ebeb6670a933
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '143'
 ht-degree: 14%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 14%
 >* [建立表單](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
 >* [建立自由格式的登陸頁面](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-1.png)
 

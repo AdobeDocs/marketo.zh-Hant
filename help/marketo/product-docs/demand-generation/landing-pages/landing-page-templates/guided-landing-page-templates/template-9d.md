@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8783990
-description: 範本9D - Marketo檔案 — 產品檔案
+description: 瞭解範本9D引導式登陸頁面範本。 下載並用於您的Marketo登陸頁面。
 title: 範本 9D
 exl-id: 672c5db7-97e4-4fd4-bbfb-058d2f63f7a8
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 7%
+source-wordcount: '63'
+ht-degree: 6%
 
 ---
 
 # 範本 9D {#template-9d}
 
-按一下滑鼠右鍵以[下載範本9D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9d.html?lang=zh-Hant)
+按一下滑鼠右鍵以[下載範本9D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9d.html)
 
 ![](assets/image2015-7-28-15-3a54-3a21.png)
 
@@ -28,4 +28,4 @@ ht-degree: 7%
 
 **在下方按一下滑鼠右鍵以下載此範本：**
 
-[範本9D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9d.html?lang=zh-Hant)
+[範本9D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9d.html)

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359667
-description: 將輸入遮罩套用至表單中的欄位 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo中將輸入遮罩套用至表單欄位。 將電話、日期或其他欄位格式化為訪客型別。
 title: 將輸入遮罩套用至表單中的欄位
 exl-id: cb99bf10-0d0c-4161-a4e9-ec24700b1b31
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 11%
+source-wordcount: '176'
+ht-degree: 12%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 11%
 
 您可以使用輸入遮罩來限制訪客的輸入。 例如，您可能希望訪客僅以特定格式輸入電話號碼。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-4.png)
 

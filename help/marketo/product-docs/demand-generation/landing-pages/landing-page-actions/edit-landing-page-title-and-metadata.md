@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359726
-description: 編輯登陸頁面標題和中繼資料 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo中編輯登入頁面標題和中繼資料。 更新SEO和顯示的頁面標題和中繼說明。
 title: 編輯登陸頁面標題和後設資料
 exl-id: dc31eeee-fd96-4721-b346-c3cde0383fea
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 11%
+source-wordcount: '128'
+ht-degree: 10%
 
 ---
 
 # 編輯登陸頁面標題和後設資料 {#edit-landing-page-title-and-metadata}
 
-Marketo可讓您編輯登入頁面[中繼標籤以進行SEO &#x200B;](https://www.w3schools.com/tags/tag_meta.asp)，以及自訂HTML的`<head>`部分。
+Marketo可讓您編輯登入頁面[中繼標籤以進行SEO ](https://www.w3schools.com/tags/tag_meta.asp)，以及自訂HTML的`<head>`部分。
 
 1. 選取登入頁面並按一下&#x200B;**[!UICONTROL Edit Draft]**。
 

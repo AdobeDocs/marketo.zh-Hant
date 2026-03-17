@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359637
-description: 刪除表單 — Marketo檔案 — 產品檔案
+description: 瞭解如何刪除Marketo中的表單。 從執行個體移除您不再需要的Forms。
 title: 刪除表單
 exl-id: 137e75b3-febd-44e8-b7f8-12221a1252fa
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 6%
+source-wordcount: '139'
+ht-degree: 7%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 6%
 
 如果您的表單不需要且未使用，可以將其刪除。 方法如下。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-3.png)
 

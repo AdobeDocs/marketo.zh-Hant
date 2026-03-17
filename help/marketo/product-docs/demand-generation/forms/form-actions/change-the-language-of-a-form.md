@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359654
-description: 變更表單語言 — Marketo檔案 — 產品檔案
+description: 瞭解如何變更Marketo表單的語言。 以其他語言顯示對象的表單標籤和訊息。
 title: 變更表單的語言
 exl-id: 7f8e8dc4-b0e7-4bd4-a81b-9e0c3ce29300
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 10%
+source-wordcount: '148'
+ht-degree: 9%
 
 ---
 

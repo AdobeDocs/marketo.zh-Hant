@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10096683
-description: ON24事件註冊更新 — Marketo檔案 — 產品檔案
+description: 瞭解ON24事件註冊更新，以及如何與Marketo同步。 註冊變更時，保持人員和方案狀態同步。
 title: ON24 事件註冊更新
 exl-id: 1d194ef2-b6ca-4e2d-b476-beb5bccd3c5f
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '261'
 ht-degree: 3%
 
 ---

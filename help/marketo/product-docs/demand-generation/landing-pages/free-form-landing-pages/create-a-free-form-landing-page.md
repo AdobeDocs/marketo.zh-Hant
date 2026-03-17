@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359701
-description: 建立自由表單登陸頁面 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo中建立自由格式的登陸頁面。 將頁面建立為程式資產或在Design Studio中以供全域使用。
 title: 建立自由格式登陸頁面
 exl-id: fc58cb1f-8567-47ce-b724-24e6e6bc9cce
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 8%
+source-wordcount: '167'
+ht-degree: 9%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 8%
 
 ## 在程式中建立自由格式的登陸頁面 {#create-a-free-form-landing-page-in-a-program}
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities.png)
 
@@ -29,7 +29,7 @@ ht-degree: 8%
 
    ![](assets/image2015-5-19-12-3a46-3a47.png)
 
-1. 按一下&#x200B;**[!UICONTROL New]**。 選取「**[!UICONTROL New Local Asset]**」。
+1. 按一下「**[!UICONTROL New]**」。 選取「**[!UICONTROL New Local Asset]**」。
 
    ![](assets/image2015-5-19-12-3a47-3a27.png)
 

@@ -1,11 +1,11 @@
 ---
-description: 設定ON24與Marketo的整合 — Marketo檔案 — 產品檔案
+description: 瞭解如何設定ON24與Marketo的整合。 連線您的ON24帳戶，以便同步網路研討會和註冊資料。
 title: 設定 ON24 與 Marketo 的整合
 exl-id: 395ffa37-b87d-4eb4-bf9f-72aa96dc819c
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '216'
 ht-degree: 8%
 
 ---

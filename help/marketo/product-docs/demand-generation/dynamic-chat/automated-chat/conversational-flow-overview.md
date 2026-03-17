@@ -1,18 +1,18 @@
 ---
-description: 對話流程概觀 — Marketo檔案 — 產品檔案
+description: 瞭解對話流程以及它們與對話的差異。 設計由訪客動作觸發的流程，並在表單或快顯視窗中使用。
 title: 交談流程概觀
 feature: Dynamic Chat
 exl-id: c741886d-d672-471f-8902-208d25898afa
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '355'
 ht-degree: 3%
 
 ---
 
 # 交談流程概觀 {#conversational-flow-overview}
 
-設計對話流程，並根據特定動作(例如按一下call-to-action按鈕、頁面載入時、頁面逗留時間等)觸發給任何訪客。
+設計對話流程，並根據特定動作（例如按一下call-to-action按鈕、頁面載入時、頁面逗留時間等）觸發給任何訪客。
 
 ![](assets/conversational-flow-overview-1.png)
 
@@ -74,15 +74,15 @@ ht-degree: 3%
 >
 >選取不同的語言只會變更系統文字的語言。 翻譯內容由您負責。
 
-### 交談SDK {#conversations-sdk}
+### Conversations SDK {#conversations-sdk}
 
-在「設定」標籤的下半部，自訂「交談」觸發程式(也稱為「交談」SDK)。 您可以決定在訪客點按任何連結或頁面載入時，您的網站上是否觸發交談。
+在「設定」標籤的下半部，自訂「交談」觸發程式（也稱為「交談」SDK）。 您可以決定在訪客點按任何連結或頁面載入時，您的網站上是否觸發交談。
 
 ![](assets/conversational-flow-overview-7.png)
 
 >[!TIP]
 >
->檢視[交談SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/?lang=zh-Hant){target="_blank"}正在執行中！
+>檢視[交談SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"}正在執行中！
 
 >[!MORELIKETHIS]
 >

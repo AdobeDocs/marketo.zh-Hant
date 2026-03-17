@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949844
-description: 建立新的事件程式 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo中建立新的活動計畫。 設定您的程式、選擇頻道並設定事件設定。
 title: 建立新的事件方案
 exl-id: 095d59d7-a4d7-4e0a-b34b-7d25074e6959
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 8%
+source-wordcount: '177'
+ht-degree: 9%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 8%
 
 事件可讓您自動執行線上和離線事件！ 擷取您的人員在不同階段進行中的狀態，並取得行銷方案ROI的準確測量。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/ma.png)
 

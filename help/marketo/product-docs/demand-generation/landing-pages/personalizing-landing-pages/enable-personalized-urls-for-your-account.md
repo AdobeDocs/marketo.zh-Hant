@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359810
-description: 為您的帳戶啟用個人化URL - Marketo檔案 — 產品檔案
+description: 瞭解如何為您的Marketo帳戶啟用個人化URL。 設定功能，讓您可以在登入頁面上使用個人化URL。
 title: 啟用您帳戶的個人化 URL
 exl-id: 3964db0c-8f86-40aa-a3d7-da59824bdc4c
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '106'
 ht-degree: 17%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 17%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區段並按一下&#x200B;**[!UICONTROL Landing Pages]**。
 

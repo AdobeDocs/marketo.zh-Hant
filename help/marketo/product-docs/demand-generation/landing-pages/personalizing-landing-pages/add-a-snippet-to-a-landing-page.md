@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359537
-description: 將程式碼片段新增至登陸頁面 — Marketo檔案 — 產品檔案
+description: 瞭解如何將程式碼片段新增至Marketo登陸頁面。 使用片段跨頁面重複使用內容區塊。
 title: 新增程式碼片段至登陸頁面
 exl-id: 35290bef-cb6f-4477-995c-d4571712b866
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 13%
+source-wordcount: '110'
+ht-degree: 12%
 
 ---
 

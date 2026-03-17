@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359801
-description: 使用URL產生器 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用URL產生器來產生Marketo的個人化URL。 為電子郵件或行銷活動建立可追蹤的個人化連結。
 title: 使用 URL 產生器
 exl-id: f8c1e459-f50f-4f74-bf8a-1f1b64fcf46c
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '127'
 ht-degree: 6%
 
 ---

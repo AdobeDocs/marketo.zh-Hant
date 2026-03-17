@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37355758
-description: 將成員新增至事件程式 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo中將成員新增至活動方案。 新增人員至您的方案，以進行註冊或出勤追蹤。
 title: 新增成員至事件方案
 exl-id: 05bd4807-3ab8-452d-a389-b22477cf7445
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 9%
+source-wordcount: '176'
+ht-degree: 8%
 
 ---
 

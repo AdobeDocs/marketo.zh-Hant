@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949904
-description: 登陸頁面測試群組 — Marketo檔案 — 產品檔案
+description: 瞭解Marketo中的登入頁面測試群組。 執行A/B或多變數測試以比較登入頁面效能。
 title: 登陸頁面測試群組
 exl-id: 2d765cc9-9914-41ce-b602-01ffaf2ee0db
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '184'
 ht-degree: 5%
 
 ---

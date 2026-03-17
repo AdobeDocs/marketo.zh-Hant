@@ -1,12 +1,12 @@
 ---
-description: 互動式網路研討會概觀 - Marketo 文件 - 產品文件
+description: 瞭解Marketo中的互動式網路研討會，以進行即時和隨選參與。 使用內建參與工具建立、設計和提供網路研討會。
 title: 互動式網路研討會概觀
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '517'
-ht-degree: 100%
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+workflow-type: tm+mt
+source-wordcount: '530'
+ht-degree: 96%
 
 ---
 

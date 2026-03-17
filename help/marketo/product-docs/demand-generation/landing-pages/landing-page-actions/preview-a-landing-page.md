@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359716
-description: 預覽登陸頁面 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo中預覽登入頁面。 在讓頁面上線之前，請先瞭解頁面外觀和行為。
 title: 預覽登陸頁面
 exl-id: fa786e68-9dd6-479d-9e9b-5acd3e323cef
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 10%
+source-wordcount: '141'
+ht-degree: 9%
 
 ---
 

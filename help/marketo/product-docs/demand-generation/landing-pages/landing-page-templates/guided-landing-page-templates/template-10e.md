@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8784011
-description: 範本10E - Marketo檔案 — 產品檔案
+description: 瞭解範本10E引導式登陸頁面範本。 下載並用於您的Marketo登陸頁面。
 title: 範本 10E
 exl-id: 81a61057-fe24-4dcb-9a9c-73eca9528b4b
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '50'
-ht-degree: 8%
+source-wordcount: '62'
+ht-degree: 6%
 
 ---
 
 # 範本 10E {#template-10e}
 
-按一下滑鼠右鍵以[下載範本10E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10e.html?lang=zh-Hant)
+按一下滑鼠右鍵以[下載範本10E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10e.html)
 
 ![](assets/image2015-7-27-11-3a6-3a25.png)
 
@@ -28,4 +28,4 @@ ht-degree: 8%
 
 **在下方按一下滑鼠右鍵以下載此範本：**
 
-[範本10E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10e.html?lang=zh-Hant)
+[範本10E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10e.html)

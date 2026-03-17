@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8783923
-description: 範本5D - Marketo檔案 — 產品檔案
+description: 瞭解範本5D引導式登陸頁面範本。 下載並用於您的Marketo登陸頁面。
 title: 範本 5D
 exl-id: 98e4d4ba-dad5-4285-994f-50c5d677b300
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '49'
-ht-degree: 8%
+source-wordcount: '61'
+ht-degree: 6%
 
 ---
 
 # 範本 5D {#template-5d}
 
-按一下滑鼠右鍵以[下載範本5D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5d.html?lang=zh-Hant)
+按一下滑鼠右鍵以[下載範本5D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5d.html)
 
 ![](assets/image2015-7-29-15-3a10-3a49.png)
 
@@ -29,4 +29,4 @@ ht-degree: 8%
 
 **在下方按一下滑鼠右鍵以下載此範本：**
 
-[範本5D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5d.html?lang=zh-Hant)
+[範本5D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5d.html)

@@ -1,18 +1,18 @@
 ---
-description: 會議清單 — Marketo檔案 — 產品檔案
+description: 瞭解訪客預約出現的Dynamic Chat會議清單。 檢視預約者、代理程式及會議狀態。
 title: 會議清單
 feature: Dynamic Chat
 exl-id: d26aac7f-b22a-4bc8-b279-2a8522624106
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 3%
+source-wordcount: '131'
+ht-degree: 18%
 
 ---
 
 # 會議清單 {#meeting-list}
 
-您將在這裡看到網站訪客透過各種對話方塊排程的所有約會。 您可以在這裡找到預約預約者的電子郵件地址、預約預約的預定代理程式、預約排定的時間，以及排定的會議時間是否已過。
+您會在這裡看到網站訪客透過各種對話所排程的所有約會。您可以在這裡找到預約預約者的電子郵件地址、預約預約的預定代理程式、預約排定的時間，以及排定的會議時間是否已過。
 
 ![](assets/meeting-list-1.png)
 

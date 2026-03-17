@@ -1,11 +1,11 @@
 ---
-description: Marketo銷售Insight中的互動式網路研討會 — Marketo檔案 — 產品檔案
+description: 瞭解如何搭配Marketo Sales Insight使用互動式網路研討會。 將網路研討會參與與銷售人員連結，以獲得更佳的銷售機會內容。
 title: Marketo 銷售洞察中的互動式網路研討會
 feature: Interactive Webinars
 exl-id: 49185c9d-6b77-4360-929f-bfaf54a3f5ca
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '231'
 ht-degree: 5%
 
 ---
@@ -16,9 +16,9 @@ Marketo銷售Insight中的互動式網路研討會，可讓您在Salesforce的Ma
 
 >[!PREREQUISITES]
 >
->此功能僅支援已購買[Marketo Sales Insight](https://business.adobe.com/tw/products/marketo/sales-intelligence-engagement.html)附加元件的使用者。
+>此功能僅支援已購買[Marketo Sales Insight](https://business.adobe.com/products/marketo/sales-intelligence-engagement.html)附加元件的使用者。
 
-在Marketo Engage中註冊活動後(在Adobe Connect中完成網路研討會後)，會透過MSI外掛程式即時同步到Salesforce。
+在Marketo Engage中註冊活動後（在Adobe Connect中完成網路研討會後），會透過MSI外掛程式即時同步到Salesforce。
 
 Marketo Engage中提供的每個活動都會進行同步。 這些活動包括：
 

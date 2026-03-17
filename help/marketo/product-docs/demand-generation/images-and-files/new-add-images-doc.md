@@ -1,13 +1,13 @@
 ---
-description: 新增影像檔案 — Marketo檔案 — 產品檔案
+description: 瞭解如何將影像和檔案新增至Marketo Design Studio。 在行銷活動和登入頁面中上傳、組織和使用資產。
 title: 新的新增影像文件
 hide: true
 hidefromtoc: true
 feature: Image Editor
 exl-id: 2080327c-fef0-48d8-b5c6-21741ae4f357
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '259'
 ht-degree: 13%
 
 ---
@@ -56,7 +56,7 @@ ht-degree: 13%
 
    ![](assets/add-images-and-files-to-marketo-7.png)
 
-1. 在URL中輸入或貼上所要的影像，然後按一下[下一步] **&#x200B;**。
+1. 在URL中輸入或貼上所要的影像，然後按一下[下一步] ****。
 
 PICC
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359618
-description: 新增RTF文字至表單 — Marketo檔案 — 產品檔案
+description: 瞭解如何將RTF文字新增至Marketo表單。 在表單欄位上方或下方插入標題、連結或指示。
 title: 新增 RTF 文字至表單
 exl-id: 6363c03d-c1f2-4464-9483-2d9aa8dafcc5
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '102'
 ht-degree: 17%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 17%
 
 在表單中使用RTF格式，在欄位之間新增指示或其他資訊。 看看吧。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-2.png)
 

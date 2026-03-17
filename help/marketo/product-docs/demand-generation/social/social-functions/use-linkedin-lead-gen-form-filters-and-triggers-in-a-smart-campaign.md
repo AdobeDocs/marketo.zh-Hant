@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12976776
-description: 在Smart Campaign中使用LinkedIn銷售機會一般表單篩選器和觸發器 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo智慧行銷活動中使用LinkedIn潛在客戶一般表單篩選器和觸發器。 當潛在客戶提交LinkedIn表單時，自動化動作。
 title: 在智慧行銷活動中使用 LinkedIn 商機開發表單篩選器和觸發程序
 exl-id: 386c25e7-b0fb-4271-bd39-98e36306de6b
 feature: Social
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 18%
+source-wordcount: '135'
+ht-degree: 17%
 
 ---
 
