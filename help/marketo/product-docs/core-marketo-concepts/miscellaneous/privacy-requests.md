@@ -25,7 +25,7 @@ ht-degree: 15%
 
 您可以透過兩種方式提交存取和刪除Marketo Engage中消費者資料的個別請求：
 
-* 透過Privacy Service UI： `https://experience.adobe.com/#/@YOURCOMPANYNAME/privacy`。 請參閱[此處](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html){target="_blank"}的文件。
+* 透過Privacy Service UI： `https://experience.adobe.com/#/@YOURCOMPANYNAME/privacy`。 請參閱[此處](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=zh-Hant){target="_blank"}的文件。
 * 透過Privacy Service API。 請參閱[此處](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"}的文件與[此處](https://developer.adobe.com/experience-platform-apis/){target="_blank"}的 API 資訊。
 
 [Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=zh-Hant){target="_blank"}支援兩種請求：資料存取和資料刪除。

@@ -14,7 +14,7 @@ ht-degree: 10%
 
 這是運用Marketo Engage參與計畫的進階Nurture計畫範例。 巢狀電子郵件程式會防止使用者接收他們已使用的內容，或控制他們應在每個資料流中使用的內容型別。 歸因報表可針對每個個別巢狀電子郵件程式執行。 管道： 「Nurture」以及巢狀電子郵件計畫的專用「Nurture電子郵件」管道會利用Marketo Engage電子郵件計畫傳送一封電子報電子郵件。 電子郵件可以包含或不包含A/B測試。
 
-如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}頁面。
+如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/tw/customers/consulting-services/main.html){target="_blank"}頁面。
 
 ## 頻道摘要 {#channel-summary}
 

@@ -60,4 +60,4 @@ CRM同步通知會針對CRM同步處理發現的關鍵問題提醒您，例如�
 
 >[!NOTE]
 >
->我們在[開發人員檔案](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes)中列出您可能會收到的部分錯誤碼。
+>我們在[開發人員檔案](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/error-codes)中列出您可能會收到的部分錯誤碼。

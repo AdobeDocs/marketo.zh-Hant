@@ -23,7 +23,7 @@ Webhook可讓您與協力廠商服務互動。 透過在智慧行銷活動流程
 
 >[!NOTE]
 >
->瞭解[Webhooks](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}可以為您做許多有趣的事情。
+>瞭解[Webhooks](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}可以為您做許多有趣的事情。
 
 1. 從下拉式清單中選取Webhook。
 
