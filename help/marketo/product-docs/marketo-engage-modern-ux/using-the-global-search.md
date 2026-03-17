@@ -1,12 +1,12 @@
 ---
-description: 使用全域搜尋 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo Engage中使用全域搜尋，在整個執行個體中尋找資產。 執行搜尋，按一下階層連結以跳至專案，並使用篩選條件來縮小結果範圍。
 title: 使用全域搜尋
 exl-id: eb50013b-9595-4fe1-bd5e-b2d5ca185de4
 feature: Modern UX
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 95bb780780f90b423465e940f04946dd5c5bed80
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 8%
+source-wordcount: '170'
+ht-degree: 7%
 
 ---
 

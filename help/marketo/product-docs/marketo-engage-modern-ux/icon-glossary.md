@@ -1,14 +1,14 @@
 ---
-description: 圖示字彙表 — Marketo檔案 — 產品檔案
+description: 瞭解Marketo Engage Modern UX中的圖示，以及這些圖示如何從Classic對應。 使用此辭彙表來識別資產型別、行銷活動狀態和方案型別。
 title: 圖示字彙表
 hide: true
 hidefromtoc: true
 exl-id: 443dc653-4ecb-4daa-9a6d-e124a6be0329
 feature: Modern UX
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 95bb780780f90b423465e940f04946dd5c5bed80
 workflow-type: tm+mt
-source-wordcount: '239'
-ht-degree: 92%
+source-wordcount: '261'
+ht-degree: 85%
 
 ---
 
