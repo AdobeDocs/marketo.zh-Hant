@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147049
-description: 重新命名Smart Campaign - Marketo檔案 — 產品檔案
+description: 瞭解如何重新命名智慧行銷活動。 從行銷活動設定或按一下右鍵功能表變更行銷活動名稱。
 title: 重新命名智慧行銷活動
 exl-id: 116dff4a-56ca-451a-bbab-f277e4f3daf9
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 11%
+source-wordcount: '96'
+ht-degree: 12%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 11%
 
 您可以變更現有Smart Campaign的名稱。 方法如下。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/rename-a-smart-campaign-1.png)
 

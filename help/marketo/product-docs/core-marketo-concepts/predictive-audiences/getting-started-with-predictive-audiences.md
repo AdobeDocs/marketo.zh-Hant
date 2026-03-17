@@ -1,12 +1,12 @@
 ---
-description: 預測受眾快速入門 — Marketo檔案 — 產品檔案
+description: 瞭解Marketo中的預測受眾和AI驅動的目標定位。 使用可能性值和預測性篩選器來達成您的目標。
 title: 預測客群快速入門
 exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
 feature: Predictive Audiences
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '218'
-ht-degree: 5%
+source-wordcount: '228'
+ht-degree: 4%
 
 ---
 

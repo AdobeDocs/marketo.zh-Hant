@@ -1,11 +1,11 @@
 ---
-description: OP-Scoring-Geroptical - Marketo檔案 — 產品檔案
+description: 評分人口統計作業方案範本。 將其用於人口統計型銷售機會評分。
 title: OP-評分-人口統計
 feature: Programs
 exl-id: ed11616e-b587-4d03-b293-9cc9fa3c1699
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '316'
 ht-degree: 25%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 25%
 
 這是進階（代碼化）作業方案的範例，利用Marketo Engage預設方案進行人口統計評分。 在方案的「我的Token」索引標籤下檢視和編輯評分值。 需要名為「人口統計分數」的自訂分數欄位。
 
-如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/tw/customers/consulting-services/main.html){target="_blank"}頁面。
+如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}頁面。
 
 ## 頻道摘要 {#channel-summary}
 
@@ -63,67 +63,67 @@ ht-degree: 25%
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>通用電子郵件網域</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>名字無效</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>無效的名字已更新</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>姓氏無效</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>無效的姓氏已更新</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>年收入</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>行業</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>職稱</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>員工人數</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>來源</td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td> </td>
+   <td>  </td>
    <td>通用電子郵件網域</td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td> </td>
+   <td>  </td>
    <td>名字無效</td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td> </td>
+   <td>  </td>
    <td>姓氏無效</td>
   </tr>
  </tbody>
@@ -251,7 +251,7 @@ ht-degree: 25%
    * 保留兩個範本 — _建議_
    * 取代現有範本
 
-## 最佳實務 {#best-practices}
+## 最佳做法 {#best-practices}
 
 * 每個建立的行銷活動都是最佳實務建立的範例，而非使用案例所特有的。 請記得更新Smart Campaign，以解決您的特定痛點和資料挑戰。
 

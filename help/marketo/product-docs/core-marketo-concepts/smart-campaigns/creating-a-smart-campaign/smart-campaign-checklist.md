@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147051
-description: 智慧行銷活動檢查清單 — Marketo檔案 — 產品檔案
+description: 取得Smart Campaign檢查清單的說明。 啟用行銷活動前，請先使用此清單驗證行銷活動是否已正確設定。
 title: 智慧行銷活動檢查清單
 exl-id: 3c0d08c9-66ae-4083-ab0a-fa5a95149aba
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '247'
 ht-degree: 3%
 
 ---

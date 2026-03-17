@@ -1,12 +1,12 @@
 ---
-description: 本機資產有效期 — Marketo檔案 — 產品檔案
+description: 瞭解計畫中的本機資產有效期。 設定程式中的本機資產何時到期並移除。
 title: 本地資產期限
 exl-id: 603e3eee-0531-4139-a8f5-279831ad011f
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '239'
-ht-degree: 4%
+source-wordcount: '250'
+ht-degree: 6%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 1. 在[!UICONTROL Admin]區域中，按一下&#x200B;**[!UICONTROL Users & Roles]**。
 
@@ -48,7 +48,7 @@ ht-degree: 4%
 
    ![](assets/local-asset-expiration-6.png)
 
-1. 設定時間。 您必須排程未來至少15分鐘的時間（別忘了輸入上午/下午）。 完成時，按一下&#x200B;**[!UICONTROL Confirm]**。
+1. 設定時間。 您必須排程未來至少15分鐘的時間（別忘了輸入上午/下午）。 完成後請按一下 **[!UICONTROL Confirm]**。
 
    ![](assets/local-asset-expiration-7.png)
 

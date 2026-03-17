@@ -1,11 +1,11 @@
 ---
-description: OP-Scoring-Behavior - Marketo檔案 — 產品檔案
+description: 評分行為作業程式範本。 用它來定義潛在客戶評分的運作方式。
 title: OP-評分-行為
 feature: Programs
 exl-id: c564a301-0054-431a-8f0f-0299cd91b59c
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '355'
 ht-degree: 22%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 22%
 
 此範例是使用Marketo Engage預設程式的行為評分進階（代碼化）作業程式。 在方案的「我的Token」索引標籤下檢視和編輯評分值。 需要名為「行為分數」的自訂分數欄位。
 
-如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/tw/customers/consulting-services/main.html){target="_blank"}頁面。
+如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}頁面。
 
 ## 頻道摘要 {#channel-summary}
 
@@ -63,92 +63,92 @@ ht-degree: 22%
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>電子郵件 — 按一下電子郵件中的連結</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>表單 — 填寫聯絡人表單</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>表單 — 填寫內容表單</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>表單 — 填寫預設表單</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>表單 — 填寫事件表單</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>網頁 — 下載任何PDF</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>網頁 — PPC評分</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>網頁 — 造訪重要網頁</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>網頁 — 在1天內造訪多個網頁</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>即時活動 — 已出席</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>商展 — 受影響</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>商展 — 造訪的展位</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>網路研討會 — 已參加</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>降低分數 — 無活動</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>降低分數 — 造訪不想要的網頁</td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td> </td>
+   <td>  </td>
    <td>互動</td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td> </td>
+   <td>  </td>
    <td>計畫狀態變更</td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td> </td>
+   <td>  </td>
    <td>分數耗損</td>
   </tr>
  </tbody>
@@ -261,7 +261,7 @@ ht-degree: 22%
    * 保留兩個範本 — _建議_
    * 取代現有範本
 
-## 最佳實務 {#best-practices}
+## 最佳做法 {#best-practices}
 
 * 每個建立的行銷活動都是最佳實務建立的範例，而非使用案例所特有的。 請記得更新Smart Campaign，以解決您的特定痛點和資料挑戰。
 

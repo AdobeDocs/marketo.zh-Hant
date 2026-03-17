@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147304
-description: 在行銷行事曆中共用篩選器定義 — Marketo檔案 — 產品檔案
+description: 瞭解如何在行銷行事曆中與其他使用者共用篩選器定義。 複製篩選URL以與您的團隊共用。
 title: 在行銷行事曆中共用篩選器定義
 exl-id: 3429edba-fdb1-43e9-82ff-01b952036526
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 14%
+source-wordcount: '118'
+ht-degree: 13%
 
 ---
 

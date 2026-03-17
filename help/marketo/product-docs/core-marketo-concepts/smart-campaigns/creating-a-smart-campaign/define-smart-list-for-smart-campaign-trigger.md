@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146942
-description: 定義Smart Campaign的智慧清單 | 觸發器 — Marketo檔案 — 產品檔案
+description: 瞭解如何為觸發程式Smart Campaign定義智慧清單。 設定篩選條件，讓使用者符合觸發器的資格。
 title: 定義智慧行銷活動的智慧清單 | 觸發程序
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '260'
 ht-degree: 5%
 
 ---
@@ -55,7 +55,7 @@ ht-degree: 5%
    >
    >使用多個觸發程式時，如果啟動其中一個&#x200B;_任一_&#x200B;觸發程式，則人員會通過流程。
 
-若要對一組人員同時執行行銷活動，瞭解如何[定義Smart Campaign的智慧清單 | 批次](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}。
+若要對一組人員同時執行行銷活動，瞭解如何[為Smart Campaign |批次](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}定義智慧清單。
 
 >[!MORELIKETHIS]
 >

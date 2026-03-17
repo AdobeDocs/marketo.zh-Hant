@@ -1,11 +1,11 @@
 ---
-description: 快速入門登陸頁面範本 — Marketo檔案 — 產品檔案
+description: 快速入門登陸頁面範本。 使用它可從範本快速建立登入頁面。
 title: 快速開始登陸頁面範本
 feature: Programs
 exl-id: edd60476-31bc-40f1-ae9d-9fcd3d41501c
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '462'
+source-wordcount: '468'
 ht-degree: 2%
 
 ---
@@ -18,7 +18,7 @@ Marketo Engage參考資料庫中的部分入門方案包含一個簡單、易於
 >
 >深入瞭解[引導式登陸頁面範本](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md){target="_blank"}
 
-如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/tw/customers/consulting-services/main.html){target="_blank"}頁面。
+如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}頁面。
 
 ## 區段摘要 {#sections-summary}
 

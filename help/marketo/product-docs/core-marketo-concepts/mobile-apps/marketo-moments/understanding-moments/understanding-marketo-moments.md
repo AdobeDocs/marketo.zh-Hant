@@ -1,12 +1,12 @@
 ---
 unique-page-id: 8781845
-description: 瞭解Marketo時刻 — Marketo檔案 — 產品檔案
+description: 瞭解Marketo時刻，以瞭解重要事項。 檢視重要深入分析，並從行動應用程式中採取行動。
 title: 了解 Marketo 重要時刻
 exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '586'
+source-wordcount: '600'
 ht-degree: 1%
 
 ---
@@ -83,7 +83,7 @@ Marketo時刻提供您三種不同的卡片，可追蹤電子郵件的進度：
 >**定義**
 >
 >* [!UICONTROL Favorite]：如果您將內容設成我的最愛，可以輕鬆注意到最及時且最重要的內容。
->* [!UICONTROL Done]：「完成」可讓您從Marketo的「時刻」檢視中移除(但保留在Marketo中，安全無虞)。
+>* [!UICONTROL Done]：「完成」可讓您從Marketo的「時刻」檢視中移除（但保留在Marketo中，安全無虞）。
 >* [!UICONTROL Share]：傳送影像以激勵或祝賀您的團隊。
 >* [!UICONTROL Send Sample] （僅限電子郵件）：使用此功能讓其他人檢視您的電子郵件在您傳送出去之前的面貌。
 >* [!UICONTROL Preview Email] （僅限電子郵件）：最好是預先取出您的電子郵件。

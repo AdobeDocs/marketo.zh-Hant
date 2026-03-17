@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146935
-description: 啟動觸發智慧型行銷活動 | 排程索引標籤 — Marketo檔案 — 產品檔案
+description: 瞭解如何從「排程」索引標籤啟動觸發程式Smart Campaign。 開啟行銷活動，以便開始接聽觸發程式。
 title: 啟動觸發程序智慧行銷活動 | 排程索引標籤
 exl-id: f9232c91-aa39-4033-bd11-865d1cbc5eb2
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 16%
+source-wordcount: '94'
+ht-degree: 14%
 
 ---
 

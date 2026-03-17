@@ -1,11 +1,11 @@
 ---
-description: 營運商管理 — Marketo檔案 — 產品檔案
+description: 潛在客戶管理作業方案範本。 使用它來管理銷售機會生命週期和評分。
 title: OP-商機管理
 feature: Programs
 exl-id: bde644fe-d40b-4c9c-925d-a0f522e6de01
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '272'
 ht-degree: 7%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 7%
 >
 >在Marketo Engage中，資料庫中的記錄稱為人員/人員。 此範例中的潛在客戶管理會參照您CRM中的記錄。
 
-如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/tw/customers/consulting-services/main.html)頁面。
+如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html)頁面。
 
 ## 頻道摘要 {#channel-summary}
 
@@ -50,12 +50,12 @@ ht-degree: 7%
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>01 — 將新使用者同步至CRM</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>02 — 符合行銷資格</td>
   </tr>
   <tr>
@@ -65,12 +65,12 @@ ht-degree: 7%
   </tr>
   <tr>
    <td>資料夾</td>
-   <td> </td>
+   <td>  </td>
    <td>行銷活動</td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td> </td>
+   <td>  </td>
    <td>電子郵件警示</td>
   </tr>
  </tbody>
@@ -96,7 +96,7 @@ ht-degree: 7%
    * 保留兩個範本 — _建議_
    * 取代現有範本
 
-## 最佳實務 {#best-practices}
+## 最佳做法 {#best-practices}
 
 * 請考慮新增其他Smart Campaigns，以滿足您可能在組織中追蹤的每個生命週期狀態需求。 此方案中建置的每個行銷活動都是最佳實務建置的範例，而非所有使用案例所特有的。 請記得更新Smart Campaigns，以解決您特定的潛在客戶生命週期管理程式。
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953358
-description: 直接刪除行銷行事曆中的專案 — Marketo檔案 — 產品檔案
+description: 瞭解如何直接從行銷行事曆刪除專案。
 title: 直接在行銷行事曆中刪除條目
 exl-id: c0e2dbc5-f9b1-4743-b07d-c31fecea9977
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '81'
 ht-degree: 19%
 
 ---

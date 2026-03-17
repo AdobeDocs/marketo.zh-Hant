@@ -1,11 +1,11 @@
 ---
-description: 將Adobe Experience Platform區段推送至Marketo靜態清單 — Marketo檔案 — 產品檔案
+description: 瞭解如何將Adobe Experience Platform區段推送至Marketo靜態清單。 將AEP區段同步至Marketo清單。
 title: 將 Adobe Experience Platform 區段推送至 Marketo 靜態清單
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
 feature: Static Lists
-source-git-commit: 7f8968210659ed2c51640966115f22da47e42ebf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '601'
+source-wordcount: '606'
 ht-degree: 4%
 
 ---
@@ -51,7 +51,7 @@ ht-degree: 4%
 
    >[!NOTE]
    >
-   >如果您選擇「新帳戶」，您可以前往「**[!UICONTROL Admin]** > **[!UICONTROL Munchkin]**」尋找您的Munchkin ID (登入後也是Marketo URL的一部分)。 使用者端ID/密碼：您應遵循本文最上方所述的先決條件。
+   >如果您選擇「新帳戶」，您可以前往「**[!UICONTROL Admin]** > **[!UICONTROL Munchkin]**」尋找您的Munchkin ID （登入後也是Marketo URL的一部分）。 使用者端ID/密碼：您應遵循本文最上方所述的先決條件。
 
 1. 選擇目的地帳戶並按一下&#x200B;**[!UICONTROL Select]**。
 
@@ -99,7 +99,7 @@ ht-degree: 4%
 
    >[!NOTE]
    >
-   >您可以將屬性從Experience Platform對應至貴組織在Marketo Engage中可存取的任何屬性。 使用[Describe API要求](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"}來擷取貴組織有權存取的屬性欄位。
+   >您可以將屬性從Experience Platform對應至貴組織在Marketo Engage中可存取的任何屬性。 使用[Describe API要求](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"}來擷取貴組織有權存取的屬性欄位。
 
 1. 再次按一下&#x200B;**[!UICONTROL Add New Mapping]**&#x200B;並重複步驟15兩次，選擇&#x200B;**[!UICONTROL lastName]**&#x200B;再選擇&#x200B;**[!UICONTROL companyName]**，以對應姓氏和公司名稱。
 

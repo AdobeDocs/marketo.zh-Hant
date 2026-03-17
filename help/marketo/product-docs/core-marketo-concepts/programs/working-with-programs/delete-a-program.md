@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147148
-description: 刪除程式 — Marketo檔案 — 產品檔案
+description: 瞭解如何刪除Marketo中的計畫。 移除您不再需要的程式。
 title: 刪除方案
 exl-id: c13dbb4a-36ea-49ee-aee2-a4af28750b0f
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '177'
 ht-degree: 7%
 
 ---

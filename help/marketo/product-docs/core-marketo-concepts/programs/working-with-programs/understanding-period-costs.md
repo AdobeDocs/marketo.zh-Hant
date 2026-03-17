@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504676
-description: 瞭解期間成本 — Marketo檔案 — 產品檔案
+description: 瞭解計畫中用於追蹤支出的期間成本。 將成本指定至方案期間，以便進行報告和ROI。
 title: 了解期間成本
 exl-id: 99f50eaf-28cf-4a8b-8ebd-89a4beef986a
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '271'
-ht-degree: 2%
+source-wordcount: '282'
+ht-degree: 3%
 
 ---
 
@@ -23,13 +23,13 @@ ht-degree: 2%
 >
 >如果您花費$1000僱傭illustrator為將於7月啟動的[!DNL eBook]進行插圖 — [!DNL eBook]方案在7月的期間成本為$1000。
 >
->如果您每月在[!DNL Google Adwords]上花費$200 - [!DNL Google Adwords]方案的期間成本為每月&#x200B;_200 $3&rbrace;。_
+>如果您每月在[!DNL Google Adwords]上花費$200 - [!DNL Google Adwords]方案的期間成本為每月&#x200B;_200 $3}。_
 
 >[!NOTE]
 >
 >[瞭解程式](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
 >
->[瞭解計畫成員資格](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
+>[了解方案會籍](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
 
 ## 期間成本的計算方式 {#how-period-costs-are-calculated}
 

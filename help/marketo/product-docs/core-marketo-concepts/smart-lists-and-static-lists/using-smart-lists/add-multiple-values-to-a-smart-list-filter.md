@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360496
-description: 新增多個值至智慧清單篩選器 — Marketo檔案 — 產品檔案
+description: 瞭解如何將多個值新增至智慧列示篩選器。 比對一個篩選器中的數個值的任何一個，以取得彈性。
 title: 新增多個值至智慧清單篩選器
 exl-id: 5f9aaf1b-a3a6-4acf-82ea-7d70d1af1763
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 12%
+source-wordcount: '135'
+ht-degree: 13%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 12%
 
 假設您想尋找加州的所有人，但您可能同時將「California」和「CA」儲存在資料庫中。 若要包含所有適用人員，您可以使用兩個[!UICONTROL State]篩選器，但使用其中一個篩選器會比較容易。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/add-multiple-values-to-a-smart-list-filter-1.png)
 

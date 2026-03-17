@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146948
-description: 傳送電子郵件 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Smart Campaign流程步驟中傳送電子郵件。 將傳送電子郵件動作新增至行銷活動流程。
 title: 傳送電子郵件
 exl-id: dc8e25c7-7578-4916-bca9-2d4bdffd3c6a
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 4%
+source-wordcount: '104'
+ht-degree: 3%
 
 ---
 

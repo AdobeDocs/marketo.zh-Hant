@@ -1,15 +1,15 @@
 ---
 unique-page-id: 30081815
-description: 設定Adobe Experience Manager整合 — Marketo檔案 — 產品檔案
+description: 瞭解如何透過Marketo設定Adobe Experience Manager整合。 設定AEM ，以便存取資產並將其匯入Design Studio。
 title: 設定 Adobe Experience Manager 整合
 hide: true
 hidefromtoc: true
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 7%
+source-wordcount: '202'
+ht-degree: 10%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 7%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 >[!IMPORTANT]
 >
@@ -39,7 +39,7 @@ ht-degree: 7%
 
    ![](assets/2a.png)
 
-1. 在您的瀏覽器中，搜尋「[!UICONTROL Adobe Granite Cross-Origin Resource Sharing Policy]」的(Windows上的ctrl+f，Mac上的cmd+f)。
+1. 在您的瀏覽器中，搜尋「[!UICONTROL Adobe Granite Cross-Origin Resource Sharing Policy]」的（Windows上的ctrl+f，Mac上的cmd+f）。
 
    ![](assets/three.png)
 
@@ -59,7 +59,7 @@ ht-degree: 7%
 
    ![](assets/seven.png)
 
-1. 按一下&#x200B;**[!UICONTROL OK]**&#x200B;確認。
+1. 按一下 **[!UICONTROL OK]** 確認。
 
    ![](assets/eight.png)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146901
-description: 使用進階智慧清單規則邏輯 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用進階智慧清單規則邏輯。 針對複雜的資格，將篩選器與AND和OR結合。
 title: 使用進階智慧清單規則邏輯
 exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '302'
 ht-degree: 4%
 
 ---

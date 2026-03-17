@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953325
-description: 檢視專案詳細資料 — Marketo檔案 — 產品檔案
+description: 瞭解如何在行銷行事曆中檢視專案詳細資料。 選取專案以檢視其資訊，然後按一下滑鼠右鍵以導覽或開啟編輯器。
 title: 檢視條目詳細資料
 exl-id: bb65f7ae-5a37-4b09-8532-75d1e9a6464c
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 8%
+source-wordcount: '92'
+ht-degree: 6%
 
 ---
 

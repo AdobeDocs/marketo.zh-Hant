@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557331
-description: 尋找收入階段的所有人員 — Marketo檔案 — 產品檔案
+description: 瞭解如何在收入階段找到所有人。 使用收入階段篩選器來建立清單或區段。
 title: 找到處於收入階段的所有人
 exl-id: aa5b30bf-96f1-4c1f-8170-86ba808e9705
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 10%
+source-wordcount: '147'
+ht-degree: 9%
 
 ---
 

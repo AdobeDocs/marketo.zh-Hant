@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557316
-description: 定義智慧清單篩選器 — Marketo檔案 — 產品檔案
+description: 瞭解如何定義智慧清單篩選器。 設定篩選限制和值以決定清單中的顯示者。
 title: 定義智慧清單篩選器
 exl-id: ab08c5be-0afa-46d5-9f29-99e1f6b99dea
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 5%
+source-wordcount: '189'
+ht-degree: 6%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 5%
 
 繼續我們的範例，讓我們定義這些篩選器，以尋找在加州分數超過50的所有人。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/define-smart-list-filters-1.png)
 
@@ -44,6 +44,6 @@ ht-degree: 5%
 
 >[!TIP]
 >
->如果您認為資料庫中可能有一些記錄包含不完整的電子郵件地址(例如，只有「@adobe.com」)，請在使用「contains」運運算元時使用兩個電子郵件地址篩選器。 一個含有「包含@adobe.com」的篩選器，以及一個含有「包含adobe.com」的個別篩選器（省略@符號）。
+>如果您認為資料庫中可能有一些記錄包含不完整的電子郵件地址（例如，只有「@adobe.com」），請在使用「contains」運運算元時使用兩個電子郵件地址篩選器。 一個含有「包含@adobe.com」的篩選器，以及一個含有「包含adobe.com」的個別篩選器（省略@符號）。
 
 現在您知道如何建立智慧列示，以及新增/定義篩選器。

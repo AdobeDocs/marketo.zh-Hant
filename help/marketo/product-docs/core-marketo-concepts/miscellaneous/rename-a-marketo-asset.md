@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2952484
-description: 重新命名Marketo資產 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo Engage中重新命名資料夾、程式和本機資產。
 title: 重新命名 Marketo 資產
 exl-id: 2c8a64fc-663d-4953-b66c-4055e07f1404
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 11%
+source-wordcount: '83'
+ht-degree: 10%
 
 ---
 

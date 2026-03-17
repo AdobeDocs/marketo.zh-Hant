@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147060
-description: 取消排程的週期性批次行銷活動執行 — Marketo檔案 — 產品檔案
+description: 瞭解如何取消排程的週期性批次行銷活動執行。 停止週期性排程，使其不再執行。
 title: 取消已安排的定期批次行銷活動執行
 exl-id: 7a659d4e-e546-4630-a36f-38ed80dd2a6e
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 14%
+source-wordcount: '125'
+ht-degree: 13%
 
 ---
 

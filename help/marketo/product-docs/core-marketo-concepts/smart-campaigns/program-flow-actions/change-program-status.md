@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147007
-description: 變更計畫狀態 — Marketo檔案 — 產品檔案
+description: 瞭解如何在流程步驟中變更方案狀態。 當成員進入流程時，將成員狀態設定為「成功」或其他狀態。
 title: 變更方案狀態
 exl-id: ca6076a6-10f4-4687-8486-1bbcb6ea9255
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '140'
 ht-degree: 4%
 
 ---

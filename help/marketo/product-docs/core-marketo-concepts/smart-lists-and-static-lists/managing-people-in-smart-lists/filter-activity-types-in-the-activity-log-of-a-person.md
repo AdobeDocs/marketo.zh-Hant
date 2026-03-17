@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2952402
-description: 在人員的活動記錄中篩選活動型別 — Marketo檔案 — 產品檔案
+description: 瞭解如何在人員的活動記錄中篩選活動型別。 檢視歷程記錄時專注於特定活動。
 title: 篩選人員活動記錄中的活動類型
 exl-id: c778aa9c-d985-43ab-9018-58f3e3fe8165
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 21%
+source-wordcount: '118'
+ht-degree: 23%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 21%
 >
 >深入瞭解[活動記錄](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"}。
 
-1. 前往「人員詳細資料」頁面。 按一下「**[!UICONTROL Activity Log]**」標籤。
+1. 前往「人員詳細資料」頁面。 按一下「**[!UICONTROL Activity Log]**」索引標籤。
 
    ![](assets/one.png)
 
@@ -53,6 +53,6 @@ ht-degree: 21%
 
    ![](assets/seven-1.png)
 
-1. 按一下&#x200B;**[!UICONTROL Saved Filters]**。 儲存的篩選器列於下方。
+1. 按一下「**[!UICONTROL Saved Filters]**」。 儲存的篩選器列於下方。
 
    ![](assets/eight.png)

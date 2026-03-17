@@ -1,14 +1,14 @@
 ---
 unique-page-id: 1147040
-description: 將評分給予反向連結 — Marketo檔案 — 產品檔案
+description: 瞭解如何在流程步驟中將評分給予反向連結。 將成功歸因於反向連結人員或促銷活動。
 title: 歸功於推薦者
 exl-id: d8cd9a54-53fd-4edd-8262-c63ec45a89a9
 hide: true
 hidefromtoc: true
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '141'
 ht-degree: 7%
 
 ---

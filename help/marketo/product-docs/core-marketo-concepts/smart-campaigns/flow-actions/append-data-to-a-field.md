@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147042
-description: 將資料附加至欄位 — Marketo檔案 — 產品檔案
+description: 瞭解如何將資料附加到流程步驟中的欄位。 將文字新增至現有欄位值而不覆寫。
 title: 將資料附加至欄位
 exl-id: 62d68efd-b2df-48bd-925e-f9a95907f33c
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 13%
+source-wordcount: '116'
+ht-degree: 12%
 
 ---
 

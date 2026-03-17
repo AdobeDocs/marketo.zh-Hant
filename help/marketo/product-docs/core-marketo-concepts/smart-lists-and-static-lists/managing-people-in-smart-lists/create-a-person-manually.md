@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147316
-description: 手動建立人員 — Marketo檔案 — 產品檔案
+description: 瞭解如何在資料庫中手動建立人員。 使用電子郵件和欄位值新增潛在客戶或連絡人。
 title: 手動建立人員
 exl-id: 6fbbd240-239b-461e-a046-968e0f0d150e
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 13%
+source-wordcount: '72'
+ht-degree: 11%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147136
-description: 編輯計畫排程檢視中的專案 — Marketo檔案 — 產品檔案
+description: 瞭解如何在方案排程檢視中編輯專案。 變更排程專案的日期、名稱和詳細資訊。
 title: 在方案排程視圖中編輯條目
 exl-id: f04cfb84-ff96-4f4e-ab0d-d4b0b95a9f9c
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 10%
+source-wordcount: '151'
+ht-degree: 9%
 
 ---
 

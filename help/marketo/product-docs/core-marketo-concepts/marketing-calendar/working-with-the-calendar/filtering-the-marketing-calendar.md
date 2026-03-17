@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147294
-description: 篩選行銷行事曆 — Marketo檔案 — 產品檔案
+description: 瞭解如何依專案型別、方案標籤或工作區來篩選行銷行事曆。 控制要顯示哪些排程資產。
 title: 篩選行銷行事曆
 exl-id: 94cbe35b-2b87-4c8f-86c6-11a0d12b2a12
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 7%
+source-wordcount: '115'
+ht-degree: 6%
 
 ---
 

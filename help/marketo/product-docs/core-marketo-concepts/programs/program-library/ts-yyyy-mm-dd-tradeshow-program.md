@@ -1,12 +1,12 @@
 ---
-description: TS-YYYY-MM-DD-Tradeshow計畫 — Marketo檔案 — 產品檔案
+description: 商展計畫範本。 將其用於命名一致的事件和商展。
 title: TS-YYYY-MM-DD-商展方案
 feature: Programs
 exl-id: 39ef8d6e-392b-456e-a925-b1f6c2cb81d8
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '410'
-ht-degree: 10%
+source-wordcount: '416'
+ht-degree: 11%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 10%
 
 這是商展計畫的範例，包含利用Marketo Engage活動計畫的邀請和後續電子郵件。
 
-如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/tw/customers/consulting-services/main.html){target="_blank"}頁面。
+如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}頁面。
 
 ## 頻道摘要 {#channel-summary}
 
@@ -62,48 +62,48 @@ ht-degree: 10%
   <tr>
   <tr>
    <td>本地報告</td>
-   <td> </td>
+   <td>  </td>
    <td>電子郵件效能</td>
   </tr>
   <tr>
    <td>本地報告</td>
-   <td> </td>
+   <td>  </td>
    <td>計畫績效</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>00 — 擷取贏取計畫</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>01 — 傳送邀請</td>
   </tr>
    <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>02 — 傳送後續追蹤電子郵件</td>
   </tr>
    <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>03 — 透過後續追蹤電子郵件參與（成功）</td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td> </td>
+   <td>  </td>
    <td>Assets — 容納所有創意資產
 <br/>（電子郵件和登陸頁面的子資料夾）</td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td> </td>
+   <td>  </td>
    <td>行銷活動 — 容納所有智慧行銷活動</td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td> </td>
+   <td>  </td>
    <td>報告</td>
   </tr>
  </tbody>
@@ -118,7 +118,7 @@ ht-degree: 10%
   <tr>
    <th>權杖型別</th>
    <th>代號名稱</th>
-   <th>價值</th>
+   <th>值</th>
   </tr>
   <tr>
    <td>行事曆檔案</td>
@@ -146,7 +146,7 @@ ht-degree: 10%
    <td><code><--My Event Date--></code></td>
   </tr>
    <tr>
-   <td>RTF文字</td>
+   <td>RTF 文字</td>
    <td><code>{{my.Event-Booth#}}</code></td>
    <td><code><--My Booth Number--></code></td>
   </tr>
@@ -196,7 +196,7 @@ ht-degree: 10%
    * 保留兩個範本
    * 取代現有的範本 — _建議_
 
-## 最佳實務 {#best-practices}
+## 最佳做法 {#best-practices}
 
 * 匯入網路研討會計畫後，將表單從本機資產移至位於Design Studio中的全域資產。
    * 減少Design Studio的表單數量並運用更多全域資產，可讓您的程式設計和管理管理擁有更多擴充性。 此外，欄位、選擇加入語言等的定期合規性更新也有彈性。

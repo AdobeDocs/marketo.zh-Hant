@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147140
-description: 瞭解暫定/確認日期 — Marketo檔案 — 產品檔案
+description: 在「方案排程檢視」中瞭解暫定與確認日期。 瞭解專案何時鎖定及何時執行。
 title: 了解暫定/已確認日期
 exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '218'
 ht-degree: 4%
 
 ---

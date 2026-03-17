@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147150
-description: 在程式中使用標籤 — Marketo檔案 — 產品檔案
+description: 瞭解如何在計畫中使用標籤。 新增標籤以組織方案並在行事曆和報告中啟用篩選。
 title: 在方案中使用標記
 exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 10%
+source-wordcount: '168'
+ht-degree: 16%
 
 ---
 
@@ -43,7 +43,7 @@ ht-degree: 10%
 
 ## 編輯標籤 {#edit-a-tag}
 
-1. 前往&#x200B;**[!UICONTROL Setup]**&#x200B;標籤。 以滑鼠右鍵按一下標籤。 選取「**[!UICONTROL Edit]**」。
+1. 前往「**[!UICONTROL Setup]**」索引標籤。 以滑鼠右鍵按一下標籤。 選取「**[!UICONTROL Edit]**」。
 
    ![](assets/use-tags-in-a-program-6.png)
 
@@ -61,11 +61,11 @@ ht-degree: 10%
 
 ## 刪除標籤  {#delete-a-tag}
 
-1. 前往&#x200B;**[!UICONTROL Setup]**&#x200B;標籤。 用滑鼠右鍵按一下標籤並選取&#x200B;**[!UICONTROL Delete]**。
+1. 前往「**[!UICONTROL Setup]**」索引標籤。 用滑鼠右鍵按一下標籤並選取&#x200B;**[!UICONTROL Delete]**。
 
    ![](assets/use-tags-in-a-program-10.png)
 
-1. 按一下&#x200B;**[!UICONTROL Delete]**&#x200B;確認。
+1. 按一下 **[!UICONTROL Delete]** 確認。
 
    ![](assets/use-tags-in-a-program-11.png)
 

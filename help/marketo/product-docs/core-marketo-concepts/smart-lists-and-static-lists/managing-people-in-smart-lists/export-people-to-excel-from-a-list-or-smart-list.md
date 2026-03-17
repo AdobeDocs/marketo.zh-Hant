@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557329
-description: 從清單或智慧清單將人員匯出至Excel - Marketo檔案 — 產品檔案
+description: 瞭解如何從清單或智慧清單將人員匯出至Excel。 下載清單中的人員以進行報告。
 title: 從清單或智慧清單將人員匯出至 Excel
 exl-id: d2a184e2-fb22-47f7-8368-747fa803233e
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 14%
+source-wordcount: '174'
+ht-degree: 15%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 14%
 
 如果您需要Marketo外部的清單或智慧清單結果，可以輕鬆匯出至Excel。 方法如下。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/ma.png)
 

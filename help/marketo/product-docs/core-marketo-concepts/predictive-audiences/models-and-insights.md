@@ -1,12 +1,12 @@
 ---
-description: 模型與深入分析 — Marketo檔案 — 產品檔案
+description: 瞭解預測對象模型和影響因素。 使用AI深入分析來調整目標定位及改善行銷活動績效。
 title: 模型和洞察
 exl-id: 7a01d6f0-000a-4b9a-8abb-9e7f9c4b1679
 feature: Predictive Audiences
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 2%
+source-wordcount: '223'
+ht-degree: 3%
 
 ---
 

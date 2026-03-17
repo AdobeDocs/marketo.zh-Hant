@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8781974
-description: 瞭解事件卡 — Marketo檔案 — 產品檔案
+description: 瞭解Marketo時刻中的事件卡片。 檢視事件程式詳細資料，並從行動應用程式中採取動作。
 title: 了解事件卡片
 exl-id: 21e14ede-7b94-4580-8a4c-1b18a3734eef
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 5%
+source-wordcount: '161'
+ht-degree: 4%
 
 ---
 

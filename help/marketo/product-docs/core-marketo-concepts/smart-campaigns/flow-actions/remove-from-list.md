@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146954
-description: 從清單移除 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用流程步驟從清單中移除人員。 使用它可讓清單與行為或狀態保持同步。
 title: 從清單中移除
 exl-id: ec837329-f904-47ea-b276-a0f7becdcc75
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '47'
-ht-degree: 12%
+source-wordcount: '63'
+ht-degree: 9%
 
 ---
 

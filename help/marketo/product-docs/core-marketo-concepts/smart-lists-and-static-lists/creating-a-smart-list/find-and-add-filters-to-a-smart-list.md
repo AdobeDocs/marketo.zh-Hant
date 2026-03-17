@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557273
-description: 尋找篩選器並將其新增至智慧清單 — Marketo檔案 — 產品檔案
+description: 瞭解如何尋找篩選器並將其新增至智慧清單。 瀏覽並新增篩選器樹狀結構中的篩選器，以建置您的清單邏輯。
 title: 找到篩選器並將其新增至智慧清單
 exl-id: de9afdc5-452e-47a4-99cf-ed7374bf114f
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '139'
 ht-degree: 18%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 18%
 >
 >探索右側的樹狀結構 — 篩選器功能非常強大，且具備多種可能功能。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/find-and-add-filters-to-a-smart-list-1.png)
 

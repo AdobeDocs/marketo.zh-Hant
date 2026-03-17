@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8783561
-description: 傳送範例 — Marketo檔案 — 產品檔案
+description: 瞭解如何從Marketo時刻傳送範例電子郵件。 從應用程式傳送範例給您自己，以測試電子郵件。
 title: 傳送範例
 exl-id: 9b4cdb6b-9969-4427-9ae3-f6d08430f10f
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 6%
+source-wordcount: '140'
+ht-degree: 5%
 
 ---
 

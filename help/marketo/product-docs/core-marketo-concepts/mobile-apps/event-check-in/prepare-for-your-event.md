@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10099360
-description: 準備活動 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用事件簽入為您的活動做好準備。 設定應用程式，並在出席者抵達前同步您的活動程式。
 title: 為您的事件做好準備
 exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '393'
 ht-degree: 2%
 
 ---
@@ -59,7 +59,7 @@ Marketo對事件簽入應用程式具有特殊使用者角色。 [為](/help/mar
 
    ![](assets/four.png)
 
-1. 從清單中選取活動的人員。 使用&#x200B;**[!UICONTROL Ctrl]** (或Mac上的&#x200B;**[!UICONTROL Command]**)按一下多個使用者，或使用&#x200B;**[!UICONTROL Select All]**&#x200B;標籤所有使用者。
+1. 從清單中選取活動的人員。 使用&#x200B;**[!UICONTROL Ctrl]** （或Mac上的&#x200B;**[!UICONTROL Command]**）按一下多個使用者，或使用&#x200B;**[!UICONTROL Select All]**&#x200B;標籤所有使用者。
 
    ![](assets/five.png)
 

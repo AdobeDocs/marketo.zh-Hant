@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8783555
-description: 建立最愛 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo時刻中建立我的最愛。 在行動應用程式中釘選要快速存取的重要專案。
 title: 建立我的最愛
 exl-id: 017ae477-02e2-42de-a1b0-1f9a215ef73b
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 8%
+source-wordcount: '103'
+ht-degree: 7%
 
 ---
 

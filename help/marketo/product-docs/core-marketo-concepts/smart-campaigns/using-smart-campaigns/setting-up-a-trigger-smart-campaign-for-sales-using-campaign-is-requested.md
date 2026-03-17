@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7514898
-description: 使用「已要求行銷活動」設定銷售適用的觸發智慧行銷活動 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用「已要求Campaign」為銷售設定觸發Smart Campaign。 讓銷售人員從CRM要求銷售機會的行銷活動。
 title: 使用「已請求行銷活動」設定銷售的觸發程序智慧行銷活動
 exl-id: ed6d7c27-d54b-48e3-af67-19503da4ef56
 feature: Smart Campaigns
-source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '283'
-ht-degree: 11%
+source-wordcount: '291'
+ht-degree: 10%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504128
-description: 建立智慧清單目標 — Marketo檔案 — 產品檔案
+description: 瞭解如何在行銷行事曆中建立智慧清單目標。 使用每2小時在簡報中自動更新的目標追蹤進度。
 title: 建立智慧清單目標
 exl-id: 3b6690b5-7dd1-46b2-b3f2-254439623f91
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 8%
+source-wordcount: '149'
+ht-degree: 10%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 8%
 
    ![](assets/image2015-3-24-12-3a2-3a55.png)
 
-1. 選取&#x200B;**[!UICONTROL Goals]**&#x200B;標籤。
+1. 選取 **[!UICONTROL Goals]** 索引標籤。
 
    ![](assets/image2015-3-26-12-3a25-3a17.png)
 

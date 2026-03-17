@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146997
-description: 在等待流程步驟中使用日期權杖 — Marketo檔案 — 產品檔案
+description: 瞭解如何在等待流程步驟中使用日期代號。 等到權杖的動態日期再繼續。
 title: 在等待流程步驟中使用日期權杖
 exl-id: d161922b-ce90-4e65-9282-d3bb866c1d94
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '205'
-ht-degree: 9%
+source-wordcount: '214'
+ht-degree: 8%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953348
-description: 直接在行銷行事曆中建立專案 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用方案焦點直接在行銷行事曆中建立專案。 新增基本專案、電子郵件方案或Smart Campaign。
 title: 直接在行銷行事曆中建立條目
 exl-id: 114b94e8-39f0-4e5d-abb0-27515957b33f
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 15%
+source-wordcount: '128'
+ht-degree: 14%
 
 ---
 

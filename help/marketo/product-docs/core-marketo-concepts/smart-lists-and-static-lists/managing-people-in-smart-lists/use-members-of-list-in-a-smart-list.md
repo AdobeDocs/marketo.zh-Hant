@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953173
-description: 在智慧清單中使用清單成員 — Marketo檔案 — 產品檔案
+description: 瞭解如何在智慧清單篩選器中使用清單的成員。 包含或排除其他清單中的人員。
 title: 使用智慧清單中的清單成員
 exl-id: ebd458c1-01f4-4d19-b5b2-d19ab2bad1af
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 13%
+source-wordcount: '141'
+ht-degree: 12%
 
 ---
 

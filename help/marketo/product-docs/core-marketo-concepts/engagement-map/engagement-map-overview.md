@@ -1,10 +1,10 @@
 ---
-description: 參與地圖概觀 — Marketo檔案 — 產品檔案
+description: 瞭解將您的Smart Campaigns視覺化的Engagement Map。 用它在Marketo中直覺地檢視觸發器、篩選器和流程步驟。
 title: 參與地圖概觀
 exl-id: 01cb283d-06c2-4a99-86a9-39dea9550c08
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '742'
+source-wordcount: '757'
 ht-degree: 1%
 
 ---
@@ -69,23 +69,23 @@ ht-degree: 1%
 >
 >重新整理時，在開啟的「智慧列示」和「流量」標籤中所做的變更將會反映在「參與對應」標籤中。 它不會自動更新。 重新整理Engagement Map索引標籤時，將會顯示自動儲存的更新與編輯。
 
-## 常見問題 {#faq}
+## 常見問題集 {#faq}
 
 **我是否必須在參與地圖中重建所有行銷活動？**
 
-不可以。 Engagement Map具有完整的回溯相容性。 按一下按鈕後，您就可以在視覺化參與對映介面中檢視每個現有的行銷活動。
+否。Engagement Map具有完整的回溯相容性。 按一下按鈕後，您就可以在視覺化參與對映介面中檢視每個現有的行銷活動。
 
 **在Marketo Engage中擁有參與地圖是否表示我將會失去資料夾結構的存取權，並且必須重新學習如何建立Smart Campaign？**
 
-不可以。 Engagement Map的優點在於它提供兩個世界的最佳狀態；它是目前您建立行銷活動的方式的補充。 所有使用者仍可獲得Marketo Engage的強大功能集，現在提供清晰的視覺效果作為補充。
+否。Engagement Map的優點在於它提供兩個世界的最佳狀態；它是目前您建立行銷活動的方式的補充。 所有使用者仍可獲得Marketo Engage的強大功能集，現在提供清晰的視覺效果作為補充。
 
 **參與地圖是否為付費附加元件？**
 
-不可以。 所有訂閱下的所有現有和新Marketo Engage使用者都可存取此免費功能。
+否。所有訂閱下的所有現有和新Marketo Engage使用者都可存取此免費功能。
 
 **身為Marketo Engage管理員，我是否應該負責開啟/關閉「參與對應」？**
 
-不可以。 參與地圖將可供其執行個體中的所有使用者使用。 您無法為某些使用者、工作區等開啟/關閉此功能。
+否。參與地圖將可供其執行個體中的所有使用者使用。 您無法為某些使用者、工作區等開啟/關閉此功能。
 
 **這與其他視覺化建置器有何不同？**
 

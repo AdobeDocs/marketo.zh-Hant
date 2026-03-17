@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557318
-description: 重新整理清單或智慧清單 — Marketo檔案 — 產品檔案
+description: 瞭解如何重新整理清單或智慧清單。 更新清單中的人員，以反映目前的篩選結果或成員資格。
 title: 重新整理清單或智慧清單
 exl-id: f66adc0f-910f-46d4-a33c-976b061bdce2
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 9%
+source-wordcount: '144'
+ht-degree: 8%
 
 ---
 

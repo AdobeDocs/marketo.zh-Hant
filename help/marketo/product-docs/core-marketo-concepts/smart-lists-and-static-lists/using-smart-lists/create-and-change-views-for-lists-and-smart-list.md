@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557337
-description: 建立和變更清單與智慧清單的檢視 — Marketo檔案 — 產品檔案
+description: 瞭解如何建立和變更清單與智慧列示的檢視。 自訂哪些欄會顯示在「人員」標籤中。
 title: 建立與變更清單和智慧清單視圖
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '218'
 ht-degree: 9%
 
 ---

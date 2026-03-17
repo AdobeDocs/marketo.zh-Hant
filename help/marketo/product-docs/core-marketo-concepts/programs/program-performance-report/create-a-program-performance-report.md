@@ -1,23 +1,23 @@
 ---
 unique-page-id: 1147129
-description: 建立計畫績效報表 — Marketo檔案 — 產品檔案
-title: 建立方案績效報告
+description: 瞭解如何建立方案績效報表。 建立報表以檢視方案ROI、成功和成員量度。
+title: 建立方案效能報告
 exl-id: 0b4c3769-e4a8-47b0-aa2c-a21acaf9525c
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 11%
+source-wordcount: '130'
+ht-degree: 14%
 
 ---
 
-# 建立方案績效報告 {#create-a-program-performance-report}
+# 建立方案效能報告 {#create-a-program-performance-report}
 
 透過此報表檢視您計畫的良好統計資料。
 
 1. [在方案中建立報告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md){target="_blank"}並選取&#x200B;**[!UICONTROL Program Performance]** [報告型別](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}。
-1. 按一下「**[!UICONTROL Report]**」標籤。
-1. 您到了！ 探索您的報告以檢視您的計畫如何執行。
+1. 按一下「**[!UICONTROL Report]**」索引標籤。
+1. 您完成了！探索您的報告以檢視您的計畫如何執行。
 
    ![](assets/image2014-9-18-17-3a23-3a2.png)
 

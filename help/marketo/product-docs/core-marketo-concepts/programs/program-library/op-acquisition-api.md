@@ -1,12 +1,12 @@
 ---
-description: OP-Acquisition-API - Marketo檔案 — 產品檔案
+description: 贏取API作業程式範本。 透過API用它來擷取潛在客戶。
 title: OP-贏取-API
 feature: Programs
 exl-id: abf7c4a0-c363-4e92-9a1f-197c3953c515
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 5%
+source-wordcount: '178'
+ht-degree: 6%
 
 ---
 
@@ -44,17 +44,17 @@ ht-degree: 5%
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>設定贏取 — 批次</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>設定贏取 — 觸發器</td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td> </td>
+   <td>  </td>
    <td>行銷活動（包含所有Smart Campaign）</td>
   </tr>
  </tbody>
@@ -80,7 +80,7 @@ ht-degree: 5%
    * 保留兩個範本 — _建議_
    * 取代現有範本
 
-## 最佳實務 {#best-practices}
+## 最佳做法 {#best-practices}
 
 * 如果您需要在資料管理中趕上，請先執行批次促銷活動。
 

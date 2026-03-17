@@ -1,12 +1,12 @@
 ---
-description: OP — 資料管理 — Marketo檔案 — 產品檔案
+description: 資料管理操作程式範本。 使用它來保持資料庫乾淨和更新。
 title: OP-資料管理
 feature: Programs
 exl-id: ac4a522b-37a7-4080-83d6-fbc2203a568b
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '319'
-ht-degree: 15%
+source-wordcount: '327'
+ht-degree: 16%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 15%
 
 這是使用預設程式的簡單作業資料管理最佳實務工作流程的範例，協助您管理Marketo Engage資料庫中記錄的資料一致性。
 
-如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/tw/customers/consulting-services/main.html){target="_blank"}頁面。
+如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}頁面。
 
 ## 頻道摘要 {#channel-summary}
 
@@ -46,122 +46,122 @@ ht-degree: 15%
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>標準化國家/地區 — 美國</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>標準化國家 — 英國</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>將封鎖清單設為True</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>將Is Partner設為True</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>清單匯入</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>直播活動</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>線上Advertising</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>貿易展</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>網頁內容</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>網路請求</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>網路研討會</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>從清單匯入新增人員</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>從直播活動中新增人員</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>線上Advertising的新人員</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>貿易展的新人員</td>
   </tr>
    <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>從網路內容新增人員</td>
   </tr>
    <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>從網路請求新增人員</td>
   </tr>
    <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>網路研討會的新人員</td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td> </td>
+   <td>  </td>
    <td>人員Source夜間批次（適用於高流量例項）</td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td> </td>
+   <td>  </td>
    <td>Source已觸發人員（針對低流量例項）</td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td> </td>
+   <td>  </td>
    <td>擷取人員Source</td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td> </td>
+   <td>  </td>
    <td>標準化</td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td> </td>
+   <td>  </td>
    <td>記錄管理</td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td> </td>
+   <td>  </td>
    <td>封鎖清單</td>
   </tr>
  </tbody>
@@ -187,7 +187,7 @@ ht-degree: 15%
    * 保留兩個範本 — _建議_
    * 取代現有範本
 
-## 最佳實務 {#best-practices}
+## 最佳做法 {#best-practices}
 
 * 每個建立的行銷活動旨在作為最佳實務建立的範例，而不是特定於您的使用案例。 請記得更新Smart Campaign，以解決您的特定痛點和資料挑戰。
 

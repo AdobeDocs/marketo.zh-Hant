@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557154
-description: 建立智慧清單 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo中建立智慧清單。 在資料庫或程式內新增智慧清單，並定義篩選器。
 title: 建立智慧清單
 exl-id: 3acab0f8-44c9-4346-add7-8b317aa82471
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '87'
 ht-degree: 12%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 12%
 
 智慧清單可讓您使用簡單篩選器尋找特定的人員群組。 以下說明如何建立一個。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/create-a-smart-list-1.png)
 

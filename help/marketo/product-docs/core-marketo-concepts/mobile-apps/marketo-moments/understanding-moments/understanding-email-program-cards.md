@@ -1,12 +1,12 @@
 ---
 unique-page-id: 8781911
-description: 瞭解電子郵件程式卡 — Marketo檔案 — 產品檔案
+description: 瞭解Marketo時刻中的電子郵件程式卡片。 檢視電子郵件程式狀態，並從行動應用程式中採取動作。
 title: 了解電子郵件方案卡片
 exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '353'
 ht-degree: 4%
 
 ---

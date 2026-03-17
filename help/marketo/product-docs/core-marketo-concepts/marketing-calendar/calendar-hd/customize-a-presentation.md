@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7503973
-description: 自訂簡報 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用檢視和目標自訂行銷行事曆簡報。 設定旋轉頻率並顯示對團隊最重要的專案。
 title: 自訂簡報
 exl-id: c871afb9-9762-498d-b168-cfce4ef05736
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '300'
 ht-degree: 2%
 
 ---

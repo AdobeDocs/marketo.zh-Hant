@@ -1,11 +1,11 @@
 ---
-description: 流程步驟服務 — Marketo檔案 — 產品檔案
+description: 瞭解自訂流程步驟的流程步驟服務。 透過API使用自訂動作來擴充智慧行銷活動。
 title: 流程步驟服務
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '1224'
+source-wordcount: '1235'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,7 @@ ht-degree: 0%
 
 ## 欄位對應 {#field-mapping}
 
-為了從特定銷售機會欄位接收或傳回資料，該欄位必須對應。 雖然在入門期間必須執行對應步驟，但您稍後可能一律會回過頭來變更對應。 在不同畫面中設定了兩種對應： **傳出欄位** (當Marketo叫用流程步驟時傳送至服務)和&#x200B;**傳入欄位** (當服務傳回資料至Marketo時可能從服務接收資料的欄位)。
+為了從特定銷售機會欄位接收或傳回資料，該欄位必須對應。 雖然在入門期間必須執行對應步驟，但您稍後可能一律會回過頭來變更對應。 在不同畫面中設定了兩種對應： **傳出欄位** （當Marketo叫用流程步驟時傳送至服務）和&#x200B;**傳入欄位** （當服務傳回資料至Marketo時可能從服務接收資料的欄位）。
 
 >[!NOTE]
 >

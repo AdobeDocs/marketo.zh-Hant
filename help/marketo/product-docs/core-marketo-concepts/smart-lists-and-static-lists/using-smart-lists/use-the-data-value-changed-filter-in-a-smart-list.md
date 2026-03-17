@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557324
-description: 在智慧清單中使用資料值變更篩選器 — Marketo檔案 — 產品檔案
+description: 瞭解如何在智慧清單中使用資料值變更篩選器。 在欄位值變更時尋找人員。
 title: 在智慧清單中使用資料值已變更篩選器
 exl-id: 4ecca2b0-771f-44aa-a0cf-9f9f40549f41
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 18%
+source-wordcount: '145'
+ht-degree: 17%
 
 ---
 

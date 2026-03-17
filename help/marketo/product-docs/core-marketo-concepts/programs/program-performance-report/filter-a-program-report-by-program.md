@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360047
-description: 依計畫篩選計畫報表 — Marketo檔案 — 產品檔案
+description: 瞭解如何依計畫篩選計畫報告。 將報告重點放在特定計畫上。
 title: 按照方案篩選方案報告
 exl-id: 8be2ac9e-7331-4a0d-80d6-ea2e82215919
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 12%
+source-wordcount: '103'
+ht-degree: 11%
 
 ---
 

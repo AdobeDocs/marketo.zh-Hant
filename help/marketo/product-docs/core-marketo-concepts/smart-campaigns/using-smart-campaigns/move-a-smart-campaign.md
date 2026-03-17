@@ -1,13 +1,13 @@
 ---
 unique-page-id: 6094949
-description: 移動Smart Campaign - Marketo檔案 — 產品檔案
+description: 瞭解如何移動智慧行銷活動。 將行銷活動重新定位至行銷活動中的不同資料夾。
 title: 移動智慧行銷活動
 exl-id: e5988fba-584f-47c5-8b26-7ce6ba312c9d
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 6%
+source-wordcount: '146'
+ht-degree: 7%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 6%
 >
 >由於規則不會變更，如果行銷活動的智慧清單或流程步驟參考原始程式，您必須手動更新該資訊以反映其新程式，因為它&#x200B;_不會_&#x200B;自動更新。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/move-a-smart-campaign-1.png)
 

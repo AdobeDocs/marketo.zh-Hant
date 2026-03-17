@@ -1,12 +1,12 @@
 ---
-description: 程式成員自訂欄位同步 — Marketo檔案 — 產品檔案
+description: 瞭解與Salesforce同步的程式成員自訂欄位。 讓自訂成員資料與您的CRM保持同步。
 title: 方案成員自訂欄位同步
 exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '331'
-ht-degree: 9%
+source-wordcount: '340'
+ht-degree: 10%
 
 ---
 
@@ -49,7 +49,7 @@ ht-degree: 9%
 
 1. 如需其他欄位對應，請清除搜尋方塊並重複步驟3到5。
 
-1. 完成時，按一下&#x200B;**[!UICONTROL Save]**。
+1. 完成後請按一下 **[!UICONTROL Save]**。
 
    ![](assets/program-member-custom-field-sync-6.png)
 

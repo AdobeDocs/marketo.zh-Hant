@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146985
-description: 在Smart Campaign中重新排序流程步驟 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Smart Campaign中重新排序流程步驟。 拖放以變更流程中動作的順序。
 title: 重新排列智慧行銷活動中的流程步驟
 exl-id: 5cf4dac1-d21a-44ff-a485-c24a91e83fc9
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 18%
+source-wordcount: '96'
+ht-degree: 16%
 
 ---
 

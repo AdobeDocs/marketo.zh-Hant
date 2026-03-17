@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953415
-description: 使用人員詳細資料頁面 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用人員詳細資料頁面。 檢視和編輯潛在客戶資訊、活動，以及從單一位置執行流程步驟。
 title: 使用人員詳細資料頁面
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '525'
+source-wordcount: '537'
 ht-degree: 26%
 
 ---
@@ -60,7 +60,7 @@ ht-degree: 26%
 
 >[!NOTE]
 >
->您也可以看到透過API[插入的商機資訊](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/lead-database/opportunities)，瞭解未與CRM同步的執行個體。
+>您也可以看到透過API[插入的商機資訊](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities)，瞭解未與CRM同步的執行個體。
 
 ## 編輯欄位 {#editing-a-field}
 
@@ -88,7 +88,7 @@ ht-degree: 26%
 | Marketo社交[!DNL Twitter]像片URL | Marketo社交[!DNL Twitter]設定檔URL | Marketo社交[!DNL Twitter]觸及 | Marketo社交[!DNL Twitter]反向註冊 | Marketo社交[!DNL Twitter]轉介的造訪 |
 | 中間名 | 手機號碼 | 員工數 | 電話號碼 | 郵遞區號 |
 | 優先順序 | 相對分數 | 角色 | 稱謂 | 標準產業分類（SIC）代碼 |
-| 現場 | 狀態 | 已取消訂閱 | 退訂原因 | 更新時間 |
+| 地點 | 狀態 | 已取消訂閱 | 退訂原因 | 更新時間 |
 | 急迫性 | 網站 |  |  |  |
 
 >[!NOTE]

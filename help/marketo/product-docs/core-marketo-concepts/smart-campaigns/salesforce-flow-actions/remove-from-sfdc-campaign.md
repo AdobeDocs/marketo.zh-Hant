@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147036
-description: 從SFDC Campaign移除 — Marketo檔案 — 產品檔案
+description: 瞭解如何透過流程步驟從Salesforce行銷活動中移除人員。 從流程中的SFDC行銷活動中移除成員。
 title: 從 SFDC 行銷活動中移除
 exl-id: d19e7847-2287-4926-b0bb-635e7700668f
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 9%
+source-wordcount: '118'
+ht-degree: 8%
 
 ---
 

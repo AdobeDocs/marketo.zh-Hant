@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147112
-description: 瞭解標籤 — Marketo檔案 — 產品檔案
+description: 瞭解用於組織和篩選計畫的標籤。 使用標籤來分類程式和篩選報表。
 title: 了解標記
 exl-id: af74aec2-096f-489f-adf8-388da3867fae
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '176'
 ht-degree: 4%
 
 ---

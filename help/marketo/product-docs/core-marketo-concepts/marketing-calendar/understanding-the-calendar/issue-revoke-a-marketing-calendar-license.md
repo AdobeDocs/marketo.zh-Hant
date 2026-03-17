@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147255
-description: 問題/撤銷行銷行事曆授權 — Marketo檔案 — 產品檔案
+description: 瞭解如何為使用者核發或撤銷Marketing Calendar授權。 授予或移除行事曆存取權。
 title: 核發/撤銷行銷行事曆授權
 exl-id: b43cf0e4-3e3e-4034-8ecf-bda34557cfef
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 16%
+source-wordcount: '100'
+ht-degree: 18%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 16%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 若要使用您的[行銷行事曆](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md){target="_blank"}名額，您必須向需要存取許可權的使用者發行授權。 方法如下。
 

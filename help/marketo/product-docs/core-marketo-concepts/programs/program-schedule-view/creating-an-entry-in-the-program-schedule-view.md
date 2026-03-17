@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147102
-description: 在方案排程檢視中建立專案 — Marketo檔案 — 產品檔案
+description: 瞭解如何在方案排程檢視中建立專案。 將電子郵件程式、Smart Campaigns或基本專案新增至排程。
 title: 在方案排程視圖中建立條目
 exl-id: 7d15d110-17f4-4434-bf1c-0343c3a7f176
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '177'
 ht-degree: 10%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 10%
 
 ## 建立基本專案 {#create-a-basic-entry}
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-1.png)
 

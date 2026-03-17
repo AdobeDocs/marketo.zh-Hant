@@ -1,10 +1,10 @@
 ---
-description: 參與地圖示籤 — Marketo檔案 — 產品檔案
+description: 瞭解「參與圖」標籤及其觸發器、篩選器和流量卡。 按一下卡片以檢視詳細資料和編輯行銷活動元素。
 title: 參與地圖索引標籤
 exl-id: 8c4d076a-d8aa-44ff-b538-ca6a6778697a
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '935'
+source-wordcount: '950'
 ht-degree: 0%
 
 ---

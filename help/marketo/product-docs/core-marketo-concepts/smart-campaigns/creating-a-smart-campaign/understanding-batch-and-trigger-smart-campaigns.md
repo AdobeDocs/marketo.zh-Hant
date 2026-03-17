@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953132
-description: 瞭解批次和觸發智慧行銷活動 — Marketo檔案 — 產品檔案
+description: 瞭解批次和觸發智慧行銷活動。 瞭解何時使用每種型別及其執行方式。
 title: 了解批次和觸發程序智慧行銷活動
 exl-id: 84a7b38c-b79c-4360-bd0b-3beb8ca35ac7
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '264'
-ht-degree: 6%
+source-wordcount: '271'
+ht-degree: 5%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147084
-description: 從流量中移除 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用「從流程移除」步驟將人員從流程移除。 停止進一步處理選取的人員。
 title: 從流程中移除
 exl-id: 98b3664a-dd40-4859-a74d-0a9e84113225
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 4%
+source-wordcount: '154'
+ht-degree: 3%
 
 ---
 

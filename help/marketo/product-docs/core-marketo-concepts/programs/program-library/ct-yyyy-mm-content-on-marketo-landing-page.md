@@ -1,20 +1,20 @@
 ---
-description: CT-YYYY-MM-Content on Marketo登陸頁面 — Marketo檔案 — 產品檔案
+description: Marketo登陸頁面內容方案範本。 將其用於Marketo登陸頁面上託管的內容。
 title: CT-YYYY-MM-Marketo 登陸頁面上的內容
 feature: Programs
 exl-id: 638c4d6a-a8c7-4f03-9dae-07fecfb1302b
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '474'
+source-wordcount: '481'
 ht-degree: 9%
 
 ---
 
 # CT-YYYY-MM-Marketo 登陸頁面上的內容 {#ct-yyyy-mm-content-on-marketo-landing-page}
 
-此範例旨在成為利用Marketo Engage登陸頁面和Marketo Engage表單(使用Marketo Engage預設程式)的內容程式。 此表單用於存取內容/選件。 優惠連結可顯示在感謝頁面上、以感謝電子郵件傳送或兩者皆顯示。
+此範例旨在成為利用Marketo Engage登陸頁面和Marketo Engage表單（使用Marketo Engage預設程式）的內容程式。 此表單用於存取內容/選件。 優惠連結可顯示在感謝頁面上、以感謝電子郵件傳送或兩者皆顯示。
 
-如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/tw/customers/consulting-services/main.html){target="_blank"}頁面。
+如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}頁面。
 
 ## 頻道摘要 {#channel-summary}
 
@@ -62,48 +62,48 @@ ht-degree: 9%
   </tr>
   <tr>
    <td>表單</td>
-   <td> </td>
+   <td>  </td>
    <td>FM — 內容登錄檔單</td>
   </tr>
   <tr>
    <td>本地報告</td>
-   <td> </td>
+   <td>  </td>
    <td>電子郵件效能</td>
   </tr>
   <tr>
    <td>本地報告</td>
-   <td> </td>
+   <td>  </td>
    <td>登陸頁面績效</td>
   </tr>
    <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>00 — 擷取贏取計畫</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>01 — 填寫表單</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>02 — 參與（計畫成功）</td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td> </td>
+   <td>  </td>
    <td>Assets — 容納所有創意資產
-<br/>(電子郵件、登陸頁面和Forms的子資料夾)  </td>
+<br/>（電子郵件、登陸頁面和Forms的子資料夾）  </td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td> </td>
+   <td>  </td>
    <td>行銷活動 — 包含所有Smart Campaigns</td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td> </td>
+   <td>  </td>
    <td>報告</td>
   </tr>
  </tbody>
@@ -121,7 +121,7 @@ ht-degree: 9%
    <th>價值</th>
   </tr>
   <tr>
-   <td>RTF文字</td>
+   <td>RTF 文字</td>
    <td><code>{{my.Content-Description}}</code></td>
    <td>按兩下以取得詳細資訊
 <br/><code><--My Content Description Here--></code>
@@ -187,7 +187,7 @@ ht-degree: 9%
    * 保留兩個範本
    * 取代現有的範本 — _建議_
 
-## 最佳實務 {#best-practices}
+## 最佳做法 {#best-practices}
 
 * 匯入內容程式後，將表單從本機資產移至位於Design Studio中的全域資產。
    * 減少Design Studio的表單數量並運用更多全域資產，可讓您的程式設計和管理管理擁有更多擴充性。 此外，欄位、選擇加入語言等的定期合規性更新也有彈性。

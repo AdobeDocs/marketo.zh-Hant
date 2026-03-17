@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147034
-description: 新增至SFDC Campaign - Marketo檔案 — 產品檔案
+description: 瞭解如何使用流程步驟將人員新增至Salesforce行銷活動。 將Marketo銷售機會同步至SFDC行銷活動。
 title: 新增至 SFDC 行銷活動
 exl-id: a5e14cc7-fd83-4a2c-aacb-e515669c9d21
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 5%
+source-wordcount: '184'
+ht-degree: 4%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147120
-description: 從試算表將成員匯入程式 — Marketo檔案 — 產品檔案
+description: 瞭解如何將試算表中的成員匯入程式。
 title: 將試算表的成員匯入方案中
 exl-id: 09c597bb-d28a-463b-8340-ff22d2e0fa02
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '153'
 ht-degree: 11%
 
 ---

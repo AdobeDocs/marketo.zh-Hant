@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7503971
-description: 建立簡報 — Marketo檔案 — 產品檔案
+description: 瞭解如何在HDTV上建立專案檢視的行銷行事曆簡報。 為您的團隊設定工作區專用簡報。
 title: 建立簡報
 exl-id: 3a591c03-2604-44be-b335-2258151beaeb
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 8%
+source-wordcount: '94'
+ht-degree: 7%
 
 ---
 

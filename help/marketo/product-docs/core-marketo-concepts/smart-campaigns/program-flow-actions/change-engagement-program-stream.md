@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147015
-description: 變更參與計畫流程 — Marketo檔案 — 產品檔案
+description: 瞭解如何在流程步驟中變更參與計畫流程。 將人員移至參與計畫中的不同資料流。
 title: 變更參與方案資料流
 exl-id: 1b8dd04b-3af8-4733-b630-b06c4b06bb75
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 8%
+source-wordcount: '106'
+ht-degree: 7%
 
 ---
 

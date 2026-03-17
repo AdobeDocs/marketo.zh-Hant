@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557326
-description: 在清單或智慧清單中使用快速尋找 — Marketo檔案 — 產品檔案
+description: 瞭解如何在清單或智慧清單中使用快速尋找。 在清單中依名稱或電子郵件搜尋特定人員。
 title: 在清單或智慧清單中使用快速尋找
 exl-id: c8ec3d13-0432-400a-acd8-13df709bc29e
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '145'
 ht-degree: 13%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 13%
 
 使用快速尋找，從清單或智慧清單的結果中尋找人員。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities.png)
 

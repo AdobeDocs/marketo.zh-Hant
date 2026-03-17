@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147124
-description: 使用Assets標籤 — Marketo檔案 — 產品檔案
+description: 瞭解如何在程式中使用Assets索引標籤。 檢視及管理程式中的所有本機資產。
 title: 使用資產索引標籤
 exl-id: 7e7679bb-f83d-4b7f-adfb-2733259eeac2
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '147'
 ht-degree: 8%
 
 ---

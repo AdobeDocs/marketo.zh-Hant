@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147126
-description: 使用程式首頁標籤 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用計畫首頁標籤。 在一個地方檢視計畫總覽、績效和關鍵詳細資訊。
 title: 使用方案首頁索引標籤
 exl-id: 04c36190-d853-4900-b566-973d08316e37
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 8%
+source-wordcount: '153'
+ht-degree: 11%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 8%
 
 ## 摘要檢視 {#summary-view}
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -71,4 +71,4 @@ ht-degree: 8%
 
    >[!MORELIKETHIS]
    >
-   >[瞭解計畫成員資格](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}
+   >[了解方案會籍](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}

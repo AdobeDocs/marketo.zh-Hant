@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147095
-description: 建立程式 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo Engage中建立方案及新增資產。
 title: 建立方案
 exl-id: 9767dacb-2b24-4700-ab23-c48998cb0063
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 17%
+source-wordcount: '57'
+ht-degree: 19%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 17%
 
 程式是Marketo中最重要的元素之一。 您將會經常使用它們！
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities.png)
 

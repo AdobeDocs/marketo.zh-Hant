@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147066
-description: 在Smart Campaign中覆寫人員限制 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Smart Campaign中覆寫人員限制。 即使人員達到通訊限制，仍可執行。
 title: 覆寫智慧行銷活動中的人員限制
 exl-id: 45ff3e36-01fd-42ea-ba74-efd98867a58a
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 10%
+source-wordcount: '141'
+ht-degree: 9%
 
 ---
 

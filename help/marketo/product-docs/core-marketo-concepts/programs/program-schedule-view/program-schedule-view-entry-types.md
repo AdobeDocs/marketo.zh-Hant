@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147243
-description: 方案排程檢視專案型別 — Marketo檔案 — 產品檔案
+description: 瞭解方案排程檢視專案型別。 瞭解電子郵件方案、智慧行銷活動和其他專案型別。
 title: 方案排程視圖條目類型
 exl-id: 0b53d6d3-b813-45c6-9101-191c777610bb
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '159'
 ht-degree: 10%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 10%
  </thead>
  <tbody>
   <tr>
-   <td colspan="1" rowspan="1">基本專案<span> <img alt="—" src="assets/image2014-9-24-10-3a4-3a47.png" data-linked-resource-id="3082715" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></span></td>
+   <td colspan="1" rowspan="1">基本專案<span> <img alt="--" src="assets/image2014-9-24-10-3a4-3a47.png" data-linked-resource-id="3082715" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></span></td>
    <td colspan="1" rowspan="1">預設專案型別。 用作預留位置或註記。 </td>
   </tr>
   <tr>

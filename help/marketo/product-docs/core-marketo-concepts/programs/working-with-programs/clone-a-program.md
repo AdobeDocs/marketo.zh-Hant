@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147110
-description: 原地復製程式 — Marketo檔案 — 產品檔案
+description: 瞭解如何複製計畫及其所有資產。 在Campaign資料夾或工作區中建立復本，而不需手動重建。
 title: 原地複製方案
 exl-id: 5597007c-8f58-4306-ab78-3e65d6369fbf
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '229'
 ht-degree: 2%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146897
-description: 刪除智慧清單或清單中的人員 — Marketo檔案 — 產品檔案
+description: 瞭解如何從智慧清單或靜態清單刪除人員。 從清單或資料庫移除人員。
 title: 刪除智慧清單或清單中的人員
 exl-id: 192e79e6-d816-44e3-84c4-212cd73eb3ce
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '270'
-ht-degree: 6%
+source-wordcount: '279'
+ht-degree: 7%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 6%
 >
 >[建立智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/ma-1.png)
 
@@ -31,7 +31,7 @@ ht-degree: 6%
    >
    >刪除人員時，您不會只是將其從清單中移除，而是會將其從資料庫中完全移除。
 
-1. 按一下&#x200B;**[!UICONTROL Select All]**。 您也可以使用Ctrl/Cmd並按一下，以手動挑選一些記錄。
+1. 按一下「**[!UICONTROL Select All]**」。 您也可以使用Ctrl/Cmd並按一下，以手動挑選一些記錄。
 
    ![](assets/three-1.png)
 

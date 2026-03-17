@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557312
-description: 智慧清單篩選器運運算元字彙表 — Marketo檔案 — 產品檔案
+description: 取得智慧清單篩選器運運算元的說明。 瞭解用於建立篩選器的等於、包含和其他運運算元。
 title: 智慧清單篩選器運算子字彙表
 exl-id: 5a370482-f214-4909-bb49-801c1a36b153
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '603'
+source-wordcount: '610'
 ht-degree: 15%
 
 ---
@@ -118,7 +118,7 @@ ht-degree: 15%
 
 >[!CAUTION]
 >
->當您使用日期欄位篩選器(例如，出生日期、SFDC建立日期)建立智慧清單，並使用限制&#x200B;**[!UICONTROL before]**、**[!UICONTROL on or before]**&#x200B;或&#x200B;**[!UICONTROL in past before]**&#x200B;時，智慧清單也會包含該日期欄位中沒有值的人員。
+>當您使用日期欄位篩選器（例如，出生日期、SFDC建立日期）建立智慧清單，並使用限制&#x200B;**[!UICONTROL before]**、**[!UICONTROL on or before]**&#x200B;或&#x200B;**[!UICONTROL in past before]**&#x200B;時，智慧清單也會包含該日期欄位中沒有值的人員。
 
 請使用下圖來瞭解日期運運算元之間的差異。
 

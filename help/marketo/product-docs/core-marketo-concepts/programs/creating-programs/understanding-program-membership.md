@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147091
-description: 瞭解計畫成員資格 — Marketo檔案 — 產品檔案
+description: 瞭解計畫會員資格以及人員如何進入計畫。 瞭解計畫成員的狀態和成功。
 title: 了解方案會籍
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '266'
-ht-degree: 3%
+source-wordcount: '275'
+ht-degree: 2%
 
 ---
 

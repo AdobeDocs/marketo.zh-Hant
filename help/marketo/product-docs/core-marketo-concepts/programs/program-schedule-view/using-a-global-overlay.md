@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147249
-description: 使用全域覆蓋 — Marketo檔案 — 產品檔案
+description: 瞭解如何在方案排程檢視中使用全域覆蓋。 在程式間套用覆蓋圖，以一致地檢視。
 title: 使用全域覆蓋
 exl-id: b4e69f20-f1a7-43c4-92f7-e8802b4ce322
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '157'
 ht-degree: 5%
 
 ---

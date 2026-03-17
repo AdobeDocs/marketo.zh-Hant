@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557322
-description: 從智慧清單執行單一流程步驟 — Marketo檔案 — 產品檔案
+description: 瞭解如何從智慧清單執行單一流程步驟。 對清單中選取的人員執行一個流程動作。
 title: 從智慧清單執行單一流程步驟
 exl-id: 1ac5795b-1906-4f94-bd0a-570d55c9357b
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 9%
+source-wordcount: '228'
+ht-degree: 10%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 9%
 >
 >[建立智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/run-a-single-flow-step-from-a-smart-list-1.png)
 
@@ -31,7 +31,7 @@ ht-degree: 9%
    >
    >靜態清單和智慧列示都有此功能。
 
-1. 按一下&#x200B;**[!UICONTROL Select All]**。 您也可以使用&#x200B;**Ctrl/Cmd**，然後按一下以手動選取一些記錄。
+1. 按一下「**[!UICONTROL Select All]**」。 您也可以使用&#x200B;**Ctrl/Cmd**，然後按一下以手動選取一些記錄。
 
    ![](assets/run-a-single-flow-step-from-a-smart-list-3.png)
 

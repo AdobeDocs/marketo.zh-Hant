@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8783563
-description: 預覽電子郵件 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo時刻預覽電子郵件。 從行動應用程式傳送前，請先檢視您電子郵件的外觀。
 title: 預覽電子郵件
 exl-id: 10bcedbd-553f-4ba1-b1bd-1aad2890dbd4
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 6%
+source-wordcount: '138'
+ht-degree: 5%
 
 ---
 

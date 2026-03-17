@@ -1,10 +1,10 @@
 ---
-description: 設定標籤 — Marketo檔案 — 產品檔案
+description: 瞭解Smart Campaign資格規則、執行和循環的設定索引標籤。 設定人們執行您的行銷活動流程的頻率。
 title: 設定索引標籤
 exl-id: 622ad162-a2b1-4a37-93d8-c1dd8c6e10c8
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '319'
 ht-degree: 2%
 
 ---

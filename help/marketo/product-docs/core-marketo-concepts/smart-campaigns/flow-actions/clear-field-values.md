@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147324
-description: 清除欄位值 — Marketo檔案 — 產品檔案
+description: 瞭解如何清除Smart Campaign流程步驟中的欄位值。 從人員或公司欄位中移除值。
 title: 清除欄位值
 exl-id: cddc7697-4e8f-4a62-865c-efd451abea0c
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 6%
+source-wordcount: '104'
+ht-degree: 5%
 
 ---
 

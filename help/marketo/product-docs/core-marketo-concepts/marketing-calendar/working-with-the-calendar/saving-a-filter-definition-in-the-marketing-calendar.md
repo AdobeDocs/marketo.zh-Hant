@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147296
-description: 在行銷行事曆中儲存篩選器定義 — Marketo檔案 — 產品檔案
+description: 瞭解如何在行銷行事曆中儲存篩選器定義。 儲存篩選器以快速在不同的篩選器定義之間切換。
 title: 在行銷行事曆中儲存篩選器定義
 exl-id: 66346207-6e8d-472d-971c-31417bd5210b
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 20%
+source-wordcount: '92'
+ht-degree: 18%
 
 ---
 

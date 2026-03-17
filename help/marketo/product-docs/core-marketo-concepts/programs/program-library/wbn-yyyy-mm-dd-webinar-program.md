@@ -1,11 +1,11 @@
 ---
-description: WBN-YYYY-MM-DD — 網路研討會計畫 — Marketo檔案 — 產品檔案
+description: 網路研討會計畫範本。 將其用於具有標準命名慣例的網路研討會。
 title: WBN-YYYY-MM-DD-網路研討會方案
 feature: Programs
 exl-id: 0506606e-d09a-42d2-949f-a65371a29c00
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '591'
+source-wordcount: '597'
 ht-degree: 15%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 15%
 
 這是網路研討會計畫的範例，包含註冊管理、三封邀請電子郵件、提醒參加，以及利用Marketo Engage活動計畫的後續電子郵件。
 
-如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/tw/customers/consulting-services/main.html){target="_blank"}頁面。
+如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}頁面。
 
 ## 頻道摘要 {#channel-summary}
 
@@ -88,7 +88,7 @@ ht-degree: 15%
   <tr>
   <tr>
    <td>表單</td>
-   <td> </td>
+   <td>  </td>
    <td>FM事件註冊</td>
   </tr>
   <tr>
@@ -108,68 +108,68 @@ ht-degree: 15%
   </tr>
   <tr>
    <td>本地報告</td>
-   <td> </td>
+   <td>  </td>
    <td>電子郵件效能</td>
   </tr>
    <tr>
    <td>本地報告</td>
-   <td> </td>
+   <td>  </td>
    <td>登陸頁面績效</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>00 — 擷取贏取計畫</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>01 — 處理註冊</td>
   </tr>
    <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>02a — 傳送邀請</td>
   </tr>
    <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>02b — 傳送邀請提醒</td>
   </tr>
    <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>02c — 傳送邀請提醒最後機會</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>03 — 傳送出席提醒</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>04 — 傳送後續追蹤電子郵件</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>05 — 隨選出席（計畫成功）</td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td> </td>
+   <td>  </td>
    <td>Assets — 容納所有創意資產
-<br/>(電子郵件、登陸頁面和Forms的子資料夾)</td>
+<br/>（電子郵件、登陸頁面和Forms的子資料夾）</td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td> </td>
+   <td>  </td>
    <td>行銷活動 — 容納所有智慧行銷活動</td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td> </td>
+   <td>  </td>
    <td>報告</td>
   </tr>
  </tbody>
@@ -184,7 +184,7 @@ ht-degree: 15%
   <tr>
    <th>權杖型別</th>
    <th>代號名稱</th>
-   <th>價值</th>
+   <th>值</th>
   </tr>
   <tr>
    <td>行事曆檔案</td>
@@ -217,7 +217,7 @@ ht-degree: 15%
    <td><code><--My Event Date--></code></td>
   </tr>
    <tr>
-   <td>RTF文字</td>
+   <td>RTF 文字</td>
    <td><code>{{my.Event-Description}}</code></td>
    <td>按兩下以取得詳細資訊
 <br/><code><--My Event Description Here--></code>
@@ -308,7 +308,7 @@ ht-degree: 15%
    * 保留兩個範本
    * 取代現有的範本 — _建議_
 
-## 最佳實務 {#best-practices}
+## 最佳做法 {#best-practices}
 
 * 如果您使用整合式網路研討會提供者，別忘了將Marketo Engage程式連線到託管系統中的網路研討會。
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147100
-description: 瀏覽方案排程檢視 — Marketo檔案 — 產品檔案
+description: 瞭解如何導覽方案排程檢視。 移動時間並檢視程式中已排程的專案。
 title: 導覽方案排程視圖
 exl-id: 31623f95-f956-44f6-9b6e-5595fb6e62d5
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '186'
 ht-degree: 6%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 6%
 
 ## 尋找排程檢視 {#find-the-schedule-view}
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities.png)
 

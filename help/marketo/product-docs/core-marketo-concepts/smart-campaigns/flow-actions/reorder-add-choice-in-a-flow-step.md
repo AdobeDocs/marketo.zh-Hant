@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557333
-description: 在流程步驟中重新排序新增選擇 — Marketo檔案 — 產品檔案
+description: 瞭解如何在流程步驟中重新排序新增選擇選項。 變更行銷活動中的選擇分支順序。
 title: 重新排序在流程步驟中新增選擇
 exl-id: e76af93a-24df-48ba-b5f2-ea6e697e2f3a
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---

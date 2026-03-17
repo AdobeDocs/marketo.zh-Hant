@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146972
-description: 排程週期性批次行銷活動 — Marketo檔案 — 產品檔案
+description: 瞭解如何排程週期性批次行銷活動。 將行銷活動設定為每日、每週或每月依排程執行。
 title: 安排定期批次行銷活動的時間
 exl-id: b7a931b0-5061-4c4f-8084-4938254a4d9c
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 11%
+source-wordcount: '144'
+ht-degree: 10%
 
 ---
 

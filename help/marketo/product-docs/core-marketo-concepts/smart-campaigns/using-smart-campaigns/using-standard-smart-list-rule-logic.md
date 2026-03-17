@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147001
-description: 使用標準智慧清單規則邏輯 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Smart Campaign中使用標準智慧列示規則邏輯。 結合篩選條件與AND邏輯以進行資格。
 title: 使用標準智慧清單規則邏輯
 exl-id: 9befaa81-e50c-47d3-9edf-220cfadd00f6
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 9%
+source-wordcount: '139'
+ht-degree: 8%
 
 ---
 

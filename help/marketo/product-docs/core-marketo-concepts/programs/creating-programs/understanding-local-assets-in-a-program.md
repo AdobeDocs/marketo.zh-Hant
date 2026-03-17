@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147093
-description: 瞭解程式中的本機Assets - Marketo檔案 — 產品檔案
+description: 瞭解計畫中的本機資產。 瞭解電子郵件、登陸頁面和其他資產如何在方案中存留。
 title: 了解方案中的本地資產
 exl-id: aa577b2b-f77c-41cc-aa47-59ce2d189530
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 17%
+source-wordcount: '104'
+ht-degree: 16%
 
 ---
 

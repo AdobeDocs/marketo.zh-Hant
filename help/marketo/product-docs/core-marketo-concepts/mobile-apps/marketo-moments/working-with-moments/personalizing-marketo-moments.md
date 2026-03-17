@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8782021
-description: 個人化Marketo時刻 — Marketo檔案 — 產品檔案
+description: 瞭解如何個人化Marketo時刻。 自訂哪些卡片和見解會顯示在行動應用程式檢視中。
 title: 將 Marketo 重要時刻個人化
 exl-id: f92c9215-0ee3-4918-8194-e6d1684a71c6
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 6%
+source-wordcount: '135'
+ht-degree: 5%
 
 ---
 

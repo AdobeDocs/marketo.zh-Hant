@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720377
-description: 跨工作區參考清單或智慧清單 — Marketo檔案 — 產品檔案
+description: 瞭解如何跨工作區參考清單或智慧清單。 在一個工作區中使用另一個工作區中的清單作為參考。
 title: 跨工作區參照清單或智慧清單
 exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 10%
+source-wordcount: '176'
+ht-degree: 12%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 10%
    >
    >如果Assets巢狀內嵌於資料夾中，只能跨工作區共用。
 
-1. 命名資料夾並按一下&#x200B;**[!UICONTROL Create]**。
+1. 為資料夾命名，然後按一下 **[!UICONTROL Create]**。
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-3.png)
 

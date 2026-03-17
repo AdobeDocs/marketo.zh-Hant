@@ -1,11 +1,11 @@
 ---
-description: 快速入門電子郵件範本 — Marketo檔案 — 產品檔案
+description: 快速入門電子郵件範本。 使用它可從預先建立的範本快速建立電子郵件。
 title: 快速開始電子郵件範本
 feature: Programs
 exl-id: 4ad2063e-11c4-4926-8438-5b38af0fbc8d
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '565'
+source-wordcount: '571'
 ht-degree: 1%
 
 ---
@@ -24,7 +24,7 @@ Marketo Engage電子郵件編輯器提供的功能可協助您變更版面及編
 
 * **變數**：選取模組時，變數會出現在編輯器的右側。 如果模組屬性不容易透過影像或文字元素編輯，可使用這些專案來調整模組。
 
-如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/tw/customers/consulting-services/main.html){target="_blank"}頁面。
+如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}頁面。
 
 ## 模組摘要 {#modules-summary}
 
@@ -92,7 +92,7 @@ Marketo Engage電子郵件編輯器提供的功能可協助您變更版面及編
    * CTA文字色彩
    * CTA背景顏色
    * CTA邊框顏色
-   * CTA邊框半徑(讓按鈕四捨五入 — **注意**：此功能在Microsoft Outlook電子郵件使用者端中無法運作)
+   * CTA邊框半徑（讓按鈕四捨五入 — **注意**：此功能在Microsoft Outlook電子郵件使用者端中無法運作）
    * CTA URL
    * CTA文字
    * CTA對齊方式

@@ -1,12 +1,12 @@
 ---
-description: NUR-YYYY-MM-Simple Nurture - Marketo檔案 — 產品檔案
+description: 簡單Nurture程式範本。 將其用於具有明確命名慣例的基本培養行銷活動。
 title: NUR-YYYY-MM-簡單培養
 feature: Programs
 exl-id: aed11d75-3190-46ea-8b0b-c1494645901d
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '347'
-ht-degree: 11%
+source-wordcount: '356'
+ht-degree: 12%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 11%
 
 這是簡單的Nurture計畫範例，利用Marketo Engage參與計畫，有節奏的內容會隨著時間滴到您的資料庫，同時利用資料流根據行為引導記錄完成歷程。
 
-如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/tw/customers/consulting-services/main.html){target="_blank"}頁面。
+如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}頁面。
 
 ## 頻道摘要 {#channel-summary}
 
@@ -62,49 +62,49 @@ ht-degree: 11%
   </tr>
   <tr>
    <td>本地報告</td>
-   <td> </td>
+   <td>  </td>
    <td>電子郵件效能</td>
   </tr>
   <tr>
    <td>本地報告</td>
-   <td> </td>
+   <td>  </td>
    <td>參與資料流績效</td>
   </tr>
   <tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>01 — 加入Nurture</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>02 — 暫停Nurture</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>03 — 繼續培養</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>04 — 參與（計畫成功）</td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td> </td>
+   <td>  </td>
    <td>Assets — 容納所有創意資產
    <br/>（電子郵件的子資料夾）</td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td> </td>
+   <td>  </td>
    <td>行銷活動 — 容納所有智慧行銷活動</td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td> </td>
+   <td>  </td>
    <td>報告</td>
   </tr>
  </tbody>
@@ -157,7 +157,7 @@ ht-degree: 11%
    * 保留兩個範本
    * 取代現有的範本 — _建議_
 
-## 最佳實務 {#best-practices}
+## 最佳做法 {#best-practices}
 
 * 請考慮更新您匯入的程式中的範本，以使用目前品牌的範本，或更新新匯入的範本，以透過新增程式碼片段或適當的標誌/頁尾資訊來反映您的品牌。
 

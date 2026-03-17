@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147237
-description: 依期間成本篩選方案報表 — Marketo檔案 — 產品檔案
+description: 瞭解如何依期間成本篩選方案報告。 檢視特定成本期間的程式績效。
 title: 按照期間成本篩選方案報告
 exl-id: 039041be-326d-4018-b97d-d80198cb9b84
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 16%
+source-wordcount: '89'
+ht-degree: 15%
 
 ---
 

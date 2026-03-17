@@ -1,11 +1,11 @@
 ---
-description: 觸發器行銷活動的優先順序覆寫 — Marketo檔案 — 產品檔案
+description: 瞭解觸發式行銷活動的優先順序覆寫。 控制當同一個人員有多個觸發器觸發時，要執行哪個促銷活動。
 title: 觸發程序行銷活動的優先順序覆寫
 exl-id: cf9b4d27-0e4c-40cf-accd-4f4a102160cc
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '232'
 ht-degree: 4%
 
 ---

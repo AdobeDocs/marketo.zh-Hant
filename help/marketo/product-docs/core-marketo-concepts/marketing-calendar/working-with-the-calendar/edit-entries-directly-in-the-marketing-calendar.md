@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953352
-description: 直接在行銷行事曆中編輯專案 — Marketo檔案 — 產品檔案
+description: 瞭解如何直接在行銷行事曆中編輯專案。 使用程式焦點來重新排程、重新命名或變更專案詳細資料。
 title: 直接在行銷行事曆中編輯條目
 exl-id: a78e4637-96b4-4771-9f9e-39ff50e11d72
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '190'
 ht-degree: 9%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146960
-description: 變更資料值 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Smart Campaign流程步驟中變更資料值。 更新流程中的人員或公司欄位。
 title: 變更資料值
 exl-id: cdfa7632-87e2-407f-9891-3697771b5687
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '117'
 ht-degree: 5%
 
 ---

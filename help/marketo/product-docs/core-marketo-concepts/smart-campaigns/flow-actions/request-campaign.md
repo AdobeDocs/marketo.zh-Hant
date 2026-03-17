@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2951703
-description: 請求行銷活動 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用請求行銷活動流程步驟。 有人達到此步驟時，觸發另一個要執行的行銷活動。
 title: 請求行銷活動
 exl-id: 5deecb56-c25f-4e3b-bd85-f9cac1c7149e
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '114'
 ht-degree: 4%
 
 ---

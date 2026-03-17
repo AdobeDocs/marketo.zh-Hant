@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147118
-description: 在程式中使用期間成本 — Marketo檔案 — 產品檔案
+description: 瞭解如何在方案中使用期間成本。 新增成本並指派至方案期間，以進行ROI報告。
 title: 在方案中使用期間成本
 exl-id: 3f00dc09-797a-4f21-bb56-45a1f9b6e5bf
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '194'
-ht-degree: 8%
+source-wordcount: '203'
+ht-degree: 9%
 
 ---
 
@@ -71,7 +71,7 @@ ht-degree: 8%
 
    ![](assets/image2014-9-18-14-3a4-3a22.png)
 
-1. 按一下&#x200B;**[!UICONTROL Delete]**&#x200B;確認。
+1. 按一下 **[!UICONTROL Delete]** 確認。
 
    ![](assets/image2014-9-18-14-3a4-3a35.png)
 

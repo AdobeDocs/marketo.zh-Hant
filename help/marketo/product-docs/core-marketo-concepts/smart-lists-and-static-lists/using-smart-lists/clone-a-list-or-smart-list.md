@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557320
-description: 複製清單或智慧清單 — Marketo檔案 — 產品檔案
+description: 瞭解如何複製清單或智慧清單。 建立副本以用作新清單的起點。
 title: 原地複製清單或智慧清單
 exl-id: e802fa74-5884-4201-9b55-d6cd7e2a7d9f
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '83'
 ht-degree: 19%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 19%
 
 您不必從頭開始建立「智慧列示」，只要複製類似的清單並進行變更即可節省時間。 方法如下。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/clone-a-list-or-smart-list-1.png)
 

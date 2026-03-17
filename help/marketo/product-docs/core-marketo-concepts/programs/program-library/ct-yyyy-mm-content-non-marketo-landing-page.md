@@ -1,11 +1,11 @@
 ---
-description: CT-YYYY-MM-Content非Marketo登陸頁面 — Marketo檔案 — 產品檔案
+description: 內容非Marketo登陸頁面計畫範本。 將其用於外部登陸頁面上的內容。
 title: CT-YYYY-MM-非 Marketo 登陸頁面上的內容
 feature: Programs
 exl-id: b7cf8e52-4f3f-44d7-ab4c-ad10fa0badc9
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '401'
 ht-degree: 9%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 9%
 
 此範例為含有Marketo Engage表單的內容程式範例，此程式可利用Marketo Engage預設程式在非Marketo Engage登陸頁面上下載內容。 此程式旨在搭配您網站上內嵌的Marketo Engage表單使用。 優惠/內容的連結可在感謝電子郵件中傳送。
 
-如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/tw/customers/consulting-services/main.html){target="_blank"}頁面。
+如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}頁面。
 
 ## 頻道摘要 {#channel-summary}
 
@@ -52,43 +52,43 @@ ht-degree: 9%
   </tr>
   <tr>
    <td>表單</td>
-   <td> </td>
+   <td>  </td>
    <td>FM內容登錄檔單（Design Studio中的全域資產）</td>
   </tr>
   <tr>
    <td>本地報告</td>
-   <td> </td>
+   <td>  </td>
    <td>電子郵件效能</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>00 — 擷取贏取計畫</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>01填寫表單</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>02參與（計畫成功）</td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td> </td>
+   <td>  </td>
    <td>Assets — 容納所有創意資產
 <br/>（電子郵件和登陸頁面的子資料夾）  </td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td> </td>
+   <td>  </td>
    <td>行銷活動 — 包含所有Smart Campaigns</td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td> </td>
+   <td>  </td>
    <td>報告</td>
   </tr>
  </tbody>
@@ -156,7 +156,7 @@ ht-degree: 9%
    * 保留兩個範本
    * 取代現有的範本 — _建議_
 
-## 最佳實務 {#best-practices}
+## 最佳做法 {#best-practices}
 
 * 匯入內容程式後，將表單從本機資產移至位於Design Studio中的全域資產。
    * 減少Design Studio的表單數量並運用更多全域資產，可讓您的程式設計和管理管理擁有更多擴充性。 此外，欄位、選擇加入語言等的定期合規性更新也有彈性。

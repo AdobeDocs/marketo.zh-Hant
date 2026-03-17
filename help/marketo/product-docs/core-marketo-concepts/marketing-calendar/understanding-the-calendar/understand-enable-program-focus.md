@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953364
-description: 瞭解/啟用方案焦點 — Marketo檔案 — 產品檔案
+description: 瞭解方案焦點讓您與行銷行事曆專案互動的方式。 啟用專注在方案上以建立、編輯、刪除或確認專案。
 title: 了解/啟用方案焦點
 exl-id: 90de3d93-d243-451d-8df3-5e2732919615
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 5%
+source-wordcount: '163'
+ht-degree: 4%
 
 ---
 

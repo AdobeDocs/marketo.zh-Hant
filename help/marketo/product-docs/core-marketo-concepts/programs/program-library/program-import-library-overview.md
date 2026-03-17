@@ -1,12 +1,12 @@
 ---
-description: 程式匯入程式庫概觀 — Marketo檔案 — 產品檔案
+description: 瞭解計畫匯入程式庫和範本計畫。 使用範本從最佳實務快速建立計畫。
 title: 方案匯入資料庫概觀
 feature: Programs
 exl-id: 1e754eed-b5e7-419f-a786-2bc9cbd1d21f
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 6%
+source-wordcount: '139'
+ht-degree: 5%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 6%
 
 Marketo Engage參考資料庫包含數個入門程式，您可以直接匯入您的Marketo執行個體，以快速開始建立將協助支援您團隊的程式。
 
-程式庫包含類似的程式：電子郵件、參與、事件、評分、傳遞能力及作業。 所有計畫均由Adobe產品團隊開發，並交由我們的[全球專業服務](https://business.adobe.com/tw/customers/consulting-services/main.html){target="_blank"}團隊稽核，以發揮最高的品質和效率。
+程式庫包含類似的程式：電子郵件、參與、事件、評分、傳遞能力及作業。 所有計畫均由Adobe產品團隊開發，並交由我們的[全球專業服務](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}團隊稽核，以發揮最高的品質和效率。
 
 ## 可用的計畫範例 {#available-program-examples}
 

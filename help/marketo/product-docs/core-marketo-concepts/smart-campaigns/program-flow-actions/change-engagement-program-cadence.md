@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147013
-description: 變更參與計畫步調 — Marketo檔案 — 產品檔案
+description: 瞭解如何在流程步驟中變更參與計畫節奏。 調整人們在資料流中接收電子郵件的頻率。
 title: 變更參與方案頻率
 exl-id: ce087a0d-43e1-467c-b7f0-3df072048f0e
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 8%
+source-wordcount: '109'
+ht-degree: 7%
 
 ---
 

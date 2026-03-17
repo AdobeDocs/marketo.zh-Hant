@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147251
-description: 在方案排程檢視中建立自訂覆蓋圖 — Marketo檔案 — 產品檔案
+description: 瞭解如何在方案排程檢視中建立自訂覆蓋圖。 新增覆蓋列以顯示排程上的其他資料。
 title: 在方案排程視圖中建立自訂覆蓋
 exl-id: 066e7b4d-ff2c-4968-be1e-6d95d680a59a
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 21%
+source-wordcount: '79'
+ht-degree: 18%
 
 ---
 

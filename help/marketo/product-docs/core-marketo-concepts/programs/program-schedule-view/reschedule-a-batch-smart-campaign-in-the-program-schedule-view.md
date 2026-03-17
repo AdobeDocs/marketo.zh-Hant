@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7514985
-description: 在方案排程檢視中重新排程批次Smart Campaign - Marketo檔案 — 產品檔案
+description: 瞭解如何在方案排程檢視中重新排程批次Smart Campaign。 變更批次行銷活動執行的時間。
 title: 在方案排程視圖中重新安排批次智慧行銷活動的時間
 exl-id: accae56e-36c5-4093-a72e-0882ce8e50b2
 feature: Programs, Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 19%
+source-wordcount: '109'
+ht-degree: 18%
 
 ---
 

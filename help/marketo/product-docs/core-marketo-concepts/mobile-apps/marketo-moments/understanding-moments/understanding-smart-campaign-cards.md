@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10093348
-description: 瞭解智慧行銷活動資訊卡 — Marketo檔案 — 產品檔案
+description: 瞭解Marketo時刻中的Smart Campaign卡片。 從行動應用程式檢視促銷活動狀態並執行流程步驟。
 title: 了解智慧行銷活動資訊卡
 exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '549'
-ht-degree: 2%
+source-wordcount: '560'
+ht-degree: 1%
 
 ---
 

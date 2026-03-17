@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146937
-description: 檢視Smart Campaign成員 — Marketo檔案 — 產品檔案
+description: 瞭解如何檢視Smart Campaign成員。 檢視誰在行銷活動中，及其在流量中的狀態。
 title: 檢視智慧行銷活動成員
 exl-id: 027d93a9-f838-4f96-80d6-7bf6ee1cc03d
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 9%
+source-wordcount: '94'
+ht-degree: 10%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 9%
 
 檢視已執行Smart Campaign流程的人員。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/view-smart-campaign-members-1.png)
 

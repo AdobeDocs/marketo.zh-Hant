@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557339
-description: 尋找及合併重複人員 — Marketo檔案 — 產品檔案
+description: 瞭解如何尋找及合併重複人員。 將重複的記錄合併成一個，然後清除您的資料庫。
 title: 找到重複人員並將其合併
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
-source-git-commit: 3456e4d0d9fdcd4590884d9a5b15ef206fcff875
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '419'
 ht-degree: 3%
 
 ---

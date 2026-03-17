@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147144
-description: 在「排程」檢視中建立新的電子郵件程式 — Marketo檔案 — 產品檔案
+description: 瞭解如何從計畫排程檢視建立新的電子郵件計畫。 新增電子郵件程式專案並進行設定。
 title: 在排程視圖中建立新的電子郵件方案
 exl-id: a052d6a8-d745-4017-a22a-a7019c8432ce
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 18%
+source-wordcount: '119'
+ht-degree: 19%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 18%
 
 您可以從方案排程檢視內建置電子郵件方案。 方法如下。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-2.png)
 

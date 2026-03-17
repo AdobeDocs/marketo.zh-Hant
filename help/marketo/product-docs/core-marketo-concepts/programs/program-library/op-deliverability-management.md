@@ -1,11 +1,11 @@
 ---
-description: OP — 傳遞能力管理 — Marketo檔案 — 產品檔案
+description: 傳遞能力管理作業方案範本。 使用它來維持電子郵件傳遞能力。
 title: OP-傳遞能力管理
 feature: Programs
 exl-id: 7b9bc9ee-65f4-4938-8598-6f8543042159
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '253'
 ht-degree: 10%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 10%
 >
 >需要自訂字串欄位「行銷暫停原因」才能匯入。 [了解更多](https://nation.marketo.com/community/product_and_support/support_solutions/blog/2016/04/18/how-to-monitor-deliverability-using-marketo){target="_blank"}。
 
-如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/tw/customers/consulting-services/main.html){target="_blank"}頁面。
+如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}頁面。
 
 ## 頻道摘要 {#channel-summary}
 
@@ -67,33 +67,33 @@ ht-degree: 10%
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>行銷暫停長期無回應者</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>行銷暫停長期退回的電子郵件</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>在電子郵件更新後重設「電子郵件無效」</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>電子郵件更新後重設「行銷活動已暫停」</td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td> </td>
+   <td>  </td>
    <td>管理</td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td> </td>
-   <td>審閱</td>
+   <td>  </td>
+   <td>檢閱</td>
   </tr>
  </tbody>
 </table>
@@ -118,7 +118,7 @@ ht-degree: 10%
    * 保留兩個範本 — _建議_
    * 取代現有範本
 
-## 最佳實務 {#best-practices}
+## 最佳做法 {#best-practices}
 
 * 每個建立的行銷活動旨在作為最佳實務建立的範例，而不是特定於您的使用案例。 請記得更新Smart Campaign，以解決您的特定痛點和資料挑戰。
 

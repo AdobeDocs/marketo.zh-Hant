@@ -1,13 +1,13 @@
 ---
 unique-page-id: 9438139
-description: 將人員新增至封鎖清單 — Marketo檔案 — 產品檔案
+description: 瞭解如何將個人新增至封鎖清單。 防止將電子郵件傳送給特定人員或網域。
 title: 將人員新增至封鎖清單
 exl-id: e4543bf9-11e9-42df-a31e-e2cebe24ad4a
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 10%
+source-wordcount: '161'
+ht-degree: 9%
 
 ---
 

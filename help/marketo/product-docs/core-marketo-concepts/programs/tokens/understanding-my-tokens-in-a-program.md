@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147114
-description: 瞭解程式中的我的Token - Marketo檔案 — 產品檔案
+description: 瞭解程式中的我的Token。 使用權杖以方案或成員資料個人化內容。
 title: 了解方案中的我的權杖
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '429'
 ht-degree: 4%
 
 ---
@@ -37,7 +37,7 @@ ht-degree: 4%
  </thead>
  <tbody>
   <tr>
-   <td>行事曆檔案 <img alt="—" src="assets/image2014-9-25-16-3a44-3a19.png" data-linked-resource-id="3083230" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td>
+   <td>行事曆檔案 <img alt="--" src="assets/image2014-9-25-16-3a44-3a19.png" data-linked-resource-id="3083230" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td>
    <td>使用此Token將<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">行事曆事件檔案(.i</a><a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">cs)</a>新增至您的電子郵件和登入頁面。</td>
   </tr>
   <tr>
@@ -46,14 +46,14 @@ ht-degree: 4%
   </tr>
   <tr>
    <td>電子郵件指令碼 <img alt="--" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td>
-   <td>使用此代號在您的電子郵件中執行Velocity指令碼。 在<a href="https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/email-scripting" title="關注連結" rel="nofollow">此處</a>瞭解更多資訊。 </td>
+   <td>使用此代號在您的電子郵件中執行Velocity指令碼。 在<a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting" title="關注連結" rel="nofollow">此處</a>瞭解更多資訊。 </td>
   </tr>
   <tr>
    <td>數字<span> <img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td>
    <td>任何整數。 甚至可以是負數。</td>
   </tr>
   <tr>
-   <td>RTF文字 <img alt="--" src="assets/image2014-9-25-16-3a46-3a22.png" data-linked-resource-id="3083234" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td>
+   <td>RTF 文字 <img alt="--" src="assets/image2014-9-25-16-3a46-3a22.png" data-linked-resource-id="3083234" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td>
    <td>這是HTML。 在電子郵件和登入頁面中使用。</td>
   </tr>
   <tr>

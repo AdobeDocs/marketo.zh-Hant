@@ -1,12 +1,12 @@
 ---
-description: WR-YYYY-MM-Web請求計畫 — Marketo檔案 — 產品檔案
+description: 網路請求程式範本。 將其用於閘道內容和表單提交。
 title: WR-YYYY-MM-網路請求方案
 feature: Programs
 exl-id: 4acaa2d0-3329-4027-acbd-ae2e0ec6f7c5
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '400'
-ht-degree: 8%
+source-wordcount: '405'
+ht-degree: 9%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 8%
 
 這是一個範例計畫，非常適用於使用Marketo Engage預設計畫的聯絡人請求、報價請求、示範請求或試用請求表單。 可與Marketo登陸頁面搭配使用，或作為非Marketo登陸頁面上的內嵌表單。 在提交表單時會傳送通知電子郵件給指定的個人。
 
-如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/tw/customers/consulting-services/main.html){target="_blank"}頁面。
+如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}頁面。
 
 ## 頻道摘要 {#channel-summary}
 
@@ -46,7 +46,7 @@ ht-degree: 8%
   </tr>
   <tr>
    <td>表單</td>
-   <td> </td>
+   <td>  </td>
    <td>FM-WebRequestForm</td>
   </tr>
   <tr>
@@ -66,33 +66,33 @@ ht-degree: 8%
   </tr>
   <tr>
    <td>本地報告</td>
-   <td> </td>
+   <td>  </td>
    <td>登陸頁面績效</td>
   </tr>
    <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>從網路請求新增人員</td>
   </tr>
    <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>網路研討會的新人員</td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td> </td>
+   <td>  </td>
    <td>Assets — 容納所有創意資產
 <br/>（警示和登陸頁面的子資料夾）</td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td> </td>
+   <td>  </td>
    <td>行銷活動 — 容納所有智慧行銷活動</td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td> </td>
+   <td>  </td>
    <td>報告</td>
   </tr>
  </tbody>
@@ -155,7 +155,7 @@ ht-degree: 8%
    * 保留兩個範本
    * 取代現有的範本 — _建議_
 
-## 最佳實務 {#best-practices}
+## 最佳做法 {#best-practices}
 
 * 匯入網路研討會計畫後，將表單從本機資產移至位於Design Studio中的全域資產。
    * 減少Design Studio的表單數量並運用更多全域資產，可讓您的程式設計和管理管理擁有更多擴充性。 此外，欄位、選擇加入語言等的定期合規性更新也有彈性。

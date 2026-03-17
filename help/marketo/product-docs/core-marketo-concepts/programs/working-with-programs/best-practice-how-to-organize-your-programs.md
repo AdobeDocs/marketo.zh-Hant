@@ -1,12 +1,12 @@
 ---
 unique-page-id: 6848705
-description: 最佳實務 — 如何組織您的程式 — Marketo檔案 — 產品檔案
+description: 取得組織計畫的最佳實務說明。 建構行銷活動資料夾和計畫以清楚明瞭並達到規模。
 title: 最佳實務 — 如何組織您的計畫
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '847'
+source-wordcount: '854'
 ht-degree: 3%
 
 ---
@@ -121,4 +121,4 @@ Marketo最酷的功能之一是復製程式。 這表示您可以設定方案「
 
 ## 摘要 {#summary}
 
-如您所見，Marketo可提供強大的功能。 我們在這裡介紹了基本知識，但請考慮來自[Marketo Engage專家](https://business.adobe.com/tw/products/marketo/services-support.html){target="_blank"}的其他服務，以進行微調並為您做好成功準備。
+如您所見，Marketo可提供強大的功能。 我們在這裡介紹了基本知識，但請考慮來自[Marketo Engage專家](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}的其他服務，以進行微調並為您做好成功準備。

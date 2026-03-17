@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147114
-description: 程式成員自訂欄位權杖 — Marketo檔案 — 產品檔案
+description: 瞭解方案成員自訂欄位權杖。 使用權杖將成員資料插入電子郵件和登入頁面。
 title: 方案成員自訂欄位權杖
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 feature: Tokens
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '422'
 ht-degree: 5%
 
 ---
@@ -53,7 +53,7 @@ PMCF權杖將在權杖系列的成員網域下受到支援。
 >
 >別忘了核准您的電子郵件。
 
-**登陸頁面**
+**登錄頁面**
 
 1. 選取您的登陸頁面，然後按一下&#x200B;**[!UICONTROL Edit Draft]**。
 

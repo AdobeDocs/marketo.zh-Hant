@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953188
-description: 推斷的篩選器 — Marketo檔案 — 產品檔案
+description: 瞭解智慧清單中推斷的篩選器。 瞭解Marketo如何推斷連結資產的篩選器。
 title: 推斷篩選器
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '218'
 ht-degree: 1%
 
 ---

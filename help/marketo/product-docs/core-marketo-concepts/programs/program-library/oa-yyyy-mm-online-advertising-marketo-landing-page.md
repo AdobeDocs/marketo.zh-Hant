@@ -1,12 +1,12 @@
 ---
-description: OA-YYYY-MM-Online Advertising Marketo登陸頁面 — Marketo檔案 — 產品檔案
+description: 線上Advertising Marketo登陸頁面計畫範本。 將其用於包含Marketo頁面的付費行銷活動。
 title: OA-YYYY-MM-線上廣告 Marketo 登陸頁面
 feature: Programs
 exl-id: f7f17792-cc16-4a99-8683-68796770e42c
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '485'
-ht-degree: 8%
+source-wordcount: '491'
+ht-degree: 9%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 8%
 
 此為線上廣告追蹤程式的範例，包含具有登錄檔單的Marketo登陸頁面，且使用Marketo預設程式。 優惠連結可顯示在感謝頁面上、以感謝電子郵件傳送或兩者皆顯示。
 
-如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/tw/customers/consulting-services/main.html){target="_blank"}頁面。
+如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}頁面。
 
 ## 頻道摘要 {#channel-summary}
 
@@ -47,7 +47,7 @@ ht-degree: 8%
   </tr>
   <tr>
    <td>表單</td>
-   <td> </td>
+   <td>  </td>
    <td>FM-Content註冊</td>
   </tr>
   <tr>
@@ -67,43 +67,43 @@ ht-degree: 8%
   </tr>
    <tr>
    <td>本地報告</td>
-   <td> </td>
+   <td>  </td>
    <td>電子郵件效能</td>
   </tr>
   <tr>
    <td>本地報告</td>
-   <td> </td>
+   <td>  </td>
    <td>登陸頁面績效</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>00 — 擷取贏取計畫</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>01 — 填寫表單</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>02 — 參與（計畫成功）</td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td> </td>
+   <td>  </td>
    <td>Assets — 容納所有創意資產
 <br/>（電子郵件和登陸頁面的子資料夾）  </td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td> </td>
+   <td>  </td>
    <td>行銷活動 — 包含所有Smart Campaigns</td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td> </td>
+   <td>  </td>
    <td>報告</td>
   </tr>
  </tbody>
@@ -121,7 +121,7 @@ ht-degree: 8%
    <th>價值</th>
   </tr>
   <tr>
-   <td>RTF文字</td>
+   <td>RTF 文字</td>
    <td><code>{{my.Content-Description}}</code></td>
    <td>按兩下以取得詳細資訊
 <br/><code><--My Content Description Here--></code>
@@ -191,7 +191,7 @@ ht-degree: 8%
 
 衝突規則的熒幕擷圖
 
-## 最佳實務 {#best-practices}
+## 最佳做法 {#best-practices}
 
 * 匯入內容程式後，將表單從本機資產移至位於Design Studio中的全域資產。
    * 減少Design Studio的表單數量並運用更多全域資產，可讓您的程式設計和管理管理擁有更多擴充性。 此外，欄位、選擇加入語言等的定期合規性更新也有彈性。

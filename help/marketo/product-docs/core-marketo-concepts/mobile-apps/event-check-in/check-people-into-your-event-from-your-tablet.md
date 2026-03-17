@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949839
-description: 透過平板電腦將人員登記到您的活動中 — Marketo檔案 — 產品檔案
+description: 瞭解如何透過平板電腦將人們加入您的活動。 使用「事件簽入」應用程式來掃描和簽入出席者。
 title: 使用平板電腦讓人員進行事件簽到
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '818'
+source-wordcount: '828'
 ht-degree: 2%
 
 ---

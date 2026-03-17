@@ -1,20 +1,20 @@
 ---
-description: 事件簽入總覽
-title: 事件簽入總覽
+description: 瞭解使用平板電腦簽入客戶的「事件簽入」 。 使用簽入應用程式來管理事件註冊。
+title: 事件簽到概觀
 exl-id: aae09cd8-5f8f-48c7-9d26-63c8345445d0
 feature: Mobile Marketing
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '272'
-ht-degree: 0%
+source-wordcount: '288'
+ht-degree: 4%
 
 ---
 
-# 事件簽入總覽 {#event-check-in-overview}
+# 事件簽到概觀 {#event-check-in-overview}
 
 >[!IMPORTANT]
 >
->2023年10月2日，Adobe從所有應用程式商店移除Marketo事件應用程式。 如果您的平板電腦/行動裝置上已安裝應用程式，目前可繼續使用。 一旦您的Marketo Engage執行個體移轉至Adobe身分以驗證Marketo，您將無法再存取應用程式。 [深入瞭解](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}。
+>2023年10月2日，Adobe從所有應用程式商店移除Marketo事件應用程式。 如果您的平板電腦/行動裝置上已安裝應用程式，目前可繼續使用。 一旦您的Marketo Engage執行個體移轉至Adobe Identity以驗證Marketo，您將無法再存取應用程式。 [了解更多](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}。
 
 適用於[!DNL iPad]或[!DNL Android]平板電腦的Marketo Events應用程式可讓您在人員到達您的活動時立即輕鬆簽到。
 
@@ -24,11 +24,11 @@ ht-degree: 0%
 
 祝您活動順利！
 
-## 準備您的活動
+## 為您的事件做好準備
 
 在事件之前：
 
-* [為事件的[!DNL iPad]或[!DNL Android]個使用者建立新的Marketo角色](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md){target="_blank"}
+* [為事件的](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md){target="_blank"}或[!DNL iPad]個使用者建立新的Marketo角色[!DNL Android]
 * [邀請新的Tablet使用者參加活動](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md){target="_blank"}，並將新角色指派給他們
 * [建立新的Marketo活動方案](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md){target="_blank"}
 * 指定事件日期

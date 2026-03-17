@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720779
-description: 瞭解資料夾 — Marketo檔案 — 產品檔案
+description: 瞭解用於組織Smart Campaigns和資產的方案內的資料夾。 建立、重新命名和刪除資料夾。
 title: 了解資料夾
 exl-id: 2ea914f6-ca64-4e87-806c-93beba075ab2
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '252'
-ht-degree: 4%
+source-wordcount: '262'
+ht-degree: 8%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 4%
 
 您可以改變心意。
 
-1. 在資料夾上按一下滑鼠右鍵，然後選取&#x200B;**[!UICONTROL Rename Folder]**。
+1. 以滑鼠右鍵按一下資料夾，然後選取 **[!UICONTROL Rename Folder]**。
 
    ![](assets/image2015-4-20-18-3a49-3a10.png)
 
@@ -48,7 +48,7 @@ ht-degree: 4%
 >
 >在刪除資料夾之前，請確定資料夾是空的。
 
-1. 在資料夾上按一下滑鼠右鍵，然後選取&#x200B;**[!UICONTROL Delete Folder]**。
+1. 以滑鼠右鍵按一下資料夾，然後選取 **[!UICONTROL Delete Folder]**。
 
    ![](assets/image2015-4-20-18-3a55-3a51.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146933
-description: 立即執行批次智慧行銷活動 | 排程索引標籤 — Marketo檔案 — 產品檔案
+description: 瞭解如何立即從「排程」索引標籤執行批次Smart Campaign。 立即執行行銷活動，而非排程。
 title: 立即執行批次智慧行銷活動 | 排程索引標籤
 exl-id: a9014ab4-12a4-44ae-a361-72f95bb62e27
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 16%
+source-wordcount: '105'
+ht-degree: 15%
 
 ---
 

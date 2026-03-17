@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147122
-description: 管理和檢視成員 — Marketo檔案 — 產品檔案
+description: 瞭解如何管理和檢視方案成員。 檢視您的程式中的人員，並管理成員狀態和資料。
 title: 管理和檢視成員
 exl-id: 8d6ad815-4022-4d4b-a258-2bc048ca48f9
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '250'
 ht-degree: 5%
 
 ---

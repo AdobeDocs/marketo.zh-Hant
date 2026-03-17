@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147116
-description: 管理我的Token - Marketo檔案 — 產品檔案
+description: 瞭解如何在程式中管理我的Token。 建立並使用權杖，個人化方案內容和電子郵件。
 title: 管理我的權杖
 exl-id: a2e70c17-a8d4-4723-ac7c-da1979828dc9
 feature: Tokens
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 4%
+source-wordcount: '209'
+ht-degree: 5%
 
 ---
 
@@ -71,7 +71,7 @@ ht-degree: 4%
 
    ![](assets/edit-a-my-token-1.png)
 
-1. 進行您想要的編輯。 完成時，按一下&#x200B;**[!UICONTROL Save]**。
+1. 進行您想要的編輯。 完成後請按一下 **[!UICONTROL Save]**。
 
    ![](assets/edit-a-my-token-2.png)
 

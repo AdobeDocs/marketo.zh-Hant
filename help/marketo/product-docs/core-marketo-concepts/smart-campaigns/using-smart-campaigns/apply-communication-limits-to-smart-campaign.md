@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147064
-description: 將通訊限制套用至Smart Campaign - Marketo檔案 — 產品檔案
+description: 瞭解如何將通訊限制套用至Smart Campaign。 限制人們可以透過行銷活動執行多少電子郵件或次數。
 title: 於智慧行銷活動套用通訊限制
 exl-id: b33885ba-6811-47ab-9db9-099d35ca49df
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 9%
+source-wordcount: '137'
+ht-degree: 8%
 
 ---
 

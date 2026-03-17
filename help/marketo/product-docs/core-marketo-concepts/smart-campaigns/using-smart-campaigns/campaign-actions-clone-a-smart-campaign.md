@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146989
-description: 行銷活動動作 — 複製智慧型行銷活動 — Marketo檔案 — 產品檔案
+description: 瞭解如何複製智慧型行銷活動。 建立行銷活動的復本，以使用新名稱重複使用其結構。
 title: 促銷活動動作 — 複製智慧型促銷活動
 exl-id: 47441923-5a6a-4a9e-9753-85959bd3744f
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 7%
+source-wordcount: '89'
+ht-degree: 6%
 
 ---
 

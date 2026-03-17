@@ -1,14 +1,14 @@
 ---
-description: 來自人員詳細資料頁面的單一流程動作 — Marketo檔案 — 產品檔案
+description: 瞭解如何從人員詳細資料頁面執行單一流程動作。 依需求對個人執行一個流程步驟。
 title: 來自人員詳細資料頁面的單一流程動作
 hide: true
 hidefromtoc: true
 exl-id: 3eeb7724-a502-4ea5-a57b-29d03133402f
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 12%
+source-wordcount: '127'
+ht-degree: 11%
 
 ---
 

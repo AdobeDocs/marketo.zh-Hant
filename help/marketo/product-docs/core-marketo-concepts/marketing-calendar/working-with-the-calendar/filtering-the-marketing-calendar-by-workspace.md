@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147306
-description: 依Workspace篩選行銷行事曆 — Marketo檔案 — 產品檔案
+description: 瞭解如何依工作區篩選行銷行事曆。 從篩選面板僅檢視在特定工作區中建置的物件。
 title: 按照工作區篩選行銷行事曆
 exl-id: 3f1259dd-a42d-4d9b-b2ba-1f1060f8dae6
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 17%
+source-wordcount: '78'
+ht-degree: 15%
 
 ---
 

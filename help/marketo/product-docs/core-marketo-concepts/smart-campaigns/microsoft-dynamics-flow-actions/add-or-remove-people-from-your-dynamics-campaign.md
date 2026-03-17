@@ -1,11 +1,11 @@
 ---
-description: 新增或移除您 [!DNL Dynamics] 行銷活動中的人員 — Marketo檔案 — 產品檔案
+description: 瞭解如何透過流程步驟在Microsoft Dynamics行銷活動中新增或移除人員。 同步Marketo與Dynamics行銷活動。
 title: 從您的 [!DNL Dynamics] 行銷活動新增或移除人員
 exl-id: 4fea2f7c-0655-4816-8640-76878f760b6e
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '322'
 ht-degree: 0%
 
 ---

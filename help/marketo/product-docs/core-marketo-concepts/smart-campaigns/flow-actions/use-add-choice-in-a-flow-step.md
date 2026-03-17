@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146980
-description: 在流程步驟中使用新增選擇 — Marketo檔案 — 產品檔案
+description: 瞭解如何在流程步驟中使用新增選擇。 使用選擇邏輯根據條件分支您的行銷活動流程。
 title: 在流程步驟中使用新增選擇
 exl-id: 50ffcd60-48ee-4341-94d8-170c63bc9ecb
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 7%
+source-wordcount: '201'
+ht-degree: 6%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 8783559
-description: 分享瞬間 — Marketo檔案 — 產品檔案
+description: 瞭解如何從Marketo分享時刻應用程式。 傳送重要深入分析或動作給同事。
 title: 分享重要時刻
 exl-id: e149f8d8-1405-43d2-aa0b-900796328a92
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '154'
 ht-degree: 5%
 
 ---

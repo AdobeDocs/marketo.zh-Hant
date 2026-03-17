@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953362
-description: 直接在行銷行事曆中確認專案 — Marketo檔案 — 產品檔案
+description: 瞭解如何在行銷行事曆中確認暫時性的Smart Campaign和電子郵件方案專案。 執行驗證並確認，以便行銷活動執行。
 title: 直接在行銷行事曆中確認條目
 exl-id: f0074982-0cdc-44b9-b6f9-eb47407aba58
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 19%
+source-wordcount: '94'
+ht-degree: 17%
 
 ---
 

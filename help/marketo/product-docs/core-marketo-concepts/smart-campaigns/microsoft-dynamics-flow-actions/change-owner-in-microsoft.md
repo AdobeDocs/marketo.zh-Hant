@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37356426
-description: 在Microsoft中變更擁有者 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用流程步驟變更Microsoft Dynamics中的擁有者。 當人員進入流程時，指定新的擁有者。
 title: 在 Microsoft 中變更所有者
 exl-id: d17cfb70-1d78-48e9-8e53-99a7abd5a647
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 9%
+source-wordcount: '104'
+ht-degree: 8%
 
 ---
 

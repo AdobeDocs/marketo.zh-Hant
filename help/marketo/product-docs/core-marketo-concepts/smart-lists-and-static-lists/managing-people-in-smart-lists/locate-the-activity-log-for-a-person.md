@@ -1,13 +1,13 @@
 ---
 unique-page-id: 5472404
-description: 找出人員的活動記錄 — Marketo檔案 — 產品檔案
+description: 瞭解如何尋找個人的活動記錄。 檢視潛在客戶的電子郵件、網頁和其他活動歷史記錄。
 title: 尋找人員的活動記錄
 exl-id: c4018711-e68d-4684-ac3d-a5e10b138a86
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 15%
+source-wordcount: '131'
+ht-degree: 14%
 
 ---
 

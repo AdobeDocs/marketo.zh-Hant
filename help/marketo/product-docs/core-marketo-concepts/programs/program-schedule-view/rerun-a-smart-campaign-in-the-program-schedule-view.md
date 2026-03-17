@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953331
-description: 在方案排程檢視中重新執行Smart Campaign - Marketo檔案 — 產品檔案
+description: 瞭解如何從方案排程檢視重新執行Smart Campaign。 依需求再次執行批次行銷活動。
 title: 在方案排程視圖中重新執行智慧行銷活動
 exl-id: 59ef61f5-cd7d-440e-afcf-54a79d1225ae
 feature: Programs, Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 13%
+source-wordcount: '139'
+ht-degree: 14%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 13%
 
 您可以直接從方案排程檢視，輕鬆建立現有Smart Campaign的新執行。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-3.png)
 

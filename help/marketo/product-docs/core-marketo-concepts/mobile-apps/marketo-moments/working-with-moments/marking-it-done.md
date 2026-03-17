@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8783557
-description: 將其標籤為完成 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo時刻應用程式中將時刻標示為完成。 完成時從清單中清除專案。
 title: 標記為完成
 exl-id: 0abac320-da3b-4ab8-a1ce-28e5e17f4d15
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 6%
+source-wordcount: '146'
+ht-degree: 5%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147082
-description: 刪除人員 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用流程步驟從資料庫刪除人員。 從Marketo中移除符合條件的人員。
 title: 刪除人員
 exl-id: 40039444-9b2a-4b80-93bc-7da3d6e9475c
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '127'
 ht-degree: 3%
 
 ---

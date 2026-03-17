@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11387513
-description: 建立靜態清單 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo中建立靜態清單。 新增清單至資料庫，並手動或匯入新增人員。
 title: 建立靜態清單
 exl-id: 93560d2a-6b36-4660-99b3-dd6209032fb0
 feature: Static Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '109'
 ht-degree: 13%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 13%
 
 靜態清單是資料庫中已有的一組人員。 以下說明如何建立一個。
 
-1. 移至&#x200B;**[!UICONTROL Database]**。
+1. 前往 **[!UICONTROL Database]**。
 
    ![](assets/db.png)
 

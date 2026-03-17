@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146950
-description: 等待 — Marketo檔案 — 產品檔案
+description: 瞭解智慧行銷活動中的等待流程步驟。 在繼續之前，請暫停流量一段期間或直到特定日期。
 title: 等待
 exl-id: 58f43c4b-6f20-4740-9a25-e09c7ea31dcf
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 15%
+source-wordcount: '205'
+ht-degree: 14%
 
 ---
 

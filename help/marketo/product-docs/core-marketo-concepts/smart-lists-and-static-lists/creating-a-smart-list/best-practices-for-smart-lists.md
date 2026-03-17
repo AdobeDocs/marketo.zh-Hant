@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7512524
-description: 智慧列示的最佳實務 — Marketo檔案 — 產品檔案
+description: 取得智慧列示最佳實務的說明。 使用這些秘訣建立更快、更準確的清單。
 title: 智慧清單的最佳做法
 exl-id: 466de198-1012-4ac3-906c-d41943fe5bc0
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '566'
+source-wordcount: '574'
 ht-degree: 1%
 
 ---

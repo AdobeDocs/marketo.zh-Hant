@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146931
-description: 建立新的Smart Campaign - Marketo檔案 — 產品檔案
+description: 瞭解如何建立新的智慧行銷活動。 設定觸發器或智慧列示，並新增流程步驟以自動化動作。
 title: 建立新的智慧行銷活動
 exl-id: c24ef00a-1f5c-4d0f-a7ff-131dcb593119
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 8%
+source-wordcount: '126'
+ht-degree: 9%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 8%
 >
 >深入瞭解[智慧行銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/create-a-new-smart-campaign-1.png)
 
@@ -39,5 +39,5 @@ ht-degree: 8%
 
    >[!MORELIKETHIS]
    >
-   >* [定義智慧行銷活動的智慧清單 | 批次](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}
-   >* [定義智慧行銷活動的智慧清單 | 觸發器](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
+   >* [為Smart Campaign定義智慧清單|批次](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}
+   >* [為Smart Campaign定義智慧清單|觸發器](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}

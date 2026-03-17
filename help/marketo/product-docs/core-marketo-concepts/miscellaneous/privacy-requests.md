@@ -1,11 +1,11 @@
 ---
-description: 隱私權請求 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo中管理存取和刪除的隱私權請求。 透過Privacy Service UI或API提交請求，並處理消費者資料。
 title: 隱私請求
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: 245e8b2b25a7c51e8e46ace31e189a6132a9ada7
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '335'
-ht-degree: 16%
+source-wordcount: '353'
+ht-degree: 15%
 
 ---
 
@@ -21,11 +21,11 @@ ht-degree: 16%
 >
 >**或 —**
 >
->* Marketo Engage使用者使用Adobe Identity Management System中已存在的其他Experience Cloud產品(例如RT-CDP、B2B和B2P版本、Audience Manager)。
+>* Marketo Engage使用者使用Adobe Identity Management System中已存在的其他Experience Cloud產品（例如RT-CDP、B2B和B2P版本、Audience Manager）。
 
 您可以透過兩種方式提交存取和刪除Marketo Engage中消費者資料的個別請求：
 
-* 透過Privacy Service UI： `https://experience.adobe.com/#/@YOURCOMPANYNAME/privacy`。 請參閱[此處](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=zh-Hant){target="_blank"}的文件。
+* 透過Privacy Service UI： `https://experience.adobe.com/#/@YOURCOMPANYNAME/privacy`。 請參閱[此處](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html){target="_blank"}的文件。
 * 透過Privacy Service API。 請參閱[此處](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"}的文件與[此處](https://developer.adobe.com/experience-platform-apis/){target="_blank"}的 API 資訊。
 
 [Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=zh-Hant){target="_blank"}支援兩種請求：資料存取和資料刪除。
@@ -41,7 +41,7 @@ ht-degree: 16%
    a. IMS組織ID<br/>
 b.您要對其採取動作之人員的電子郵件地址
 
-   IMS 組織 ID 是 24 個字元的英數字串，通常會加上 @AdobeOrg。如果您的行銷團隊或內部Adobe系統管理員不知道您組織的IMS組織ID，請透過`gdprsupport@adobe.com`聯絡Adobe客戶服務。 您需先取得 IMS 組織 ID，才能向隱私權 API 提交請求。
+   IMS 組織 ID 是 24 個字元的英數字串，通常會加上 @AdobeOrg。 如果您的行銷團隊或內部Adobe系統管理員不知道您組織的IMS組織ID，請透過`gdprsupport@adobe.com`聯絡Adobe客戶服務。 您需先取得 IMS 組織 ID，才能向隱私權 API 提交請求。
 
 1. 在Privacy Service中，您可以將存取和刪除請求提交至Marketo Engage，並檢查現有請求的狀態。
 
@@ -62,7 +62,7 @@ b.您要對其採取動作之人員的電子郵件地址
 
 &quot;include&quot;：
 
-* **marketo** (適用於此請求的Adobe產品)
+* **marketo** （適用於此請求的Adobe產品）
 
 &quot;regulation&quot;：
 

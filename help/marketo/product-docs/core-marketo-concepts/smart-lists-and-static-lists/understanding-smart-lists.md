@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557130
-description: 瞭解智慧清單 — Marketo檔案 — 產品檔案
+description: 瞭解在Marketo中尋找具有篩選器之人員群組的智慧清單。 在行銷活動、方案和報表中建立並使用智慧列示。
 title: 了解智慧清單
 exl-id: 8b7fd845-96d8-4b53-9ad0-118cf55be24a
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '225'
 ht-degree: 2%
 
 ---

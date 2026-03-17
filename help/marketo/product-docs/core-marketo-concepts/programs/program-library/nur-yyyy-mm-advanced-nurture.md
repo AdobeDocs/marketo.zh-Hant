@@ -1,11 +1,11 @@
 ---
-description: NUR-YYYY-MM-Advanced Nurture - Marketo檔案 — 產品檔案
+description: 進階Nurture計畫範本。 請使用命名慣例進行多串流培養。
 title: NUR-YYYY-MM-進階培養
 feature: Programs
 exl-id: bd9c6605-a13f-4c73-aaa8-eca43cfcc950
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '497'
 ht-degree: 10%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 10%
 
 這是運用Marketo Engage參與計畫的進階Nurture計畫範例。 巢狀電子郵件程式會防止使用者接收他們已使用的內容，或控制他們應在每個資料流中使用的內容型別。 歸因報表可針對每個個別巢狀電子郵件程式執行。 管道： 「Nurture」以及巢狀電子郵件計畫的專用「Nurture電子郵件」管道會利用Marketo Engage電子郵件計畫傳送一封電子報電子郵件。 電子郵件可以包含或不包含A/B測試。
 
-如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/tw/customers/consulting-services/main.html){target="_blank"}頁面。
+如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}頁面。
 
 ## 頻道摘要 {#channel-summary}
 
@@ -55,17 +55,17 @@ ht-degree: 10%
   </tr>
    <tr>
    <td>巢狀方案</td>
-   <td> </td>
+   <td>  </td>
    <td>01 — 主題X</td>
   </tr>
   <tr>
    <td>巢狀方案</td>
-   <td> </td>
+   <td>  </td>
    <td>02 — 主題Y</td>
   </tr>
   <tr>
    <td>巢狀方案</td>
-   <td> </td>
+   <td>  </td>
    <td>03 — 主題Z</td>
   </tr>
   <tr>
@@ -85,68 +85,68 @@ ht-degree: 10%
   </tr>
   <tr>
    <td>本地報告</td>
-   <td> </td>
+   <td>  </td>
    <td>電子郵件效能</td>
   </tr>
   <tr>
    <td>本地報告</td>
-   <td> </td>
+   <td>  </td>
    <td>電子郵件連結效能</td>
   </tr>
   <tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>01 — 加入Nurture</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>02 — 暫停Nurture</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>03 — 繼續培養</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>04 — 參與（計畫成功）</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>00 — 略過電子郵件（位於每個巢狀方案中）</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>01 — 傳送電子郵件（位於每個巢狀方案）</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td> </td>
+   <td>  </td>
    <td>02 — 參與成功（位於每個巢狀方案中）</td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td> </td>
+   <td>  </td>
    <td>Assets （包含巢狀程式和資產資料夾也位於巢狀程式中以包含電子郵件）</td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td> </td>
-   <td>巢狀程式(位於Assets資料夾下)</td>
+   <td>  </td>
+   <td>巢狀程式（位於Assets資料夾下）</td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td> </td>
+   <td>  </td>
    <td>行銷活動 — 在上層Nurture方案中容納所有智慧行銷活動，行銷活動資料夾也位於每個巢狀方案中</td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td> </td>
+   <td>  </td>
    <td>報告</td>
   </tr>
  </tbody>
@@ -199,7 +199,7 @@ ht-degree: 10%
    * 保留兩個範本
    * 取代現有的範本 — _建議_
 
-## 最佳實務 {#best-practices}
+## 最佳做法 {#best-practices}
 
 * 請考慮更新您匯入的程式中的範本，以使用目前品牌的範本，或更新新匯入的範本，以透過新增程式碼片段或適當的標誌/頁尾資訊來反映您的品牌。
 

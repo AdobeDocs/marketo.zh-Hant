@@ -1,11 +1,11 @@
 ---
-description: 預測性篩選器 — Marketo檔案 — 產品檔案
+description: 瞭解預測性篩選器，以透過AI鎖定對象。 在智慧列示和行銷活動中使用篩選器來聯絡合適的人員。
 title: 預測篩選器
 exl-id: 27736b80-cd8b-455d-9d73-c17d492d0906
 feature: Predictive Audiences
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: '423'
 ht-degree: 0%
 
 ---

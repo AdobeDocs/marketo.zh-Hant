@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146940
-description: 定義Smart Campaign的智慧清單 | 批次 — Marketo檔案 — 產品檔案
+description: 瞭解如何為批次Smart Campaign定義智慧清單。 選擇使用篩選器進入行銷活動的人員。
 title: 定義智慧行銷活動的智慧清單 | 批次
 exl-id: 0e0061a9-df24-4cf6-8f1e-09ff0ee62efa
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '273'
-ht-degree: 5%
+source-wordcount: '281'
+ht-degree: 4%
 
 ---
 
@@ -51,9 +51,9 @@ ht-degree: 5%
    >
    >依預設，符合所有「智慧列示」規則的人皆為合格者。 您可修改以符合行銷活動需求。 如需瞭解詳細資訊，請參閱複雜邏輯的[智慧清單規則](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md){target="_blank"}。
 
-   若要一次觸發一個人的即時事件，瞭解如何[為Smart Campaign定義智慧清單 | 觸發器](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}。
+   若要一次觸發一個人的即時事件，瞭解如何[為Smart Campaign定義智慧清單|觸發器](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}。
 
    >[!MORELIKETHIS]
    >
-   >* [定義智慧行銷活動的智慧清單 | 觸發器](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
+   >* [為Smart Campaign定義智慧清單|觸發器](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
    >* [將流程步驟新增至Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}

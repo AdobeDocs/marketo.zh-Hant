@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146968
-description: 檢視Smart Campaign結果 — Marketo檔案 — 產品檔案
+description: 瞭解如何檢視Smart Campaign結果。 檢視誰符合資格、執行了流程以及採取了哪些動作。
 title: 檢視智慧行銷活動結果
 exl-id: a883b2da-fbce-49f9-b18d-d75a90bd9c51
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '124'
 ht-degree: 8%
 
 ---

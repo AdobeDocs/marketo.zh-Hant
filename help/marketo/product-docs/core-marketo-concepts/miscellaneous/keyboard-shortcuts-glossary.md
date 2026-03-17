@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147318
-description: 鍵盤快速鍵字彙表 — Marketo檔案 — 產品檔案
+description: 取得有關Marketo鍵盤快速鍵的協助，以進行區域導覽、行事曆等。 使用捷徑在Marketo Engage中更快速移動。
 title: 鍵盤快速鍵字彙表
 exl-id: ca85bd0f-5ed3-4ae2-a20b-ef3151609f83
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 17%
+source-wordcount: '127'
+ht-degree: 15%
 
 ---
 

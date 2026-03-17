@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557275
-description: 使用內建/系統智慧清單 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用內建和系統智慧清單。 使用預先建立的清單，例如行銷活動中的「所有人員」或「所有已取消訂閱」。
 title: 使用內建/系統智慧清單
 exl-id: f4db0e02-2250-4c56-ba74-f9fa8a5b9c11
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '199'
 ht-degree: 7%
 
 ---

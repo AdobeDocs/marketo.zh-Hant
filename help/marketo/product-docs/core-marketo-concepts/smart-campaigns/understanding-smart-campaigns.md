@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953120
-description: 了解智慧行銷活動 - Marketo 文件 - 產品文件
+description: 瞭解Marketo中用於自動化的Smart Campaigns。 使用觸發器和流程步驟來自動化潛在客戶培養和動作。
 title: 了解智慧行銷活動
 exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '249'
-ht-degree: 100%
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+workflow-type: tm+mt
+source-wordcount: '261'
+ht-degree: 92%
 
 ---
 

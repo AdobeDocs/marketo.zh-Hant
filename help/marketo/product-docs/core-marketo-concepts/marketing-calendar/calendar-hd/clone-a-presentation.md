@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504058
-description: 複製簡報 — Marketo檔案 — 產品檔案
+description: 瞭解如何複製行銷行事曆簡報以供重複使用。 建立要在不同位置使用的精確副本。
 title: 原地複製簡報
 exl-id: be013e38-734c-41d7-8623-e8f267b2799c
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 11%
+source-wordcount: '63'
+ht-degree: 9%
 
 ---
 
