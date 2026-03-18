@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352597
-description: 新增超連結文字 — Marketo檔案 — 產品檔案
+description: 瞭解如何將超連結文字新增至Sales Connect範本。 插入可追蹤連結，並在範本編輯器中設定其樣式。
 title: 新增附有超連結的文字
 exl-id: 29df5688-d6f5-4a75-9a3e-fc68f0f2b45a
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '45'
-ht-degree: 15%
+source-wordcount: '59'
+ht-degree: 11%
 
 ---
 

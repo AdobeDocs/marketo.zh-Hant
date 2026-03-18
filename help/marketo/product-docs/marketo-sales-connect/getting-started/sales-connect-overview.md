@@ -1,12 +1,12 @@
 ---
 unique-page-id: 13796464
-description: Sales Connect概述 — Marketo檔案 — 產品檔案
+description: 瞭解Marketo Sales Connect以及它如何在整個銷售週期推動參與度。 使用即時摘要、人員詳細資料和行銷活動，將銷售與行銷連結起來。
 title: Sales Connect 概觀
 exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '254'
 ht-degree: 9%
 
 ---

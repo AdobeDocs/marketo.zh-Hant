@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352472
-description: 編輯Salesforce欄位協助工具 — Marketo檔案 — 產品檔案
+description: 瞭解如何編輯Sales Connect的Salesforce欄位協助工具。 控制Sales Connect可在Salesforce中讀取或寫入的欄位。
 title: 編輯 Salesforce 欄位可存取性
 exl-id: e4ef29c8-f6ab-4dca-b56e-907c7d2e5263
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 7%
+source-wordcount: '123'
+ht-degree: 6%
 
 ---
 

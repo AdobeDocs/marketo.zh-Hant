@@ -1,13 +1,13 @@
 ---
 unique-page-id: 18317338
-description: 封鎖的網域 — Marketo檔案 — 產品檔案
+description: 瞭解如何封鎖Sales Connect中的網域，以防止傳送電子郵件給競爭對手或垃圾郵件陷阱。
 title: 已封鎖的網域
 exl-id: 67e27112-8ade-4167-9c58-8a6839bdb6cc
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 4%
+source-wordcount: '97'
+ht-degree: 7%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 1. 在網頁應用程式中，按一下齒輪圖示並選取&#x200B;**[!UICONTROL Settings]**。
 

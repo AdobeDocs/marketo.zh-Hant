@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352618
-description: 建立行銷活動 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用電子郵件、通話、InMail和自訂工作步驟來建立Sales Connect行銷活動。 在一個地方組織、安排和衡量外展活動。
 title: 建立行銷活動
 exl-id: 17952187-4d7e-469e-9ac8-c2611dfeac1f
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '285'
-ht-degree: 2%
+source-wordcount: '302'
+ht-degree: 3%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 2%
 
 那麼，如何設定行銷活動？
 
-1. 按一下「**[!UICONTROL Campaigns]**」標籤。
+1. 按一下「**[!UICONTROL Campaigns]**」索引標籤。
 
    ![](assets/one-1.png)
 
@@ -36,7 +36,7 @@ ht-degree: 2%
    >
    >按一下&#x200B;**旁的**+**[!UICONTROL Categories]**&#x200B;以建立新類別。
 
-1. 將會選取您選擇的類別。 如果您改變心意，請按一下下拉式清單並選取其他選項。 完成後，按一下「**[!UICONTROL &#x200B; Continue]**」。
+1. 將會選取您選擇的類別。 如果您改變心意，請按一下下拉式清單並選取其他選項。 完成後，按一下「**[!UICONTROL  Continue]**」。
 
    ![](assets/three-1.png)
 

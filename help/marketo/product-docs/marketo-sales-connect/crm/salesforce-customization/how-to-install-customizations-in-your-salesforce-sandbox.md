@@ -1,13 +1,13 @@
 ---
 unique-page-id: 15368208
-description: 如何在您的Salesforce沙箱中安裝自訂 — Marketo檔案 — 產品檔案
+description: 瞭解如何在您的Salesforce沙箱中安裝Sales Connect自訂。 將按鈕和欄位部署至沙箱以進行測試。
 title: 如何在 Salesforce 沙箱中安裝自訂功能
 exl-id: a3996a86-2a95-456c-96c2-b91b08fb9bc8
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 25%
+source-wordcount: '75'
+ht-degree: 26%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 25%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 >[!PREREQUISITES]
 >

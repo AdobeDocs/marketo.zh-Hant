@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352441
-description: 排程稍後日期的電子郵件 — Marketo檔案 — 產品檔案
+description: 瞭解如何從Gmail外掛程式排程稍後日期的電子郵件。 設定傳送時間，以便您追蹤的電子郵件在您想要時送出。
 title: 安排稍後傳送電子郵件
 exl-id: a3948f7d-c505-4e56-bf19-69d660c61740
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 10%
+source-wordcount: '145'
+ht-degree: 9%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 18317669
-description: Salesforce同步設定 — Marketo檔案 — 產品檔案
+description: 瞭解Sales Connect的Salesforce同步設定。 設定Sales Connect與Salesforce之間的聯絡人、活動和資料同步方式。
 title: Salesforce 同步設定
 exl-id: 024c60ac-569f-4051-9eee-1e8d00f7296c
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '358'
-ht-degree: 5%
+source-wordcount: '370'
+ht-degree: 8%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 5%
 
    ![](assets/two-2.png)
 
-1. 按一下「**[!UICONTROL Sync Settings]**」標籤。
+1. 按一下「**[!UICONTROL Sync Settings]**」索引標籤。
 
    ![](assets/three-1.png)
 
@@ -37,7 +37,7 @@ ht-degree: 5%
 
    ![](assets/four-1.png)
 
-1. 按一下「**[!UICONTROL Salesforce API]**」索引標籤。在此卡片中，您可以設定將資訊記錄到[!DNL Salesforce]的偏好設定。 完成時，按一下&#x200B;**[!UICONTROL Save]**。
+1. 按一下「**[!UICONTROL Salesforce API]**」索引標籤。在此卡片中，您可以設定將資訊記錄到[!DNL Salesforce]的偏好設定。 完成後請按一下 **[!UICONTROL Save]**。
 
    ![](assets/five.png)
 
@@ -59,7 +59,7 @@ ht-degree: 5%
 
    ![](assets/two-3.png)
 
-1. 按一下「**[!UICONTROL Sync Settings]**」標籤。
+1. 按一下「**[!UICONTROL Sync Settings]**」索引標籤。
 
    ![](assets/three-1.png)
 
@@ -103,7 +103,7 @@ ht-degree: 5%
 
    ![](assets/two-2.png)
 
-1. 按一下「**[!UICONTROL Sync Settings]**」標籤。
+1. 按一下「**[!UICONTROL Sync Settings]**」索引標籤。
 
    ![](assets/three-1.png)
 

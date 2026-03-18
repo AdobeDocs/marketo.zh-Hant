@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352631
-description: 合併和刪除重複類別 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Sales Connect中合併和刪除重複範本類別。 合併類別並移除重複專案。
 title: 合併及刪除重複類別
 exl-id: c57c54a6-565f-4723-9a93-9b193469bccd
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 10%
+source-wordcount: '81'
+ht-degree: 9%
 
 ---
 

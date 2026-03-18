@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352403
-description: 其他管理員 — Marketo檔案 — 產品檔案
+description: 瞭解Sales Connect中的其他管理員和團隊管理。
 title: 其他管理員
 exl-id: 57c0024b-6b36-4b1c-bcee-b1dbb9fdb57d
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '46'
+source-wordcount: '50'
 ht-degree: 8%
 
 ---

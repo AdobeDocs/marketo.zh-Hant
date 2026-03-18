@@ -1,11 +1,11 @@
 ---
-description: 將來電原因和來電結果記錄到Salesforce - Marketo檔案 — 產品檔案
+description: 瞭解如何從Sales Connect將來電原因和來電結果記錄到Salesforce。 請確定呼叫處置同步至正確的Salesforce欄位。
 title: 將通話原因和通話結果記錄至 Salesforce
 exl-id: b35acdc2-8ec7-4dec-92b8-58ba7a1ad858
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '426'
 ht-degree: 4%
 
 ---

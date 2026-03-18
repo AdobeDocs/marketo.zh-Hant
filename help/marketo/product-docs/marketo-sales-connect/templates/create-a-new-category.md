@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352638
-description: 建立新類別 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Sales Connect中建立新的範本類別。 依團隊的類別組織範本。
 title: 建立新類別
 exl-id: 0bb6b244-dfc9-442d-bf85-1535bbe00f8a
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '49'
-ht-degree: 16%
+source-wordcount: '59'
+ht-degree: 13%
 
 ---
 

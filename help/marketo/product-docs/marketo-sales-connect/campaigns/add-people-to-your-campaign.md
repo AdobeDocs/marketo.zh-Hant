@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352613
-description: 新增人員至您的行銷活動 — Marketo檔案 — 產品檔案
+description: 瞭解如何從Web應用程式、「人員」頁面或Gmail與Outlook，將人員新增至Sales Connect促銷活動。 預覽、編輯和排程第一個電子郵件步驟。
 title: 新增人員至您的行銷活動
 exl-id: ef88ee07-6d33-40aa-9b0b-ccef12829345
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '200'
 ht-degree: 5%
 
 ---

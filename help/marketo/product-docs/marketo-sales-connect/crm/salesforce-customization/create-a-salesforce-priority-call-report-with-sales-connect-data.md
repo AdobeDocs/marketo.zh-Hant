@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352470
-description: 使用Sales Connect資料建立Salesforce優先通話報告 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用Sales Connect資料建立Salesforce優先通話報告。 建置包含Sales Connect通話活動的報表。
 title: 使用 Sales Connect 資料建立 Salesforce 優先順序呼叫報告
 exl-id: eede4c34-d570-4dbc-beaf-6960cf80af89
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '164'
 ht-degree: 12%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14745611
-description: 新增至行銷活動 — Marketo檔案 — 產品檔案
+description: 瞭解如何從Sales Connect將個人或群組新增至Marketo行銷活動。 使用「人員」索引標籤和「行銷活動」選項來選擇工作區。
 title: 新增至行銷活動
 exl-id: d520d681-8415-4d48-896f-f213a8fabd11
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '279'
-ht-degree: 4%
+source-wordcount: '297'
+ht-degree: 6%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 4%
 
    ![](assets/four-3.png)
 
-1. 由於您正新增至行銷活動，請略過選取「寄件者」地址。 但您可以選擇新增更多連絡人。 如果您選擇這麼做，請按一下「**[!UICONTROL Individuals]**」並輸入它們。 完成時，按一下&#x200B;**[!UICONTROL Next]**。
+1. 由於您正新增至行銷活動，請略過選取「寄件者」地址。 但您可以選擇新增更多連絡人。 如果您選擇這麼做，請按一下「**[!UICONTROL Individuals]**」並輸入它們。 完成後請按一下 **[!UICONTROL Next]**。
 
    ![](assets/five-2.png)
 
@@ -77,7 +77,7 @@ ht-degree: 4%
 
    ![](assets/twelve.png)
 
-1. 由於您正新增至行銷活動，請略過選取「寄件者」地址。 但您可以選擇新增更多連絡人。 如果您選擇這麼做，請按一下「**[!UICONTROL Individuals]**」並輸入它們。 完成時，按一下&#x200B;**[!UICONTROL Next]**。
+1. 由於您正新增至行銷活動，請略過選取「寄件者」地址。 但您可以選擇新增更多連絡人。 如果您選擇這麼做，請按一下「**[!UICONTROL Individuals]**」並輸入它們。 完成後請按一下 **[!UICONTROL Next]**。
 
    ![](assets/thirteen.png)
 

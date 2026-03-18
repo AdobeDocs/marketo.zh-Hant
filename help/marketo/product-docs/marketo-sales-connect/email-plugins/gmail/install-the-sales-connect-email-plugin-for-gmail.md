@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352450
-description: 安裝適用於Gmail的Sales Connect電子郵件外掛程式 — Marketo檔案 — 產品檔案
+description: 瞭解如何安裝適用於Gmail的Sales Connect電子郵件外掛程式。 新增外掛程式以傳送追蹤的電子郵件，並使用Gmail中的範本。
 title: 安裝 Gmail 適用的 Sales Connect 電子郵件外掛程式
 exl-id: f1ca3cd9-aafb-4782-a1c2-07c6ad9ef4b0
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 19%
+source-wordcount: '94'
+ht-degree: 20%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 19%
 
    ![](assets/install-the-sales-connect-email-plugin-for-gmail-2.png)
 
-1. 按一下「**[!UICONTROL Plugins]**」標籤。
+1. 按一下「**[!UICONTROL Plugins]**」索引標籤。
 
    ![](assets/install-the-sales-connect-email-plugin-for-gmail-3.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352406
-description: 建立子團隊 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Sales Connect中建立子團隊及新增人員。 組織範本、行銷活動和群組。
 title: 建立子團隊
 exl-id: 47baa5ac-4598-4277-b656-e99cd6a3e17f
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 11%
+source-wordcount: '96'
+ht-degree: 13%
 
 ---
 
@@ -53,6 +53,6 @@ ht-degree: 11%
 
    ![](assets/eight.png)
 
-1. 完成時，按一下&#x200B;**[!UICONTROL Add To Teams]**。
+1. 完成後請按一下 **[!UICONTROL Add To Teams]**。
 
    ![](assets/nine.png)

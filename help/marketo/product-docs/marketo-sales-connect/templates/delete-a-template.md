@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352630
-description: 刪除範本 — Marketo檔案 — 產品檔案
+description: 瞭解如何刪除Sales Connect中的範本。 從帳戶或類別中移除您不再需要的範本。
 title: 刪除範本
 exl-id: b3b1be67-b12d-44a4-b290-cbb266f2c328
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 11%
+source-wordcount: '67'
+ht-degree: 13%
 
 ---
 
@@ -23,4 +23,4 @@ ht-degree: 11%
 
 1. 按一下右上方的功能表下拉式清單，然後按一下&#x200B;**[!UICONTROL Delete]**。
 
-1. 按一下&#x200B;**[!UICONTROL Delete]**&#x200B;確認。
+1. 按一下 **[!UICONTROL Delete]** 確認。

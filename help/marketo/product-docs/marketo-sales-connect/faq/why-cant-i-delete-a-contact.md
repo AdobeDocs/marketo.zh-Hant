@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352488
-description: 我為何刪除不了連絡人？ - Marketo 文件 - 產品文件
+description: 當您無法刪除Sales Connect中的連絡人時，請取得協助。 瞭解許可權及連絡人何時被鎖定無法刪除。
 title: 為什麼我無法刪除聯絡人？
 exl-id: 28218879-240e-450e-990d-1c2af0a74dc3
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 17%
+source-wordcount: '100'
+ht-degree: 12%
 
 ---
 

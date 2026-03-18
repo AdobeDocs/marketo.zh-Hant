@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352538
-description: 測試電子郵件未顯示為已檢視 — Marketo檔案 — 產品檔案
+description: 當測試電子郵件未在Sales Connect中顯示為已檢視時，取得協助。 疑難排解測試或預覽傳送的檢視追蹤。
 title: 測試電子郵件未顯示為已檢視
 exl-id: a97bf35c-6cc2-49d1-b8ab-7a434c4482b6
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '149'
 ht-degree: 8%
 
 ---

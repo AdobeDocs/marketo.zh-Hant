@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37356329
-description: 進階搜尋概觀 — Marketo檔案 — 產品檔案
+description: 瞭解Sales Connect Command Center中的進階搜尋。 依收件者、日期、行銷活動或其他篩選器尋找電子郵件和工作。
 title: 進階搜尋概觀
 exl-id: bb6e2c9f-b44a-43ba-94ae-ae30e182bcc8
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '389'
 ht-degree: 4%
 
 ---
@@ -53,7 +53,7 @@ ht-degree: 4%
 | **[!UICONTROL By Group]** | 依特定收件者群組篩選電子郵件。 |
 | **[!UICONTROL By Person]** | 依特定收件者篩選。 |
 
-**時間**
+**When**
 
 依建立日期、傳送日期、失敗日期或排程日期選擇。 可用選項會根據您選擇的電子郵件狀態而變更([!UICONTROL Sent]、[!UICONTROL Undelivered]、[!UICONTROL Pending])。
 

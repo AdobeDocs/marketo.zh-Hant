@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37356590
-description: 將Highspot內容新增至您的電子郵件 — Marketo檔案 — 產品檔案
+description: 瞭解如何將Highspot內容新增至您的Sales Connect電子郵件。 在撰寫視窗中插入可追蹤的Highspot連結和附件。
 title: 新增 Highspot 內容至您的電子郵件
 exl-id: a069d29a-46b6-4347-b474-df17b7595436
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '140'
 ht-degree: 4%
 
 ---

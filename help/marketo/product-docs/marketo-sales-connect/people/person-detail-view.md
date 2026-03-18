@@ -1,12 +1,12 @@
 ---
 unique-page-id: 13796475
-description: 個人詳細資料檢視 — Marketo檔案 — 產品檔案
+description: 瞭解Sales Connect中的人員詳細資料檢視。 從「人物」索引標籤存取聯絡人設定檔、歷程記錄和參與。
 title: 人員詳細資料視圖
 exl-id: 3f5ee34d-a21b-4862-80cc-cad921ca479e
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '284'
 ht-degree: 3%
 
 ---

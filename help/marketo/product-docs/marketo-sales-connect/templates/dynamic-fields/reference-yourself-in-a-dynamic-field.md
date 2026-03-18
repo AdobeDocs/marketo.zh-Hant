@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352601
-description: 在動態欄位中自我參照 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Sales Connect動態欄位中提及自己。 在範本個人化中使用寄件者的名稱或詳細資訊。
 title: 在動態欄位中參照您自己
 exl-id: 89d5ad5e-e699-451c-b399-f3cc7f554100
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 15%
+source-wordcount: '89'
+ht-degree: 13%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352489
-description: 未登入活動歷史記錄 — Marketo檔案 — 產品檔案
+description: 當Sales Connect活動未登入Salesforce活動歷程記錄時取得協助。 疑難排解「活動歷史記錄」中遺漏的呼叫或電子郵件。
 title: 未記錄至活動歷史記錄
 exl-id: 4870cd09-86d4-4dff-919c-0584bbc844d2
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 11%
+source-wordcount: '96'
+ht-degree: 10%
 
 ---
 

@@ -1,10 +1,10 @@
 ---
-description: 從Salesforce Lightning解除安裝Marketo Sales Connect - Marketo檔案 — 產品檔案
+description: 瞭解如何從Salesforce Lightning解除安裝Marketo Sales Connect。 從Lightning移除Sales Connect自訂專案和按鈕。
 title: 從 Salesforce Lightning 解除安裝 Marketo Sales Connect
 exl-id: 4af89222-22b1-4c08-8081-3dab89d1985b
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '1192'
+source-wordcount: '1199'
 ht-degree: 9%
 
 ---
@@ -113,7 +113,7 @@ ht-degree: 9%
 
    ![](assets/uninstall-salesforce-lightning-customization-package-18.png)
 
-1. 選取&#x200B;**新增至MSC促銷活動**、**含MSC的電子郵件**&#x200B;和&#x200B;**推送至MSC**，然後按一下[移除]箭頭。 然後按一下[儲存]。**&#x200B;**
+1. 選取&#x200B;**新增至MSC促銷活動**、**含MSC的電子郵件**&#x200B;和&#x200B;**推送至MSC**，然後按一下[移除]箭頭。 然後按一下[儲存]。****
 
    ![](assets/uninstall-salesforce-lightning-customization-package-19.png)
 
@@ -171,7 +171,7 @@ ht-degree: 9%
 
 1. 按一下&#x200B;**自訂我的標籤**。
 
-1. 從右側選取「Marketo銷售寄件匣」選項。 按一下[移除]箭頭，然後按一下[儲存]。**&#x200B;**。
+1. 從右側選取「Marketo銷售寄件匣」選項。 按一下[移除]箭頭，然後按一下[儲存]。****。
 
 ## 刪除Sales Connect封裝 {#delete-sales-connect-package}
 

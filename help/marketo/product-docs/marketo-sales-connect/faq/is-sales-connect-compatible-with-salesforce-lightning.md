@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352493
-description: Sales Connect是否與Salesforce Lightning相容？ - Marketo 文件 - 產品文件
+description: 瞭解Sales Connect是否相容於Salesforce Lightning。 取得有關Lightning支援和自訂的詳細資訊。
 title: Sales Connect 與 Salesforce Lightning 相容嗎？
 exl-id: e1543b92-8175-41d2-b56a-ec60253a87d8
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 21%
+source-wordcount: '57'
+ht-degree: 12%
 
 ---
 

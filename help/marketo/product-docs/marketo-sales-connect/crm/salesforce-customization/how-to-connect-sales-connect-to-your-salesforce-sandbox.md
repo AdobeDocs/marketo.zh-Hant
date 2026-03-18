@@ -1,12 +1,12 @@
 ---
 unique-page-id: 15368205
-description: 如何將Sales Connect連線至您的Salesforce沙箱 — Marketo檔案 — 產品檔案
+description: 瞭解如何將Sales Connect連線至您的Salesforce沙箱。 在沙箱環境中設定整合以進行測試。
 title: 如何將 Sales Connect 連接至您的 Salesforce 沙箱
 exl-id: d6421da9-de89-40ac-8af9-512b5303ace5
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '136'
 ht-degree: 13%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 13%
 
 >[!PREREQUISITES]
 >
->建立與沙箱的連線時，您的[!DNL &#x200B; Sales Connect]帳戶無法連線到[!DNL Salesforce]。 如果是，[請確定您中斷連線](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md)，然後再依照本文中的步驟進行。
+>建立與沙箱的連線時，您的[!DNL  Sales Connect]帳戶無法連線到[!DNL Salesforce]。 如果是，[請確定您中斷連線](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md)，然後再依照本文中的步驟進行。
 
 1. 在[!DNL Sales Connect]中，按一下右上方的齒輪圖示並選取&#x200B;**[!UICONTROL Settings]**。
 

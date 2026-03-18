@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14745793
-description: CRM的[!DNL Sales Connect]個自訂 — Marketo檔案 — 產品檔案
+description: 瞭解CRM和Salesforce的Sales Connect自訂。 瞭解可用的自訂功能以及如何進行安裝。
 title: CRM的[!DNL Sales Connect]個自訂
 exl-id: c7344ec2-a16b-48a1-8e39-1bbd2818db80
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '668'
 ht-degree: 2%
 
 ---

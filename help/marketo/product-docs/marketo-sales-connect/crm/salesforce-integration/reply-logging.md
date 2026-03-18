@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352480
-description: 回覆記錄(SFDC) - Marketo檔案 — 產品檔案
+description: 瞭解當Sales Connect連線至Salesforce時，回覆記錄如何運作。 取得設定回覆在Salesforce中登入位置的說明。
 title: 回覆記錄(SFDC)
 exl-id: 11f84157-55b7-42a7-81d0-f5848adbb9f4
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---

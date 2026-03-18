@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352430
-description: 如何將電子郵件記錄到其他CRM - Marketo檔案 — 產品檔案
+description: 瞭解如何將Sales Connect電子郵件記錄到Salesforce以外的CRM。 取得將活動記錄至您的CRM的選項。
 title: 如何將電子郵件記錄至其他 CRM
 exl-id: 29b34be0-685f-4c80-920d-d33ff7d02f5d
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '162'
 ht-degree: 9%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 45417460
-description: 將任務指派給團隊成員 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Sales Connect中將任務指派給團隊成員。 從命令中心或即時摘要委派電子郵件或呼叫任務。
 title: 指派工作予團隊成員
 exl-id: 9f7126eb-076e-47b8-ade0-979e46675d5c
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 12%
+source-wordcount: '121'
+ht-degree: 10%
 
 ---
 

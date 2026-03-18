@@ -1,13 +1,13 @@
 ---
 unique-page-id: 30081230
-description: 對人員的大量動作 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Sales Connect的People頁面上使用大量動作。 新增至促銷活動、從促銷活動移除，或刪除多個連絡人。
 title: 對人員執行大量動作
 exl-id: 5956444c-8839-4f8f-97d0-20ed35a395aa
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 8%
+source-wordcount: '155'
+ht-degree: 7%
 
 ---
 

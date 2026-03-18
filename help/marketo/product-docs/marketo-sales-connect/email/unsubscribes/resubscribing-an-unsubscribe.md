@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14746177
-description: 重新訂閱並取消訂閱 — Marketo檔案 — 產品檔案
+description: 瞭解如何重新訂閱已在Sales Connect中取消訂閱的連絡人。 在適當時，恢復他們接收銷售電子郵件的能力。
 title: 重新訂閱取消訂閱的項目
 exl-id: 1c451ff7-c56f-477e-b287-898c359aedcf
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 1%
+source-wordcount: '199'
+ht-degree: 3%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 >[!CAUTION]
 >

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352416
-description: '[!UICONTROL Analytics]頁面總覽 — Marketo檔案 — 產品檔案'
-title: Analytics頁面概觀
+description: 瞭解Sales Connect Analytics頁面和電子郵件參與資料。 在「我」、「團隊」和「內容」標籤中檢視個人和團隊的統計資料。
+title: 分析頁面概觀
 exl-id: 4d67dff8-d602-4a90-bf74-f4149017ad51
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '383'
 ht-degree: 0%
 
 ---

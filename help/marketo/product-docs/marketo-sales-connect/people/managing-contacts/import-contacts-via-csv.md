@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352468
-description: 透過CSV匯入連絡人 — Marketo檔案 — 產品檔案
+description: 瞭解如何透過CSV將連絡人匯入Sales Connect。 上傳CSV檔案以一次新增多個聯絡人或群組。
 title: 透過 CSV 匯入聯絡人
 exl-id: e1a15e9f-7978-4112-b38d-ab78a4300a5a
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 9%
+source-wordcount: '124'
+ht-degree: 10%
 
 ---
 
@@ -37,6 +37,6 @@ ht-degree: 9%
 
    ![](assets/four.png)
 
-1. 將CSV中的欄對應到[!DNL Sales Connect]中各自的欄位。 完成時，按一下&#x200B;**[!UICONTROL Next]**。
+1. 將CSV中的欄對應到[!DNL Sales Connect]中各自的欄位。 完成後請按一下 **[!UICONTROL Next]**。
 
    ![](assets/five.png)

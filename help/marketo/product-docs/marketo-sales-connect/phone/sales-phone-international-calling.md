@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352434
-description: 銷售電話國際通話 — Marketo檔案 — 產品檔案
+description: 瞭解Sales Connect中的Sales Phone國際通話。 撥打並記錄國際電話，以及檢查支援的國家/地區。
 title: 銷售電話國際通話
 exl-id: 5a5956fe-67f3-41dd-bbbe-b0cea1ded6f0
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '399'
+source-wordcount: '409'
 ht-degree: 7%
 
 ---
@@ -156,8 +156,8 @@ ht-degree: 7%
 
 **是否有無法透過銷售電話撥打的特定型別號碼？**
 
-可以。我們不支援撥打特價服務電話號碼（例如在美國為900號碼，在英國為+449號碼）。 一般而言，我們不支援撥打共用付費電話號碼，以及少數其他付費路由。
+是的。我們不支援撥打特價服務電話號碼（例如在美國為900號碼，在英國為+449號碼）。 一般而言，我們不支援撥打共用付費電話號碼，以及少數其他付費路由。
 
 **我可以在撥打國際電話時使用本地聯絡嗎？**
 
-不可以。 本機狀態僅適用於美國號碼。
+否。本機狀態僅適用於美國號碼。

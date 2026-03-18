@@ -1,12 +1,12 @@
 ---
-description: 自動附加取消訂閱訊息設定 — Marketo檔案 — 產品檔案
+description: 瞭解Sales Connect中的自動附加取消訂閱訊息設定。 自動將取消訂閱連結新增至銷售電子郵件。
 title: 自動附加取消訂閱訊息設定
 feature: Marketo Sales Connect
 exl-id: 8aa75123-f6b5-4dfe-8fa7-f764620c04e8
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 4%
+source-wordcount: '208'
+ht-degree: 3%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 4%
 
    ![](assets/auto-append-unsubscribe-message-setting-1.png)
 
-1. 在[管理設定]下，按一下[取消訂閱]。**&#x200B;**
+1. 在[管理設定]下，按一下[取消訂閱]。****
 
    ![](assets/auto-append-unsubscribe-message-setting-2.png)
 

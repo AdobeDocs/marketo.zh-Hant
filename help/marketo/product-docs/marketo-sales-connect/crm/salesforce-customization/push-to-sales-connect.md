@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352477
-description: 推送至 [!DNL Sales Connect] - Marketo檔案 — 產品檔案
+description: 瞭解如何使用Salesforce中的「推送至Sales Connect」按鈕。 只要按一下即可將潛在客戶或聯絡人從Salesforce新增到Sales Connect。
 title: 推送至 [!DNL Sales Connect]
 exl-id: 8fb99d28-d6c6-47c3-b4d2-c416251aff47
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '164'
 ht-degree: 2%
 
 ---

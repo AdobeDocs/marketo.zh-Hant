@@ -1,12 +1,12 @@
 ---
-description: 來電原因 — Marketo檔案 — 產品檔案
+description: 瞭解Sales Connect中的來電原因。 設定並記錄您呼叫結果時為何正確同步至Salesforce。
 title: 通話原因
 exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 4%
+source-wordcount: '160'
+ht-degree: 3%
 
 ---
 

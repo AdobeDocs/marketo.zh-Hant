@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352411
-description: 從未收到驗證電子郵件 — Marketo檔案 — 產品檔案
+description: 如果您從未收到Sales Connect驗證電子郵件，請取得協助。 疑難排解並請求新的驗證電子郵件。
 title: 未曾收到驗證電子郵件
 exl-id: 3378f7c1-7203-4405-a57d-8d0556821ed1
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '47'
-ht-degree: 21%
+source-wordcount: '56'
+ht-degree: 19%
 
 ---
 

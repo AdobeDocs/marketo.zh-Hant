@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352485
-description: 我可以復原已刪除的連絡人或群組嗎？ - Marketo 文件 - 產品文件
+description: 取得是否可以在Sales Connect中復原已刪除的連絡人或群組的說明。 瞭解刪除後的復原選項。
 title: 我可以恢復已刪除的聯絡人或群組嗎？
 exl-id: 2d12187b-c64a-431f-aefa-d8ed1c90909c
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 27%
+source-wordcount: '87'
+ht-degree: 20%
 
 ---
 

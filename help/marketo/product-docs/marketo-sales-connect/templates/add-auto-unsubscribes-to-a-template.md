@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352637
-description: 新增自動取消訂閱至範本 — Marketo檔案 — 產品檔案
+description: 瞭解如何將自動取消訂閱新增至Sales Connect範本。 包含取消訂閱連結，讓收件者可以選擇退出。
 title: 新增自動取消訂閱功能至範本
 exl-id: 82319fb8-75d5-4f24-87dc-d14814a06224
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 13%
+source-wordcount: '82'
+ht-degree: 12%
 
 ---
 

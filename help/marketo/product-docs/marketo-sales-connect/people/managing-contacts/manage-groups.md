@@ -1,13 +1,13 @@
 ---
 unique-page-id: 30081250
-description: 管理群組 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Sales Connect中管理群組。 建立、編輯、共用及組織行銷活動和外聯的聯絡群組。
 title: 管理群組
 exl-id: 8788c9ab-7d52-4b8d-96eb-26fd1a07b0f5
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 1%
+source-wordcount: '266'
+ht-degree: 3%
 
 ---
 
@@ -111,6 +111,6 @@ ht-degree: 1%
 
    ![](assets/sixteen.png)
 
-1. 按一下&#x200B;**[!UICONTROL Delete]**&#x200B;確認。
+1. 按一下 **[!UICONTROL Delete]** 確認。
 
    ![](assets/seventeen.png)

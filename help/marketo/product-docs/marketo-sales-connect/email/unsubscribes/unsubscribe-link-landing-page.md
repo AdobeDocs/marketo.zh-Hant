@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14746176
-description: 取消訂閱連結登陸頁面 — Marketo檔案 — 產品檔案
+description: 瞭解Sales Connect中的取消訂閱連結登陸頁面。 自訂收件者按一下取消訂閱時看到的頁面。
 title: 取消訂閱連結登陸頁面
 exl-id: 1ef22db5-56ca-47fb-894b-ef94ec4527ac
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 13%
+source-wordcount: '69'
+ht-degree: 11%
 
 ---
 

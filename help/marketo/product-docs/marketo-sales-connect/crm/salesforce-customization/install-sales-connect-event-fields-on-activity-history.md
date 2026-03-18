@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352475
-description: 在活動歷程記錄上安裝Sales Connect事件欄位 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Salesforce活動歷程記錄上安裝Sales Connect事件欄位。 新增自訂欄位以追蹤Sales Connect事件。
 title: 在活動歷史記錄上安裝 Sales Connect 事件欄位
 exl-id: c1bdb5a6-04f0-4579-84b6-33f4a301128f
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '239'
-ht-degree: 9%
+source-wordcount: '247'
+ht-degree: 8%
 
 ---
 

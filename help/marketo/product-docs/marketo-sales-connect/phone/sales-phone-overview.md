@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352438
-description: 銷售電話概觀 — Marketo檔案 — 產品檔案
+description: 瞭解Sales Connect中的Sales Phone。 從應用程式撥打電話、登入Salesforce，以及使用通話記錄和本機是否存在。
 title: 銷售電話概觀
 exl-id: 297d8d87-94dc-47c7-9781-ae7187e5ddf9
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '296'
-ht-degree: 2%
+source-wordcount: '311'
+ht-degree: 1%
 
 ---
 

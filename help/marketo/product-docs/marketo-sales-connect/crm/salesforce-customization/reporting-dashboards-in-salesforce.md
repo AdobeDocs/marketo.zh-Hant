@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352464
-description: Salesforce中的報告儀表板 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Salesforce中使用Sales Connect資料的報告儀表板。 在Salesforce報告和儀表板中檢視通話和電子郵件活動。
 title: Salesforce 中的報告儀表板
 exl-id: f27ba3e1-210b-46df-81b5-e794826d36c7
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '195'
 ht-degree: 4%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 4%
 
 1. 選取&#x200B;**[!UICONTROL Tasks and Events]**&#x200B;記錄型別。
 1. 根據您想要的時間範圍和階層結構定義報表引數。
-1. 新增篩選器以移除記錄至[!DNL Salesforce]的內部電子郵件(例如不等於Marketo的公司/帳戶)。
+1. 新增篩選器以移除記錄至[!DNL Salesforce]的內部電子郵件（例如不等於Marketo的公司/帳戶）。
 1. 選取&#x200B;**[!UICONTROL Summary]**&#x200B;報告格式。
 1. 將「主旨」、「已指派」和「已點選Marketo銷售」/「已檢視Marketo銷售」欄位新增至報表。
 1. 在[欄位]窗格中連按兩下&#x200B;**[!UICONTROL Add Formula]**。

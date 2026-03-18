@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352503
-description: 共用範本 — Marketo檔案 — 產品檔案
+description: 瞭解Sales Connect中的共用範本。 與您的團隊或特定團隊共用範本，並控制誰可以編輯。
 title: 共用的範本
 exl-id: 9640c9a6-00fc-4a7d-8366-f04f2b2483e4
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '99'
 ht-degree: 4%
 
 ---

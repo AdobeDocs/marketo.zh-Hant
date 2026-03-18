@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352451
-description: 如何從Outlook解除安裝Sales Connect - Marketo檔案 — 產品檔案
+description: 瞭解如何從Outlook解除安裝Sales Connect外掛程式。 視需要從Outlook案頭移除增益集。
 title: 如何從 Outlook 解除安裝 Sales Connect
 exl-id: 42e12144-665e-4560-84ad-1c0631ed0c9b
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 11%
+source-wordcount: '70'
+ht-degree: 10%
 
 ---
 

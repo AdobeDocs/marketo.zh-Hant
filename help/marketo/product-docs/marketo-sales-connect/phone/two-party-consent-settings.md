@@ -1,13 +1,13 @@
 ---
 unique-page-id: 45416566
-description: 雙方同意設定 — Marketo檔案 — 產品檔案
+description: 瞭解Sales Connect通話錄製的雙方同意設定。 遵守需要同意才能記錄的州法律。
 title: 雙方同意設定
 exl-id: d0468ea1-3009-4190-ab9b-74c6fae955cb
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 5%
+source-wordcount: '148'
+ht-degree: 6%
 
 ---
 
@@ -43,7 +43,7 @@ ht-degree: 5%
 
    ![](assets/five.png)
 
-1. 上傳完成後，在檔案管理員中選取dota （三個點），然後按一下&#x200B;**[!UICONTROL Select as Consent Notice]**。 完成時，按一下&#x200B;**[!UICONTROL OK]**。
+1. 上傳完成後，在檔案管理員中選取dota （三個點），然後按一下&#x200B;**[!UICONTROL Select as Consent Notice]**。 完成後請按一下 **[!UICONTROL OK]**。
 
    ![](assets/six.png)
 

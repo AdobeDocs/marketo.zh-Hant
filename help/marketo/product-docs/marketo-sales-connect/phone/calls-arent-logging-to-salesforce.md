@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352435
-description: 呼叫未記錄至Salesforce - Marketo檔案 — 產品檔案
+description: 當Sales Connect呼叫未登入Salesforce時取得協助。 疑難排解連線和活動記錄設定。
 title: 通話未記錄至 Salesforce
 exl-id: 99528c1a-7398-442b-81d1-9b5908e35e2f
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 4%
+source-wordcount: '131'
+ht-degree: 3%
 
 ---
 

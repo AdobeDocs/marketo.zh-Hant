@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37356578
-description: 使用選取並傳送來撰寫大量電子郵件 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用「在Sales Connect中選取並傳送」來撰寫大量電子郵件。 透過個人化向多個連絡人傳送相同的電子郵件。
 title: 使用「選取並傳送」功能撰寫大量傳送的電子郵件
 exl-id: 99a53f7a-bf3c-40df-961c-1927476acd10
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '391'
+source-wordcount: '402'
 ht-degree: 3%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352623
-description: 使用者存取細節 — Marketo檔案 — 產品檔案
+description: 瞭解Sales Connect中的管理員與非管理員使用者許可權。 瞭解每個角色可以存取的範本、行銷活動和人員內容。
 title: 使用者存取權詳細資料
 exl-id: 6a61176c-acbd-4684-983f-1c5af0ca6187
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '245'
 ht-degree: 2%
 
 ---

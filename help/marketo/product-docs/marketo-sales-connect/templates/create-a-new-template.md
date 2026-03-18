@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352639
-description: 建立新範本 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Sales Connect中建立新的電子郵件範本。 使用動態欄位和可追蹤的內容建立可重複使用的範本。
 title: 建立新範本
 exl-id: 9f597aa6-587d-4b23-a6ab-958f17caeecb
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 8%
+source-wordcount: '105'
+ht-degree: 7%
 
 ---
 

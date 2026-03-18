@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352516
-description: 建立和刪除連絡人 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Sales Connect中建立及刪除連絡人。 手動新增連絡人，或從您的帳戶移除連絡人。
 title: 建立和刪除聯絡人
 exl-id: 04e2887b-8515-4d48-8a94-ccff00805210
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 7%
+source-wordcount: '119'
+ht-degree: 9%
 
 ---
 
@@ -41,6 +41,6 @@ ht-degree: 7%
 
    ![](assets/four-2.png)
 
-1. 按一下&#x200B;**[!UICONTROL Delete Contact]**&#x200B;確認。
+1. 按一下 **[!UICONTROL Delete Contact]** 確認。
 
    ![](assets/five-2.png)

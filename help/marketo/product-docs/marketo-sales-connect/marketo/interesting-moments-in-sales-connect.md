@@ -1,12 +1,12 @@
 ---
 unique-page-id: 30082174
-description: Sales Connect中的有趣時刻 — Marketo檔案 — 產品檔案
+description: 瞭解Sales Connect和Marketo中有趣的時刻。 瞭解銷售活動如何建立流入即時摘要的瞬間。
 title: Sales Connect 中的關鍵時刻
 exl-id: 210f31d1-606a-479d-8a2b-351b2b1a7678
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '279'
 ht-degree: 1%
 
 ---
@@ -53,7 +53,7 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >Marketo也會新增發生日期以及新增有趣時刻的方式(即潛在客戶動作>流程步驟、SOAP API)。
+   >Marketo也會新增發生日期以及新增有趣時刻的方式（即潛在客戶動作>流程步驟、SOAP API）。
 
 ## Marketo中有趣的時刻是什麼樣子？  {#what-does-an-interesting-moment-look-like-in-marketo}
 

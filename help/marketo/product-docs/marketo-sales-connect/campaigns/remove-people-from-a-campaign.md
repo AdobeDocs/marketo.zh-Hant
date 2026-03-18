@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352608
-description: 將人員從行銷活動中移除 — Marketo檔案 — 產品檔案
+description: 瞭解如何從Sales Connect行銷活動中移除人員。 從行銷活動或人員頁面移除個人，或大量移除群組。
 title: 從行銷活動中移除人員
 exl-id: 700bf1eb-2e8d-46e6-9f93-704708b57543
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '269'
 ht-degree: 3%
 
 ---

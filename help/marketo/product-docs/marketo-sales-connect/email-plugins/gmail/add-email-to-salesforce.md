@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352483
-description: 新增電子郵件至Salesforce - Marketo檔案 — 產品檔案
+description: 瞭解如何從Gmail外掛程式新增電子郵件至Salesforce。 將傳送或接收的電子郵件記錄到正確的Salesforce記錄。
 title: 新增電子郵件至 Salesforce
 exl-id: bb2e964d-e5f8-495f-969b-9f75822a6211
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '153'
 ht-degree: 2%
 
 ---

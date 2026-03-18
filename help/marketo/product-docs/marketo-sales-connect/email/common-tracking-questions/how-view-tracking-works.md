@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352536
-description: 檢視追蹤的運作方式 — Marketo檔案 — 產品檔案
+description: 瞭解檢視追蹤在Sales Connect中的運作方式。 瞭解何時將電子郵件計為已檢視，以及如何追蹤開啟次數。
 title: 視圖追蹤的運作原理
 exl-id: 5eae19f7-c360-486a-9da5-38a3059ad7af
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 7%
+source-wordcount: '122'
+ht-degree: 6%
 
 ---
 

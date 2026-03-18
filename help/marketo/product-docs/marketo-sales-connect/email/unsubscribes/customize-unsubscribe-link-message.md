@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14746186
-description: 自訂取消訂閱連結訊息 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Sales Connect中自訂取消訂閱連結訊息。 變更取消訂閱連結的文字收件者，請參閱。
 title: 自訂取消訂閱連結訊息
 exl-id: 565754ce-644c-4ba7-bb67-cd0b4dc0f7e1
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '196'
 ht-degree: 4%
 
 ---

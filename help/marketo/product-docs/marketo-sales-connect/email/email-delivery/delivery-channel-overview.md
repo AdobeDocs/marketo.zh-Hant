@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352407
-description: 傳遞管道概觀 — Marketo檔案 — 產品檔案
+description: 瞭解Sales Connect中的傳遞管道。 瞭解電子郵件的傳送方式以及連線與自訂頻道之間的差異。
 title: 傳遞管道概觀
 exl-id: 432bad1e-4eaf-4be8-b856-be364c44816e
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '552'
+source-wordcount: '564'
 ht-degree: 1%
 
 ---

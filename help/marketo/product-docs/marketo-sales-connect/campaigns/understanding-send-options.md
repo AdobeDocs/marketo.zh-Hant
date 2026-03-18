@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352621
-description: 瞭解傳送選項 — Marketo檔案 — 產品檔案
+description: 瞭解Sales Connect中促銷活動電子郵件步驟的傳送選項。 選擇何時傳送、建立要自己傳送的工作，或將電子郵件執行緒傳送到前一個工作。
 title: 了解傳送選項
 exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '597'
-ht-degree: 1%
+source-wordcount: '616'
+ht-degree: 0%
 
 ---
 

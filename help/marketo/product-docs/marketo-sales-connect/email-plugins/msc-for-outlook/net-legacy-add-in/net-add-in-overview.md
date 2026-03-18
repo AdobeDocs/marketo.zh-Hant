@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352457
-description: .NET增益集概述 — Marketo檔案 — 產品檔案
+description: 瞭解適用於Outlook的Sales Connect .NET增益集。 瞭解舊版增益集，以及它如何搭配Outlook案頭使用。
 title: .NET 增益集概觀
 exl-id: fa40377e-e70b-46d3-a75f-5fa791f9275b
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '214'
 ht-degree: 6%
 
 ---

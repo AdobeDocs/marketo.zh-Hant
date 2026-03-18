@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352482
-description: 回覆追蹤的運作方式 — Marketo檔案 — 產品檔案
+description: 瞭解回覆追蹤在Sales Connect中的運作方式。 瞭解如何偵測回覆並記錄至Salesforce或Marketo。
 title: 回應追蹤的運作原理
 exl-id: 8d087014-99b7-47ba-9f08-95b13bc16438
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '174'
 ht-degree: 4%
 
 ---

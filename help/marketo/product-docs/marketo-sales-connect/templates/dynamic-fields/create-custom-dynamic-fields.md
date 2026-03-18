@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352508
-description: 建立自訂動態欄位 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Sales Connect範本中建立自訂動態欄位。 新增將聯絡人或使用者資料提取至電子郵件的合併欄位。
 title: 建立自訂動態欄位
 exl-id: 860511d2-4a8a-47a4-8362-ba4e715e44e9
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '223'
-ht-degree: 4%
+source-wordcount: '237'
+ht-degree: 3%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14745823
-description: 在Salesforce中建立工作流程規則 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Salesforce中為Sales Connect活動建立工作流程規則。 當Sales Connect記錄電子郵件或呼叫時，自動化動作。
 title: 在 Salesforce 中建立工作流程規則
 exl-id: 0cfce178-453b-4949-96aa-c327278a267d
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '393'
-ht-degree: 4%
+source-wordcount: '405'
+ht-degree: 3%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->這只會影響同時使用&#x200B;**1&rbrace; MSI和MSE以及想要在MSI中使用Best Bets功能的客戶。**&#x200B;如果您不需要/使用「首選」，可以忽略。
+>這只會影響同時使用&#x200B;**1} MSI和MSE以及想要在MSI中使用Best Bets功能的客戶。**&#x200B;如果您不需要/使用「首選」，可以忽略。
 
 ## 快速入門 {#getting-started}
 

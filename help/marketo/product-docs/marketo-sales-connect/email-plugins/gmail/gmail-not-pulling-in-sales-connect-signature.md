@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352549
-description: Gmail未提取Sales Connect簽名 — Marketo檔案 — 產品檔案
+description: 當Gmail未提取您的Sales Connect簽名時，請取得協助。 修正外掛程式，讓您的預設簽名出現在Gmail中。
 title: Gmail 並未提取 Sales Connect 簽名
 exl-id: 33edf360-58bf-4d5a-a7a5-4912b717865f
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '49'
-ht-degree: 28%
+source-wordcount: '60'
+ht-degree: 23%
 
 ---
 

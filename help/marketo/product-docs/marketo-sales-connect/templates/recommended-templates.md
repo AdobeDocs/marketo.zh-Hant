@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352510
-description: 建議範本 — Marketo檔案 — 產品檔案
+description: 瞭解Sales Connect中的建議範本。 檢視哪些範本獲得最佳參與度，並將它們用於外展活動。
 title: 推薦的範本
 exl-id: 77356b26-ac9d-47c3-8547-1ab1009f6ca6
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '320'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 1. 前往您的[!UICONTROL Templates]標籤。
 
-1. 選取您要建議的範本，然後按一下[編輯]。**&#x200B;**
+1. 選取您要建議的範本，然後按一下[編輯]。****
 
 1. 若要在範本上啟用建議的範本功能，請核取&#x200B;**[!UICONTROL Auto-Suggest this template when]**。
 
@@ -33,7 +33,7 @@ ht-degree: 1%
 
 現在，請選取您的條件。 當您的動態欄位條件符合時，將建議使用範本。 從4個不同條件中選擇。
 
-**[!UICONTROL Equals]**：值必須為完全相符的值(例如Marketo等於Marketo)
+**[!UICONTROL Equals]**：值必須為完全相符的值（例如Marketo等於Marketo）
 
 **[!UICONTROL Does not Equal]**：值必須為完全相符的專案（例如「行銷國家」不等於「行銷」）
 

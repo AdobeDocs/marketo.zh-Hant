@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37355755
-description: 內容鎖定 — Marketo檔案 — 產品檔案
+description: 瞭解如何啟用內容鎖定，以限制非管理員使用者編輯範本和行銷活動。
 title: 內容鎖定
 exl-id: 9f47a6e9-5dad-4934-ba9b-70235c958a31
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 4%
+source-wordcount: '104'
+ht-degree: 6%
 
 ---
 
@@ -27,6 +27,6 @@ ht-degree: 4%
 
    ![](assets/two-4.png)
 
-1. 向下捲動至[!UICONTROL Content Lockdown]。 開啟任一滑桿將&#x200B;_停用_&#x200B;您的團隊成員建立/編輯範本和/或行銷活動的能力。
+1. 向下捲動至 [!UICONTROL Content Lockdown]。開啟任一滑桿將&#x200B;_停用_&#x200B;您的團隊成員建立/編輯範本和/或行銷活動的能力。
 
    ![](assets/three-4.png)

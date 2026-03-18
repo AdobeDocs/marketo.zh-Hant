@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352514
-description: Sales Connect如何處理電子郵件重複資料刪除 — Marketo檔案 — 產品檔案
+description: 瞭解Sales Connect如何處理電子郵件重複資料刪除。 瞭解同步時如何合併或處理重複的連絡人。
 title: Sales Connect 如何處理刪除重複電子郵件的作業
 exl-id: 1f57d943-8439-4653-a4e7-6dac65b3312d
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 6%
+source-wordcount: '103'
+ht-degree: 5%
 
 ---
 

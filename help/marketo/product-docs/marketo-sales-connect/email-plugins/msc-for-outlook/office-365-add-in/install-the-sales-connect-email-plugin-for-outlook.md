@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352455
-description: 安裝適用於Outlook的Sales Connect電子郵件外掛程式 — Marketo檔案 — 產品檔案
+description: 瞭解如何安裝適用於Outlook的Sales Connect電子郵件外掛程式。 新增外掛程式以傳送追蹤的電子郵件，並使用Outlook中的範本。
 title: 安裝適用於Outlook的Sales Connect電子郵件外掛程式
 exl-id: ff741d1b-caa5-49c3-b1e0-afd69c283e8c
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 6%
+source-wordcount: '194'
+ht-degree: 7%
 
 ---
 
@@ -27,9 +27,9 @@ ht-degree: 6%
 >
 >i.移至[說明]按鈕（位於[Outlook]右邊最上方的導覽區）
 >
->二、 在下拉式選單中選擇&#x200B;**[!UICONTROL Check for Updates]**
+>ii. 在下拉式選單中選擇&#x200B;**[!UICONTROL Check for Updates]**
 >
->三、 請更新至最新版的Outlook，完成時請回到這些步驟
+>iii. 請更新至最新版的Outlook，完成時請回到這些步驟
 
 ![](assets/install-the-sales-connect-email-plugin-for-outlook-1.png)
 

@@ -1,12 +1,12 @@
 ---
-description: 建立及指派提醒工作 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Sales Connect中建立和指派提醒工作。 為您自己或團隊成員設定後續工作。
 title: 建立並指派提醒工作
 exl-id: bc486795-7ce2-4336-834d-ecfd5efc348e
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 8%
+source-wordcount: '144'
+ht-degree: 10%
 
 ---
 
@@ -46,6 +46,6 @@ ht-degree: 8%
 
    ![](assets/create-and-assign-reminder-tasks-8.png)
 
-1. 新增完成工作時您想要取得的任何工作詳細資訊，例如通話留言、InMail訊息範本，或甚至有關人員的備註。 完成時，按一下&#x200B;**[!UICONTROL Create]**。
+1. 新增完成工作時您想要取得的任何工作詳細資訊，例如通話留言、InMail訊息範本，或甚至有關人員的備註。 完成後請按一下 **[!UICONTROL Create]**。
 
    ![](assets/create-and-assign-reminder-tasks-9.png)

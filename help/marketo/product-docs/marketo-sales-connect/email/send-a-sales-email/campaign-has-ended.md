@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352587
-description: 行銷活動已結束 — Marketo檔案 — 產品檔案
+description: 在Sales Connect中看到Campaign已結束時，請取得協助。 瞭解您無法傳送的原因，以及行銷活動完成時應做什麼。
 title: 行銷活動已結束
 exl-id: a4307ce0-39bc-4971-b60a-1284af95a7a1
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 8%
+source-wordcount: '89'
+ht-degree: 6%
 
 ---
 

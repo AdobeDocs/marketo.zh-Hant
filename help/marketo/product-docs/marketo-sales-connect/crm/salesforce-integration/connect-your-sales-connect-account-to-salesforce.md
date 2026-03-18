@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352423
-description: 將您的Sales Connect帳戶連線至Salesforce - Marketo檔案 — 產品檔案
+description: 瞭解如何將您的Sales Connect帳戶連結至Salesforce。 啟用電子郵件、通話和工作記錄到Salesforce的功能。
 title: 將您的 Sales Connect 帳戶連接至 Salesforce
 exl-id: de1ab4f8-8ca5-4fd1-9a9f-61471645d90b
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 14%
+source-wordcount: '121'
+ht-degree: 13%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 14%
 
    ![](assets/one.png)
 
-1. 在[!UICONTROL &#x200B; Admin Settings]底下，按一下&#x200B;**[!UICONTROL Salesforce]**。
+1. 在[!UICONTROL  Admin Settings]底下，按一下&#x200B;**[!UICONTROL Salesforce]**。
 
    ![](assets/six.png)
 

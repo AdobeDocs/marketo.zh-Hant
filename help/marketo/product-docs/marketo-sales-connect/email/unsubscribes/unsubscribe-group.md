@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14746167
-description: 取消訂閱群組 — Marketo檔案 — 產品檔案
+description: 瞭解Sales Connect中的取消訂閱群組。 依群組組織取消訂閱，並控制哪些行銷活動會遵守哪些選擇退出。
 title: 取消訂閱群組
 exl-id: 43e7dc75-1a78-4f87-8054-7ed4b5a883db
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 6%
+source-wordcount: '70'
+ht-degree: 5%
 
 ---
 

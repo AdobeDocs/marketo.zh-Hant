@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352414
-description: 瞭解[!UICONTROL Team]標籤 — Marketo檔案 — 產品檔案
+description: 瞭解Sales Connect中的「團隊」標籤和團隊範圍量度。 檢視隨範本、尖峰參與時間、已完成的交易和代表排行榜而傳送的電子郵件。
 title: 瞭解[!UICONTROL Team]標籤
 exl-id: 07084711-b387-4688-bcf0-fd054acb8366
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---

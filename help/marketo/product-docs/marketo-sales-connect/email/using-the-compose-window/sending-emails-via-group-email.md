@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37356584
-description: 透過群組電子郵件傳送電子郵件 — Marketo檔案 — 產品檔案
+description: 瞭解如何透過Sales Connect中的群組電子郵件傳送電子郵件。 向群組傳送一封電子郵件，並追蹤每位收件者的參與情形。
 title: 透過群組電子郵件傳送電子郵件
 exl-id: dbb4415f-9817-4a09-9049-9e8f328f7ea4
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 6%
+source-wordcount: '167'
+ht-degree: 7%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 6%
 
 ## 傳送群組電子郵件 {#sending-a-group-email}
 
-1. 按一下「**[!UICONTROL People]**」標籤。
+1. 按一下「**[!UICONTROL People]**」索引標籤。
 
    ![](assets/one-3.png)
 

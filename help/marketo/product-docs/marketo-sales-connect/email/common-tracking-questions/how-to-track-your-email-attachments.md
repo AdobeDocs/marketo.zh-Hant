@@ -1,19 +1,19 @@
 ---
 unique-page-id: 14352537
-description: 如何追蹤電子郵件附件 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Sales Connect中追蹤電子郵件附件。 讓附件可追蹤，並瞭解收件者何時開啟或下載。
 title: 如何追蹤您的電子郵件附件
 exl-id: 88c97309-13d4-46ef-a375-4afe4401fd94
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '161'
 ht-degree: 8%
 
 ---
 
 # 如何追蹤您的電子郵件附件 {#how-to-track-your-email-attachments}
 
-[!DNL Sales Connect]提供您附件(.doc、.ppt、.pdf)的追蹤功能，讓您檢視附件何時已開啟/下載，以及收件者正在瀏覽的頁面。 我們將允許您使用[網頁應用程式](https://toutapp.com/login)和Gmail (或Google應用程式)中的可追蹤附件功能。
+[!DNL Sales Connect]提供您附件(.doc、.ppt、.pdf)的追蹤功能，讓您檢視附件何時已開啟/下載，以及收件者正在瀏覽的頁面。 我們將允許您使用[網頁應用程式](https://toutapp.com/login)和Gmail （或Google應用程式）中的可追蹤附件功能。
 
 >[!NOTE]
 >

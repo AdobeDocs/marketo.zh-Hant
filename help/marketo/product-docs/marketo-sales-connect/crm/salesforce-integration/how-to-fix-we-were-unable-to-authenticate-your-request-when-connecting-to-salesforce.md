@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352484
-description: 如何修正連線至Salesforce時「我們無法驗證您的請求」 — Marketo檔案 — 產品檔案
+description: 取得協助以修正連線Sales Connect至Salesforce時，「我們無法驗證您的要求」錯誤。 疑難排解驗證問題。
 title: 如何修正連接至 Salesforce 時發生的「我們無法驗證您的請求」問題
 exl-id: ddd49064-f584-4490-8d45-29cf61ed3ebe
 feature: Marketo Sales Connect
-source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '157'
 ht-degree: 12%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 30081307
-description: 人員頁面欄 — Marketo檔案 — 產品檔案
+description: 瞭解Sales Connect中的People頁面欄。 自訂要顯示哪些欄以檢視您需要的聯絡資訊。
 title: 人物頁面欄
 exl-id: e7d7bae5-dca9-435b-80b8-262b969135af
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '244'
 ht-degree: 8%
 
 ---

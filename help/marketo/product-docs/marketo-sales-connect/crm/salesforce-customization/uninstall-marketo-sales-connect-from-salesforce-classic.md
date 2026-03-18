@@ -1,11 +1,11 @@
 ---
-description: 從Marketo Classic解除安裝Salesforce Sales Connect - Marketo檔案 — 產品檔案
+description: 瞭解如何從Salesforce Classic解除安裝Marketo Sales Connect。 從Classic移除Sales Connect自訂專案和按鈕。
 title: 從 Salesforce Classic 解除安裝 Marketo Sales Connect
 exl-id: 17078054-a615-4f2f-bfde-f28fd3ff6f48
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '1025'
-ht-degree: 11%
+source-wordcount: '1032'
+ht-degree: 12%
 
 ---
 
@@ -41,7 +41,7 @@ ht-degree: 11%
 
 1. 有10種型別的MSC欄位可以新增至此區段。 移除所有新增的欄位，或直接刪除整個區段。
 
-1. 完成時，按一下&#x200B;**[!UICONTROL Quick Save]**。
+1. 完成後請按一下 **[!UICONTROL Quick Save]**。
 
    ![](assets/uninstall-salesforce-classic-customization-package-6.png)
 
@@ -59,7 +59,7 @@ ht-degree: 11%
 
    ![](assets/uninstall-salesforce-classic-customization-package-8.png)
 
-1. 完成時，按一下&#x200B;**[!UICONTROL Quick Save]**。
+1. 完成後請按一下 **[!UICONTROL Quick Save]**。
 
    ![](assets/uninstall-salesforce-classic-customization-package-9.png)
 
@@ -69,7 +69,7 @@ ht-degree: 11%
 
    ![](assets/uninstall-salesforce-classic-customization-package-10.png)
 
-1. 從[!DNL Sales Connect]區域選取[!UICONTROL Selected Fields]欄位並按一下[!UICONTROL Remove]箭頭。 完成時，按一下&#x200B;**[!UICONTROL OK]**。
+1. 從[!DNL Sales Connect]區域選取[!UICONTROL Selected Fields]欄位並按一下[!UICONTROL Remove]箭頭。 完成後請按一下 **[!UICONTROL OK]**。
 
    ![](assets/uninstall-salesforce-classic-customization-package-11.png)
 

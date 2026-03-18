@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352615
-description: 瞭解內容標籤 — Marketo檔案 — 產品檔案
+description: 瞭解Sales Connect中的「內容」索引標籤和範本參與量度。 檢視機密武器、最高和最低參與範本，以及最上層的附件。
 title: 了解內容索引標籤
 exl-id: dd3af0c5-72d7-4ced-a8c7-1900dd30ef3e
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '196'
 ht-degree: 2%
 
 ---

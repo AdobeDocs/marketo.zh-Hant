@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352509
-description: 動態欄位字彙表 — Marketo檔案 — 產品檔案
+description: 瞭解Sales Connect中的動態欄位。 使用此辭彙表尋找範本和個人化的可用合併欄位。
 title: 動態欄位字彙表
 exl-id: 28351ba9-53da-4408-9526-918200d9bd29
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '252'
 ht-degree: 3%
 
 ---

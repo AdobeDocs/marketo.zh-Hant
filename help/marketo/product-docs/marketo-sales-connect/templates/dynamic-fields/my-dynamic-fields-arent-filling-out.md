@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352602
-description: 我的動態欄位未填寫 — Marketo檔案 — 產品檔案
+description: 若動態欄位未在Sales Connect中填寫，請取得協助。 疑難排解合併欄位顯示空白或不正確資料的原因。
 title: 我的動態欄位未填入資訊
 exl-id: fb3e8b56-506a-41f8-a84f-41370381c058
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '288'
 ht-degree: 4%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352442
-description: 附加內容 — Marketo檔案 — 產品檔案
+description: 瞭解如何從Gmail外掛程式附加內容片段。 從Gmail將可追蹤的內容或檔案新增至您的Sales Connect電子郵件。
 title: 附加內容
 exl-id: eb47b53e-5b6c-4473-93e0-43f6a6f3eb28
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 15%
+source-wordcount: '79'
+ht-degree: 12%
 
 ---
 

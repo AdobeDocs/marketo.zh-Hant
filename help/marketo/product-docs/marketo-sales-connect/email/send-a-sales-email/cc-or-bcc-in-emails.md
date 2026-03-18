@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352521
-description: 電子郵件中的CC或BCC - Marketo檔案 — 產品檔案
+description: 瞭解如何在Sales Connect電子郵件中使用副本或密件副本。 在傳送追蹤電子郵件時新增副本或密件副本收件者。
 title: 電子郵件中的副本或密件副本
 exl-id: c4136fec-a85a-4927-9e1f-1e82274232a9
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 12%
+source-wordcount: '91'
+ht-degree: 10%
 
 ---
 

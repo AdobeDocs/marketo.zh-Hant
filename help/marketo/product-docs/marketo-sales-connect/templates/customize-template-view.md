@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352629
-description: 自訂範本檢視 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Sales Connect中自訂範本檢視。 變更要在範本清單中顯示的欄和篩選器。
 title: 自訂範本視圖
 exl-id: 893cb1ad-f0b9-4829-b1c7-8acda62986f9
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 10%
+source-wordcount: '71'
+ht-degree: 8%
 
 ---
 

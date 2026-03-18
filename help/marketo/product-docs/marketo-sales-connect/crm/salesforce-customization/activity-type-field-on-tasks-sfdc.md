@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352476
-description: 任務上的活動型別欄位(SFDC) - Marketo檔案 — 產品檔案
+description: 瞭解將Sales Connect同步到Salesforce時任務上的活動型別欄位。 瞭解任務型別在Salesforce中如何對應和顯示。
 title: 工作的活動類型欄位 (SFDC)
 exl-id: b291e641-d3af-4667-a01c-cd491cd87add
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '257'
 ht-degree: 7%
 
 ---

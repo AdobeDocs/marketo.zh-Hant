@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14746470
-description: 設定自訂傳遞管道 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Sales Connect中設定自訂傳遞管道。 使用您自己的SMTP或傳送用於銷售電子郵件的基礎架構。
 title: 設定自訂傳遞管道
 exl-id: a31f7bfd-a4ee-4948-9bdc-b49d47054d40
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '365'
 ht-degree: 4%
 
 ---
@@ -69,7 +69,7 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 1. 登入[網頁應用程式](https://toutapp.com/login)，按一下右上方的齒輪圖示並選擇&#x200B;**[!UICONTROL Settings]**。
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 17728401
-description: Gmail使用者的電子郵件連線 — Marketo檔案 — 產品檔案
+description: 瞭解Sales Connect中Gmail使用者的電子郵件連線。 連線Gmail以傳送追蹤的電子郵件並將活動記錄到Salesforce。
 title: Gmail 使用者的電子郵件連線
 exl-id: 024461f1-b1c0-40ff-bb1c-49846c57dabe
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 9%
+source-wordcount: '175'
+ht-degree: 12%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 9%
 
    ![](assets/two.png)
 
-1. 按一下「**[!UICONTROL Email Connection]**」標籤。
+1. 按一下「**[!UICONTROL Email Connection]**」索引標籤。
 
    ![](assets/three.png)
 
@@ -59,4 +59,4 @@ ht-degree: 9%
 
 >[!NOTE]
 >
->Gmail會強制實行自己的傳送限制。 [在這裡瞭解更多](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits)。
+>Gmail會強制實行自己的傳送限制。 [若要了解更多資訊，請參閱此處](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits)。
