@@ -33,7 +33,7 @@ ht-degree: 7%
 
 >[!NOTE]
 >
->[!DNL Marketo Sales Insight]中的[!DNL Salesforce1]包括：[!DNLB最佳賭注]、銷售機會摘要、有趣的時刻，以及新增至Marketo行銷活動。
+>[!DNL Marketo Sales Insight]中的[!DNL Salesforce1]包括：[!DNL B最佳賭注]、銷售機會摘要、有趣的時刻，以及新增至Marketo行銷活動。
 
 ## 啟用[!DNL Salesforce1]行動應用程式 {#enable-the-salesforce1-mobile-app}
 
