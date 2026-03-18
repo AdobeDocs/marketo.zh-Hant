@@ -1,12 +1,12 @@
 ---
-description: 雙方同意設定 — Marketo檔案 — 產品檔案
+description: 瞭解如何設定通話錄製的雙方同意設定。 遵守州和當地的錄製法律。
 title: 雙方同意設定
 exl-id: 47634441-c396-4f0c-a9ea-d4f6872b6bf5
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 5%
+source-wordcount: '146'
+ht-degree: 6%
 
 ---
 
@@ -42,7 +42,7 @@ ht-degree: 5%
 
    ![](assets/two-party-consent-settings-5.png)
 
-1. 上傳完成後，在檔案管理員中選取dota （三個點），然後按一下&#x200B;**[!UICONTROL Select as Consent Notice]**。 完成時，按一下&#x200B;**[!UICONTROL OK]**。
+1. 上傳完成後，在檔案管理員中選取dota （三個點），然後按一下&#x200B;**[!UICONTROL Select as Consent Notice]**。 完成後請按一下 **[!UICONTROL OK]**。
 
    ![](assets/two-party-consent-settings-6.png)
 

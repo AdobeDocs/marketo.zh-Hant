@@ -1,13 +1,13 @@
 ---
 unique-page-id: 5472672
-description: 在Marketo銷售Insight - Marketo檔案 — 產品檔案中傳送電子郵件至多筆記錄
+description: 瞭解如何從Salesforce的Marketo Sales Insight傳送電子郵件給多筆記錄。 以電子郵件傳送帳戶或商機上的所有連絡人。
 title: 在 Marketo 銷售洞察中傳送電子郵件至多筆記錄
 exl-id: 65c6f4b3-a23c-40f4-84bd-3510a0f8509f
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 10%
+source-wordcount: '133'
+ht-degree: 9%
 
 ---
 

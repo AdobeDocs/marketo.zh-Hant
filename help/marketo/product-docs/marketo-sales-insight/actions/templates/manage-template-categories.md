@@ -1,14 +1,14 @@
 ---
-description: 管理範本類別 — Marketo檔案 — 產品檔案
+description: 瞭解如何在銷售Insight動作中管理範本類別。 將範本組織成類別和控制項共用。
 title: 管理範本類別
 hide: true
 hidefromtoc: true
 exl-id: 6ec62e51-de9a-4165-b36b-d9260fcfcefe
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 10%
+source-wordcount: '123'
+ht-degree: 19%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 10%
 
 ## 建立類別 {#create-a-category}
 
-1. 按一下「**[!UICONTROL Templates]**」標籤。
+1. 按一下「**[!UICONTROL Templates]**」索引標籤。
 
    ![](assets/manage-template-categories-1.png)
 
@@ -30,7 +30,7 @@ ht-degree: 10%
 
 ## 重新命名範本類別 {#rename-a-template-category}
 
-1. 按一下「**[!UICONTROL Templates]**」標籤。
+1. 按一下「**[!UICONTROL Templates]**」索引標籤。
 
    ![](assets/manage-template-categories-4.png)
 
@@ -44,7 +44,7 @@ ht-degree: 10%
 
 ## 刪除範本類別 {#delete-a-template-category}
 
-1. 按一下「**[!UICONTROL Templates]**」標籤。
+1. 按一下「**[!UICONTROL Templates]**」索引標籤。
 
    ![](assets/manage-template-categories-7.png)
 
@@ -52,7 +52,7 @@ ht-degree: 10%
 
    ![](assets/manage-template-categories-8.png)
 
-1. 按一下&#x200B;**[!UICONTROL Delete]**&#x200B;確認。
+1. 按一下 **[!UICONTROL Delete]** 確認。
 
    ![](assets/manage-template-categories-9.png)
 

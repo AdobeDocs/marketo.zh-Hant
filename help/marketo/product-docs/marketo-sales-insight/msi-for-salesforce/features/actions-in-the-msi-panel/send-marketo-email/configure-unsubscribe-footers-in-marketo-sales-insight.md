@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953373
-description: 在Marketo銷售Insight - Marketo檔案 — 產品檔案中設定取消訂閱頁尾
+description: 瞭解如何在Marketo Sales Insight中設定取消訂閱頁尾。 設定銷售電子郵件的取消訂閱連結及法規遵循。
 title: 在 Marketo 銷售洞察中設定取消訂閱頁尾
 exl-id: 16c1fcba-6826-400c-ab7c-371d8653d4ad
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '184'
-ht-degree: 5%
+source-wordcount: '192'
+ht-degree: 7%
 
 ---
 
@@ -17,13 +17,13 @@ ht-degree: 5%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 >[!NOTE]
 >
 >**定義**
 >
->**銷售電子郵件**&#x200B;是從[!DNL Sales Insight]傳送的電子郵件(不包括從Marketo Outlook外掛程式傳送的電子郵件)。
+>**銷售電子郵件**&#x200B;是從[!DNL Sales Insight]傳送的電子郵件（不包括從Marketo Outlook外掛程式傳送的電子郵件）。
 
 1. 前往「**[!UICONTROL Admin]**」區域。
 

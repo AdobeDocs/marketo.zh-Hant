@@ -1,11 +1,11 @@
 ---
-description: 傳遞管道概觀 — Marketo檔案 — 產品檔案
+description: 瞭解在Sales Insight動作中傳送銷售電子郵件的傳遞管道。 瞭解傳遞管道如何啟用追蹤和傳遞。
 title: 傳遞管道概觀
 exl-id: 8dd6fe3e-86ae-4361-bc0a-6488dc1df9fa
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '660'
+source-wordcount: '673'
 ht-degree: 0%
 
 ---

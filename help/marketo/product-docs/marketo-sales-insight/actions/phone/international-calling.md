@@ -1,11 +1,11 @@
 ---
-description: 國際通話 — Marketo檔案 — 產品檔案
+description: 瞭解銷售Insight動作中的國際呼叫。 從撥號器撥打並記錄國際號碼。
 title: 國際通話
 exl-id: a6ef6f28-865b-42e7-94e5-32874eb9ecb4
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '404'
 ht-degree: 6%
 
 ---
@@ -153,8 +153,8 @@ ht-degree: 6%
 
 **是否有無法與銷售撥號者通話的特定號碼型別？**
 
-可以。我們不支援撥打特價服務電話號碼（例如在美國為900號碼，在英國為+449號碼）。 一般而言，我們不支援撥打共用付費電話號碼，以及少數其他付費路由。
+是的。我們不支援撥打特價服務電話號碼（例如在美國為900號碼，在英國為+449號碼）。 一般而言，我們不支援撥打共用付費電話號碼，以及少數其他付費路由。
 
 **我可以在撥打國際電話時使用本地聯絡嗎？**
 
-不可以。 [本機是否存在](/help/marketo/product-docs/marketo-sales-insight/actions/phone/local-presence.md)僅適用於美國號碼。
+否。[本機是否存在](/help/marketo/product-docs/marketo-sales-insight/actions/phone/local-presence.md)僅適用於美國號碼。

@@ -1,11 +1,11 @@
 ---
-description: 新增附件或可追蹤內容至您的電子郵件 — Marketo檔案 — 產品檔案
+description: 瞭解如何將附件或可追蹤內容新增至銷售電子郵件。 附加檔案或新增可追蹤連結和內容以進行參與追蹤。
 title: 新增附件或可追蹤內容至您的電子郵件
 exl-id: 932ab7f8-3d58-4bc2-a82d-3718f082c369
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '409'
 ht-degree: 4%
 
 ---

@@ -1,12 +1,12 @@
 ---
-description: 電子郵件活動 — Marketo檔案 — 產品檔案
+description: 瞭解Dynamics中Marketo標籤內的電子郵件活動。 檢視潛在客戶和聯絡人的已傳送電子郵件、開啟次數、點按次數和回覆。
 title: 電子郵件活動
 exl-id: 8c5bd8dc-15a2-49c8-8c1c-e2e0b7c8745b
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '43'
-ht-degree: 9%
+source-wordcount: '58'
+ht-degree: 6%
 
 ---
 

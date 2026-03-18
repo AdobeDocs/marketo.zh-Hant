@@ -1,12 +1,12 @@
 ---
-description: 促銷活動設定 — Marketo檔案 — 產品檔案
+description: 瞭解如何設定Sales Campaign設定，包括略過週末、在退回時移除以及回覆行為。
 title: 銷售行銷活動設定
 exl-id: 30674296-4a29-4349-afa8-4307be355d07
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '208'
-ht-degree: 5%
+source-wordcount: '217'
+ht-degree: 9%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 5%
 
    ![](assets/sales-campaign-settings-2.png)
 
-1. 按一下「**[!UICONTROL Settings]**」標籤。
+1. 按一下「**[!UICONTROL Settings]**」索引標籤。
 
    ![](assets/sales-campaign-settings-3.png)
 
@@ -50,7 +50,7 @@ ht-degree: 5%
 
    ![](assets/sales-campaign-settings-6.png)
 
-1. 按一下「**[!UICONTROL Settings]**」標籤。
+1. 按一下「**[!UICONTROL Settings]**」索引標籤。
 
    ![](assets/sales-campaign-settings-7.png)
 
@@ -70,7 +70,7 @@ ht-degree: 5%
 
    ![](assets/sales-campaign-settings-10.png)
 
-1. 按一下「**[!UICONTROL Settings]**」標籤。
+1. 按一下「**[!UICONTROL Settings]**」索引標籤。
 
    ![](assets/sales-campaign-settings-11.png)
 

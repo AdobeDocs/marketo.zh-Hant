@@ -1,12 +1,12 @@
 ---
-description: 邀請使用者和管理員 — Marketo檔案 — 產品檔案
+description: 瞭解如何從「使用者管理」邀請使用者和管理員加入Sales Insight動作。 透過電子郵件或CSV新增使用者，並指派團隊和Marketo工作區。
 title: 邀請使用者和管理員
 exl-id: 00a6ea00-f8ba-4079-86dc-def44599b3ea
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 6%
+source-wordcount: '188'
+ht-degree: 5%
 
 ---
 

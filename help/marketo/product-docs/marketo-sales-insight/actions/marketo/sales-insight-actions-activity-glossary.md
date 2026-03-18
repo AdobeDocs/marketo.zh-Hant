@@ -1,12 +1,12 @@
 ---
-description: 銷售Insight動作活動字彙表 — Marketo檔案 — 產品檔案
+description: 瞭解銷售Insight動作活動型別和術語。 使用辭彙表來瞭解同步至Marketo和Salesforce的活動。
 title: 銷售洞察動作活動字彙表
 exl-id: fd0f632c-6f0d-49f9-a805-0730595c81fd
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '307'
-ht-degree: 7%
+source-wordcount: '319'
+ht-degree: 6%
 
 ---
 

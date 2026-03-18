@@ -1,12 +1,12 @@
 ---
-description: 促銷活動步驟型別和提醒工作 — Marketo檔案 — 產品檔案
+description: 瞭解銷售活動步驟型別和提醒工作。 使用電子郵件、通話、InMail和自訂工作步驟，並在命令中心和Salesforce中排入佇列工作。
 title: 銷售行銷活動步驟類型與提醒工作
 exl-id: 41b19452-ba1a-4ca7-bf22-29314072a346
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '312'
-ht-degree: 5%
+source-wordcount: '325'
+ht-degree: 4%
 
 ---
 

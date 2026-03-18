@@ -1,12 +1,12 @@
 ---
-description: 新增或更新您的電子郵件簽名 — Marketo檔案 — 產品檔案
+description: 瞭解如何在銷售Insight動作中新增或更新您的電子郵件簽名。 設定預設簽名。
 title: 新增或更新您的電子郵件簽名
 exl-id: 5a8c2ca2-2f27-4478-984b-f6b7c62b178d
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 11%
+source-wordcount: '112'
+ht-degree: 10%
 
 ---
 

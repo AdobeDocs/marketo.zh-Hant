@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949281
-description: 發出Marketo電子郵件增益集授權 — Marketo檔案 — 產品檔案
+description: 瞭解如何核發適用於Outlook的Marketo電子郵件增益集授權。 授予授權，讓使用者可以安裝和使用增益集。
 title: 核發 Marketo 電子郵件增益集授權
 exl-id: 179bb2b6-2e06-4e85-8f3f-2cd5d3ae3081
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '289'
-ht-degree: 4%
+source-wordcount: '300'
+ht-degree: 5%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 1. 在「我的Marketo」中，按一下「**[!UICONTROL Admin]**」，然後按「**[!UICONTROL Sales Insight]**」。
 

@@ -1,12 +1,12 @@
 ---
-description: 命令中心總覽 — Marketo檔案 — 產品檔案
+description: 瞭解管理銷售電子郵件和工作的指揮中心。 檢視已傳送電子郵件、指派任務，以及在銷售Insight動作中使用快速動作。
 title: 指揮中心概觀
 exl-id: d7441f28-a432-4443-8eb8-ca6a685524ae
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '472'
-ht-degree: 4%
+source-wordcount: '489'
+ht-degree: 3%
 
 ---
 

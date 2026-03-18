@@ -1,11 +1,11 @@
 ---
-description: 瞭解內容標籤 — Marketo檔案 — 產品檔案
+description: 瞭解銷售Insight動作中的內容標籤和範本參與量度。 檢視機密武器、最高和最低參與度，以及最上層的附件和連結。
 title: 了解內容索引標籤
 exl-id: 67d13ce6-8a21-4dce-b865-3e7115ac4c4b
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '198'
 ht-degree: 2%
 
 ---

@@ -1,11 +1,11 @@
 ---
-description: 將大量動作按鈕新增至Salesforce Classic - Marketo檔案 — 產品檔案
+description: 瞭解如何在Salesforce Classic中新增大量動作按鈕以列出檢視。 新增「傳送銷售電子郵件」和「新增至銷售促銷活動」按鈕。
 title: 新增執行大量動作按鈕至 Salesforce Classic
 exl-id: ed3881ca-1ce6-469b-9b77-b8c35f28e847
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '102'
 ht-degree: 7%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 7%
 
 ![](assets/add-bulk-action-buttons-to-salesforce-classic-1.png)
 
-1. 按一下&#x200B;**[!UICONTROL Setup]**。 搜尋&quot;[!UICONTROL search layout]&quot;並按一下&#x200B;**[!UICONTROL Search Layouts]**&#x200B;底下的&#x200B;**[!UICONTROL Leads]**。
+1. 按一下「**[!UICONTROL Setup]**」。 搜尋&quot;[!UICONTROL search layout]&quot;並按一下&#x200B;**[!UICONTROL Search Layouts]**&#x200B;底下的&#x200B;**[!UICONTROL Leads]**。
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-2.png)
 

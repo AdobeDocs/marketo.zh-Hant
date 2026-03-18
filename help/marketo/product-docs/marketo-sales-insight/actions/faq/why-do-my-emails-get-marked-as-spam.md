@@ -1,11 +1,11 @@
 ---
-description: 為什麼我的電子郵件會被標籤為垃圾訊息？ - Marketo 文件 - 產品文件
+description: 當您的銷售電子郵件標示為垃圾訊息時，取得協助。 瞭解常見原因以及如何改善傳遞能力和傳送者信譽。
 title: 為什麼我的電子郵件會被標記為垃圾郵件？
 exl-id: f42cd9ba-5c05-491b-a471-a8dcc49fe27d
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 11%
+source-wordcount: '190'
+ht-degree: 8%
 
 ---
 

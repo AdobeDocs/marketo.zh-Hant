@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360303
-description: 自訂星星和火焰 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo Sales Insight中自訂星星和火焰。 設定銷售機會分數和急迫性在Salesforce中的顯示方式。
 title: 自訂星星和火焰
 exl-id: f8936ee9-a976-45f7-84cc-c95e93bdddc8
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 4%
+source-wordcount: '174'
+ht-degree: 7%
 
 ---
 
 # 自訂星星和火焰 {#customize-stars-and-flames}
 
-[!DNL Marketo Sales Insight]會使用星星和火焰來排定潛在客戶的優先順序。 Marketo會自動決定誰會獲得1-2-3顆星/火焰。 不過，您可以修改公式。 方法如下：
+[!DNL Marketo Sales Insight]會使用星星和火焰來排定潛在客戶的優先順序。 Marketo會自動決定誰會獲得1-2-3顆星/火焰。 不過，您可以修改公式。 方法如下:
 
 >[!AVAILABILITY]
 >
@@ -21,7 +21,7 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 1. 在[!UICONTROL Admin]底下，按一下&#x200B;**[!UICONTROL Sales Insight]**。
 

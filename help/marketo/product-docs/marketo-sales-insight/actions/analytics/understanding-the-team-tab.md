@@ -1,11 +1,11 @@
 ---
-description: 瞭解團隊標籤 — Marketo檔案 — 產品檔案
+description: 瞭解Sales Insight動作中的「團隊」標籤和團隊範圍電子郵件量度。 檢視範本使用情形、尖峰參與時間、已完成的交易，以及代表排行榜。
 title: 了解團隊索引標籤
 exl-id: 36189eb2-a802-4601-afca-dca3006e4608
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '152'
 ht-degree: 2%
 
 ---

@@ -1,12 +1,12 @@
 ---
-description: 為什麼我所有的連絡人都沒有被推送到Sales Insight動作？ - Marketo 文件 - 產品文件
+description: 瞭解為什麼有些連絡人沒有同步至Sales Insight動作。 瞭解潛在客戶和聯絡人的銷售負責人和同步化需求。
 title: 為什麼我的聯絡人沒有全部被推送至銷售洞察動作？
 exl-id: 5f0a4a66-7650-43c6-a8ea-4f991f4048fd
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 17%
+source-wordcount: '96'
+ht-degree: 12%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37357043
-description: 功能概述 — Marketo檔案 — 產品檔案
+description: 瞭解適用於Microsoft Dynamics的Marketo Sales Insight功能。 在Dynamics CRM中檢視潛在客戶評分、活動和動作。
 title: 功能概觀
 exl-id: 3e6f21bf-3383-4e2d-952f-9b4e67896a58
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 13%
+source-wordcount: '181'
+ht-degree: 12%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 13%
 
 ## 潛在客戶配置中的[!DNL Marketo Sales Insight]個自訂欄位  {#marketo-sales-insight-custom-fields-in-lead-layout}
 
-* 銷售機會分數
+* 銷售線索分數
 * 相對分數
 * 優先順序
 * 急迫性
@@ -50,7 +50,7 @@ ht-degree: 13%
 
 ## 連絡人配置中的[!DNL Marketo Sales Insight]個自訂欄位  {#marketo-sales-insight-custom-fields-in-contact-layout}
 
-* 銷售機會分數
+* 銷售線索分數
 * 相對分數
 * 優先順序
 * 急迫性

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 42762519
-description: 現有客戶的設定 — Marketo檔案 — 產品檔案
+description: 瞭解如何為現有Marketo客戶設定Salesforce Sales Insight。 從舊版套件更新或新增動作。
 title: 針對現有客戶的設定
 exl-id: e365f6b5-a3ec-492e-9348-2d3226e6c7eb
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '157'
 ht-degree: 10%
 
 ---
@@ -51,7 +51,7 @@ ht-degree: 10%
 
    ![](assets/configuration-for-existing-customers-6.png)
 
-1. 輸入[!UICONTROL Remote Site Name] （可能類似於「MarketoRestAPI」）和[!UICONTROL Remote Site URL] (您在Marketo中來自Rest API設定面板的API URL)。
+1. 輸入[!UICONTROL Remote Site Name] （可能類似於「MarketoRestAPI」）和[!UICONTROL Remote Site URL] （您在Marketo中來自Rest API設定面板的API URL）。
 
    ![](assets/configuration-for-existing-customers-7.png)
 

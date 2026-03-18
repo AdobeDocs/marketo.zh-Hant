@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949285
-description: 在Marketo - Marketo檔案 — 產品檔案中記錄潛在客戶寄來的傳入郵件
+description: 瞭解如何在Marketo中記錄潛在客戶的傳入郵件。 擷取回覆和傳入電子郵件並將它們歸因到正確的主要客戶記錄。
 title: 在 Marketo 中記錄來自商機的傳入郵件
 exl-id: 4fab5007-f6fb-432c-ae13-02da747a82ef
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 12%
+source-wordcount: '139'
+ht-degree: 11%
 
 ---
 

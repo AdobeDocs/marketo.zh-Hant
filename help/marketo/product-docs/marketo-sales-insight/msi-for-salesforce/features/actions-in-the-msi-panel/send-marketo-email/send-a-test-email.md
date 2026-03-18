@@ -1,12 +1,12 @@
 ---
-description: 傳送測試電子郵件 — Marketo檔案 — 產品檔案
+description: 瞭解如何從Salesforce的MSI面板傳送測試電子郵件。 在傳送給潛在客戶之前，預覽和測試銷售電子郵件範本。
 title: 傳送測試電子郵件
 exl-id: 5577460d-71e9-4ded-bcd3-07689fca4c43
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 7%
+source-wordcount: '157'
+ht-degree: 8%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 7%
 
 1. 按一下「**[!UICONTROL Edit Test Recipients]**」。
 
-1. 您可以從清單中選擇一或多個銷售機會，以檢視它將如何呈現給他們。 完成時，按一下&#x200B;**[!UICONTROL Apply Changes]**。
+1. 您可以從清單中選擇一或多個銷售機會，以檢視它將如何呈現給他們。 完成後請按一下 **[!UICONTROL Apply Changes]**。
 
    ![](assets/send-a-test-email-1.png)
 

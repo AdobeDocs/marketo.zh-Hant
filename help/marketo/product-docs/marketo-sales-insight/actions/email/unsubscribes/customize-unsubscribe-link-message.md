@@ -1,11 +1,11 @@
 ---
-description: 自訂取消訂閱連結訊息 — Marketo檔案 — 產品檔案
+description: 瞭解如何在銷售電子郵件中自訂取消訂閱連結訊息。 編輯使用者選擇退出時看到的文字。
 title: 自訂取消訂閱連結訊息
 exl-id: 62dc1f64-dd81-4f39-a9c3-5f986faaa634
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '199'
 ht-degree: 4%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 42762244
-description: 設定銷售機會/聯絡人記錄的星星和火焰 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Dynamics中為潛在客戶與聯絡人記錄設定星星和火焰。 在CRM中顯示潛在客戶評分和急迫性。
 title: 針對商機/聯絡人記錄設定星星 (相對分數) 和火焰 (急迫性)
 exl-id: 696b2551-0627-4da1-a64e-d3ef91596442
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 11%
+source-wordcount: '164'
+ht-degree: 10%
 
 ---
 

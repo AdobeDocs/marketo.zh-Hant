@@ -1,11 +1,11 @@
 ---
-description: 如何設定自訂網域追蹤 — Marketo檔案 — 產品檔案
+description: 瞭解如何設定自訂網域追蹤，讓可追蹤連結使用您的公司網域。
 title: 如何設定自訂網域追蹤
 exl-id: 6dea7f3d-d44d-4f67-af44-a8963c95c378
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '191'
 ht-degree: 7%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 7%
 
 自訂網域追蹤可讓您的團隊在新增至銷售電子郵件的所有可追蹤連結中，使用您自己的公司名稱。 完成此設定後，我們將允許列出您在電子郵件中的所有連結，以顯示為go.yourcompany.com，這樣當有人將滑鼠游標停留在連結上時，將會顯示go.yourcompany.com而非go.toutapp.com。
 
-您需要IT團隊的協助，才能為指向go.toutapp.com的網域設定CNAME記錄。 此CNAME會出現在您的所有追蹤連結(例如go.yourcompany.com)上。
+您需要IT團隊的協助，才能為指向go.toutapp.com的網域設定CNAME記錄。 此CNAME會出現在您的所有追蹤連結（例如go.yourcompany.com）上。
 
 一旦IT團隊確認CNAME已正確設定，您就可以將其新增至「動作」中的「[!UICONTROL Custom Domain Tracking]」頁面。
 

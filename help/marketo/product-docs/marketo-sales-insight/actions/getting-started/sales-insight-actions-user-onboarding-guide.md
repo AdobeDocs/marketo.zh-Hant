@@ -1,12 +1,12 @@
 ---
-description: 銷售Insight動作使用者入門指南 — Marketo檔案 — 產品檔案
+description: 瞭解如何以新的Sales Insight Actions使用者身分開始使用。 完成設定步驟並連線電子郵件、Salesforce和Marketo。
 title: 銷售洞察動作使用者上線指南
 exl-id: ace517b6-3a06-4e2e-b545-8c95ad0cf457
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '299'
-ht-degree: 6%
+source-wordcount: '310'
+ht-degree: 5%
 
 ---
 

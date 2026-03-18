@@ -1,11 +1,11 @@
 ---
-description: 本地存在 — Marketo檔案 — 產品檔案
+description: 瞭解銷售電話的當地狀態。 顯示本機來電顯示，讓潛在客戶在您通話時看到其所在區域的號碼。
 title: 本地業務
 exl-id: 719fd3e8-1586-4aa1-940f-931dd3b99bd4
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '158'
 ht-degree: 3%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 3%
 
    ![](assets/local-presence-2.png)
 
-## 常見問題 {#faq}
+## 常見問題集 {#faq}
 
 **我的連絡人能回電給我這個新號碼嗎？**
 

@@ -1,11 +1,11 @@
 ---
-description: 電子郵件欄和電子郵件頁面配置 — Marketo檔案 — 產品檔案
+description: 瞭解命令中心的電子郵件欄和頁面配置。 自訂要顯示哪些欄以及電子郵件活動的顯示方式。
 title: 電子郵件欄和電子郵件頁面版面
 exl-id: 004c9cdf-7ab1-4476-ba72-9074d978b887
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '468'
+source-wordcount: '478'
 ht-degree: 2%
 
 ---

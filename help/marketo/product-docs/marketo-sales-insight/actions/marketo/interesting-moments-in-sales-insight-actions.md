@@ -1,11 +1,11 @@
 ---
-description: 銷售Insight動作中的有趣時刻 — Marketo檔案 — 產品檔案
+description: 瞭解銷售Insight動作中的有趣時刻。 瞭解如何在Marketo和Salesforce中記錄與顯示關鍵活動。
 title: 銷售洞察動作中的關鍵時刻
 exl-id: b2423fbb-9ce0-4ce9-bc26-93aa69aa9e12
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '242'
 ht-degree: 2%
 
 ---
@@ -42,7 +42,7 @@ ht-degree: 2%
 
    >[!NOTE]
    >
-   >Marketo也會新增發生日期以及新增有趣時刻的方式(即潛在客戶動作>流程步驟、SOAP API)。
+   >Marketo也會新增發生日期以及新增有趣時刻的方式（即潛在客戶動作>流程步驟、SOAP API）。
 
 ## Marketo中有趣的時刻是什麼樣子？  {#what-does-an-interesting-moment-look-like-in-marketo}
 

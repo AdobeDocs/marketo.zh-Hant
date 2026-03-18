@@ -1,12 +1,12 @@
 ---
-description: 行銷活動已結束 — Marketo檔案 — 產品檔案
+description: 瞭解為什麼排程的行銷活動電子郵件會失敗而行銷活動已結束。 尋找退信、回覆或手動行銷活動結束等原因。
 title: 行銷活動已結束
 exl-id: ca1ec3bb-7e7d-4524-b8ac-f0ce386c0c36
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 9%
+source-wordcount: '74'
+ht-degree: 8%
 
 ---
 

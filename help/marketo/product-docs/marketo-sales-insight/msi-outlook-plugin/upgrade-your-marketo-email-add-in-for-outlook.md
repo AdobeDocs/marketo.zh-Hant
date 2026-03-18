@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949279
-description: 針對 [!DNL Outlook] 升級Marketo電子郵件增益集 — Marketo檔案 — 產品檔案
+description: 瞭解如何升級適用於Outlook的Marketo電子郵件增益集。 取得最新版本的新功能和修正。
 title: 升級 [!DNL Outlook]的Marketo電子郵件增益集
 exl-id: 079f1142-8062-448c-aa07-59ecd89a718f
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '326'
 ht-degree: 11%
 
 ---

@@ -1,12 +1,12 @@
 ---
-description: 封鎖的網域 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Sales Insight動作中封鎖網域，以防止傳送電子郵件給競爭對手或垃圾郵件陷阱。
 title: 已封鎖的網域
 exl-id: 004ba212-485e-4412-be75-7de13505d9b0
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 4%
+source-wordcount: '98'
+ht-degree: 7%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 1. 在網頁應用程式中，按一下齒輪圖示並選取&#x200B;**[!UICONTROL Settings]**。
 

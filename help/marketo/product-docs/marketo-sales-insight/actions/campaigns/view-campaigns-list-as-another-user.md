@@ -1,12 +1,12 @@
 ---
-description: 以其他使用者身分檢視行銷活動清單 — Marketo檔案 — 產品檔案
+description: 瞭解當您是管理員時，如何以其他使用者的身分檢視行銷活動。 使用「促銷活動」頁面上的「檢視方式」下拉式清單，檢視任何使用者的促銷活動。
 title: 以其他使用者的身分檢視行銷活動清單
 exl-id: 6a196618-fe34-4770-b405-289f886eb389
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 15%
+source-wordcount: '93'
+ht-degree: 16%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 15%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 1. 在網頁應用程式中，按一下&#x200B;**[!UICONTROL Campaigns]**。
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949711
-description: 使用註冊代碼為 [!DNL Outlook] 安裝Marketo電子郵件增益集 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用註冊代碼安裝適用於Outlook的Marketo電子郵件增益集。 為擁有註冊代碼的使用者取得增益集。
 title: 使用註冊代碼為 [!DNL Outlook] 安裝Marketo電子郵件增益集
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '522'
-ht-degree: 4%
+source-wordcount: '532'
+ht-degree: 3%
 
 ---
 

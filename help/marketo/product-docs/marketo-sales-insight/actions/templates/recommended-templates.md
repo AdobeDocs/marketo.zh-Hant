@@ -1,11 +1,11 @@
 ---
-description: 建議範本 — Marketo檔案 — 產品檔案
+description: 瞭解建議的範本和最佳實務。 建立有效的銷售電子郵件範本，以取得參與度。
 title: 推薦的範本
 exl-id: 079068c3-65e5-45c7-aa8e-63fadd1c5d02
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '289'
 ht-degree: 1%
 
 ---
@@ -46,7 +46,7 @@ ht-degree: 1%
 
 現在，請選取您的條件。 當您的動態欄位條件符合時，將建議使用範本。 從4個不同條件中選擇。
 
-**[!UICONTROL Equals]**：值必須為完全相符的值(例如Marketo等於Marketo)
+**[!UICONTROL Equals]**：值必須為完全相符的值（例如Marketo等於Marketo）
 
 **[!UICONTROL Does not Equal]**：值必須為完全相符的專案（例如，「行銷國家」不等於「行銷」）
 

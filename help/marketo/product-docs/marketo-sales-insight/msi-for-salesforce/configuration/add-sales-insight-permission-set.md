@@ -1,11 +1,11 @@
 ---
-description: 新增銷售Insight許可權集 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Salesforce中新增銷售Insight許可權集。 將集指派給需要Marketo Sales Insight存取權的使用者。
 title: 新增銷售洞察權限集
 exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '348'
 ht-degree: 3%
 
 ---

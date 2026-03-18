@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7512654
-description: 在Salesforce1中檢視銷售機會摘要 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Salesforce Mobile (Salesforce1)中檢視潛在客戶摘要。 在行動裝置上的MSI面板中檢視即時銷售機會活動。
 title: 在 Salesforce1 中查看商機動態消息
 exl-id: c6811752-0e60-4b38-88bb-7b1061ee6f7b
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '79'
 ht-degree: 7%
 
 ---
@@ -35,4 +35,4 @@ ht-degree: 7%
 >
 >* [中的 [!DNL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)個有趣時刻
 >* [在 [!DNL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)中傳送Marketo電子郵件和行銷活動及監看清單動作
->* [[!DNL Best Bets] 在 [!DNL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
+>* [[!DNL Best Bets] in [!DNL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)

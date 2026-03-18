@@ -1,11 +1,11 @@
 ---
-description: 將銷售活動屬性記錄到Salesforce - Marketo檔案 — 產品檔案
+description: 瞭解如何在Salesforce中新增銷售Insight動作的自訂活動欄位。 在設定中建立活動自訂欄位，以記錄通話結果、原因等。
 title: 將銷售活動屬性記錄至 Salesforce
 exl-id: fdefe53b-eb99-48ce-a04e-3666be33fea4
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '225'
-ht-degree: 14%
+source-wordcount: '241'
+ht-degree: 13%
 
 ---
 

@@ -1,11 +1,11 @@
 ---
-description: 連線到Outlook - Marketo檔案 — 產品檔案
+description: 瞭解如何將Outlook連線至Sales Insight動作。 透過Actions整合，從Outlook傳送及追蹤銷售電子郵件。
 title: 連接至 Outlook
 exl-id: 760db2d2-2e5d-4988-891a-9c57250264ac
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '485'
-ht-degree: 2%
+source-wordcount: '498'
+ht-degree: 3%
 
 ---
 
@@ -41,7 +41,7 @@ ht-degree: 2%
 
    ![](assets/connect-to-outlook-5.png)
 
-1. 選取您正在使用的Outlook版本，然後按一下[下一步] **&#x200B;**。 在此範例中，我們選擇Outlook Online。
+1. 選取您正在使用的Outlook版本，然後按一下[下一步] ****。 在此範例中，我們選擇Outlook Online。
 
    ![](assets/connect-to-outlook-6.png)
 
@@ -66,7 +66,7 @@ ht-degree: 2%
 
    ![](assets/connect-to-outlook-7.png)
 
-1. 如果您尚未登入Outlook，請輸入您的登入資訊，然後按一下[下一步] **&#x200B;**。 如果是，請選擇您要連線的帳戶，然後按一下[下一步] **&#x200B;**。 在此範例中，我們已登入。
+1. 如果您尚未登入Outlook，請輸入您的登入資訊，然後按一下[下一步] ****。 如果是，請選擇您要連線的帳戶，然後按一下[下一步] ****。 在此範例中，我們已登入。
 
    ![](assets/connect-to-outlook-8.png)
 
@@ -78,7 +78,7 @@ ht-degree: 2%
 
    >[!NOTE]
    >
-   >Outlook Online (Office365)會強制執行其本身的傳送限制。 [在這裡瞭解更多](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits)。
+   >Outlook Online (Office365)會強制執行其本身的傳送限制。 [若要了解更多資訊，請參閱此處](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits)。
 
 ## 正在連線到Exchange On-Premise {#connecting-to-exchange-on-premise}
 
@@ -104,7 +104,7 @@ ht-degree: 2%
 
    ![](assets/connect-to-outlook-14.png)
 
-1. 選取您正在使用的Outlook版本，然後按一下[下一步] **&#x200B;**。 在此範例中，我們選擇Exchange On-premise。
+1. 選取您正在使用的Outlook版本，然後按一下[下一步] ****。 在此範例中，我們選擇Exchange On-premise。
 
    ![](assets/connect-to-outlook-15.png)
 

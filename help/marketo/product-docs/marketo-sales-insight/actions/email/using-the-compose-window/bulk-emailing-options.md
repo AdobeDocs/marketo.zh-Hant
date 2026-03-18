@@ -1,11 +1,11 @@
 ---
-description: 大量電子郵件選項 — Marketo檔案 — 產品檔案
+description: 瞭解銷售Insight動作中的大量電子郵件選項。 使用群組電子郵件、選取並傳送或行銷活動傳送給多個收件者。
 title: 大量寄送電子郵件選項
 exl-id: 08cc60d5-0db1-4dfa-9441-4c5e5a021d73
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '266'
 ht-degree: 5%
 
 ---

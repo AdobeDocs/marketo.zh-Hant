@@ -1,18 +1,18 @@
 ---
-description: 將來電原因和來電結果記錄到Salesforce - Marketo檔案 — 產品檔案
+description: 瞭解如何將來電原因及來電結果記錄到Salesforce。 確保呼叫活動和屬性同步至CRM。
 title: 將通話原因和通話結果記錄至 Salesforce
 exl-id: cfe71388-282b-45e5-a817-45a951f613bc
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '461'
+source-wordcount: '469'
 ht-degree: 5%
 
 ---
 
 # 將通話原因和通話結果記錄至 Salesforce {#log-call-reasons-and-call-outcomes-to-salesforce}
 
-如果您想要將通話結果及來電理由記錄到Salesforce以供報告或顯示之用，您可以為每個建立自訂活動欄位。 每個欄位都必須使用特定的API名稱(在Salesforce中稱為「欄位名稱」)。
+如果您想要將通話結果及來電理由記錄到Salesforce以供報告或顯示之用，您可以為每個建立自訂活動欄位。 每個欄位都必須使用特定的API名稱（在Salesforce中稱為「欄位名稱」）。
 
 * 通話結果欄位名稱：mktosales_call_output
 * 來電原因欄位名稱： mktosales_call_reason
@@ -59,7 +59,7 @@ ht-degree: 5%
    >
    >請確定您的Sales Insight Actions使用者所使用的設定檔可看見自訂欄位，以及您想要的其他顯示位置。
 
-1. 選取您要新增欄位的頁面配置，然後按一下[儲存] **&#x200B;**&#x200B;（您可以選擇按一下[儲存與新增] **&#x200B;**，然後對[來電原因]欄位重複此程式）。
+1. 選取您要新增欄位的頁面配置，然後按一下[儲存] **** （您可以選擇按一下[儲存與新增] ****，然後對[來電原因]欄位重複此程式）。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-9.png)
 

@@ -1,11 +1,11 @@
 ---
-description: 來電原因 — Marketo檔案 — 產品檔案
+description: 瞭解銷售Insight動作中的來電原因。 設定進行呼叫的原因，使其登入Marketo和Salesforce。
 title: 通話原因
 exl-id: 82533d6b-a373-49c7-9cee-271e36916111
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '181'
 ht-degree: 2%
 
 ---
@@ -54,7 +54,7 @@ ht-degree: 2%
 
    ![](assets/call-reasons-7.png)
 
-1. 在文字欄位中輸入您想要的來電原因名稱，然後按一下[新增]。**&#x200B;**
+1. 在文字欄位中輸入您想要的來電原因名稱，然後按一下[新增]。****
 
    ![](assets/call-reasons-8.png)
 

@@ -1,12 +1,12 @@
 ---
-description: 啟用通話錄製 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Sales Insight動作中啟用通話錄製。 開啟錄製，並在必要時遵守雙方同意。
 title: 啟用通話錄音
 exl-id: 85a271f7-5cd9-4660-80b3-60742b743979
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 7%
+source-wordcount: '96'
+ht-degree: 6%
 
 ---
 

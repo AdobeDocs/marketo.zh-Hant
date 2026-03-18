@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2950396
-description: 優先順序、急迫性、相對分數和首選值 — Marketo檔案 — 產品檔案
+description: 瞭解Marketo Sales Insight中的優先順序、急迫性、相對分數和首選。 瞭解MSI面板中的潛在客戶評分。
 title: 優先順序、急迫性、相對分數以及最佳選擇
 exl-id: 391aae00-e4f5-4fb1-8728-f5224276dfc2
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '454'
 ht-degree: 1%
 
 ---

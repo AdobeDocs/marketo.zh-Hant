@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11377005
-description: 為銷售啟用RSS Insight - Marketo檔案 — 產品檔案
+description: 瞭解如何為Marketo Sales Insight啟用RSS。 允許使用者透過Salesforce中的RSS訂閱潛在客戶摘要更新。
 title: 針對銷售洞察啟用 RSS
 exl-id: 1b6c0dc7-6f24-4931-ae99-6a2cf00db99d
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 8%
+source-wordcount: '93'
+ht-degree: 10%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 8%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 如果Marketo使用者不僅想要在[!DNL Salesforce]中檢視他們的潛在客戶摘要，也想要在RSS摘要中檢視，Marketo管理員必須先將其啟用。 設定很簡單。
 

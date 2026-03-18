@@ -1,9 +1,9 @@
 ---
-description: 電子郵件標示為垃圾訊息 — Marketo檔案 — 產品檔案
+description: 當銷售電子郵件標示為垃圾訊息時，取得協助。 瞭解改善傳遞能力及避免垃圾郵件篩選器的原因和步驟。
 title: 電子郵件被標記為垃圾郵件
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '221'
 ht-degree: 3%
 
 ---

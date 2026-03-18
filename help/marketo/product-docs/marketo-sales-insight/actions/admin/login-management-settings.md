@@ -1,12 +1,12 @@
 ---
-description: 登入管理設定 — Marketo檔案 — 產品檔案
+description: 瞭解銷售Insight動作驗證的登入管理設定。 設定「僅限Salesforce」或其他選項。
 title: 登入管理設定
 exl-id: 077f7f97-1413-4495-b2c9-94194e8dbcc2
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '434'
-ht-degree: 1%
+source-wordcount: '443'
+ht-degree: 2%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 1%
 
    ![](assets/login-management-settings-2.png)
 
-1. 向下捲動至「[!UICONTROL Login Management]」卡片並選取所需的設定(在此範例中，我們選擇「僅限Salesforce」)。 完成時，按一下&#x200B;**[!UICONTROL Save]**。
+1. 向下捲動至「[!UICONTROL Login Management]」卡片並選取所需的設定（在此範例中，我們選擇「僅限Salesforce」）。 完成後請按一下 **[!UICONTROL Save]**。
 
    ![](assets/login-management-settings-3.png)
 
@@ -72,4 +72,4 @@ ht-degree: 1%
 
 ### 選取&quot;[!UICONTROL All Login Methods]&quot;時，允許我的執行個體的使用者使用哪些專案登入？ {#what-are-users-allowed-to-log-in-with-all-login}
 
-使用我們的登入頁面時，使用者將先輸入其電子郵件地址。 接著，系統會將使用者傳送至頁面，提供所有登入選項(使用者名稱/密碼、SFDC、Gmail、SSO)，以利使用者進行驗證。
+使用我們的登入頁面時，使用者將先輸入其電子郵件地址。 接著，系統會將使用者傳送至頁面，提供所有登入選項（使用者名稱/密碼、SFDC、Gmail、SSO），以利使用者進行驗證。

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949716
-description: 使用 [!DNL Outlook] - Marketo檔案 — 產品檔案的電子郵件增益集傳送及追蹤電子郵件
+description: 瞭解如何使用適用於Outlook的Marketo電子郵件增益集來傳送及追蹤電子郵件。 從Outlook撰寫並檢視檢視、點按和回覆。
 title: 使用 [!DNL Outlook]的電子郵件增益集傳送及追蹤電子郵件
 exl-id: 81c2ce86-1528-48ad-8848-ee5a828f9ff7
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---

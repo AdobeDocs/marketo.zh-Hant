@@ -1,11 +1,11 @@
 ---
-description: 異動銷售電子郵件範本 — Marketo檔案 — 產品檔案
+description: 瞭解異動銷售電子郵件範本以及不需要取消訂閱連結的情況。 用於一對一交易式訊息。
 title: 交易型銷售電子郵件範本
 feature: Sales Insight Actions
 exl-id: 0178155e-f01c-449f-b510-40adf718e177
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '183'
 ht-degree: 4%
 
 ---

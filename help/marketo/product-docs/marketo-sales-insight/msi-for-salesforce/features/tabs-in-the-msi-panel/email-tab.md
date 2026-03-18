@@ -1,11 +1,11 @@
 ---
-description: 電子郵件標籤 — Marketo檔案 — 產品檔案
+description: 瞭解Marketo Sales Insight面板中的「電子郵件」索引標籤。 檢視潛在客戶或連絡人的已傳送電子郵件、開啟、點按和回覆。
 title: 電子郵件索引標籤
 exl-id: 2fbc966a-6409-4eca-8730-83843b03d19c
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '171'
 ht-degree: 3%
 
 ---

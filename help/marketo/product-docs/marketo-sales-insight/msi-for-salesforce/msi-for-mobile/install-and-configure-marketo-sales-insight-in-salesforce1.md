@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7511512
-description: 在Salesforce1中安裝及設定Marketo Sales Insight - Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo Mobile (Salesforce1)中安裝和設定Salesforce Sales Insight。 在行動裝置上使用MSI。
 title: 在 Salesforce1 中安裝及設定 Marketo 銷售洞察
 exl-id: 9f26e90b-3199-4ef8-92bc-95e8bd81f1c5
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '290'
 ht-degree: 7%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 7%
 
 >[!NOTE]
 >
->[!DNL Marketo Sales Insight]中的[!DNL Salesforce1]包括：[!DNL B最佳賭注]、銷售機會摘要、有趣的時刻，以及新增至Marketo行銷活動。
+>[!DNL Marketo Sales Insight]中的[!DNL Salesforce1]包括：[!DNLB最佳賭注]、銷售機會摘要、有趣的時刻，以及新增至Marketo行銷活動。
 
 ## 啟用[!DNL Salesforce1]行動應用程式 {#enable-the-salesforce1-mobile-app}
 
@@ -163,6 +163,6 @@ ht-degree: 7%
 
 >[!MORELIKETHIS]
 >
->* [[!DNL Best Bets] 在 [!DNL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
+>* [[!DNL Best Bets] in [!DNL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
 >* [中的 [!DNL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)個有趣時刻
 >* [在 [!DNL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)中傳送Marketo電子郵件和行銷活動及監看清單動作

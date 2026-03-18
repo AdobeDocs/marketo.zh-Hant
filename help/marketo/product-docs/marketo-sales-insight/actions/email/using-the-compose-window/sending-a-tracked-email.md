@@ -1,12 +1,12 @@
 ---
-description: 傳送追蹤電子郵件 — Marketo檔案 — 產品檔案
+description: 瞭解如何傳送追蹤的銷售電子郵件，以便檢視檢視、點按和回覆。 使用傳送通道並從指揮中心追蹤。
 title: 傳送被追蹤的電子郵件
 hide: true
 hidefromtoc: true
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 4%
+source-wordcount: '215'
+ht-degree: 3%
 
 ---
 

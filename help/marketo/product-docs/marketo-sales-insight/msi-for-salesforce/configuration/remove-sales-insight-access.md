@@ -1,11 +1,11 @@
 ---
-description: 移除銷售Insight存取權 — Marketo檔案 — 產品檔案
+description: 瞭解如何從Salesforce的使用者或設定檔中移除銷售Insight存取權。 當使用者不再需要MSI時，撤銷存取權。
 title: 移除銷售洞察存取權
 exl-id: 3cda112a-524e-469b-a222-c0192b2f5301
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '342'
 ht-degree: 4%
 
 ---

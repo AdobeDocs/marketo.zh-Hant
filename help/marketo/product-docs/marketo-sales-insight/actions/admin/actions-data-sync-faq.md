@@ -1,11 +1,11 @@
 ---
-description: 動作資料同步常見問題集 — Marketo檔案 — 產品檔案
+description: 瞭解Marketo Engage、Salesforce和Sales Insight Actions之間的Actions資料同步。 取得有關人員與活動資料同步的常見問題解答。
 title: 動作資料同步常見問題集
 feature: Sales Insight Actions
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '958'
+source-wordcount: '974'
 ht-degree: 1%
 
 ---
@@ -86,7 +86,7 @@ ht-degree: 1%
 
 ## [!DNL Sales Insight Actions]個使用者是否可以在Actions Web App中編輯人員資料？ {#can-actions-users-edit-people-data}
 
-否，「動作」網頁應用程式的使用者和管理員都無法在「動作」中建立及編輯人員記錄。 必須在[!DNL Salesforce]或Marketo Engage中建立和編輯人員。 [!DNL Sales Insight Actions]會持續同步新資料，以使用Marketo作為人員資料的信任來源，因此，如果人員是從MarketoMarketo的工作流程更新或建立的，或是從[!DNL Salesforce]同步的，這些更新將會傳遞至[!DNL Sales Insight Actions]網頁應用程式資料庫。
+否，「動作」網頁應用程式的使用者和管理員都無法在「動作」中建立及編輯人員記錄。 必須在[!DNL Salesforce]或Marketo Engage中建立和編輯人員。 [!DNL Sales Insight Actions]會持續同步新資料，以使用Marketo作為人員資料的信任來源，因此，如果人員是從Marketo的工作流程更新或建立的，或是從[!DNL Salesforce]同步的，這些更新將會傳遞至[!DNL Sales Insight Actions]網頁應用程式資料庫。
 
 ## 銷售活動會記錄到Marketo嗎？ {#do-sales-activities-log-to-marketo}
 

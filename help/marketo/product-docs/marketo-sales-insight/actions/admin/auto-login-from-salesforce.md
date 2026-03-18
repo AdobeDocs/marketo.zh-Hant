@@ -1,11 +1,11 @@
 ---
-description: 從Salesforce自動登入 — Marketo檔案 — 產品檔案
+description: 瞭解如何從Salesforce啟用自動登入，以便使用者自動驗證銷售Insight動作。 將「登入管理」設定為「僅限Salesforce」並連線帳戶。
 title: 從Salesforce自動登入
 exl-id: 3b788af5-6204-40f8-af79-74729de45744
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---

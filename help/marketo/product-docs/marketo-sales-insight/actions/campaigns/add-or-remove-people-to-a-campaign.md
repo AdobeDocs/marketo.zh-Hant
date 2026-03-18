@@ -1,11 +1,11 @@
 ---
 unique-page-id: 14352613
-description: 新增人員至您的行銷活動 — Marketo檔案 — 產品檔案
+description: 瞭解如何從網頁應用程式、Salesforce或收件匣新增或移除Sales Campaigns的人員。 設定回覆和退信選項以自動結束行銷活動。
 title: 新增人員至您的行銷活動
 exl-id: ef88ee07-6d33-40aa-9b0b-ccef12829345
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '462'
 ht-degree: 3%
 
 ---
@@ -48,7 +48,7 @@ ht-degree: 3%
 
    ![](assets/three.png)
 
-1. 尋找您要移除的人員，然後按一下[移除]。**&#x200B;**
+1. 尋找您要移除的人員，然後按一下[移除]。****
 
    ![](assets/four.png)
 

@@ -1,11 +1,11 @@
 ---
-description: 解除安裝Salesforce自訂套件 — Marketo檔案 — 產品檔案
+description: 瞭解如何解除安裝Marketo Sales Insight的Salesforce Classic自訂套件。 必要時移除套件。
 title: 解除安裝Salesforce自訂套件
 hide: true
 hidefromtoc: true
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '18'
+source-wordcount: '28'
 ht-degree: 0%
 
 ---

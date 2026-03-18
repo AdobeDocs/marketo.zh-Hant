@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11375827
-description: 將Marketo與Dynamics同步的必填欄位 — Marketo檔案 — 產品檔案
+description: 瞭解將Marketo與Dynamics同步所需的欄位。 請確定正確的欄位已對應完畢，MSI才能正常運作。
 title: 將 Marketo 與 Dynamics 同步的必要欄位
 exl-id: c1b9d208-bdc0-4718-b3e5-e9e915b8ae0f
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 6%
+source-wordcount: '159'
+ht-degree: 5%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
-description: 回覆記錄 — Marketo檔案 — 產品檔案
+description: 瞭解回覆記錄，以便將潛在客戶回覆記錄到Salesforce。 啟用API記錄時記錄回覆，且回覆追蹤可用。
 title: 回應記錄
 hide: true
 hidefromtoc: true
 exl-id: a89e8212-83cb-4987-abc9-76c5fd74c152
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '255'
 ht-degree: 2%
 
 ---

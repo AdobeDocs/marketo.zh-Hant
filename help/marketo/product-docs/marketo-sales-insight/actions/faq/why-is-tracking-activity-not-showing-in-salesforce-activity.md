@@ -1,12 +1,12 @@
 ---
-description: Salesforce活動中為何未顯示追蹤活動？ - Marketo 文件 - 產品文件
+description: Salesforce活動中未顯示追蹤活動時的疑難排解。 檢查同步設定、API記錄及許可權。
 title: 為什麼追蹤活動未顯示在 Salesforce 活動中？
 exl-id: 119b41a2-b691-48f8-9399-efcd5b47d942
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 16%
+source-wordcount: '83'
+ht-degree: 10%
 
 ---
 

@@ -1,9 +1,9 @@
 ---
-description: 管理您的設定檔 — Marketo檔案 — 產品檔案
+description: 瞭解如何管理您的銷售Insight動作設定檔。 更新「設定」中的名稱、電子郵件、簽名和通知偏好設定。
 title: 管理您的設定檔
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '269'
 ht-degree: 2%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 2%
 
    ![](assets/manage-your-profile-1.png)
 
-1. 您的「我的設定檔」頁面預設會開啟。 若要更新您的名稱，只要輸入變更並按一下[儲存]。**&#x200B;**
+1. 您的「我的設定檔」頁面預設會開啟。 若要更新您的名稱，只要輸入變更並按一下[儲存]。****
 
    ![](assets/manage-your-profile-2.png)
 

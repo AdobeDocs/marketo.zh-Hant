@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11382815
-description: Marketo [!DNL Outlook] IT安裝外掛程式 — Marketo檔案 — 產品檔案
+description: 瞭解IT人員如何為組織安裝Marketo Outlook外掛程式。 為Outlook使用者大規模部署增益集。
 title: 由IT安裝Marketo [!DNL Outlook] 外掛程式
 exl-id: c1ae1fb8-d1ad-4c1b-899b-29629fcb166b
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '179'
 ht-degree: 1%
 
 ---

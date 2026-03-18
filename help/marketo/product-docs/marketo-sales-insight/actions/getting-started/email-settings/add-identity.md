@@ -1,11 +1,11 @@
 ---
-description: 新增身分 — Marketo檔案 — 產品檔案
+description: 瞭解如何在銷售Insight動作中新增電子郵件身分識別。 在「設定」中的「電子郵件」下新增及驗證傳送地址。
 title: 新增身分識別
 exl-id: a85937c3-aa15-4900-a42b-950ab2ae1776
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '188'
 ht-degree: 3%
 
 ---

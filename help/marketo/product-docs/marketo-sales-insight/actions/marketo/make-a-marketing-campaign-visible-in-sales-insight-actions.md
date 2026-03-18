@@ -1,11 +1,11 @@
 ---
-description: 在銷售Insight動作 — Marketo檔案 — 產品檔案中顯示行銷活動
+description: 瞭解如何在「銷售Insight動作」中顯示Marketo行銷活動。 允許銷售使用者從「動作」將銷售機會新增至行銷活動。
 title: 在銷售Insight動作中顯示行銷活動
 exl-id: 223baca3-159e-4f0d-b26f-f4c924a39fc3
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 行銷活動只有在顯示後才可共用。
 
-透過Sales Insight Actions，使用者將可存取名為toutapp.com的新銷售應用程式。 此應用程式為他們提供一組新的動作功能，同時也繼承了Sales Insights核心版本中可用的&#x200B;_加入行銷活動_&#x200B;功能。 請牢記這一點，因為根據您想要使用者存取「新增至行銷活動」功能(toutapp.com或MSI SFDC套件體驗)的位置，您的Marketo行銷活動將需要不同的設定。 請參閱步驟4中的附註以瞭解更多資訊。
+透過Sales Insight Actions，使用者將可存取名為toutapp.com的新銷售應用程式。 此應用程式為他們提供一組新的動作功能，同時也繼承了Sales Insights核心版本中可用的&#x200B;_加入行銷活動_&#x200B;功能。 請牢記這一點，因為根據您想要使用者存取「新增至行銷活動」功能（toutapp.com或MSI SFDC套件體驗）的位置，您的Marketo行銷活動將需要不同的設定。 請參閱步驟4中的附註以瞭解更多資訊。
 
 1. 選取（或建立）您要共用的行銷活動。
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >如果您想要向使用toutapp.com網頁應用程式中&#x200B;_新增至行銷活動_&#x200B;的使用者顯示行銷活動(這也包括如果您透過Marketo銷售寄件匣物件將網頁應用程式內嵌至CRM)，請將行銷活動要求的來源設定為「網頁服務API」。 如果您希望行銷活動在使用者使用潛在客戶、連絡人、帳戶頁面Salesforce中MSI面板的動作，或潛在客戶和連絡人清單檢視上的大量動作按鈕時顯示，請將行銷活動要求的來源更新為「銷售Insight」
+   >如果您想要向使用toutapp.com網頁應用程式中&#x200B;_新增至行銷活動_&#x200B;的使用者顯示行銷活動（這也包括如果您透過Marketo銷售寄件匣物件將網頁應用程式內嵌至CRM），請將行銷活動要求的來源設定為「網頁服務API」。 如果您希望行銷活動在使用者使用潛在客戶、連絡人、帳戶頁面Salesforce中MSI面板的動作，或潛在客戶和連絡人清單檢視上的大量動作按鈕時顯示，請將行銷活動要求的來源更新為「銷售Insight」
 
 1. 按一下「**流量**」標籤。
 

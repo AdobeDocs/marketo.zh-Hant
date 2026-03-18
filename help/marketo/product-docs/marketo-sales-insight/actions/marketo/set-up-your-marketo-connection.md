@@ -1,13 +1,13 @@
 ---
-description: 設定您的Marketo連線 — Marketo檔案 — 產品檔案
+description: 瞭解如何設定銷售Insight動作的Marketo連線。 從Marketo管理員連線，為您的執行個體啟用動作。
 title: 設定您的 Marketo 連線
 hide: true
 hidefromtoc: true
 exl-id: f38272b1-a6dc-4d98-b6c1-e432c75b87c6
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '180'
 ht-degree: 5%
 
 ---

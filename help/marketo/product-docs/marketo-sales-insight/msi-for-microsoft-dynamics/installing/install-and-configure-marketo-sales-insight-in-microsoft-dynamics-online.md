@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37355602
-description: 在Marketo線上安裝及設定Microsoft Dynamics銷售Insight - Marketo檔案 — 產品檔案
+description: 瞭解如何在Microsoft Dynamics Online中安裝和設定Marketo Sales Insight 。 設定Dynamics Online的解決方案。
 title: 在 Microsoft Dynamics 線上版中安裝及設定 Marketo 銷售洞察
 exl-id: 3b58b109-96f9-427e-be5c-a8db270ffe69
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '405'
-ht-degree: 4%
+source-wordcount: '411'
+ht-degree: 6%
 
 ---
 
@@ -81,11 +81,11 @@ ht-degree: 4%
 
 ## 連線Marketo和[!DNL Sales Insight] {#connect-marketo-and-sales-insight}
 
-讓我們在[!DNL Sales Insight]中將您的Marketo執行個體連結至[!DNL Dynamics]。 方法如下：
+讓我們在[!DNL Sales Insight]中將您的Marketo執行個體連結至[!DNL Dynamics]。 方法如下:
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 1. 登入Marketo並移至&#x200B;**[!UICONTROL Admin]**&#x200B;區段。
 
@@ -155,11 +155,11 @@ ht-degree: 4%
 
 最後，您必須授予特定使用者使用[!DNL Marketo Sales Insight]的存取權。
 
-1. 移至&#x200B;**[!UICONTROL Settings]**。
+1. 前往 **[!UICONTROL Settings]**。
 
    ![](assets/image2014-12-12-9-3a8-3a34-1.png)
 
-1. 移至&#x200B;**[!UICONTROL Security]**。
+1. 前往 **[!UICONTROL Security]**。
 
    ![](assets/image2015-4-29-14-3a56-3a33-1.png)
 

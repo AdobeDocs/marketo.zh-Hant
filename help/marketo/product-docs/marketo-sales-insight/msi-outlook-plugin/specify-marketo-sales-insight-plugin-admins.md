@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11377552
-description: 指定Marketo [!UICONTROL Sales Insight]外掛程式管理員 — Marketo檔案 — 產品檔案
+description: 瞭解如何指定適用於Outlook的Marketo Sales Insight外掛程式管理員。 指定誰可以管理貴組織的增益集。
 title: 指定Marketo [!UICONTROL Sales Insight]外掛程式管理員
 exl-id: 63d8d611-5ce7-4216-9e97-6051dcfcb948
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 2%
+source-wordcount: '88'
+ht-degree: 5%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 2%
 
    ![](assets/image2016-7-25-14-3a12-3a59.png)
 
-1. 按一下「**[!UICONTROL Email Add-In]**」標籤。
+1. 按一下「**[!UICONTROL Email Add-In]**」索引標籤。
 
    ![](assets/image2016-7-25-14-3a2-3a53.png)
 

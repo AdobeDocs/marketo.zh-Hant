@@ -1,12 +1,12 @@
 ---
-description: 將Marketo標籤新增至Salesforce - Marketo檔案 — 產品檔案
+description: 瞭解如何將Marketo標籤新增至Salesforce。 讓Salesforce的使用者看見Marketo Sales Insight標籤。
 title: 新增 Marketo 索引標籤至 Salesforce
 exl-id: dbe01de0-a01a-4a6e-ae89-5dc5cfa8d0b1
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '50'
-ht-degree: 10%
+source-wordcount: '61'
+ht-degree: 8%
 
 ---
 

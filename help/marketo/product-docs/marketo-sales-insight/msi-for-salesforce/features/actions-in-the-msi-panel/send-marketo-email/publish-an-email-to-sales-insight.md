@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949718
-description: 發佈電子郵件至銷售人員Insight - Marketo檔案 — 產品檔案
+description: 瞭解如何從Marketo發佈電子郵件至銷售Insight。 在MSI面板中讓Marketo電子郵件範本可供銷售使用者使用。
 title: 發佈電子郵件至銷售洞察
 exl-id: 59b6821f-cbed-427f-942f-0a67cbd4e2df
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '202'
 ht-degree: 3%
 
 ---

@@ -1,14 +1,14 @@
 ---
-description: 銷售Insight動作是否與Salesforce Lightning相容？ - Marketo 文件 - 產品文件
+description: 瞭解銷售Insight Actions是否與Salesforce Lightning相容。 使用閃電體驗中的動作。
 title: 銷售洞察動作是否與 Salesforce Lightning 相容？
 hide: true
 hidefromtoc: true
 exl-id: 6c119652-8243-4fd2-ad29-1d87ffebf757
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '50'
-ht-degree: 24%
+source-wordcount: '55'
+ht-degree: 14%
 
 ---
 

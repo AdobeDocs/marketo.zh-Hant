@@ -1,12 +1,12 @@
 ---
-description: 透過群組電子郵件傳送電子郵件 — Marketo檔案 — 產品檔案
+description: 瞭解如何透過群組電子郵件傳送銷售電子郵件。 使用追蹤和個人化選項一次傳送電子郵件給多位收件者。
 title: 透過群組電子郵件傳送電子郵件
 exl-id: 0099c0ee-dff2-4d7d-91cd-7d619405bac5
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 6%
+source-wordcount: '164'
+ht-degree: 7%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 6%
 
 ## 傳送群組電子郵件 {#sending-a-group-email}
 
-1. 按一下「**[!UICONTROL People]**」標籤。
+1. 按一下「**[!UICONTROL People]**」索引標籤。
 
    ![](assets/sending-emails-via-group-email-1.png)
 

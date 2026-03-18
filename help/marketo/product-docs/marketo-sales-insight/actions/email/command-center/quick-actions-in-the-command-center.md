@@ -1,11 +1,11 @@
 ---
-description: 命令中心的快速動作 — Marketo檔案 — 產品檔案
+description: 瞭解指揮中心銷售電子郵件與工作的快速動作。 使用動作快速回覆、標籤完成或管理專案。
 title: 指揮中心的快速動作
 exl-id: e95cdb06-8a67-41ba-b528-c2478a75356f
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '310'
 ht-degree: 4%
 
 ---

@@ -1,14 +1,14 @@
 ---
-description: 新增至行銷活動 — Marketo檔案 — 產品檔案
+description: 瞭解如何從「銷售Insight動作」將聯絡人新增至Marketo行銷活動。 選取連絡人並將他們新增至行銷活動。
 title: 新增至行銷活動
 hide: true
 hidefromtoc: true
 exl-id: de9c6896-8a7e-4388-b03b-fec5cc14cb92
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '294'
-ht-degree: 3%
+source-wordcount: '308'
+ht-degree: 5%
 
 ---
 
@@ -40,7 +40,7 @@ ht-degree: 3%
 
    ![](assets/add-to-marketing-campaign-4.png)
 
-1. 由於您正新增至行銷活動，請略過選取「寄件者」地址。 但您可以選擇新增更多連絡人。 如果您選擇這麼做，請按一下「[!UICONTROL Individuals]」並輸入它們。 完成時，按一下&#x200B;**[!UICONTROL Next]**。
+1. 由於您正新增至行銷活動，請略過選取「寄件者」地址。 但您可以選擇新增更多連絡人。 如果您選擇這麼做，請按一下「[!UICONTROL Individuals]」並輸入它們。 完成後請按一下 **[!UICONTROL Next]**。
 
    ![](assets/add-to-marketing-campaign-5.png)
 
@@ -78,7 +78,7 @@ PICC
 
 PICC
 
-1. 由於您正新增至行銷活動，請略過選取「寄件者」地址。 但您可以選擇新增更多連絡人。 如果您選擇這麼做，請按一下「[!UICONTROL Individuals]」並輸入它們。 完成時，按一下&#x200B;**[!UICONTROL Next]**。
+1. 由於您正新增至行銷活動，請略過選取「寄件者」地址。 但您可以選擇新增更多連絡人。 如果您選擇這麼做，請按一下「[!UICONTROL Individuals]」並輸入它們。 完成後請按一下 **[!UICONTROL Next]**。
 
 PICC
 

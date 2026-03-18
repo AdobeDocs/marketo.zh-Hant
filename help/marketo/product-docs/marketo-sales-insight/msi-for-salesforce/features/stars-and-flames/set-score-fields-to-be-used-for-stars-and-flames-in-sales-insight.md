@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360301
-description: 設定分數欄位以用於銷售Insight - Marketo檔案 — 產品檔案中的星星和火
+description: 瞭解如何在銷售Insight中設定星星和火焰的分數欄位。 將Marketo分數欄位對應至Salesforce中的MSI顯示。
 title: 設定銷售洞察中用於標示星星和火焰的分數欄位
 exl-id: 640f6d53-71ee-4a6d-b28a-82f3825b8f8e
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 9%
+source-wordcount: '152'
+ht-degree: 11%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 9%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 依預設，[!DNL Marketo Sales Insight]會使用&#x200B;**[!UICONTROL Lead Score]**&#x200B;欄位來計算星星和火焰。 但如果您想挑選不同的欄位，選擇方法如下：
 

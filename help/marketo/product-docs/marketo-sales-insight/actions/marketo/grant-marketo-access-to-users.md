@@ -1,12 +1,12 @@
 ---
-description: 授予Marketo存取權給使用者 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Sales Insight Actions中授予Marketo存取權給使用者。 允許使用者檢視Marketo資料並使用Marketo連線功能。
 title: 授予使用者 Marketo 存取權
 exl-id: 0efb3e85-cc75-4810-bc67-05127f44e012
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 7%
+source-wordcount: '212'
+ht-degree: 6%
 
 ---
 

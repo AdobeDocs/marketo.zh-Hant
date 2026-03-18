@@ -1,18 +1,18 @@
 ---
-description: 使用HTML - Marketo檔案 — 產品檔案
+description: 瞭解如何在銷售Insight動作電子郵件範本中使用HTML。 新增自訂HTML以格式化及進階內容。
 title: 使用 HTML
 exl-id: f0b40896-0c3e-401f-bc76-90bf8c4c6d76
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 4%
+source-wordcount: '110'
+ht-degree: 3%
 
 ---
 
 # 使用 HTML {#using-html}
 
-1. 使用在HTML中建立電子郵件所使用的工具(例如Marketo的電子郵件編輯器)，從電子郵件複製原始程式碼。
+1. 使用在HTML中建立電子郵件所使用的工具（例如Marketo的電子郵件編輯器），從電子郵件複製原始程式碼。
 
 1. 選取您要新增HTML的範本。
 

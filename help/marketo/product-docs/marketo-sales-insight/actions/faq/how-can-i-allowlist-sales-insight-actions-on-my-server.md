@@ -1,12 +1,12 @@
 ---
-description: 如何在伺服器上將銷售Insight動作加入允許清單？ - Marketo 文件 - 產品文件
+description: 瞭解如何在伺服器或防火牆上將銷售Insight動作加入允許清單。 取得IP和網域，以允許追蹤和傳遞。
 title: 如何在我的伺服器上將銷售洞察動作加入允許清單？
 exl-id: 55ec5552-d71c-4f86-a8c8-44d6d9cb2c0b
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 20%
+source-wordcount: '77'
+ht-degree: 12%
 
 ---
 

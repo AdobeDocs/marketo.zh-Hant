@@ -1,11 +1,11 @@
 ---
-description: Salesforce中的銷售Insight動作設定 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Salesforce中設定銷售Insight動作。 新增遠端站台、啟用MSI動作並輸入API秘密金鑰。
 title: Salesforce 中的銷售洞察動作設定
 exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '207'
-ht-degree: 3%
+source-wordcount: '217'
+ht-degree: 4%
 
 ---
 
@@ -61,7 +61,7 @@ ht-degree: 3%
    >
    >如果您沒有您的[!UICONTROL API Secrey Key]，可以按照[本文章](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)中的步驟找到它。
 
-1. 完成時，按一下&#x200B;**[!UICONTROL Save]**。
+1. 完成後請按一下 **[!UICONTROL Save]**。
 
 這會自動啟用功能概觀文章中概述的所有MSI Actions功能。
 

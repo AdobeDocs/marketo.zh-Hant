@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11377488
-description: 使用企業金鑰安裝適用於 [!DNL Outlook] 的Marketo增益集 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用企業金鑰安裝適用於Outlook的Marketo增益集。 使用企業金鑰為您的組織部署增益集。
 title: 使用企業金鑰安裝 [!DNL Outlook] 的Marketo增益集
 exl-id: a44780d6-a360-4536-8913-31429cc32f65
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '261'
-ht-degree: 0%
+source-wordcount: '271'
+ht-degree: 1%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2016-7-25-14-3a22-3a12.png)
 
-1. 按一下「**[!UICONTROL Email Add-In]**」標籤。
+1. 按一下「**[!UICONTROL Email Add-In]**」索引標籤。
 
    ![](assets/image2016-7-25-14-3a23-3a57.png)
 

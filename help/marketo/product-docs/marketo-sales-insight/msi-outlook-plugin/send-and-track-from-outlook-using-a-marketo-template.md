@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949283
-description: 使用Marketo範本從 [!DNL Outlook] 傳送及追蹤 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用Marketo範本從Outlook傳送及追蹤。 插入銷售範本，並從Outlook傳送追蹤的電子郵件。
 title: 使用Marketo範本從 [!DNL Outlook] 傳送及追蹤
 exl-id: 72514b21-f10f-4958-8ee1-0e7f46429e6e
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '200'
 ht-degree: 0%
 
 ---

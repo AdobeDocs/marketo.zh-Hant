@@ -1,11 +1,11 @@
 ---
-description: 將新管理員連線至Marketo - Marketo檔案 — 產品檔案
+description: 瞭解如何將新管理員連線至Marketo並轉移Marketo整合。 按照步驟中斷目前管理員的連線並建立新連線。
 title: 將新管理員連接至 Marketo
 exl-id: ef405bca-a29a-40fc-9efa-eccff5f45956
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '478'
+source-wordcount: '495'
 ht-degree: 2%
 
 ---

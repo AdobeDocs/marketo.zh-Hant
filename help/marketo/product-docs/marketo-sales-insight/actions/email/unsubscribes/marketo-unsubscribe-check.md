@@ -1,12 +1,12 @@
 ---
-description: Marketo取消訂閱檢查 — Marketo檔案 — 產品檔案
+description: 瞭解Marketo取消訂閱檢查，讓賣家無法傳送電子郵件給在Marketo中取消訂閱的人。
 title: Marketo 取消訂閱檢查
 exl-id: 3c242d04-cf6c-466b-9bcd-e77c6d97d308
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 7%
+source-wordcount: '135'
+ht-degree: 8%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 7%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 ## 開啟 {#turning-it-on}
 

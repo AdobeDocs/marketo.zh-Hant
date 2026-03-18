@@ -1,12 +1,12 @@
 ---
-description: 使用者存取細節 — Marketo檔案 — 產品檔案
+description: 瞭解管理員與非管理員在銷售Insight動作中可以存取哪些專案。 比較範本、行銷活動、分析和人員的許可權。
 title: 使用者存取權詳細資料
 exl-id: 20e19848-fc46-4f12-af8a-3fa2b88e1af4
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 3%
+source-wordcount: '212'
+ht-degree: 2%
 
 ---
 

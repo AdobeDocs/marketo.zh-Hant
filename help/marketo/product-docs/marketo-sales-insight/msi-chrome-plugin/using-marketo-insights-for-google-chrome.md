@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7512944
-description: 將Marketo Insights用於Google Chrome - Marketo檔案 — 產品檔案
+description: 瞭解如何將Marketo Insights用於Google Chrome。 在Gmail中讀取電子郵件時，檢視人員和帳戶資訊及活動。
 title: 使用 Google Chrome 適用的 Marketo Insights
 exl-id: 9171e85f-a286-469c-b3a3-b290619311c9
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '280'
 ht-degree: 2%
 
 ---

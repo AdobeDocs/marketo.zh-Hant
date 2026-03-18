@@ -1,11 +1,11 @@
 ---
-description: Analytics頁面概觀 — Marketo檔案 — 產品檔案
+description: 瞭解銷售Insight動作的Analytics標籤和電子郵件參與資料。 在「我」、「團隊」和「內容」標籤中檢視個人和團隊統計資料。
 title: 分析頁面概觀
 exl-id: b9f6210b-ac66-47c4-970a-31a0ff6fc216
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '391'
 ht-degree: 1%
 
 ---

@@ -1,11 +1,11 @@
 ---
-description: 銷售Insight動作管理員設定指南 — Marketo檔案 — 產品檔案
+description: 瞭解如何以管理員身分設定銷售Insight動作。 設定Marketo連線、資料同步處理及邀請使用者。
 title: 銷售洞察動作管理員設定指南
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '604'
+source-wordcount: '613'
 ht-degree: 3%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 3%
 
 >[!PREREQUISITES]
 >
->* 向Adobe帳戶團隊（您的帳戶管理員）確認已為您的Marketo Engage帳戶啟用MSI動作(如果您沒有帳戶管理員，請聯絡[Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"})。
+>* 向Adobe帳戶團隊（您的帳戶管理員）確認已為您的Marketo Engage帳戶啟用MSI動作（如果您沒有帳戶管理員，請聯絡[Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}）。
 >* 必須設定您的Marketo/Salesforce同步處理。
 
 <table>
@@ -106,7 +106,7 @@ ht-degree: 3%
 
    ![](assets/msi-actions-admin-guide-8.png)
 
-1. 按一下&#x200B;**[!UICONTROL connect]**。 然後會連線您的帳戶。
+1. 按一下「**[!UICONTROL connect]**」。 然後會連線您的帳戶。
 
    ![](assets/msi-actions-admin-guide-9.png)
 

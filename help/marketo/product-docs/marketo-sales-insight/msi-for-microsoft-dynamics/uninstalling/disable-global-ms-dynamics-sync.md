@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37355596
-description: 停用全域MS Dynamics同步處理 — Marketo檔案 — 產品檔案
+description: 瞭解如何為Marketo Sales Insight停用全域MS Dynamics同步。 需要時關閉同步功能，而不解除安裝。
 title: 停用全域 MS Dynamics 同步
 exl-id: a8c64e4a-4932-4686-8563-63452d3753e2
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 13%
+source-wordcount: '56'
+ht-degree: 12%
 
 ---
 

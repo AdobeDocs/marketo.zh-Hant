@@ -1,12 +1,12 @@
 ---
-description: 管理範本 — Marketo檔案 — 產品檔案
+description: 瞭解如何在銷售Insight動作中管理電子郵件範本。 建立、編輯、共用及組織您團隊的範本。
 title: 管理範本
 exl-id: a18e7112-91e8-462c-9d1a-3a0f43c1b1cf
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '498'
-ht-degree: 3%
+source-wordcount: '511'
+ht-degree: 5%
 
 ---
 
@@ -83,7 +83,7 @@ ht-degree: 3%
 
    ![](assets/manage-templates-8.png)
 
-1. 您可以選擇將範本保留在目前類別中，或將它移至其他類別。 在此範例中，我們會將其保留在目前的範例中。 完成時，按一下&#x200B;**[!UICONTROL Share]**。
+1. 您可以選擇將範本保留在目前類別中，或將它移至其他類別。 在此範例中，我們會將其保留在目前的範例中。 完成後請按一下 **[!UICONTROL Share]**。
 
    ![](assets/manage-templates-9.png)
 
@@ -125,7 +125,7 @@ ht-degree: 3%
 
    ![](assets/manage-templates-15.png)
 
-1. 按一下&#x200B;**[!UICONTROL Archive]**&#x200B;確認。
+1. 按一下 **[!UICONTROL Archive]** 確認。
 
    ![](assets/manage-templates-16.png)
 
@@ -151,6 +151,6 @@ ht-degree: 3%
 
    ![](assets/manage-templates-18.png)
 
-1. 按一下&#x200B;**[!UICONTROL Delete]**&#x200B;確認。
+1. 按一下 **[!UICONTROL Delete]** 確認。
 
    ![](assets/manage-templates-19.png)

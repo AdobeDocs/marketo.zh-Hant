@@ -1,11 +1,11 @@
 ---
-description: 如何修正連線至Salesforce時「我們無法驗證您的請求」 — Marketo檔案 — 產品檔案
+description: 修正將銷售Insight動作連線至Salesforce時的驗證錯誤。 檢查OAuth、許可權和連線步驟。
 title: 如何在連線至Salesforce時修正「我們無法驗證您的請求」
 exl-id: ef876f0f-bd76-4ba5-bf48-885ee048ceae
 feature: Sales Insight Actions
-source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '346'
 ht-degree: 0%
 
 ---

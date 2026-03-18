@@ -1,10 +1,10 @@
 ---
-description: 將活動記錄到Salesforce時更新活動型別欄位 — Marketo檔案 — 產品檔案
+description: 瞭解如何將活動記錄到Salesforce時更新「活動型別」欄位。 在Salesforce設定中，將回覆型別新增至任務型別選擇清單。
 title: 將活動記錄至 Salesforce 時更新活動類型欄位
 exl-id: 800323cb-2b99-42f1-ae30-0f87a9a1b4be
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '420'
+source-wordcount: '432'
 ht-degree: 6%
 
 ---
@@ -54,7 +54,7 @@ ht-degree: 6%
 
 >[!NOTE]
 >
->如果您沒有看到「回覆」的值，請按一下「新增」**&#x200B;**&#x200B;以新增該值。 「回覆」不是Salesforce中的標準值。
+>如果您沒有看到「回覆」的值，請按一下「新增」****&#x200B;以新增該值。 「回覆」不是Salesforce中的標準值。
 
 >[!MORELIKETHIS]
 >

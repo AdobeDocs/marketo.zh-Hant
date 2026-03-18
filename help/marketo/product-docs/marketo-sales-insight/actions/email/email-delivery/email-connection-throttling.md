@@ -1,11 +1,11 @@
 ---
-description: 電子郵件連線節流 — Marketo檔案 — 產品檔案
+description: 瞭解銷售Insight動作中的電子郵件連線節流和傳送限制。 瞭解節流如何影響傳遞以及如何保持在限制內。
 title: 電子郵件連線節流
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '394'
+source-wordcount: '409'
 ht-degree: 2%
 
 ---

@@ -1,12 +1,12 @@
 ---
-description: 設定MSI檢視 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Microsoft Dynamics中設定MSI檢視。 設定要向使用者顯示的Marketo Sales Insight標籤和資料。
 title: 設定 MSI 視圖
 exl-id: 8a45c006-73d4-4af8-ad62-b084056d1f7d
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '236'
-ht-degree: 3%
+source-wordcount: '249'
+ht-degree: 4%
 
 ---
 
@@ -54,4 +54,4 @@ URL： mkt_/MainViewWebActivity.html</br>
 識別碼： marketo_anonymous_webactivity</br>
 標題：匿名網路活動
 
-1. 完成時，按一下&#x200B;**[!UICONTROL Save]**。
+1. 完成後請按一下 **[!UICONTROL Save]**。

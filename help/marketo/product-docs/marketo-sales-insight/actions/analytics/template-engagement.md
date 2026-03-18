@@ -1,11 +1,11 @@
 ---
-description: 範本參與 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Analytics內容索引標籤中檢視範本參與。 請參閱秘密武器、最高參與和最低參與量度（依日期範圍）。
 title: 範本參與
 exl-id: b59677a9-8192-4c80-9105-42192a128ef7
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '193'
 ht-degree: 2%
 
 ---

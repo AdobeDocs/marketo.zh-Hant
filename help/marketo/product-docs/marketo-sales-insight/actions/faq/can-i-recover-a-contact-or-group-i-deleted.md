@@ -1,12 +1,12 @@
 ---
-description: 我可以復原已刪除的連絡人或群組嗎？ - Marketo 文件 - 產品文件
+description: 瞭解您是否能在Sales Insight動作中復原已刪除的連絡人或群組。 瞭解復原選項和限制。
 title: 我可以恢復已刪除的聯絡人或群組嗎？
 exl-id: ef783d23-3b43-4e6c-9581-1e7d3958ae54
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 27%
+source-wordcount: '87'
+ht-degree: 20%
 
 ---
 

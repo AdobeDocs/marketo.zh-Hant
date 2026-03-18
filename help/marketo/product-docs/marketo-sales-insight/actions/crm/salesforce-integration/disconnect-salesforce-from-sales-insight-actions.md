@@ -1,13 +1,13 @@
 ---
-description: 中斷與Insight銷售動作的Salesforce連線 — Marketo檔案 — 產品檔案
+description: 瞭解如何中斷與Sales Insight動作的Salesforce連線。
 title: 中斷銷售洞察動作與 Salesforce 的連線
 hide: true
 hidefromtoc: true
 exl-id: 4b3838d1-92de-4baf-81af-4cd7fc316c06
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '78'
 ht-degree: 10%
 
 ---

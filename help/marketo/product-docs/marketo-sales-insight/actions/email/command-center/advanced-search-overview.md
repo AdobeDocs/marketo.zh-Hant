@@ -1,11 +1,11 @@
 ---
-description: 進階搜尋概觀 — Marketo檔案 — 產品檔案
+description: 瞭解如何在命令中心使用進階搜尋來尋找電子郵件和工作。 依日期、寄件者、狀態和其他條件篩選。
 title: 進階搜尋概觀
 exl-id: a7cf5078-1d24-4fc0-a82d-02f46f93893d
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '380'
+source-wordcount: '396'
 ht-degree: 4%
 
 ---
@@ -65,7 +65,7 @@ ht-degree: 4%
  </tr>
 </table>
 
-**時間**
+**When**
 
 依建立日期、傳送日期、失敗日期或排程日期選擇。 可用選項會根據您選擇的電子郵件狀態而變更([!UICONTROL Sent]、[!UICONTROL Undelivered]、[!UICONTROL Pending])。
 
@@ -83,13 +83,13 @@ ht-degree: 4%
 
 ![](assets/advanced-search-overview-9.png)
 
-_&#x200B;**狀態：已傳送**&#x200B;_
+_**狀態：已傳送**_
 
 ![](assets/advanced-search-overview-10.png)
 
 依您傳送的電子郵件活動篩選。 您可以選擇[!UICONTROL views]/[!UICONTROL no views]、[!UICONTROL clicks]/[!UICONTROL no clicks]和/或[!UICONTROL replies]/[!UICONTROL no replies]。
 
-_&#x200B;**狀態：擱置中**&#x200B;_
+_**狀態：擱置中**_
 
 ![](assets/advanced-search-overview-11.png)
 
@@ -102,7 +102,7 @@ _&#x200B;**狀態：擱置中**&#x200B;_
  </tr>
  <tr>
   <td><strong>[!UICONTROL Scheduled]</strong></td>
-  <td>已從撰寫視窗(Salesforce或Web應用程式)、電子郵件外掛程式或促銷活動排程的電子郵件。</td>
+  <td>已從撰寫視窗（Salesforce或Web應用程式）、電子郵件外掛程式或促銷活動排程的電子郵件。</td>
  </tr>
  <tr>
   <td><strong>[!UICONTROL Drafts]</strong></td>
@@ -114,7 +114,7 @@ _&#x200B;**狀態：擱置中**&#x200B;_
  </tr>
 </table>
 
-_&#x200B;**狀態：未傳遞**&#x200B;_
+_**狀態：未傳遞**_
 
 ![](assets/advanced-search-overview-12.png)
 

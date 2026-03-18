@@ -1,11 +1,11 @@
 ---
-description: 位置追蹤如何運作 — Marketo檔案 — 產品檔案
+description: 瞭解位置追蹤如何用於銷售電子郵件。 瞭解收集哪些位置資料以及如何使用資料。
 title: 位置追蹤如何運作
 exl-id: b4e0d121-0f3f-4477-b05a-466c8d2ac467
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '123'
 ht-degree: 4%
 
 ---

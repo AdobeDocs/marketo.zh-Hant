@@ -1,11 +1,11 @@
 ---
-description: 欄位提示 — Marketo檔案 — 產品檔案
+description: 瞭解電子郵件範本中的欄位提示。 新增在傳送時提示寄件者填寫自訂內容的預留位置。
 title: 欄位提示
 exl-id: c138b627-f853-4d35-b022-cc517d6b86d4
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 3%
+source-wordcount: '174'
+ht-degree: 2%
 
 ---
 

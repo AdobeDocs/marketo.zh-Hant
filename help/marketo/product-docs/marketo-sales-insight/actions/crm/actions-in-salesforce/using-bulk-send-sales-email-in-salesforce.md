@@ -1,10 +1,10 @@
 ---
-description: 在Salesforce中使用大量傳送銷售電子郵件 — Marketo檔案 — 產品檔案
+description: 瞭解如何從Salesforce傳送大量銷售電子郵件。 在清單檢視中選取潛在客戶或聯絡人，並使用Lightning或Classic中的「傳送銷售電子郵件」按鈕。
 title: 在 Salesforce 中使用大量傳送銷售電子郵件
 exl-id: 4886109d-c2b8-4186-922b-8a15cf1e742e
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '596'
+source-wordcount: '613'
 ht-degree: 2%
 
 ---
@@ -59,7 +59,7 @@ ht-degree: 2%
 
 1. 在Salesforce中，按一下&#x200B;**銷售機會/聯絡人**&#x200B;標籤。
 
-1. 在[檢視]下拉式清單中，選取想要的要傳送電子郵件的潛在客戶/連絡人檢視，然後按一下[執行]。**&#x200B;**
+1. 在[檢視]下拉式清單中，選取想要的要傳送電子郵件的潛在客戶/連絡人檢視，然後按一下[執行]。****
 
    ![](assets/using-bulk-send-sales-email-in-salesforce-4.png)
 

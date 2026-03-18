@@ -1,13 +1,13 @@
 ---
-description: 個人詳細資料檢視 — Marketo檔案 — 產品檔案
+description: 瞭解Sales Insight Actions中的人員詳細資料檢視。 檢視潛在客戶或連絡人的連絡資訊、活動歷程記錄和快速動作。
 title: 人員詳細資料視圖
 hide: true
 hidefromtoc: true
 exl-id: 3d172daa-745d-44f9-8460-40866d0247a1
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '298'
 ht-degree: 3%
 
 ---

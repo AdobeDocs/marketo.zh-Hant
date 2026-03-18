@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7511931
-description: 在Salesforce1中傳送Marketo電子郵件和行銷活動以及關注清單動作 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo Mobile中傳送Salesforce電子郵件，並使用行銷活動和監看清單動作。 在行動裝置上使用MSI動作。
 title: 在 Salesforce1 中傳送 Marketo 電子郵件和行銷活動以及關注清單動作
 exl-id: 055754b1-4803-4ca6-aa3f-474175daad1a
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 7%
+source-wordcount: '159'
+ht-degree: 6%
 
 ---
 

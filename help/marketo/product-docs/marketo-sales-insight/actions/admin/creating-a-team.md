@@ -1,12 +1,12 @@
 ---
-description: 建立團隊 — Marketo檔案 — 產品檔案
+description: 瞭解如何在銷售Insight動作中建立團隊以共用範本、行銷活動和群組。
 title: 建立團隊
 exl-id: 7cca53a8-67e7-467a-988a-bb99872a328e
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 6%
+source-wordcount: '117'
+ht-degree: 8%
 
 ---
 
@@ -54,6 +54,6 @@ ht-degree: 6%
 
    ![](assets/creating-a-team-8.png)
 
-1. 完成時，按一下&#x200B;**[!UICONTROL Add]**。
+1. 完成後請按一下 **[!UICONTROL Add]**。
 
    ![](assets/creating-a-team-9.png)

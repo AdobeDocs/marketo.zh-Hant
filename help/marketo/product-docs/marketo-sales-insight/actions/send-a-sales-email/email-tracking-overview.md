@@ -1,11 +1,11 @@
 ---
-description: 電子郵件追蹤概觀 — Marketo檔案 — 產品檔案
+description: 瞭解銷售電子郵件的電子郵件追蹤。 瞭解如何追蹤及記錄檢視、點按和回覆。
 title: 電子郵件追蹤概觀
 exl-id: 89437d22-d739-45ea-8a2e-046a7de80379
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '492'
 ht-degree: 5%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 5%
 
 ## 如何追蹤您的電子郵件附件 {#how-to-track-your-email-attachments}
 
-[!DNL Sales Connect]提供您附件(.doc、.ppt、.pdf)的追蹤功能，讓您檢視附件何時已開啟/下載，以及收件者正在瀏覽的頁面。 我們將允許您使用[網頁應用程式](https://toutapp.com/login)和Gmail (或Google應用程式)中的可追蹤附件功能。
+[!DNL Sales Connect]提供您附件(.doc、.ppt、.pdf)的追蹤功能，讓您檢視附件何時已開啟/下載，以及收件者正在瀏覽的頁面。 我們將允許您使用[網頁應用程式](https://toutapp.com/login)和Gmail （或Google應用程式）中的可追蹤附件功能。
 
 >[!NOTE]
 >

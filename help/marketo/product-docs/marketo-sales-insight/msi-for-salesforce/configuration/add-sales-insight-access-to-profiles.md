@@ -1,12 +1,12 @@
 ---
-description: 將銷售Insight存取權新增至設定檔 — Marketo檔案 — 產品檔案
+description: 瞭解如何將銷售Insight存取權新增至Salesforce設定檔。 授予使用者存取Marketo Sales Insight套件的許可權。
 title: 新增銷售洞察存取權至設定檔
 exl-id: 269f9093-f530-4e3b-aac7-e317976cf0f0
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '363'
-ht-degree: 1%
+source-wordcount: '372'
+ht-degree: 5%
 
 ---
 
@@ -28,9 +28,9 @@ ht-degree: 1%
 
 1. 按一下頁面頂端的&#x200B;**[!UICONTROL New Profile]**&#x200B;按鈕。
 
-1. 挑選要複製的設定檔並賦予其名稱(例如：Sales Insight User)。
+1. 挑選要複製的設定檔並賦予其名稱（例如：Sales Insight User）。
 
-1. 完成時，按一下&#x200B;**[!UICONTROL Save]**。
+1. 完成後請按一下 **[!UICONTROL Save]**。
 
 ## 新增[!DNL Sales Insight]許可權 {#add-sales-insight-permissions}
 
@@ -50,15 +50,15 @@ ht-degree: 1%
    * 在索引標籤設定中，將Marketo索引標籤變更為隱藏索引標籤
    * 在自訂物件許可權中，取消核取[!DNL Marketo Sales Insight]設定上的讀取、建立、編輯和刪除
 
-1. 完成時，按一下&#x200B;**[!UICONTROL Save]**。
+1. 完成後請按一下 **[!UICONTROL Save]**。
 
 ## 建立[!DNL Sales Insight]的配置 {#create-layout-for-sales-insight}
 
 1. 前往設定頁面，然後按一下&#x200B;**[!UICONTROL App Setup]** > **[!UICONTROL Customize]** > **[!UICONTROL Leads]** > **[!UICONTROL Page Layouts]**。 然後按一下&#x200B;**[!UICONTROL New]**&#x200B;按鈕。
 
-1. 複製您選擇的版面，並為版面指定適當的名稱(例如： Sales Insight Layout)。
+1. 複製您選擇的版面，並為版面指定適當的名稱（例如： Sales Insight Layout）。
 
-1. 完成時，按一下&#x200B;**[!UICONTROL Save]**。
+1. 完成後請按一下 **[!UICONTROL Save]**。
 
 1. 對您的[!UICONTROL Contacts]、[!UICONTROL Opportunities]和[!UICONTROL Accounts]版面配置重複這些步驟。
 
@@ -70,7 +70,7 @@ ht-degree: 1%
 
 1. 從清單中選取您的[!DNL Sales Insight]設定檔，然後從&quot;[!DNL Sales insight]&quot;下拉式清單中選取您的[!UICONTROL Select Page Layout]配置。
 
-1. 完成時，按一下&#x200B;**[!UICONTROL Save]**。
+1. 完成後請按一下 **[!UICONTROL Save]**。
 
 1. 對您的[!UICONTROL Contacts]、[!UICONTROL Opportunities]和[!UICONTROL Accounts]版面配置重複這些步驟。
 

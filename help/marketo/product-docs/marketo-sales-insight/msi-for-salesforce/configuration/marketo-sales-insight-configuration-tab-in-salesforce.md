@@ -1,12 +1,12 @@
 ---
 unique-page-id: 42762322
-description: Salesforce中的Marketo銷售Insight設定索引標籤 — Marketo檔案 — 產品檔案
+description: 瞭解Salesforce中的Marketo Sales Insight設定索引標籤。 設定MSI設定並啟用動作。
 title: Salesforce 中的 Marketo 銷售洞察設定索引標籤
 exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '615'
+source-wordcount: '620'
 ht-degree: 1%
 
 ---
@@ -42,11 +42,11 @@ ht-degree: 1%
 
 **Marketo全域標籤**
 
-* RSS摘要已啟用：啟用後，MSI使用者可以在RSS摘要中檢視其銷售機會摘要(除了Salesforce中的銷售機會摘要之外)。 RSS摘要只有在「權杖有效期」功能停用時才有作用。 您可在您的Marketo Sales Insight管理頁面中控制此設定。
+* RSS摘要已啟用：啟用後，MSI使用者可以在RSS摘要中檢視其銷售機會摘要（除了Salesforce中的銷售機會摘要之外）。 RSS摘要只有在「權杖有效期」功能停用時才有作用。 您可在您的Marketo Sales Insight管理頁面中控制此設定。
 * Best Bets偵錯模式
 * 預設隱藏：您在此處選擇的選項為按一下「隱藏」圖示時，Marketo中「首選」索引標籤中隱藏的天數
 * 連絡人狀態列位：您在此處選擇的選項將會是在Marketo中「首選」索引標籤的「狀態標題」欄中填入的值
-* 即時摘要設定：選擇只顯示即時摘要(在「銷售機會」、「聯絡人」、「帳戶」和「機會」面板，以及「全域Marketo」頁面中)、只顯示銷售機會摘要(在「Marketo全域」頁面中)或同時顯示即時和銷售機會摘要的選項
+* 即時摘要設定：選擇只顯示即時摘要（在「銷售機會」、「聯絡人」、「帳戶」和「機會」面板，以及「全域Marketo」頁面中）、只顯示銷售機會摘要（在「Marketo全域」頁面中）或同時顯示即時和銷售機會摘要的選項
 * 索引標籤設定：預設狀態下將可使用全部五個索引標籤。 您可以在Marketo全域頁面中選擇索引標籤順序
 
 ![](assets/marketo-sales-insight-configuration-tab-in-salesforce-3.png)

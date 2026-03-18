@@ -1,10 +1,10 @@
 ---
-description: 將銷售活動同步至Salesforce - Marketo檔案 — 產品檔案
+description: 瞭解如何透過API或密件副本將銷售活動同步至Salesforce。 設定電子郵件和通話記錄。
 title: 將銷售活動同步至 Salesforce
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '761'
+source-wordcount: '769'
 ht-degree: 1%
 
 ---
@@ -111,7 +111,7 @@ ht-degree: 1%
 
    ![](assets/sync-sales-activities-to-salesforce-13.png)
 
-1. 選擇所要的選項(預設會選取「不要同步至Salesforce工作」)。
+1. 選擇所要的選項（預設會選取「不要同步至Salesforce工作」）。
 
    ![](assets/sync-sales-activities-to-salesforce-14.png)
 

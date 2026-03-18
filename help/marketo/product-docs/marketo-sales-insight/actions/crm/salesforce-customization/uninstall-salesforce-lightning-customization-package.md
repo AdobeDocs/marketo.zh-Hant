@@ -1,12 +1,12 @@
 ---
-description: 解除安裝Salesforce Lightning Customization Package - Marketo檔案 — 產品檔案
+description: 瞭解如何解除安裝Sales Insight的Salesforce Lightning自訂套件。 必要時從您的Salesforce執行個體移除套件。
 title: 解除安裝Salesforce Lightning自訂套件
 exl-id: 4af89222-22b1-4c08-8081-3dab89d1985b
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '993'
-ht-degree: 11%
+source-wordcount: '1005'
+ht-degree: 12%
 
 ---
 
@@ -54,7 +54,7 @@ ht-degree: 11%
 
 1. 有10種型別的MSC欄位可以新增至此區段。 移除所有新增的欄位，或直接刪除整個區段。
 
-1. 完成時，按一下&#x200B;**[!UICONTROL Quick Save]**。
+1. 完成後請按一下 **[!UICONTROL Quick Save]**。
 
    ![](assets/uninstall-salesforce-lightning-customization-package-8.png)
 
@@ -72,7 +72,7 @@ ht-degree: 11%
 
    ![](assets/uninstall-salesforce-lightning-customization-package-10.png)
 
-1. 完成時，按一下&#x200B;**[!UICONTROL Quick Save]**。
+1. 完成後請按一下 **[!UICONTROL Quick Save]**。
 
    ![](assets/uninstall-salesforce-lightning-customization-package-11.png)
 
@@ -82,7 +82,7 @@ ht-degree: 11%
 
    ![](assets/uninstall-salesforce-lightning-customization-package-12.png)
 
-1. 從[!DNL Sales Connect]區域選取[!UICONTROL Selected Fields]欄位並按一下[!UICONTROL Remove]箭頭。 完成時，按一下&#x200B;**[!UICONTROL OK]**。
+1. 從[!DNL Sales Connect]區域選取[!UICONTROL Selected Fields]欄位並按一下[!UICONTROL Remove]箭頭。 完成後請按一下 **[!UICONTROL OK]**。
 
    ![](assets/uninstall-salesforce-lightning-customization-package-13.png)
 

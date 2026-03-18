@@ -1,11 +1,11 @@
 ---
-description: 將動作按鈕新增至Salesforce清單檢視 — Marketo檔案 — 產品檔案
+description: 瞭解如何將「傳送銷售電子郵件」和「新增至銷售活動」按鈕新增至Salesforce清單檢視。 透過清單檢視按鈕配置在Lightning或Classic中設定。
 title: 新增動作按鈕至 Salesforce 清單視圖
 exl-id: 6265437c-341d-485c-8c84-b9cb5c7298fc
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '290'
-ht-degree: 6%
+source-wordcount: '306'
+ht-degree: 5%
 
 ---
 

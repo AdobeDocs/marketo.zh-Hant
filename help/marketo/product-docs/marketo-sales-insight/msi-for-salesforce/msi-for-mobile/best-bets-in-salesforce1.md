@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7511959
-description: Salesforce1的最佳選擇 — Marketo檔案 — 產品檔案
+description: 瞭解Salesforce Mobile (Salesforce1)中的首選。 在Marketo Sales Insight行動體驗中檢視最常參與的銷售機會。
 title: Salesforce1 中的最佳選擇
 exl-id: 5b1c9f26-7896-4d38-b458-1a43352ec036
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 5%
+source-wordcount: '83'
+ht-degree: 4%
 
 ---
 

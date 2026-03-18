@@ -1,11 +1,11 @@
 ---
-description: 提醒任務與Salesforce同步 — Marketo檔案 — 產品檔案
+description: 瞭解提醒工作如何與Salesforce同步。 確保「動作」中的電子郵件、通話和自訂任務出現在Salesforce活動中。
 title: 提醒工作與 Salesforce 同步
 exl-id: 11aa6ab5-5489-4c20-a64d-2fd6fe29506f
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '497'
 ht-degree: 1%
 
 ---

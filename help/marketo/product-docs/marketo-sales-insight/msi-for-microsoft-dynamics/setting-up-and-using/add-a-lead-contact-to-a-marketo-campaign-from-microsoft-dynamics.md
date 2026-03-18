@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953342
-description: 從Microsoft Dynamics將銷售機會/聯絡人新增至Marketo促銷活動 — Marketo檔案 — 產品檔案
+description: 瞭解如何從Microsoft Dynamics將潛在客戶或聯絡人新增至Marketo行銷活動。 使用MSI面板將銷售機會新增到行銷活動。
 title: 從 Microsoft Dynamics 將商機/聯絡人新增至 Marketo 行銷活動
 exl-id: f74b2ade-dd2c-4e04-a6cf-4bc80db12d42
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 10%
+source-wordcount: '136'
+ht-degree: 9%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10099167
-description: 在銷售Insight中選擇動作 — Marketo檔案 — 產品檔案
+description: 瞭解如何從Salesforce將潛在客戶或聯絡人新增至Marketo行銷活動。 使用MSI面板從記錄中新增至行銷活動。
 title: 在銷售洞察中選擇一項動作
 exl-id: 0e9d3bc0-ac0a-415b-9931-382c3c68cfe2
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 6%
+source-wordcount: '207'
+ht-degree: 5%
 
 ---
 

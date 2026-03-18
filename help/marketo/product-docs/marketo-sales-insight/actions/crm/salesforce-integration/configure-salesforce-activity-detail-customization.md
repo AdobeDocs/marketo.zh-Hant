@@ -1,11 +1,11 @@
 ---
-description: 設定Salesforce活動詳細資料自訂 — Marketo檔案 — 產品檔案
+description: 瞭解如何設定任務主旨欄位的Salesforce活動詳細資料自訂。 設定活動同步時Salesforce任務的記錄檔。
 title: 設定 Salesforce 活動詳細資料自訂
 exl-id: 534ebdb5-7a5b-48eb-98f7-2d05a9eae8e8
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '671'
+source-wordcount: '684'
 ht-degree: 2%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146999
-description: 有趣時刻的觸發權杖 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo中觸發有趣時刻的權杖。 在MSI面板中設定哪些活動可建立有趣的時刻。
 title: 關鍵時刻的觸發程序權杖
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '546'
+source-wordcount: '556'
 ht-degree: 40%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 40%
 
 檢視[Token概述](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)，瞭解您可以放進有趣時刻的所有Token。
 
-## 觸發Token {#trigger-tokens}
+## 觸發程序權杖 {#trigger-tokens}
 
 系統會根據智慧型行銷活動中使用的觸發器，提供其他觸發器代號。
 
@@ -716,7 +716,7 @@ ht-degree: 40%
 <table>
 <thead>
   <tr>
-    <th> </th>
+    <th>  </th>
     <th><code>{{trigger.Agent Email}}</code></th>
     <th><code>{{trigger.Agent Name}}</code></th>
     <th><code>{{trigger.Conversation Status}}</code></th>

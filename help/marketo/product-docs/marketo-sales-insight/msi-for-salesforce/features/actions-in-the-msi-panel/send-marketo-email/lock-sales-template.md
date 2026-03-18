@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12981050
-description: 鎖定銷售範本 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo Sales Insight中鎖定銷售範本。 防止範本變更，讓銷售使用核准的版本。
 title: 鎖定銷售範本
 exl-id: 005dde5d-ed60-444b-b7a3-b91be72a0151
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 4%
+source-wordcount: '198'
+ht-degree: 5%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 1. 移至&#x200B;**[!UICONTROL Admin]**，然後按一下&#x200B;**[!UICONTROL Sales Insight]**。
 
