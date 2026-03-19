@@ -78,7 +78,7 @@ ht-degree: 96%
 
 * **規則 2**：如果電子郵件記錄顯示 _[!UICONTROL Opened]_，則計為_&#x200B;已傳遞&#x200B;_。
 
-* **規則 3**：如果電子郵件記錄顯示 _[!UICONTROL Clicked Email]_或_[!UICONTROL Unsubscribed]_，則計為&#x200B;_已傳遞_&#x200B;及&#x200B;_已開啟_。
+* **規則 3**：如果電子郵件記錄顯示 _[!UICONTROL Clicked Email]_&#x200B;或_[!UICONTROL Unsubscribed]_，則計為&#x200B;_已傳遞_&#x200B;及&#x200B;_已開啟_。
 
 * **規則 4**：如果電子郵件為 _[!UICONTROL Opened]_，則會忽略退回。如果電子郵件還未開啟，_&#x200B;已硬退回&#x200B;_會優先於_&#x200B;已軟退回&#x200B;_和_&#x200B;已傳遞&#x200B;_。
 

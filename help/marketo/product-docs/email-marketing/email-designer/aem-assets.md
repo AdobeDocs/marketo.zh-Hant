@@ -109,7 +109,7 @@ Adobe Experience Manager _Assets as a Cloud Service_&#x200B;提供簡單易用�
 
 ![選擇AEM Assets存放庫以存取影像資產](assets/work-with-experience-manager-assets-6.png){width="700" zoomable="yes"}
 
-* 將影像元件新增至畫布並按一下&#x200B;**[!UICONTROL Browse]**&#x200B;以開啟&#x200B;_[!UICONTROL Select Assets]_對話方塊。
+* 將影像元件新增至畫布並按一下&#x200B;**[!UICONTROL Browse]**&#x200B;以開啟&#x200B;_[!UICONTROL Select Assets]_&#x200B;對話方塊。
 
   從對話方塊中，您可以從選取的存放庫中選擇影像。
 
