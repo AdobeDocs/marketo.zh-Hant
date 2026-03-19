@@ -2,16 +2,16 @@
 solution: Marketo Engage
 product: marketo
 title: 標題
-description: 瞭解如何使用可重複使用的主題和模組來簡化電子郵件建立，確保設計一致性和效率。
+description: 瞭解如何將品牌主題套用至電子郵件，以獲得一致設計。 在電子郵件Designer中使用可重複使用的主題和模組。
 feature: Email Designer
 role: User
 level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 349ee021-7341-40e0-8d8c-d041f1a8f343
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '710'
+source-wordcount: '714'
 ht-degree: 4%
 
 ---

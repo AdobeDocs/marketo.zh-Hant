@@ -1,23 +1,23 @@
 ---
 unique-page-id: 10099077
-description: 瞭解如何將種子清單匯入Marketo Engage執行個體。
+description: 瞭解如何將種子清單匯入Marketo Engage以進行收件匣位置測試。 使用Everest下載並新增傳遞能力行銷活動的清單。
 title: 電子郵件傳遞能力套件 — 如何匯入種子清單
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
 feature: Deliverability
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '313'
-ht-degree: 0%
+source-wordcount: '326'
+ht-degree: 5%
 
 ---
 
-# Email Deliverability Power Pack：如何匯入種子清單 {#email-deliverability-power-pack-how-to-import-a-seed-list}
+# 電子郵件傳遞能力增強套組：如何匯入種子清單 {#email-deliverability-power-pack-how-to-import-a-seed-list}
 
-種子清單是多個信箱提供者(包括Google應用程式、Hotmail、Yahoo！等)的電子郵件帳戶清單，用於估計收件匣相對於垃圾郵件資料夾傳遞率。 以下是將該清單匯入Marketo Engage執行個體的步驟。
+種子清單是多個信箱提供者（包括Google應用程式、Hotmail、Yahoo！等）的電子郵件帳戶清單，用於估計收件匣相對於垃圾郵件資料夾傳遞率。 以下是將該清單匯入Marketo Engage執行個體的步驟。
 
 >[!IMPORTANT]
 >
->本文適用於目前擁有使用中Everest訂閱的使用者。 如果您使用Inbox Tracker by Bird （先前稱為MessageBird），您可以在此找到教學課程[&#128279;](/help/marketo/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md){target="_blank"}。
+>本文適用於目前擁有使用中Everest訂閱的使用者。 如果您使用Inbox Tracker by Bird （先前稱為MessageBird），您可以在此找到教學課程[](/help/marketo/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md){target="_blank"}。
 
 ## 匯入種子清單 {#import-a-seed-list}
 
@@ -29,11 +29,11 @@ ht-degree: 0%
 
    ![](assets/email-deliverability-power-pack-2.png)
 
-1. 按一下「**[!UICONTROL Manage Seed List]**」標籤。
+1. 按一下「**[!UICONTROL Manage Seed List]**」索引標籤。
 
    ![](assets/email-deliverability-power-pack-3.png)
 
-1. 按一下&#x200B;**[!UICONTROL Actions]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Download: One Per Line]**。
+1. 按一下「**[!UICONTROL Actions]**」下拉式選單，選取「**[!UICONTROL Download: One Per Line]**」。
 
    ![](assets/email-deliverability-power-pack-4.png)
 

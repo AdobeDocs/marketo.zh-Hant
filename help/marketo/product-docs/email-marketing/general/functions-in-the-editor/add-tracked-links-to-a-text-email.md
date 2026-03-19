@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1900589
-description: 將追蹤連結新增至文字電子郵件 — Marketo檔案 — 產品檔案
+description: 瞭解如何將追蹤連結新增至純文字電子郵件。 啟用連結追蹤，以便測量電子郵件報表中的點按次數。
 title: 新增追蹤連結至文字電子郵件
 exl-id: 10b4e029-de23-4054-83f7-b68fea68c838
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '172'
 ht-degree: 8%
 
 ---

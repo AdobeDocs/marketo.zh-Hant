@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900548
-description: 預覽包含動態內容的電子郵件 — Marketo檔案 — 產品檔案
+description: 瞭解如何預覽包含動態內容的電子郵件。 在傳送之前，請先瞭解變體如何呈現不同的區段。
 title: 預覽包含動態內容的電子郵件
 exl-id: 7d27f73c-d38b-4d95-a861-b27367f1f532
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 11%
+source-wordcount: '116'
+ht-degree: 10%
 
 ---
 

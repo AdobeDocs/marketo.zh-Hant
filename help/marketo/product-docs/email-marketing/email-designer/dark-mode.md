@@ -1,12 +1,13 @@
 ---
-description: 深色模式 — Marketo檔案 — 產品檔案
+description: 瞭解如何在電子郵件Designer中為深色模式設計電子郵件。 設定自訂深色模式顯示，以支援電子郵件使用者端。
 title: 深色模式
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: 77008ff8d8f7c577f48b508737e1b8eb2ac1e5ce
+exl-id: 9dc1bce2-c363-46ca-83ef-ee4695ee647f
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1195'
-ht-degree: 2%
+source-wordcount: '1210'
+ht-degree: 1%
 
 ---
 
@@ -41,7 +42,7 @@ ht-degree: 2%
 
 以下是一些範例：
 
-* Gmail (案頭網頁郵件、iOS、Android、行動網頁郵件)
+* Gmail （案頭網頁郵件、iOS、Android、行動網頁郵件）
 * Outlook Windows
 * Outlook Windows Mail
 
@@ -68,7 +69,7 @@ ht-degree: 2%
 >
 >瞭解如何在電子郵件Designer中定義[自訂深色模式設定](#define-custom-dark-mode)。
 
-每個電子郵件使用者端可能會有不同的限制。 例如，如果影像存在，部分使用者端(例如Apple Mail 16)將不會產生深色模式。
+每個電子郵件使用者端可能會有不同的限制。 例如，如果影像存在，部分使用者端（例如Apple Mail 16）將不會產生深色模式。
 
 為了獲得最佳結果，請在您定位的電子郵件使用者端中測試您的內容。 若要檢視每個使用者端中的模擬，請使用電子郵件Designer中的[電子郵件呈現](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md)功能。
 

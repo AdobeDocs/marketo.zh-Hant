@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12983291
-description: 瞭解收件者時區 — Marketo檔案 — 產品檔案
+description: 瞭解電子郵件方案的收件者時區排程。 在每個收件者的當地時間傳送電子郵件。
 title: 了解收件者時區
 exl-id: 8895241e-94c9-43a2-9158-11c1994df09b
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '392'
 ht-degree: 3%
 
 ---

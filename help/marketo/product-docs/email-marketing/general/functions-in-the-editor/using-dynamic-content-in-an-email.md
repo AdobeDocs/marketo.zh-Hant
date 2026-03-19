@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2950617
-description: 在電子郵件中使用動態內容 — Marketo檔案 — 產品檔案
+description: 瞭解如何在電子郵件中使用動態內容。 根據規則和屬性顯示不同內容給不同區段。
 title: 在電子郵件中使用動態內容
 exl-id: a1178f76-6760-4a4a-9510-f129ee6a9032
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 4%
+source-wordcount: '263'
+ht-degree: 5%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 4%
 
 ## 新增分段 {#add-segmentation}
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities.png)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10912085
-description: 共用和專用IP位址 — Marketo檔案 — 產品檔案
+description: 瞭解共用和專用IP位址及其優缺點。 決定哪個選項適合您的傳送數量和信譽目標。
 title: 共用和專用的 IP 位址
 exl-id: 3d7a78f4-531a-4ad7-a20b-1385bd62d1d9
 feature: Deliverability
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '433'
+source-wordcount: '446'
 ht-degree: 2%
 
 ---
@@ -40,7 +40,7 @@ _優點_
 _缺點_
 
 **磁碟區變更** — 磁碟區尖峰可能會對您的信譽造成負面影響，需要管理。
-**IP熱身程式** — 信譽是隨著時間建立的。 有些網際網路服務提供者(ISP)會限制沒有磁碟區記錄的IP位址，因此您必須在最初幾週建立信譽(Marketo可協助您完成相關操作)。
+**IP熱身程式** — 信譽是隨著時間建立的。 有些網際網路服務提供者(ISP)會限制沒有磁碟區記錄的IP位址，因此您必須在最初幾週建立信譽（Marketo可協助您完成相關操作）。
 **成本** — 通常從具有任何提供者的專用IP傳送額外費用。
 
 **共用IP的優點和缺點**

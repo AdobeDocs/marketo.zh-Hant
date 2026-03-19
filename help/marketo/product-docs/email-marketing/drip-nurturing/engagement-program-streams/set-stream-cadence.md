@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359665
-description: 設定串流步調 — Marketo檔案 — 產品檔案
+description: 瞭解如何設定參與計畫的串流步調。 排程每週或每月轉換，並選擇性地使用收件者時區。
 title: 設定資料流頻率
 exl-id: 589eeefa-b2f6-4131-a72b-359c97ab98c0
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '374'
 ht-degree: 3%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 3%
 
 ## 設定步調 {#set-cadence}
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities.png)
 

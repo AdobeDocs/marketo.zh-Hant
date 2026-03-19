@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359782
-description: 將人員新增至參與計畫 — Marketo檔案 — 產品檔案
+description: 瞭解人們如何成為參與計畫的成員。 使用流程步驟、表單、匯入或Salesforce行銷活動來新增成員。
 title: 新增人員至參與方案
 exl-id: b589b566-a61f-48c2-afb5-a2d82b2a28c4
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 12%
+source-wordcount: '109'
+ht-degree: 11%
 
 ---
 

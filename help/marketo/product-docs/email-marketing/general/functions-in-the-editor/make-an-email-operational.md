@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147354
-description: 讓電子郵件可正常運作 — Marketo檔案 — 產品檔案
+description: 瞭解如何讓電子郵件運作，以便與未訂閱的人聯絡。 用於異動或必要的通訊。
 title: 讓電子郵件可供操作
 exl-id: e36c6a7b-2c50-4d9f-9e6d-0828ab3af5a8
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 5%
+source-wordcount: '166'
+ht-degree: 4%
 
 ---
 

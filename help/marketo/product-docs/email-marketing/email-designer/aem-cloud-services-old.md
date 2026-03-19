@@ -1,14 +1,14 @@
 ---
 title: 連線Experience Manager檔案
-description: 瞭解如何將Adobe Experience Manager雲端服務連結至Adobe Marketo Engage，讓您能夠運用AEM資產。
+description: 瞭解如何將AEM雲端服務連結至Marketo Engage。 在設計工具中製作電子郵件時，請使用您的AEM資產。
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
 source-wordcount: '203'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 1. 在Marketo Engage中，移至&#x200B;**管理員**&#x200B;區域，然後在左側導覽樹狀結構中選取&#x200B;**Adobe Experience Manager**。
 

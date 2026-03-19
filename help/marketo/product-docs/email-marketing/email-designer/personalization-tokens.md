@@ -1,21 +1,21 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: Personalization Token
-description: 瞭解如何在新的Marketo Engage電子郵件Designer中使用個人化代號
+title: 個人化權杖
+description: 瞭解如何在電子郵件Designer中使用個人化代號。 將動態收件者資料新增至您的電子郵件內容。
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 4828e1a5-822f-48a9-bbb8-b1ffe8421e4f
 hide: true
 hidefromtoc: true
-source-git-commit: 2488e0e6af38a4d50b1a8f5f6194c64bd8504717
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 0%
+source-wordcount: '247'
+ht-degree: 1%
 
 ---
 
-# Personalization Token {#personalization-tokens}
+# 個人化權杖 {#personalization-tokens}
 
 在電子郵件個人化Token方面，電子郵件設計工具的格式與傳統電子郵件編輯器不同。 已實作此變更的目的是改善與Handlebar指令碼的相容性，並簡化您的電子郵件建立流程。
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 ## 主要使用案例 {#primary-use-case}
 
-此增強功能主要有利於從[Velocity指令碼](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/email-scripting){target="_blank"}轉換成Handlebar指令碼的使用者。 新的電子郵件設計工具僅支援新的權杖格式。 更新後的格式消除了空格，並引進了修訂後的預設文字結構，以確保更順暢且更有效的指令碼體驗。
+此增強功能主要有利於從[Velocity指令碼](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting){target="_blank"}轉換成Handlebar指令碼的使用者。 新的電子郵件設計工具僅支援新的權杖格式。 更新後的格式消除了空格，並引進了修訂後的預設文字結構，以確保更順暢且更有效的指令碼體驗。
 
 ## 權杖體驗 {#token-experience}
 

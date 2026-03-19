@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359462
-description: 核准/取消核准電子郵件方案 — Marketo檔案 — 產品檔案
+description: 瞭解如何核准或取消核准電子郵件方案。 完成核准工作流程，以便排程並傳送方案。
 title: 核准/取消核准電子郵件方案
 exl-id: 0bfb1306-7a98-4629-9264-63cfd5d6a690
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 5%
+source-wordcount: '190'
+ht-degree: 7%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 5%
 
 現在您的方案已準備就緒，最後一個步驟是核准它。 方法如下：
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -53,7 +53,7 @@ ht-degree: 5%
 
 如果您改變心意並決定不要將它外傳，您可以取消核准電子郵件程式。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-2.png)
 

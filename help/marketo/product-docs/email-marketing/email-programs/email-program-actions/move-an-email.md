@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10098691
-description: 移動電子郵件 — Marketo檔案 — 產品檔案
+description: 瞭解如何將電子郵件移至不同的程式或資料夾。 重新定位電子郵件資產，同時保留資產本身。
 title: 移動電子郵件
 exl-id: 1ad7940c-b06f-48d4-8564-aedda8f7029a
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '103'
 ht-degree: 10%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 10%
 
 是否需要將電子郵件從一個計畫移動到另一個計畫？ 方法如下。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/move-an-email-1.png)
 

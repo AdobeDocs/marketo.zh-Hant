@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360219
-description: 設定自訂DKIM簽名 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo中為您的網域設定自訂DKIM簽名。 在Admin中新增網域，並與IT人員合作以發佈DNS記錄。
 title: 設定自訂 DKIM 簽名
 exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
 feature: Deliverability
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '419'
-ht-degree: 4%
+source-wordcount: '437'
+ht-degree: 3%
 
 ---
 

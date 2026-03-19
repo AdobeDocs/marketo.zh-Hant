@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359659
-description: 將內容新增至資料流 — Marketo檔案 — 產品檔案
+description: 瞭解如何新增電子郵件或方案至參與方案流。 使用「新增內容」按鈕或加號圖示來建立您的培養。
 title: 新增內容至資料流
 exl-id: b2db9f49-2baa-4d42-9755-480390a91041
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 7%
+source-wordcount: '175'
+ht-degree: 8%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 建立參與計畫後，您需要將內容新增到資料流。 您可以將電子郵件或程式新增到資料流。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/add-content-to-a-stream-1.png)
 

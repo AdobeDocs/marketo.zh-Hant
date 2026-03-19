@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10096409
-description: 避免傳送重複內容 — Marketo檔案 — 產品檔案
+description: 瞭解參與方案中防止或允許重複電子郵件的情況。 使用方案會籍和CEE規則來避免重複。
 title: 避免傳送重複內容
 exl-id: fd7118e8-6e34-4973-8aa5-effb774447fd
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '214'
 ht-degree: 7%
 
 ---

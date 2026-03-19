@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953419
-description: 使用Rtf編輯器 — Marketo檔案 — 產品檔案
+description: 瞭解如何針對電子郵件內容使用RTF編輯器。 在電子郵件編輯器中設定文字格式、新增連結及樣式內容。
 title: 使用 RTF 編輯器
 exl-id: 9b2d6d41-f947-4859-aad9-a10c15eb013a
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '659'
+source-wordcount: '672'
 ht-degree: 3%
 
 ---

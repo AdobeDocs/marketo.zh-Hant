@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359584
-description: 達人/挑戰者 — 宣告達人 — Marketo檔案 — 產品檔案
+description: 瞭解如何為您的電子郵件測試宣告Champion。 選擇成功變體，並傳送其餘對象為成功者。
 title: 冠軍/挑戰者 — 宣告冠軍
 exl-id: 04686934-6b6e-407f-8e50-bbf75139e367
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 4%
+source-wordcount: '126'
+ht-degree: 5%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 4%
 >
 >[冠軍/挑戰者：核准您的電子郵件測試](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-2.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359839
-description: 測試參與資料流 — Marketo檔案 — 產品檔案
+description: 瞭解如何與測試人員測試參與資料流。 使用「程式動作」和「執行轉型」來傳送內容並驗證轉換規則。
 title: 測試參與資料流
 exl-id: 144d805c-7805-4b35-b25c-4a18a7c3ab87
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 5%
+source-wordcount: '158'
+ht-degree: 6%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 5%
 
 將所有內容新增到資料流後，您就可以一次測試一個內容。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/one.png)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147340
-description: 傳送潛在客戶擁有者的電子郵件 — Marketo檔案 — 產品檔案
+description: 瞭解如何從潛在客戶擁有者地址傳送電子郵件。 使用「從銷售機會擁有者傳送」選項，讓電子郵件顯示正確的寄件者。
 title: 傳送來自商機所有者的電子郵件
 exl-id: b7ceb976-f52f-4134-8b7e-1c18d09af5de
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '196'
 ht-degree: 7%
 
 ---

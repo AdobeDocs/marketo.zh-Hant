@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900585
-description: 在電子郵件範本v1.0中新增可編輯的區段 — Marketo檔案 — 產品檔案
+description: 瞭解如何在v1.0中新增可編輯的區段至電子郵件範本。讓使用者編輯特定區域，同時將其餘區域保持鎖定。
 title: 新增可編輯區段至電子郵件範本 v1.0
 exl-id: f397aa8e-0d0b-4007-91e1-9b9158bd6432
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 15%
+source-wordcount: '110'
+ht-degree: 13%
 
 ---
 

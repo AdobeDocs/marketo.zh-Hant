@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359787
-description: 新增串流 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo中將新串流新增到您的參與計畫。 從「串流」索引標籤，每個程式最多可新增25個串流。
 title: 新增資料流
 exl-id: 3b46b9e3-aecd-4b21-b6f6-d682d0d517cf
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '51'
+source-wordcount: '68'
 ht-degree: 13%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 13%
 
 參與計畫可容納多個資料流。 以下說明如何新增一個。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-2.png)
 

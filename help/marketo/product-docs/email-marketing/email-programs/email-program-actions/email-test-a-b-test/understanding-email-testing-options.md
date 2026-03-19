@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359483
-description: 瞭解電子郵件測試選項 — Marketo檔案 — 產品檔案
+description: 瞭解A/B測試的電子郵件測試選項。 瞭解主旨列、完整電子郵件、寄件者地址及日期/時間測試。
 title: 了解電子郵件測試選項
 exl-id: 8e5b0298-4a4b-4c3a-bee1-712e77abadee
 feature: Email Programs, A/B Testing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 11%
+source-wordcount: '109'
+ht-degree: 10%
 
 ---
 

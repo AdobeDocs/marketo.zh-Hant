@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359951
-description: 從參與方案中移除成員 — Marketo檔案 — 產品檔案
+description: 瞭解如何從參與方案中移除成員。
 title: 從參與方案中移除成員
 exl-id: c97f15cc-b01a-4148-a150-84901ee2567e
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '126'
 ht-degree: 12%
 
 ---

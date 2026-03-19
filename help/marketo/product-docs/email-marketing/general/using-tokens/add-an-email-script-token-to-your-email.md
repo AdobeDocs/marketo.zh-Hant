@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900575
-description: 新增電子郵件指令碼Token至您的電子郵件 — Marketo檔案 — 產品檔案
+description: 瞭解如何將電子郵件指令碼Token新增至您的電子郵件。 在電子郵件編輯器中使用權杖插入動態內容。
 title: 新增電子郵件指令碼權杖至您的電子郵件
 exl-id: 41ef7c21-06af-4950-a19e-017e2417044e
 feature: Tokens
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 16%
+source-wordcount: '167'
+ht-degree: 15%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359598
-description: 匯出電子郵件程式儀表板至Excel - Marketo檔案 — 產品檔案
+description: 瞭解如何將電子郵件計畫儀表板匯出至Excel。 下載用於報告和分析的程式量度。
 title: 將電子郵件方案儀表板匯出至 Excel
 exl-id: d6b330d1-d12e-4620-a3c0-2851d7ea4996
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 15%
+source-wordcount: '97'
+ht-degree: 16%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 15%
 
 執行電子郵件程式並在控制面板中放入一些資料後，您就可以將原始資料匯出至Excel以供進一步分析。 方法如下。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-1.png)
 

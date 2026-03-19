@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900573
-description: 新增系統權杖作為電子郵件中的連結 — Marketo檔案 — 產品檔案
+description: 瞭解如何將系統權杖新增為電子郵件中的連結。 在連結URL中使用權杖以取消訂閱或其他動態連結。
 title: 在電子郵件中新增系統權杖做為連結
 exl-id: 9156be24-18ae-44ea-96e5-a6257ff29b46
 feature: Tokens
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '205'
-ht-degree: 10%
+source-wordcount: '215'
+ht-degree: 9%
 
 ---
 

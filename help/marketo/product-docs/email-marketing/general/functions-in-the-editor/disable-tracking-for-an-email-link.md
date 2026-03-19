@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900579
-description: 停用電子郵件連結的追蹤 — Marketo檔案 — 產品檔案
+description: 瞭解如何停用特定電子郵件連結的追蹤。 需要隱私權或重新導向URL時，請關閉點選追蹤。
 title: 停用電子郵件連結追蹤
 exl-id: 841ef605-1664-4457-bc83-50bbe5d44853
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '280'
-ht-degree: 5%
+source-wordcount: '290'
+ht-degree: 4%
 
 ---
 

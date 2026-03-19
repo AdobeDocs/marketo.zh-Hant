@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359520
-description: 使用「日期/時間」A/B測試 — Marketo檔案 — 產品檔案
+description: 瞭解如何執行電子郵件程式的日期/時間A/B測試。 測試不同的傳送時間，並透過效能挑選獲勝者。
 title: 使用「日期/時間」A/B 測試
 exl-id: ee686d46-9427-4f8b-a16f-858c5109cabd
 feature: Email Programs, A/B Testing
-source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '261'
 ht-degree: 4%
 
 ---

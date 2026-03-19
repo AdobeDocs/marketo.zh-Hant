@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359491
-description: 新增A/B測試 — Marketo檔案 — 產品檔案
+description: 瞭解如何將A/B測試新增至電子郵件程式。 選擇要測試的內容（主旨、內容、來源或日期/時間）並設定獲勝者條件。
 title: 新增 A/B 測試
 exl-id: 18397dde-496c-4809-a224-3c025c8ccc84
 feature: Email Programs, A/B Testing
-source-git-commit: c80d25aeafe2314fcff1d99359ff146c88acad06
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 5%
+source-wordcount: '193'
+ht-degree: 6%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 5%
 
 測試是最佳化您的電子郵件的好方法，以獲得更好的參與。 以下說明如何開始使用。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/add-an-a-b-test-1.png)
 

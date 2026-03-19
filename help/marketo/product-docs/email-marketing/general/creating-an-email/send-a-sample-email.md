@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147352
-description: 傳送範例電子郵件 — Marketo檔案 — 產品檔案
+description: 瞭解如何在啟動前傳送範例電子郵件以測試內容。 使用電子郵件編輯器傳送測試復本給您自己或其他人。
 title: 傳送範例電子郵件
 exl-id: b8f845e8-5c5e-463d-9d60-9c8103cec5ac
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 7%
+source-wordcount: '313'
+ht-degree: 8%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 7%
    >
    >我的Token會解析為適用於電子郵件程式的值。
 
-1. 輸入一或多個要傳送的電子郵件地址。 如果有多個電子郵件地址，請使用逗號來區隔。 完成時，按一下&#x200B;**[!UICONTROL Send]**。
+1. 輸入一或多個要傳送的電子郵件地址。 如果有多個電子郵件地址，請使用逗號來區隔。 完成後請按一下 **[!UICONTROL Send]**。
 
    ![](assets/two.png)
 
@@ -56,7 +56,7 @@ ht-degree: 7%
 
    >[!NOTE]
    >
-   >觸發欄位僅適用於使用[電子郵件指令碼](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/email-scripting)的使用者。
+   >觸發欄位僅適用於使用[電子郵件指令碼](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)的使用者。
 
 ## 根據區段傳送範例電子郵件 {#send-a-sample-email-based-on-a-segment}
 

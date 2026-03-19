@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359555
-description: 冠軍/挑戰者 — 整封電子郵件 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用整封電子郵件執行冠軍/挑戰者測試。 測試不同的電子郵件版本，並依條件宣告獲勝者。
 title: 冠軍/挑戰者 — 整封電子郵件
 exl-id: fb95b412-5766-44a8-b250-aa5103a604bc
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '241'
-ht-degree: 2%
+source-wordcount: '253'
+ht-degree: 1%
 
 ---
 

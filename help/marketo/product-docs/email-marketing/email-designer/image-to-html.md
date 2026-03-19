@@ -1,18 +1,19 @@
 ---
-title: 將影像轉換為HTML範本
-description: 使用此無程式碼工具將影像轉換為可編輯的電子郵件範本。
+title: 將影像轉換為 HTML 範本
+description: 瞭解如何將影像轉換為可編輯的HTML電子郵件範本。 在電子郵件Designer中使用無程式碼影像轉HTML工具。
 solution: Marketo Engage
 product: marketo
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: 74c8b1597bed7e2ac827bea444200dacfe4b29a5
+exl-id: 529e82aa-c00b-49ce-b561-c2448f6a7a9b
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1281'
-ht-degree: 1%
+source-wordcount: '1289'
+ht-degree: 2%
 
 ---
 
-# 將影像轉換為HTML範本 {#image-to-html}
+# 將影像轉換為 HTML 範本 {#image-to-html}
 
 ## 概觀 {#overview}
 
@@ -23,7 +24,7 @@ ht-degree: 1%
 >[!PREREQUISITES]
 >
 >* 您必須先同意[核心Gen-AI條款與補充條款](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}，才能在電子郵件Designer中使用Gen-AI功能。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
->* 您必須擁有&#x200B;_存取電子郵件範本_&#x200B;以及&#x200B;_編輯/產生電子郵件範本_&#x200B;許可權，並在您的Marketo角色[中啟用](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role)。
+>* 您必須擁有&#x200B;_存取電子郵件範本_&#x200B;以及&#x200B;_編輯/產生電子郵件範本_&#x200B;許可權，並在您的Marketo角色[中啟用](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role)。
 
 ## 轉換影像 {#convert-an-image}
 

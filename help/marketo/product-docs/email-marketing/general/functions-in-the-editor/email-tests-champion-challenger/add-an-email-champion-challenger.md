@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359553
-description: 新增電子郵件達人/挑戰者 — Marketo檔案 — 產品檔案
+description: 瞭解如何新增冠軍/挑戰者電子郵件測試。 設定多個變體並定義選擇獲勝者的方式。
 title: 新增電子郵件衛冕者/挑戰者
 exl-id: 69c4a146-5d76-44c3-a63c-4e15f8b9aeb1
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 5%
+source-wordcount: '211'
+ht-degree: 7%
 
 ---
 
@@ -21,14 +21,14 @@ ht-degree: 5%
 
 >[!PREREQUISITES]
 >
->* [建立程式](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
+>* [建立方案](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
 >* [建立電子郵件](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)
 
 >[!CAUTION]
 >
 >Champion/Challenger電子郵件僅適用於觸發行銷活動和參與方案資料流。 若要批次寄送，請使用電子郵件程式的[A/B測試功能](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities.png)
 

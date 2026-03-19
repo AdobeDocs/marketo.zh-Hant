@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359953
-description: 已用盡內容的人 — Marketo檔案 — 產品檔案
+description: 瞭解如何尋找已用盡所有串流內容的人。
 title: 內容已用盡的人員
 exl-id: d32dfbc0-cac9-4df9-a8f6-45ebdd4a9f79
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 6%
+source-wordcount: '169'
+ht-degree: 7%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 6%
 
 ## 「成員」標籤 {#members-tab}
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/ma.png)
 

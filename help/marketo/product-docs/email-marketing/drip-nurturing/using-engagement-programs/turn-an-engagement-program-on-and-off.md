@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359856
-description: 開啟和關閉Engagement Program - Marketo檔案 — 產品檔案
+description: 瞭解如何開啟或關閉參與方案，以停止或繼續內容。
 title: 開啟和關閉參與方案
 exl-id: 4fe68ca1-7a54-44b0-ab3b-06f482f65304
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 21%
+source-wordcount: '91'
+ht-degree: 23%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 21%
 
 只要按一下開關，您就可以關閉參與計畫。 這樣會停止傳送任何內容。 方法如下。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities.png)
 

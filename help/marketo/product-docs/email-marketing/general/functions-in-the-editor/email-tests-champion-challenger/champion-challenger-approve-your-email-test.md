@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359581
-description: 冠軍/挑戰者 — 核准您的電子郵件測試 — Marketo檔案 — 產品檔案
+description: 瞭解如何核准您的冠軍/挑戰者電子郵件測試。 完成核准，以便執行測試並宣告獲勝者。
 title: 冠軍/挑戰者 — 核准您的電子郵件測試
 exl-id: dfef8e21-2a94-47b8-9551-68a24605d267
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '145'
 ht-degree: 6%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 6%
 >
 >[設定報表警示](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics.md#configure-report-alerts)
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-1.png)
 

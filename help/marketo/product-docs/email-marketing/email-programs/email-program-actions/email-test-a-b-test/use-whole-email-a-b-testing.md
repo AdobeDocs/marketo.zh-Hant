@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359502
-description: 使用「整封電子郵件」A/B測試 — Marketo檔案 — 產品檔案
+description: 瞭解如何執行整封電子郵件的A/B測試。 測試不同的電子郵件版本，並根據您選擇的條件選擇獲勝者。
 title: 使用「整封電子郵件」A/B 測試
 exl-id: 28e5f0e0-702d-4e1d-add8-6bf61752ca5b
 feature: Email Programs, A/B Testing
-source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '269'
 ht-degree: 6%
 
 ---
@@ -45,11 +45,11 @@ ht-degree: 6%
 
 1. 選取您的第二封電子郵件。
 
-   [&#128279;](assets/image2014-9-12-15-3a23-3a49.png)
+   [](assets/image2014-9-12-15-3a23-3a49.png)
 
 1. 按一下&#x200B;**[!UICONTROL Add]**&#x200B;以套用第二封電子郵件。 拖曳滑桿以選擇要接收A/B測試的對象百分比，然後按一下&#x200B;**[!UICONTROL Next]**。
 
-   [&#128279;](assets/image2014-9-12-15-3a24-3a1.png)
+   [](assets/image2014-9-12-15-3a24-3a1.png)
 
    >[!NOTE]
    >

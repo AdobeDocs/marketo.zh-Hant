@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11372299
-description: 電子郵件編輯器 v2.0 概觀 - Marketo 文件 - 產品文件
+description: 瞭解電子郵件編輯器v2.0及其功能。 使用模組式編輯器和範本選擇器建立及編輯電子郵件。
 title: 電子郵件編輯器 v2.0 概觀
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
-source-git-commit: bbb72b79d4d8b19a3aa986737651a3efa65449e2
-workflow-type: ht
-source-wordcount: '436'
-ht-degree: 100%
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+workflow-type: tm+mt
+source-wordcount: '447'
+ht-degree: 95%
 
 ---
 

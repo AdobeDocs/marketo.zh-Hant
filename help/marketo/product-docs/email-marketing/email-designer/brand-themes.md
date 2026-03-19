@@ -2,13 +2,13 @@
 solution: Marketo Engage
 product: marketo
 title: 品牌主題
-description: 瞭解如何建立及管理您的品牌指引。
+description: 瞭解如何在Marketo Engage中建立和管理品牌指引。 設定品牌主題以一致地設計電子郵件。
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e6b576e5-3456-4bee-9383-b63cd6728620
-source-git-commit: 6c362502c975676a635b1425393bf43e1cf0be12
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1097'
+source-wordcount: '1107'
 ht-degree: 1%
 
 ---
@@ -341,7 +341,7 @@ ht-degree: 1%
    >
    >* 在畫布中設計電子郵件內容，並選取要套用至內容的主題。
    >* 電子郵件只能包含一個品牌主題。
-   >* 對於在此資產中建立的任何元件，您可以從右窗格的「樣式」索引標籤套用主題中可用的任何樣式選項(例如，call-to-action可設定為主要/次要/第三)。
+   >* 對於在此資產中建立的任何元件，您可以從右窗格的「樣式」索引標籤套用主題中可用的任何樣式選項（例如，call-to-action可設定為主要/次要/第三）。
 
 1. 實作您想要的設計。 例如，您可以選取文字元件，以套用主題中定義的任何標題/段落樣式。
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359877
-description: 停用和啟用已用完的內容通知 — Marketo檔案 — 產品檔案
+description: 瞭解如何開啟或關閉已用完的內容通知。 使用您的程式的「設定」標籤和「已用完的內容通知」設定。
 title: 停用和啟用內容已用盡通知
 exl-id: 6c40de8e-80bd-41c0-a811-2ed70bb09795
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '95'
 ht-degree: 16%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 16%
 
 當人們耗盡串流中的所有內容時，Marketo可以傳送通知給您。 您可以根據需求停用/啟用通知。 方法如下。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-1.png)
 

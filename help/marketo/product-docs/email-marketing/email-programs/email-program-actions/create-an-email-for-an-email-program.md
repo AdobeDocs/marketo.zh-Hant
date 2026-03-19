@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1900593
-description: 建立電子郵件程式的電子郵件 — Marketo檔案 — 產品檔案
+description: 瞭解如何為電子郵件程式建立電子郵件。 新增電子郵件資產並選擇範本或現有電子郵件。
 title: 為電子郵件方案建立電子郵件
 exl-id: 6513da2c-edbd-463a-8c0b-9f9016620f14
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '163'
 ht-degree: 9%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 9%
 
 建立電子郵件方案並定義對象後，您會想要決定要傳送的電子郵件。 您可以[選擇現有的電子郵件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)，或從頭開始建立電子郵件。 以下說明如何建立新電子郵件。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/one.png)
 

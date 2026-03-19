@@ -2,13 +2,14 @@
 solution: Marketo Engage
 product: marketo
 title: 範本匯入
-description: 瞭解如何將您現有的電子郵件範本從傳統編輯器匯入新的電子郵件Designer。
+description: 瞭解如何將電子郵件範本從傳統編輯器匯入電子郵件Designer。
 level: Beginner, Intermediate
 feature: Email Designer
 badge: Beta
-source-git-commit: 588ec23961df42de8a8c0aed919ba9a016b61f18
+exl-id: a4755e1c-01a0-40d5-91d1-514ec3d138f5
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '759'
+source-wordcount: '756'
 ht-degree: 1%
 
 ---
@@ -63,7 +64,7 @@ ht-degree: 1%
 
    ![](assets/import-template-7.png)
 
-1. 選取元件或結構，然後按一下[建立]。**&#x200B;**
+1. 選取元件或結構，然後按一下[建立]。****
 
    ![](assets/import-template-8.png)
 

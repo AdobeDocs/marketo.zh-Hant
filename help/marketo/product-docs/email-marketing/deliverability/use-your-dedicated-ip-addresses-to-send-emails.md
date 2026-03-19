@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1900587
-description: 使用您的專用IP位址傳送電子郵件 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo中使用專用的IP位址傳送電子郵件。 從傳遞顧問取得有關IP預熱和DNS設定的指導。
 title: 使用您的專用 IP 位址傳送電子郵件
 exl-id: cc83cf43-8b6d-4869-9c4f-7f3d2cd82dfa
 feature: Deliverability
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '428'
 ht-degree: 4%
 
 ---

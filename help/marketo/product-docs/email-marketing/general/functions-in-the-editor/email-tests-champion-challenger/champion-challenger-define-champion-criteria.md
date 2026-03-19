@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359562
-description: 達人/挑戰者 — 定義達人條件 — Marketo檔案 — 產品檔案
+description: 瞭解如何定義電子郵件測試的Champion標準。 設定規則，判斷哪個變體贏得了冠軍/挑戰者測試。
 title: 冠軍/挑戰者 — 定義冠軍標準
 exl-id: 6b2d2568-caf3-41fc-9d50-f7f561cc4865
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '178'
 ht-degree: 4%
 
 ---

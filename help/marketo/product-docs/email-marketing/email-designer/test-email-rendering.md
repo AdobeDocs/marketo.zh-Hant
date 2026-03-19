@@ -2,13 +2,13 @@
 solution: Marketo Engage
 product: marketo
 title: 使用 Litmus 測試電子郵件呈現
-description: Marketo Engage使用者可以整合他們的Litmus帳戶，以似乎測試各種電子郵件使用者端中的內容呈現。
+description: 瞭解如何使用Litmus測試跨使用者端的電子郵件呈現。 整合您的Litmus帳戶，以預覽各種電子郵件使用者端中的內容。
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: ccef36af-362a-4ac0-9030-492e9d7f10b5
-source-git-commit: 3a71e0f0da0f6201ccda73a0c8bd5b94864308c0
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '374'
 ht-degree: 2%
 
 ---

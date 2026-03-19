@@ -2,15 +2,15 @@
 solution: Marketo Engage
 product: marketo
 title: 內容元件
-description: 說明。
+description: 瞭解用於個人化電子郵件版面的內容元件。 在電子郵件Designer的結構元件中新增元件並設定其樣式。
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1154'
-ht-degree: 0%
+source-wordcount: '1172'
+ht-degree: 15%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## 新增內容元件 {#add-content-components}
 
-若要新增內容元件至您的電子郵件，並根據您的需求進行調整，請遵循下列步驟。
+若要將內容元件新增到電子郵件並根據您的需要進行調整，請依照以下步驟進行。
 
 1. 在電子郵件Designer中，使用現有內容或將&#x200B;**[!UICONTROL Structure components]**&#x200B;拖放至您的空白內容中，以定義電子郵件的配置。`[Learn how](content-from-scratch.md)`
 
@@ -30,13 +30,13 @@ ht-degree: 0%
 
    熒幕擷圖
 
-1. 將您選擇的內容元件拖放到相關結構元件內。
+1. 將您選擇的內容元件拖放到相關結構元件內部。
 
    熒幕擷圖
 
    >[!NOTE]
    >
-   >您可以將數個元件加入單一結構元件中，並加入結構元件的每個欄中。
+   >您可以將多個元件新增到單一結構元件和結構元件的每個欄中。
 
 1. 使用右側的&#x200B;**[!UICONTROL Settings]**&#x200B;和&#x200B;**[!UICONTROL Style]**&#x200B;索引標籤，調整每個元件的屬性和樣式。 例如，您可以變更文字樣式、每個元件的邊框間距或邊界。`[Learn more about alignment and padding](alignment-and-padding.md)`
 
@@ -50,7 +50,7 @@ ht-degree: 0%
 
 若要將特定樣式套用至一組內容元件，您可以新增&#x200B;**[!UICONTROL Container]**&#x200B;元件，然後在其中新增您想要的內容元件。 這可讓您將不同的樣式套用至容器，這會與套用至內部內容元件的樣式不同。
 
-例如，新增&#x200B;**[!UICONTROL Container]**&#x200B;元件，然後在該容器中新增[Button](#button)元件。 您可以將特定背景用於容器，並將另一個背景用於按鈕。
+例如，新增&#x200B;**[!UICONTROL Container]**&#x200B;元件，然後在該容器中新增[Button](#button)元件。 您可以為容器使用特定背景，為按鈕使用另一個背景。
 
 熒幕擷圖
 
@@ -88,26 +88,26 @@ ht-degree: 0%
 
 1. 按一下您新新增的元件，以個人化文字，並存取電子郵件Designer右窗格中的&#x200B;**[!UICONTROL Settings]**&#x200B;和&#x200B;**[!UICONTROL Styles]**&#x200B;索引標籤。
 
-1. 使用工具列中的下列選項變更文字：
+1. 使用以下工具列的選項變更文字：
 
    熒幕擷圖
 
    * **[!UICONTROL Change text style]**：將粗體、斜體、底線或刪除線套用至您的文字。
-   * **變更對齊方式**：選擇文字的靠左、靠右、置中或左右對齊。
+   * **變更對齊方式**：選擇文字靠左對齊、靠右對齊、置中或左右對齊。
    * **[!UICONTROL Create list]**：新增專案符號或編號清單至您的文字。
    * **[!UICONTROL Set heading]**：為您的文字最多新增六個標題層級。
-   * **字型大小**：選取文字的字型大小（畫素）。
+   * **字型大小**：選取文字的字型大小 (以像素為單位)。
    * **[!UICONTROL Change font color]**：選擇字型的顏色。
    * **[!UICONTROL Insert link]**：將任何型別的連結新增至您的內容。
    * **[!UICONTROL Edit image]**：將影像或資產新增至文字元件。`[Learn more about asset management](../integrations/assets.md)`
    * **[!UICONTROL Change font color]**：選擇字型的顏色。
    * **[!UICONTROL Add personalization]**：新增個人化欄位，以自訂設定檔資料的內容。`[Learn more about content personalization](../personalization/personalize.md)`
-   * **[!UICONTROL Show the source code]**：顯示文字的原始碼。 無法修改。
+   * **[!UICONTROL Show the source code]**：顯示文字的原始碼。 原始碼無法變更。
    * **[!UICONTROL Enable conditional content]**：新增條件式內容，以將元件的內容調整至目標設定檔。`[Learn more about dynamic content](../personalization/get-started-dynamic-content.md)`
    * **[!UICONTROL Duplicate]**：新增文字元件的復本。
    * **[!UICONTROL Delete]**：從您的電子郵件中刪除選取的文字元件。
 
-1. 調整其他樣式屬性，例如文字顏色、字型系列、邊框、邊框間距、邊界等。 從&#x200B;**[!UICONTROL Styles]**&#x200B;索引標籤。
+1. 調整其他樣式屬性，例如文字顏色、字型系列、邊框、邊框間距、邊界等。從&#x200B;**[!UICONTROL Styles]**&#x200B;索引標籤。
 
    熒幕擷圖
 
@@ -121,7 +121,7 @@ ht-degree: 0%
 
 ## HTML {#HTML}
 
-使用&#x200B;**[!UICONTROL HTML]**&#x200B;元件來複製貼上現有HTML的不同部分。 這可讓您建立免費的模組化HTML元件，以重複使用某些外部內容。
+使用&#x200B;**[!UICONTROL HTML]**&#x200B;元件來複製貼上現有HTML的不同部分。 這可讓您建立免費的模組化 HTML 元件以重複使用一些外部內容。
 
 1. 從&#x200B;**[!UICONTROL Content Components]**，將&#x200B;**[!UICONTROL HTML]**&#x200B;元件拖放到&#x200B;**[!UICONTROL Structure component]**&#x200B;中。
 
@@ -135,7 +135,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->若要讓外部內容符合電子郵件Designer的規範，Adobe建議從草稿開始建立訊息，並將現有電子郵件的內容複製到元件中。
+>為了簡單地使外部內容與電子郵件設計工具相容，Adobe 建議從頭開始建立訊息，然後將現有電子郵件的內容複製到元件中。
 
 ## 影像 {#image}
 
@@ -147,7 +147,7 @@ ht-degree: 0%
 
 1. 在&#x200B;**[!UICONTROL Settings]**&#x200B;索引標籤中，按一下&#x200B;**[!UICONTROL Browse]**&#x200B;以從您的資產選擇影像檔案，或按一下&#x200B;**[!UICONTROL Import media]**&#x200B;將資產上傳到Adobe Experience Manager Assets。
 
-   若要深入瞭解[!DNL Adobe Experience Manager Assets]，請參閱[Adobe Experience Manager Assets檔案](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/introduction.html?lang=zh-Hant){target="_blank"}。
+   若要深入瞭解[!DNL Adobe Experience Manager Assets]，請參閱[Adobe Experience Manager Assets檔案](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/introduction.html){target="_blank"}。
 
    >[!NOTE]
    >
@@ -186,7 +186,7 @@ ht-degree: 0%
 
 1. 如有需要，您也可以從Assets變更每個社群媒體的圖示。
 
-1. 調整其他樣式屬性，例如樣式、邊界、邊框等。 從&#x200B;**[!UICONTROL Styles]**&#x200B;索引標籤。
+1. 調整其他樣式屬性，例如樣式、邊界、邊框等。從&#x200B;**[!UICONTROL Styles]**&#x200B;索引標籤。
 
 ## 優惠決定 {#offer-decision}
 

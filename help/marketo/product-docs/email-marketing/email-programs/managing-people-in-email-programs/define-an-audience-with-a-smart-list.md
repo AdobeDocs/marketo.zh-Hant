@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900595
-description: 使用智慧清單定義對象 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用智慧清單定義電子郵件計畫對象。 使用篩選器來鎖定接收電子郵件程式的對象。
 title: 使用智慧清單定義客群
 exl-id: 72a1e717-271b-46b5-b097-d29658b8f6ff
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '256'
-ht-degree: 7%
+source-wordcount: '266'
+ht-degree: 8%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 7%
 >
 >只有當電子郵件計畫未獲核準時，定義您的對象才能運作。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities.png)
 

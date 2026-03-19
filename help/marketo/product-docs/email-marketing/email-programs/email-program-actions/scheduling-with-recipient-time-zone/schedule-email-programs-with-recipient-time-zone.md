@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12982903
-description: 使用收件者時區排程電子郵件計畫 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用收件者時區排程電子郵件計畫。 設定25小時內或之後的傳送，並選擇時區行為。
 title: 根據收件者時區安排電子郵件方案的時間
 exl-id: d0c3f3c1-9f21-4081-818d-7c5cb1766915
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '792'
+source-wordcount: '804'
 ht-degree: 1%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 在啟用收件者時區的情況下，排程電子郵件程式時有兩種可能的情況：
 
-1. 正在排程程在接下來的25小時內執行&#x200B;**&#x200B;**
+1. 正在排程程在接下來的25小時內執行&#x200B;****
 1. 正在排程程將來&#x200B;**超過**&#x200B;個25小時執行的程式（亦即下週）
 
 ## 案例1:25小時內 {#scenario-within-hours}

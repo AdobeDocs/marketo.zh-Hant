@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359910
-description: 編輯串流內容的可用性 — Marketo檔案 — 產品檔案
+description: 瞭解如何設定串流內容的有效開始日期和有效結束日期。 使用「編輯可用性」來排程內容在鑄造中處於作用中狀態的時機。
 title: 編輯資料流內容的可用性
 exl-id: 72d9848c-607c-4cdb-bcd4-a5d41d820c54
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 11%
+source-wordcount: '116'
+ht-degree: 10%
 
 ---
 

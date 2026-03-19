@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359453
-description: 編輯電子郵件標題 — Marketo檔案 — 產品檔案
+description: 瞭解如何編輯您的電子郵件標題（從名稱、電子郵件、回覆、主旨）。 在電子郵件編輯器中設定標題欄位。
 title: 編輯您的電子郵件標頭
 exl-id: 21c529d1-55b0-4529-ac0a-4dfb9d149686
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '200'
 ht-degree: 4%
 
 ---

@@ -2,11 +2,11 @@
 solution: Marketo Engage
 product: marketo
 title: 垃圾郵件報告
-description: 瞭解如何使用SpamAssassin測試您的電子郵件內容，並檢視將其標示為垃圾郵件的可能性。
+description: 瞭解如何使用SpamAssassin來測試電子郵件內容是否有垃圾郵件的可能性。 在傳送之前檢查您的電子郵件，以改善傳遞能力。
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 6954850e-2b1a-4bf5-b918-1c54d6926b7e
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 5%

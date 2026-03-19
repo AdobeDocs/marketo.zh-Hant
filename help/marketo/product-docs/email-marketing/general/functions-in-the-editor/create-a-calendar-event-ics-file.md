@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900563
-description: 建立日曆事件(.ics)檔案 — Marketo檔案 — 產品檔案
+description: 瞭解如何建立電子郵件的行事曆事件(.ics)檔案。 新增行事曆附件，讓收件者可以儲存事件。
 title: 建立行事曆事件 (.ics) 檔案
 exl-id: 17b5d99d-94ce-4122-8928-4290cc253d11
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 13%
+source-wordcount: '99'
+ht-degree: 12%
 
 ---
 

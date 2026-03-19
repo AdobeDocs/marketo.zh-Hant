@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11372054
-description: 編輯電子郵件的文字版本 — Marketo檔案 — 產品檔案
+description: 瞭解如何編輯電子郵件的文字版本。 更新無障礙和遞補顯示的純文字版本。
 title: 編輯電子郵件的文字版本
 exl-id: 6973ccdd-6ae1-4051-ab7e-ff7da40baf97
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '228'
-ht-degree: 6%
+source-wordcount: '236'
+ht-degree: 5%
 
 ---
 

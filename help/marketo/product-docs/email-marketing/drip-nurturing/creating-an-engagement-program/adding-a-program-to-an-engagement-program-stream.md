@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10098134
-description: 將方案新增到參與方案流 — Marketo檔案 — 產品檔案
+description: 瞭解參與串流中的巢狀方案以及何時使用。 新增子群組、多點觸控和額外流量步驟的程式。
 title: 新增方案至參與方案資料流
 exl-id: 44c2ce45-439b-4b29-8130-8cc218e04bbf
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '453'
-ht-degree: 3%
+source-wordcount: '462'
+ht-degree: 4%
 
 ---
 

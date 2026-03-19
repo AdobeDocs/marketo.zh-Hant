@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359596
-description: 啟用/停用電子郵件程式中的通訊限制 — Marketo檔案 — 產品檔案
+description: 瞭解如何在電子郵件程式中啟用或停用通訊限制。 控制人員接收程式電子郵件的頻率。
 title: 在電子郵件方案中啟用/停用通訊限制
 exl-id: 25427978-33a0-4153-ad66-b34f9549e794
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 12%
+source-wordcount: '137'
+ht-degree: 13%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 12%
 >
 >通訊限制在管理員區段[中設定為](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)，可協助您避免傳送過多電子郵件給某人。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-3.png)
 

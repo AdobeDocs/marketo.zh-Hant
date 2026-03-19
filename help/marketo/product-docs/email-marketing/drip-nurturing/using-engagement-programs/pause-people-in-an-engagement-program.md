@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359949
-description: 在參與方案中暫停人員 — Marketo檔案 — 產品檔案
+description: 瞭解如何暫停參與計畫的人員，讓他們停止接收內容。
 title: 將參與方案的人員暫停
 exl-id: 3bf2db4f-6fa2-4ae8-a1e7-ce6c584f749d
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 10%
+source-wordcount: '122'
+ht-degree: 9%
 
 ---
 

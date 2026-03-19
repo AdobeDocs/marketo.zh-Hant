@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12982909
-description: 使用收件者時區排程參與計畫 — Marketo檔案 — 產品檔案
+description: 瞭解如何根據收件者時區排程參與方案投放。 設定全球傳送至少提前25小時的第一次轉換。
 title: 根據收件者時區安排參與方案的時間
 exl-id: 818615be-3c7e-4051-adc7-2341783484b9
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 7%
+source-wordcount: '202'
+ht-degree: 8%
 
 ---
 
@@ -30,4 +30,4 @@ ht-degree: 7%
 >[!MORELIKETHIS]
 >
 >* [瞭解收件者時區](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
->* [設定資料流步調](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
+>* [設定資料流頻率](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)

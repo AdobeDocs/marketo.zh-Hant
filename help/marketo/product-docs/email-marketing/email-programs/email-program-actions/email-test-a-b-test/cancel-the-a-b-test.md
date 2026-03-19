@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359600
-description: 取消A/B測試 — Marketo檔案 — 產品檔案
+description: 瞭解如何取消電子郵件程式的A/B測試。 停止測試，並選擇如何處理剩餘的對象。
 title: 取消 A/B 測試
 exl-id: 7fc79e67-01db-4b6e-818e-fe61e720ad92
 feature: Email Programs, A/B Testing
-source-git-commit: de037f08506f51ecf4a98a0806a8b2a430f6bc81
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '90'
 ht-degree: 15%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 15%
 
 如果您已[將A/B測試](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)新增至您的電子郵件程式，並已決定不再需要，則很容易復原它。 方法如下。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/cancel-the-a-b-test-1.png)
 

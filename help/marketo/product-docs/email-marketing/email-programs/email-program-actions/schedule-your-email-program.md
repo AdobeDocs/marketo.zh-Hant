@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359455
-description: 排程您的電子郵件程式 — Marketo檔案 — 產品檔案
+description: 瞭解如何排程您的電子郵件計畫。 設定傳遞的日期和時間，並選擇性地使用收件者時區。
 title: 安排您的電子郵件方案的執行時間
 exl-id: c125166f-3e0d-49a5-ad83-7abac51da713
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 7%
+source-wordcount: '140'
+ht-degree: 8%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 7%
 
 建立您的電子郵件程式、定義對象並選取電子郵件後，您將會想要通知程式&#x200B;*何時*&#x200B;傳送電子郵件。 方法如下。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-1.png)
 

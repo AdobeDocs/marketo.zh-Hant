@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10912163
-description: 建立電子郵件 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo中建立電子郵件。 選擇範本，或從Design Studio或電子郵件程式中從頭開始。
 title: 建立電子郵件
 exl-id: 58388c21-d3f7-4101-a375-05e9b68a278e
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '204'
 ht-degree: 6%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 6%
 
 ## 在行銷活動中建立電子郵件 {#create-an-email-in-marketing-activities}
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/create-an-email-3.png)
 

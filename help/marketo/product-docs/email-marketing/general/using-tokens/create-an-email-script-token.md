@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900577
-description: 建立電子郵件指令碼權杖 — Marketo檔案 — 產品檔案
+description: 瞭解如何建立電子郵件指令碼Token。 定義在電子郵件中輸出動態值的自訂權杖。
 title: 建立電子郵件指令碼權杖
 exl-id: c7f8c3e0-6d64-4115-b9b6-261576360ba1
 feature: Tokens
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '203'
-ht-degree: 4%
+source-wordcount: '212'
+ht-degree: 5%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 4%
 
 對於進階開發人員，您可以在電子郵件中使用[Velocity指令碼](https://velocity.apache.org/engine/1.7/user-guide.html)。 以下是其操作方式。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/ma.png)
 
@@ -49,7 +49,7 @@ ht-degree: 4%
 
 1. 在Velocity中撰寫指令碼。 以下是一些實用的資源：
 
-   * [Marketo開發人員電子郵件指令碼檔案](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/email-scripting)
+   * [Marketo開發人員電子郵件指令碼檔案](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)
    * [Velocity使用手冊](https://velocity.apache.org/engine/devel/user-guide.html)
    * [Velocity參考指南](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [Velocity Tools Javadoc](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)

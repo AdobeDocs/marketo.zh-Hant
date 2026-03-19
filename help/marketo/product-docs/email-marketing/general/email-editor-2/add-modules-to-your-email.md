@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11371065
-description: 新增模組至您的電子郵件 — Marketo檔案 — 產品檔案
+description: 瞭解如何在電子郵件編輯器2.0中新增模組至您的電子郵件。插入並排列內容模組，以建置您的版面。
 title: 新增模組至您的電子郵件
 exl-id: d87b8b42-421b-4804-8441-8e41f2353b03
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 4%
+source-wordcount: '254'
+ht-degree: 5%
 
 ---
 

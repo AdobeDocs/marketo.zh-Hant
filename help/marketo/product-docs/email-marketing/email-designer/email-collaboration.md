@@ -1,12 +1,12 @@
 ---
-description: 電子郵件共同作業 — Marketo檔案 — 產品檔案
+description: 瞭解電子郵件Designer中的電子郵件共同作業和註解。 與您的團隊即時檢閱、評論和解決意見反應。
 title: 電子郵件共同作業
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 686a6950-6ca0-412f-8f47-24974c6428af
-source-git-commit: 58b1315db1a88c5e7aee813ef8dc0042bf8a6b14
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '314'
 ht-degree: 2%
 
 ---
@@ -35,7 +35,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->使用@mentions標籤團隊成員(例如「@John，請更新冬季電子報」)。
+>使用@mentions標籤團隊成員（例如「@John，請更新冬季電子報」）。
 
 ## 檢視所有註解 {#view-all-comments}
 

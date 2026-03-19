@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359789
-description: 複製資料流 — Marketo檔案 — 產品檔案
+description: 瞭解如何複製參與計畫資料流以進行測試。 從串流齒輪圖示原地複製並在新串流上設定步調。
 title: 原地複製資料流
 exl-id: 9e1b83c0-38ce-4729-a922-80b927673717
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 7%
+source-wordcount: '94'
+ht-degree: 6%
 
 ---
 

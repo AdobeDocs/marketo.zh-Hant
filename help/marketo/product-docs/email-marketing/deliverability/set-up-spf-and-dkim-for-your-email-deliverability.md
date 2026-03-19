@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720710
-description: 設定 SPF 和 DKIM 以確保電子郵件傳遞能力 - Marketo 文件 — 產品文件
+description: 瞭解如何在您的DNS中設定SPF和DKIM以改善電子郵件傳遞能力。 授權Marketo代表您傳送並減少垃圾郵件標幟。
 title: 設定 SPF 和 DKIM 以確保電子郵件傳遞能力
 exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
 feature: Deliverability
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '421'
-ht-degree: 100%
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+workflow-type: tm+mt
+source-wordcount: '434'
+ht-degree: 94%
 
 ---
 

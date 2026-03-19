@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359587
-description: 冠軍/挑戰者 — 捨棄電子郵件測試 — Marketo檔案 — 產品檔案
+description: 瞭解如何捨棄冠軍/挑戰者電子郵件測試。 取消測試而不宣告獲勝者並處理對象。
 title: 冠軍/挑戰者 — 捨棄電子郵件測試
 exl-id: 2a7571dc-4d97-4b6c-92c9-d4fd0b8b4153
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 9%
+source-wordcount: '94'
+ht-degree: 13%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 9%
 >
 >[冠軍/挑戰者：核准您的電子郵件測試](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -27,7 +27,7 @@ ht-degree: 9%
 
    ![](assets/champion5.jpg)
 
-1. 按一下&#x200B;**[!UICONTROL Delete]**&#x200B;確認。
+1. 按一下 **[!UICONTROL Delete]** 確認。
 
    ![](assets/image2014-9-15-14-3a17-3a11.png)
 

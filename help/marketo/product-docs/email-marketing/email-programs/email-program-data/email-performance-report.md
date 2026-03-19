@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359467
-description: 電子郵件績效報告 - Marketo 文件 - 產品文件
+description: 瞭解如何建立和使用電子郵件效能報表。 追蹤開啟、點按、跳出和其他電子郵件量度。
 title: 電子郵件績效報告
 exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '489'
-ht-degree: 100%
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+workflow-type: tm+mt
+source-wordcount: '500'
+ht-degree: 96%
 
 ---
 

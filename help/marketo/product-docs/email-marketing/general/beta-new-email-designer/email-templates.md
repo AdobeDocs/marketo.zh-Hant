@@ -1,14 +1,14 @@
 ---
-description: 電子郵件範本 — Marketo檔案 — 產品檔案
+description: 瞭解全新電子郵件Designer中的電子郵件範本。 建立和重複使用範本，以在Marketo Engage中更快速地建立電子郵件。
 title: 電子郵件範本
 hide: true
 hidefromtoc: true
 feature: Email Editor
 exl-id: 9e1d81fb-28f5-47d4-b813-950462fee81d
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1714'
-ht-degree: 1%
+source-wordcount: '1728'
+ht-degree: 3%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->若要存取新的電子郵件設計工具，您的Marketo Engage訂閱必須移轉至[Adobe Identity Management系統(IMS)](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。 如果尚未收到您的邀請，而您想要請求加急，請聯絡Adobe客戶團隊（您的客戶經理）或[Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support)。
+>若要存取新的電子郵件設計工具，您的Marketo Engage訂閱必須移轉至[Adobe Identity Management系統(IMS)](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。 如果您尚未收到邀請，而您想要請求加速處理，請和 Adobe 客戶團隊 (您的客戶經理) 或 [Marketo 支援](https://nation.marketo.com/t5/support/ct-p/Support)聯絡。
 
 >[!NOTE]
 >
@@ -58,7 +58,7 @@ ht-degree: 1%
 
 透過簡單的拖放動作新增和移動結構元素來定義您的內容。
 
-1. 在&#x200B;_設計您的範本_&#x200B;頁面中，選取&#x200B;**從頭開始設計**。
+1. 在&#x200B;_設計您的模板_&#x200B;頁中，選擇&#x200B;**從頭開始設計**。
 
 1. 新增[結構和內容](#add-structure-and-content)。
 
@@ -72,11 +72,11 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->.zip檔案結構沒有限制。 不過，參照必須是相對參照，而且符合.zip資料夾的樹狀結構。
+>.zip 檔案結構沒有限制。不過，參照必須是相對參照，而且符合.zip資料夾的樹狀結構。
 
-1. 在&#x200B;_設計您的範本_&#x200B;頁面中，選取&#x200B;**匯入HTML**。
+1. 在&#x200B;_設計模板_&#x200B;頁中，選擇&#x200B;**導入HTML**。
 
-1. 拖放所需的HTML或.zip檔案（或從電腦中選取檔案），然後按一下&#x200B;**匯入**。
+1. 拖放所需的HTML或.zip檔案（或從電腦中選擇檔案），然後按一下&#x200B;**導入**。
 
    ![](assets/import-your-html-1.png)
 
@@ -182,13 +182,13 @@ ht-degree: 1%
 
 1. 直接在畫布中選取結構元件中的欄，或使用左側顯示的&#x200B;_導覽樹狀結構_。
 
-1. 從欄工具列中，按一下&#x200B;_[!UICONTROL Select a column]_&#x200B;工具並選擇您要編輯的工具。
+1. 從欄工具列中，按一下&#x200B;_[!UICONTROL Select a column]_工具並選擇您要編輯的工具。
 
-   您也可以從結構樹中選取它。 該欄的可編輯引數會顯示在右側的&#x200B;_[!UICONTROL Settings]_&#x200B;和&#x200B;_[!UICONTROL Styles]_&#x200B;索引標籤中。
+   您也可以從結構樹中選取它。 該欄的可編輯引數會顯示在右側的&#x200B;_[!UICONTROL Settings]_和_[!UICONTROL Styles]_&#x200B;索引標籤中。
 
    ![](assets/layers-settings-styles-2.png)
 
-1. 若要編輯欄屬性，請按一下右側的&#x200B;_[!UICONTROL Styles]_&#x200B;標籤，並根據您的需求加以變更：
+1. 若要編輯欄屬性，請按一下右側的&#x200B;_[!UICONTROL Styles]_標籤，並根據您的需求加以變更：
 
    * 針對&#x200B;**[!UICONTROL Background]**，視需要變更背景顏色。
 
@@ -227,7 +227,7 @@ Token在新編輯器中的運作方式與舊版相同，但圖示看起來不同
    >
    >「遞補文字」是預設值的新編輯器辭彙。 範例： ``{{lead.First Name:default=Friend}}``。 如果您選擇的欄位中沒有該人員的值，建議您這麼做。
 
-1. 設定您的遞補文字，然後按一下[新增]。**&#x200B;**
+1. 設定您的遞補文字，然後按一下[新增]。****
 
    ![](assets/personalize-content-4.png)
 
@@ -329,7 +329,7 @@ Token在新編輯器中的運作方式與舊版相同，但圖示看起來不同
 
   ![](assets/duplicate-email-templates-1.png)
 
-* 在&#x200B;_電子郵件範本_&#x200B;清單頁面中，按一下所需電子郵件範本的[更多動作]圖示（三個點），然後選擇[複製]。**&#x200B;**
+* 在&#x200B;_電子郵件範本_&#x200B;清單頁面中，按一下所需電子郵件範本的[更多動作]圖示（三個點），然後選擇[複製]。****
 
 在對話方塊中，輸入唯一名稱與選擇性說明。 完成時，按一下&#x200B;**複製**。
 

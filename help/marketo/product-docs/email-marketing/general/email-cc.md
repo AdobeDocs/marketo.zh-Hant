@@ -1,12 +1,12 @@
 ---
 unique-page-id: 17727995
-description: 電子郵件副本 — Marketo檔案 — 產品檔案
+description: 瞭解Marketo中的電子郵件副本選項。 在法規遵循或可見性需求時，將副本收件者新增至電子郵件。
 title: 電子郵件副本
 exl-id: 00550e98-916d-4e66-91f8-7394c242a29b
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '556'
 ht-degree: 1%
 
 ---

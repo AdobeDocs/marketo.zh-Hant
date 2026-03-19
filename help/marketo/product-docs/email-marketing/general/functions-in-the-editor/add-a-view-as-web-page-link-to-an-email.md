@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1900560
-description: 將檢視新增為網頁連結至電子郵件 — Marketo檔案 — 產品檔案
+description: 瞭解如何將「以網頁形式檢視」連結新增至電子郵件。 讓收件者在瀏覽器中使用持續連結開啟電子郵件。
 title: 在電子郵件中新增「以網頁形式檢視」連結
 exl-id: 0f420d1b-6c12-4e66-9dfa-3c8f6145dc89
 feature: Email Editor
-source-git-commit: 555745d293928961263a2aafed431a7b9e22d407
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 12%
+source-wordcount: '170'
+ht-degree: 11%
 
 ---
 
 # 在電子郵件中新增「以網頁形式檢視」連結 {#add-a-view-as-web-page-link-to-an-email}
 
-電子郵件的功能有限(CSS有限，無JavaScript或表單)。 使用「以網頁形式檢視」來提供連結，以在瀏覽器中顯示您的電子郵件。 這將使用[!DNL Munchkin]對收件者進行Cookie。
+電子郵件的功能有限（CSS有限，無JavaScript或表單）。 使用「以網頁形式檢視」來提供連結，以在瀏覽器中顯示您的電子郵件。 這將使用[!DNL Munchkin]對收件者進行Cookie。
 
 >[!NOTE]
 >

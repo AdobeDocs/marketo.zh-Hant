@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1900558
-description: 編輯電子郵件中的元素 — Marketo檔案 — 產品檔案
+description: 瞭解如何在電子郵件編輯器2.0中編輯電子郵件中的元素。修改電子郵件配置中的文字、影像和其他模組。
 title: 編輯電子郵件中的元素
 exl-id: 915b4a45-f92e-40ff-9a4c-65c52f19f1ec
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '473'
+source-wordcount: '486'
 ht-degree: 2%
 
 ---

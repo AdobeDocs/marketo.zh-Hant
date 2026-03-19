@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359647
-description: 了解參與方案 - Marketo 文件 - 產品文件
+description: 瞭解Marketo中的參與計畫、串流、內容、轉換和步調。 瞭解培養計畫如何系統地呈現內容。
 title: 了解參與方案
 exl-id: dd573749-5ae6-4794-a340-b5139c316cce
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '278'
-ht-degree: 100%
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+workflow-type: tm+mt
+source-wordcount: '289'
+ht-degree: 93%
 
 ---
 

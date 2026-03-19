@@ -2,14 +2,14 @@
 solution: Marketo Engage
 product: marketo
 title: 可自訂的片段
-description: 瞭解如何透過將其部分欄位設為可編輯來自訂片段。
+description: 瞭解如何透過讓一些欄位可編輯來自訂片段。 在電子郵件Designer中建立靈活的可重複使用片段。
 level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 3e0232c7-13bd-49e2-b7c7-cd389b5f0704
-source-git-commit: cc6c04ca8a72f6efb0bec93cba084fe2993f53f0
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '409'
+source-wordcount: '415'
 ht-degree: 1%
 
 ---

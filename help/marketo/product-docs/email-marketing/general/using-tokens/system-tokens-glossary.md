@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147344
-description: 系統權杖字彙表 — Marketo檔案 — 產品檔案
+description: 瞭解Marketo電子郵件中可用的系統權杖。 使用字彙表尋找適合個人化的代號。
 title: 系統權杖字彙表
 exl-id: 8a7694af-4edb-4b32-b408-19d2e7bd596e
 feature: Tokens
-source-git-commit: bf420edcc79aa551e286302fa002df9162371873
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '228'
 ht-degree: 2%
 
 ---

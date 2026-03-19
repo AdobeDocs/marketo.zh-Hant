@@ -2,13 +2,13 @@
 solution: Marketo Engage
 product: marketo
 title: 將自訂 CSS 新增至您的電子郵件內容
-description: 瞭解如何直接在Marketo Engage的電子郵件Designer中，將自訂CSS新增至您的電子郵件內容。
+description: 瞭解如何在電子郵件Designer中新增自訂CSS至電子郵件內容。 使用Marketo Engage中的自訂程式碼設定電子郵件樣式。
 level: Intermediate
 feature: Email Designer
 exl-id: c191b44a-47ab-41f8-aa95-9268e359e5db
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '587'
+source-wordcount: '591'
 ht-degree: 3%
 
 ---
@@ -220,13 +220,13 @@ body {
 
 * 檢查`global-custom`樣式標籤是否已將屬性`data-disabled`設定為`true`。 若存在，則不會套用自訂CSS。
 
-+++ 例如：
+  +++ 例如：
 
   ```html
   <style data-name="global-custom" type="text/css" data-disabled="true"> body: { color: red; } </style>
   ```
 
-+++
+  +++
 
 * 確保您的CSS不會被其他CSS規則覆寫。
 
@@ -234,7 +234,7 @@ body {
 
    * 請考慮將`!important`加入宣告中，以確保它們優先。
 
-+++ 例如：
+     +++ 例如：
 
      ```css
      .acr-Form {
@@ -242,7 +242,7 @@ body {
      }
      ```
 
-+++
+     +++
 
 >[!NOTE]
 >

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10912237
-description: 電子郵件範本選取器概覽 — Marketo檔案 — 產品檔案
+description: 瞭解電子郵件編輯器2.0中的電子郵件範本選擇器。建立新電子郵件時從範本中選擇。
 title: 電子郵件範本挑選器概觀
 exl-id: 6bfedd73-8b77-469d-9055-f925e2c2a7f1
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '258'
-ht-degree: 3%
+source-wordcount: '267'
+ht-degree: 4%
 
 ---
 

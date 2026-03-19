@@ -1,12 +1,12 @@
 ---
 unique-page-id: 5472678
-description: 匯入非拉丁字元清單 — Marketo檔案 — 產品檔案
+description: 瞭解如何為電子郵件程式匯入包含非拉丁字元的清單。 確保針對國際受眾進行編碼和格式化。
 title: 匯入非拉丁字元清單
 exl-id: 11519e2c-ab01-4164-8ce3-0717e4c13ae6
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '301'
 ht-degree: 15%
 
 ---

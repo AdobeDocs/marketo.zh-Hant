@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10096400
-description: 建立電子郵件範本 — Marketo檔案 — 產品檔案
+description: 瞭解如何在電子郵件編輯器2.0中建立電子郵件範本。建立可重複使用的範本，包含模組和可編輯區段。
 title: 建立電子郵件範本
 exl-id: dfd91254-03fa-4f91-995d-ae4fe549a98d
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 5%
+source-wordcount: '264'
+ht-degree: 16%
 
 ---
 
@@ -69,7 +69,7 @@ ht-degree: 5%
 
    >[!CAUTION]
    >
-   >將電子郵件儲存為範本時，變數值不會延續。 變數將繼續使用基礎範本中指定的預設值。 除非已將電子郵件中的可用模組插入電子郵件內文，否則也不會延續。
+   >將電子郵件儲存為範本時，變數值不會保留。變數會繼續使用基礎範本中所指定的預設值。除非已將電子郵件中的可用模組插入電子郵件內文，否則也不會延續。
 
 若要自訂您的電子郵件範本，請檢視下文。
 

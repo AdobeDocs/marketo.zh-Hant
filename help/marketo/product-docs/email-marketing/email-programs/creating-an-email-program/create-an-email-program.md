@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900591
-description: 建立電子郵件程式 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo中建立電子郵件計畫。 在一個位置設定對象、電子郵件、排程和核准。
 title: 建立電子郵件方案
 exl-id: b2efaddb-cc7a-4ae3-8c1c-b70d189dd290
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 6%
+source-wordcount: '128'
+ht-degree: 7%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 6%
 
 使用電子郵件程式，快速輕鬆地傳送電子郵件給群組。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/one.png)
 

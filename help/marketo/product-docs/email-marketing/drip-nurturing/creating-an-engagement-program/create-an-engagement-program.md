@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359652
-description: 建立參與計畫 - Marketo 文件 - 產品文件
+description: 瞭解如何在Marketo中建立參與計畫，用於電子郵件培養。 選擇參與作為方案型別，並新增串流和內容。
 title: 建立參與方案
 exl-id: 90f76d04-79cf-4fa1-999b-54d4ae34223f
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '74'
-ht-degree: 100%
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+workflow-type: tm+mt
+source-wordcount: '89'
+ht-degree: 74%
 
 ---
 

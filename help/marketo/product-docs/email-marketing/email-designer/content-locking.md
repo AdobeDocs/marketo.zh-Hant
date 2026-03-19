@@ -2,13 +2,13 @@
 solution: Marketo Engage
 product: marketo
 title: 鎖定電子郵件範本中的內容
-description: 瞭解如何鎖定電子郵件範本中的內容。
+description: 瞭解如何鎖定電子郵件範本中的內容，讓其他人無法編輯。 保護電子郵件Designer中的區段一致性。
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 7ccff4f0-5db5-4dd7-91e0-d2081b74ad18
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '831'
+source-wordcount: '843'
 ht-degree: 8%
 
 ---

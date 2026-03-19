@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7514918
-description: 瞭解取消訂閱 — Marketo檔案 — 產品檔案
+description: 瞭解Marketo中的取消訂閱型別（已取消訂閱、行銷活動已暫停、已列入封鎖名單）。 請針對行銷活動中的每個情境使用正確的欄位。
 title: 了解取消訂閱
 exl-id: 30866dc0-cdac-4e73-8dbf-d4b509012269
 feature: Deliverability
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '235'
 ht-degree: 4%
 
 ---

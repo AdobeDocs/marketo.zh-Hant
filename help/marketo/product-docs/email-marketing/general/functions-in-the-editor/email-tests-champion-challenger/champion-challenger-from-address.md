@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359559
-description: 冠軍/挑戰者 — 寄件者地址 — Marketo檔案 — 產品檔案
+description: 瞭解如何執行地址測試中的冠軍/挑戰者。 測試不同的寄件者地址，並依條件宣告獲勝者。
 title: 冠軍/挑戰者 — 寄件者地址
 exl-id: 0debb7d3-358b-4054-989f-526d5c434c14
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '278'
 ht-degree: 2%
 
 ---
