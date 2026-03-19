@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359474
-description: 編輯區段 — Marketo檔案 — 產品檔案
+description: 瞭解如何透過建立草稿和變更區段或規則來編輯區段。 新增、編輯或刪除區段，並在草稿中定義智慧列示規則。
 title: 編輯細分
 exl-id: 8a217ce4-af14-4fc2-b5d7-7fc696b7665d
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '192'
 ht-degree: 3%
 
 ---

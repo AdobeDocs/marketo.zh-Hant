@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10095644
-description: 核准無草稿的程式碼片段 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用「非草稿」選項核准程式碼片段。 核準時，請選擇「全部更新」或「建立草稿」，以控制使用程式碼片段更新資產的方式。
 title: 核准設定為無草稿的程式碼片段
 exl-id: a06aa77a-68f1-41a4-b2bd-bf1882b81578
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '229'
 ht-degree: 4%
 
 ---

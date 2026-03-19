@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359459
-description: 建立程式碼片段 — Marketo檔案 — 產品檔案
+description: 瞭解如何在電子郵件和登入頁面上建立動態內容的程式碼片段。 建立新程式碼片段並新增內容以供跨資產重複使用。
 title: 建立程式碼片段
 exl-id: 8483ed35-3763-42b6-bfd9-55e0a69a66cc
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 8%
+source-wordcount: '89'
+ht-degree: 6%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359510
-description: 刪除區段 — Marketo檔案 — 產品檔案
+description: 瞭解如何刪除不再需要的區段。 移除資產關聯、取消核准分段，然後使用分段動作進行刪除。
 title: 刪除細分
 exl-id: d8d9b435-ced1-45cf-8615-d6a12a85bfcd
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 6%
+source-wordcount: '110'
+ht-degree: 5%
 
 ---
 

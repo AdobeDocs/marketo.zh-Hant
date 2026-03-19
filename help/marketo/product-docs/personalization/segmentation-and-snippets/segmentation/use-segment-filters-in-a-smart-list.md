@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359512
-description: 在智慧清單中使用區段篩選器 — Marketo檔案 — 產品檔案
+description: 瞭解如何在智慧清單中使用區段篩選器來最佳化效能。 新增「區段」篩選器，依智慧清單中的區段來鎖定目標人物。
 title: 在智慧清單中使用區段篩選器
 exl-id: 8a0f8631-9657-4209-af64-4e967c27b137
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 11%
+source-wordcount: '77'
+ht-degree: 9%
 
 ---
 

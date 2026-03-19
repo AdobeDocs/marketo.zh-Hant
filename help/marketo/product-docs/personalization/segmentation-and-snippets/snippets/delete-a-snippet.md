@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359518
-description: 刪除程式碼片段 — Marketo檔案 — 產品檔案
+description: 瞭解如何刪除您不再需要的程式碼片段。 取消核准程式碼片段並移除資產關聯，然後使用Design Studio中的程式碼片段動作進行刪除。
 title: 刪除程式碼片段
 exl-id: 6984fd94-dd91-4832-83ce-3a6c3b35b034
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 8%
+source-wordcount: '90'
+ht-degree: 6%
 
 ---
 

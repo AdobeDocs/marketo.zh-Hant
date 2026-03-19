@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359447
-description: 建立細分 — Marketo檔案 — 產品檔案
+description: 瞭解如何建立細分，將報表和動態內容中的人員分組。 在資料庫中新增區段、設定順序，然後定義區段規則。
 title: 建立細分
 exl-id: a7907f1d-bc78-4b63-9875-044e96609755
 feature: Segmentation
-source-git-commit: b29186ba84ec88be42432e56d1ad0e77c5b43900
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '232'
 ht-degree: 3%
 
 ---

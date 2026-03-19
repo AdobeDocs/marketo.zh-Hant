@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359457
-description: 核准區段 — Marketo檔案 — 產品檔案
+description: 瞭解如何核准分段，以便用於動態內容和報表。 定義區段規則後，請使用「資料庫」和「區段」動作進行核准。
 title: 核准細分
 exl-id: c8b0fbe9-012c-47bf-8769-0167156b43d3
 feature: Segmentation
-source-git-commit: b29186ba84ec88be42432e56d1ad0e77c5b43900
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '240'
 ht-degree: 2%
 
 ---

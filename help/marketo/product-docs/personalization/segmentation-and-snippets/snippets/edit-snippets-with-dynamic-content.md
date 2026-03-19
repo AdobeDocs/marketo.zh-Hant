@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359466
-description: 使用動態內容編輯代碼片段 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用分段來編輯具有動態內容的代碼片段。 在Design Studio中新增區段依據至區段，並針對每個區段套用不同的內容。
 title: 使用動態內容編輯程式碼片段
 exl-id: 44fa65b0-bc3c-4b7f-90af-0af99da73337
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 9%
+source-wordcount: '127'
+ht-degree: 7%
 
 ---
 

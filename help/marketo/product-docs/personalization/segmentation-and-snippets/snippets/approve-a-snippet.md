@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359463
-description: 核准程式碼片段 — Marketo檔案 — 產品檔案
+description: 瞭解如何核准程式碼片段，以便用於電子郵件和登入頁面。 使用Design Studio和程式碼片段動作，將狀態從「草稿」變更為「已核准」。
 title: 核准程式碼片段
 exl-id: 9dd123dc-6a8c-483e-ba2b-e7dde2c97f5f
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '50'
-ht-degree: 16%
+source-wordcount: '72'
+ht-degree: 11%
 
 ---
 

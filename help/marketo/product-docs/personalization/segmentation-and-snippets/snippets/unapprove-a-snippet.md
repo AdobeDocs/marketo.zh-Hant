@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359516
-description: 取消核准程式碼片段 — Marketo檔案 — 產品檔案
+description: 瞭解如何取消核准程式碼片段，以進行變更或刪除。 移除資產關聯，然後使用「程式碼片段動作」來取消核准並設定為草稿狀態。
 title: 取消核准程式碼片段
 exl-id: e3797788-704c-461f-a7b0-dac39eeaa1a7
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 10%
+source-wordcount: '92'
+ht-degree: 8%
 
 ---
 

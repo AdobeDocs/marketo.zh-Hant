@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359488
-description: 依區段分組電子郵件報表 — Marketo檔案 — 產品檔案
+description: 瞭解如何依區段將您的電子郵件效能報表分組。 使用「電子郵件效能報表設定」標籤，套用一或兩個區段進行分組。
 title: 按照細分將電子郵件報告分組
 exl-id: dd023dca-02a4-40c7-9cb8-53024597e671
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 15%
+source-wordcount: '119'
+ht-degree: 13%
 
 ---
 

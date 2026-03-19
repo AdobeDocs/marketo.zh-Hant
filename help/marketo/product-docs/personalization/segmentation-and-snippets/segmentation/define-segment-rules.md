@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359449
-description: 定義區段規則 — Marketo檔案 — 產品檔案
+description: 瞭解如何定義區段規則，將使用者分類為互斥群組。 新增智慧清單篩選器、預覽人員（草稿）以及核准動態內容的區段。
 title: 定義區段規則
 exl-id: e6631848-aa8c-4709-b182-4c88abbd365b
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '367'
-ht-degree: 1%
+source-wordcount: '386'
+ht-degree: 2%
 
 ---
 
@@ -51,7 +51,7 @@ ht-degree: 1%
 
    ![](assets/image2017-3-28-14-3a20-3a15.png)
 
-1. 移至&#x200B;**[!UICONTROL Segmentation Actions]**。 按一下「**[!UICONTROL Approve]**」。
+1. 前往 **[!UICONTROL Segmentation Actions]**。 按一下「**[!UICONTROL Approve]**」。
 
    ![](assets/image2014-9-15-11-3a36-3a7.png)
 

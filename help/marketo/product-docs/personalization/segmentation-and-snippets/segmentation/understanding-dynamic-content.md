@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953417
-description: 瞭解動態內容 — Marketo檔案 — 產品檔案
+description: 瞭解Marketo動態內容，用於依區段個人化登入頁面和電子郵件。 瞭解區段、動態內容區塊和可重複使用的程式碼片段。
 title: 了解動態內容
 exl-id: 1e74cdb5-f879-424e-8db0-0a788d13fd5e
 feature: Dynamic Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '237'
 ht-degree: 4%
 
 ---

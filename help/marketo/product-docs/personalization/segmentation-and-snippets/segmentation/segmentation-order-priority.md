@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359500
-description: 區段訂單優先順序 — Marketo檔案 — 產品檔案
+description: 瞭解分段順序優先順序，以及它如何判斷個人屬於哪個區段。 編輯資料庫中的區段順序以控制區段的評估。
 title: 細分順序優先順序
 exl-id: c20d07c8-5e53-4f54-a7a3-2e1aa4fb0cdd
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '140'
 ht-degree: 4%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 4%
 >[!PREREQUISITES]
 >
 >[建立分段](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->&#x200B;>[定義區段規則](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
+>[定義區段規則](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
 
 >[!NOTE]
 >

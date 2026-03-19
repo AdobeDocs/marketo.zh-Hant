@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359496
-description: 將內容新增至程式碼片段 — Marketo檔案 — 產品檔案
+description: 瞭解如何將代號、影像、檔案或RTF文字新增至程式碼片段。 在Design Studio中使用代碼片段編輯器來新增Token、影像/檔案和文字元素。
 title: 新增內容至程式碼片段
 exl-id: b8be61ea-016d-4aab-b1b7-a43d699c3bfe
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 6%
+source-wordcount: '202'
+ht-degree: 5%
 
 ---
 
