@@ -1,11 +1,11 @@
 ---
-description: 設定行動推播通知 — Marketo檔案 — 產品檔案
+description: 瞭解如何設定行動推播通知。 設定應用程式、訊息文字、點選動作、深層連結，以及核准傳送。
 title: 設定行動推播通知
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
-source-git-commit: f6bdae9dbf1520bd8f30b4dd774b52a36b029c45
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '461'
 ht-degree: 3%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 3%
 
    >[!NOTE]
    >
-   >如果您的推送訊息僅套用至一個平台(例如iOS)，您可以手動將其選取器滑動至「**已停用**」以排除另一個平台。
+   >如果您的推送訊息僅套用至一個平台（例如iOS），您可以手動將其選取器滑動至「**已停用**」以排除另一個平台。
 
 1. 按一下「**[!UICONTROL Next]**」。
 
@@ -82,7 +82,7 @@ ht-degree: 3%
 
 ![](assets/configure-mobile-push-notification-10.png)
 
-也就是說，您應用程式的深層連結結構可能與上述範例不同。 您的開發人員在定義深層連結URI時有許多選項，因此請要求您的開發人員將您有意使用的頁面的URI （連結）傳送給您。 這可確保您在推送訊息中輸入的URI會指向正確的位置。 您的開發人員可以[在這裡找到更多資訊](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app)。
+也就是說，您應用程式的深層連結結構可能與上述範例不同。 您的開發人員在定義深層連結URI時有許多選項，因此請要求您的開發人員將您有意使用的頁面的URI （連結）傳送給您。 這可確保您在推送訊息中輸入的URI會指向正確的位置。 您的開發人員可以[在這裡找到更多資訊](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app)。
 
 >[!MORELIKETHIS]
 >

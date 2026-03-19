@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10617440
-description: 核准您的應用程式內訊息 — Marketo檔案 — 產品檔案
+description: 瞭解如何核准您的應用程式內訊息，以將其啟動。 使用應用程式內儀表板暫停、繼續或停止程式並監視效能。
 title: 核准您的應用程式內訊息
 exl-id: 3ebd857e-8caa-45f3-a53c-fa2df2a81d36
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '316'
 ht-degree: 2%
 
 ---

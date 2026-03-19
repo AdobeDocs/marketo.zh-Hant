@@ -1,12 +1,12 @@
 ---
-description: 預期行為 — Marketo檔案 — 產品檔案
+description: 瞭解Marketo Sky中預測對象的預期行為。 瞭解資料隱私權、啟用時間及篩選限制。
 title: 預期行為
 hide: true
 hidefromtoc: true
 exl-id: d19130cf-186e-4aad-be32-6aad18c9d08b
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '389'
 ht-degree: 1%
 
 ---

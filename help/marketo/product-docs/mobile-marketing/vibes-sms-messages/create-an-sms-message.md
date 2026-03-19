@@ -1,12 +1,12 @@
 ---
-description: 建立SMS訊息 — Marketo檔案 — 產品檔案
+description: 瞭解如何建立SMS訊息。 在編輯器中新增文字、代號和連結，並遵循字元限制和法規遵循要求。
 title: 建立簡訊訊息
 feature: Mobile Marketing
 exl-id: 94749ea4-2fe3-4d90-9b31-35700ddd1670
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '476'
-ht-degree: 1%
+source-wordcount: '490'
+ht-degree: 2%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 1%
 >
 >[將Vibes新增為LaunchPoint Service](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"}
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/create-an-sms-message-1.png)
 
@@ -34,7 +34,7 @@ ht-degree: 1%
 
    ![](assets/create-an-sms-message-3.png)
 
-1. 輸入新SMS訊息的名稱和選擇性說明，然後按一下[建立]。**&#x200B;**
+1. 輸入新SMS訊息的名稱和選擇性說明，然後按一下[建立]。****
 
    ![](assets/create-an-sms-message-4.png)
 
@@ -62,7 +62,7 @@ ht-degree: 1%
 
    ![](assets/create-an-sms-message-7.png)
 
-1. 若要新增連結，請選取訊息中您希望其出現的位置，然後按一下[連結]。**&#x200B;**
+1. 若要新增連結，請選取訊息中您希望其出現的位置，然後按一下[連結]。****
 
    ![](assets/create-an-sms-message-8.png)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10617431
-description: 設定應用程式內訊息對象 — Marketo檔案 — 產品檔案
+description: 瞭解如何設定應用程式內訊息對象。 編輯智慧清單、選擇應用程式和觸發器、設定顯示限制並新增篩選器。
 title: 設定您的應用程式內訊息客群
 exl-id: 696ae5b6-7063-41bc-bcef-27879182ff1e
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '279'
 ht-degree: 4%
 
 ---

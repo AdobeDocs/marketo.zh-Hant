@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512445
-description: 驗證推送設定 — Marketo檔案 — 產品檔案
+description: 瞭解如何驗證推送設定，以便同步您的行動應用程式。 在「管理員」中確認平台並開始傳送推播通知。
 title: 驗證推播設定
 exl-id: 5a391087-9d4a-4b06-bc0d-25cd8237e4df
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 10%
+source-wordcount: '82'
+ht-degree: 8%
 
 ---
 

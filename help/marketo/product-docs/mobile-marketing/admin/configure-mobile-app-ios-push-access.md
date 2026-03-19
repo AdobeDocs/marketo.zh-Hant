@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7512434
-description: 設定行動應用程式iOS推送存取權 — Marketo檔案 — 產品檔案
+description: 瞭解如何設定行動應用程式的iOS推送存取權。 在Admin中新增來自開發人員的憑證和密碼。
 title: 設定行動應用程式 iOS 推播存取權
 exl-id: d8c54232-3df2-4e25-ab25-3e72aaf49252
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '139'
 ht-degree: 10%
 
 ---

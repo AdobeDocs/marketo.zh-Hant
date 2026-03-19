@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7512252
-description: 新增行動應用程式 — Marketo檔案 — 產品檔案
+description: 瞭解如何將行動應用程式新增至Marketo以傳送推播通知。 命名應用程式，然後選擇「沙箱」或「生產環境」。
 title: 新增行動應用程式
 exl-id: 79edf8cb-4d8b-440a-aa8a-6ead1a93b95a
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '199'
 ht-degree: 6%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8783146
-description: 新增測試裝置 — Marketo檔案 — 產品檔案
+description: 瞭解如何為推播通知新增測試裝置。 使用URL或QR碼來連線您的裝置並傳送測試推送。
 title: 新增新的測試裝置
 exl-id: b7adfad7-c699-4840-a77a-8bdf3ff16f60
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 8%
+source-wordcount: '137'
+ht-degree: 9%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 8%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 1. 按一下&#x200B;**[!UICONTROL Admin]**，然後按一下&#x200B;**[!UICONTROL Mobile Apps]**&#x200B;連結。
 

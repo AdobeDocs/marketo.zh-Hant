@@ -1,11 +1,11 @@
 ---
-description: 在Smart Campaign中使用簡訊選項 — Marketo檔案 — 產品檔案
+description: 瞭解Smart Campaigns中的SMS觸發器、篩選器和流程步驟。 使用Vibes簡訊活動和清單來鎖定和觸發行銷活動。
 title: 在智慧行銷活動中使用簡訊選項
 feature: Mobile Marketing
 exl-id: 199b7cae-86d2-42fe-8934-10aa780f4454
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '415'
 ht-degree: 3%
 
 ---
@@ -87,5 +87,5 @@ ht-degree: 3%
 >[!MORELIKETHIS]
 >
 >* [傳送SMS訊息](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"}
->* [定義智慧行銷活動的智慧清單 | 觸發器](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
->* [定義智慧行銷活動的智慧清單 | 批次](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}
+>* [為Smart Campaign定義智慧清單|觸發器](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
+>* [為Smart Campaign定義智慧清單|批次](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}

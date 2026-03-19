@@ -1,12 +1,12 @@
 ---
-description: 在智慧清單觸發器和篩選器中使用Vibes SMS訊息 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Smart Campaigns中使用視訊簡訊觸發器和篩選器。 定義何時依訂閱和清單成員資格傳送或篩選。
 title: 在智慧清單觸發器和篩選器中使用Vibes SMS訊息
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '402'
 ht-degree: 0%
 
 ---
@@ -72,5 +72,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [定義智慧行銷活動的智慧清單 | 觸發器](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
+>* [為Smart Campaign定義智慧清單|觸發器](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
 >* [尋找並新增篩選器至智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)

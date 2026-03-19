@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100642
-description: 建立應用程式內訊息文字 — Marketo檔案 — 產品檔案
+description: 瞭解如何建立應用程式內訊息文字和樣式。 編輯主要和支援的文字、顏色、大小、對齊方式、代號，以及點選動作。
 title: 建立應用程式內訊息文字
 exl-id: 8fe5f004-dafb-4e03-9628-bd92fcb3fd44
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '376'
 ht-degree: 2%
 
 ---

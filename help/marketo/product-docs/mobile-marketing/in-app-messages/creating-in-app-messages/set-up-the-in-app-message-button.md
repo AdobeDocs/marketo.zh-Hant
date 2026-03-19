@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100644
-description: 設定應用程式內訊息按鈕 — Marketo檔案 — 產品檔案
+description: 瞭解如何設定應用程式內訊息按鈕。 設定Apple和Android的色彩、形狀、自訂影像、字型和點選動作。
 title: 設定應用程式內訊息按鈕
 exl-id: de03da9d-241e-4d6e-8eb5-3096ddf294ce
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---

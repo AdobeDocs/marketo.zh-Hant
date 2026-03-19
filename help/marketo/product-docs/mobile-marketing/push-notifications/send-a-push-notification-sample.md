@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8783141
-description: 傳送推播通知範例 — Marketo檔案 — 產品檔案
+description: 瞭解如何傳送推播通知範例，以確認其運作正常。 選取測試裝置或新增測試裝置，然後從編輯器傳送範例。
 title: 傳送推播通知範例
 exl-id: 1d2d9f6e-32c5-41f5-8744-33373c3b42e0
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '249'
-ht-degree: 4%
+source-wordcount: '266'
+ht-degree: 3%
 
 ---
 

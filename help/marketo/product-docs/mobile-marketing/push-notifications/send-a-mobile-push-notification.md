@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512457
-description: 傳送行動推播通知 — Marketo檔案 — 產品檔案
+description: 瞭解如何傳送行動推播通知。 使用包含「智慧清單」和「流量」的智慧行銷活動，排程推送給您的對象。
 title: 傳送行動推播通知
 exl-id: b462857e-c63d-419d-9e28-aafc778e217e
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 19%
+source-wordcount: '104'
+ht-degree: 21%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 19%
 
 >[!PREREQUISITES]
 >
->* [建立新的Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
+>* [建立新的智慧行銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
 >* [建立推播通知](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
 
 1. 前往「**[!UICONTROL Marketing Activities]**」區域。

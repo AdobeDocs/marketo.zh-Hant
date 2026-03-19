@@ -1,18 +1,18 @@
 ---
-description: 傳送您的應用程式內訊息 — Marketo檔案 — 產品檔案
+description: 瞭解如何傳送您的應用程式內訊息。 建立方案，使用「控制面板」設定對象和訊息，然後核准啟動。
 title: 傳送您的應用程式內訊息
 exl-id: 4ec196df-e8ef-45f8-9486-70d2b7c7ab1f
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 5%
+source-wordcount: '162'
+ht-degree: 7%
 
 ---
 
 # 傳送您的應用程式內訊息 {#send-your-in-app-message}
 
-建立應用程式內訊息後，您就可以開始傳送了。 步驟如下：
+建立應用程式內訊息後，您就可以開始傳送了。 以下是步驟：
 
 >[!NOTE]
 >

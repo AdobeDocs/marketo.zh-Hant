@@ -1,11 +1,11 @@
 ---
-description: 傳送SMS訊息 — Marketo檔案 — 產品檔案
+description: 瞭解如何透過批次或觸發行銷活動來傳送SMS訊息。 定義智慧清單、新增「傳送簡訊」流程步驟，然後排程或啟用。
 title: 傳送簡訊訊息
 feature: Mobile Marketing
 exl-id: 2c863ded-f441-4217-9541-6dcc442d9831
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '337'
 ht-degree: 2%
 
 ---

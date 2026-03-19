@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100434
-description: 選擇應用程式內訊息的配置 — Marketo檔案 — 產品檔案
+description: 瞭解六種應用程式內訊息配置。 選擇「快顯」或「全熒幕」範本，使用影像和按鈕建立訊息。
 title: 為應用程式內訊息選擇版面
 exl-id: e36507d1-df04-43ac-9da0-14116db3add6
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '490'
 ht-degree: 2%
 
 ---
@@ -22,7 +22,7 @@ Marketo提供六種版面來建置應用程式內訊息。
 
 三種「彈出式視窗」配置都提供預設設計元素，包括影像、文字、按鈕和背景。
 
-第一個「彈出式視窗」配置是預設選項，原因很清楚：它適合大多數用途。 它適用於解析度較低的影像。 此版面配置使用您平台的標準字型(適用於Apple的Helvetica、適用於Android的Roboto)，因此一律顯示在手機或平板電腦上。 您可以上傳並放置主要和背景影像、撰寫您自己的主要和支援文字，以及設定主要和解除按鈕。 文字限製為24畫素的三行。 較大的文字大小會減少行數。
+第一個「彈出式視窗」配置是預設選項，原因很清楚：它適合大多數用途。 它適用於解析度較低的影像。 此版面配置使用您平台的標準字型（適用於Apple的Helvetica、適用於Android的Roboto），因此一律顯示在手機或平板電腦上。 您可以上傳並放置主要和背景影像、撰寫您自己的主要和支援文字，以及設定主要和解除按鈕。 文字限製為24畫素的三行。 較大的文字大小會減少行數。
 
 ![](assets/image2016-5-9-13-3a3-3a48.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512442
-description: 刪除行動應用程式 — Marketo檔案 — 產品檔案
+description: 瞭解如何從Marketo刪除行動應用程式。 移除應用程式，使其無法再傳送推播通知。
 title: 刪除行動應用程式
 exl-id: 048b7d05-87c2-4667-a663-27d782ab2ef1
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '38'
-ht-degree: 21%
+source-wordcount: '53'
+ht-degree: 15%
 
 ---
 

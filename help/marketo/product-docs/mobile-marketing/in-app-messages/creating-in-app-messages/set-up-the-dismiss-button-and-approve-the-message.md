@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10912178
-description: 設定關閉按鈕並核准訊息 — Marketo檔案 — 產品檔案
+description: 瞭解如何設定解除按鈕並核准您的應用程式內訊息。 設定顏色、設計和點選動作，然後預覽並核准以啟動。
 title: 設定解除按鈕並核准訊息
 exl-id: d7d2b4ad-efcb-4eb3-a741-ae51cfab2626
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '338'
+source-wordcount: '350'
 ht-degree: 0%
 
 ---

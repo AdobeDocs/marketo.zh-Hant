@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10096523
-description: 檢視推播通知控制面板 — Marketo檔案 — 產品檔案
+description: 瞭解如何檢視推播通知儀表板。 檢視您推送行銷活動的已傳送總數、點選總數和點選衰減數。
 title: 檢視推播通知儀表板
 exl-id: c898d02e-9587-495e-bd86-c50343cacf8c
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 11%
+source-wordcount: '130'
+ht-degree: 10%
 
 ---
 

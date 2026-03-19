@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512448
-description: 將SDK程式碼傳送給開發人員 — Marketo檔案 — 產品檔案
+description: 瞭解如何將SDK程式碼傳送給您的開發人員。 使用行動應用程式動作，以電子郵件傳送Android和iOS設定的程式碼片段。
 title: 傳送 SDK 程式碼至開發人員
 exl-id: 0c32b9af-8d86-40d7-b1f3-9aaa53b9b730
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 18%
+source-wordcount: '120'
+ht-degree: 16%
 
 ---
 
@@ -15,8 +15,8 @@ ht-degree: 18%
 
 您必須先讓開發人員設定並初始化適用於Android和iOS平台的行動應用程式SDK，才能建立應用程式內訊息或推播通知。
 
-* 適用於Android的[指示](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)
-* 適用於iOS的[指示](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios)
+* 適用於Android的[指示](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)
+* 適用於iOS的[指示](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios)
 
 ## 傳送 SDK 程式碼至開發人員 {#send-sdk-code-to-a-developer-1}
 

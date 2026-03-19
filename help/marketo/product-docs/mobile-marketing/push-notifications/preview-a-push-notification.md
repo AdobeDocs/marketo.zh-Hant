@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10092730
-description: 預覽推播通知 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Android和iOS上預覽推播通知。 檢視它在「首頁」畫面、「鎖定」畫面和「通知中心」的外觀。
 title: 預覽推播通知
 exl-id: 72c5221d-8cef-4d26-b15f-c7c3e291c919
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '252'
 ht-degree: 3%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512463
-description: 刪除行動推播通知 — Marketo檔案 — 產品檔案
+description: 瞭解如何刪除行動推播通知，並在其他資產未使用時將其移除。
 title: 刪除行動推播通知
 exl-id: 1f9d523e-b7aa-4880-8249-48cce92751aa
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 20%
+source-wordcount: '71'
+ht-degree: 16%
 
 ---
 

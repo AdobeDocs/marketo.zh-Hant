@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11370503
-description: 排程您的應用程式內訊息 — Marketo檔案 — 產品檔案
+description: 瞭解如何排程您的應用程式內訊息。 設定未來的開始日期和時間，或立即執行（可選擇結束日期）。
 title: 安排您的應用程式內訊息傳送時間
 exl-id: 2ff785b4-a0c9-4c04-869b-86fba7b997d7
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 9%
+source-wordcount: '94'
+ht-degree: 8%
 
 ---
 

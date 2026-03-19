@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10617434
-description: 選取您的應用程式內訊息 — Marketo檔案 — 產品檔案
+description: 瞭解如何為您的程式選取應用程式內訊息。 從下拉式清單中選擇，然後編輯、預覽或繼續排程。
 title: 選取您的應用程式內訊息
 exl-id: 3d705364-ea20-4ffd-8eda-10ec5f87c63d
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 7%
+source-wordcount: '121'
+ht-degree: 6%
 
 ---
 

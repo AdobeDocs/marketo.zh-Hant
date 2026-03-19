@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512432
-description: 設定行動應用程式Android推送存取權 — Marketo檔案 — 產品檔案
+description: 瞭解如何設定行動應用程式的Android推送存取權。 在Admin中輸入來自開發人員的伺服器API金鑰和專案編號。
 title: 設定行動應用程式 Android 推播存取權
 exl-id: 1204f36a-d960-4af6-a5d0-ee6b6720026a
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 24%
+source-wordcount: '91'
+ht-degree: 20%
 
 ---
 

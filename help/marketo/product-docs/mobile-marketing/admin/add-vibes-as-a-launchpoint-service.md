@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11378845
-description: 新增Vibes as a LaunchPoint Service - Marketo檔案 — 產品檔案
+description: 瞭解如何將Vibes新增為LaunchPoint服務。 在「管理員」中輸入認證，以啟用SMS並在Marketo Engage中使用SMS活動。
 title: 將 Vibes 新增為 LaunchPoint 服務
 exl-id: 13f153c1-609e-4bee-a588-eb4665755acc
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 9%
+source-wordcount: '168'
+ht-degree: 10%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 9%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 >[!AVAILABILITY]
 >

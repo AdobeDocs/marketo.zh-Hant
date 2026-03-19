@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100636
-description: 新增應用程式內訊息影像 — Marketo檔案 — 產品檔案
+description: 瞭解如何在應用程式內訊息中新增和自訂影像。 從Design Studio中選取、設定大小、框線，以及每個平台的點選動作。
 title: 新增應用程式內訊息影像
 exl-id: b4617338-04bc-4235-bff1-7ec89a9b2c6a
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '349'
 ht-degree: 2%
 
 ---
@@ -47,7 +47,7 @@ ht-degree: 2%
 
    ![](assets/image2016-5-6-9-3a0-3a16.png)
 
-1. 按一下&#x200B;**[!UICONTROL Remove]**。 現在，您可以選取其他選項。
+1. 按一下「**[!UICONTROL Remove]**」。 現在，您可以選取其他選項。
 
    ![](assets/image2016-5-6-9-3a1-3a3.png)
 

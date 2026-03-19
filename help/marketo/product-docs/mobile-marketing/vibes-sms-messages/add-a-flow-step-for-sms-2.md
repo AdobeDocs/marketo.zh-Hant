@@ -1,12 +1,12 @@
 ---
-description: 新增簡訊的流程步驟 — Marketo檔案 — 產品檔案
+description: 瞭解如何將簡訊流程步驟新增至智慧行銷活動。 使用傳送SMS訊息、訂閱音量清單或取消訂閱音量清單。
 title: 新增簡訊的流程步驟
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
