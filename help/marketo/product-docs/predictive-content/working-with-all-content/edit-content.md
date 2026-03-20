@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11384653
-description: 編輯內容 — Marketo檔案 — 產品檔案
+description: 瞭解如何編輯標題、URL、類別和預測核准的所有內容清單。
 title: 編輯內容
 exl-id: 138b620e-4435-4a81-b4c8-132c2d6e25f5
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 4%
+source-wordcount: '95'
+ht-degree: 7%
 
 ---
 
@@ -27,6 +27,6 @@ ht-degree: 4%
 
    ![](assets/edit-content-3.png)
 
-1. 勾選&#x200B;**[!UICONTROL Approve for Predictive Content]**&#x200B;方塊以核准，或取消勾選方塊以取消核准。 完成時，按一下&#x200B;**[!UICONTROL Save]**。
+1. 勾選&#x200B;**[!UICONTROL Approve for Predictive Content]**&#x200B;方塊以核准，或取消勾選方塊以取消核准。 完成後請按一下 **[!UICONTROL Save]**。
 
    ![](assets/edit-content-4.png)

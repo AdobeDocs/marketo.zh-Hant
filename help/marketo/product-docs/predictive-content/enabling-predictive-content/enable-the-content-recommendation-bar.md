@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720108
-description: 啟用內容建議列 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用每個URL的預測性分析來啟用內容建議列並設定其樣式。 使用「內容設定」來開啟頁面，以及自訂顏色和路徑。
 title: 啟用內容推薦列
 exl-id: f2244db1-51a9-4e26-9bf7-b2c79df25552
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '314'
-ht-degree: 3%
+source-wordcount: '333'
+ht-degree: 4%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 3%
 
 ## 啟用及自訂內容推薦列 {#enable-and-customize-the-content-recommendation-bar}
 
-1. 移至&#x200B;**[!UICONTROL Content Settings]**。
+1. 前往 **[!UICONTROL Content Settings]**。
 
    ![](assets/settings-dropdown-hand.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11384661
-description: 核准預測性內容的標題 — Marketo檔案 — 產品檔案
+description: 瞭解如何從「所有內容」頁面或「編輯內容」快顯視窗核准預測內容的標題。 將核准的內容新增至「預測性內容」頁面以取得建議。
 title: 核准預測內容的標題
 exl-id: 158ab21d-f5d6-452d-976e-8b50b2670b1a
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 14%
+source-wordcount: '135'
+ht-degree: 12%
 
 ---
 

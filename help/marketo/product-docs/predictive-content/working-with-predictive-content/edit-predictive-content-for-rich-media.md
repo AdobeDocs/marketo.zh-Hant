@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11385940
-description: 編輯多媒體預測性內容 — Marketo檔案 — 產品檔案
+description: 瞭解如何設定包含說明、sRGB影像和類別的豐富媒體預測性內容。 啟用Web建議的已核准內容。
 title: 編輯豐富媒體的預測內容
 exl-id: 6c1161dd-cefe-4b0f-8942-396d4b7db701
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '220'
 ht-degree: 6%
 
 ---

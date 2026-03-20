@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11385057
-description: 設定類別 — Marketo檔案 — 產品檔案
+description: 在「預測性內容」中設定類別，將您的預測性結果群組在網頁或電子郵件上。 在「內容設定」中建立類別標籤，以方便篩選和搜尋。
 title: 設定類別
 exl-id: 4756e821-d90d-4148-b9c4-4912a48d26b4
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '158'
 ht-degree: 5%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 5%
 
 以下說明如何建立類別標籤。
 
-1. 移至&#x200B;**[!UICONTROL Content Settings]**。
+1. 前往 **[!UICONTROL Content Settings]**。
 
    ![](assets/settings-dropdown-hand-1.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12981204
-description: 預測性Content Analytics概觀 — Marketo檔案 — 產品檔案
-title: 預測內容分析概觀
+description: 了解熱門檢視、轉換率、趨勢內容和建議的預測Content Analytics儀表板。 依屬性篩選、設定日期範圍及匯出資料，以精簡您的內容策略。
+title: 預測 Content Analytics 概觀
 exl-id: 0f975baa-b17b-411a-bae0-64b67eea2b34
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '337'
 ht-degree: 2%
 
 ---
 
-# 預測內容分析概觀 {#predictive-content-analytics-overview}
+# 預測 Content Analytics 概觀 {#predictive-content-analytics-overview}
 
 使用內容分析進一步深入瞭解您的現有內容、（根據AI和預測演演算法）瞭解哪些內容適合您的對象，並提高行銷工作的ROI。
 

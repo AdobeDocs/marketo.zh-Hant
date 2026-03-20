@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11384645
-description: 瞭解所有內容 — Marketo檔案 — 產品檔案
+description: 瞭解所有內容頁面、其量度，以及類別如何組織預測性結果。 依類別和日期篩選，然後視需要新增、核准或移除內容。
 title: 了解所有內容
 exl-id: 475943f0-bba4-4bd7-8808-de75475f934d
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '278'
 ht-degree: 2%
 
 ---

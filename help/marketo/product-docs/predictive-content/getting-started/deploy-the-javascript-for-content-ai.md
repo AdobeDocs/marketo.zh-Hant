@@ -1,23 +1,23 @@
 ---
 unique-page-id: 11385053
-description: 針對Content-AI部署JavaScript - Marketo檔案 — 產品檔案
+description: 瞭解如何產生並放置預測性內容的RTP Web Personalization標籤。 將其複製到您的頁首，驗證涵蓋範圍，並確認切換是否保持開啟。
 title: 部署 Content-AI 適用的 JavaScript
 exl-id: d48bfd1b-73e8-4013-88d6-8750e4ef532b
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 7%
+source-wordcount: '148'
+ht-degree: 8%
 
 ---
 
 # 部署 Content-AI 適用的 JavaScript {#deploy-the-javascript-for-content-ai}
 
-若要使用預測性內容，您需要產生並設定您的RTP (網頁Personalization)標籤。
+若要使用預測性內容，您需要產生並設定您的RTP （網頁Personalization）標籤。
 
 ## 產生標籤 {#generate-tag}
 
-1. 登入您的預測性內容帳戶。 移至&#x200B;**[!UICONTROL Account Settings]**。
+1. 登入您的預測性內容帳戶。 前往 **[!UICONTROL Account Settings]**。
 
    ![](assets/settings-dropdown-account-hands.png)
 

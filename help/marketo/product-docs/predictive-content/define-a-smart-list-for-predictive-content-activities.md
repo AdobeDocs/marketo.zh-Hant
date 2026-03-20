@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10097873
-description: 定義預測性內容活動的智慧清單 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用預測性內容活動為豐富媒體、建議列和電子郵件定義智慧列示。 觸發行銷活動並篩選按一下建議內容的人。
 title: 針對預測內容活動定義智慧清單
 exl-id: 2c72b215-8c0b-48b4-8492-8e3fe832fae9
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '304'
 ht-degree: 5%
 
 ---
@@ -67,7 +67,7 @@ ht-degree: 5%
 
    >[!MORELIKETHIS]
    >
-   >* [定義智慧行銷活動的智慧清單 | 批次](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+   >* [為Smart Campaign定義智慧清單|批次](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
    >* [將流程步驟新增至Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
    >* [定義網路Personalization活動的智慧清單](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/define-a-smart-list-for-web-personalization-activities.md)
    >* [啟用Web Rich Media的預測內容](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)

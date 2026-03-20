@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11385020
-description: 在電子郵件中啟用預測性內容 — Marketo檔案 — 產品檔案
+description: 瞭解如何在標題核准和編輯後，使用ContentAI預測電子郵件影像。 開啟Email 2.0編輯器、啟用每個影像、挑選類別、預覽及定版。
 title: 在電子郵件中啟用預測內容
 exl-id: 7eaefee1-23e8-47ee-afff-adcf49096aa7
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '394'
 ht-degree: 3%
 
 ---

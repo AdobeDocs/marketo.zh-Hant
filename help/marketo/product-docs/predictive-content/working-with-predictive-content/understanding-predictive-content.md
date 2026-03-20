@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11384665
-description: 瞭解預測性內容 — Marketo檔案 — 產品檔案
+description: 瞭解核准的預測性內容標題、啟用的來源、點按次數和轉換資料。 使用篩選器和日期來比較建議在網頁和電子郵件上的執行方式。
 title: 了解預測內容
 exl-id: 3a8dd077-dc21-4d17-bc85-bb32e009dd94
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '289'
 ht-degree: 2%
 
 ---

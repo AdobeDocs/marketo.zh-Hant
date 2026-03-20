@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11384659
-description: 刪除內容 — Marketo檔案 — 產品檔案
+description: 瞭解如何在您不再需要追蹤內容時，從所有內容頁面刪除內容。 透過「內容動作」移除內容，讓您的清單保持最新狀態。
 title: 刪除內容
 exl-id: b4463baf-689f-432e-bf5b-375fe218a407
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 19%
+source-wordcount: '68'
+ht-degree: 13%
 
 ---
 

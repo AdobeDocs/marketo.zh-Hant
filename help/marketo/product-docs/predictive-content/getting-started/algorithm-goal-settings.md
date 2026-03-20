@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14745750
-description: 演演算法目標設定 — Marketo檔案 — 產品檔案
+description: 瞭解如何將預測性內容演演算法目標設定為「內容設定」中的點按或轉換。 讓AI配合您的業務目標以最大化內容效能。
 title: 演算法目標設定
 exl-id: b07a5b71-c6f3-47e8-bc31-10ba64483ad0
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 6%
+source-wordcount: '119'
+ht-degree: 7%
 
 ---
 
@@ -31,6 +31,6 @@ ht-degree: 6%
    |---|---|
    | **[!UICONTROL Conversions]** | 顯示內容最有可能讓檢視內容的人提交表單 |
 
-1. 完成時，按一下&#x200B;**[!UICONTROL Save]**。
+1. 完成後請按一下 **[!UICONTROL Save]**。
 
    ![](assets/four.png)

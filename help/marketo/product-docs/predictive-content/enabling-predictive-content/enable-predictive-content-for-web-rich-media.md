@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7514956
-description: 為網頁多媒體啟用預測性內容 — Marketo檔案 — 產品檔案
+description: 瞭解如何在您的網站上啟用Web Rich Media範本的預測性內容。 個別或大量開啟標題，然後依照開發人員檔案內嵌及自訂JavaScript。
 title: 啟用適用於網頁豐富媒體的預測內容
 exl-id: 030f1dd7-8fe7-4c82-be5e-052f0a259e3c
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '307'
 ht-degree: 6%
 
 ---
@@ -47,7 +47,7 @@ ht-degree: 6%
 
 ## 自訂Javascript程式碼並將其內嵌至您的網站  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-請參閱Marketo開發人員網站[上Rich Media Recommendation範本](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}的檔案。 以下說明如何自訂網站的範本。
+請參閱Marketo開發人員網站[上Rich Media Recommendation範本](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}的檔案。 以下說明如何自訂網站的範本。
 
 將JavaScript程式碼貼入網站中您要顯示範本的位置。
 

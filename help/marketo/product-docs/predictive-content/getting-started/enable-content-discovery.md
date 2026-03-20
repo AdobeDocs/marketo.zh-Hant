@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719190
-description: 啟用內容探索 — Marketo檔案 — 產品檔案
+description: 瞭解如何啟用內容探索，以便預測性內容自動探索並標籤您網站的內容。 追蹤PDF、影片等內容的檢視以取得建議。
 title: 啟用內容探索
 exl-id: cb103a90-e4f8-4145-a477-e522d945df03
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '164'
 ht-degree: 4%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 4%
 
 內容探索功能會自動從您的網站中探索並標籤您現有的內容（包括個案研究、部落格、影片、新聞稿等），並追蹤這些資料的檢視次數。  「預測性內容」會使用探索到的內容、運用預測性分析來判斷哪些是您表現最好的內容，並向適當的人員建議最佳內容。
 
-1. 移至&#x200B;**[!UICONTROL Content Settings]**。
+1. 前往 **[!UICONTROL Content Settings]**。
 
    ![](assets/settings-dropdown-hand.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11384651
-description: 新增內容 — Marketo檔案 — 產品檔案
+description: 手動將新內容新增到預測性內容中的「所有內容」頁面。 輸入標題、URL、影像和類別，然後核准建議。
 title: 新增新的內容
 exl-id: b2965b07-f43b-46fc-90cc-f5b0f1adba51
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 15%
+source-wordcount: '92'
+ht-degree: 13%
 
 ---
 
