@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10097747
-description: 新增自訂測量至收入總管報表 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo Engage中將自訂測量新增至收入總管報表，包括新增自訂測量。 使用本指南完成您的下一個步驟。
 title: 在營收總管報告中新增自訂測量
 exl-id: 1f9230eb-4ea4-48d7-a269-76f9e589d3cd
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 8%
+source-wordcount: '211'
+ht-degree: 7%
 
 ---
 

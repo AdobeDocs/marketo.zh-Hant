@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504922
-description: 收入總管報表型別 — Marketo檔案 — 產品檔案
+description: 瞭解Marketo Engage中的收入總管報表型別，包括收入總管報表型別。 使用本指南完成您的下一個步驟。
 title: 營收總管報告類型
 exl-id: 7c472d6c-9c8f-4387-97a0-690fe7cfd96a
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 8%
+source-wordcount: '160'
+ht-degree: 7%
 
 ---
 

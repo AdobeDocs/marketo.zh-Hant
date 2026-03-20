@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719344
-description: 建立基本網頁區段 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用建立基本網頁區段create-a-basic-web-segment，在Marketo Engage中建立基本網頁區段。 放心地執行下一個步驟。
 title: 建立基本網頁區段
 exl-id: 99bc3788-e04c-46a3-86e5-76d398f8a6e6
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '165'
 ht-degree: 7%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 讓我們建立以來自美國及金融服務業的所有網頁訪客為目標的基本區段。
 
-1. 移至&#x200B;**[!UICONTROL Segments]**。
+1. 前往 **[!UICONTROL Segments]**。
 
    ![](assets/image2016-8-18-15-3a37-3a32.png)
 

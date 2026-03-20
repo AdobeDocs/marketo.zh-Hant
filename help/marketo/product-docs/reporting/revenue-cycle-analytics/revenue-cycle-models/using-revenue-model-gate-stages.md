@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4718670
-description: 使用收入模型閘道階段 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用收入模型閘道階段，在Marketo Engage中使用收入模型閘道階段。 使用本指南完成您的下一個步驟。
 title: 使用收入模型門檻階段
 exl-id: a69a4efd-76de-4bfa-81f2-6e74048f30f7
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '262'
 ht-degree: 6%
 
 ---

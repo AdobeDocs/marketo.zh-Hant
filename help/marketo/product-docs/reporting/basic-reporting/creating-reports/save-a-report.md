@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7511980
-description: 儲存報表 — Marketo檔案 — 產品檔案
+description: 瞭解如何儲存預設報告，以便稍後透過從報告動作中選取另存新檔來再次檢視。 在「我的報表」或「群組報表」的資料夾中組織已儲存的報表。
 title: 儲存報告
 exl-id: be6da793-1498-4ba1-8d65-e9c0fd5d1033
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 14%
+source-wordcount: '92'
+ht-degree: 10%
 
 ---
 

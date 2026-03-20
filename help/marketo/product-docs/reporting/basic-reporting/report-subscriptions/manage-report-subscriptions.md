@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359991
-description: 管理報表訂閱 — Marketo檔案 — 產品檔案
+description: 瞭解如何透過Analytics「訂閱」索引標籤在一個位置管理所有報表訂閱。 視需要編輯頻率、收件者和設定，或刪除訂閱。
 title: 管理報告訂閱
 exl-id: 0d303b1c-3cc9-42f6-a76a-db6a022c471a
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 6%
+source-wordcount: '222'
+ht-degree: 7%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 6%
 
    ![](assets/image2014-9-16-10-3a35-3a25.png)
 
-1. 按一下「**[!UICONTROL Subscriptions]**」標籤。
+1. 按一下「**[!UICONTROL Subscriptions]**」索引標籤。
 
    ![](assets/image2014-9-16-10-3a35-3a32.png)
 

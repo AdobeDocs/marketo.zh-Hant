@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360399
-description: 建立程式分析器 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用建立方案分析器create-a-program-analyzer在Marketo Engage中建立方案分析器。 使用本指南完成您的下一個步驟。
 title: 建立方案分析工具
 exl-id: 18715682-2afe-42cc-93d2-a3537749f784
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '276'
 ht-degree: 1%
 
 ---

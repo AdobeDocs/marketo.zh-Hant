@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12979012
-description: 在效能深入分析 — Marketo檔案 — 產品檔案中進行篩選
-title: 績效洞察中的篩選功能
+description: 瞭解如何依ABM帳戶清單、自訂屬性、機會型別、計畫標籤和工作區來篩選「效能深入分析」資料。 套用多個篩選器以查詢特定資訊並更新圖表。
+title: 效能洞察中的篩選功能
 exl-id: c86260b7-fd5c-4d40-a8da-c9e3f09be14d
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '328'
 ht-degree: 1%
 
 ---

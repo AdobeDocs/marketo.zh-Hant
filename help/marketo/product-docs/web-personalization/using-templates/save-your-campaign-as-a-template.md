@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949170
-description: 將您的Campaign另存為範本 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo Engage中將您的行銷活動儲存為範本，包括將您的行銷活動儲存為範本。 使用本指南完成您的下一個步驟。
 title: 將您的行銷活動儲存為範本
 exl-id: b14663a0-8a15-4d3d-bf1f-93a25ea606ef
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '105'
 ht-degree: 15%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 15%
 
 您曾經花費時間建立完美的網路行銷活動嗎？ 您現在可以將它儲存為範本，以便日後輕鬆重複使用。
 
-1. 移至&#x200B;**[!UICONTROL Web Campaigns]**。
+1. 前往 **[!UICONTROL Web Campaigns]**。
 
    ![](assets/web-campaigns-hand-1.jpg)
 

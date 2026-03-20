@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10099408
-description: 電子郵件深入分析概觀 — Marketo檔案 — 產品檔案
+description: 瞭解電子郵件深入分析，其可透過Analytics和傳送區段從歷史電子郵件資料提供強大分析。 使用進階篩選選項探索傳遞和參與量度。
 title: 電子郵件洞察概觀
 exl-id: ce261c9b-3a52-4aec-a299-0eb60026483d
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '219'
 ht-degree: 3%
 
 ---

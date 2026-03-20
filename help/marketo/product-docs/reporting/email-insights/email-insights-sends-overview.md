@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10099413
-description: 電子郵件深入分析傳送概覽 — Marketo檔案 — 產品檔案
+description: 瞭解電子郵件深入分析傳送頁面，該頁面會檢查最近電子郵件通訊的特性。 檢視您傳送之電子郵件的傳遞量度、參與量度和參與分數。
 title: 電子郵件洞察傳送概觀
 exl-id: 2e2535bd-fd3d-4660-be43-7755c142bcd1
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '182'
 ht-degree: 4%
 
 ---
@@ -25,10 +25,10 @@ ht-degree: 4%
 
 ![](assets/two-1.png)
 
-**[!UICONTROL Type]**&#x200B;表示使用的資產型別。
-**[!UICONTROL Recipient]**&#x200B;數字是已傳送電子郵件的人數。
-**[!UICONTROL Delivery Metrics]**&#x200B;可讓您快速檢視已傳遞、擱置或已退信的電子郵件數目。
-**[!UICONTROL Engagement Metrics]**&#x200B;可讓您快速檢視有多少收件者已開啟、點按及取消訂閱電子郵件。
+**[!UICONTROL Type]**表示使用的資產型別。
+**[!UICONTROL Recipient]**數字是已傳送電子郵件的人數。
+**[!UICONTROL Delivery Metrics]**可讓您快速檢視已傳遞、擱置或已退信的電子郵件數目。
+**[!UICONTROL Engagement Metrics]**可讓您快速檢視有多少收件者已開啟、點按及取消訂閱電子郵件。
 **[!UICONTROL Score]**&#x200B;是您電子郵件的[參與分數](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)。
 
 依預設，您的電子郵件會依最近使用的量度排序，但您可以依任何可用的量度排序。

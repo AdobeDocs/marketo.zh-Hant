@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4718681
-description: 在收入Modeler中開始依帳戶追蹤 — Marketo檔案 — 產品檔案
+description: 瞭解Marketo Engage收入模型工具中按帳戶的開始追蹤，包括按帳戶的開始追蹤。 使用本指南完成您的下一個步驟。
 title: 在收入建模工具中開始按照帳戶追蹤
 exl-id: 5ad6829c-6dad-4133-95a2-b01b066253ca
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '227'
-ht-degree: 7%
+source-wordcount: '241'
+ht-degree: 6%
 
 ---
 

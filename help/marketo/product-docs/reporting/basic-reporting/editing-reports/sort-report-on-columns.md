@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359996
-description: 欄排序報表 — Marketo檔案 — 產品檔案
+description: 瞭解如何依欄排序報表資料，以強調最重要的數字。 按一下「報表」標籤中的欄標題，以選取遞增或遞減排序順序。
 title: 根據欄排序報告
 exl-id: a31383b5-bb18-400b-945a-abecd2b19340
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 10%
+source-wordcount: '94'
+ht-degree: 8%
 
 ---
 

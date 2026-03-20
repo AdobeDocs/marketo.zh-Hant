@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360014
-description: 人員績效報表 — Marketo檔案 — 產品檔案
-title: 人員績效報告
+description: 瞭解「人員效能」報表，該報表可測量資料庫在一段時間內的成長情況，並依屬性將人員分組。 分析您的計畫，並透過深入研究功能探索詳細的潛在客戶資訊。
+title: 人員效能報告
 exl-id: 9c73ad96-088a-4a4a-8e8b-7b379370d80a
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '242'
 ht-degree: 3%
 
 ---
 
-# 人員績效報告 {#people-performance-report}
+# 人員效能報告 {#people-performance-report}
 
 使用[!UICONTROL People Performance]報告來測量資料庫在一段時間內的成長。 您可以瞭解新增了多少人員及新增時間。 進一步瞭解人員並評估您的計畫。 依任何人員或公司屬性或[細分](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)將結果分組。
 

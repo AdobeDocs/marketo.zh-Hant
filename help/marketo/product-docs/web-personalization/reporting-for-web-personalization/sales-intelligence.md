@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10096420
-description: 銷售情報 — Marketo檔案 — 產品檔案
+description: 瞭解Sales Intelligence功能，這些功能提供有關Web訪客和組織的寶貴資訊。 依地區追蹤、監控及接收主要組織及帳戶的警示。
 title: 銷售情報
 exl-id: 118da902-8c02-413b-8959-2e970d3dd9a4
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 2%
+source-wordcount: '213'
+ht-degree: 1%
 
 ---
 

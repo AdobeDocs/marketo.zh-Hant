@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360341
-description: 將自訂欄位同步至Revenue Explorer - Marketo檔案 — 產品檔案
+description: 瞭解如何使用將自訂欄位同步至收入，在Marketo Engage中將自訂欄位同步至收入總管。 使用本指南完成您的下一個步驟。
 title: 將自訂欄位同步至營收總管
 exl-id: 6b7671ec-af43-4bca-89de-e2ac4a5cee1e
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 7%
+source-wordcount: '126'
+ht-degree: 8%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 7%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區段。
 

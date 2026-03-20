@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359963
-description: 在程式中建立報表 — Marketo檔案 — 產品檔案
+description: 瞭解如何在方案中建立報告，以分析人員、方案、登陸頁面、電子郵件和社交資產。 直接從Marketing Activities或Analytics標籤執行報表。
 title: 在方案中建立報告
 exl-id: 3a80c10f-3113-46c2-a2e7-7ba2e3f4783f
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '191'
 ht-degree: 7%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 執行報告以分析人員、您的方案、登陸頁面、電子郵件和社交資產。
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities.png)
 

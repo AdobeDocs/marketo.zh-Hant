@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4718677
-description: 複製Marketo範例收入模型 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo Engage中複製marketo範例收入模型，包括複製marketo範例收入。 使用本指南完成您的下一個步驟。
 title: 原地複製 Marketo 範例收入模型
 exl-id: 121a80bc-953e-47ed-9fdf-159fbb5595a6
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 23%
+source-wordcount: '83'
+ht-degree: 19%
 
 ---
 

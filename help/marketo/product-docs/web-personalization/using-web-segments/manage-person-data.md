@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504051
-description: 管理個人資料 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo Engage中管理個人資料，包括管理個人資料管理個人資料。 使用本指南完成您的下一個步驟。
 title: 管理人員資料
 exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 10%
+source-wordcount: '206'
+ht-degree: 12%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 10%
 
 選取要用於細分中的人員欄位，以運用[!DNL Web Personalization]的人員資料。
 
-1. 移至&#x200B;**[!UICONTROL Account Settings]**。
+1. 前往 **[!UICONTROL Account Settings]**。
 
    ![](assets/image2015-5-7-15-3a17-3a23.png)
 
-1. 移至&#x200B;**[!UICONTROL Database]**。
+1. 前往 **[!UICONTROL Database]**。
 
    ![](assets/account-settings-dropdown-database.jpg)
 

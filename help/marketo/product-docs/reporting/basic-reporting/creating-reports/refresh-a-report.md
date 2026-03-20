@@ -1,13 +1,13 @@
 ---
 unique-page-id: 5472328
-description: 重新整理報表 — Marketo檔案 — 產品檔案
+description: 瞭解如何手動重新整理報告以取得最新資料，即使報告每24小時自動重新整理一次。 使用重新整理按鈕或報告動作功能表來更新結果。
 title: 重新整理報告
 exl-id: 022e338c-4e50-4d12-a5cb-d864aa60b131
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 5%
+source-wordcount: '127'
+ht-degree: 4%
 
 ---
 

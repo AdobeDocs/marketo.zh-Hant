@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719340
-description: 排除特定的IP不受追蹤 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Web Personalization中排除特定的IP位址或IP範圍不受追蹤。 在「帳戶設定」中排除您的員工和組織，不進行追蹤和報告。
 title: 排除特定 IP 的追蹤
 exl-id: d6989c8f-46ff-40a8-bf7f-5d34e701b359
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 6%
+source-wordcount: '208'
+ht-degree: 5%
 
 ---
 

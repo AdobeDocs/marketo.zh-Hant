@@ -1,13 +1,13 @@
 ---
 unique-page-id: 6094879
-description: 將Target URL新增至網站行銷活動 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo Engage中將目標URL新增至網站行銷活動，包括新增目標URL至網站。 使用本指南完成您的下一個步驟。
 title: 新增目標 URL 至網頁行銷活動
 exl-id: 5fbb3f12-1474-46c3-8315-8d081422e154
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 9%
+source-wordcount: '238'
+ht-degree: 10%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 9%
 
 ## 新增Dialog或Widget Web行銷活動的目標URL {#adding-a-target-url-for-dialog-or-widget-web-campaigns}
 
-1. 移至&#x200B;**[!UICONTROL Web Campaigns]**。
+1. 前往 **[!UICONTROL Web Campaigns]**。
 
    ![](assets/web-campaigns-hand-5.jpg)
 
@@ -62,7 +62,7 @@ ht-degree: 9%
 
 ## 為區域網路行銷活動新增目標URL {#adding-a-target-url-for-in-zone-web-campaigns}
 
-1. 移至&#x200B;**[!UICONTROL Web Campaigns]**。
+1. 前往 **[!UICONTROL Web Campaigns]**。
 
    ![](assets/web-campaigns-hand-5.jpg)
 

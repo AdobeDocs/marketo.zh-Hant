@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720075
-description: 從特定標籤檢視網頁行銷活動 — Marketo檔案 — 產品檔案
+description: 瞭解如何從Marketo Engage中的特定標籤檢視網頁行銷活動，包括從特定標籤檢視網頁行銷活動。 使用本指南完成您的下一個步驟。
 title: 檢視特定標籤的網頁行銷活動
 exl-id: 2611c79f-eb12-4597-9394-8749903f494c
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '94'
 ht-degree: 17%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 17%
 
 ## 依現有標籤篩選 {#filter-by-existing-labels}
 
-1. 移至&#x200B;**[!UICONTROL Web Campaigns]**。
+1. 前往 **[!UICONTROL Web Campaigns]**。
 
    ![](assets/web-campaigns-hand-4.jpg)
 

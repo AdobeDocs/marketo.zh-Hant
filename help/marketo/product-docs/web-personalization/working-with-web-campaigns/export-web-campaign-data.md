@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12615749
-description: 匯出網站行銷活動資料 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用匯出網站行銷活動資料export-web-campaign-data在Marketo Engage中匯出網站行銷活動資料。 使用本指南完成您的下一個步驟。
 title: 匯出網頁行銷活動資料
 exl-id: 04c33b2a-a314-486d-b72d-5618d7c0ed0d
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 15%
+source-wordcount: '68'
+ht-degree: 14%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 15%
 
 請依照以下簡單步驟匯出您的網站行銷活動資料。
 
-1. 移至&#x200B;**[!UICONTROL Web Campaigns]**。
+1. 前往 **[!UICONTROL Web Campaigns]**。
 
    ![](assets/one-2.png)
 

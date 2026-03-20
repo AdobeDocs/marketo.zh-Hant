@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10099798
-description: 在電子郵件深入分析中篩選 — Marketo檔案 — 產品檔案
+description: 瞭解如何依對象、內容、平台、裝置型別和日期範圍篩選電子郵件深入分析資料。 套用多個篩選器以深入研究特定度量並比較效能。
 title: 電子郵件洞察中的篩選功能
 exl-id: be19a63f-7f1b-4920-97da-2e412d5d3fde
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '188'
 ht-degree: 2%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360020
-description: 將報表匯出至 [!DNL Excel] - Marketo檔案 — 產品檔案
+description: 瞭解如何將報表匯出至Excel檔案，以在其他軟體中進行分析。 按一下「報表」標籤中的「匯出」按鈕即可下載資料。
 title: 匯出報告至 [!DNL Excel]
 exl-id: 249b5b57-6c62-46a6-bbe2-d8e0c647be29
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 5%
+source-wordcount: '93'
+ht-degree: 4%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360407
-description: 建立電子郵件分析報告，其中列出銷售機會 — Marketo檔案 — 產品檔案
+description: 瞭解如何建立電子郵件分析報告，該報告會使用建立電子郵件分析報告列出Marketo Engage中的銷售機會。 使用本指南完成您的下一個步驟。
 title: 建置會列出商機的電子郵件分析報告
 exl-id: f431610c-6570-4df0-9d64-d37d21010604
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '209'
 ht-degree: 9%
 
 ---

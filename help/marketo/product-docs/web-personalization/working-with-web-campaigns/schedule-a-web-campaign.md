@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10097100
-description: 排程網站行銷活動 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo Engage中排程網站行銷活動，包括排程網站行銷活動排程。 使用本指南完成您的下一個步驟。
 title: 安排網頁行銷活動時間
 exl-id: 53ad93ef-b1a8-42fd-8aff-923e02946527
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '304'
 ht-degree: 3%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 3%
 >
 >對於在特定期間執行的已排程事件（例如網路研討會），排程開始和停止日期是最佳選擇。 重複是每週只在特定天執行的特殊優惠的完美選擇。
 
-1. 移至&#x200B;**[!UICONTROL Web Campaigns]**。
+1. 前往 **[!UICONTROL Web Campaigns]**。
 
    ![](assets/image2016-8-18-16-3a38-3a47.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360389
-description: 在「收入總管」與「分析器 — Marketo檔案 — 產品檔案」中，提供不含期間成本的方案
+description: 瞭解如何在Marketo Engage中的收入總管和分析器中提供不含期間成本的方案。 使用本指南完成您的下一個步驟。
 title: 讓營收總管及分析工具可以包含沒有期間成本的方案
 exl-id: 45a24b9f-d92f-4f48-a7d1-0be14cd128b1
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '245'
-ht-degree: 10%
+source-wordcount: '254'
+ht-degree: 11%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 10%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 某些計畫即使沒有期間成本，也可能需要包括在內。 雖然您可以輸入0作為期間成本，但我們已讓納入這些計畫變得更容易。
 

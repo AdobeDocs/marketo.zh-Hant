@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4718636
-description: 瞭解方案成本分析區域 — Marketo檔案 — 產品檔案
+description: 瞭解如何瞭解Marketo Engage中的方案成本分析區域，包括瞭解方案成本。 使用本指南完成您的下一個步驟。
 title: 了解方案成本分析區域
 exl-id: b59e07a2-c804-46a2-b0ca-127191fd2188
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '341'
 ht-degree: 10%
 
 ---

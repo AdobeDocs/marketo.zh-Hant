@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12979010
-description: 效能深入分析趨勢概觀 — Marketo檔案 — 產品檔案
-title: 績效洞察趨勢概觀
+description: 瞭解效能深入解析趨勢檢視，該檢視使用環圈圖和折線圖顯示一段時間內的管道效能趨勢。 分析12個月的趨勢，以找出一致的成功策略。
+title: 效能洞察趨勢概觀
 exl-id: f6590a13-2eba-44b3-b832-fd352b67ab5e
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '178'
 ht-degree: 2%
 
 ---

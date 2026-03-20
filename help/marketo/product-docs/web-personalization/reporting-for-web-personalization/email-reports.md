@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719338
-description: 電子郵件報表 — Marketo檔案 — 產品檔案
+description: 瞭解Web Personalization的自動電子郵件報表，包括「組織」、「人員」、「成效最佳的行銷活動」和「摘要」報表。 自訂您在「使用者設定」中收到的報表。
 title: 電子郵件報告
 exl-id: 7e829b0e-926f-482c-84ef-15d978fdbb53
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '422'
 ht-degree: 0%
 
 ---

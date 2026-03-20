@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360016
-description: 使用智慧清單篩選報表中的人員 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用智慧清單來篩選報表中的人員，以根據特定人員屬性來縮小結果。 在「智慧列示」索引標籤中，為各種報表型別套用篩選器。
 title: 使用智慧清單篩選報告中的人員
 exl-id: f3cc38d1-35fd-424a-a024-949852edd6a7
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 17%
+source-wordcount: '142'
+ht-degree: 15%
 
 ---
 

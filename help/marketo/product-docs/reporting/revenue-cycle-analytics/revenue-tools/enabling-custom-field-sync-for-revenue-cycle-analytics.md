@@ -1,13 +1,13 @@
 ---
 unique-page-id: 3571888
-description: 啟用收入週期Analytics的自訂欄位同步 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo Engage中為收入週期分析啟用自訂欄位同步，包括啟用自訂欄位。 放心地執行下一個步驟。
 title: 針對收入週期分析啟用自訂欄位同步
 exl-id: 5656db8f-fce5-47c3-b35d-4faebbdcaa44
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 11%
+source-wordcount: '90'
+ht-degree: 10%
 
 ---
 

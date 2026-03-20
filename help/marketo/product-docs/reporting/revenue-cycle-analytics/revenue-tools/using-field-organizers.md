@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571892
-description: 使用欄位組織者 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo Engage中使用欄位組織器，並使用欄位組織器。 使用本指南完成您的下一個步驟。
 title: 使用欄位組織工具
 exl-id: 578969f7-9380-4019-9b86-85c659a216b3
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '170'
 ht-degree: 5%
 
 ---

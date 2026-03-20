@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719400
-description: 在區域中建立新的網頁行銷活動 — Marketo檔案 — 產品檔案
+description: 建立區域內網路行銷活動，以個人化內容或圖形橫幅根據區域ID取代網站元素。 使用區域ID來鎖定網站的特定區域。
 title: 建立新的特定區塊動態顯示網頁行銷活動
 exl-id: 5cbe80a2-5e20-4e35-a722-b4cb479b4df7
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '691'
 ht-degree: 4%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 4%
 
 ## 建立區域內網路行銷活動 {#create-an-in-zone-web-campaign}
 
-1. 移至&#x200B;**[!UICONTROL Web Campaigns]**。
+1. 前往 **[!UICONTROL Web Campaigns]**。
 
    ![](assets/image2016-8-18-15-3a54-3a21.png)
 

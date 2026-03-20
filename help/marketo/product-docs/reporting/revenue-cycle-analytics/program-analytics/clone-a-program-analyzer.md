@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11383877
-description: 復製程式分析器 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用復製程式分析器復製程式分析器，在Marketo Engage中復製程式分析器。 使用本指南完成您的下一個步驟。
 title: 原地複製方案分析工具
 exl-id: 90a335b3-dd55-47e7-b4f7-b45c49671d11
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 8%
+source-wordcount: '115'
+ht-degree: 6%
 
 ---
 

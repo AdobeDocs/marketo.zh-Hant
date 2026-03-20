@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360437
-description: 使用方案分析器探索方案和管道詳細資訊 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用Marketo Engage中的計劃分析器探索計畫和管道的詳細資訊，包括探索計畫。 使用本指南完成您的下一個步驟。
 title: 使用方案分析工具探索方案和管道詳細資料
 exl-id: 0d7133b6-648f-4549-ba8d-7f7abeb89a16
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '198'
 ht-degree: 4%
 
 ---

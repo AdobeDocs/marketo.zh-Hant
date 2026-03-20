@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719348
-description: 標示您的區段 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo Engage中使用標籤label your-segment來標示您的區段。 使用本指南完成您的下一個步驟。
 title: 將您的區段加上標籤
 exl-id: 5278f52b-a352-4d85-904c-48f94972d4e7
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 5%
+source-wordcount: '131'
+ht-degree: 4%
 
 ---
 

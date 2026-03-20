@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360018
-description: 將機會欄新增至銷售機會報表 — Marketo檔案 — 產品檔案
+description: 瞭解如何新增機會欄位以銷售機會報告檢視機會統計資料和量度。 顯示商機資料，包括金額、轉換率和銷售週期資訊。
 title: 新增機會欄至商機報告
 exl-id: 446befcd-a2fe-478b-9f36-288a6a31adbd
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '240'
-ht-degree: 8%
+source-wordcount: '255'
+ht-degree: 7%
 
 ---
 

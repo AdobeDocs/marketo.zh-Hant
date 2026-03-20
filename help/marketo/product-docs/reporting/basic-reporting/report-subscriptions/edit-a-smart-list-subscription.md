@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10093041
-description: 編輯智慧清單訂閱 — Marketo檔案 — 產品檔案
+description: 瞭解如何透過更新收件者、頻率、欄、結束傳遞日期和格式來編輯智慧清單訂閱。 直接在「訂閱」索引標籤中進行變更。
 title: 編輯智慧清單訂閱
 exl-id: f745c887-c8f8-44bc-a0fe-da0669155ef9
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '197'
 ht-degree: 6%
 
 ---

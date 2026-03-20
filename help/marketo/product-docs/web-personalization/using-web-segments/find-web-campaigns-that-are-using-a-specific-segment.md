@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719396
-description: 尋找使用特定區段的網頁行銷活動 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo Engage中使用特定區段來尋找使用中的網頁行銷活動，使用尋找符合的網頁行銷活動。 放心地執行下一個步驟。
 title: 尋找使用特定區段的網頁行銷活動
 exl-id: 3d180fdf-dfd3-4e56-b50d-faad9b0dc93a
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '99'
 ht-degree: 20%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 20%
 
 正在尋找使用特定區段的網頁行銷活動嗎？
 
-1. 移至&#x200B;**[!UICONTROL Segments]**。
+1. 前往 **[!UICONTROL Segments]**。
 
    ![](assets/new-dropdown-segments-hand-1.jpg)
 

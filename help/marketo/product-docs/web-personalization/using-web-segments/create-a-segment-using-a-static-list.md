@@ -1,12 +1,12 @@
 ---
 unique-page-id: 13795536
-description: 使用靜態清單建立區段 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用Marketo Engage中的靜態清單建立區段，並使用靜態清單建立區段。 使用本指南完成您的下一個步驟。
 title: 使用靜態清單建立區段
 exl-id: 6652c1e2-2f07-4395-8c8d-c630517eb1e8
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '172'
 ht-degree: 9%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 9%
 
 根據已知的Web訪客是否在Marketo [靜態清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md)中，在訪客造訪您的網站時劃分已知的Web訪客。
 
-1. 移至&#x200B;**[!UICONTROL Segments]**。
+1. 前往 **[!UICONTROL Segments]**。
 
    ![](assets/1.jpg)
 

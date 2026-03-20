@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360429
-description: 收入模型報表 — Marketo檔案 — 產品檔案
+description: 瞭解關於您在Marketo Engage中的收入模型的報告，包括您的收入模型報告。 使用本指南完成您的下一個步驟。
 title: 報告您的收入模型
 exl-id: a9abbfcb-b4ee-402c-9092-c2e0d388f7a4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 8%
+source-wordcount: '144'
+ht-degree: 9%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 8%
 >
 >潛在客戶必須是模型的成員，才能納入報告中。
 
-1. 移至&#x200B;**[!UICONTROL Analytics]**。
+1. 前往 **[!UICONTROL Analytics]**。
 
    ![](assets/image2015-4-29-16-3a8-3a14.png)
 
@@ -43,4 +43,4 @@ ht-degree: 8%
 
    ![](assets/image2015-4-29-16-3a51-3a29.png)
 
-這為何有用？ 模型會顯示您的銷售和行銷漏斗。 隨時追蹤其餘額，在瓶頸成為問題之前加以識別。
+這為何有用？ 模型會顯示您的銷售和行銷funnel。 隨時追蹤其餘額，在瓶頸成為問題之前加以識別。

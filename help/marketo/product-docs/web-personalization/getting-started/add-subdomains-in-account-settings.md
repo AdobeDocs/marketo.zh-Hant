@@ -1,12 +1,12 @@
 ---
 unique-page-id: 17727870
-description: 在帳戶設定中新增子網域 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用在帳戶設定中新增子網域，在Marketo Engage的帳戶設定中新增子網域。 使用本指南完成您的下一個步驟。
 title: 在帳戶設定中新增子網域
 exl-id: 8235ae4b-ab07-413f-bd23-4e12232bd019
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '149'
 ht-degree: 5%
 
 ---

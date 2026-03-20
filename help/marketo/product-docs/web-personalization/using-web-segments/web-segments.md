@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719093
-description: 網頁區段 — Marketo檔案 — 產品檔案
+description: 瞭解Marketo Engage中的Web區段，包括顯示所有自訂內容的區段標籤。 使用本指南完成您的下一個步驟。
 title: 網頁區段
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '1980'
+source-wordcount: '1998'
 ht-degree: 0%
 
 ---
@@ -187,7 +187,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->具名帳戶清單名稱旁方括弧內的數字會作為網頁Personalization [讀取API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/javascriptapi/web-personalization)清單的索引參考。
+>具名帳戶清單名稱旁方括弧內的數字會作為網頁Personalization [讀取API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)清單的索引參考。
 
 **排除ISP**
 
@@ -269,7 +269,7 @@ ht-degree: 0%
    * 訪客使用此特定裝置/作業系統
    * 訪客未使用任何行動裝置
 
-* **[!UICONTROL Device]** — 從下拉式清單中選取一或多個裝置(Apple、Samsung、LG、HTC、Nexus、Blackberry等……)。 選取的裝置會顯示在下方。
+* **[!UICONTROL Device]** — 從下拉式清單中選取一或多個裝置（Apple、Samsung、LG、HTC、Nexus、Blackberry等……）。 選取的裝置會顯示在下方。
 
 **瀏覽器**
 
@@ -286,7 +286,7 @@ ht-degree: 0%
 
 **使用者內容API**
 
-網頁Personalization API呼叫[請在此閱讀更多相關資訊。](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/javascriptapi/web-personalization)
+網頁Personalization API呼叫[請在此閱讀更多相關資訊。](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >

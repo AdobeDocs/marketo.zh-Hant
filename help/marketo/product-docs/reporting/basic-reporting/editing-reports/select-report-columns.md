@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359994
-description: 選取報表欄 — Marketo檔案 — 產品檔案
+description: 瞭解如何從可用選項中選擇，以選取要在報表中顯示的欄。 按一下欄標題並選取欄，以自訂報表檢視。
 title: 選取報告欄
 exl-id: 11357993-7b29-41cb-a376-06de387d1e92
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 10%
+source-wordcount: '73'
+ht-degree: 8%
 
 ---
 

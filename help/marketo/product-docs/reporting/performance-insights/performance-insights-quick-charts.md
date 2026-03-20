@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12980873
-description: 效能深入分析快速圖表 — Marketo檔案 — 產品檔案
-title: 績效洞察快速圖表
+description: 瞭解如何在Performance Insights中建立和儲存快速圖表，以供常用圖表檢視使用。 儲存最多20個具有特定篩選器和量度的自訂圖表，以供快速存取。
+title: 效能洞察快速圖表
 exl-id: 3989ae49-7c52-4966-ba75-e58d001d0241
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 3%
+source-wordcount: '186'
+ht-degree: 2%
 
 ---
 

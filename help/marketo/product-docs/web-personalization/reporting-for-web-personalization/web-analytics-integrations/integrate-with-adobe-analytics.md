@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949160
-description: 與Adobe Analytics整合 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用與Adobe Analytics整合來與Marketo Engage中的Adobe Analytics整合。 使用本指南完成您的下一個步驟。
 title: 與 Adobe Analytics 整合
 exl-id: 6ea35811-6f3d-4dc8-91aa-877d613f8e93
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '984'
+source-wordcount: '999'
 ht-degree: 1%
 
 ---
@@ -200,7 +200,7 @@ AA中的自訂報告和儀表板範例包括：
 
 新增區段小報表至控制面板
 
-1. 移至&#x200B;**[!UICONTROL Site Metrics]**。 按一下&#x200B;**[!UICONTROL Custom Events]**，**[!UICONTROL Segments]**。
+1. 前往 **[!UICONTROL Site Metrics]**。 按一下&#x200B;**[!UICONTROL Custom Events]**，**[!UICONTROL Segments]**。
 
 1. 將圖表設定為&#x200B;**垂直條**。
 

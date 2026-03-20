@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10094404
-description: 使用「欄位管理器」 — Marketo檔案 — 產品檔案建立自訂欄位群組
+description: 瞭解如何使用Marketo Engage中的欄位組織器，使用建立自訂欄位群組來建立自訂欄位群組。 使用本指南完成您的下一個步驟。
 title: 使用欄位組織工具建立自訂欄位群組
 exl-id: 0425a446-2c92-4a2a-85c4-e05c22118035
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '951'
-ht-degree: 5%
+source-wordcount: '966'
+ht-degree: 4%
 
 ---
 
@@ -118,7 +118,7 @@ ht-degree: 5%
 
    整數編輯器可讓您建立多個子群組，依大小定義每個子群組。 在此範例中，將會為小型、Medium和企業企業建立三個群組。
 
-1. 若要新增您的第一個群組，請在&#x200B;**[!UICONTROL Group Name]**&#x200B;欄位中輸入名稱（例如：小），然後在&#x200B;**[!UICONTROL Group Range]**&#x200B;欄位中輸入最大值(例如：200000)。 按一下「**[!UICONTROL Add Group]**」。
+1. 若要新增您的第一個群組，請在&#x200B;**[!UICONTROL Group Name]**&#x200B;欄位中輸入名稱（例如：小），然後在&#x200B;**[!UICONTROL Group Range]**&#x200B;欄位中輸入最大值（例如：200000）。 按一下「**[!UICONTROL Add Group]**」。
 
    ![](assets/twelve.png)
 

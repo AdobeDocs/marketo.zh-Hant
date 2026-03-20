@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2951220
-description: 使用Mobile Platform欄建立人員績效報表 — Marketo檔案 — 產品檔案
-title: 使用行動平台欄建置人員績效報告
+description: 瞭解如何使用在Marketo Engage中使用行動平台欄來建置人員效能報表。 使用本指南完成您的下一個步驟。
+title: 使用行動平台欄建置人員效能報告
 exl-id: 93fb6cb4-a6ca-4b35-b8bf-c6657eb9343b
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '269'
 ht-degree: 8%
 
 ---
 
-# 使用行動平台欄建置人員績效報告 {#build-a-people-performance-report-with-mobile-platform-columns}
+# 使用行動平台欄建置人員效能報告 {#build-a-people-performance-report-with-mobile-platform-columns}
 
 請依照下列步驟，使用Mobile Platform (iOS/Android)欄建立人員績效報表。
 
 ## 建立行動裝置智慧清單 {#create-mobile-smart-lists}
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/ma.png)
 

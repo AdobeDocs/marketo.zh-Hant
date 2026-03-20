@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720917
-description: Facebook中的個人化再行銷 — Marketo檔案 — 產品檔案
+description: 瞭解Marketo Engage在facebook中的個人化再行銷，包括dnl中的個人化再行銷。 使用本指南完成您的下一個步驟。
 title: Facebook 中的個人化再行銷
 exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '268'
 ht-degree: 7%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 7%
 >[!PREREQUISITES]
 >
 >* 完成使用Web Personalization資料重新鎖定目標的[設定](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
->* 檢閱關於自訂對象[和再行銷的](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)Facebook檔案。
+>* 檢閱關於自訂對象[和再行銷的](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)[ ](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)Facebook檔案。
 
 ## 在[!DNL Facebook]中建立對象 {#creating-an-audience-in-facebook}
 

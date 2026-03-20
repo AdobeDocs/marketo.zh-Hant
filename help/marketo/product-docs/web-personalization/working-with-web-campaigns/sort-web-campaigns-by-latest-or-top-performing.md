@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2951252
-description: 依最新或成效最佳將網頁行銷活動排序 — Marketo檔案 — 產品檔案
-title: 按照最新或最佳績效排序網頁行銷活動
+description: 瞭解如何在Marketo Engage中依最新或表現最佳將網頁行銷活動排序，使用依最新或排序網頁行銷活動。 使用本指南完成您的下一個步驟。
+title: 按照最新或最佳效能排序網頁行銷活動
 exl-id: af4483b5-6ac6-404e-9ea6-be0d4edffdc6
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 19%
+source-wordcount: '101'
+ht-degree: 17%
 
 ---
 
-# 按照最新或最佳績效排序網頁行銷活動 {#sort-web-campaigns-by-latest-or-top-performing}
+# 按照最新或最佳效能排序網頁行銷活動 {#sort-web-campaigns-by-latest-or-top-performing}
 
 您可以用數種不同的方式排序您的網路行銷活動。
 
-1. 移至&#x200B;**[!UICONTROL Web Campaigns]**。
+1. 前往 **[!UICONTROL Web Campaigns]**。
 
    ![](assets/web-campaigns-hand-1.jpg)
 

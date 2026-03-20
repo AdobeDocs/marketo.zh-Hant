@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720810
-description: Google中的個人化再行銷 — Marketo檔案 — 產品檔案
+description: 瞭解Marketo Engage中的Google個人化再行銷，包括Google個人化再行銷。 使用本指南完成您的下一個步驟。
 title: Google 中的個人化再行銷
 exl-id: cc733f43-161d-41e4-afdf-8b5217700810
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '225'
-ht-degree: 6%
+source-wordcount: '239'
+ht-degree: 5%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 6%
 
    ![](assets/image2015-1-15-17-3a32-3a4.png)
 
-1. 在對象產生器中，按一下&#x200B;**[!UICONTROL Sequences]**、**[!UICONTROL Find the RTP Data]**、[!UICONTROL Custom Dimensions]下的[!UICONTROL UICONTROL [ !] Custom Variables]和[!UICONTROL Events]。
+1. 在對象產生器中，按一下&#x200B;**[!UICONTROL Sequences]**、**[!UICONTROL Find the RTP Data]**、[!UICONTROL Custom Dimensions]下的[!UICONTROL [!]UICONTROL Custom Variables]和[!UICONTROL Events]。
 
 >[!TIP]
 >

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4718660
-description: 瞭解收入模型階段 — Marketo檔案 — 產品檔案
+description: 瞭解如何瞭解Marketo Engage中的收入模型階段，包括瞭解收入模型階段。 使用本指南完成您的下一個步驟。
 title: 了解收入模型階段
 exl-id: 036559ff-b576-4490-ab76-54092e909178
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 15%
+source-wordcount: '73'
+ht-degree: 12%
 
 ---
 
 # 了解收入模型階段 {#understanding-revenue-model-phases}
 
-階段是將多個階段群組的方法。 有時模型中的多個階段會反映漏斗的一個階段。
+階段是將多個階段群組的方法。 有時模型中的多個階段會反映funnel的一個階段。
 
 ![—](assets/image2015-6-12-16-3a56-3a40.png)
 

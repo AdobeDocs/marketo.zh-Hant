@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719398
-description: 建立新的Dialog網頁行銷活動 — Marketo檔案 — 產品檔案
+description: 建立對話方塊網頁行銷活動，以透過您網站上的快顯訊息即時個人化內容。 自訂對話方塊樣式、位置、動畫和顯示設定以吸引訪客。
 title: 建立新的對話框網頁行銷活動
 exl-id: 389b0d2d-f39e-4825-b419-373322b6811b
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '732'
+source-wordcount: '748'
 ht-degree: 3%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 3%
 
 網路行銷活動是與特定區段相關聯的自訂反應。 回應可以是您網站上的對話方塊、區域取代[中的](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)、[Widget功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)或電子郵件警示。
 
-1. 移至&#x200B;**[!UICONTROL Web Campaigns]**。
+1. 前往 **[!UICONTROL Web Campaigns]**。
 
    ![](assets/image2016-8-18-15-3a48-3a45.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10099415
-description: 電子郵件深入分析快速圖表 — Marketo檔案 — 產品檔案
+description: 瞭解如何在「電子郵件深入分析」中針對常用的圖表檢視，將快速圖表建立並儲存為縮圖。 儲存最多20個自訂圖表，並從「快速圖表」圖示快速存取。
 title: 電子郵件洞察快速圖表
 exl-id: 5c071694-af86-48bd-8159-f877c51364f2
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 4%
+source-wordcount: '246'
+ht-degree: 3%
 
 ---
 

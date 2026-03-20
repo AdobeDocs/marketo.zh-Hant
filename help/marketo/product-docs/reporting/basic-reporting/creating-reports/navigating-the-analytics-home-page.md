@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7513141
-description: 瀏覽Analytics首頁 — Marketo檔案 — 產品檔案
+description: 瞭解如何瀏覽Analytics首頁以存取不同的報表型別，並返回首頁檢視。 選取報表型別並管理您的報表工作區。
 title: 導覽分析首頁
 exl-id: 51e044ac-c761-4d51-ac8a-168ba8f763c6
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 23%
+source-wordcount: '77'
+ht-degree: 18%
 
 ---
 

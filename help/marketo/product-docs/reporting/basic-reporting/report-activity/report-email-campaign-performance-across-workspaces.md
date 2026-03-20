@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360055
-description: 跨工作區的報表電子郵件、行銷活動績效 — Marketo檔案 — 產品檔案
-title: 報告電子郵件，跨工作區行銷活動績效
+description: 瞭解Marketo Engage中各個工作區的報表電子郵件和行銷活動績效，包括報表電子郵件和行銷活動。 使用本指南完成您的下一個步驟。
+title: 報告電子郵件，跨工作區行銷活動效能
 exl-id: e5b94f77-b6f6-4b9b-aef7-88a471929869
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 17%
+source-wordcount: '87'
+ht-degree: 14%
 
 ---
 
-# 報告電子郵件，跨工作區行銷活動績效 {#report-email-campaign-performance-across-workspaces}
+# 報告電子郵件，跨工作區行銷活動效能 {#report-email-campaign-performance-across-workspaces}
 
 開啟全域報告，將來自所有Marketo [工作區](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)的資料納入您的[電子郵件效能](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)和[電子郵件連結效能](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)報告。
 

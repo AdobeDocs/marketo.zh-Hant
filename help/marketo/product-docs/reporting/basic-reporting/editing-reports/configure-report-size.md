@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360002
-description: 設定報表大小 — Marketo檔案 — 產品檔案
+description: 瞭解如何從預設的5,000列變更最大列數限制，以設定報表大小。 調整「設定」標籤中的可用匯出列，以最佳化報表效能。
 title: 設定報告大小
 exl-id: ee8ade4b-a45f-4c2b-bc42-a544cbbaa407
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 9%
+source-wordcount: '124'
+ht-degree: 8%
 
 ---
 

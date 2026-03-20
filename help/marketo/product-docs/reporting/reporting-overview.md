@@ -1,11 +1,11 @@
 ---
-description: 報表概觀 — Marketo檔案 — 產品檔案
+description: 瞭解Marketo Engage報表模組，包括基本報表、電子郵件深入分析、效能深入分析和進階BI分析。 探索適合您需求的報表解決方案。
 title: 報告概觀
 exl-id: 62b4b9fc-a4fe-4298-947b-1ff453321464
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '405'
 ht-degree: 2%
 
 ---
@@ -22,13 +22,13 @@ Marketo提供各種報表模組以滿足不同需求。
 
 使用Analytics和傳送功能，從歷史資料取得電子郵件[強大的深入分析](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target="_blank"}。
 
-## 績效洞察 {#performance-insights}
+## 效能洞察 {#performance-insights}
 
 [績效深入分析](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target="_blank"}涵蓋參與、管道和收入產生的管道績效和方案績效。
 
 ## 進階BI Analytics報告 {#advanced-bi-analytics-reporting}
 
-_(先前稱為Revenue Cycle Explorer/Advanced Report Builder)_
+_（先前稱為Revenue Cycle Explorer/Advanced Report Builder）_
 
 >[!AVAILABILITY]
 >
@@ -54,7 +54,7 @@ _(先前稱為Revenue Cycle Explorer/Advanced Report Builder)_
 
 ## 進階歷程分析 {#advanced-journey-analytics}
 
-收入週期模型：模擬整個收入漏斗的所有階段，以及這些階段之間的轉換方式，從您第一次與潛在客戶互動一直到潛在客戶成功為止。
+收入週期模型：將您整個收入funnel的所有階段建模，並模擬這些階段之間的轉換，從您第一次與潛在客戶互動一直到潛在客戶成功為止。
 
 成功路徑分析器：以視覺化方式呈現收入週期模型中的速度和流量。 Success Path Analyzer需要您建立收入週期模型。
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949162
-description: 啟用/停用報表訂閱 — Marketo檔案 — 產品檔案
+description: 瞭解如何啟用或停用Web Personalization電子郵件報告的報告訂閱。 在「使用者設定」中選取報告和頻率，以自訂您的自動電子郵件通知。
 title: 啟用/停用報告訂閱
 exl-id: fbaebdd1-245b-4faf-b47f-fb17ea4d5417
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 17%
+source-wordcount: '80'
+ht-degree: 13%
 
 ---
 

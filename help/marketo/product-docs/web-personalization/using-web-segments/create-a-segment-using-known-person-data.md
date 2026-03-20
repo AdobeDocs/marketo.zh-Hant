@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7504343
-description: 使用已知人員資料建立區段 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo Engage中使用已知人員資料建立區段，並使用已知人員建立區段。 使用本指南完成您的下一個步驟。
 title: 使用已知人員資料建立區段
 exl-id: 429d8678-2e62-4b1e-bda1-675ff3a1aae2
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '190'
 ht-degree: 8%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 8%
 >
 >[管理個人資料](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md)
 
-1. 移至&#x200B;**[!UICONTROL Segments]**。
+1. 前往 **[!UICONTROL Segments]**。
 
    ![](assets/new-dropdown-segments-hand-2.jpg)
 

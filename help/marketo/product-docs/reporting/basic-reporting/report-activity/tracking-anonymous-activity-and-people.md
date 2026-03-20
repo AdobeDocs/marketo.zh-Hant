@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360181
-description: 追蹤匿名活動和人員 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo Engage中追蹤匿名活動和人員，包括追蹤匿名活動和。 使用本指南完成您的下一個步驟。
 title: 追蹤匿名活動和人員
 exl-id: 95a39e57-4636-4bae-8ca8-00cb43cb566c
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '235'
 ht-degree: 4%
 
 ---
 
 # 追蹤匿名活動和人員 {#tracking-anonymous-activity-and-people}
 
-第一次有人造訪Marketo [登陸頁面](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md) (或您的網站上具有[Munchkin追蹤代碼](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)的頁面)時，Marketo會建立&#x200B;_匿名活動_&#x200B;並使用瀏覽器Cookie進行追蹤。 在識別訪客後，訪客會變成人員，且與瀏覽器Cookie相關的歷史記錄會合併到中。
+第一次有人造訪Marketo [登陸頁面](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md) （或您的網站上具有[Munchkin追蹤代碼](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)的頁面）時，Marketo會建立&#x200B;_匿名活動_&#x200B;並使用瀏覽器Cookie進行追蹤。 在識別訪客後，訪客會變成人員，且與瀏覽器Cookie相關的歷史記錄會合併到中。
 
 1. 當有人員符合以下條件時，則會建立匿名活動：
 
@@ -29,7 +29,7 @@ ht-degree: 4%
 
    * 按一下Marketo電子郵件[中的](/help/marketo/product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md)連結。
    * 填寫Marketo [表單](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)。
-   * 使用Marketo的[REST API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/lead-database/leads)或[Munchkin](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking) API （適用於開發人員），將匿名活動與已知記錄建立關聯。
+   * 使用Marketo的[REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/leads)或[Munchkin](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking) API （適用於開發人員），將匿名活動與已知記錄建立關聯。
 
    資料庫中的一個名稱可能與許多Cookie繫結，因為人們經常使用不同的裝置和瀏覽器來造訪您的網站。
 

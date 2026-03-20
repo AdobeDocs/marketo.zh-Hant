@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360401
-description: 使用Program Analyzer比較管道成效 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用Marketo Engage中的方案分析器比較管道成效，包括比較管道。 使用本指南完成您的下一個步驟。
 title: 使用方案分析工具比較管道效益
 exl-id: bfe635a7-b077-4074-889d-fc2256102cd5
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '365'
 ht-degree: 1%
 
 ---

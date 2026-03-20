@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7511725
-description: 瞭解我的報表和群組報表 — Marketo檔案 — 產品檔案
+description: 瞭解僅供您檢視的「我的報表」與供所有Workspace使用者檢視的「群組報表」之間的差異。 有效地組織您儲存的報告。
 title: 了解我的報告和群組報告
 exl-id: 03bfee67-e39c-4664-9b36-39e3e3f29077
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 20%
+source-wordcount: '77'
+ht-degree: 15%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10097867
-description: 定義網路Personalization活動的智慧清單 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用為其定義智慧清單，在Marketo Engage中定義網頁個人化活動的智慧清單。 使用本指南完成您的下一個步驟。
 title: 針對網頁個人化活動定義智慧清單
 exl-id: 9987f922-f50c-47b3-aef6-230326b094fc
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '303'
 ht-degree: 2%
 
 ---
@@ -57,10 +57,10 @@ ht-degree: 2%
    >
    >使用多個觸發器時，如果任何一個觸發器啟動，則人員會進入流程。
 
-   若要對一組人員同時執行行銷活動，瞭解如何[定義Smart Campaign的智慧清單 | 批次](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)。
+   若要對一組人員同時執行行銷活動，瞭解如何[為Smart Campaign |批次](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)定義智慧清單。
 
    >[!MORELIKETHIS]
    >
-   >* [定義智慧行銷活動的智慧清單 | 批次](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+   >* [為Smart Campaign定義智慧清單|批次](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
    >* [將流程步驟新增至Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
    >* [定義預測性內容活動的智慧清單](/help/marketo/product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)

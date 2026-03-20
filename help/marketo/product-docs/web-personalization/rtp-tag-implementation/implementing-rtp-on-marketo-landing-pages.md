@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720151
-description: 在Marketo登陸頁面上實作RTP - Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo Engage的marketo登陸頁面上實作rtp，包括在marketo上實作rtp。 使用本指南完成您的下一個步驟。
 title: 在 Marketo 登陸頁面上實施 RTP
 exl-id: fd19c3ad-d3f6-44a3-9f7a-d518e2d3f02a
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '183'
 ht-degree: 7%
 
 ---
@@ -49,4 +49,4 @@ ht-degree: 7%
 
 1. 確認其出現在所有頁面上，包括登陸頁面和子網域。
 
-   若要這麼做，請在您網站的頁面上按一下滑鼠右鍵。 移至&#x200B;**[!UICONTROL View Page Source]。**&#x200B;搜尋&#x200B;**[!UICONTROL RTP]**&#x200B;以找出標籤。
+   若要這麼做，請在您網站的頁面上按一下滑鼠右鍵。 前往 **[!UICONTROL View Page Source]。**&#x200B;搜尋&#x200B;**[!UICONTROL RTP]**&#x200B;以找出標籤。

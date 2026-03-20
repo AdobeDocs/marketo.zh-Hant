@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11375276
-description: 電子郵件深入分析的自訂維度 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用分段和計畫標籤，將最多10個自訂維度新增到電子郵件深入分析中。 請謹慎選擇維度，因為一旦新增就無法刪除或取代。
 title: 電子郵件洞察的自訂維度
 exl-id: e648a788-50da-495b-b195-f287bcbaeecb
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '117'
 ht-degree: 11%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 11%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 >[!CAUTION]
 >

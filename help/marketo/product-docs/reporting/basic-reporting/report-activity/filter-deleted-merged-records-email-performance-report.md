@@ -1,16 +1,16 @@
 ---
-description: 篩選電子郵件報告中合併/刪除的記錄 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用中的篩選刪除的合併記錄，在Marketo Engage中篩選電子郵件報告中的合併/刪除記錄。 放心地執行下一個步驟。
 title: 篩選電子郵件報告中合併/刪除的記錄
 feature: Reporting
 exl-id: f62047cf-35a4-4b63-9328-3d5f7b778711
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 7%
+source-wordcount: '134'
+ht-degree: 6%
 
 ---
 
-# 篩選電子郵件績效報告中已刪除/已合併的記錄 {#filter-deleted-merged-records-in-an-email-performance-report}
+# 篩選電子郵件效能報告中已刪除/已合併的記錄 {#filter-deleted-merged-records-in-an-email-performance-report}
 
 將您的電子郵件效能報表集中於程式（「本機資產」）中的電子郵件、Design Studio中的電子郵件（「全域資產」），或已封存的電子郵件。
 

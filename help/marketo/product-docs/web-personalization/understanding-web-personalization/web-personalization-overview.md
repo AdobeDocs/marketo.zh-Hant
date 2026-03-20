@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571900
-description: 網頁Personalization概觀 — Marketo檔案 — 產品檔案
+description: 瞭解網頁Personalization功能，包括網頁行銷活動、帳戶型網頁行銷、網站重新目標定位和ContentAI。 開始使用個人化的網頁體驗和訪客分析。
 title: 網頁個人化概觀
 exl-id: 31445a69-9a3a-4350-a3eb-1af718e823b4
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '775'
+source-wordcount: '792'
 ht-degree: 1%
 
 ---

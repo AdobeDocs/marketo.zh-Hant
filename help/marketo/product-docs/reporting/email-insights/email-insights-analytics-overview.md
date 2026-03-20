@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10099411
-description: 電子郵件深入分析Analytics概觀 — Marketo檔案 — 產品檔案
+description: 瞭解電子郵件深入分析Analytics，其可探索用於電子郵件傳送和參與量度的彙總時間序列資料。 使用圖表和引導式深入分析來探索相關的效能驅動程式。
 title: 電子郵件洞察分析概觀
 exl-id: 370720f7-bbe1-4143-b2be-15854e1ffe55
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '259'
-ht-degree: 3%
+source-wordcount: '277'
+ht-degree: 2%
 
 ---
 

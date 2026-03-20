@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360225
-description: 在電子郵件報告中篩選Assets - Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo Engage中使用電子郵件報表中的篩選資產來篩選電子郵件報表中的資產。 使用本指南完成您的下一個步驟。
 title: 篩選電子郵件報告中的資產
 exl-id: c242e566-94d0-4e20-ba81-13a8f8f0b8a9
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 7%
+source-wordcount: '181'
+ht-degree: 6%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719179
-description: 使用網頁Personalization RTF編輯器 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo Engage中使用dnl網頁個人化，以使用網頁個人化RTF編輯器。 放心地執行下一個步驟。
 title: 使用網頁個人化 RTF 編輯器
 exl-id: a07d8f2b-0ec6-4799-a430-0a5f7cf5f583
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '172'
-ht-degree: 4%
+source-wordcount: '185'
+ht-degree: 3%
 
 ---
 
@@ -22,7 +22,7 @@ RTF編輯器中的重要圖示包括：
 <table>
  <tbody>
   <tr>
-   <td colspan="1"><img alt="—" src="assets/three.png" data-linked-resource-id="11386613" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td>
+   <td colspan="1"><img alt="--" src="assets/three.png" data-linked-resource-id="11386613" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td>
    <td colspan="1"><strong>編輯HTML Source</strong></td>
    <td colspan="1">可讓您檢視HTML原始碼</td>
   </tr>

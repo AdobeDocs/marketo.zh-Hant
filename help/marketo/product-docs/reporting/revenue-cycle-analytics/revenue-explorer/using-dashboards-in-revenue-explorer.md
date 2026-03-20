@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10094959
-description: 在Revenue Explorer中使用儀表板 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo Engage的revenue explorer中使用儀表板在revenue explorer中使用儀表板。 使用本指南完成您的下一個步驟。
 title: 使用營收總管中的儀表板
 exl-id: ff81d48f-524e-4425-acb4-b62428f7a375
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '228'
 ht-degree: 3%
 
 ---

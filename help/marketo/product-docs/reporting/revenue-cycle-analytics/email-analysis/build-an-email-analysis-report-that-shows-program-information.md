@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360409
-description: 建立電子郵件分析報告，顯示方案資訊 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用建立電子郵件來建立電子郵件分析報告，顯示Marketo Engage中的方案資訊。 使用本指南完成您的下一個步驟。
 title: 建置會顯示方案資訊的電子郵件分析報告
 exl-id: 9d7fd359-c06e-4dab-a0d7-9c360bb44d0d
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 16%
+source-wordcount: '143'
+ht-degree: 14%
 
 ---
 

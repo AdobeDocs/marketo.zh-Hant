@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360184
-description: 篩選促銷活動報表 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用篩選行銷活動報告，在Marketo Engage中篩選行銷活動報告。 使用本指南完成您的下一個步驟。
 title: 篩選行銷活動報告
 exl-id: c34d6dfa-c635-4ca8-ad4f-bfa5cadaef2d
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 9%
+source-wordcount: '137'
+ht-degree: 8%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360235
-description: 建立機會影響分析器 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用建立機會影響力，在Marketo Engage中建立機會影響力分析器。 使用本指南完成您的下一個步驟。
 title: 建立機會影響分析工具
 exl-id: a1ae4407-3668-4289-b177-fad1aee6c876
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '212'
 ht-degree: 6%
 
 ---
@@ -52,7 +52,7 @@ ht-degree: 6%
    >
    >在大多數情況下，**[!UICONTROL All Time]**&#x200B;是最簡單的選擇。
 
-1. 您到了！ 按一下主要索引標籤，即可檢視商機中有關的重要時刻和成功案例。
+1. 您完成了！按一下主要索引標籤，即可檢視商機中有關的重要時刻和成功案例。
 
    ![](assets/image2014-9-17-8-3a57-3a42.png)
 

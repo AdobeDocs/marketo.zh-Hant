@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4718666
-description: 使用收入模型詳細目錄階段 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用收入模型庫存階段，在Marketo Engage中使用收入模型庫存階段。 使用本指南完成您的下一個步驟。
 title: 使用收入模型庫存階段
 exl-id: 7df10e8c-5e25-4cb4-970c-e23d92a3dfb7
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '239'
-ht-degree: 5%
+source-wordcount: '255'
+ht-degree: 4%
 
 ---
 

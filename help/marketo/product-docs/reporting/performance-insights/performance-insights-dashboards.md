@@ -1,13 +1,13 @@
 ---
 unique-page-id: 13795534
-description: 效能深入分析控制面板 — Marketo檔案 — 產品檔案
-title: 績效洞察儀表板
+description: 瞭解效能分析控制面板，包括參與、管道和收入檢視。 透過首次接觸和多點接觸量度，測量對象參與度、新名稱獲取和管道效能。
+title: 效能洞察儀表板
 exl-id: 324880d0-e3ff-4bd5-8e1b-102c4ea66c8f
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '493'
-ht-degree: 1%
+source-wordcount: '511'
+ht-degree: 0%
 
 ---
 

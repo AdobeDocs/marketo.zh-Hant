@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10098884
-description: 篩選網站行銷活動 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用篩選器網站行銷活動filter-web-campaigns在Marketo Engage中篩選網站行銷活動。 使用本指南完成您的下一個步驟。
 title: 篩選網頁行銷活動
 exl-id: 07237fff-02d7-4974-9651-09a328d27365
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '102'
 ht-degree: 8%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 8%
 
 在您建立數百個[!DNL Web Personalization]行銷活動後，能夠使用篩選器僅檢視您感興趣的行銷活動會很有幫助。
 
-1. 移至&#x200B;**[!UICONTROL Web Campaigns]**。
+1. 前往 **[!UICONTROL Web Campaigns]**。
 
    ![](assets/web-campaigns-hand-8.jpg)
 

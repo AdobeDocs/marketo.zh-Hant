@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360028
-description: 複製報表 — Marketo檔案 — 產品檔案
+description: 瞭解如何複製報告以建立重複專案以供自訂，而不需變更原始專案。 使用「報表動作」或按一下滑鼠右鍵，複製並命名您的新報表。
 title: 原地複製報告
 exl-id: ca1485a1-0c07-4261-8aa5-9d9f8d29046d
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 8%
+source-wordcount: '88'
+ht-degree: 6%
 
 ---
 

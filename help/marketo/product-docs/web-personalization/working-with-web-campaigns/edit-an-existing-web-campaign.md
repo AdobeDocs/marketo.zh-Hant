@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4719408
-description: 編輯現有的網站行銷活動 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用編輯現有的網站行銷活動，在Marketo Engage中編輯現有的網站行銷活動。 使用本指南完成您的下一個步驟。
 title: 編輯現有的網頁行銷活動
 exl-id: 2c20f57d-2ee4-4d81-a8db-7d4de319fa78
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 18%
+source-wordcount: '71'
+ht-degree: 16%
 
 ---
 
 # 編輯現有的網頁行銷活動 {#edit-an-existing-web-campaign}
 
-1. 移至&#x200B;**[!UICONTROL Web Campaigns]**。
+1. 前往 **[!UICONTROL Web Campaigns]**。
 
    ![](assets/image2016-8-18-16-3a15-3a14.png)
 

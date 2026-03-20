@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720215
-description: 在Wordpress Enterprise上實作RTP - Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo Engage中在wordpress enterprise上實施rtp，包括在wordpress上實施rtp。 使用本指南完成您的下一個步驟。
 title: 在 WordPress Enterprise 上實施 RTP
 exl-id: 61cfd3f8-0811-4352-9752-0081ce19257b
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '109'
 ht-degree: 11%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 11%
 
 若要實作您的[!UICONTROL RTP tag]，請遵循下列安裝指示：
 
-1. 移至&#x200B;**[!UICONTROL Account Settings]**。
+1. 前往 **[!UICONTROL Account Settings]**。
 
    a.如果您已從支援部門收到JavaScript標籤 — 請繼續步驟3。
 

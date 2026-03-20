@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719402
-description: 建立新的Widget網頁促銷活動 — Marketo檔案 — 產品檔案
+description: 使用擴充和合約功能，建立以固定文字或橫幅形式出現在網頁垂直側邊的Widget網頁行銷活動。 自訂位置、顏色、動畫和顯示設定。
 title: 建立新的小工具網頁行銷活動
 exl-id: e00f5be7-1d33-4659-8f38-b74b53eeb09f
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '610'
-ht-degree: 3%
+source-wordcount: '630'
+ht-degree: 4%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 3%
 
 ## 建立Widget Web行銷活動 {#create-a-widget-web-campaign}
 
-1. 移至&#x200B;**[!UICONTROL Web Campaigns]**。
+1. 前往 **[!UICONTROL Web Campaigns]**。
 
    ![](assets/image2016-8-18-15-3a57-3a46.png)
 
@@ -86,7 +86,7 @@ ht-degree: 3%
    <td colspan="1">在啟動行銷活動之前先預覽行銷活動。<br>
     <ul>
      <li>URL — 輸入行銷活動執行所在的範例URL，以檢視行銷活動即時效果的預覽範例。</li>
-     <li>預覽 — 按一下<strong>預覽</strong>開啟範例URL的新視窗，以檢視行銷活動的反應方式(新增<a href="https://chrome.google.com/extensions/detail/ldiddonjplchallbngbccbfdfeldohkj?hl=en" rel="nofollow">Chrome擴充功能</a>以獲得最佳的網頁行銷活動預覽體驗)。 </li>
+     <li>預覽 — 按一下<strong>預覽</strong>開啟範例URL的新視窗，以檢視行銷活動的反應方式（新增<a href="https://chrome.google.com/extensions/detail/ldiddonjplchallbngbccbfdfeldohkj?hl=en" rel="nofollow">Chrome擴充功能</a>以獲得最佳的網頁行銷活動預覽體驗）。 </li>
      <li>共用 — 使用「共用」按鈕傳送電子郵件給同事，內含檢視Proxy促銷活動的連結。</li>
     </ul></td>
   </tr>

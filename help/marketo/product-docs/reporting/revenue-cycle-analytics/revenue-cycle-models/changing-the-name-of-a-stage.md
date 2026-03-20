@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4718675
-description: 變更階段名稱 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo Engage中變更階段名稱，包括變更階段名稱。 使用本指南完成您的下一個步驟。
 title: 變更階段的名稱
 exl-id: 03e2a648-8524-4d10-ba6c-f422d9da5a40
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 26%
+source-wordcount: '85'
+ht-degree: 21%
 
 ---
 

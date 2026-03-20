@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10095554
-description: 將表單內嵌至網站行銷活動 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo Engage中將表單內嵌至網路行銷活動中，包括將表單內嵌至網路行銷活動中。 使用本指南完成您的下一個步驟。
 title: 將表單嵌入至網頁行銷活動中
 exl-id: 41e60ae6-9a40-444f-8a55-47fc6ef6c5fb
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '313'
-ht-degree: 8%
+source-wordcount: '330'
+ht-degree: 7%
 
 ---
 
@@ -85,4 +85,4 @@ ht-degree: 8%
 >
 >* [編輯表單主題的CSS](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [顯示沒有後續登陸頁面的感謝訊息](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
->* [Forms 2.0](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)
+>* [Forms 2.0](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)

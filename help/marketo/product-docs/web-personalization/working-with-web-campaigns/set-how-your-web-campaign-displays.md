@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12978906
-description: 設定網站行銷活動的顯示方式 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用設定您的網站行銷活動的顯示方式，設定您的網站行銷活動在Marketo Engage中的顯示方式。 使用本指南完成您的下一個步驟。
 title: 設定網頁行銷活動的顯示方式
 exl-id: fa0f2421-9536-4a3a-a28b-4f5b1b58ed56
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 14%
+source-wordcount: '209'
+ht-degree: 13%
 
 ---
 

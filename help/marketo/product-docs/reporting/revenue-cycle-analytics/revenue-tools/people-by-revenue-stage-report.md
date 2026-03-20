@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360418
-description: 依收入階段的人員報表 — Marketo檔案 — 產品檔案
+description: 瞭解Marketo Engage中的依收入階段報告的人員，包括依收入階段的報告。 使用本指南完成您的下一個步驟。
 title: 人員收入階段報告
 exl-id: 1f3d605d-fa0d-4ec8-b7d6-bfd8dac93609
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '139'
 ht-degree: 12%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 12%
 >
 >並非所有Marketo版本都包含此功能。 請聯絡您的客戶經理，以取得詳細資訊。
 
-1. 移至&#x200B;**[!UICONTROL Analytics]**。
+1. 前往 **[!UICONTROL Analytics]**。
 
    ![](assets/image2017-3-27-15-3a43-3a55.png)
 

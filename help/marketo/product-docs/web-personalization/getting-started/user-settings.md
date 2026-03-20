@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719336
-description: 使用者設定 — Marketo檔案 — 產品檔案
+description: 瞭解如何設定使用者設定，包括時區、電子郵件報告、密碼、行動通知和個人區域設定。 自訂您的Web Personalization體驗和匯出偏好設定。
 title: 使用者設定
 exl-id: 2d7d66fd-6240-4275-a14b-083b30802727
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 1%
+source-wordcount: '206'
+ht-degree: 0%
 
 ---
 

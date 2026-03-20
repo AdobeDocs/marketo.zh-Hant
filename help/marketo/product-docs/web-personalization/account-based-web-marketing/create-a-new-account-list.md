@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720232
-description: 建立新帳戶清單 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用建立新的帳戶清單create-a-new-account-list，在Marketo Engage中建立新的帳戶清單。 使用本指南完成您的下一個步驟。
 title: 建立新帳戶清單
 exl-id: 644c5b3b-852a-4dd9-8e55-b434505504ea
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '392'
-ht-degree: 4%
+source-wordcount: '409'
+ht-degree: 5%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 4%
 
 ## 建立新帳戶清單 {#create-a-new-account-list-1}
 
-1. 移至&#x200B;**[!UICONTROL Account Lists]**。
+1. 前往 **[!UICONTROL Account Lists]**。
 
    ![](assets/dropdown-account-lists-hand.jpg)
 
@@ -68,7 +68,7 @@ ht-degree: 4%
 
 ![](assets/create-new-account-list-edit.jpg)
 
-選取&#x200B;**[!UICONTROL Browse...]**&#x200B;並上傳新的CSV檔案。 此檔案將取代原始檔案。 按一下&#x200B;**[!UICONTROL Save]**。 新上傳的檔案將處於擱置狀態，直到Marketo支援核准為止；當處於擱置狀態時，原始檔案將保持活動狀態。
+選取&#x200B;**[!UICONTROL Browse...]**&#x200B;並上傳新的CSV檔案。 此檔案將取代原始檔案。 按一下「**[!UICONTROL Save]**」。 新上傳的檔案將處於擱置狀態，直到Marketo支援核准為止；當處於擱置狀態時，原始檔案將保持活動狀態。
 
 ![](assets/set-account-list-edit-hands.jpg)
 

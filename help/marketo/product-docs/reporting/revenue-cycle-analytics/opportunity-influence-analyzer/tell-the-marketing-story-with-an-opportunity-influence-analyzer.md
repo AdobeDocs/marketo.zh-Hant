@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360237
-description: 使用機會影響分析器訴說行銷故事 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用Marketo Engage中的機會影響分析器來訴說行銷故事，包括訴說。 使用本指南完成您的下一個步驟。
 title: 利用機會影響分析工具講述行銷故事
 exl-id: 07a8fd25-b80e-4015-931f-f490bb5e48e5
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '335'
 ht-degree: 2%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 3571927
-description: 網頁Personalization字彙表 — Marketo檔案 — 產品檔案
+description: 瞭解Marketo Engage中的網頁個人化字彙表，包括dnl網頁個人化字彙表。 使用本指南完成您的下一個步驟。
 title: 網頁個人化字彙表
 exl-id: 82f7aa62-0b5a-4d34-865c-aa77c1b0b0e7
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 24%
+source-wordcount: '267'
+ht-degree: 22%
 
 ---
 

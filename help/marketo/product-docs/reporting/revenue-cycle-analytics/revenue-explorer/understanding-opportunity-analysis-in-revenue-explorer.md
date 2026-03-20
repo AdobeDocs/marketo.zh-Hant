@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2951884
-description: 瞭解Revenue Explorer中的Opportunity Analysis - Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo Engage的收入總管中瞭解機會分析，包括瞭解。 使用本指南完成您的下一個步驟。
 title: 了解營收總管中的機會分析
 exl-id: 2ef45d3e-7640-4c47-86ae-d7ae45ed1dd4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '899'
+source-wordcount: '910'
 ht-degree: 7%
 
 ---
@@ -89,8 +89,8 @@ Opportunity Analysis可讓您存取所有銷售機會、公司及銷售機會相
    | 潛在客戶擁有者電子郵件地址 | 潛在客戶所有者的電子郵件地址 |
    | 潛在客戶所有者職稱 | 潛在客戶擁有者的職稱 |
    | 潛在客戶所有者名稱 | 潛在客戶擁有者姓名 |
-   | 銷售機會來源 | 潛在客戶來源 |
-   | 銷售機會狀態 | 潛在客戶狀態 |
+   | 銷售線索來源 | 潛在客戶來源 |
+   | 銷售線索狀態 | 潛在客戶狀態 |
 
 1. 潛在客戶建立時間範圍
 

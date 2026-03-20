@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7514009
-description: 瞭解方案收入階段分析區域 — Marketo檔案 — 產品檔案
+description: 瞭解如何瞭解Marketo Engage中的方案收入階段分析區域，包括瞭解。 使用本指南完成您的下一個步驟。
 title: 了解方案收入階段分析區域
 exl-id: 7310655f-a06e-4e02-a094-d942fff689c3
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '430'
 ht-degree: 6%
 
 ---

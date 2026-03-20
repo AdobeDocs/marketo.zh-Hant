@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360030
-description: 刪除報表 — Marketo檔案 — 產品檔案
+description: 在導覽樹狀結構中以滑鼠右鍵按一下不再需要的報表，瞭解如何將其刪除。 移除過時的報表，讓您的報表工作區維持井然有序。
 title: 刪除報告
 exl-id: 6b98a2e4-13a4-4a85-8ccd-0f74e6dfcaa9
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 9%
+source-wordcount: '84'
+ht-degree: 7%
 
 ---
 

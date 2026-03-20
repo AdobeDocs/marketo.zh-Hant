@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11381689
-description: 使用TAM的帳戶型網頁行銷 — Marketo檔案 — 產品檔案
+description: 瞭解在Marketo Engage中使用團隊的帳戶型網路行銷，包括使用團隊的帳戶型網路行銷。 使用本指南完成您的下一個步驟。
 title: 透過 TAM 進行帳戶型網路行銷
 exl-id: fa81e979-123a-4f60-95d0-dde3918b2ef3
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 6%
+source-wordcount: '180'
+ht-degree: 5%
 
 ---
 

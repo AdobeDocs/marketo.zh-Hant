@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7514224
-description: 自訂和顯示熱網格 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo Engage中自訂和顯示熱格線，包括自訂和顯示熱格線。 使用本指南完成您的下一個步驟。
 title: 自訂並顯示熱力格狀圖
 exl-id: c3354b08-3850-4862-becf-f9222b75e1eb
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 15%
+source-wordcount: '81'
+ht-degree: 12%
 
 ---
 

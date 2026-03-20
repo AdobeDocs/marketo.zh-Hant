@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360405
-description: 建立列出潛在客戶的計畫會員資格分析報告 — Marketo檔案 — 產品檔案
+description: 瞭解如何建立方案會員資格分析報告，該報告會使用建立方案列出Marketo Engage中的潛在客戶。 使用本指南完成您的下一個步驟。
 title: 建置會列出商機的方案會籍分析報告
 exl-id: 52fa9808-a3d6-48b9-9a6a-93d262591c2b
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 15%
+source-wordcount: '149'
+ht-degree: 14%
 
 ---
 

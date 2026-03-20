@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360052
-description: 已檢視的網頁、網頁活動報表 — Marketo檔案 — 產品檔案
+description: 瞭解已檢視的網頁、Marketo Engage中的網頁活動報表，包括已檢視的網頁、網頁。 使用本指南完成您的下一個步驟。
 title: 被瀏覽的網頁，網頁活動報告
 exl-id: fb061f2a-7741-4ba8-8ae1-a35f24642e93
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 13%
+source-wordcount: '120'
+ht-degree: 11%
 
 ---
 

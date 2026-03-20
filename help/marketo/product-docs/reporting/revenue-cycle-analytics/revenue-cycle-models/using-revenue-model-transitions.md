@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4718672
-description: 使用收入模型轉換 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用收入模型轉變在Marketo Engage中使用收入模型轉變。 使用本指南完成您的下一個步驟。
 title: 使用收入模型轉變
 exl-id: c658b631-b849-438a-b412-63ffd41e4c85
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '219'
 ht-degree: 3%
 
 ---

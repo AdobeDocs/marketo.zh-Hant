@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512105
-description: 將報表複製至群組報表 — Marketo檔案 — 產品檔案
+description: 瞭解如何從「我的報表」複製報表至「群組報表」 ，以便讓所有Workspace使用者都能看到這些報表。 使用「複製至」選項與您的團隊共用報表。
 title: 將報告原地複製到群組報告
 exl-id: e5587d17-9ff6-4a38-ae50-1fe8c2685a72
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 14%
+source-wordcount: '113'
+ht-degree: 12%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504520
-description: 刪除收入總管報表中的欄位 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo Engage中刪除收入總管報表中的欄位，包括刪除收入中的欄位。 使用本指南完成您的下一個步驟。
 title: 在營收總管報告中刪除欄位
 exl-id: 4eeedd8e-da00-4bcf-9f7a-25b3683ad0a1
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 10%
+source-wordcount: '89'
+ht-degree: 8%
 
 ---
 

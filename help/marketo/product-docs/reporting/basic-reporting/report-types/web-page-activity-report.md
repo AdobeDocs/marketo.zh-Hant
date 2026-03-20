@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359971
-description: 網頁活動報表 — Marketo檔案 — 產品檔案
+description: 瞭解網頁活動報告，該報告顯示誰正在造訪您的網站，並提供詳細的訪客資訊。 顯示已知或匿名的人員並追蹤頁面檢視、登入頁面和反向連結。
 title: 網頁活動報告
 exl-id: 35bd37bd-e7b9-4418-b2c9-af5989f44b9f
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '341'
 ht-degree: 3%
 
 ---

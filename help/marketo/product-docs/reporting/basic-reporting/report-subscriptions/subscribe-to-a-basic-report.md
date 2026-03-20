@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359987
-description: 訂閱基本報表 — Marketo檔案 — 產品檔案
+description: 瞭解如何訂閱基本報告的電子郵件地址，以接收自動更新並與團隊共用報告。 在「訂閱」索引標籤中設定訂閱頻率。
 title: 訂閱基本報告
 exl-id: d2550578-e576-44e6-ae56-43563f8d3d45
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 14%
+source-wordcount: '136'
+ht-degree: 12%
 
 ---
 

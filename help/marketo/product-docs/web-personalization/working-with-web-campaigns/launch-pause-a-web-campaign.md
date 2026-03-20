@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719406
-description: 啟動/暫停網站行銷活動 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo Engage中啟動/暫停網路行銷活動，包括launchpause網路行銷活動。 使用本指南完成您的下一個步驟。
 title: 啟動/暫停網頁行銷活動
 exl-id: ce85a5ef-dd53-4298-a521-4b6d0032e111
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '164'
 ht-degree: 7%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 7%
 
    ![](assets/one-1.png)
 
-1. 移至&#x200B;**[!UICONTROL Web Campaigns]**。
+1. 前往 **[!UICONTROL Web Campaigns]**。
 
    ![](assets/two-1.png)
 

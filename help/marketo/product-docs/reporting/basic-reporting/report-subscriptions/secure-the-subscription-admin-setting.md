@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10095347
-description: 保護訂閱管理設定 — Marketo檔案 — 產品檔案
+description: 瞭解如何保護訂閱管理員設定，使其在下載報表前必須先登入。 在「智慧列示報表設定的管理員登入設定」中設定此安全性選項。
 title: 確保訂閱管理設定
 exl-id: 0cc1bc36-6a97-4f8d-afea-21746e8e3d84
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 12%
+source-wordcount: '99'
+ht-degree: 13%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 12%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 管理員可以選擇要求登入才能檢視報表。
 

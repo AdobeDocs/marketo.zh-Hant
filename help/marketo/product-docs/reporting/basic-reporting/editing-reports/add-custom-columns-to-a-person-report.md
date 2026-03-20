@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360201
-description: 新增自訂欄至人員報表 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用智慧列示作為篩選條件，將自訂欄新增至人員報表。 拖曳「設定」標籤中的自訂欄，使用其他量度增強報表。
 title: 新增自訂欄至人員報告
 exl-id: 8604b3dc-fc8c-491e-8ffd-a5d5a9597ae1
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 15%
+source-wordcount: '107'
+ht-degree: 13%
 
 ---
 

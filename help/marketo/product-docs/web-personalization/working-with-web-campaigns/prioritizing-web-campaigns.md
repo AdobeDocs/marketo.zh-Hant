@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8782266
-description: 排定網路行銷活動的優先順序 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo Engage中排定網路行銷活動的優先順序，包括排定網路行銷活動的優先順序。 使用本指南完成您的下一個步驟。
 title: 決定網頁行銷活動優先順序
 exl-id: 18c43ba2-6d4a-4344-93be-3e1435742504
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 3%
+source-wordcount: '177'
+ht-degree: 4%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 3%
 >
 >In Zone行銷活動和（Widget或對話方塊）行銷活動可在相同頁面上回應。
 
-1. 移至&#x200B;**[!UICONTROL Web Campaigns]**。
+1. 前往 **[!UICONTROL Web Campaigns]**。
 
    ![](assets/web-campaigns-hand-6.jpg)
 

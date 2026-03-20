@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720236
-description: 使用帳戶清單建立區段 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo Engage中使用帳戶清單建立區段，並使用帳戶清單建立區段。 使用本指南完成您的下一個步驟。
 title: 使用帳戶清單建立區段
 exl-id: 73179ed9-2f9b-46df-abfa-6e8ebb645cc5
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '166'
 ht-degree: 10%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 10%
 >
 >[建立新的帳戶清單](/help/marketo/product-docs/target-account-management/target/account-lists.md)
 
-1. 移至&#x200B;**[!UICONTROL Segments]**。
+1. 前往 **[!UICONTROL Segments]**。
 
    ![](assets/new-dropdown-segments-hand-no-account-list.jpg)
 

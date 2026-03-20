@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720796
-description: 使用網頁Personalization資料重新進行目標定位 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo Engage中使用網頁個人化資料重新進行目標定位，包括使用dnl web重新目標定位。 使用本指南完成您的下一個步驟。
 title: 利用網頁個人化資料進行重定向
 exl-id: b5af1f84-2061-4d0d-9d1f-2fff9191f028
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '395'
 ht-degree: 3%
 
 ---
@@ -54,7 +54,7 @@ Web Personalization目前會將資料附加至下列再行銷平台：
 
 ## 再行銷設定 {#remarketing-configuration}
 
-1. 移至&#x200B;**[!UICONTROL Retargeting]**。
+1. 前往 **[!UICONTROL Retargeting]**。
 
    ![](assets/one.png)
 

@@ -1,11 +1,11 @@
 ---
-description: 量度和維度 — Marketo檔案 — 產品檔案
+description: 瞭解進階BI Analytics報告的可用量度和維度，包括電子郵件、銷售機會、方案及機會分析。 使用這些資料元素建置自訂報表。
 title: 量度和維度
 feature: Reporting
 exl-id: 5f348007-ed0d-4900-ba4b-ecc9b935c6d2
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '1040'
+source-wordcount: '1058'
 ht-degree: 7%
 
 ---
@@ -28,11 +28,11 @@ ht-degree: 7%
       <th>測量(M)</th>
     </tr>
     <tr>
-      <th> </th>
+      <th>  </th>
       <th>時間範圍</th>
       <th>屬性</th>
       <th>自訂屬性</th>
-      <th> </th>
+      <th>  </th>
     </tr>
     <tr>
       <td>電子郵件分析</td>
@@ -108,7 +108,7 @@ ht-degree: 7%
           <li>模型屬性</li>
         </ul>
       </td>
-      <td> </td>
+      <td>  </td>
       <td>
         <ul>
           <li>階段相關測量(M)</li>
@@ -184,7 +184,7 @@ ht-degree: 7%
           <li>計畫屬性</li>
         </ul>
       </td>
-      <td> </td>
+      <td>  </td>
       <td>
         <ul>
           <li>投資(M)</li>
@@ -267,7 +267,7 @@ ht-degree: 7%
           <li>計畫標籤</li>
         </ul>
       </td>
-      <td> </td>
+      <td>  </td>
       <td>
         <ul>
           <li>階段會籍(M)</li>
@@ -618,7 +618,7 @@ ht-degree: 7%
             <li>已點按</li>
             <li>投訴</li>
             <li>已傳遞</li>
-            <li>硬退回</li>
+            <li>已硬退回</li>
             <li>已開啟</li>
             <li>已傳送</li>
             <li>不重複點按</li>

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 9438258
-description: 瞭解摘要報表 — Marketo檔案 — 產品檔案
+description: 瞭解摘要報告，該報告提供行銷活動和建議內容績效的每月檢視。 追蹤點按次數、直接轉換、輔助轉換，以及將結果與先前的月份進行比較。
 title: 了解摘要報告
 exl-id: 972fb518-bb0d-4c7e-b190-0fe12b2367a7
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '385'
-ht-degree: 1%
+source-wordcount: '405'
+ht-degree: 0%
 
 ---
 

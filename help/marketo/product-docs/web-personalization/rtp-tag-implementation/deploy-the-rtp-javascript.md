@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719332
-description: 部署RTP JavaScript - Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo Engage中部署rtp javascript，包括部署rtp javascript。 使用本指南完成您的下一個步驟。
 title: 部署 RTP JavaScript
 exl-id: ef96a7f4-3942-4325-bb0f-7647ff2b33b6
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '168'
 ht-degree: 5%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 5%
 
 ## [!UICONTROL Generate Tag] {#generate-tag}
 
-1. 登入您的RTP帳戶。 移至&#x200B;**[!UICONTROL Account Settings]**。
+1. 登入您的RTP帳戶。 前往 **[!UICONTROL Account Settings]**。
 
    ![](assets/image2014-12-1-23-3a3-3a12.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360035
-description: 向下切入人員績效報表 — Marketo檔案 — 產品檔案
-title: 深入研究人員績效報告
+description: 瞭解如何透過選取資料列並選擇屬性，在「人員績效」報表中向下展開以檢視其他人員資訊。 探索新報告標籤中的詳細潛在客戶資料。
+title: 深入研究人員效能報告
 exl-id: 87c77aae-a294-43d3-865a-5ca3beef0ff3
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 14%
+source-wordcount: '147'
+ht-degree: 12%
 
 ---
 
-# 深入研究人員績效報告 {#drill-down-in-a-people-performance-report}
+# 深入研究人員效能報告 {#drill-down-in-a-people-performance-report}
 
 向下追溯至「人員績效報表」，以檢視其他人員資訊。
 

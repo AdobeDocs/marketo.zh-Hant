@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949168
-description: 使用範本建立網站行銷活動 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用範本在Marketo Engage中建立網路行銷活動，並使用範本建立網路行銷活動。 使用本指南完成您的下一個步驟。
 title: 使用範本建立網路行銷活動
 exl-id: 1d4f24c7-27c7-4eb6-9377-dc6853d13fa3
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '149'
 ht-degree: 11%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 11%
 >
 >範本已針對案頭和行動裝置的所有裝置和瀏覽體驗進行最佳化。
 
-1. 移至&#x200B;**[!UICONTROL Web Campaigns]**。
+1. 前往 **[!UICONTROL Web Campaigns]**。
 
    ![](assets/web-campaigns-hand.jpg)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10093157
-description: 複製網站行銷活動 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用複製網路行銷活動來複製Marketo Engage中的網路行銷活動。 使用本指南完成您的下一個步驟。
 title: 原地複製網頁行銷活動
 exl-id: c87440fb-694f-4a51-ad73-317f4d7f4314
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 4%
+source-wordcount: '178'
+ht-degree: 5%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 4%
 
 ## 建立複製行銷活動 {#create-a-clone-campaign}
 
-1. 移至&#x200B;**[!UICONTROL Web Campaigns]**。
+1. 前往 **[!UICONTROL Web Campaigns]**。
 
    ![](assets/image2016-8-18-16-3a44-3a0.png)
 

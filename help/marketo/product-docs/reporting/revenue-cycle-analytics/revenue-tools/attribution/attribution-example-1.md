@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7514126
-description: 歸因範例1 - Marketo檔案 — 產品檔案
+description: 瞭解Marketo Engage中的歸因範例1，包括歸因範例1歸因範例。 使用本指南完成您的下一個步驟。
 title: 歸因範例 1
 exl-id: 851cbad3-0f6d-4ea0-857f-8b15337c7540
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '194'
 ht-degree: 4%
 
 ---
@@ -15,10 +15,10 @@ ht-degree: 4%
 
 請閱讀下列情境，並嘗試決定網格中應該包含的數字。
 
-* 4月11日 | Fred被（商展）收購
-* 4月15日 | Margo attends （網路研討會） — 成功
-* 4月22日 | Fred已與此機會建立關聯（角色）
-* 4月22日 | 商機已建立為$3,000
+* 4月11日| Fred被（商展）收購
+* 4月15日| Margo出席（網路研討會） — 成功
+* 4月22日| Fred與此機會相關（角色）
+* 4月22日|以$3,000建立商機
 
 | 方案名稱 | （商展） | （網路研討會） |
 |---|---|---|

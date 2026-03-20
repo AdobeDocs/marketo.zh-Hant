@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360411
-description: 建立成功路徑分析器 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用在Marketo Engage中建立成功路徑分析器。 使用本指南完成您的下一個步驟。
 title: 建立成功路徑分析工具
 exl-id: bcf3075c-4de6-428c-aebf-8191076169c0
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '161'
-ht-degree: 9%
+source-wordcount: '177'
+ht-degree: 10%
 
 ---
 
@@ -47,7 +47,7 @@ ht-degree: 9%
 
    ![](assets/five.png)
 
-1. 按一下「**[!UICONTROL Success Path Analyzer]**」標籤。
+1. 按一下「**[!UICONTROL Success Path Analyzer]**」索引標籤。
 
    ![](assets/success-tab.png)
 

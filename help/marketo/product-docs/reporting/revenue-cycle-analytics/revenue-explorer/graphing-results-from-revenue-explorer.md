@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10095084
-description: 從Revenue Explorer繪圖結果 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo Engage中繪製收入總管的結果，包括繪製收入結果。 使用本指南完成您的下一個步驟。
 title: 營收總管的圖表化結果
 exl-id: 628d1c9d-f636-4d67-8685-87edb3a5fb8b
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '238'
 ht-degree: 2%
 
 ---

@@ -1,21 +1,21 @@
 ---
 unique-page-id: 10100257
-description: 電子郵件深入分析常見問題集 — Marketo檔案 — 產品檔案
-title: 電子郵件洞察常見問題
+description: 尋找有關電子郵件深入分析的常見問題解答，包括量度計算、自訂維度和裝置篩選。 瞭解電子郵件深入分析與其他報告工具有何不同。
+title: 電子郵件洞察常見問題集
 exl-id: de3aca5a-08b4-4af8-ab92-675cb46dcbb2
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '599'
 ht-degree: 1%
 
 ---
 
-# 電子郵件洞察常見問題 {#email-insights-faq}
+# 電子郵件洞察常見問題集 {#email-insights-faq}
 
 ## 含有[!UICONTROL Email Insights]的比率量度與其他Marketo電子郵件報告之間是否有任何差異？ {#are-there-any-differences-between-ratio-metrics-with-email-insights-and-other-marketo-email-reporting}
 
-可以。[!UICONTROL Email Insights]將參與量度與計算參與量度比率（開啟率、點按開啟率、取消訂閱率）時傳送之相同電子郵件的對應傳遞量度建立關聯。 例如，在[!UICONTROL Email Insights]中，檢視過去一週包含每日點按開啟率劃分的時間序列圖表時，我們現在會根據對應的傳送量度顯示開啟/點按/取消訂閱事件的真正相關比率。 這與Revenue Explorer中的行為形成對照，後者只是一切的總和。 [!UICONTROL Email Insights]提供更精確的參與率檢視。
+是的。[!UICONTROL Email Insights]將參與量度與計算參與量度比率（開啟率、點按開啟率、取消訂閱率）時傳送之相同電子郵件的對應傳遞量度建立關聯。 例如，在[!UICONTROL Email Insights]中，檢視過去一週包含每日點按開啟率劃分的時間序列圖表時，我們現在會根據對應的傳送量度顯示開啟/點按/取消訂閱事件的真正相關比率。 這與Revenue Explorer中的行為形成對照，後者只是一切的總和。 [!UICONTROL Email Insights]提供更精確的參與率檢視。
 
 ## 為什麼[!UICONTROL Email Insights]只支援10個自訂維度？ {#why-does-email-insights-only-support-custom-dimensions}
 
@@ -23,15 +23,15 @@ ht-degree: 1%
 
 ## 為何無法在指派後重複使用自訂維度槽？ {#why-cant-i-re-use-custom-dimensions-slots-after-theyve-been-assigned}
 
-分配指定的自訂Dimension位置後，重新對應它會導致先前的資料在與新含義混合時產生錯誤。 因此，自訂Dimension位置可能無法重複使用。 此行為與其他量度分析工具(例如Google Analytics)的行為一致。
+分配指定的自訂Dimension位置後，重新對應它會導致先前的資料在與新含義混合時產生錯誤。 因此，自訂Dimension位置可能無法重複使用。 此行為與其他量度分析工具（例如Google Analytics）的行為一致。
 
 ## [!UICONTROL Email Insights]是否支援Marketo Sales Insight電子郵件？ {#does-email-insights-support-marketo-sales-insight-emails}
 
-可以。所有透過Marketo銷售分析傳送的電子郵件都包含在[!UICONTROL Email Insights]中。
+是的。所有透過Marketo銷售分析傳送的電子郵件都包含在[!UICONTROL Email Insights]中。
 
 ## [!UICONTROL Email Insights]是否支援營運電子郵件？ {#does-email-insights-support-operational-emails}
 
-可以。依預設，檢視和查詢會隱藏營運電子郵件。 不過，您可以在「個人設定」面板下變更此設定。
+是的。依預設，檢視和查詢會隱藏營運電子郵件。 不過，您可以在「個人設定」面板下變更此設定。
 
 ## [!UICONTROL Email Insights]是否擷取週期性排程或重新執行Smart Campaign電子郵件流程步驟？ {#does-email-insights-capture-recurring-scheduled-or-re-run-smart-campaign-email-flow-steps}
 

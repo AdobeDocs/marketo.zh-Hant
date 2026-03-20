@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4718683
-description: 核准階段並指派銷售機會至收入模型 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo Engage中核准階段和指派銷售機會至收入模型，包括核准階段和。 放心地執行下一個步驟。
 title: 核准階段並將商機指派至收入模型
 exl-id: 0c93dfe4-8950-444c-a65b-080620816ba2
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '313'
 ht-degree: 7%
 
 ---

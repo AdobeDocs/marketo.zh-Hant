@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12979008
-description: 效能深入分析貢獻概述 — Marketo檔案 — 產品檔案
-title: 績效洞察貢獻概觀
+description: 瞭解績效分析貢獻檢視，該檢視透過參與、管道和收入量度來評估行銷對收入的貢獻。 使用環圈圖和長條圖檢視頻道和方案效能。
+title: 效能洞察貢獻概觀
 exl-id: 52d97100-b811-4f43-9833-b18ae098a0f3
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '367'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 ![](assets/one-1.png)
 
-選取您要用來檢視效能的測量結果。 在此範例中，我們將檢視透過&#x200B;**[!UICONTROL Multi-Touch]**&#x200B;儀表板中的&#x200B;_[!UICONTROL Revenue]_&#x200B;贏得的機會。
+選取您要用來檢視效能的測量結果。 在此範例中，我們將檢視透過&#x200B;**[!UICONTROL Multi-Touch]**&#x200B;儀表板中的&#x200B;_[!UICONTROL Revenue]_贏得的機會。
 
 ![](assets/2.png)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360032
-description: 變更報告電子郵件中URL的到期時間 — Marketo檔案 — 產品檔案
+description: 瞭解如何在Marketo Engage中變更報告電子郵件中URL的到期時間，包括變更到期日。 使用本指南完成您的下一個步驟。
 title: 在報告電子郵件中變更 URL 的過期時間
 exl-id: fcce8cb7-816d-46de-b3de-37908bea5097
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '112'
 ht-degree: 19%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 19%
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 報表訂閱電子郵件中的連結會在三天後過期。 若要變更這些連結的到期時間，請依照下列步驟進行。
 

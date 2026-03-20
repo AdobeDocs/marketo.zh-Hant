@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4718685
-description: 在收入Modeler - Marketo檔案 — 產品檔案中合併兩個階段
+description: 瞭解如何在Marketo Engage的收入模型工具中合併兩個階段，包括合併收入中的兩個階段。 使用本指南完成您的下一個步驟。
 title: 在收入建模工具中合併兩個階段
 exl-id: d4798f50-5c3e-469f-b3ae-0a7e6977a116
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 15%
+source-wordcount: '115'
+ht-degree: 13%
 
 ---
 

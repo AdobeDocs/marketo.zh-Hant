@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720125
-description: 將RTP與Google Universal Analytics整合 — Marketo檔案 — 產品檔案
+description: 瞭解如何使用將rtp與dnl google整合，在Marketo Engage中將rtp與google universal analytics整合。 使用本指南完成您的下一個步驟。
 title: 將 RTP 與 Google Universal Analytics 整合
 exl-id: e8fc8730-c91d-44ad-8843-aa5b38f1ebd1
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '384'
 ht-degree: 4%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360199
-description: 依屬性群組人員報表 — Marketo檔案 — 產品檔案
+description: 瞭解Marketo Engage中依屬性的群組人員報表，包括依屬性的群組人員報表。 使用本指南完成您的下一個步驟。
 title: 按照屬性將人員報告分組
 exl-id: 853f6536-cbeb-4ef0-8f23-118c99a2b18e
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 10%
+source-wordcount: '126'
+ht-degree: 9%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 10%
 
    >[!TIP]
    >
-   >如果您選擇具有數值的屬性，例如&#x200B;_[!UICONTROL Created At]_&#x200B;或&#x200B;_[!UICONTROL Annual Revenue]_，請從右側的&#x200B;**[!UICONTROL Units]**&#x200B;下拉式清單中選取量度。
+   >如果您選擇具有數值的屬性，例如&#x200B;_[!UICONTROL Created At]_或_[!UICONTROL Annual Revenue]_，請從右側的&#x200B;**[!UICONTROL Units]**&#x200B;下拉式清單中選取量度。
 
    完成了！按一下「**[!UICONTROL Report]**」標籤，檢視您相應分組的報告。
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7514146
-description: 歸因範例2 - Marketo檔案 — 產品檔案
+description: 瞭解Marketo Engage中的歸因範例2，包括歸因範例2 attribution範例。 使用本指南完成您的下一個步驟。
 title: 歸因範例 2
 exl-id: 8f00abb5-85f8-4f05-874e-57aa6442548c
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '194'
 ht-degree: 4%
 
 ---
@@ -15,12 +15,12 @@ ht-degree: 4%
 
 請閱讀下列情境，並嘗試決定網格中應該包含的數字。
 
-* 4月11日 | 帳單取得者（商展）
-* 4月15日 | 瓊已獲得（網路研討會）
-* 4月22日 | （商機1）已建立為$6,000
-* 4月24日 | 以$10,000建立的（商機2）
-* 4月25日 | Bill和Joan與&#x200B;**BOTH**&#x200B;選項的角色相關聯
-* 4月29日 | （商機1）已結束獲勝
+* 4月11日|收購帳單者（貿易展）
+* 4月15日| Joan被（網路研討會）
+* 4月22日| （商機1）建立價$6,000
+* 4月24日| （商機2）已建立為$10,000
+* 4月25日| Bill和Joan與&#x200B;**BOTH**&#x200B;選項的角色相關聯
+* 4月29日| （商機1）為不勝列舉
 
 | 方案名稱 | （商展） | （網路研討會） |
 |---|---|---|

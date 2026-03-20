@@ -1,12 +1,12 @@
 ---
 unique-page-id: 13795492
-description: 效能深入分析設定 — Marketo檔案 — 產品檔案
-title: 績效洞察設定
+description: 瞭解效能深入分析設定，包括方案成功彙總、上一期間設定、受行銷影響的機會和成本計算選項。 根據您的儀表板檢視進行設定。
+title: 效能洞察設定
 exl-id: 894df9de-d416-44f7-8253-ebf3c2a36c90
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---
