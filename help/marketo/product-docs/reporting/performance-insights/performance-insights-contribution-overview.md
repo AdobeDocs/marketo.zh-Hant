@@ -17,7 +17,7 @@ ht-degree: 1%
 
 ![](assets/one-1.png)
 
-選取您要用來檢視效能的測量結果。 在此範例中，我們將檢視透過&#x200B;**[!UICONTROL Multi-Touch]**&#x200B;儀表板中的&#x200B;_[!UICONTROL Revenue]_贏得的機會。
+選取您要用來檢視效能的測量結果。 在此範例中，我們將檢視透過&#x200B;**[!UICONTROL Multi-Touch]**&#x200B;儀表板中的&#x200B;_[!UICONTROL Revenue]_&#x200B;贏得的機會。
 
 ![](assets/2.png)
 
