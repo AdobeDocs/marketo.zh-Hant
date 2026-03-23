@@ -3,10 +3,10 @@ description: 瞭解Dynamic Chat中的代理程式管理。 檢視代理程式、
 title: 代理人管理
 feature: Dynamic Chat
 exl-id: 151d8cf2-a5b7-43c4-8418-cc22252108b2
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d762c5a3d644c2c13fd82c55b329af9145ac3125
 workflow-type: tm+mt
-source-wordcount: '301'
-ht-degree: 2%
+source-wordcount: '364'
+ht-degree: 3%
 
 ---
 
@@ -77,3 +77,17 @@ ht-degree: 2%
 >[!TIP]
 >
 >建立自訂訊息時，您可以設定字型樣式、使用連結，甚至插入表情符號！`:)`
+
+## 設定 {#settings}
+
+### 同時即時聊天限制 {#concurrent-live-chat}
+
+設定代理程式一次可進行的同時作用中聊天數。 可設定1到10。
+
+![](assets/agent-management-10.png)
+
+### 訪客等待時間限制 {#visitor-wait-time}
+
+控制訪客在收到遞補訊息之前，等候連線至即時代理的最長時間（以秒為單位）。 可設定在10到500秒之間。
+
+![](assets/agent-management-11.png)
