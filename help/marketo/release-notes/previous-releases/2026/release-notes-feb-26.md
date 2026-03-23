@@ -3,10 +3,10 @@ description: 發行說明 — 2026年2月 — Marketo檔案 — 產品檔案
 title: 發行說明 - 2026 年 2 月
 feature: Release Information
 exl-id: 679d2fca-99ba-4321-ad0d-a297b7f193fc
-source-git-commit: 2d774545b17959ec0dfdf3ed004e7679d925fb98
+source-git-commit: 937c4a43066f957ddbeab9363174bc04e9a7d718
 workflow-type: tm+mt
-source-wordcount: '393'
-ht-degree: 26%
+source-wordcount: '400'
+ht-degree: 25%
 
 ---
 
@@ -64,8 +64,8 @@ ht-degree: 26%
   </tr>
   <tr>
    <td><strong>電子郵件Designer - AI助理影像產生</strong>：現在除了Firefly之外，您還可以使用Nano Banana模型，透過AI助理產生電子郵件內容的影像。</td>
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+   <td>已發行</td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant#create-content-for-a-specific-section">為您的電子郵件特定區段建立內容</a></td>
   </tr>
   </tbody>
 </table>
@@ -73,7 +73,7 @@ ht-degree: 26%
 
 ## 公告 {#announcements}
 
-* **SEO功能淘汰**： 2026年3月31日（星期二），Marketo Engage將淘汰搜尋引擎最佳化功能(SEO)。 如果您未主動使用SEO，則不必執行任何動作。 如果您最近曾使用SEO，您可以選擇匯出資料。 [了解更多](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617?profile.language=zh-Hant){target="_blank"}。
+* **SEO功能淘汰**： 2026年3月31日（星期二），Marketo Engage將淘汰搜尋引擎最佳化功能(SEO)。 如果您未主動使用SEO，則不必執行任何動作。 如果您最近曾使用SEO，您可以選擇匯出資料。 [了解更多](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617){target="_blank"}。
 
 * **REST API合併潛在客戶限制**：自2026年3月31日起，在合併潛在客戶API呼叫的leadIds引數中包含超過25個ID的呼叫將產生1080錯誤碼，該呼叫將被跳過。 需要將超過25筆記錄合併成一筆的工作應分割成多個工作，以確保這些呼叫成功。
 
