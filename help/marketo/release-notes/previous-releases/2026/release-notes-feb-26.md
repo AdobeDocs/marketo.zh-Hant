@@ -1,24 +1,24 @@
 ---
-description: 最新發行說明 - Marketo 文件 - 產品文件
-title: 最新發行說明
-exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
+description: 發行說明 — 2026年2月 — Marketo檔案 — 產品檔案
+title: 發行說明 - 2026 年 2 月
 feature: Release Information
-source-git-commit: eb0e23b9f938e813edb90f615a6f1e9d06526dbc
+exl-id: 679d2fca-99ba-4321-ad0d-a297b7f193fc
+source-git-commit: 2d774545b17959ec0dfdf3ed004e7679d925fb98
 workflow-type: tm+mt
-source-wordcount: '458'
-ht-degree: 25%
+source-wordcount: '393'
+ht-degree: 26%
 
 ---
 
-# 發行說明：2026 年 3 月 {#release-notes-mar-26}
+# 發行說明：2026 年 2 月 {#release-notes-feb-26}
 
-下方提供2026年3月發行版本包含的所有功能。 請查看您的 Adobe Marketo Engage 版本是否提供這些功能。
+下方提供2026年2月發行版本包含的所有功能。 請查看您的 Adobe Marketo Engage 版本是否提供這些功能。
 
 如需 Adobe Dynamic Chat 特定的發行說明，[請參閱這裡](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}。
 
 ## 標準發行週期功能 {#standard-release-cycle-features}
 
-下列功能屬於標準發行週期，並將於&#x200B;**2026年3月27日**&#x200B;開始發行，在接下來的幾週內分階段推出剩餘功能。 發行的功能和日期可能有所變更。如需了解各項功能的狀態，請查看其旁邊欄位。
+下列功能屬於標準發行週期，並將於&#x200B;**2026年2月20日**&#x200B;開始發行，在接下來的幾週內分階段推出剩餘功能。 發行的功能和日期可能有所變更。如需了解各項功能的狀態，請查看其旁邊欄位。
 
 <table style="table-layout:auto">
  <tbody>
@@ -28,17 +28,11 @@ ht-degree: 25%
    <th style="width:25%">文件</th>
   </tr>
   <tr>
-   <td><strong>電子郵件Designer — 管理品牌（測試版）</strong>：根據您組織/品牌的特定撰寫准則產生電子郵件內容。</td>
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
-  </tr>
-  <tr>
-   <td>  </td>
-   <td>  </td>
-   <td>  </td>
-  </tr>
-  <tr>
-   <td><strong>電子郵件Designer - Brand Alignment</strong>：使用電子郵件內容品質檢查程式，來評估您訊息的一般可讀性和連貫性。
+   <td><strong>電子郵件Designer — 資料夾動作</strong>：與舊的電子郵件編輯器對等。
+   <ul>
+   <li>共用和封存電子郵件Designer資產的資料夾動作。</li>
+   <li>跨工作區共用資料夾、以滑鼠右鍵按一下資料夾以建立新資產、透過拖放方式來移動資產。</li>
+   </ul>
    </td>
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
@@ -49,8 +43,7 @@ ht-degree: 25%
    <td>  </td>
   </tr>
   <tr>
-   <td><strong>電子郵件Designer - Outlook轉譯修正</strong>：此更新修正轉譯問題，尤其是在MS Outlook中。 「專家模式」可讓您進行細微的HTML/CSS編輯，或新增指令碼標籤至您的電子郵件（最佳實務是不對電子郵件的HTML進行任何其他變更，以保持視覺元素不變）。
-   </td>
+   <td><strong>電子郵件Designer - API</strong>：您現在可以使用電子郵件Designer的API呼叫。</td>
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
   </tr>
@@ -60,8 +53,7 @@ ht-degree: 25%
    <td>  </td>
   </tr>
   <tr>
-   <td><strong>電子郵件Designer — 快速動作</strong>： <i>與舊電子郵件編輯器的對等性</i>。 快速動作現在可用於所有電子郵件Designer資產（電子郵件、電子郵件範本、片段）。 支援的快速動作包括：複製、刪除、移動、建立/編輯草稿。
-   </td>
+   <td><strong>電子郵件Designer - Brand Quality Checker</strong>：評估一般內容品質，找出可讀性、內容一致性和有效性的潛在問題，不受品牌准則影響。</td>
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
   </tr>
@@ -71,19 +63,7 @@ ht-degree: 25%
    <td>  </td>
   </tr>
   <tr>
-   <td><strong>挑選清單管理</strong>：您現在可以指定可以在Marketo Engage的欄位中使用的值。
-   </td>
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
-  </tr>
-  <tr>
-   <td>  </td>
-   <td>  </td>
-   <td>  </td>
-  </tr>
-  <tr>
-   <td><strong>推播通知</strong>：在推播通知訊息中設定的重新導向URL現在支援Marketo Engage權杖（僅適用於<i>啟動應用程式URL</i>）。
-   </td>
+   <td><strong>電子郵件Designer - AI助理影像產生</strong>：現在除了Firefly之外，您還可以使用Nano Banana模型，透過AI助理產生電子郵件內容的影像。</td>
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
   </tr>
