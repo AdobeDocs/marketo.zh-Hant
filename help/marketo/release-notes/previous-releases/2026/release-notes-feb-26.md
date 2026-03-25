@@ -55,7 +55,7 @@ ht-degree: 24%
   <tr>
    <td><strong>電子郵件Designer - AI助理影像產生</strong>：現在除了Firefly之外，您還可以使用Nano Banana模型，透過AI助理產生電子郵件內容的影像。</td>
    <td>已發行</td>
-   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant#create-content-for-a-specific-section">為您的電子郵件特定區段建立內容</a></td>
+   <td><a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant#create-content-for-a-specific-section">為您的電子郵件特定區段建立內容</a></td>
   </tr>
   </tbody>
 </table>
