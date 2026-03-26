@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: eb0e23b9f938e813edb90f615a6f1e9d06526dbc
+source-git-commit: 3c9facaed46a72c12a8a604aa9d22b47e28183cb
 workflow-type: tm+mt
-source-wordcount: '9338'
+source-wordcount: '9340'
 ht-degree: 99%
 
 ---
@@ -164,6 +164,7 @@ ht-degree: 99%
          + [隱藏和取消隱藏欄位](product-docs/administration/field-management/hide-and-unhide-a-field.md)
          + [電子郵件中的 HTML 編碼權杖](product-docs/administration/field-management/html-encode-tokens-in-emails.md)
          + [將欄位標記為敏感](product-docs/administration/field-management/mark-a-field-as-sensitive.md)
+         + [挑選清單管理](product-docs/administration/field-management/picklist-management.md)
          + [重新命名欄位](product-docs/administration/field-management/rename-a-field.md)
          + [了解系統管理欄位](product-docs/administration/field-management/understanding-system-managed-fields.md)
          + [檢視 Marketo 和 Salesforce 之間的欄位對應](product-docs/administration/field-management/view-field-mappings-between-marketo-and-salesforce.md)
@@ -1597,7 +1598,7 @@ ht-degree: 99%
          + [使用註冊碼安裝 Outlook 適用的 Marketo 電子郵件增益集](product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)
          + [核發 Marketo 電子郵件增益集授權](product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md)
          + [由 IT 人員進行的 Marketo Outlook 外掛程式安裝](product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-installation-by-it.md)
-         + [由 IT 人員進行的 Marketo Outlook 外掛程式解除安裝 &#x200B;](product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)
+         + [由 IT 人員進行的 Marketo Outlook 外掛程式解除安裝 ](product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)
          + [使用 Outlook 適用的電子郵件增益集傳送及追蹤電子郵件](product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
          + [使用 Marketo 範本從 Outlook 傳送及追蹤](product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
          + [指定 Marketo 銷售洞察外掛程式管理員](product-docs/marketo-sales-insight/msi-outlook-plugin/specify-marketo-sales-insight-plugin-admins.md)
