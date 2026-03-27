@@ -4,7 +4,7 @@ description: 瞭解方案成員自訂欄位權杖。 使用權杖將成員資料
 title: 方案成員自訂欄位權杖
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 feature: Tokens
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: f6893edbfe85d1d6e0958b5a3029d8fd404b1311
 workflow-type: tm+mt
 source-wordcount: '422'
 ht-degree: 5%
@@ -19,7 +19,7 @@ ht-degree: 5%
 
 PMCF權杖將在權杖系列的成員網域下受到支援。
 
-「成員代號」用於「方案成員」範圍內的欄位。 截至目前狀態，成員Token也可用來插入整合式服務合作夥伴的唯一值。 `{{member.webinar url}}`權杖會自動解析服務提供者產生的個人唯一確認URL。 {{member.registration code}}解析為服務提供者提供的註冊代碼。
+「成員代號」用於「方案成員」範圍內的欄位。 截至目前狀態，成員Token也可用來插入整合式服務合作夥伴的唯一值。 `{{member.webinar url}}`權杖會自動解析服務提供者產生的個人唯一確認URL。 `{{member.registration code}}`解析為服務提供者提供的註冊代碼。
 
 >[!NOTE]
 >

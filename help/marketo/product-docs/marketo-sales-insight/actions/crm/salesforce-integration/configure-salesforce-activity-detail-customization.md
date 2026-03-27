@@ -3,9 +3,9 @@ description: 瞭解如何設定任務主旨欄位的Salesforce活動詳細資料
 title: 設定 Salesforce 活動詳細資料自訂
 exl-id: 534ebdb5-7a5b-48eb-98f7-2d05a9eae8e8
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 2186cfc201f9f61df4e1fe9cd5f6da1a4a8996bf
 workflow-type: tm+mt
-source-wordcount: '684'
+source-wordcount: '677'
 ht-degree: 2%
 
 ---
@@ -68,33 +68,33 @@ ht-degree: 2%
   <th>說明</th>
  </tr>
  <tr>
-  <td>{{activity_type}}</td>
+  <td><code>{{activity_type}}</code></td>
   <td>將會填入任務型別，如電子郵件、通話、InMail或自訂。</td>
  </tr>
  <tr>
-  <td>{{activity_subject}}</td>
+  <td><code>{{activity_subject}}</code></td>
   <td><p>將填入任務的主旨。</p>
       <p>如果是電子郵件，則會填入電子郵件的主旨行。</p>
       <p>在呼叫、inMail或自訂的案例中，如果工作名稱/主旨欄位中有使用值建立的提醒工作，則會填入值。</p></td>
  </tr>
  <tr>
-  <td>{{sales_campaign_name}}</td>
+  <td><code>{{sales_campaign_name}}</code></td>
   <td>如果活動是從銷售行銷活動起始，則會填入銷售行銷活動的名稱。</td>
  </tr>
  <tr>
-  <td>{{sales_campaign_day}}</td>
+  <td><code>{{sales_campaign_day}}</code></td>
   <td>如果活動是從銷售行銷活動起始，則會填入此活動發生的銷售行銷活動天數。</td>
  </tr>
  <tr>
-  <td>{{sales_campaign_step}}</td>
+  <td><code>{{sales_campaign_step}}</code></td>
   <td>如果活動是從銷售行銷活動起始，則會填入發生此活動之銷售行銷活動日期內的步驟編號。</td>
  </tr>
  <tr>
-  <td>{{call_outcome}}</td>
+  <td><code>{{call_outcome}}</code></td>
   <td>如果活動是呼叫且已選取呼叫結果，則會填入呼叫結果值。</td>
  </tr>
  <tr>
-  <td>{{call_reason}}</td>
+  <td><code>{{call_reason}}</code></td>
   <td>如果活動是來電且已選取來電原因，則會填入來電原因值。</td>
  </tr>
 </table>

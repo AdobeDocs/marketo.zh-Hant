@@ -4,7 +4,7 @@ description: 瞭解Marketo Engage中的歸因範例4，包括歸因範例4 attri
 title: 歸因範例 4
 exl-id: 98cd7401-3bc7-40a1-b88d-7174a3027d4e
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: f6893edbfe85d1d6e0958b5a3029d8fd404b1311
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 3%
@@ -22,8 +22,8 @@ ht-degree: 3%
 * 4月25日| John和Michelle已與&#x200B;**both**&#x200B;光碟相關聯
 * 4月29日| [Opty 1]已結束結束
 
-| 方案名稱 | （內容） | （網路研討會） |
-|---|---|---|
+| 方案名稱 | （內容） | （網路研討會） | | |
+|---|---|---|---|---|
 |   | （光碟機1） | （光碟機2） | （光碟機1） | （光碟機2） |
 | (MT)建立的商機 | `<pre>0.5</pre>` | `<pre>0.5</pre>` | `<pre>0.5</pre>` | `<pre>0.5</pre>` |
 | (MT)管道已建立 | `<pre>$1,500</pre>` | `<pre>$2,500</pre>` | `<pre>$1,500</pre>` | `<pre>$2,500</pre>` |

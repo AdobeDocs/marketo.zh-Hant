@@ -4,7 +4,7 @@ title: 建立門房
 hide: true
 hidefromtoc: true
 index: false
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: f6893edbfe85d1d6e0958b5a3029d8fd404b1311
 workflow-type: tm+mt
 source-wordcount: '1092'
 ht-degree: 1%
@@ -59,7 +59,7 @@ ht-degree: 1%
    熒幕擷圖
 
 1. 在&#x200B;_定義服務人員技能_&#x200B;索引標籤中，選擇&#x200B;_產品建議B2B_&#x200B;或&#x200B;_產品建議B2C_。
-按一下&#x200B;**開始使用**。
+按一下**開始使用**。
 
    熒幕擷圖
 
