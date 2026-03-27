@@ -8,10 +8,10 @@ level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 88945b7c-0205-4540-bb37-1df85e647d90
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 5688edd53ead1c6a4f0f7e90ab3f4f6598fa489f
 workflow-type: tm+mt
-source-wordcount: '1330'
-ht-degree: 8%
+source-wordcount: '1256'
+ht-degree: 2%
 
 ---
 
@@ -27,37 +27,33 @@ ht-degree: 8%
 
 ## 存取品牌 {#generative-access}
 
-若要在&#x200B;**[!UICONTROL Brands]**&#x200B;中存取[!DNL Adobe Marketo Engage]功能表，使用者必須被授與&#x200B;**[!UICONTROL Manage brand kit]**&#x200B;或&#x200B;**[!UICONTROL Enable AI assistant]**&#x200B;許可權。
+若要在&#x200B;**[!UICONTROL Brands]**&#x200B;中存取[!DNL Adobe Marketo Engage]功能表，使用者必須獲得相關許可權。
 
 +++  瞭解如何指派品牌相關許可權
 
-若要指派品牌的許可權，請遵循下列步驟：
+### 使用者和角色 {#users-and-roles}
 
-1. 在&#x200B;**權限**&#x200B;產品中，前往&#x200B;**角色**&#x200B;標籤，然後選取所需的&#x200B;**角色**。
+1. 在&#x200B;_管理員_&#x200B;中，選取&#x200B;**使用者與角色**。
 
-1. 按一下&#x200B;**編輯**&#x200B;以修改權限。
+1. 選取所需的角色。
 
-1. 新增&#x200B;**AI小幫手**&#x200B;資源，然後從下拉式功能表中選取&#x200B;**管理品牌套件**&#x200B;或&#x200B;**[!UICONTROL Enable Ai assistant]**。
+1. 按一下以展開&#x200B;**Access Design Studio**&#x200B;功能表。
 
-   請注意，**[!UICONTROL Enable Ai assistant]**&#x200B;許可權僅提供&#x200B;**[!UICONTROL Brands]**&#x200B;功能表的唯讀存取權。
+1. 選取&#x200B;**存取AI小幫手**&#x200B;並按一下&#x200B;**儲存**。
 
-   熒幕擷圖
+### 管理員
 
-1. 按一下&#x200B;**儲存**，以套用所做的變更。
+1. 回到管理區域，按一下新增體驗。
 
-   任何已指派給此角色的使用者都會自動更新其權限。
+1. 在&#x200B;_管理您的品牌_&#x200B;旁邊，按一下&#x200B;**編輯**。
 
-1. 若要將此角色指派給新使用者，請瀏覽至&#x200B;**角色**&#x200B;儀表板中的&#x200B;**使用者**&#x200B;標籤，然後按一下&#x200B;**新增使用者**。
-
-1. 輸入使用者的名稱、電子郵件地址，或從清單當中選擇，然後按一下&#x200B;**儲存**。
-
-1. 如果之前未建立使用者，請參閱[此文件](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/access-control/abac/permissions-ui/users)。
+接下來呢???
 
 +++
 
 ## 建立和管理您的品牌 {#create-brand-kit}
 
-若要建立和管理您的品牌指引，您可以自行輸入詳細資料，或上傳品牌指引檔案以自動擷取資訊：
+若要建立和管理您的品牌指引，您可以自行輸入詳細資料，或上傳品牌指引檔案以自動擷取資訊。
 
 1. 在&#x200B;**[!UICONTROL Brands]**&#x200B;功能表中，按一下&#x200B;**[!UICONTROL Create brand]**。
 
