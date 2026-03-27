@@ -4,9 +4,10 @@ title: 挑選清單管理
 hide: true
 hidefromtoc: true
 feature: Field Management
-source-git-commit: 3c9facaed46a72c12a8a604aa9d22b47e28183cb
+exl-id: 2b75edbb-0ce3-495b-a245-dac2db9c0126
+source-git-commit: 3e1f9cb0a896dc9468d778e5ff2c5ffab3e6d80e
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '499'
 ht-degree: 0%
 
 ---
@@ -43,16 +44,24 @@ ht-degree: 0%
 
 ## 自動建議 {#autosuggest}
 
+啟用&#x200B;_受管理的挑選清單_&#x200B;設定時，篩選器、流程步驟選擇和變更資料值步驟將會自動從受管理的挑選清單建議值。 停用此設定時，只會建議非受管理的值。
+
+![](assets/picklist-management-4.png)
+
+![](assets/picklist-management-5.png)
+
+![](assets/picklist-management-6.png)
+
 ### 在Managed和Unmanaged挑選清單之間切換 {#switching}
 
 大部分的Marketo Engage訂閱都包含匯入Managed Picklists之前的資料。 若要使用智慧清單中的值或來自此非受管理版本選擇清單（例如，來自資料庫中記錄的全套值）的流程步驟，請切換智慧清單或行銷活動檢視中的「受管理的選擇清單」設定。 切換開啟時，只會顯示Managed挑選清單值。 關閉時，會使用unmanaged挑選清單，並根據資料庫中的現有值自動建議值。
 
-### 表單挑選清單（選取型別欄位） {#form-picklists}
+## 表單挑選清單（選取型別欄位） {#form-picklists}
 
 如同內建和CRM管理的挑選清單，使用選取欄位型別時，管理的挑選清單值會傳播至Forms。 針對具有受管理挑選清單的欄位，選取該欄位並將欄位型別設定為&#x200B;_選取_。
 
-![](assets/picklist-management-4.png)
+![](assets/picklist-management-7.png)
 
 這會顯示為該欄位定義的一組Managed挑選清單值。
 
-![](assets/picklist-management-5.png)
+![](assets/picklist-management-8.png)
