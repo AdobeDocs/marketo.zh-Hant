@@ -4,7 +4,7 @@ description: 瞭解如何使用收件者時區排程電子郵件計畫。 設定
 title: 根據收件者時區安排電子郵件方案的時間
 exl-id: d0c3f3c1-9f21-4081-818d-7c5cb1766915
 feature: Email Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
 workflow-type: tm+mt
 source-wordcount: '804'
 ht-degree: 1%
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 在啟用收件者時區的情況下，排程電子郵件程式時有兩種可能的情況：
 
-1. 正在排程程在接下來的25小時內執行&#x200B;**&#x200B;**
+1. 正在排程程在接下來的25小時內執行&#x200B;****
 1. 正在排程程將來&#x200B;**超過**&#x200B;個25小時執行的程式（亦即下週）
 
 ## 案例1:25小時內 {#scenario-within-hours}
@@ -36,7 +36,7 @@ ht-degree: 1%
 >
 >* **[!UICONTROL Deliver the following day in the recipient's time zone]**：如果電子郵件排定在星期二的9:00am發出，則已超過排定時間的時區的合格人員將在&#x200B;*星期三*&#x200B;的9:00am收到電子郵件。
 >
->* **[!UICONTROL Deliver using the program's default set time]**：如果電子郵件排定在星期二9:00am發出，則已超過排定時間的時區的合格人員將會根據您的訂閱時區設定&#x200B;*收到電子郵件*。 因此，如果您的[訂閱時區設定](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)設為PDT America/Los Angeles，這些收件者仍會在星期二的9:00am PDT收到電子郵件（無論時間是在他們自己的時區）。
+>* **[!UICONTROL Deliver using the program's default set time]**：如果電子郵件排定在星期二9:00am發出，則已超過排定時間的時區的合格人員將會根據您的訂閱時區設定&#x200B;*收到電子郵件*。 因此，如果您的[訂閱時區設定](/help/marketo/product-docs/administration/settings/change-time-zone.md)設為PDT America/Los Angeles，這些收件者仍會在星期二的9:00am PDT收到電子郵件（無論時間是在他們自己的時區）。
 
 >[!NOTE]
 >

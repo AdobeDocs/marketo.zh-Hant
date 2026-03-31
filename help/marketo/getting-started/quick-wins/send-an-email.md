@@ -4,8 +4,8 @@ description: 傳送電子郵件 - Marketo 文件 - 產品文件
 title: 傳送電子郵件
 exl-id: 1f80fc08-3587-41f0-9c51-2feea10dff0d
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
+source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
+workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 100%
 
@@ -125,7 +125,7 @@ ht-degree: 100%
 
    >[!TIP]
    >
-   >預設時區不是您的時區嗎？關於[如何更新請參閱這裡](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md){target="_blank"}。
+   >預設時區不是您的時區嗎？關於[如何更新請參閱這裡](/help/marketo/product-docs/administration/settings/change-time-zone.md){target="_blank"}。
 
 1. 按一下「[!UICONTROL Approval]」圖磚之下的「**[!UICONTROL Approve Program]**」，這樣就完成了！
 

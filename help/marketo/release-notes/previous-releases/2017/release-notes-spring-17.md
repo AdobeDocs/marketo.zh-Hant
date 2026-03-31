@@ -3,7 +3,7 @@ unique-page-id: 12977439
 description: 發行說明–2017年春季 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2017年春季
 exl-id: 61873d1f-41dd-4f5c-94d0-65f0bcacff75
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
 workflow-type: tm+mt
 source-wordcount: '633'
 ht-degree: 0%
@@ -86,13 +86,13 @@ ABM具名帳戶上的&#x200B;**[百分位數評分](https://docs.marketo.com/dis
 
 ![](assets/archive-campaign-5b2-5d.png)
 
-**[本地化](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)**
+**[本地化](/help/marketo/product-docs/administration/settings/change-time-zone.md)**
 
 Web Personalization現在提供所有Marketo支援的語言（英文、日文、德文、西班牙文、法文和葡萄牙文）。
 
 ## 預測性增強功能 {#predictive-enhancements}
 
-**[本地化](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)**
+**[本地化](/help/marketo/product-docs/administration/settings/change-time-zone.md)**
 
 預測內容現在提供所有Marketo支援的語言（英文、日文、德文、西班牙文、法文和葡萄牙文）。
 

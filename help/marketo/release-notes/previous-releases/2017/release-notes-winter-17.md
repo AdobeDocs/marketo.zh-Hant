@@ -3,7 +3,7 @@ unique-page-id: 12255606
 description: 發行說明–2017年冬季 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2017年冬
 exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
 workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 1%
@@ -38,7 +38,7 @@ ht-degree: 1%
 
 ## 本地化 {#localization}
 
-Web Personalization、[!UICONTROL Predictive Content]和電子郵件深入分析應用程式現在提供日文、德文和西班牙文版本。 您[選取您的語言和地區](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)，以檢視這些語言的內容。
+Web Personalization、[!UICONTROL Predictive Content]和電子郵件深入分析應用程式現在提供日文、德文和西班牙文版本。 您[選取您的語言和地區](/help/marketo/product-docs/administration/settings/change-time-zone.md)，以檢視這些語言的內容。
 
 ![](assets/japanese-web-personalization.png)
 
