@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: f33289e095a66147a7e06eb620111922e19aef31
+source-git-commit: 1850dd03baba259e99e8cc089b39f35735e63fdf
 workflow-type: tm+mt
-source-wordcount: '9340'
+source-wordcount: '9339'
 ht-degree: 99%
 
 ---
@@ -224,7 +224,6 @@ ht-degree: 99%
          + [設定後援頁面](product-docs/administration/settings/set-a-fallback-page.md)
          + [設定訂閱的預設位置設定](product-docs/administration/settings/set-default-location-settings-for-a-subscription.md)
          + [了解隱私權設定](product-docs/administration/settings/understanding-privacy-settings.md)
-         + [使用通用 ID 進行訂閱登入](product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
       + 標記 {#tags}
          + [建立新的方案標記和標記值](product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md)
          + [建立方案管道](product-docs/administration/tags/create-a-program-channel.md)
@@ -1036,9 +1035,6 @@ ht-degree: 99%
          + [將影像轉換為 HTML 範本](product-docs/email-marketing/email-designer/image-to-html.md)
          + [設計無障礙內容](product-docs/email-marketing/email-designer/accessible-content.md)
          + [自訂 CSS](product-docs/email-marketing/email-designer/custom-css.md)
-         + [品牌主題](product-docs/email-marketing/email-designer/brand-themes.md)
-         + [套用品牌](product-docs/email-marketing/email-designer/apply-brand.md)
-         + [管理品牌](product-docs/email-marketing/email-designer/manage-brand.md)
          + [深色模式](product-docs/email-marketing/email-designer/dark-mode.md)
          + [使用 Litmus 測試電子郵件呈現](product-docs/email-marketing/email-designer/test-email-rendering.md)
          + [個人化權杖](product-docs/email-marketing/email-designer/personalization-tokens.md)
@@ -1051,6 +1047,12 @@ ht-degree: 99%
          + [電子郵件共同作業](product-docs/email-marketing/email-designer/email-collaboration.md)
          + [電子郵件Designer的AI助理](product-docs/email-marketing/email-designer/ai-assistant.md)
          + [使用 SpamAssassin 取得垃圾郵件報告](product-docs/email-marketing/email-designer/spam-report.md)
+         + 品牌 {#brands}
+            + [品牌主題](product-docs/email-marketing/email-designer/brands/brand-themes.md)
+            + [套用品牌](product-docs/email-marketing/email-designer/brands/apply-brand.md)
+            + [管理品牌](product-docs/email-marketing/email-designer/brands/manage-brands.md)
+            + [個人化您的品牌](product-docs/email-marketing/email-designer/brands/manage-brands.md)
+            + [管理品牌](product-docs/email-marketing/email-designer/brands/manage-brands.md)
       + 電子郵件方案 {#email-programs}
          + 建立電子郵件方案 {#creating-an-email-program}
             + [建立電子郵件方案](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
@@ -1598,7 +1600,7 @@ ht-degree: 99%
          + [使用註冊碼安裝 Outlook 適用的 Marketo 電子郵件增益集](product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)
          + [核發 Marketo 電子郵件增益集授權](product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md)
          + [由 IT 人員進行的 Marketo Outlook 外掛程式安裝](product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-installation-by-it.md)
-         + [由 IT 人員進行的 Marketo Outlook 外掛程式解除安裝 &#x200B;](product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)
+         + [由 IT 人員進行的 Marketo Outlook 外掛程式解除安裝 ](product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)
          + [使用 Outlook 適用的電子郵件增益集傳送及追蹤電子郵件](product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
          + [使用 Marketo 範本從 Outlook 傳送及追蹤](product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
          + [指定 Marketo 銷售洞察外掛程式管理員](product-docs/marketo-sales-insight/msi-outlook-plugin/specify-marketo-sales-insight-plugin-admins.md)
