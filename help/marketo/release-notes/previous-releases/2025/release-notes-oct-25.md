@@ -3,7 +3,7 @@ description: 發行說明 — 2025年10月 — Marketo檔案 — 產品檔案
 title: 版本注意事項 - 2025 年 10 月
 feature: Release Information
 exl-id: 9c668de0-14d0-4d2e-8ea6-dc7db5be3ea7
-source-git-commit: 6b8733e8b67ef9f93ba16cd1589de93fe45ceb25
+source-git-commit: 67d416c3fc126e695ff7cc3f712265d6dec6dc0d
 workflow-type: tm+mt
 source-wordcount: '730'
 ht-degree: 93%
@@ -44,7 +44,7 @@ ht-degree: 93%
   <tr>
    <td><strong>電子郵件設計工具 - 品牌主題</strong>：您現在可以在 Marketo Engage 中定義品牌主題。樣式設定可以在電子郵件範本和其他電子郵件資產中重複使用及套用，以維持品牌一致性。</td>
    <td>已發行</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md" target="_blank">品牌主題</a></td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/brands/brand-themes.md" target="_blank">品牌主題</a></td>
   </tr>
   <tr>
    <td>  </td>

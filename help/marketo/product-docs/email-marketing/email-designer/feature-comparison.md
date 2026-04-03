@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 67d416c3fc126e695ff7cc3f712265d6dec6dc0d
 workflow-type: tm+mt
 source-wordcount: '864'
 ht-degree: 10%
@@ -233,7 +233,7 @@ ht-degree: 10%
   </tr>
   <tr>
     <td>品牌主題</td>
-    <td>可在整個組織中<a href="/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md" target="_blank">套用核准的主題</a>，以確保樣式、顏色、字型大小等元素的一致性。</td>
+    <td>可在整個組織中<a href="/help/marketo/product-docs/email-marketing/email-designer/brands/brand-themes.md" target="_blank">套用核准的主題</a>，以確保樣式、顏色、字型大小等元素的一致性。</td>
     <td>不可用</td>
     <td>可用</td>
   </tr>
