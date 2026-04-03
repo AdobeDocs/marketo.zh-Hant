@@ -3,11 +3,13 @@ unique-page-id: 2949270
 description: 比較您和您競爭對手在一段時間內的關鍵字排名。
 title: SEO - 使用競爭者關鍵字趨勢報告
 exl-id: c36e84d0-ca8d-4618-a1ad-9b903f317792
+hide: true
+hidefromtoc: true
 feature: SEO
-source-git-commit: b42922726bebab913436bb0955557339af96d0f5
+source-git-commit: c669a10a65409205eb749ab9ee6b35a4b14c73c5
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 11%
+source-wordcount: '202'
+ht-degree: 10%
 
 ---
 
@@ -17,12 +19,12 @@ ht-degree: 11%
 
 >[!IMPORTANT]
 >
->在2026年3月31日，Marketo Engage將淘汰搜尋引擎最佳化功能。 請在3月30日或之前匯出任何相關資料。 [了解更多](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}。
+>在2026年3月31日，Marketo Engage [已棄用搜尋引擎最佳化](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}功能。 [seo.marketo.com](https://seo.marketo.com/)仍在限定時間內可用。 請依照下列文章中的步驟匯出任何資料。
 >
->* [匯出問題](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
->* [匯出關鍵字結果](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
->* [匯出關鍵字趨勢](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
->* [匯出競爭者關鍵字趨勢](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
+>* [匯出問題](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [匯出關鍵字結果](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [匯出關鍵字趨勢](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [匯出競爭者關鍵字趨勢](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 ## 尋找報表 {#find-reports}
 
@@ -45,7 +47,7 @@ ht-degree: 11%
 | [!UICONTROL Keywords] | 您正在追蹤的關鍵字數目。 |
 | [!UICONTROL Ranking URLs] | 在您設定的範圍內網站排名的URL數量。 |
 | [!UICONTROL % in rank] | 關鍵字在您設定的範圍中排名的百分比。 |
-| [!UICONTROL Avg. searches] | 在您設定的範圍內(過去30天內，在Google美國搜尋中)對這些關鍵字發生的平均搜尋次數 |
+| [!UICONTROL Avg. searches] | 在您設定的範圍內（過去30天內，在Google美國搜尋中）對這些關鍵字發生的平均搜尋次數 |
 
 ## 篩選資料 {#filtering-data}
 

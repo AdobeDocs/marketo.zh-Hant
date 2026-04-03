@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: e867cd5611d2727e08242685cb666ae1295ce680
+source-git-commit: c669a10a65409205eb749ab9ee6b35a4b14c73c5
 workflow-type: tm+mt
-source-wordcount: '9342'
+source-wordcount: '9160'
 ht-degree: 99%
 
 ---
@@ -60,44 +60,10 @@ ht-degree: 99%
 + 產品文件 {#product-docs}
    + 其他應用程式 {#additional-apps}
       + SEO {#seo}
-         + 認識 SEO {#understanding-seo}
-            + [認識搜尋引擎最佳化](product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)
-            + [認識 SEO 儀表板：SEO 推薦](product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
-            + [認識 SEO 儀表板：SEO 快照](product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md)
-            + [SEO - 新增網站/刪除網站](product-docs/additional-apps/seo/understanding-seo/seo-add-a-site-delete-a-site.md)
-            + [SEO - 新增競爭者](product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)
-            + [SEO - 管理清單](product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)
-            + [SEO - 為您的搜尋引擎選取區域/國家](product-docs/additional-apps/seo/understanding-seo/seo-pick-region-country-for-your-search-engine.md)
-            + [SEO - 設定您的電子郵件提醒偏好設定](product-docs/additional-apps/seo/understanding-seo/seo-set-your-email-alert-preferences.md)
          + 關鍵字 {#keywords}
-            + [SEO - 新增關鍵字](product-docs/additional-apps/seo/keywords/seo-add-keywords.md)
-            + [SEO - 在關鍵字視圖中新增/移除欄](product-docs/additional-apps/seo/keywords/seo-add-remove-columns-from-your-keywords-view.md)
-            + [SEO - 從清單中新增/移除關鍵字](product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
             + [SEO - 匯出關鍵字結果](product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results.md)
-            + [SEO - 篩選關鍵字結果](product-docs/additional-apps/seo/keywords/seo-filter-keyword-results.md)
-            + [SEO - 取得建議的關鍵字](product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md)
-            + [SEO - 使用 CSV 匯入關鍵字](product-docs/additional-apps/seo/keywords/seo-importing-keywords-with-a-csv.md)
-            + [SEO - 關鍵字趨勢圖](product-docs/additional-apps/seo/keywords/seo-keyword-trends-chart.md)
-            + [SEO - 運用目標關鍵字最佳化特定頁面](product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
-            + [SEO - 移除關鍵字](product-docs/additional-apps/seo/keywords/seo-remove-a-keyword.md)
-            + [SEO - 了解關鍵字](product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-            + [SEO - 在搜尋引擎中檢視關鍵字結果](product-docs/additional-apps/seo/keywords/seo-view-keyword-results-in-search-engine.md)
          + 頁面 {#pages}
-            + [SEO - 將註解新增至頁面問題](product-docs/additional-apps/seo/pages/seo-add-notes-to-page-issues.md)
-            + [SEO - 新增頁面](product-docs/additional-apps/seo/pages/seo-add-pages.md)
-            + [SEO - 從清單中新增/移除頁面](product-docs/additional-apps/seo/pages/seo-add-remove-page-from-list.md)
-            + [SEO - 從清單中新增/移除頁面問題](product-docs/additional-apps/seo/pages/seo-add-remove-page-issue-from-a-list.md)
             + [SEO - 將問題匯出為 CSV](product-docs/additional-apps/seo/pages/seo-export-issues-to-csv.md)
-            + [SEO - 移除/刪除頁面問題](product-docs/additional-apps/seo/pages/seo-remove-delete-a-page-issue.md)
-            + [SEO - 移除/刪除頁面](product-docs/additional-apps/seo/pages/seo-remove-delete-a-page.md)
-            + [SEO - 了解頁面](product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
-            + [SEO - 使用頁面詳細資料深入研究](product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)
-         + 傳入連結 {#inbound-links}
-            + [SEO - 手動新增傳入連結 URL](product-docs/additional-apps/seo/inbound-links/seo-add-an-inbound-link-url-manually.md)
-            + [SEO - 從清單中新增/移除傳入連結 URL](product-docs/additional-apps/seo/inbound-links/seo-add-remove-an-inbound-link-url-from-a-list.md)
-            + [SEO - 取得傳入連結建議](product-docs/additional-apps/seo/inbound-links/seo-get-inbound-link-suggestions.md)
-            + [SEO - 移除/刪除傳入連結 URL](product-docs/additional-apps/seo/inbound-links/seo-remove-delete-an-inbound-link-url.md)
-            + [SEO - 了解傳入連結](product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
          + 報告 {#reports}
             + [SEO - 使用競爭者關鍵字趨勢報告](product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
             + [SEO - 使用關鍵字趨勢報告](product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report.md)
@@ -1600,7 +1566,7 @@ ht-degree: 99%
          + [使用註冊碼安裝 Outlook 適用的 Marketo 電子郵件增益集](product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)
          + [核發 Marketo 電子郵件增益集授權](product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md)
          + [由 IT 人員進行的 Marketo Outlook 外掛程式安裝](product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-installation-by-it.md)
-         + [由 IT 人員進行的 Marketo Outlook 外掛程式解除安裝 &#x200B;](product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)
+         + [由 IT 人員進行的 Marketo Outlook 外掛程式解除安裝 ](product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)
          + [使用 Outlook 適用的電子郵件增益集傳送及追蹤電子郵件](product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
          + [使用 Marketo 範本從 Outlook 傳送及追蹤](product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
          + [指定 Marketo 銷售洞察外掛程式管理員](product-docs/marketo-sales-insight/msi-outlook-plugin/specify-marketo-sales-insight-plugin-admins.md)
