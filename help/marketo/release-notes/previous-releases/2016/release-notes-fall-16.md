@@ -3,7 +3,7 @@ unique-page-id: 11384018
 description: 發行說明–2016年秋季 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2016年秋季
 exl-id: da935951-162e-426c-acf2-12c55ff706b4
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b29fba0718fda60c6369c398b2b1497d44f91782
 workflow-type: tm+mt
 source-wordcount: '647'
 ht-degree: 0%
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 ![](assets/facebook.png)
 
-## [通用ID](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md) {#universal-id}
+## 通用ID {#universal-id}
 
 通用ID可讓您透過單一登入存取多個Marketo訂閱，並快速在訂閱之間切換。 您所有訂閱都可以使用單一社群設定檔。
 

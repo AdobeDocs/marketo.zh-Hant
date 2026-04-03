@@ -2,9 +2,9 @@
 description: 發行說明 — 2021年8月 — Marketo檔案 — 產品檔案
 title: 版本注意事項 - 2021 年 8 月
 exl-id: 4aec4e0b-520e-4786-a110-8e68f1bf9950
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b29fba0718fda60c6369c398b2b1497d44f91782
 workflow-type: tm+mt
-source-wordcount: '903'
+source-wordcount: '897'
 ht-degree: 1%
 
 ---
@@ -63,7 +63,7 @@ ht-degree: 1%
 
 ![](assets/yellow-star.png)
 
-* **[!DNL Bizible]&#x200B;[!DNL LinkedIn] Lead Gen Forms整合**：行銷人員現在可以對[!DNL LinkedIn]透過其Lead Gen Forms廣告單位擷取表單填寫時發生的轉換執行收入歸因。 這些見解可用於最佳化表單效能和付費媒體投資。 [!DNL LinkedIn] Lead Gen Forms是[!DNL LinkedIn]增長最快的付費媒體方案之一，這項新功能包含在我們與[!DNL LinkedIn]的現有[!DNL Bizible]廣告整合中。
+* **[!DNL Bizible][!DNL LinkedIn] Lead Gen Forms整合**：行銷人員現在可以對[!DNL LinkedIn]透過其Lead Gen Forms廣告單位擷取表單填寫時發生的轉換執行收入歸因。 這些見解可用於最佳化表單效能和付費媒體投資。 [!DNL LinkedIn] Lead Gen Forms是[!DNL LinkedIn]增長最快的付費媒體方案之一，這項新功能包含在我們與[!DNL LinkedIn]的現有[!DNL Bizible]廣告整合中。
 
 * **已改善Velocity儀表板**：我們已新增新的Velocity量度和儀表板篩選器，以取得更深入的見解。 此儀表板可供行銷人員用來瞭解逐階段銷售線索和機會速度，以及不同行銷和銷售參與形式的效率。
 
@@ -81,7 +81,7 @@ ht-degree: 1%
 
 ## 公告 {#announcements}
 
-* **更新至訂閱通用ID設定**：為了支援現有使用者即將整合的Marketo Engage和Adobe身分，所有Marketo Engage訂閱將在啟用通用ID支援中整合。 如需詳細資訊[，請參閱此處](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)。
+* **更新至訂閱通用ID設定**：為了支援現有使用者即將整合的Marketo Engage和Adobe身分，所有Marketo Engage訂閱將在啟用通用ID支援中整合。
 
 **_產品發行網路研討會_**
 
