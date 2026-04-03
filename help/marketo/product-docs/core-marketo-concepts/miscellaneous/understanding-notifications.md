@@ -3,9 +3,9 @@ unique-page-id: 2952292
 description: 瞭解有關Campaign失敗和CRM同步的Marketo Engage通知。 訂閱以透過電子郵件取得警報，並保持在最新狀態。
 title: 了解通知
 exl-id: c47b10ae-cca0-427d-88e3-8f5f84aa5467
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: ea341c472b6e4ac81edd60e269916f0451b94152
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '242'
 ht-degree: 3%
 
 ---
@@ -24,6 +24,10 @@ ht-degree: 3%
 
    ![](assets/understanding-notifications-2.png){width="800" zoomable="yes"}
 
+   >[!NOTE]
+   >
+   >通知可在您的Marketo帳戶中使用60天。
+
 ## 訂閱通知 {#subscribe-to-notifications}
 
 您可以訂閱通知，以便在電子郵件中接收這些通知。
@@ -38,9 +42,9 @@ ht-degree: 3%
 
 >[!NOTE]
 >
->_[!UICONTROL Send to]_&#x200B;方塊僅供您輸入電子郵件地址；它不會顯示現有訂閱者的清單。
+>_[!UICONTROL Send to]_方塊僅供您輸入電子郵件地址；它不會顯示現有訂閱者的清單。
 
-在某些情況下，通知會提供「檢視完整清單」連結來下載逗號分隔值(CSV)檔案，例如Microsoft Dynamics同步錯誤檔案。 Marketo Engage會將這些CSV檔案保留30天。 如果您在30天後嘗試下載檔案，將會出現404錯誤。
+在某些情況下，通知會提供「檢視完整清單」連結來下載逗號分隔值(CSV)檔案，例如Microsoft Dynamics同步錯誤檔案。 Marketo Engage會將這些CSV檔案保留30天。 如果您在30天後嘗試下載檔案，則會發生錯誤。
 
 >[!TIP]
 >
