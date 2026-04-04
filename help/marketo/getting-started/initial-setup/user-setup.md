@@ -113,7 +113,7 @@ ht-degree: 7%
 <tbody>
   <tr>
     <td>Adobe Marketo狀態更新</td>
-    <td><li><a href="https://status.adobe.com/cloud/experience_cloud">訂閱Adobe Marketo Engage狀態更新</a>。</li></td>
+    <td><li><a href="https://status.adobe.com/zh-tw/cloud/experience_cloud">訂閱Adobe Marketo Engage狀態更新</a>。</li></td>
   </tr>
   <tr>
     <td>通知</td>
