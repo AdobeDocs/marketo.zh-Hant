@@ -4,10 +4,10 @@ title: 設定與設定
 hide: true
 hidefromtoc: true
 exl-id: d6f37214-65b9-48c1-bf9f-d64b4eda87b9
-source-git-commit: 4b04b83416009193fbd7b3930d75ed3fd14d1e7c
+source-git-commit: 5a9bcf6b5709b69b0681789971c47dd45af2cb03
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 5%
+source-wordcount: '167'
+ht-degree: 4%
 
 ---
 
@@ -15,11 +15,23 @@ ht-degree: 5%
 
 介紹文字。
 
+## 設定 {#settings}
+
+請依照下列步驟，將NAME連線至您的Marketo Engage帳戶。
+
+1. 在「我的Marketo」中，按一下&#x200B;**使用AI建置**&#x200B;圖磚。
+
+熒幕擷圖
+
+1. 按一下齒輪圖示
+
+需要尚未連線的執行個體
+
 ## 連線 {#connection}
 
 在「連線」索引標籤中，請依照下列步驟進行MARKETO MCP的NAME初始設定。
 
-+++
++++初始設定步驟
 
 文字
 
