@@ -1,12 +1,12 @@
 ---
-description: 即將推出。
+description: 瞭解如何使用匯入銷售機會代理程式上傳CSV、套用商業規則、對應欄位，以及將銷售機會直接匯入您的Marketo Engage資料庫。
 title: 匯入銷售機會
 hide: true
 hidefromtoc: true
 exl-id: 6583b93c-71eb-4a07-b25d-11eca834a3ba
-source-git-commit: 7eda3ecf602552e67323ccf076f182efe949f6ea
+source-git-commit: e137d417f7ba9440b9d3d68a985fa38694e1c157
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---

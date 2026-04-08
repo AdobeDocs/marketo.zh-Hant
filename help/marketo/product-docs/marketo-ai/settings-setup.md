@@ -1,19 +1,19 @@
 ---
-description: 即將推出。
+description: 瞭解如何啟用Marketo AI許可權、設定組織規則及管理整合和通知等設定。
 title: 設定與設定
 hide: true
 hidefromtoc: true
 exl-id: d6f37214-65b9-48c1-bf9f-d64b4eda87b9
-source-git-commit: 2e2f646680e3e328b7f0c4f68b0dedab52950c50
+source-git-commit: e137d417f7ba9440b9d3d68a985fa38694e1c157
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '225'
 ht-degree: 1%
 
 ---
 
 # 設定和設定 {#settings-setup}
 
-介紹文字。
+瞭解如何啟用許可權並使用「設定」區域來檢視連線詳細資料、定義組織規則以及設定整合和通知。
 
 ## 權限 {#permissions}
 
