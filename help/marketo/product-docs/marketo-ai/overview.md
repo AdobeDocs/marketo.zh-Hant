@@ -4,7 +4,7 @@ title: Marketo Engage AI總覽
 hide: true
 hidefromtoc: true
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: 2e2f646680e3e328b7f0c4f68b0dedab52950c50
+source-git-commit: 491c2fc587fdeee1cbb65a8022f91c6f7c9a65be
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 3%
@@ -31,6 +31,14 @@ Marketo Engage AI提供許多代理程式，這些代理程式旨在將繁瑣但
 
 ## 專員 {#agents}
 
+### 程式QA {#program-qa}
+
+根據最佳實務驗證Marketo Engage計畫，並在啟動前發現任何問題。 [了解更多](/help/marketo/product-docs/marketo-ai/agents/program-qa.md){target="_blank"}
+
+### 匯入銷售機會 {#import-leads}
+
+透過欄位對應協助，將潛在客戶清單匯入並刪除重複專案至Marketo Engage資料庫。 [了解更多](/help/marketo/product-docs/marketo-ai/agents/import-leads.md){target="_blank"}
+
 ### 調查銷售機會（即將推出） {#investigate-lead}
 
 探索為什麼有人沒有MQL、符合方案資格或在生命週期中前進。
@@ -42,14 +50,6 @@ Marketo Engage AI提供許多代理程式，這些代理程式旨在將繁瑣但
 ### 建立計畫（即將推出） {#create-program}
 
 使用行銷活動簡報，產生整個Marketo Engage方案，並填入電子郵件、登陸頁面和Smart Campaign。
-
-### 程式QA {#program-qa}
-
-根據最佳實務驗證Marketo Engage計畫，並在啟動前發現任何問題。 [了解更多](/help/marketo/product-docs/marketo-ai/agents/program-qa.md){target="_blank"}
-
-### 匯入銷售機會 {#import-leads}
-
-透過欄位對應協助，將潛在客戶清單匯入並刪除重複專案至Marketo Engage資料庫。 [了解更多](/help/marketo/product-docs/marketo-ai/agents/import-leads.md){target="_blank"}
 
 ### 標準化資料（即將推出） {#normalize-data}
 

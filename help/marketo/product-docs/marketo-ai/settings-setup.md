@@ -4,10 +4,10 @@ title: 設定與設定
 hide: true
 hidefromtoc: true
 exl-id: d6f37214-65b9-48c1-bf9f-d64b4eda87b9
-source-git-commit: e137d417f7ba9440b9d3d68a985fa38694e1c157
+source-git-commit: 491c2fc587fdeee1cbb65a8022f91c6f7c9a65be
 workflow-type: tm+mt
-source-wordcount: '225'
-ht-degree: 1%
+source-wordcount: '333'
+ht-degree: 0%
 
 ---
 
@@ -17,19 +17,51 @@ ht-degree: 1%
 
 ## 權限 {#permissions}
 
-為了存取Marketo AI，管理員必須首先啟用角色許可權。
+>[!IMPORTANT]
+>
+>在Marketo AI的Alpha階段中，預設為下列角色啟用&#x200B;_存取權： 「管理員」、「Adobe產品管理員行銷使用者」、「標準使用者」。_&#x200B;因此，您不必針對想要存取的角色將其開啟，而必須針對您不想要的角色將其關閉。
+
+### 全部存取 {#access-for-all}
+
+如果您想要為上方列出的所有角色啟用Marketo AI，您不必執行任何動作。
+
+### 存取部分 {#access-for-some}
+
+如果您想要移除任何角色的存取權，請遵循下列步驟。
 
 1. 在「我的Marketo」中，按一下&#x200B;**管理員**，然後按一下&#x200B;**使用者和角色**。
 
    ![](assets/settings-setup-1.png)
 
-1. 在&#x200B;_角色_&#x200B;索引標籤中，選取所需的角色，然後按一下&#x200B;**編輯角色**。
+1. 在&#x200B;_角色_&#x200B;索引標籤中，選取想要的角色（或多個角色），然後按一下&#x200B;**編輯角色**。
 
    ![](assets/settings-setup-2.png)
 
-1. 向下捲動並選取&#x200B;**「使用AI存取組建」**&#x200B;核取方塊，然後按一下&#x200B;**儲存**。
+1. 向下捲動並&#x200B;_取消勾選_ **使用AI存取組建**&#x200B;核取方塊，然後按一下&#x200B;**儲存**。
 
    ![](assets/settings-setup-3.png)
+
+### 自訂角色 {#custom-role}
+
+您也可選擇[建立新角色](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"}並自訂其許可權，新增&#x200B;_使用AI存取Build_&#x200B;以及您想要的其他專案，並[將該角色](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}指派給特定使用者。
+
+<!-- ## Permissions {#permissions}
+
+In order to access Marketo AI, Admins must first enable role permissions. 
+
+1. In your My Marketo, click **Admin**, then **Users & Roles**.
+
+   ![](assets/settings-setup-1.png)
+
+1. In the _Roles_ tab, select the desired role and click **Edit Role**.
+
+   ![](assets/settings-setup-2.png)
+
+1. Scroll down and select the **Access Build with AI** checkbox and click **Save**.
+
+   ![](assets/settings-setup-3.png)
+
+-->
 
 ## 設定 {#settings}
 
