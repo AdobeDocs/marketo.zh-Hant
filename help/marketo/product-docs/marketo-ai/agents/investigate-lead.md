@@ -3,7 +3,7 @@ description: 即將推出。
 title: 調查銷售機會
 hide: true
 hidefromtoc: true
-source-git-commit: 5a9bcf6b5709b69b0681789971c47dd45af2cb03
+source-git-commit: 7eda3ecf602552e67323ccf076f182efe949f6ea
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 1%
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 探索為什麼有人沒有MQL、符合方案資格或在生命週期中前進。
 
-若要檢視調查案例的完整清單，請按一下向右的向下箭頭。
+若要檢視調查案例的完整清單，請按一下右側的向下箭頭。
 
 熒幕擷圖
 
