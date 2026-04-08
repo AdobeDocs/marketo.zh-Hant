@@ -4,9 +4,9 @@ title: 匯入銷售機會
 hide: true
 hidefromtoc: true
 exl-id: 6583b93c-71eb-4a07-b25d-11eca834a3ba
-source-git-commit: e137d417f7ba9440b9d3d68a985fa38694e1c157
+source-git-commit: e74181cdb5498719cfd47fbdfd23c661d7a71406
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/import-leads-2.png)
 
-   您會使用對話式AI。 在左窗格中，「代理程式」會針對要執行哪些資料標準化功能，張貼指引、回應和選項。
+   系統會將您帶往對話式AI畫面。 在左窗格中，「代理程式」會針對要執行哪些資料標準化功能，張貼指引、回應和選項。
 
    ![](assets/import-leads-3.png)
 
