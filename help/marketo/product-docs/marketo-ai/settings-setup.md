@@ -4,7 +4,7 @@ title: 設定與設定
 hide: true
 hidefromtoc: true
 exl-id: d6f37214-65b9-48c1-bf9f-d64b4eda87b9
-source-git-commit: 491c2fc587fdeee1cbb65a8022f91c6f7c9a65be
+source-git-commit: d5f5c11a56f21e7dba3e1e79eb6785937f165b14
 workflow-type: tm+mt
 source-wordcount: '333'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->在Marketo AI的Alpha階段中，預設為下列角色啟用&#x200B;_存取權： 「管理員」、「Adobe產品管理員行銷使用者」、「標準使用者」。_&#x200B;因此，您不必針對想要存取的角色將其開啟，而必須針對您不想要的角色將其關閉。
+>在Marketo AI的Alpha階段中，預設為下列角色啟用&#x200B;_存取權： 「管理員」、「Adobe產品管理員」、「行銷使用者」、「標準使用者」。_&#x200B;因此，您不必針對想要存取的角色將其開啟，而必須針對您不想要的角色將其關閉。
 
 ### 全部存取 {#access-for-all}
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 ### 自訂角色 {#custom-role}
 
-您也可選擇[建立新角色](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"}並自訂其許可權，新增&#x200B;_使用AI存取Build_&#x200B;以及您想要的其他專案，並[將該角色](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}指派給特定使用者。
+您也可選擇[建立新角色](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"}並自訂其許可權、新增&#x200B;_使用AI存取Build_，以及您想要的其他專案，並[將該角色](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}指派給特定使用者。
 
 <!-- ## Permissions {#permissions}
 
