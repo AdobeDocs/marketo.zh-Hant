@@ -3,10 +3,10 @@ description: 提供快速參考資料，內含設定Marketo Engage與Adobe身分
 title: 快速指南
 exl-id: eb854ec8-fabb-477d-977b-9dc7e7d9f24f
 feature: Marketo with Adobe Identity
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: a6acaad889d49e9db869d812bfc5b41258680719
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 82%
+source-wordcount: '124'
+ht-degree: 81%
 
 ---
 
@@ -44,7 +44,3 @@ ht-degree: 82%
 ## 使用者登入 {#user-sign-in}
 
 [使用者透過 Adobe ID 登入](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}
-
-## 常見問題集 {#faq}
-
-[常見問題集](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}

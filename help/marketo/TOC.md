@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: f8e81b66985e2841b3fb31a1d139b9c5aa21f5fd
+source-git-commit: a6acaad889d49e9db869d812bfc5b41258680719
 workflow-type: tm+mt
-source-wordcount: '9176'
+source-wordcount: '9146'
 ht-degree: 99%
 
 ---
@@ -163,16 +163,7 @@ ht-degree: 99%
          + [Adobe Identity Management 概觀](product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)
          + [管理員設定](product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
          + [產品管理員設定](product-docs/administration/marketo-with-adobe-identity/product-admin-setup.md)
-         + [新增 Adobe IMS 啟用訂閱的僅 API 使用者](product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md)
-         + [新增或移除產品管理員](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
-         + [新增或移除使用者](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
-         + [常見問題集](product-docs/administration/marketo-with-adobe-identity/faq.md)
          + [使用者透過 Adobe ID 登入](product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)
-         + 訂閱和使用者移轉 {#subscription-and-user-migration}
-            + [移轉至 Adobe Identity](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md)
-            + [了解 Marketo 訂閱和使用者移轉至 Adobe Admin Console](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md)
-            + [Marketo Engage 支援移轉](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/support-migration.md)
-            + [疑難排解指南](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/troubleshooting.md)
       + 設定 {#settings}
          + [大量匯出 API 資訊](product-docs/administration/settings/bulk-export-api-information.md)
          + [行銷活動檢查器](product-docs/administration/settings/campaign-inspector.md)
@@ -205,7 +196,10 @@ ht-degree: 99%
          + [隱藏/取消隱藏方案管道](product-docs/administration/tags/hide-unhide-a-program-channel.md)
          + [管理標記值](product-docs/administration/tags/managing-tag-values.md)
       + 使用者和角色 {#users-and-roles}
+         + [新增或移除產品管理員](product-docs/administration/users-and-roles/add-or-remove-a-product-admin.md)
+         + [新增或移除使用者](product-docs/administration/users-and-roles/add-or-remove-a-user.md)
          + [建立僅 API 使用者角色](product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
+         + [建立僅 API 使用者](product-docs/administration/users-and-roles/create-api-only-user.md)
          + [建立、刪除、編輯和變更使用者角色](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
          + [電子郵件驗證](product-docs/administration/users-and-roles/email-verification.md)
          + [匯出使用者和角色清單](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
@@ -1573,7 +1567,7 @@ ht-degree: 99%
          + [使用註冊碼安裝 Outlook 適用的 Marketo 電子郵件增益集](product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)
          + [核發 Marketo 電子郵件增益集授權](product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md)
          + [由 IT 人員進行的 Marketo Outlook 外掛程式安裝](product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-installation-by-it.md)
-         + [由 IT 人員進行的 Marketo Outlook 外掛程式解除安裝 &#x200B;](product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)
+         + [由 IT 人員進行的 Marketo Outlook 外掛程式解除安裝 ](product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)
          + [使用 Outlook 適用的電子郵件增益集傳送及追蹤電子郵件](product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
          + [使用 Marketo 範本從 Outlook 傳送及追蹤](product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
          + [指定 Marketo 銷售洞察外掛程式管理員](product-docs/marketo-sales-insight/msi-outlook-plugin/specify-marketo-sales-insight-plugin-admins.md)
