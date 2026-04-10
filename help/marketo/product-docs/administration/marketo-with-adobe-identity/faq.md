@@ -3,7 +3,7 @@ description: 有關適用於Marketo Engage的Adobe身分的常見問題集，包
 title: Adobe Identity Management 常見問題集
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: a2c5ee6591b688ca262fbab94f0b13bae481daff
 workflow-type: tm+mt
 source-wordcount: '1591'
 ht-degree: 98%
@@ -57,9 +57,9 @@ Adobe Identity Management 系統包含三個元件。
 
 **如果我們已和 IMS 整合，我們應和誰聯絡來尋求支援？**
 
-* 使用者遷移前：請在 [Marketing Nation 社群](https://nation.marketo.com/t5/support/ct-p/Support)中提交支援案例或寄送電子郵件至 `customercare@marketo.com`。
+* 使用者遷移前：請在 [Marketing Nation 社群](https://nation.marketo.com/t5/support/ct-p/Support)中提交支援案例或寄送電子郵件至 `marketocares@adobe.com`。
 
-* 使用者遷移後：請在 [Marketing Nation 社群](https://nation.marketo.com/t5/support/ct-p/Support)中提交支援案例或寄送電子郵件至 `customercare@marketo.com`。
+* 使用者遷移後：請在 [Marketing Nation 社群](https://nation.marketo.com/t5/support/ct-p/Support)中提交支援案例或寄送電子郵件至 `marketocares@adobe.com`。
 
 * 支援遷移完成後：產品支援管理員可透過 Experience League 支援入口網站提交案例。
 
