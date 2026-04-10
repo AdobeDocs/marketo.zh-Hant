@@ -7,14 +7,14 @@ level: Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: f8e81b66985e2841b3fb31a1d139b9c5aa21f5fd
+source-git-commit: 02d809b2c44e8c852375d8944819660cd4f9c6ad
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: '365'
 ht-degree: 2%
 
 ---
 
-# 使用進階HTML編輯器編輯電子郵件範本 {#email-template-expert-mode}
+# 使用進階HTML編輯器編輯電子郵件範本 {#advanced-html-mode}
 
 進階HTML模式可讓您直接從[!DNL Marketo Engage]電子郵件Designer介面檢視及編輯電子郵件範本的原始原始程式碼。
 
@@ -40,13 +40,13 @@ ht-degree: 2%
 
 1. 在電子郵件Designer中開啟或[建立電子郵件範本](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template)。
 
-1. 在「編輯電子郵件範本」畫面中，按一下右上角的「HTML」按鈕。
+1. 在&#x200B;_編輯電子郵件範本_&#x200B;畫面中，按一下右上角的HTML按鈕。
 
-   熒幕擷圖
+   ![](assets/advanced-html-mode-1.png){width="800" zoomable="yes"}
 
 1. 第一次開啟進階HTML編輯器時，會顯示警告訊息。 完成時，按一下&#x200B;**[!UICONTROL OK]**&#x200B;進行檢閱。
 
-   熒幕擷圖
+   ![](assets/advanced-html-mode-2.png)
 
    >[!NOTE]
    >
@@ -54,7 +54,7 @@ ht-degree: 2%
 
 1. 進階HTML編輯器隨即顯示。
 
-   熒幕擷圖
+   ![](assets/advanced-html-mode-3.png){width="800" zoomable="yes"}
 
 1. 將所需的變更新增至您的電子郵件內容。
 
@@ -64,7 +64,7 @@ ht-degree: 2%
 
 1. 基於相容性原因，進階HTML檢視中無法使用內容模擬和儲存。 切換回案頭檢視以預覽您的內容並儲存變更。
 
-   熒幕擷圖
+   ![](assets/advanced-html-mode-4.png){width="800" zoomable="yes"}
 
    >[!NOTE]
    >
