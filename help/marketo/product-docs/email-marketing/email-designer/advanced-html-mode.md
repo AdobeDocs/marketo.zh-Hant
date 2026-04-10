@@ -5,9 +5,8 @@ title: 將自訂 CSS 新增至您的電子郵件內容
 description: 瞭解如何在電子郵件Designer中新增自訂CSS至電子郵件內容。 使用Marketo Engage中的自訂程式碼設定電子郵件樣式。
 level: Intermediate
 feature: Email Designer
-hide: true
-hidefromtoc: true
-source-git-commit: 02d809b2c44e8c852375d8944819660cd4f9c6ad
+exl-id: b030e56a-de70-4b0d-9788-04a01235cffb
+source-git-commit: af89a1a1fd0246564d0904103f742230a096de04
 workflow-type: tm+mt
 source-wordcount: '365'
 ht-degree: 2%

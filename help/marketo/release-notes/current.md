@@ -3,9 +3,9 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 1850dd03baba259e99e8cc089b39f35735e63fdf
+source-git-commit: af89a1a1fd0246564d0904103f742230a096de04
 workflow-type: tm+mt
-source-wordcount: '462'
+source-wordcount: '448'
 ht-degree: 24%
 
 ---
@@ -48,19 +48,19 @@ ht-degree: 24%
    <td>  </td>
    <td>  </td>
   </tr>
+   <tr>
+   <td><strong>電子郵件Designer - Outlook轉譯修正</strong>：此更新修正轉譯問題，尤其是在MS Outlook中。 進階HTML模式可讓您進行細微的HTML/CSS編輯，或新增指令碼標籤至您的電子郵件範本。
+   </td>
+   <td>已發行</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/advanced-html-mode.md" target="_blank">使用進階HTML編輯器編輯電子郵件範本</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td>  </td>
+   <td>  </td>
+  </tr>
   <tr>
    <td><strong>電子郵件Designer - Brand Quality Checker</strong>：評估一般內容品質，找出可讀性、內容一致性和有效性的潛在問題，不受品牌准則影響。</td>
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
-  </tr>
-  <tr>
-   <td>  </td>
-   <td>  </td>
-   <td>  </td>
-  </tr>
-  <tr>
-   <td><strong>電子郵件Designer - Outlook轉譯修正</strong>：此更新修正轉譯問題，尤其是在MS Outlook中。 「專家模式」可讓您進行細微的HTML/CSS編輯，或新增指令碼標籤至您的電子郵件（最佳實務是不對電子郵件的HTML進行任何其他變更，以保持視覺元素不變）。
-   </td>
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
   </tr>
@@ -92,7 +92,7 @@ ht-degree: 24%
 
 ## 公告 {#announcements}
 
-* **SEO功能淘汰**： 2026年3月31日（星期二），Marketo Engage將淘汰搜尋引擎最佳化功能(SEO)。 如果您未主動使用SEO，則不必執行任何動作。 如果您最近曾使用SEO，您可以選擇匯出資料。 [了解更多](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617?profile.language=zh-Hant){target="_blank"}。
+* **SEO功能淘汰**： 2026年3月31日（星期二），Marketo Engage將淘汰搜尋引擎最佳化功能(SEO)。 如果您未主動使用SEO，則不必執行任何動作。 如果您最近曾使用SEO，您可以選擇匯出資料。 [了解更多](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617){target="_blank"}。
 
 * **REST API合併潛在客戶限制**：自2026年3月31日起，在合併潛在客戶API呼叫的leadIds引數中包含超過25個ID的呼叫將產生1080錯誤碼，該呼叫將被跳過。 需要將超過25筆記錄合併成一筆的工作應分割成多個工作，以確保這些呼叫成功。
 
