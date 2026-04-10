@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/program-qa-4.png){width="450" zoomable="yes"}
 
-1. 在提示視窗中，輸入[QA程式]並按一下[傳送]。****
+1. 在提示視窗中，輸入[QA程式]並按一下[傳送]。**&#x200B;**
 
    ![](assets/program-qa-5.png)
 
