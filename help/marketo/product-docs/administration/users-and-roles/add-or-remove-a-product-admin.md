@@ -14,7 +14,7 @@ ht-degree: 9%
 
 >[!NOTE]
 >
->**系統**&#x200B;管理員僅在Adobe組織層級建立。 如果您認為您需要多個專案，請連絡[Adobe支援](https://experienceleague.adobe.com/en/support)。
+>**系統**&#x200B;管理員僅在Adobe組織層級建立。 如果您認為您需要多個專案，請連絡[Adobe支援](https://experienceleague.adobe.com/zh-hant/support)。
 
 ## 新增產品管理員 {#add-a-product-admin}
 
