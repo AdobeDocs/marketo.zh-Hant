@@ -3,7 +3,7 @@ description: Adobe系統管理員新增至Marketo Engage後的初始設定步驟
 title: 管理員設定
 exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
 feature: Marketo with Adobe Identity
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 9e21f8a6a95717b1c9794fd7819a2230105370ec
 workflow-type: tm+mt
 source-wordcount: '229'
 ht-degree: 4%
@@ -20,7 +20,7 @@ ht-degree: 4%
 
    ![](assets/admin-setup-1.png)
 
-1. 如果您先前曾透過Adobe ID存取應用程式，您將會直接進入Adobe Admin Console。 如果沒有，[請設定您的Adobe ID](https://helpx.adobe.com/tw/manage-account/using/create-update-adobe-id.html){target="_blank"}。
+1. 如果您先前曾透過Adobe ID存取應用程式，您將會直接進入Adobe Admin Console。 如果沒有，[請設定您的Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}。
 
    ![](assets/admin-setup-2.png)
 
@@ -56,4 +56,4 @@ ht-degree: 4%
 
 >[!MORELIKETHIS]
 >
->[新增或移除產品管理員](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md){target="_blank"}
+>[新增或移除產品管理員](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-product-admin.md){target="_blank"}
