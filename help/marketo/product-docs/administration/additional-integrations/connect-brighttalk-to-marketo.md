@@ -4,7 +4,7 @@ description: 使用僅限API的使用者認證，透過LaunchPoint將您的 [!DN
 title: 連線 [!DNL BrightTALK] 至Marketo
 exl-id: 5c6a12ec-301b-4dec-975c-24ec759ebb37
 feature: Administration, Integrations
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: acfa5e91f30a90c3bdf349ffe36861d000bf3f51
 workflow-type: tm+mt
 source-wordcount: '289'
 ht-degree: 3%
@@ -33,7 +33,7 @@ ht-degree: 3%
 
 1. 建立[僅限API的使用者角色](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md){target="_blank"}。
 
-1. [使用您在步驟4中建立的](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"} API角色，建立API使用者[!DNL BrightTALK]。
+1. [使用您在步驟4中建立的](/help/marketo/product-docs/administration/users-and-roles/create-api-only-user.md){target="_blank"} API角色，建立API使用者[!DNL BrightTALK]。
 
 1. 返回&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
 
