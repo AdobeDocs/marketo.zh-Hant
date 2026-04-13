@@ -3,7 +3,7 @@ unique-page-id: 11386358
 description: 瞭解用於生產前測試的Marketo Engage沙箱。 使用沙箱例項進行測試，而不會影響生產。
 title: Marketo 沙箱
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: b78d943f59628b0885118f56e0875fd43217da35
 workflow-type: tm+mt
 source-wordcount: '301'
 ht-degree: 1%
@@ -22,7 +22,7 @@ Marketo Engage沙箱是在生產環境中實作之前用於測試用途的額外
 
 ## 沙箱須知 {#things-to-know-about-sandboxes}
 
-* 如果您想要新增使用者，程式與[在生產環境中新增使用者](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md#create-users)相同。 同樣地，如果他們已經擁有Marketo登入資訊，則必須使用不同的電子郵件地址。
+* 如果您想要新增使用者，程式與[在生產環境中新增使用者](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-user#add-a-user)相同。 同樣地，如果他們已經擁有Marketo登入資訊，則必須使用不同的電子郵件地址。
 * 您的Marketo沙箱一開始是空的，但具有與生產執行個體相同的可用功能。
 * 如果您在沙箱中建立計畫並想要將其移至生產環境，您可以執行[計畫匯入](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md)。
 * 沙箱會進行節流，使生產執行個體不會受到測試環境的不利影響。 您最多可以在每次行銷活動執行時傳送20封電子郵件。

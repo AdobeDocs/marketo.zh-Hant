@@ -1,68 +1,36 @@
 ---
 unique-page-id: 2359902
-description: 管理員如何檢視和編輯訂閱的預設位置設定，包括語言、地區設定、時區和貨幣。
-title: 設定訂閱的預設位置設定
+description: 管理員如何檢視和編輯其Marketo Engage訂閱的預設貨幣。
+title: 設定預設貨幣
 exl-id: 9181e22b-be60-4dc0-bc75-f4583ee5dbea
 feature: Administration
-source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
+source-git-commit: b78d943f59628b0885118f56e0875fd43217da35
 workflow-type: tm+mt
-source-wordcount: '233'
-ht-degree: 12%
+source-wordcount: '55'
+ht-degree: 9%
 
 ---
 
-# 設定訂閱的預設位置設定 {#set-default-location-settings-for-a-subscription}
+# 設定預設貨幣 {#set-default-currency}
 
-本文說明管理員如何檢視及編輯訂閱的預設位置設定，包括語言、地區設定及時區。
+瞭解如何檢視和編輯Marketo Engage訂閱的預設貨幣。
 
 >[!NOTE]
 >
->需要管理員許可權。 語言通常不會是管理員會變更的內容。 它會在購買時指定，以便以適當的語言產生訂閱。
-
-## 設定訂閱的預設位置設定 {#set-default-location-settings-for-a-subscription-1}
-
-當管理員變更預設位置設定時，新建立的使用者將繼承這些設定。 使用者可以在個別帳戶中[變更其時區](/help/marketo/product-docs/administration/settings/change-time-zone.md)。
+>**需要系統管理員許可權。**
 
 1. 前往「**[!UICONTROL Admin]**」區域。
 
-   ![](assets/set-default-location-settings-for-a-subscription-1.png)
+   ![](assets/set-default-currency-1.png)
 
 1. 按一下「**[!UICONTROL Location]**」。
 
-   ![](assets/set-default-location-settings-for-a-subscription-2.png)
-
-1. 按一下「**[!UICONTROL Edit]**」。
-
-   ![](assets/set-default-location-settings-for-a-subscription-3.png)
-
-   此訂閱是以英文建立的。 假設您位於倫敦，且想要變更預設地區設定和時區。 地區設定決定數字、日期和時間的格式。
-
-1. 選取&#x200B;**[!UICONTROL Locale]**&#x200B;並將其變更為&#x200B;**[!UICONTROL English (United Kingdom)]**。
-
-   ![](assets/set-default-location-settings-for-a-subscription-4.png)
-
-1. 最後，選擇適當的&#x200B;**[!UICONTROL Time Zone]**。
-
-   ![](assets/set-default-location-settings-for-a-subscription-5.png)
-
-   >[!NOTE]
-   >
-   >適用於[Salesforce.com](https://salesforce.com/)的Marketo Sales Insight支援法文、德文、日文、葡萄牙文和西班牙文。
-
-## 設定訂閱的預設貨幣設定 {#set-the-default-currency-settings-for-a-subscription}
-
-如果您要變更使用者的預設地區設定，您可能也要變更貨幣格式設定。
+   ![](assets/set-default-currency-2.png)
 
 1. 在&#x200B;**[!UICONTROL Edit]**&#x200B;中按一下[!UICONTROL Subscription Currency Settings]。
 
-   ![](assets/set-default-location-settings-for-a-subscription-6.png)
+   ![](assets/set-default-currency-3.png)
 
 1. 選取您選擇的貨幣格式，然後按一下&#x200B;**[!UICONTROL Save]**。
 
-   ![](assets/set-default-location-settings-for-a-subscription-7.png)
-
-   恭喜！您已變更訂閱的位置設定。
-
->[!MORELIKETHIS]
->
->* [變更您的時區](/help/marketo/product-docs/administration/settings/change-time-zone.md)
+   ![](assets/set-default-currency-4.png)

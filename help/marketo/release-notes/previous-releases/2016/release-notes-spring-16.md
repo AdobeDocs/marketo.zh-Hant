@@ -4,7 +4,7 @@ description: 發行說明–2016年春季 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2016年春季
 exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b78d943f59628b0885118f56e0875fd43217da35
 workflow-type: tm+mt
 source-wordcount: '786'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 ![](assets/two.png)
 
-## [電子郵件範本選擇器](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md) {#email-template-picker}
+## [電子郵件範本挑選器](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md) {#email-template-picker}
 
 使用我們新的入門範本建立精美的電子郵件！ 此外，從範本的即時縮圖快速找到您的範本。
 
@@ -85,7 +85,7 @@ Marketo REST API現在支援控制Marketo登陸頁面、登陸頁面範本和表
 
 ![](assets/image2016-5-16-15-3a57-3a14.png)
 
-## [訂閱的有限時間存取](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md) {#limited-time-access-for-subscriptions}
+## 訂閱的有限時間存取 {#limited-time-access-for-subscriptions}
 
 現在，使用者受邀無限期訂閱Marketo。 此功能可讓管理員在有限的時間內邀請使用者訂閱，例如2週或1個月。
 

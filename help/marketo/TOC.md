@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: a6acaad889d49e9db869d812bfc5b41258680719
+source-git-commit: b78d943f59628b0885118f56e0875fd43217da35
 workflow-type: tm+mt
-source-wordcount: '9146'
+source-wordcount: '9129'
 ht-degree: 99%
 
 ---
@@ -168,8 +168,6 @@ ht-degree: 99%
          + [大量匯出 API 資訊](product-docs/administration/settings/bulk-export-api-information.md)
          + [行銷活動檢查器](product-docs/administration/settings/campaign-inspector.md)
          + [變更分析的歸因設定](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
-         + [變更您的 Marketo 密碼](product-docs/administration/settings/change-your-marketo-password.md)
-         + [變更您的密碼安全性設定](product-docs/administration/settings/change-your-password-security-settings.md)
          + [建立人員詳細資料頁面的自訂索引標籤](product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
          + [編輯帳戶設定](product-docs/administration/settings/edit-account-settings.md)
          + [編輯「不追蹤」瀏覽器支援設定](product-docs/administration/settings/edit-do-not-track-browser-support-settings.md)
@@ -185,7 +183,7 @@ ht-degree: 99%
          + [根據 IP 限制 Marketo 登入](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
          + [變更您的時區](product-docs/administration/settings/change-time-zone.md)
          + [設定後援頁面](product-docs/administration/settings/set-a-fallback-page.md)
-         + [設定訂閱的預設位置設定](product-docs/administration/settings/set-default-location-settings-for-a-subscription.md)
+         + [設定預設貨幣](product-docs/administration/settings/set-default-currency.md)
          + [了解隱私權設定](product-docs/administration/settings/understanding-privacy-settings.md)
       + 標記 {#tags}
          + [建立新的方案標記和標記值](product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md)
@@ -201,9 +199,7 @@ ht-degree: 99%
          + [建立僅 API 使用者角色](product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
          + [建立僅 API 使用者](product-docs/administration/users-and-roles/create-api-only-user.md)
          + [建立、刪除、編輯和變更使用者角色](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
-         + [電子郵件驗證](product-docs/administration/users-and-roles/email-verification.md)
          + [匯出使用者和角色清單](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
-         + [管理 Marketo 使用者](product-docs/administration/users-and-roles/managing-marketo-users.md)
          + [管理使用者角色和權限](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
          + [匯出角色和權限](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
          + [角色權限說明](product-docs/administration/users-and-roles/descriptions-of-role-permissions.md)
@@ -1567,7 +1563,7 @@ ht-degree: 99%
          + [使用註冊碼安裝 Outlook 適用的 Marketo 電子郵件增益集](product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)
          + [核發 Marketo 電子郵件增益集授權](product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md)
          + [由 IT 人員進行的 Marketo Outlook 外掛程式安裝](product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-installation-by-it.md)
-         + [由 IT 人員進行的 Marketo Outlook 外掛程式解除安裝 &#x200B;](product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)
+         + [由 IT 人員進行的 Marketo Outlook 外掛程式解除安裝 ](product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)
          + [使用 Outlook 適用的電子郵件增益集傳送及追蹤電子郵件](product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
          + [使用 Marketo 範本從 Outlook 傳送及追蹤](product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
          + [指定 Marketo 銷售洞察外掛程式管理員](product-docs/marketo-sales-insight/msi-outlook-plugin/specify-marketo-sales-insight-plugin-admins.md)
