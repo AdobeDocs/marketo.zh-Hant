@@ -3,11 +3,11 @@ description: 瞭解如何啟用Marketo AI許可權、設定組織規則及管理
 title: 設定與設定
 hide: true
 hidefromtoc: true
-exl-id: d6f37214-65b9-48c1-bf9f-d64b4eda87b9
-source-git-commit: dc2126b2949411a436cb48a91d187ec8b8fa21f2
+exl-id: faf642a1-25f0-4566-b35d-074b003835ed
+source-git-commit: f26e46d4e6cb4855e5eb7f4d34a90f801e9654a7
 workflow-type: tm+mt
-source-wordcount: '339'
-ht-degree: 0%
+source-wordcount: '472'
+ht-degree: 2%
 
 ---
 
@@ -15,19 +15,26 @@ ht-degree: 0%
 
 瞭解如何啟用許可權並使用「設定」區域來檢視連線詳細資料、定義組織規則以及設定整合和通知。
 
-## 權限 {#permissions}
+## 許可權和角色 {#permission-and-role}
+
+有一個具有AI _許可權的_&#x200B;存取組建，以及一個具有AI使用者&#x200B;_角色的_&#x200B;組建，可讓系統管理員在哪些使用者可以存取&#x200B;**具有AI**&#x200B;功能的組建上擁有更大的控制權。 許可權是在角色層級指派。 _具有AI使用者_&#x200B;角色的Build附帶&#x200B;_具有AI_&#x200B;許可權的Access Build，預設為啟用。
 
 >[!IMPORTANT]
 >
->在Marketo AI的Alpha階段中，預設為下列角色啟用&#x200B;_存取權： 「管理員」、「Adobe產品管理員」、「行銷使用者」、「標準使用者」。_&#x200B;因此，您不必針對想要存取的角色將其開啟，而必須針對您不想要的角色將其關閉。
+>預設不會為所有角色啟用具有AI _許可權的_&#x200B;存取組建。 如需詳細資訊，請參閱下表。
 
-### 全部存取 {#access-for-all}
+| 角色 | 預設狀態 |
+| --- | --- |
+| 管理員 | 啟用 |
+| Adobe產品管理員 | 啟用 |
+| 行銷使用者 | 停用 |
+| 標準使用者 | 未提供 |
+| 使用AI使用者建置 | 啟用 |
+| 自訂角色 | 停用 |
 
-如果您想要為上方列出的所有角色啟用Marketo AI，您不必執行任何動作。
+### 具有AI許可權存取組建 {#access-build-with-ai-permission}
 
-### 存取部分 {#access-for-some}
-
-如果您想要移除任何角色的存取權，請遵循下列步驟。
+請依照下列步驟，為尚未啟用&#x200B;_Access Build with AI_&#x200B;的角色啟用它。
 
 1. 在「我的Marketo」中，按一下&#x200B;**管理員**，然後按一下&#x200B;**使用者和角色**。
 
@@ -37,33 +44,37 @@ ht-degree: 0%
 
    ![](assets/settings-setup-2.png)
 
-1. 向下捲動並&#x200B;_取消勾選_ **使用AI存取組建**&#x200B;核取方塊，然後按一下&#x200B;**儲存**。
+1. 向下捲動並勾選&#x200B;_使用AI存取Build_&#x200B;核取方塊，然後按一下&#x200B;**儲存**。
 
    ![](assets/settings-setup-3.png)
 
-對任何其他所需角色重複這些步驟。
+   >[!NOTE]
+   >
+   >您可以使用這些相同的步驟，透過&#x200B;**取消**&#x200B;核取&#x200B;_使用AI存取組建_&#x200B;核取方塊來移除許可權。
 
-### 自訂角色 {#custom-role}
+### 使用AI使用者角色建置 {#build-with-ai-user-role}
 
-您也可選擇[建立新角色](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"}並自訂其許可權、新增&#x200B;_使用AI存取Build_，以及您想要的其他專案，並[將該角色](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}指派給特定使用者。
+依照這些步驟將特定使用者指派給&#x200B;_使用AI使用者_&#x200B;的組建角色。
 
-<!-- ## Permissions {#permissions}
+>[!NOTE]
+>
+>此角色&#x200B;**僅**&#x200B;包含具有AI _許可權的_&#x200B;存取組建。
 
-In order to access Marketo AI, Admins must first enable role permissions. 
-
-1. In your My Marketo, click **Admin**, then **Users & Roles**.
+1. 在「我的Marketo」中，按一下&#x200B;**管理員**，然後按一下&#x200B;**使用者和角色**。
 
    ![](assets/settings-setup-1.png)
 
-1. In the _Roles_ tab, select the desired role and click **Edit Role**.
+1. 選取想要的使用者並按一下&#x200B;**編輯使用者**。
 
-   ![](assets/settings-setup-2.png)
+   ![](assets/settings-setup-5b.png)
 
-1. Scroll down and select the **Access Build with AI** checkbox and click **Save**.
+1. 在&#x200B;_角色和工作區_&#x200B;中，選取&#x200B;_使用AI使用者建置_&#x200B;核取方塊。 如果您有多個工作區，您可以在&#x200B;**+**&#x200B;登入下拉式清單中指定哪些工作區可以取得存取權。 完成時，按一下&#x200B;**儲存**。
 
-   ![](assets/settings-setup-3.png)
+   ![](assets/settings-setup-6b.png)
 
--->
+### 自訂角色 {#custom-role}
+
+您也可選擇[建立新角色](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"}並自訂其許可權、新增&#x200B;_使用AI存取Build_，以及您想要的其他專案，並[將該角色](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}指派給特定使用者。
 
 ## 設定 {#settings}
 
