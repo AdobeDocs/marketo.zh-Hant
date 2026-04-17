@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: 95da11838132f31a2728ca18dca39e781c7c3f44
+source-git-commit: 47389ec9d7974d5f75a68bfbb0e32e8147d8eaaa
 workflow-type: tm+mt
-source-wordcount: '9129'
+source-wordcount: '9132'
 ht-degree: 99%
 
 ---
@@ -61,6 +61,7 @@ ht-degree: 99%
    + MARKETO AI {#marketo-ai}
       + [概觀](product-docs/marketo-ai/overview.md)
       + [設定與設定](product-docs/marketo-ai/settings-setup.md)
+      + [設定與設定](product-docs/marketo-ai/settings-setup-new.md)
       + 專員 {#agents}
          + [匯入銷售機會](product-docs/marketo-ai/agents/import-leads.md)
          + [程式QA](product-docs/marketo-ai/agents/program-qa.md)
@@ -1563,7 +1564,7 @@ ht-degree: 99%
          + [使用註冊碼安裝 Outlook 適用的 Marketo 電子郵件增益集](product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)
          + [核發 Marketo 電子郵件增益集授權](product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md)
          + [由 IT 人員進行的 Marketo Outlook 外掛程式安裝](product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-installation-by-it.md)
-         + [由 IT 人員進行的 Marketo Outlook 外掛程式解除安裝 &#x200B;](product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)
+         + [由 IT 人員進行的 Marketo Outlook 外掛程式解除安裝 ](product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)
          + [使用 Outlook 適用的電子郵件增益集傳送及追蹤電子郵件](product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
          + [使用 Marketo 範本從 Outlook 傳送及追蹤](product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
          + [指定 Marketo 銷售洞察外掛程式管理員](product-docs/marketo-sales-insight/msi-outlook-plugin/specify-marketo-sales-insight-plugin-admins.md)
