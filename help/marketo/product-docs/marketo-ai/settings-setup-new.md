@@ -3,9 +3,9 @@ description: 瞭解如何啟用Marketo AI許可權、設定組織規則及管理
 title: 設定與設定
 hide: true
 hidefromtoc: true
-source-git-commit: 967c0accb8ac82a0b27c03de9d577cf48fb034eb
+source-git-commit: 2e7e068ac53c9f26075d700822fc1f89274dddbe
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '471'
 ht-degree: 2%
 
 ---
@@ -22,38 +22,14 @@ ht-degree: 2%
 >
 >預設不會為所有角色啟用具有AI _許可權的_&#x200B;存取組建。 如需詳細資訊，請參閱下表。
 
-<table><thead>
-  <tr>
-    <th>角色</th>
-    <th>預設狀態</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td>管理員</td>
-    <td>啟用</td>
-  </tr>
-  <tr>
-    <td>Adobe產品管理員</td>
-    <td>啟用</td>
-  </tr>
-  <tr>
-    <td>行銷使用者</td>
-    <td>停用</td>
-  </tr>
-  <tr>
-    <td>標準使用者</td>
-    <td>未提供</td>
-  </tr>
-  <tr>
-    <td>使用AI使用者建置</td>
-    <td>啟用</td>
-  </tr>
-  <tr>
-    <td>自訂角色</td>
-    <td>停用</td>
-  </tr>
-</tbody>
-</table>
+| 角色 | 預設狀態 |
+| --- | --- |
+| 管理員 | 啟用 |
+| Adobe產品管理員 | 啟用 |
+| 行銷使用者 | 停用 |
+| 標準使用者 | 未提供 |
+| 使用AI使用者建置 | 啟用 |
+| 自訂角色 | 停用 |
 
 ### 具有AI許可權存取組建 {#access-build-with-ai-permission}
 
@@ -81,7 +57,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->此角色&#x200B;**僅**&#x200B;包含具有AI _許可權的_&#x200B;存取組建。 如果您希望使用者不僅能存取Marketo AI，請務必新增其他許可權。
+>此角色&#x200B;**僅**&#x200B;包含具有AI _許可權的_&#x200B;存取組建。
 
 1. 在「我的Marketo」中，按一下&#x200B;**管理員**，然後按一下&#x200B;**使用者和角色**。
 
@@ -97,7 +73,7 @@ ht-degree: 2%
 
 ### 自訂角色 {#custom-role}
 
-您也可選擇[建立新角色](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"}並自訂其許可權、新增&#x200B;_使用AI存取Build_，以及您想要的其他專案，並[將該角色](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}指派給特定使用者。
+您也可選擇[建立新角色](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"}並自訂其許可權、新增&#x200B;_使用AI存取Build_，以及您想要的其他專案，並[將該角色](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}指派給特定使用者。
 
 ## 設定 {#settings}
 
