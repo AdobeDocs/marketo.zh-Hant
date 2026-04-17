@@ -3,9 +3,9 @@ description: 瞭解如何啟用Marketo AI許可權、設定組織規則及管理
 title: 設定與設定
 hide: true
 hidefromtoc: true
-source-git-commit: 47389ec9d7974d5f75a68bfbb0e32e8147d8eaaa
+source-git-commit: 967c0accb8ac82a0b27c03de9d577cf48fb034eb
 workflow-type: tm+mt
-source-wordcount: '460'
+source-wordcount: '491'
 ht-degree: 2%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 2%
 
 ## 許可權和角色 {#permission-and-role}
 
-有一個具有AI _許可權的_&#x200B;存取組建，以及一個具有AI _角色的_&#x200B;組建，可讓管理員在哪些使用者可以存取&#x200B;**具有AI**&#x200B;功能的組建上擁有更大的控制權。 許可權是在角色層級指派。 _具有AI_&#x200B;角色的Build隨附&#x200B;_具有AI_&#x200B;許可權的Access Build，預設啟用。
+有一個具有AI _許可權的_&#x200B;存取組建，以及一個具有AI使用者&#x200B;_角色的_&#x200B;組建，可讓系統管理員在哪些使用者可以存取&#x200B;**具有AI**&#x200B;功能的組建上擁有更大的控制權。 許可權是在角色層級指派。 _具有AI使用者_&#x200B;角色的Build附帶&#x200B;_具有AI_&#x200B;許可權的Access Build，預設為啟用。
 
 >[!IMPORTANT]
 >
@@ -79,6 +79,10 @@ ht-degree: 2%
 
 依照這些步驟將特定使用者指派給&#x200B;_使用AI使用者_&#x200B;的組建角色。
 
+>[!NOTE]
+>
+>此角色&#x200B;**僅**&#x200B;包含具有AI _許可權的_&#x200B;存取組建。 如果您希望使用者不僅能存取Marketo AI，請務必新增其他許可權。
+
 1. 在「我的Marketo」中，按一下&#x200B;**管理員**，然後按一下&#x200B;**使用者和角色**。
 
    ![](assets/settings-setup-1.png)
@@ -93,7 +97,7 @@ ht-degree: 2%
 
 ### 自訂角色 {#custom-role}
 
-您也可選擇[建立新角色](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"}並自訂其許可權、新增&#x200B;_使用AI存取Build_，以及您想要的其他專案，並[將該角色](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}指派給特定使用者。
+您也可選擇[建立新角色](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"}並自訂其許可權、新增&#x200B;_使用AI存取Build_，以及您想要的其他專案，並[將該角色](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}指派給特定使用者。
 
 ## 設定 {#settings}
 
