@@ -4,10 +4,10 @@ description: 發行排程 - Marketo 文件 - 產品文件
 title: 發行排程
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 8422914df5727690fd5d4a53209648704529eec8
+source-git-commit: 39ea33ddb4827d1c0824ef871956a4357f0c9fa3
 workflow-type: tm+mt
 source-wordcount: '143'
-ht-degree: 88%
+ht-degree: 85%
 
 ---
 
@@ -33,16 +33,6 @@ _發行日期/功能可能會有所變更_
    <th width="250px">狀態</th>
   </tr>
   <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-sep-25.md">2025 年 9 月</a></td>
-   <td>2025 年 9 月 19 日</td>
-   <td>完成</td>
-  </tr>
-  <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-oct-25.md">2025 年 10 月</a></td>
-   <td>2025 年 10 月 31 日</td>
-   <td>完成</td>
-  </tr>
-  <tr>
   <td><a href="/help/marketo/release-notes/previous-releases/2026/release-notes-jan-26.md">2026 年 1 月</a></td>
    <td>2026 年 1 月 30 日</td>
    <td>完成</td>
@@ -59,12 +49,7 @@ _發行日期/功能可能會有所變更_
   </tr>
   <tr>
   <td>2026 年 5 月</td>
-   <td>2026 年 5 月 1 日</td>
-   <td>準時發行</td>
-  </tr>
-  <tr>
-  <td>2026年5月（第2發行版本）</td>
-   <td>2026年5月22日</td>
+   <td>2026年5月15日</td>
    <td>準時發行</td>
   </tr>
   <tr>
@@ -75,6 +60,21 @@ _發行日期/功能可能會有所變更_
   <tr>
   <td>2026年7月</td>
    <td>2026年7月31日</td>
+   <td>準時發行</td>
+  </tr>
+  <tr>
+  <td>2026年8月</td>
+   <td>2026年8月28日</td>
+   <td>準時發行</td>
+  </tr>
+  <tr>
+  <td>2026年9月</td>
+   <td>2026年9月25日</td>
+   <td>準時發行</td>
+  </tr>
+  <tr>
+  <td>2026年10月</td>
+   <td>2026年10月30日</td>
    <td>準時發行</td>
   </tr>
  </tbody>
