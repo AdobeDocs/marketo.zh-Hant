@@ -1,19 +1,24 @@
 ---
 description: 探索旨在自動化行銷工作（例如方案QA、潛在客戶匯入、資料標準化等）的Marketo Engage AI代理程式套件。
 title: Marketo Engage AI總覽
+beta: true
 hide: true
 hidefromtoc: true
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: 491c2fc587fdeee1cbb65a8022f91c6f7c9a65be
+source-git-commit: 562442b6340d08aef492d4b3576c0d6b5f3d720d
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 3%
+source-wordcount: '283'
+ht-degree: 2%
 
 ---
 
 # Marketo Engage AI總覽 {#overview}
 
 Marketo Engage AI提供許多代理程式，這些代理程式旨在將繁瑣但重要的行銷功能自動化。
+
+>[!NOTE]
+>
+>此功能處於開放Beta版中，目前正在未來幾個月內分階段推出。 當您在「我的Marketo」畫面上看到&#x200B;_使用AI的建置_&#x200B;圖磚，就會知道您的訂閱已啟用此功能。
 
 ## 如何存取 {#access}
 

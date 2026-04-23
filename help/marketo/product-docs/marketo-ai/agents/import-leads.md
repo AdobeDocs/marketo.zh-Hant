@@ -1,12 +1,13 @@
 ---
 description: 瞭解如何使用匯入銷售機會代理程式上傳CSV、套用商業規則、對應欄位，以及將銷售機會直接匯入您的Marketo Engage資料庫。
 title: 匯入銷售機會
+beta: true
 hide: true
 hidefromtoc: true
 exl-id: 6583b93c-71eb-4a07-b25d-11eca834a3ba
-source-git-commit: e74181cdb5498719cfd47fbdfd23c661d7a71406
+source-git-commit: 562442b6340d08aef492d4b3576c0d6b5f3d720d
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -14,6 +15,10 @@ ht-degree: 0%
 # 匯入銷售機會 {#import-leads}
 
 透過欄位對應協助，將潛在客戶清單匯入並刪除重複專案至Marketo Engage資料庫。
+
+>[!NOTE]
+>
+>此功能處於開放Beta版中，目前正在未來幾個月內分階段推出。 當您在「我的Marketo」畫面上看到&#x200B;_使用AI的建置_&#x200B;圖磚，就會知道您的訂閱已啟用此功能。
 
 ## 使用方式 {#how-to-use}
 

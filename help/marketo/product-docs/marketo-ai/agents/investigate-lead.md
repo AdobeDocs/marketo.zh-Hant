@@ -1,9 +1,10 @@
 ---
 description: 即將推出。
 title: 調查銷售機會
+beta: true
 hide: true
 hidefromtoc: true
-source-git-commit: 780e07bfafe72bd69a43c3014522fd1b2a6b9a36
+source-git-commit: 562442b6340d08aef492d4b3576c0d6b5f3d720d
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 1%
