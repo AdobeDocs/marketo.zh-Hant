@@ -1,13 +1,11 @@
 ---
 description: 瞭解如何稽核您的方案以取得所有元件（例如電子郵件、登陸頁面、行銷活動等）的最佳實務。
 title: 程式QA
-beta: true
-hide: true
-hidefromtoc: true
+badge: Beta
 exl-id: 51d4b2d8-44b0-4b51-851f-7cb233baf2d6
-source-git-commit: 562442b6340d08aef492d4b3576c0d6b5f3d720d
+source-git-commit: 14046c287b1b8fcbce32a84e26e14e194916d6b3
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -40,7 +38,7 @@ ht-degree: 0%
 
    ![](assets/program-qa-4.png){width="450" zoomable="yes"}
 
-1. 在提示視窗中，輸入[QA程式]並按一下[傳送]。**&#x200B;**
+1. 在提示視窗中，輸入[QA程式]並按一下[傳送]。****
 
    ![](assets/program-qa-5.png)
 

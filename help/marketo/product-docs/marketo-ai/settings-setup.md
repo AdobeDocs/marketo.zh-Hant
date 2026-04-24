@@ -1,13 +1,11 @@
 ---
 description: 瞭解如何啟用Marketo AI許可權、設定組織規則及管理整合和通知等設定。
 title: 設定與設定
-beta: true
-hide: true
-hidefromtoc: true
+badge: Beta
 exl-id: faf642a1-25f0-4566-b35d-074b003835ed
-source-git-commit: 562442b6340d08aef492d4b3576c0d6b5f3d720d
+source-git-commit: 14046c287b1b8fcbce32a84e26e14e194916d6b3
 workflow-type: tm+mt
-source-wordcount: '513'
+source-wordcount: '557'
 ht-degree: 2%
 
 ---
@@ -33,7 +31,7 @@ ht-degree: 2%
 | 管理員 | 啟用 |
 | Adobe產品管理員 | 啟用 |
 | 行銷使用者 | 停用 |
-| 標準使用者 | 未提供 |
+| 標準使用者 | 無法使用 |
 | 使用AI使用者建置 | 啟用 |
 | 自訂角色 | 停用 |
 
@@ -79,7 +77,7 @@ ht-degree: 2%
 
 ### 自訂角色 {#custom-role}
 
-您也可選擇[建立新角色](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"}並自訂其許可權、新增&#x200B;_使用AI存取Build_，以及您想要的其他專案，並[將該角色](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}指派給特定使用者。
+您也可選擇[建立新角色](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"}並自訂其許可權、新增&#x200B;_使用AI存取Build_，以及您想要的其他專案，並[將該角色](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}指派給特定使用者。
 
 ## 設定 {#settings}
 
