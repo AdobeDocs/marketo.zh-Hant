@@ -90,4 +90,4 @@ Marketo已變更匿名人員與Smart Campaigns互動的方式。 過去，他們
 
 ## 我有更多問題！ 如何獲得解答？ {#i-have-more-questions-how-do-i-get-them-answered}
 
-造訪[Marketo社群](https://experienceleaguecommunities.adobe.com/){target="_blank"}。 您也可以聯絡Marketo支援。 他們很高興回答您的問題。
+造訪[Marketo社群](https://experienceleaguecommunities.adobe.com/?profile.language=zh-Hant){target="_blank"}。 您也可以聯絡Marketo支援。 他們很高興回答您的問題。

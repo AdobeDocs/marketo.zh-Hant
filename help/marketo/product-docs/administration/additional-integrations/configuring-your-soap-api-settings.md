@@ -17,7 +17,7 @@ ht-degree: 22%
 
 >[!IMPORTANT]
 >
->The SOAP API is [being deprecacted](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api) on July 31, 2026. 建議改用[REST API](https://developer.adobe.com/marketo-apis/)。
+>The SOAP API is [being deprecacted](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/soap/soap-api) on July 31, 2026. 建議改用[REST API](https://developer.adobe.com/marketo-apis/)。
 
 >[!NOTE]
 >

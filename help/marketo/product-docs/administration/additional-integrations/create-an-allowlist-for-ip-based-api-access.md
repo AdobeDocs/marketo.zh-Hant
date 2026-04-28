@@ -21,7 +21,7 @@ ht-degree: 15%
 
 >[!CAUTION]
 >
->啟用此功能會使您目前無法存取[Marketo MCP伺服器](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server){target="_blank"}。 預計此問題將在即將發行的版本中解決。
+>啟用此功能會使您目前無法存取[Marketo MCP伺服器](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/mcp-server){target="_blank"}。 預計此問題將在即將發行的版本中解決。
 
 1. 前往「**[!UICONTROL Admin]**」區域。
 
