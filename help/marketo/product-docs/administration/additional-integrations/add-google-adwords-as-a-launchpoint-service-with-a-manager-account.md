@@ -4,16 +4,16 @@ description: 使用LaunchPoint中的管理員帳戶將多個 [!DNL Google AdWord
 title: 將 [!DNL Google AdWords] 新增為具有管理員帳戶的 [!DNL Launchpoint] 服務
 exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
 feature: Administration, Integrations
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '292'
 ht-degree: 7%
 
 ---
 
 # 將[!DNL Google AdWords]新增為具有管理員帳戶的[!DNL Launchpoint]服務 {#add-google-adwords-as-a-launchpoint-service-with-a-manager-account}
 
-將您的[!DNL Google AdWords]帳戶連結至Marketo，以自動將離線轉換資料從Marketo上傳至[!DNL Google AdWords]。 接著，在[!DNL AdWords]中[新增自訂欄](https://support.google.com/adwords/answer/3073556){target="_blank"}後，您就可以從[!DNL AdWords] UI中輕鬆檢視哪些點按導致合格的銷售機會、商機及新客戶（或您要追蹤的任何收入階段）。 此資訊不會出現在Marketo UI中。
+將您的[!DNL Google AdWords]帳戶連結至Marketo，以自動將離線轉換資料從Marketo上傳至[!DNL Google AdWords]。 接著，在[!DNL AdWords]中[新增自訂欄](https://support.google.com/adwords/answer/3073556){target="_blank"}後，您可從[!DNL AdWords] UI檢視哪些點按導致合格的銷售機會、商機及新客戶（或您要追蹤的任何收入階段）。 此資訊不會出現在Marketo UI中。
 
 如果您有多個[!DNL Google Adwords]帳戶，可以使用[[!DNL Google AdWords Manager Account]](https://www.google.com/adwords/manager-accounts/){target="_blank"} （先前稱為[!DNL My Client Center]）將它們與Marketo整合。
 
@@ -63,7 +63,7 @@ ht-degree: 7%
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-7.png)
 
-1. 狀態將顯示為&#x200B;**[!UICONTROL Success]**。 選取「**[!UICONTROL Next]**」。
+1. 狀態顯示為&#x200B;**[!UICONTROL Success]**。 選取「**[!UICONTROL Next]**」。
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-8.png)
 
@@ -92,8 +92,8 @@ ht-degree: 7%
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-12.png)
 
-   現在，請參閱以下相關文章，瞭解如何在您的收入模型中對應[!DNL AdWords]個離線轉換。
+   請參閱以下相關文章，瞭解如何在您的收入模型中對應[!DNL AdWords]個離線轉換。
 
    >[!MORELIKETHIS]
    >
-   >使用經理帳戶在收入模型中設定[轉換 [!DNL Google AdWords] &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md){target="_blank"}
+   >使用經理帳戶在收入模型中設定[轉換 [!DNL Google AdWords] ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md){target="_blank"}

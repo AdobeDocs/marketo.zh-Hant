@@ -4,9 +4,9 @@ description: 將Adobe Connect新增為LaunchPoint服務，讓Marketo可管理網
 title: 將Adobe Connect新增為 [!DNL LaunchPoint] 服務
 exl-id: 21beb156-6674-46a8-bdc5-345fcb4bb272
 feature: Administration, Integrations
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '183'
 ht-degree: 7%
 
 ---
@@ -53,11 +53,11 @@ Marketo會管理您的Adobe Connect網路研討會註冊與出席情況。
 
    >[!TIP]
    >
-   >當您建立參與者密碼時，您選擇的值會在針對事件傳送連結時包含在查詢字串中。 因此，我們建議您讓它更適合客戶。
+   >當您建立參與者密碼時，您選擇的值會在針對事件傳送連結時包含在查詢字串中。 建議您將它設為方便客戶。
 
    >[!NOTE]
    >
-   >登入您的Adobe Connect帳戶後，請選取「**[!UICONTROL Seminars]**」標籤。 無需深入瞭解任何特定研討會，即可將URL從瀏覽器列複製到&#x200B;**[!UICONTROL Meeting Folder URL]**&#x200B;設定。
+   >在您登入Adobe Connect帳戶後，請選取「**[!UICONTROL Seminars]**」標籤。 無需深入瞭解任何特定研討會，即可將URL從瀏覽器列複製到&#x200B;**[!UICONTROL Meeting Folder URL]**&#x200B;設定。
 
 您的Adobe Connect服務現在已與Marketo同步！
 

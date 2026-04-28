@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10098433
-description: Restrict API access to specific IP addresses or ranges via Admin Web Services IP Restrictions.
+description: 透過管理網站服務IP限制，將API存取許可權製為特定IP位址或範圍。
 title: 建立 IP 型 API 存取的允許清單
 exl-id: 1a2f2216-07ee-4d37-b883-458ea39fc452
 feature: Administration
-source-git-commit: d0c8f8d5dda0747a83e4a76004863c650998c75f
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '161'
 ht-degree: 15%
 
 ---
 
 # 建立 IP 型 API 存取的允許清單 {#create-an-allowlist-for-ip-based-api-access}
 
-Sometimes, you want to give API access only to a specific IP address or a range of addresses. To do this, you first enable restrictions, then specify the IP addresses that are allowed to use the APIs.
+有時候，您只想將API存取權授與特定IP位址或某個位址範圍。 若要這麼做，請先啟用限制，然後指定允許使用API的IP位址。
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ Sometimes, you want to give API access only to a specific IP address or a range 
 
 >[!CAUTION]
 >
->Enabling this feature prevents you from being able to access the [Marketo MCP Server](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/mcp-server){target="_blank"} at this time. This will be fixed in an upcoming release.
+>啟用此功能會使您目前無法存取[Marketo MCP伺服器](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server){target="_blank"}。 預計此問題將在即將發行的版本中解決。
 
 1. 前往「**[!UICONTROL Admin]**」區域。
 
@@ -31,19 +31,19 @@ Sometimes, you want to give API access only to a specific IP address or a range 
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-2.png)
 
-1. In the **[!UICONTROL IP Restrictions]** area, click **[!UICONTROL Edit],** or click **[!UICONTROL Edit IP Restrictions]** in the upper left.
+1. 在&#x200B;**[!UICONTROL IP Restrictions]**&#x200B;區域中，按一下&#x200B;**[!UICONTROL Edit]、**&#x200B;或按一下左上方的&#x200B;**[!UICONTROL Edit IP Restrictions]**。
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-3.png)
 
-1. Check the **[!UICONTROL Enable IP Restrictions]** box and enter the IP addresses you want to Allowlist.
+1. 核取&#x200B;**[!UICONTROL Enable IP Restrictions]**&#x200B;方塊並輸入您要加入允許清單的IP位址。
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-4.png)
 
    >[!NOTE]
    >
-   >You can enter a single IP address or a range of them, or use a wildcard.
+   >您可以輸入單一IP位址或位址範圍，或使用萬用字元。
 
-1. Click **[!UICONTROL Add]** to open additional fields to enter more IP addresses.
+1. 按一下&#x200B;**[!UICONTROL Add]**&#x200B;開啟其他欄位以輸入更多IP位址。
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-5.png)
 
