@@ -24,7 +24,7 @@ Marketo Engage電子郵件編輯器提供的功能可協助您變更版面及編
 
 * **變數**：選取模組時，變數會出現在編輯器的右側。 如果模組屬性不容易透過影像或文字元素編輯，可使用這些專案來調整模組。
 
-如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}頁面。
+如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/tw/customers/consulting-services/main.html){target="_blank"}頁面。
 
 ## 模組摘要 {#modules-summary}
 
