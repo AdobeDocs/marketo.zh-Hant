@@ -4,16 +4,16 @@ description: 瞭解如何直接在行銷行事曆中編輯專案。 使用程式
 title: 直接在行銷行事曆中編輯條目
 exl-id: a78e4637-96b4-4771-9f9e-39ff50e11d72
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 9%
+source-wordcount: '180'
+ht-degree: 7%
 
 ---
 
 # 直接在行銷行事曆中編輯條目 {#edit-entries-directly-in-the-marketing-calendar}
 
-一旦進入方案焦點模式，您就可以快速變更行事曆專案。 方法如下。
+一旦進入方案焦點模式，您就可以快速變更行事曆專案。
 
 ## 啟用方案焦點 {#enable-program-focus}
 
@@ -27,7 +27,7 @@ ht-degree: 9%
 
 ## 重新排程專案 {#reschedule-entry}
 
-1. 只要拖放專案以重新排程即可。
+1. 拖放專案以重新排程。
 
    ![](assets/image2014-10-20-13-3a16-3a18.png)
 
@@ -63,7 +63,7 @@ ht-degree: 9%
 
    ![](assets/image2014-10-20-13-3a18-3a48.png)
 
-完成了！如您所見，您可以直接從行銷行事曆執行許多作業。
+您可以直接從「行銷行事曆」執行許多作業。
 
 >[!MORELIKETHIS]
 >

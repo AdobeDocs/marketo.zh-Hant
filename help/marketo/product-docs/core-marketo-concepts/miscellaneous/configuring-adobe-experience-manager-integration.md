@@ -6,7 +6,7 @@ hide: true
 hidefromtoc: true
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
 feature: Integrations
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 10%
@@ -31,7 +31,7 @@ ht-degree: 10%
 
    ![](assets/one.png)
 
-1. 您可以使用Adobe登入或在本機登入。 在此範例中，我們會在本機登入。
+1. 您可以使用Adobe登入或在本機登入。 此範例使用本機登入。
 
    ![](assets/two.png)
 

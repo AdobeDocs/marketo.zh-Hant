@@ -2,10 +2,10 @@
 description: 瞭解Marketo Engage中適用於GDPR、CCPA等的隱私權管理工具。 處理存取和刪除請求以遵守法規。
 title: 隱私權管理
 exl-id: e18a48d7-2961-4133-8540-8512ea181fe0
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '393'
-ht-degree: 1%
+source-wordcount: '439'
+ht-degree: 0%
 
 ---
 
@@ -28,7 +28,7 @@ Marketo Engage提供一套工具，以協助您遵守隱私權法規。
 Marketo Engage的功能可協助您遵守下列法規：
 
 * **[!DNL GDPR]** [一般資料保護規範](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-does-general-data-protection-regulation-gdpr-govern_en)是歐盟(EU)的隱私權法律，其可為歐盟國家協調資料保護要求並以現代化方式規範資料保護要求。
-* **[!DNL CCPA]** [加州消費者隱私保護法](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CIV&division=3.&title=1.81.5。&part=4。&chapter=&article=)為加州居民提供個人資訊方面的權利，並對在加州經營業務的特定實體賦予資料保護責任。
+* **[!DNL CCPA]** [加州消費者隱私保護法](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CIV&division=3.&title=1.81.5.&part=4.&chapter=&article=)為加州居民提供個人資訊方面的權利，並對在加州經營業務的特定實體賦予資料保護責任。
 * **[!DNL PDPA]** [個人資料保護法](https://secureprivacy.ai/thailand-pdpa-summary-what-businesses-need-to-know/)是隱私權法律，協調泰國的資料保護要求並以現代化方式加以規範。
 * **[!DNL LGPD]** [Lei Geral de Proteção de Dados](https://iapp.org/media/pdf/resource_center/Brazilian_General_Data_Protection_Law.pdf)自2021年初生效，所有於巴西收集或處理個人資料的公司皆適用。
 * **[!DNL NZPA]** [2020年隱私權法案](https://www.legislation.govt.nz/act/public/2020/0031/latest/LMS23223.html)是隱私權法律，協調紐西蘭的資料保護要求並以現代化方式加以規範。
@@ -40,6 +40,6 @@ Marketo Engage的功能可協助您遵守下列法規：
 為協助您加速隱私權準備，Marketo Engage可讓您處理&#x200B;**存取**&#x200B;和&#x200B;**刪除**&#x200B;要求。
 
 * **存取許可權**&#x200B;是指資料主體有權從資料控制方取得關於其個人資料是否正在處理、處理地點及基於何種目的的確認。 資料控制方應免費提供電子格式的個人資料副本。
-* **被遺忘的權利** （刪除要求）也稱為「資料抹除」，其可賦予「資料主體」權利，讓資料庫控制方得以清除其個人資料、停止進一步散發資料，並可能讓第三方停止處理資料。
+* **被遺忘的權利** （刪除要求）也稱為「資料抹除」，其可賦予資料主體權利，讓資料庫控制人員得以清除其個人資料、停止進一步散發資料，並可能讓第三方停止處理資料。
 
-若要瞭解如何建立存取/刪除要求，以及我們如何處理這些要求，請參閱[本文章](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md)。
+若要瞭解如何建立存取或刪除要求，以及如何處理這些要求，請參閱[本文章](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md)。

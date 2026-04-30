@@ -3,10 +3,10 @@ unique-page-id: 11386358
 description: 瞭解用於生產前測試的Marketo Engage沙箱。 使用沙箱例項進行測試，而不會影響生產。
 title: Marketo 沙箱
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
-source-git-commit: 9d8baf635462f287a05955b8563bf7866049d94a
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '301'
-ht-degree: 1%
+source-wordcount: '306'
+ht-degree: 3%
 
 ---
 
@@ -29,11 +29,11 @@ Marketo Engage沙箱是在生產環境中實作之前用於測試用途的額外
 
 >[!CAUTION]
 >
->目前不支援Marketo Dynamics _或_ Salesforce同步處理的沙箱重新整理。 如果您需要重新整理CRM沙箱，則需要新的Marketo沙箱。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
+>目前不支援Marketo Dynamics _或_ Salesforce Sync的沙箱重新整理。 如果您需要重新整理CRM沙箱，則需要新的Marketo沙箱。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
 
 ## 執行個體複製 {#instance-copy}
 
-您可以提交支援案例，要求一次性執行個體副本以填滿沙箱。 不過，執行個體副本不會帶入&#x200B;_所有_。 如需詳細資訊，請參閱[Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support)。
+您可以提交支援案例，要求一次性執行個體副本以填滿沙箱。 不過，執行個體副本不會帶入&#x200B;_所有_。 如需詳細資料，請連絡[Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support)。
 
 >[!NOTE]
 >

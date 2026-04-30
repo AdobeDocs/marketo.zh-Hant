@@ -1,18 +1,20 @@
 ---
 unique-page-id: 1147318
 description: 取得有關Marketo鍵盤快速鍵的協助，以進行區域導覽、行事曆等。 使用捷徑在Marketo Engage中更快速移動。
+hide: true
+hidefromtoc: true
 title: 鍵盤快速鍵字彙表
 exl-id: ca85bd0f-5ed3-4ae2-a20b-ef3151609f83
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '129'
 ht-degree: 15%
 
 ---
 
 # 鍵盤快速鍵字彙表 {#keyboard-shortcuts-glossary}
 
-您是鍵盤快速鍵使用者嗎？ 我們為您提供支援！
+使用這些鍵盤快速鍵可更快速地導覽Marketo。
 
 ## 區域導覽 {#area-navigation}
 
@@ -41,4 +43,4 @@ ht-degree: 15%
 |---|---|
 | ESC | 關閉快顯視窗 |
 | 傳回/輸入 | 提交快顯視窗 |
-| Ctrl + Alt/Opt + H | 在表單編輯器中隱藏/取消隱藏欄位 |
+| Ctrl + Alt/Opt + H | 在表單編輯器中隱藏或取消隱藏欄位 |

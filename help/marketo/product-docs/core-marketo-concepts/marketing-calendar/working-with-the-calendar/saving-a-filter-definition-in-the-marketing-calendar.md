@@ -4,10 +4,10 @@ description: 瞭解如何在行銷行事曆中儲存篩選器定義。 儲存篩
 title: 在行銷行事曆中儲存篩選器定義
 exl-id: 66346207-6e8d-472d-971c-31417bd5210b
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 18%
+source-wordcount: '88'
+ht-degree: 19%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 18%
 
    ![](assets/image2014-9-24-10-3a51-3a12.png)
 
-   您可以[將定義復本](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}傳送給其他Marketo使用者。
+   選擇性地將定義的復本[傳送給其他Marketo使用者。](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}
 
    >[!NOTE]
    >

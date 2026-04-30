@@ -4,16 +4,16 @@ description: 瞭解如何刪除行銷行事曆簡報。 移除舊的簡報，為
 title: 刪除簡報
 exl-id: 027d6d68-c2b6-4424-bc69-77d047d62359
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 17%
+source-wordcount: '42'
+ht-degree: 21%
 
 ---
 
 # 刪除簡報 {#delete-a-presentation}
 
-有時候，您可能會有太多好事。 刪除舊簡報以騰出空間給新簡報使用！
+刪除舊簡報以騰出空間給新簡報使用。
 
 1. 選取簡報。
 

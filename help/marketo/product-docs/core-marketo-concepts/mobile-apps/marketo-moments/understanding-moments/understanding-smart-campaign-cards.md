@@ -4,9 +4,9 @@ description: 瞭解Marketo時刻中的Smart Campaign卡片。 從行動應用程
 title: 了解智慧行銷活動資訊卡
 exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '560'
+source-wordcount: '577'
 ht-degree: 1%
 
 ---
@@ -43,7 +43,7 @@ ht-degree: 1%
 
    ![](assets/image2015-9-21-13-3a37-3a20.png)
 
-1. 現在您會看到Smart Campaign的流程。 此行銷活動只有一個流程步驟，但可以有多個步驟。
+1. 此處顯示Smart Campaign的流程。 此行銷活動只有一個流程步驟，但可以有多個步驟。
 
    ![](assets/image2015-9-22-15-3a8-3a12.png)
 
@@ -55,7 +55,7 @@ ht-degree: 1%
 
    ![](assets/image2015-9-21-13-3a59-3a29.png)
 
-1. 看到底部的那兩個點了嗎？ 其表示有兩個電子郵件連線至此Smart Campaign。 若要檢視其他電子郵件的結果，請將畫面向左撥動。 以下是第二封電子郵件的結果。
+1. 底部的兩個點表示有兩個電子郵件連線至此Smart Campaign。 若要檢視其他電子郵件的結果，請將畫面向左撥動。 以下是第二封電子郵件的結果。
 
    ![](assets/image2015-9-21-14-3a4-3a51.png)
 
@@ -93,7 +93,7 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >現在您的卡片會變成橘色！
+   >卡片會變成橘色。
 
 ## 取消Smart Campaign執行 {#canceling-a-smart-campaign-run}
 
@@ -127,8 +127,6 @@ ht-degree: 1%
 
    ![](assets/image2015-9-22-14-3a16-3a56.png)
 
-   小菜一碟！
-
 ## 其他Smart Campaign動作 {#other-smart-campaign-actions}
 
 就像其他Marketo「時刻」卡片一樣，您可以點選任何Smart Campaign卡片或詳細資訊卡片上的三個點，以便：
@@ -145,4 +143,4 @@ ht-degree: 1%
 
 ## 快速刪除智慧行銷活動資訊卡 {#quickly-delete-a-smart-campaign-card}
 
-如果您有不再需要的卡片，可能是用於測試的卡片，您可以向左或向右快速撥動以將其移除。
+如果您有不再需要的卡片，可能是用於測試的卡片，您可以向左或向右快速滑動以將其移除。

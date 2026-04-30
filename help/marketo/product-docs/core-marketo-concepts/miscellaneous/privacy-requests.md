@@ -2,10 +2,10 @@
 description: 瞭解如何在Marketo中管理存取和刪除的隱私權請求。 透過Privacy Service UI或API提交請求，並處理消費者資料。
 title: 隱私請求
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '353'
-ht-degree: 15%
+source-wordcount: '371'
+ht-degree: 20%
 
 ---
 
@@ -25,12 +25,10 @@ ht-degree: 15%
 
 您可以透過兩種方式提交存取和刪除Marketo Engage中消費者資料的個別請求：
 
-* 透過Privacy Service UI： `https://experience.adobe.com/#/@YOURCOMPANYNAME/privacy`。 請參閱[此處](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=zh-Hant){target="_blank"}的文件。
+* 透過Privacy Service UI： `https://experience.adobe.com/#/@YOURCOMPANYNAME/privacy`。 請參閱[此處](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html){target="_blank"}的文件。
 * 透過Privacy Service API。 請參閱[此處](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"}的文件與[此處](https://developer.adobe.com/experience-platform-apis/){target="_blank"}的 API 資訊。
 
 [Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=zh-Hant){target="_blank"}支援兩種請求：資料存取和資料刪除。
-
-讓我們看看如何建立存取和刪除請求。
 
 ## 傳送Marketo Engage請求所需的設定 {#required-setup-to-send-requests-for-marketo-engage}
 
@@ -38,10 +36,10 @@ ht-degree: 15%
 
 1. 識別下列項目：
 
-   a. IMS組織ID<br/>
-b.您要對其採取動作之人員的電子郵件地址
+   答： IMS 組織 ID<br/>
+b. 您要對其採取動作之人員的電子郵件地址
 
-   IMS 組織 ID 是 24 個字元的英數字串，通常會加上 @AdobeOrg。 如果您的行銷團隊或內部Adobe系統管理員不知道您組織的IMS組織ID，請透過`gdprsupport@adobe.com`聯絡Adobe客戶服務。 您需先取得 IMS 組織 ID，才能向隱私權 API 提交請求。
+   IMS 組織 ID 是 24 個字元的英數字串，通常會加上 @AdobeOrg。 如果您的行銷團隊或內部Adobe系統管理員不知道您組織的IMS組織ID，請透過`gdprsupport@adobe.com`聯絡Adobe支援。 您需先取得 IMS 組織 ID，才能向隱私權 API 提交請求。
 
 1. 在Privacy Service中，您可以將存取和刪除請求提交至Marketo Engage，並檢查現有請求的狀態。
 

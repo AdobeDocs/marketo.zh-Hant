@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953364
 description: 瞭解方案焦點讓您與行銷行事曆專案互動的方式。 啟用專注在方案上以建立、編輯、刪除或確認專案。
-title: 了解/啟用方案焦點
+title: 瞭解並啟用方案焦點
 exl-id: 90de3d93-d243-451d-8df3-5e2732919615
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 4%
+source-wordcount: '166'
+ht-degree: 0%
 
 ---
 
-# 了解/啟用方案焦點 {#understand-enable-program-focus}
+# 瞭解並啟用方案焦點 {#understand-enable-program-focus}
 
 「行銷行事曆」可讓您以鳥瞰的方式檢視事物，但也可進行一些互動。 您可以[建立](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"}、[編輯](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}、[刪除](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md){target="_blank"}和[確認](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md){target="_blank"}專案。 為了與專案互動，您必須先專注於方案。
 
@@ -23,7 +23,7 @@ ht-degree: 4%
 
    ![](assets/image2014-10-20-13-3a24-3a3.png)
 
-1. 請注意，我們現在專注於名為「新聞稿」的計畫。
+1. 此計畫的重點現在是「新聞稿」。
 
    ![](assets/image2014-10-20-13-3a24-3a15.png)
 
@@ -31,11 +31,11 @@ ht-degree: 4%
    >
    >聚焦於方案可讓您僅與屬於該方案的專案互動，並建立該方案將容納的新專案。
 
-1. 完成後，請釋放焦點以與其他計畫/專案互動。
+1. 完成後，請釋放焦點以與其他程式或專案互動。
 
    ![](assets/image2014-10-20-13-3a24-3a24.png)
 
-棒極了！ 現在開始學習與登入點互動。
+使用下列連結瞭解如何與專案互動。
 
 >[!MORELIKETHIS]
 >

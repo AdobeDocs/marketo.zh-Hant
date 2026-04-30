@@ -4,9 +4,9 @@ description: 瞭解如何將背景影像新增至行銷行事曆簡報。 從資
 title: 新增背景影像至簡報
 exl-id: 3ca33701-0f94-448a-8ecc-45d0b2bfb38e
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '102'
 ht-degree: 13%
 
 ---
@@ -39,8 +39,7 @@ ht-degree: 13%
 
    ![](assets/image2015-3-24-14-3a47-3a57.png)
 
-1. 按一下&#x200B;**[!UICONTROL Preview]**&#x200B;以取出。
+1. 按一下&#x200B;**[!UICONTROL Preview]**&#x200B;以預覽。
 
    ![](assets/image2015-3-24-14-3a51-3a1.png)
 
-   就是這樣！

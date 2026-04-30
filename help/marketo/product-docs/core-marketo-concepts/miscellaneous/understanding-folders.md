@@ -3,9 +3,9 @@ unique-page-id: 4720779
 description: 瞭解用於組織Smart Campaigns和資產的方案內的資料夾。 建立、重新命名和刪除資料夾。
 title: 了解資料夾
 exl-id: 2ea914f6-ca64-4e87-806c-93beba075ab2
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '259'
 ht-degree: 8%
 
 ---
@@ -28,11 +28,9 @@ ht-degree: 8%
 
    ![](assets/image2015-4-20-18-3a46-3a57.png)
 
-太棒了！ 現在您已擁有儲存本機資產的新資料夾。
+新資料夾現在已可供您的本機資產使用。
 
 ## 重新命名資料夾 {#rename-a-folder}
-
-您可以改變心意。
 
 1. 以滑鼠右鍵按一下資料夾，然後選取 **[!UICONTROL Rename Folder]**。
 
@@ -46,7 +44,7 @@ ht-degree: 8%
 
 >[!NOTE]
 >
->在刪除資料夾之前，請確定資料夾是空的。
+>刪除資料夾之前，請確定資料夾是空的。
 
 1. 以滑鼠右鍵按一下資料夾，然後選取 **[!UICONTROL Delete Folder]**。
 

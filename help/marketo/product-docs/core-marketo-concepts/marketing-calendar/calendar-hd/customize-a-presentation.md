@@ -4,9 +4,9 @@ description: 瞭解如何使用檢視和目標自訂行銷行事曆簡報。 設
 title: 自訂簡報
 exl-id: c871afb9-9762-498d-b168-cfce4ef05736
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '273'
 ht-degree: 2%
 
 ---
@@ -36,7 +36,7 @@ ht-degree: 2%
 
 ## 新增目標 {#add-a-goal}
 
-簡報在顯示團隊目標時是最棒的。 只要拖曳到不同的[自訂目標](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md){target="_blank"}或[智慧清單目標](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md){target="_blank"}上即可。 您最多可以使用10個。
+簡報在顯示團隊目標時最有效。 拖曳至不同的[自訂目標](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md){target="_blank"}或[智慧清單目標](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md){target="_blank"}。 您最多可以使用10個。
 
 1. 從右邊的樹狀結構中，拖曳您要在簡報中顯示的不同目標。
 
@@ -44,7 +44,7 @@ ht-degree: 2%
 
 ## 設定旋轉頻率 {#set-the-frequency-of-rotation}
 
-一旦您將您要的檢視拉入到簡報中，請設定它在不同檢視之間旋轉的頻率。
+提取檢視之後，請設定在不同檢視之間旋轉的頻率。
 
 1. 按一下&#x200B;**[!UICONTROL 5 minutes]** （這是預設步調）。
 
@@ -66,11 +66,9 @@ ht-degree: 2%
 
    ![](assets/image2015-3-18-13-3a27-3a37.png)
 
-   棒極了！ 準備好觀看您的簡報了嗎？
-
 >[!TIP]
 >
->設定簡報的[背景影像](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md){target="_blank"}。 我們建議使用小貓或彩虹。
+>設定簡報的[背景影像](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md){target="_blank"}。
 
 ## 預覽簡報 {#preview-a-presentation}
 
@@ -80,11 +78,11 @@ ht-degree: 2%
 
    ![](assets/image2015-3-18-13-3a37-3a55.png)
 
-   太棒了！ 這是簡報的外觀。
+   這是簡報的外觀。
 
    ![](assets/image2015-3-24-14-3a29-3a29.png)
 
-   不喜歡您看到的內容？ 返回並使用不同的篩選器定義來建立您喜歡的檢視。
+   若要調整檢視，請使用不同的篩選定義。
 
 >[!MORELIKETHIS]
 >

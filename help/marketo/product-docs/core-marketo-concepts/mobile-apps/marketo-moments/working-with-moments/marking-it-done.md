@@ -4,10 +4,10 @@ description: 瞭解如何在Marketo時刻應用程式中將時刻標示為完成
 title: 標記為完成
 exl-id: 0abac320-da3b-4ab8-a1ce-28e5e17f4d15
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 5%
+source-wordcount: '169'
+ht-degree: 4%
 
 ---
 

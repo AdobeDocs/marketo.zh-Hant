@@ -4,7 +4,7 @@ description: 瞭解如何在HDTV上建立專案檢視的行銷行事曆簡報。
 title: 建立簡報
 exl-id: 3a591c03-2604-44be-b335-2258151beaeb
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 7%
@@ -36,7 +36,7 @@ ht-degree: 7%
 
    ![](assets/image2015-3-18-12-3a32-3a30.png)
 
-   做得好！ 現在您已準備好自訂您的簡報。
+   簡報現在已準備好進行自訂。
 
 >[!MORELIKETHIS]
 >

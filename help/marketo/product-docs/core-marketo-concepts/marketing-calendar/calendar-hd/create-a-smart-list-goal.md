@@ -4,16 +4,16 @@ description: 瞭解如何在行銷行事曆中建立智慧清單目標。 使用
 title: 建立智慧清單目標
 exl-id: 3b6690b5-7dd1-46b2-b3f2-254439623f91
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '145'
 ht-degree: 10%
 
 ---
 
 # 建立智慧清單目標 {#create-a-smart-list-goal}
 
-目標是追蹤進度和激勵團隊的方法。 它們可與智慧清單結合，以追蹤Marketo中的所有各種專案。 此外，在您設定智慧清單目標後，它將在簡報中使用時，每兩小時自動更新。
+目標是追蹤進度和激勵團隊的方法。 它們可與智慧列示結合，以追蹤Marketo中的各種量度。 此外，設定智慧列示目標後，每隔2小時在簡報中使用它時，就會自動更新。
 
 如同簡報，目標是[工作區](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)特定的。
 
@@ -37,14 +37,14 @@ ht-degree: 10%
 
    ![](assets/image2015-3-24-12-3a50-3a6.png)
 
-1. [定義智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)。 無限的可能性！
+1. [定義智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)。
 
    ![](assets/mql.png)
 
-1. 設定好智慧清單後，按一下&#x200B;**[!UICONTROL Close]**&#x200B;按鈕並返回上一個標籤。
+1. 設定智慧列示後，按一下&#x200B;**[!UICONTROL Close]**&#x200B;按鈕並返回上一個標籤。
 
    ![](assets/mql2.png)
 
-   看看這個！ 已建立您的智慧清單目標。
+   已建立智慧清單目標。
 
    ![](assets/image2015-3-24-13-3a0-3a35.png)

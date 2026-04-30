@@ -3,9 +3,9 @@ unique-page-id: 2952292
 description: 瞭解有關Campaign失敗和CRM同步的Marketo Engage通知。 訂閱以透過電子郵件取得警報，並保持在最新狀態。
 title: 了解通知
 exl-id: c47b10ae-cca0-427d-88e3-8f5f84aa5467
-source-git-commit: ea341c472b6e4ac81edd60e269916f0451b94152
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '240'
 ht-degree: 3%
 
 ---
@@ -42,10 +42,10 @@ ht-degree: 3%
 
 >[!NOTE]
 >
->_[!UICONTROL Send to]_&#x200B;方塊僅供您輸入電子郵件地址；它不會顯示現有訂閱者的清單。
+>_[!UICONTROL Send to]_方塊僅供您輸入電子郵件地址；它不會顯示現有訂閱者的清單。
 
 在某些情況下，通知會提供「檢視完整清單」連結來下載逗號分隔值(CSV)檔案，例如Microsoft Dynamics同步錯誤檔案。 Marketo Engage會將這些CSV檔案保留30天。 如果您在30天後嘗試下載檔案，則會發生錯誤。
 
 >[!TIP]
 >
->要取消訂閱通知電子郵件嗎？ 沒問題。 只要按一下通知電子郵件底部的&#x200B;**[!UICONTROL unsubscribe from notifications]**&#x200B;連結即可。
+>若要取消訂閱通知電子郵件，請按一下通知電子郵件底部的&#x200B;**[!UICONTROL unsubscribe from notifications]**&#x200B;連結。

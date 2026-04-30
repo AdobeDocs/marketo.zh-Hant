@@ -3,16 +3,16 @@ unique-page-id: 2952484
 description: 瞭解如何在Marketo Engage中重新命名資料夾、程式和本機資產。
 title: 重新命名 Marketo 資產
 exl-id: 2c8a64fc-663d-4953-b66c-4055e07f1404
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '84'
 ht-degree: 10%
 
 ---
 
 # 重新命名 Marketo 資產 {#rename-a-marketo-asset}
 
-資料夾、程式和本機資產都可輕鬆重新命名。
+資料夾、程式和本機資產都可以重新命名。
 
 1. 選取您要重新命名的資產，然後按一下右側面板名稱區塊。
 
