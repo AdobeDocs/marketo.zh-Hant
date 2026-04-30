@@ -4,10 +4,10 @@ description: 瞭解如何管理和檢視方案成員。 檢視您的程式中的
 title: 管理和檢視成員
 exl-id: 8d6ad815-4022-4d4b-a258-2bc048ca48f9
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '250'
-ht-degree: 5%
+source-wordcount: '245'
+ht-degree: 6%
 
 ---
 
@@ -79,11 +79,9 @@ ht-degree: 5%
 
    ![](assets/image2014-10-1-16-3a47-3a45.png)
 
-   這可能需要一段時間。 全部完成後，您將會看到以下訊息！
+   這可能需要一段時間。 當程式完成時，會顯示以下訊息。
 
    ![](assets/changestatusconfirm.png)
-
-功能眾多，但都相當簡單明瞭。 祝您使用愉快！
 
 >[!MORELIKETHIS]
 >

@@ -4,10 +4,10 @@ description: 瞭解如何在方案排程檢視中移動專案。 拖放以重新
 title: 在方案排程視圖中移動條目
 exl-id: 6df2cb23-99d1-4b72-8a1d-ff4466597e8b
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 15%
+source-wordcount: '83'
+ht-degree: 16%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 15%
 
    ![](assets/image2014-9-18-17-3a47-3a23.png)
 
-1. 然後我們的資料擷取器會取消核准、變更日期並重新核准資產。 他很酷。
+1. Marketo會自動取消核准、變更日期並重新核准資產。
 
    ![](assets/image2014-9-18-17-3a47-3a35.png)
 

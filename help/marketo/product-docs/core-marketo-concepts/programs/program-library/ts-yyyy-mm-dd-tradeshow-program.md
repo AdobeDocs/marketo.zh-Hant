@@ -3,10 +3,10 @@ description: 商展計畫範本。 將其用於命名一致的事件和商展。
 title: TS-YYYY-MM-DD-商展方案
 feature: Programs
 exl-id: 39ef8d6e-392b-456e-a925-b1f6c2cb81d8
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '416'
-ht-degree: 11%
+source-wordcount: '440'
+ht-degree: 12%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 11%
 
 這是商展計畫的範例，包含利用Marketo Engage活動計畫的邀請和後續電子郵件。
 
-如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/tw/customers/consulting-services/main.html){target="_blank"}頁面。
+如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}頁面。
 
 ## 頻道摘要 {#channel-summary}
 
@@ -32,7 +32,7 @@ ht-degree: 11%
    <br/>02已輪候
    <br/>03已註冊
    <br/>04個造訪的攤位
-   <br/>05參與在展示 — 成功
+   <br/>05參與在節目 — 成功
    <br/>06參與發佈會 — 成功</td>
    <td>包含</td>
    <td>事件</td>
@@ -62,48 +62,48 @@ ht-degree: 11%
   <tr>
   <tr>
    <td>本地報告</td>
-   <td>  </td>
+   <td> </td>
    <td>電子郵件效能</td>
   </tr>
   <tr>
    <td>本地報告</td>
-   <td>  </td>
+   <td> </td>
    <td>計畫績效</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td>  </td>
+   <td> </td>
    <td>00 — 擷取贏取計畫</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td>  </td>
+   <td> </td>
    <td>01 — 傳送邀請</td>
   </tr>
    <tr>
    <td>智慧行銷活動</td>
-   <td>  </td>
+   <td> </td>
    <td>02 — 傳送後續追蹤電子郵件</td>
   </tr>
    <tr>
    <td>智慧行銷活動</td>
-   <td>  </td>
+   <td> </td>
    <td>03 — 透過後續追蹤電子郵件參與（成功）</td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td>  </td>
+   <td> </td>
    <td>Assets — 容納所有創意資產
 <br/>（電子郵件和登陸頁面的子資料夾）</td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td>  </td>
+   <td> </td>
    <td>行銷活動 — 容納所有智慧行銷活動</td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td>  </td>
+   <td> </td>
    <td>報告</td>
   </tr>
  </tbody>
@@ -118,7 +118,7 @@ ht-degree: 11%
   <tr>
    <th>權杖型別</th>
    <th>代號名稱</th>
-   <th>值</th>
+   <th>價值</th>
   </tr>
   <tr>
    <td>行事曆檔案</td>
@@ -211,7 +211,7 @@ ht-degree: 11%
 
 >[!TIP]
 >
->別忘了啟用「03 — 透過追蹤電子郵件參與（方案成功）」行銷活動以追蹤成功！ 請在&#x200B;_之前執行此動作，您的電子郵件已寄出。_
+>在傳送電子郵件之前，啟用「03 — 依後續電子郵件參與（方案成功）」行銷活動以追蹤成功。
 
 >[!IMPORTANT]
 >

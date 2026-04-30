@@ -3,10 +3,10 @@ description: 單一電子郵件傳送方案範本。 使用它來傳送具有明
 title: EM-YYYY-MM-DD-單封電子郵件傳送
 feature: Programs
 exl-id: 58782d4c-658b-42cd-9ca3-fa53c7476e48
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '290'
-ht-degree: 10%
+source-wordcount: '309'
+ht-degree: 11%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 10%
 
 此範例利用Marketo Engage電子郵件程式傳送一封電子郵件。 電子郵件可以包含或不包含A/B測試。
 
-如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/tw/customers/consulting-services/main.html){target="_blank"}頁面。
+如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}頁面。
 
 ## 頻道摘要 {#channel-summary}
 
@@ -52,34 +52,34 @@ ht-degree: 10%
   </tr>
   <tr>
    <td>本地報告</td>
-   <td>  </td>
+   <td> </td>
    <td>電子郵件效能</td>
   </tr>
   <tr>
    <td>本地報告</td>
-   <td>  </td>
+   <td> </td>
    <td>電子郵件連結效能</td>
   </tr>
   <tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td>  </td>
+   <td> </td>
    <td>01參與（計畫成功）</td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td>  </td>
+   <td> </td>
    <td>Assets — 容納所有創意資產
 <br/>（電子郵件和登陸頁面的子資料夾）  </td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td>  </td>
+   <td> </td>
    <td>行銷活動 — 容納所有智慧行銷活動</td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td>  </td>
+   <td> </td>
    <td>報告</td>
   </tr>
  </tbody>
@@ -144,4 +144,4 @@ ht-degree: 10%
 
 >[!TIP]
 >
->別忘了啟動「01參與」行銷活動以追蹤成功！ _before_&#x200B;請執行此動作。您的表單已上線且已傳送電子郵件。
+>在您的表單上線並傳送電子郵件之前，啟動「01參與」行銷活動以追蹤成功。

@@ -3,10 +3,10 @@ description: 事件計畫範本。 使用它來執行具有一致命名結構的
 title: EV-YYYY-MM-DD-事件方案
 feature: Programs
 exl-id: 999a82ae-6637-40bf-96c0-62183cb0a197
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '570'
-ht-degree: 16%
+source-wordcount: '600'
+ht-degree: 17%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 16%
 
 此範例為具有註冊頁面的活動計畫、三封邀請電子郵件，以及利用Marketo Engage活動計畫的後續電子郵件。 適合您需要註冊的所有活動，包括路演、午餐、晚宴或展銷活動簡報。
 
-如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/tw/customers/consulting-services/main.html){target="_blank"}頁面。
+如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}頁面。
 
 ## 頻道摘要 {#channel-summary}
 
@@ -95,73 +95,73 @@ ht-degree: 16%
   </tr>
   <tr>
    <td>表單</td>
-   <td>  </td>
+   <td> </td>
    <td>FM事件註冊</td>
   </tr>
   <tr>
    <td>本地報告</td>
-   <td>  </td>
+   <td> </td>
    <td>電子郵件效能</td>
   </tr>
   <tr>
    <td>本地報告</td>
-   <td>  </td>
+   <td> </td>
    <td>登陸頁面績效</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td>  </td>
+   <td> </td>
    <td>00 — 擷取贏取計畫</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td>  </td>
+   <td> </td>
    <td>01 — 程式註冊</td>
   </tr>
    <tr>
    <td>智慧行銷活動</td>
-   <td>  </td>
+   <td> </td>
    <td>02a — 傳送邀請</td>
   </tr>
    <tr>
    <td>智慧行銷活動</td>
-   <td>  </td>
+   <td> </td>
    <td>02b — 傳送邀請提醒</td>
   </tr>
    <tr>
    <td>智慧行銷活動</td>
-   <td>  </td>
+   <td> </td>
    <td>02c — 傳送邀請最後機會</td>
   </tr>
    <tr>
    <td>智慧行銷活動</td>
-   <td>  </td>
+   <td> </td>
    <td>03 — 傳送出席提醒</td>
   </tr>
    <tr>
    <td>智慧行銷活動</td>
-   <td>  </td>
+   <td> </td>
    <td>04 — 已出席（計畫成功）</td>
   </tr>
    <tr>
    <td>智慧行銷活動</td>
-   <td>  </td>
+   <td> </td>
    <td>05 — 傳送後續追蹤電子郵件</td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td>  </td>
+   <td> </td>
    <td>Assets — 容納所有創意資產
 <br/>（電子郵件和登陸頁面的子資料夾）</td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td>  </td>
+   <td> </td>
    <td>行銷活動 — 容納所有智慧行銷活動</td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td>  </td>
+   <td> </td>
    <td>報告</td>
   </tr>
  </tbody>
@@ -176,7 +176,7 @@ ht-degree: 16%
   <tr>
    <th>權杖型別</th>
    <th>代號名稱</th>
-   <th>值</th>
+   <th>價值</th>
   </tr>
   <tr>
    <td>行事曆檔案</td>
@@ -252,17 +252,17 @@ ht-degree: 16%
   <tr>
    <td>文字</td>
    <td><code>{{my.PageURL-Download}}</code></td>
-   <td>my.DownloadURL?without=http://</td>
+   <td>my.DownloadURL？不含=http://</td>
   </tr>
   <tr>
    <td>文字</td>
    <td><code>{{my.PageURL-Registration}}</code></td>
-   <td>my.RegistrationPageURL?without=http://</td>
+   <td>my.RegistrationPageURL？不含=http://</td>
   </tr>
   <tr>
    <td>文字</td>
    <td><code>{{my.PageURL-ThankYou}}</code></td>
-   <td>my.ThankYouPageURL?without=http://</td>
+   <td>my.ThankYouPageURL？不含=http://</td>
   </tr>
   <tr>
    <td>文字</td>
@@ -330,7 +330,7 @@ ht-degree: 16%
 
 >[!TIP]
 >
->別忘了啟用「06人參與（方案成功）」行銷活動以追蹤成功！ _before_&#x200B;請執行此動作。您的表單已上線且已傳送電子郵件。
+>啟用「06人參與（方案成功）」行銷活動，在您的表單上線並傳送電子郵件之前追蹤成功。
 
 >[!IMPORTANT]
 >

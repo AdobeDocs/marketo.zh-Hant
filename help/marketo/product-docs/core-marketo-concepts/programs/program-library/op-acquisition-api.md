@@ -3,10 +3,10 @@ description: 贏取API作業程式範本。 透過API用它來擷取潛在客戶
 title: OP-贏取-API
 feature: Programs
 exl-id: abf7c4a0-c363-4e92-9a1f-197c3953c515
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 6%
+source-wordcount: '182'
+ht-degree: 8%
 
 ---
 
@@ -44,17 +44,17 @@ ht-degree: 6%
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td>  </td>
+   <td> </td>
    <td>設定贏取 — 批次</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td>  </td>
+   <td> </td>
    <td>設定贏取 — 觸發器</td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td>  </td>
+   <td> </td>
    <td>行銷活動（包含所有Smart Campaign）</td>
   </tr>
  </tbody>
@@ -86,4 +86,4 @@ ht-degree: 6%
 
 * 考慮使用類似的計畫，以確保與所有輸入來源的最佳做法一致，以包含您的CRM或資料整合。
 
-* 在管道特定的管道行銷計畫中，請務必在需要時擷取贏取。
+* 在管道特定的管道行銷計畫中，確保必要時能擷取贏取。

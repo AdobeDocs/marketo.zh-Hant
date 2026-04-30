@@ -4,10 +4,10 @@ description: 瞭解如何導覽方案排程檢視。 移動時間並檢視程式
 title: 導覽方案排程視圖
 exl-id: 31623f95-f956-44f6-9b6e-5595fb6e62d5
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 6%
+source-wordcount: '164'
+ht-degree: 7%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 6%
 
    ![](assets/image2014-9-17-11-3a38-3a3.png)
 
-   現在您將檢視方案的排程檢視。
+   現在會出現您程式的排程檢視。
 
    ![](assets/image2014-9-17-11-3a38-3a14.png)
 
@@ -38,8 +38,6 @@ ht-degree: 6%
 1. 在專案詳細資訊中，按一下箭頭，移至下一個排定的專案。
 
    ![](assets/image2014-9-17-11-3a38-3a54.png)
-
-   很酷吧？
 
    ![](assets/image2014-9-17-11-3a39-3a10.png)
 
@@ -60,8 +58,6 @@ ht-degree: 6%
 1. 您可以按一下右上角的畫面圖示，以全熒幕模式檢視您的方案排程。
 
    ![](assets/image2014-9-17-11-3a40-3a45.png)
-
-太棒了！ 現在您已經知道如何檢視程式，讓我們來瞭解它還可以執行的其他有趣操作。
 
 >[!MORELIKETHIS]
 >

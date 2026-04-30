@@ -3,10 +3,10 @@ description: 潛在客戶管理作業方案範本。 使用它來管理銷售機
 title: OP-商機管理
 feature: Programs
 exl-id: bde644fe-d40b-4c9c-925d-a0f522e6de01
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '272'
-ht-degree: 7%
+source-wordcount: '279'
+ht-degree: 8%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 7%
 >
 >在Marketo Engage中，資料庫中的記錄稱為人員/人員。 此範例中的潛在客戶管理會參照您CRM中的記錄。
 
-如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/tw/customers/consulting-services/main.html)頁面。
+如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html)頁面。
 
 ## 頻道摘要 {#channel-summary}
 
@@ -50,12 +50,12 @@ ht-degree: 7%
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td>  </td>
+   <td> </td>
    <td>01 — 將新使用者同步至CRM</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td>  </td>
+   <td> </td>
    <td>02 — 符合行銷資格</td>
   </tr>
   <tr>
@@ -65,12 +65,12 @@ ht-degree: 7%
   </tr>
   <tr>
    <td>資料夾</td>
-   <td>  </td>
+   <td> </td>
    <td>行銷活動</td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td>  </td>
+   <td> </td>
    <td>電子郵件警示</td>
   </tr>
  </tbody>

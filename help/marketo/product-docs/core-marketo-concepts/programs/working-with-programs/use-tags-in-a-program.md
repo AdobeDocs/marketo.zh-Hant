@@ -4,10 +4,10 @@ description: 瞭解如何在計畫中使用標籤。 新增標籤以組織方案
 title: 在方案中使用標記
 exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 16%
+source-wordcount: '163'
+ht-degree: 15%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 16%
 
 >[!NOTE]
 >
->如果您使用「收入週期總管」，則必須定義期間成本（即使是0），才能讓報表可用於程式。
+>如果您使用「收入週期總管」，則必須定義期間成本（即使為0），才能讓報表可用於程式。
 
 ## 在程式中使用標籤 {#use-a-tag-in-a-program}
 
@@ -37,7 +37,7 @@ ht-degree: 16%
 
    ![](assets/use-tags-in-a-program-4.png)
 
-1. 右上。 您會在畫布中看到新標籤。
+1. 新標籤現在會顯示在畫布中。
 
    ![](assets/use-tags-in-a-program-5.png)
 
@@ -55,7 +55,7 @@ ht-degree: 16%
 
    ![](assets/use-tags-in-a-program-8.png)
 
-1. 太棒了！ 您應該會看到所做的編輯反映在畫布中。
+1. 編輯內容現在應該會反映在畫布中。
 
    ![](assets/use-tags-in-a-program-9.png)
 
@@ -69,4 +69,4 @@ ht-degree: 16%
 
    ![](assets/use-tags-in-a-program-11.png)
 
-做得很好！具有一致標籤的程式可讓您在執行報表時更輕鬆。
+具有一致標籤的程式可讓報告更有效率。

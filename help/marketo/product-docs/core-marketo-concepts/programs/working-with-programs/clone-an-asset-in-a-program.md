@@ -4,9 +4,9 @@ description: 瞭解如何在方案中複製資產。 建立電子郵件、登陸
 title: 原地複製方案中的資產
 exl-id: 27bc2eab-f8ca-405b-b40e-6dadff902c2f
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '125'
 ht-degree: 13%
 
 ---
@@ -41,7 +41,7 @@ ht-degree: 13%
    >
    >您也可以將資產複製至不同的程式。 使用&#x200B;**[!UICONTROL Program]**&#x200B;下拉式清單進行選取。
 
-1. 太棒了！ 您現在應該會看到新的複製資產。
+1. 新的複製資產現在應該可見。
 
    ![](assets/report.jpg)
 

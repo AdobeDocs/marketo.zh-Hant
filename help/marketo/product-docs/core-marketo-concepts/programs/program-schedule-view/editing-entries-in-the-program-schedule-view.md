@@ -4,10 +4,10 @@ description: 瞭解如何在方案排程檢視中編輯專案。 變更排程專
 title: 在方案排程視圖中編輯條目
 exl-id: f04cfb84-ff96-4f4e-ab0d-d4b0b95a9f9c
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 9%
+source-wordcount: '143'
+ht-degree: 10%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 9%
 
    ![](assets/image2014-9-18-18-3a3-3a22.png)
 
-1. 太棒了！ 您的說明現在已變更。
+1. 已更新說明。
 
    ![](assets/image2014-9-18-18-3a3-3a48.png)
 
@@ -49,7 +49,7 @@ ht-degree: 9%
 
    ![](assets/image2014-9-18-18-3a4-3a39.png)
 
-您搖滾！ 現在，您的輸入日期已移至新日期。
+已更新您的專案日期。
 
 >[!NOTE]
 >

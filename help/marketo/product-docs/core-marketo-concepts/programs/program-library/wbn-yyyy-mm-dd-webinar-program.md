@@ -3,10 +3,10 @@ description: 網路研討會計畫範本。 將其用於具有標準命名慣例
 title: WBN-YYYY-MM-DD-網路研討會方案
 feature: Programs
 exl-id: 0506606e-d09a-42d2-949f-a65371a29c00
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '597'
-ht-degree: 15%
+source-wordcount: '621'
+ht-degree: 16%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 15%
 
 這是網路研討會計畫的範例，包含註冊管理、三封邀請電子郵件、提醒參加，以及利用Marketo Engage活動計畫的後續電子郵件。
 
-如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/tw/customers/consulting-services/main.html){target="_blank"}頁面。
+如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}頁面。
 
 ## 頻道摘要 {#channel-summary}
 
@@ -33,7 +33,7 @@ ht-degree: 15%
    <br/>03 — 已註冊
    <br/>04 — 沒有節目
    <br/>05 — 已出席 — 成功
-   <br/>06 — 出席隨選講座 — 成功</td>
+   <br/>06 — 已出席隨選講座 — 成功</td>
    <td>包含</td>
    <td>事件
    <p>（整合：活動與網路研討會）</td>
@@ -88,7 +88,7 @@ ht-degree: 15%
   <tr>
   <tr>
    <td>表單</td>
-   <td>  </td>
+   <td> </td>
    <td>FM事件註冊</td>
   </tr>
   <tr>
@@ -108,68 +108,68 @@ ht-degree: 15%
   </tr>
   <tr>
    <td>本地報告</td>
-   <td>  </td>
+   <td> </td>
    <td>電子郵件效能</td>
   </tr>
    <tr>
    <td>本地報告</td>
-   <td>  </td>
+   <td> </td>
    <td>登陸頁面績效</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td>  </td>
+   <td> </td>
    <td>00 — 擷取贏取計畫</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td>  </td>
+   <td> </td>
    <td>01 — 處理註冊</td>
   </tr>
    <tr>
    <td>智慧行銷活動</td>
-   <td>  </td>
+   <td> </td>
    <td>02a — 傳送邀請</td>
   </tr>
    <tr>
    <td>智慧行銷活動</td>
-   <td>  </td>
+   <td> </td>
    <td>02b — 傳送邀請提醒</td>
   </tr>
    <tr>
    <td>智慧行銷活動</td>
-   <td>  </td>
+   <td> </td>
    <td>02c — 傳送邀請提醒最後機會</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td>  </td>
+   <td> </td>
    <td>03 — 傳送出席提醒</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td>  </td>
+   <td> </td>
    <td>04 — 傳送後續追蹤電子郵件</td>
   </tr>
   <tr>
    <td>智慧行銷活動</td>
-   <td>  </td>
+   <td> </td>
    <td>05 — 隨選出席（計畫成功）</td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td>  </td>
+   <td> </td>
    <td>Assets — 容納所有創意資產
 <br/>（電子郵件、登陸頁面和Forms的子資料夾）</td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td>  </td>
+   <td> </td>
    <td>行銷活動 — 容納所有智慧行銷活動</td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td>  </td>
+   <td> </td>
    <td>報告</td>
   </tr>
  </tbody>
@@ -184,7 +184,7 @@ ht-degree: 15%
   <tr>
    <th>權杖型別</th>
    <th>代號名稱</th>
-   <th>值</th>
+   <th>價值</th>
   </tr>
   <tr>
    <td>行事曆檔案</td>
@@ -194,7 +194,7 @@ ht-degree: 15%
   <tr>
    <td>文字</td>
    <td><code>{{my.DownloadURL-PresentationSlides}}</code></td>
-   <td>my.DownloadURL?without=http:// </td>
+   <td>my.DownloadURL？不含=http:// </td>
   </tr>
   <tr>
    <td>文字</td>
@@ -245,17 +245,17 @@ ht-degree: 15%
   <tr>
    <td>文字</td>
    <td><code>{{my.PageURL-Download}}</code></td>
-   <td>my.DownloadURL?without=http://</td>
+   <td>my.DownloadURL？不含=http://</td>
   </tr>
   <tr>
    <td>文字</td>
    <td><code>{{my.PageURL-Registration}}</code></td>
-   <td>my.RegistrationPageURL?without=http://</td>
+   <td>my.RegistrationPageURL？不含=http://</td>
   </tr>
    <tr>
    <td>文字</td>
    <td><code>{{my.PageURL-ThankYou}}</code></td>
-   <td>my.ThankYouPageURL?without=http://</td>
+   <td>my.ThankYouPageURL？不含=http://</td>
   </tr>
   <tr>
    <td>文字</td>
@@ -310,7 +310,7 @@ ht-degree: 15%
 
 ## 最佳做法 {#best-practices}
 
-* 如果您使用整合式網路研討會提供者，別忘了將Marketo Engage程式連線到託管系統中的網路研討會。
+* 如果您使用整合式網路研討會提供者，請將Marketo Engage程式連線至託管系統中的網路研討會。
 
 * 匯入網路研討會計畫後，將表單從本機資產移至位於Design Studio中的全域資產。
    * 減少Design Studio的表單數量並運用更多全域資產，可讓您的程式設計和管理管理擁有更多擴充性。 此外，欄位、選擇加入語言等的定期合規性更新也有彈性。
@@ -325,7 +325,7 @@ ht-degree: 15%
 
 >[!TIP]
 >
->別忘了啟用「05 — 已參加（方案成功）」行銷活動以追蹤成功！ 請在&#x200B;_之前執行此動作，您的電子郵件已寄出。_
+>在傳送電子郵件之前，啟用「05 — 已參加（方案成功）」行銷活動以追蹤成功。
 
 >[!IMPORTANT]
 >

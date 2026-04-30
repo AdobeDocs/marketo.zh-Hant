@@ -4,16 +4,16 @@ description: 瞭解如何編輯程式的分析行為設定。 設定追蹤方案
 title: 編輯分析行為設定
 exl-id: 672973f9-35f7-4427-8bea-8f2e0c9d0b35
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '178'
 ht-degree: 7%
 
 ---
 
 # 編輯分析行為設定 {#edit-analytics-behavior-settings}
 
-您可以在頻道[的管理員層級設定](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md){target="_blank"}分析行為，但您也可以在方案層級進行編輯。 方法如下。
+您可以在頻道](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md){target="_blank"}的管理員層級設定[分析行為，但您也可以在方案層級進行編輯。 方法如下。
 
 1. 前往 **[!UICONTROL Marketing Activities]**。
 
@@ -47,7 +47,7 @@ ht-degree: 7%
 
    ![](assets/image2014-9-24-11-3a42-3a6.png)
 
-做得很好！ 現在您知道如何在方案層級覆寫分析行為了。
+已在方案層級覆寫分析行為。
 
 >[!NOTE]
 >
