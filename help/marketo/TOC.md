@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: f26e46d4e6cb4855e5eb7f4d34a90f801e9654a7
+source-git-commit: 88155ad99ba2899c3db3c1f7ae92a69f348dc020
 workflow-type: tm+mt
-source-wordcount: '9132'
+source-wordcount: '9236'
 ht-degree: 99%
 
 ---
@@ -36,6 +36,7 @@ ht-degree: 99%
       + [訂閱系統狀態通知](getting-started/things-to-know/system-status-notifications.md)
       + [產品知識的AI助理](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
       + [行銷國家社群](getting-started/things-to-know/community.md)
+      + [AWS移轉](getting-started/things-to-know/aws-migration.md)
    + 快速成果 {#quick-wins}
       + [完成設定與新增人員](getting-started/quick-wins/get-set-up-and-add-a-person.md)
       + [傳送電子郵件](getting-started/quick-wins/send-an-email.md)
@@ -121,7 +122,7 @@ ht-degree: 99%
          + [啟用智慧行銷活動人員限制](product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)
          + [行銷活動層級的電子郵件開啟追蹤](product-docs/administration/email-setup/email-open-tracking-at-campaign-level.md)
          + [篩選電子郵件機器人活動](product-docs/administration/email-setup/filtering-email-bot-activity.md)
-         + [移除取消訂閱文字](product-docs/administration/email-setup/remove-unsubscribe-text-from-the-admin-email-section.md)
+         + [移除取消訂閱文字](product-docs/administration/email-setup/remove-unsubscribe-text.md)
       + 欄位管理 {#field-management}
          + [清單匯入期間封鎖來自不信任來源的欄位更新](product-docs/administration/field-management/block-field-updates-during-list-import-from-untrusted-sources.md)
          + [封鎖欄位更新](product-docs/administration/field-management/block-updates-to-a-field.md)
@@ -1260,7 +1261,7 @@ ht-degree: 99%
          + [內容和檔案附件常見問題集](product-docs/marketo-sales-connect/faq/content-and-file-attachment-faq.md)
          + [Sales Connect 是否有 iPhone 或 Android 應用程式？](product-docs/marketo-sales-connect/faq/does-sales-connect-have-an-iphone-or-android-app.md)
          + [如何在我的伺服器上將 Sales Connect 加入允許清單？](product-docs/marketo-sales-connect/faq/how-can-i-allowlist-sales-connect-on-my-server.md)
-         + [我無法進入我的帳戶。我該如何處理？](product-docs/marketo-sales-connect/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
+         + [我無法進入我的帳戶。 我該如何處理？](product-docs/marketo-sales-connect/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
          + [Sales Connect 與 Salesforce Lightning 相容嗎？](product-docs/marketo-sales-connect/faq/is-sales-connect-compatible-with-salesforce-lightning.md)
          + [Sales Connect 服務條款是什麼？](product-docs/marketo-sales-connect/faq/what-are-the-sales-connect-terms-of-service.md)
          + [什麼是 Sales Connect 與 Highspot 整合？](product-docs/marketo-sales-connect/faq/what-is-the-sales-connect-and-highspot-integration.md)
@@ -1306,22 +1307,13 @@ ht-degree: 99%
          + [提醒工作與 Salesforce 同步](product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
          + [首次將 Sales Connect 工作與 Salesforce 同步](product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
       + 範本 {#templates}
-         + [新增自動取消訂閱功能至範本](product-docs/marketo-sales-connect/templates/add-auto-unsubscribes-to-a-template.md)
+         + [管理範本](product-docs/marketo-sales-connect/templates/manage-templates.md)
          + [新增附有超連結的文字](product-docs/marketo-sales-connect/templates/add-hyperlinked-text.md)
-         + [封存範本](product-docs/marketo-sales-connect/templates/archive-templates.md)
-         + [建立新類別](product-docs/marketo-sales-connect/templates/create-a-new-category.md)
-         + [建立新範本](product-docs/marketo-sales-connect/templates/create-a-new-template.md)
-         + [自訂範本視圖](product-docs/marketo-sales-connect/templates/customize-template-view.md)
-         + [刪除範本類別](product-docs/marketo-sales-connect/templates/delete-a-template-category.md)
-         + [刪除範本](product-docs/marketo-sales-connect/templates/delete-a-template.md)
-         + [編輯範本類別](product-docs/marketo-sales-connect/templates/edit-a-template-category.md)
-         + [將範本設為最愛](product-docs/marketo-sales-connect/templates/favorite-a-template.md)
-         + [合併及刪除重複類別](product-docs/marketo-sales-connect/templates/merge-and-de-duplicate-categories.md)
          + [推薦的範本](product-docs/marketo-sales-connect/templates/recommended-templates.md)
-         + [共用的範本](product-docs/marketo-sales-connect/templates/shared-templates.md)
          + [範本參與](product-docs/marketo-sales-connect/templates/template-engagement.md)
          + [使用 HTML](product-docs/marketo-sales-connect/templates/using-html.md)
          + [以其他使用者的身分檢視範本清單](product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md)
+         + [管理範本類別](product-docs/marketo-sales-connect/templates/manage-template-categories.md)
          + 動態欄位 {#dynamic-fields}
             + [建立自訂動態欄位](product-docs/marketo-sales-connect/templates/dynamic-fields/create-custom-dynamic-fields.md)
             + [動態欄位字彙表](product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md)
@@ -1425,7 +1417,7 @@ ht-degree: 99%
             + [如何修正連接至 Salesforce 時發生的「我們無法驗證您的請求」問題？](product-docs/marketo-sales-insight/actions/faq/how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
             + [我要如何防止內部瀏覽？](product-docs/marketo-sales-insight/actions/faq/how-do-i-prevent-self-views.md)
             + [位置追蹤的運作原理是什麼？](product-docs/marketo-sales-insight/actions/faq/how-does-location-tracking-work.md)
-            + [我無法進入我的帳戶。我該如何處理？](product-docs/marketo-sales-insight/actions/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
+            + [我無法進入我的帳戶。 我該如何處理？](product-docs/marketo-sales-insight/actions/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
             + [銷售洞察動作是否與 Salesforce Lightning 相容？](product-docs/marketo-sales-insight/actions/faq/is-sales-insight-actions-compatible-with-salesforce-lightning.md)
             + [銷售洞察動作支援哪些瀏覽器？](product-docs/marketo-sales-insight/actions/faq/which-browsers-does-sales-insight-actions-support.md)
             + [銷售洞察動作服務條款的內容是什麼？](product-docs/marketo-sales-insight/actions/faq/what-are-the-sales-insight-actions-terms-of-service.md)
@@ -1564,7 +1556,7 @@ ht-degree: 99%
          + [使用註冊碼安裝 Outlook 適用的 Marketo 電子郵件增益集](product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)
          + [核發 Marketo 電子郵件增益集授權](product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md)
          + [由 IT 人員進行的 Marketo Outlook 外掛程式安裝](product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-installation-by-it.md)
-         + [由 IT 人員進行的 Marketo Outlook 外掛程式解除安裝 &#x200B;](product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)
+         + [由 IT 人員進行的 Marketo Outlook 外掛程式解除安裝](product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)
          + [使用 Outlook 適用的電子郵件增益集傳送及追蹤電子郵件](product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
          + [使用 Marketo 範本從 Outlook 傳送及追蹤](product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
          + [指定 Marketo 銷售洞察外掛程式管理員](product-docs/marketo-sales-insight/msi-outlook-plugin/specify-marketo-sales-insight-plugin-admins.md)
