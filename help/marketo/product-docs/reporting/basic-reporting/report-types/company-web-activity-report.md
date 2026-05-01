@@ -19,7 +19,7 @@ ht-degree: 4%
 
 >[!PREREQUISITES]
 >
->若要從Marketo中的網站擷取活動，您必須先在您的網站](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)上設定[up [!DNL Munchkin] 。
+>若要從Marketo中的網站擷取活動，您必須先在您的網站[&#128279;](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)上設定up [!DNL Munchkin] 。
 
 1. [建立報告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)並選取[!UICONTROL Company Web Activity]報告[報告型別](report-type-overview.md)。
 
@@ -33,7 +33,7 @@ ht-degree: 4%
 
    >[!TIP]
    >
-   >若要尋找最常造訪您網站的公司，請在&#x200B;_[!UICONTROL Page Views]_欄位中[排序您的報表](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)，然後選擇&#x200B;**[!UICONTROL Sort Descending]**。
+   >若要尋找最常造訪您網站的公司，請在&#x200B;_[!UICONTROL Page Views]_&#x200B;欄位中[排序您的報表](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)，然後選擇&#x200B;**[!UICONTROL Sort Descending]**。
 
    您可以為公司網站活動報告選取[欄，包括：](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)
 
