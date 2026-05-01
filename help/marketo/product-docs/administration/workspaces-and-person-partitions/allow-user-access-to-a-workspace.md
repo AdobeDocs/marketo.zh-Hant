@@ -4,16 +4,16 @@ description: 授予使用者存取一或多個工作區的存取權的步驟。
 title: 允許使用者存取工作區
 exl-id: 8ccec529-ae28-4bf8-a9ba-4d9c7df809d9
 feature: Workspaces
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 18%
+source-wordcount: '99'
+ht-degree: 20%
 
 ---
 
 # 允許使用者存取工作區 {#allow-user-access-to-a-workspace}
 
-工作區可以因任何原因（例如業務單位或地理區隔）。 他們會分隔每個團隊的資產（智慧清單、計畫等）。 以下說明如何授予使用者一或多個工作區的存取權。
+工作區可以因任何原因（例如業務單位或地理區隔）。 它們會分隔資產（智慧清單、程式等） 每個團隊的。
 
 >[!NOTE]
 >

@@ -4,16 +4,16 @@ description: 編輯人員分割區名稱和工作區指派的步驟。
 title: 編輯現有的人員分割
 exl-id: 23353e93-f0f0-4f0d-b833-d870ff345b1a
 feature: Partitions
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 19%
+source-wordcount: '85'
+ht-degree: 21%
 
 ---
 
 # 編輯現有的人員分割 {#edit-an-existing-person-partition}
 
-個人資料分割就像擁有第二個（或第三個）資料庫。 分割區可以連結至一或多個工作區。 以下說明如何編輯分割區詳細資訊。
+個人資料分割就像擁有第二個（或第三個）資料庫。 分割區可以連結至一或多個工作區。
 
 >[!NOTE]
 >
@@ -39,6 +39,6 @@ ht-degree: 19%
 
    ![](assets/edit-an-existing-person-partition-4.png)
 
-儲存變更後，應該會看到更新！
+儲存變更後，更新即會顯示。
 
 ![](assets/edit-an-existing-person-partition-5.png)

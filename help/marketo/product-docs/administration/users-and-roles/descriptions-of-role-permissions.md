@@ -4,9 +4,9 @@ description: Marketo中所有角色許可權的參考清單，包括存取管理
 title: 角色權限說明
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: 9d8baf635462f287a05955b8563bf7866049d94a
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '1320'
+source-wordcount: '1344'
 ht-degree: 1%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 1%
 
 * 「存取」許可權可授予角色檢視和編輯應用程式該部分的許可權。
 * 若要讓角色擁有子許可權（「建立」、「刪除」等）的存取權，該角色必須擁有該部分應用程式的「存取權」。 例如，如果您想要授與某人「編輯促銷活動」的許可權，該人員必須擁有存取行銷活動的整體許可權。
-* 您可能會看到您沒有許可權使用的動作或資產。 但是，如果您嘗試存取這些檔案，將會看到一則訊息，警告您存取許可權受限。
+* 您可能會看到您沒有許可權使用的動作或資產。 但是，如果您嘗試存取這些檔案，您會看到一則訊息，警告您存取許可權受限。
 
 ## 可用許可權 {#available-permissions}
 
@@ -54,7 +54,7 @@ ht-degree: 1%
 * 存取新體驗 — 讓使用者能存取新體驗畫面
 * 存取Marketo自訂活動 — 讓使用者能在「管理員」中存取Marketo自訂活動
 * 存取Marketo自訂物件 — 讓使用者能夠在「管理員」中存取Marketo自訂物件
-* 存取[!DNL Munchkin] — 允許使用者存取Admin中的[!DNL Munchkin]，以設定追蹤代碼、人員追蹤及啟用API設定
+* 存取[!DNL Munchkin] — 為使用者提供Admin中[!DNL Munchkin]的存取權，以設定追蹤代碼、人員追蹤及啟用API設定
 * 存取預測對象 — 讓使用者可存取預測對象畫面
 * 存取Revenue Cycle Analytics — 讓使用者能夠存取Admin中的Revenue Cycle Analytics，以設定同步摘要和歸因
 * 存取角色 — 提供使用者管理和編輯角色的存取權，但不提供使用者
@@ -65,7 +65,7 @@ ht-degree: 1%
 * 存取標籤 — 讓使用者可存取所有自訂標籤，但通道標籤除外
 * 存取Treasure Check — 讓使用者在Admin中存取Treasure Check的實驗功能
 * 存取使用者 — 提供使用者在管理員中編輯和管理使用者（而非角色）的存取權
-* 存取Webhook — 為使用者提供Admin中的Webhook，用於設定詳細資料和回應對應
+* 存取Webhook — 讓使用者能夠存取Admin中的Webhook，以設定詳細資料和回應對應
 * 存取工作區和分割區 — 提供使用者在Admin中建立、編輯和刪除工作區和分割區的存取權
 
 ## Access API  {#access-api}
@@ -179,7 +179,7 @@ ht-degree: 1%
    * 存取在資料庫和行銷活動中建立智慧列示資產
 * 刪除清單
 * 編輯人員 — 防止手動編輯和執行單一流程步驟；您仍然可以透過執行行銷活動來編輯人員
-* Export Person — 從您的資料庫清單匯出試算表與
+* 匯出人員 — 從資料庫清單匯出試算表
 * 匯入自訂物件
 * 匯入清單
 * 合併人員

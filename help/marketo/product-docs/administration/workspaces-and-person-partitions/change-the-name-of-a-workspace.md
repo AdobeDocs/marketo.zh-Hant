@@ -4,10 +4,10 @@ description: 瞭解如何重新命名工作區。
 title: 變更工作區的名稱
 exl-id: 1d714803-b1c3-49e9-874b-2555dd13a9d1
 feature: Workspaces
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 28%
+source-wordcount: '67'
+ht-degree: 29%
 
 ---
 
@@ -21,11 +21,11 @@ ht-degree: 28%
 >
 >[建立新的Workspace](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
 
-使用者可以變更工作區的名稱。 這相當簡單。
+使用者可以變更工作區的名稱。
 
 >[!NOTE]
 >
->透過[瞭解Workspace和Person Partitions](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)先瞭解。
+>如需詳細資訊，請參閱[瞭解工作區和人員分割](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)。
 
 1. 前往「**[!UICONTROL Admin]**」區域。
 

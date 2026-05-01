@@ -3,20 +3,20 @@ description: 瞭解如何匯出所有角色及其許可權。
 title: 匯出角色和權限
 exl-id: 2c3ee917-dc8c-40e1-a6e6-f6cb059963f6
 feature: Users and Roles
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 19%
+source-wordcount: '85'
+ht-degree: 22%
 
 ---
 
 # 匯出角色和權限 {#export-roles-and-permissions}
 
-以下說明如何匯出所有角色及其許可權。
+下列步驟說明如何匯出所有角色及其許可權。
 
 >[!NOTE]
 >
->需要管理員許可權
+>**需要管理員權限**
 
 1. 前往「**[!UICONTROL Admin]**」區域。
 
@@ -36,7 +36,7 @@ ht-degree: 19%
 
 >[!NOTE]
 >
->確認瀏覽器未封鎖Marketo的快顯視窗。
+>確認瀏覽器不會封鎖Marketo的快顯視窗。
 
 資料將會匯出為CSV，並包含角色、許可權以及每個群組已啟用多少許可權的計數。
 

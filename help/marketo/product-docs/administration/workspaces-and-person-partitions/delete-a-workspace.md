@@ -4,10 +4,10 @@ description: 刪除工作區的步驟，包括確認資產總計。
 title: 刪除工作區
 exl-id: 4968b8bf-bd0d-4055-8b48-43f8d3ffa991
 feature: Workspaces
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 23%
+source-wordcount: '55'
+ht-degree: 25%
 
 ---
 
@@ -33,6 +33,6 @@ ht-degree: 23%
 
    ![](assets/delete-a-workspace-3.png)
 
-1. 確認您要刪除的資產數目（在&quot;[!UICONTROL total assets]&quot;旁為您列出），選取&#x200B;**[!UICONTROL Cannot Undo]**&#x200B;核取方塊，然後按一下&#x200B;**[!UICONTROL Delete]**。
+1. 確認要刪除的資產數目（列在&quot;[!UICONTROL total assets]&quot;旁），選取&#x200B;**[!UICONTROL Cannot Undo]**&#x200B;核取方塊，然後按一下&#x200B;**[!UICONTROL Delete]**。
 
    ![](assets/delete-a-workspace-4.png)

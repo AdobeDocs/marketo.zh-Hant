@@ -4,10 +4,10 @@ description: 瞭解如何匯出使用者和角色清單。
 title: 匯出使用者和角色清單
 exl-id: dd3c5372-4c34-438c-8f47-34ae2d14db24
 feature: Users and Roles
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 27%
+source-wordcount: '70'
+ht-degree: 28%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 27%
 >
 >**需要管理員權限**
 
-匯出使用者和使用者角色的完整清單相當容易。 方法如下。
+請依照下列步驟匯出使用者和使用者角色的完整清單。
 
 1. 前往 **[!UICONTROL Admin]**。
 
@@ -39,6 +39,6 @@ ht-degree: 27%
 
    ![](assets/export-a-list-of-users-and-roles-4.png)
 
-   僅此而已，大家！ 您應該要下載新的Excel檔案。
+   Excel檔案會開始下載。
 
    ![](assets/export-a-list-of-users-and-roles-5.png)
