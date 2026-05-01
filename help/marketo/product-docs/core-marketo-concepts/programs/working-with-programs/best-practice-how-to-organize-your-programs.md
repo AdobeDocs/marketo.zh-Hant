@@ -121,4 +121,4 @@ Marketo中最實用的功能之一，是復製程式的功能。 這表示您可
 
 ## 摘要 {#summary}
 
-如您所見，Marketo可提供強大的功能。 這裡有基本介紹，但請考慮由[Marketo Engage專家](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}提供的其他服務，以進行微調並為您做好準備，以取得成功。
+如您所見，Marketo可提供強大的功能。 這裡有基本介紹，但請考慮由[Marketo Engage專家](https://business.adobe.com/tw/products/marketo/services-support.html){target="_blank"}提供的其他服務，以進行微調並為您做好準備，以取得成功。
