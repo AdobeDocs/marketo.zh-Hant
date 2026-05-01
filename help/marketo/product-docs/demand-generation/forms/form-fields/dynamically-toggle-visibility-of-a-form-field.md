@@ -69,6 +69,6 @@ Marketo表單的一個很酷的功能是您可以動態隱藏/顯示表單欄位
 
 >[!IMPORTANT]
 >
->使用Forms 2.0中的[API函式](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"}透過自訂指令碼設定/更新欄位值時，表單欄位行為將順暢運作。
+>使用Forms 2.0中的[API函式](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"}透過自訂指令碼設定/更新欄位值時，表單欄位行為將順暢運作。
 >
 >如果欄位值是由Forms 2.0 JavaScript API以外的外部指令碼修改，則條件欄位可能會無法如預期運作。
