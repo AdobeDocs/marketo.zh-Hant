@@ -4,10 +4,10 @@ description: 瞭解如何依區段將您的電子郵件效能報表分組。 使
 title: 按照細分將電子郵件報告分組
 exl-id: dd023dca-02a4-40c7-9cb8-53024597e671
 feature: Segmentation
-source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 13%
+source-wordcount: '117'
+ht-degree: 11%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 13%
 
    ![](assets/image2014-9-16-9-3a17-3a9.png)
 
-1. 完成了！按一下「**[!UICONTROL Report]**」索引標籤。如果使用單一區段，報表會針對每個區段顯示一列。
+1. 按一下「**[!UICONTROL Report]**」索引標籤。 如果使用單一區段，報表會針對每個區段顯示一列。
 
    ![](assets/image2014-9-16-9-3a17-3a17.png)
 

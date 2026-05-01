@@ -4,10 +4,10 @@ description: 瞭解如何在不需要保留歷史記錄時移除串流內容。
 title: 移除資料流內容
 exl-id: caab3510-4f91-4832-9817-0d154475db31
 feature: Engagement Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 8%
+source-wordcount: '121'
+ht-degree: 6%
 
 ---
 
@@ -31,4 +31,4 @@ ht-degree: 8%
    >
    >只有在您不關心歷程記錄時才移除內容。 如果要保留歷史記錄，請[封存](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)。
 
-   完成了！現在您知道如何移除內容片段了。
+   現在您知道如何移除內容片段了。

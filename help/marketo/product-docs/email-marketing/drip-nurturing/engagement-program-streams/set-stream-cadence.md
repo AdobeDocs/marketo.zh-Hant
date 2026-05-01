@@ -4,9 +4,9 @@ description: 瞭解如何設定參與計畫的串流步調。 排程每週或每
 title: 設定資料流頻率
 exl-id: 589eeefa-b2f6-4131-a72b-359c97ab98c0
 feature: Engagement Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '362'
 ht-degree: 3%
 
 ---
@@ -68,8 +68,6 @@ ht-degree: 3%
    >[!NOTE]
    >
    >在此範例中，電子郵件將於星期四發出。 然後，我們略過一週，並在下週的週二、週三和週四再次傳送。 然後再重複一次。
-
-完成了！如果您想要設定每月頻率，請繼續閱讀。
 
 ## 每月 {#monthly}
 

@@ -4,9 +4,9 @@ description: 瞭解如何在Facebook中從Marketo建立自訂對象。 傳送Mar
 title: 在 Facebook 中建立自訂客群
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '236'
 ht-degree: 6%
 
 ---
@@ -16,11 +16,11 @@ ht-degree: 6%
 >[!PREREQUISITES]
 >
 >* 在管理區段中[新增 [!DNL Facebook] 自訂對象做為LaunchPoint Service](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target="_blank"}。
->* 在您的[帳戶中 [!DNL Facebook]接受](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"}的自訂對象條款[!DNL Facebook]。
+>* 在您的[!DNL Facebook]帳戶中[接受 [!DNL Facebook]的自訂對象條款](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"}。
 
 >[!TIP]
 >
->深入瞭解[&#x200B; [!DNL Facebook]中的](https://www.facebook.com/help/341425252616329){target="_blank"}自訂對象。
+>深入瞭解 [!DNL Facebook]](https://www.facebook.com/help/341425252616329){target="_blank"}中的[自訂對象。
 
 1. 尋找並選取智慧或靜態清單，其中包含您要建立對象的潛在客戶。
 
@@ -58,7 +58,7 @@ ht-degree: 6%
 
    ![](assets/create-a-custom-audience-in-facebook-6.png)
 
-   就是這樣！ 在Facebook中，您會在&#x200B;**廣告管理員** > **對象**&#x200B;中看到新對象。
+   在Facebook中，您將會在&#x200B;**廣告管理員** > **對象**&#x200B;中看到新對象。
 
    ![](assets/create-a-custom-audience-in-facebook-7.png)
 

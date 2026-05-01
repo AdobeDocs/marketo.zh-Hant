@@ -4,14 +4,14 @@ description: 瞭解如何在Microsoft Dynamics 2011中安裝和設定Marketo Sal
 title: 在 Microsoft Dynamics 2011 中安裝及設定 Marketo 銷售洞察
 exl-id: 40622dcc-7129-4392-95dc-ca829c15c3a6
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: '330'
 ht-degree: 6%
 
 ---
 
-# 在[!DNL Marketo Sales Insight]中安裝並設定[!DNL Microsoft Dynamics 2011] {#install-and-configure-marketo-sales-insight-in-microsoft-dynamics}
+# 在[!DNL Microsoft Dynamics 2011]中安裝並設定[!DNL Marketo Sales Insight] {#install-and-configure-marketo-sales-insight-in-microsoft-dynamics}
 
 [!DNL Marketo Sales Insight]是您銷售團隊的好工具。 以下逐步說明如何在[!DNL Microsoft Dynamics 2011]內部部署中安裝和設定它。
 
@@ -19,7 +19,7 @@ ht-degree: 6%
 >
 >完成您的Marketo-Microsoft整合。
 >
->[下載您](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) CRM版本的正確解決方案[!DNL Microsoft Dynamics]。
+>[下載您[!DNL Microsoft Dynamics] CRM版本的正確解決方案](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)。
 
 ## 匯入解決方案 {#import-solution}
 
@@ -39,7 +39,7 @@ ht-degree: 6%
    >
    >在繼續之前，您應該已安裝[並設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md) Marketo解決方案。
 
-1. 按一下「**[!UICONTROL Browse]**」。 選取您[!DNL Marketo Sales Insight]下載的[解決方案](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)。 按一下「**[!UICONTROL Next]**」。
+1. 按一下「**[!UICONTROL Browse]**」。 選取您[下載的[!DNL Marketo Sales Insight]解決方案](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)。 按一下「**[!UICONTROL Next]**」。
 
    ![](assets/image2015-5-4-10-3a55-3a15.png)
 
@@ -143,11 +143,9 @@ ht-degree: 6%
 
    ![](assets/image2015-5-4-11-3a36-3a59.png)
 
-   就是這樣！ 所有使用者有權存取，現在可以在銷售機會/聯絡人詳細資料檢視中檢視銷售insight區段。
+   所有有權存取的使用者現在可以在銷售機會/聯絡人詳細資料檢視中檢視銷售insight區段。
 
    ![](assets/image2015-5-4-11-3a39-3a23.png)
-
-   恭喜！ 您現在已釋放[!DNL Marketo Sales Insight]的力量。
 
 >[!MORELIKETHIS]
 >

@@ -4,10 +4,10 @@ description: 瞭解如何在等待流程步驟中使用持續時間。 在下一
 title: 在等待流程步驟中使用持續時間
 exl-id: 7b13d225-78ba-4ef1-9ff5-0f6acde6e5ff
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 9%
+source-wordcount: '213'
+ht-degree: 8%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 9%
 
    ![](assets/use-a-duration-in-a-wait-flow-step-2.png)
 
-1. 完成了！流量將在您指定的期間內暫停。 如需進階選項，請按一下右側的齒輪圖示。
+1. 流程會在您指定的期間內暫停。 如需進階選項，請按一下右側的齒輪圖示。
 
    ![](assets/use-a-duration-in-a-wait-flow-step-3.png)
 

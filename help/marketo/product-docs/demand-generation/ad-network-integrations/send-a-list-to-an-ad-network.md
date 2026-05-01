@@ -3,9 +3,9 @@ description: 瞭解如何將靜態清單傳送至LinkedIn、Facebook或Google。
 title: 傳送清單至廣告網路
 exl-id: d5c55df7-53c8-491a-9d79-ecf7c25cee08
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '216'
 ht-degree: 7%
 
 ---
@@ -40,7 +40,7 @@ ht-degree: 7%
    >
    >如果您選取「[!UICONTROL Enable continuous audience sync]」，Marketo會在您的Marketo執行個體中清單變更時，保持所選廣告網路中的清單為最新。 我們都會新增&#x200B;**和**&#x200B;人員，如果他們是從靜態清單中新增或移除的，則會從對象中移除這些人員。
 
-1. 就是這樣！ 按一下&#x200B;**[!UICONTROL OK]**&#x200B;結束。
+1. 按一下&#x200B;**[!UICONTROL OK]**&#x200B;結束。
 
    ![](assets/send-a-list-to-an-ad-network-5.png)
 

@@ -5,10 +5,10 @@ hide: true
 hidefromtoc: true
 feature: Email Editor
 exl-id: bfa8d9c2-93d7-494c-ac5e-f743894c58e7
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '1497'
-ht-degree: 4%
+source-wordcount: '1531'
+ht-degree: 5%
 
 ---
 
@@ -44,7 +44,7 @@ ht-degree: 4%
 
    ![](assets/create-an-email-4.png)
 
-就是這樣。 現在該設計您的電子郵件了。
+現在該設計您的電子郵件了。
 
 ## 選擇您的內容型別 {#choose-your-content-type}
 
@@ -84,11 +84,11 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->.zip 檔案結構沒有限制。不過，參照必須是相對參照，而且符合.zip資料夾的樹狀結構。
+>.zip 檔案結構沒有限制。 不過，參照必須是相對參照，而且符合.zip資料夾的樹狀結構。
 
-1. 在「設計您的模板」頁中，選擇&#x200B;**導入HTML**。
+1. 在「設計範本」頁面中，選取&#x200B;**匯入HTML**。
 
-1. 拖放所需的HTML或.zip檔案（或從電腦中選擇檔案），然後按一下&#x200B;**導入**。
+1. 拖放所需的ip檔案（或從電腦中選取檔案），然後按一下&#x200B;**匯入**。
 
    ![](assets/authoring-import-your-html-1.png)
 
@@ -96,7 +96,7 @@ ht-degree: 4%
 >
 >上傳HTML內容時，您的內容會處於相容模式。 在此模式中，您只能個人化您的文字、新增連結或新增資產至您的內容。
 
-可以使用[可視電子郵件編輯器工具](#add-structure-and-content)對導入的內容進行所需的更改。
+您可以使用[視覺化電子郵件編輯器工具](#add-structure-and-content)對匯入的內容進行所需的變更。
 
 ### 選擇範本 {#choose-a-template}
 
@@ -144,7 +144,7 @@ ht-degree: 4%
 
    >[!TIP]
    >
-   >選擇n:n列元件以定義您選擇的列數（介於3列和10列之間）。您也可以移動欄下方的箭頭來定義每欄的寬度。
+   >選取n:n欄元件以定義您選擇的欄數（介於3到10之間）。 您也可以移動欄下方的箭頭來定義每欄的寬度。
 
    ![](assets/authoring-add-structure-and-content-1.png)
 
@@ -188,13 +188,13 @@ ht-degree: 4%
 
 1. 直接在畫布中選取結構元件中的欄，或使用左側顯示的&#x200B;_導覽樹狀結構_。
 
-1. 從欄工具列中，按一下&#x200B;_[!UICONTROL Select a column]_&#x200B;工具並選擇您要編輯的工具。
+1. 從欄工具列中，按一下&#x200B;_[!UICONTROL Select a column]_工具並選擇您要編輯的工具。
 
-   您也可以從結構樹中選取它。 該欄的可編輯引數會顯示在右側的&#x200B;_[!UICONTROL Settings]_&#x200B;和_[!UICONTROL Styles]_&#x200B;索引標籤中。
+   您也可以從結構樹中選取它。 該欄的可編輯引數會顯示在右側的&#x200B;_[!UICONTROL Settings]_和_[!UICONTROL Styles]_&#x200B;索引標籤中。
 
    ![](assets/authoring-layers-settings-styles-2.png)
 
-1. 若要編輯欄屬性，請按一下右側的&#x200B;_[!UICONTROL Styles]_&#x200B;標籤，並根據您的需求加以變更：
+1. 若要編輯欄屬性，請按一下右側的&#x200B;_[!UICONTROL Styles]_標籤，並根據您的需求加以變更：
 
    * 針對&#x200B;**[!UICONTROL Background]**，視需要變更背景顏色。
 
@@ -231,9 +231,9 @@ Token在新編輯器中的運作方式與舊版相同，但圖示看起來不同
 
    >[!NOTE]
    >
-   >「遞補文字」是預設值的新編輯器辭彙。 範例： ``{{lead.First Name:default=Friend}}``。 如果您選擇的欄位中沒有該人員的值，建議您這麼做。
+   >「遞補文字」是預設值的新編輯器辭彙。 範例：``{{lead.First Name:default=Friend}}``。 如果您選擇的欄位中沒有該人員的值，建議您這麼做。
 
-1. 設定您的遞補文字，然後按一下[新增]。**&#x200B;**
+1. 設定您的遞補文字，然後按一下[新增]。****
 
    ![](assets/authoring-personalize-content-4.png)
 
@@ -315,9 +315,9 @@ Token在新編輯器中的運作方式與舊版相同，但圖示看起來不同
 
 在新編輯器中建立電子郵件後，您可以在「智慧行銷活動」和/或「智慧列示」中參考該電子郵件，操作方法與使用任何其他電子郵件時相同。
 
-* 依照一般步驟[，由](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)在智慧清單中參照它。
+* 依照一般步驟](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)，由[在智慧清單中參照它。
 
-* 按照一般步驟[，由](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)在Smart Campaign中參考它。
+* 按照一般步驟](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)，由[在Smart Campaign中參考它。
 
 >[!NOTE]
 >

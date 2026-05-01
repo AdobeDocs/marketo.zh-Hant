@@ -4,10 +4,10 @@ description: 瞭解如何透過流程步驟從Salesforce行銷活動中移除人
 title: 從 SFDC 行銷活動中移除
 exl-id: d19e7847-2287-4926-b0bb-635e7700668f
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 8%
+source-wordcount: '116'
+ht-degree: 6%
 
 ---
 
@@ -29,4 +29,4 @@ ht-degree: 8%
    >
    >如果人員或銷售機會不是您所選行銷活動的成員，則將略過這些人員或銷售機會。
 
-完成了！當人員或銷售機會流經時，他們將會從您選擇的[!DNL Salesforce]行銷活動中移除。
+當人員或銷售機會流經時，他們將會從您選擇的[!DNL Salesforce]行銷活動中移除。

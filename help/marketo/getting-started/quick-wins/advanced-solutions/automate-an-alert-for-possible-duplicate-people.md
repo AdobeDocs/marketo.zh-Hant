@@ -4,10 +4,10 @@ description: 針對可能的重複人員自動傳送警報 — Marketo檔案 —
 title: 自動向可能重複的人員發出警報
 exl-id: 596c03f4-7a84-4564-bbe1-e7bc0d22a616
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 10%
+source-wordcount: '157'
+ht-degree: 8%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 10%
 1. [建立新的Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}。 定義下列智慧清單：
 
 * 觸發程式： **[!UICONTROL Person is Created]**
-* 篩選器： **[!UICONTROL Duplicate Fields]**。 欄位名稱&#x200B;**[!UICONTROL is]&#x200B;[!UICONTROL Full Name]**
+* 篩選器： **[!UICONTROL Duplicate Fields]**。 欄位名稱&#x200B;**[!UICONTROL is][!UICONTROL Full Name]**
 
   ![](assets/automate-an-alert-1.png)
 
@@ -44,7 +44,7 @@ ht-degree: 10%
 
    ![](assets/automate-an-alert-3.png)
 
-完成了！每次在Marketo中建立具有現有全名的新人員時，都會觸發此智慧型行銷活動。
+每次在Marketo中建立具有現有全名的新人員時，都會觸發此智慧型行銷活動。
 
 >[!MORELIKETHIS]
 >

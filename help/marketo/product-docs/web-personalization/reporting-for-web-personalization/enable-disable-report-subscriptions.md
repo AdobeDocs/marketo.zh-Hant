@@ -4,10 +4,10 @@ description: 瞭解如何啟用或停用Web Personalization電子郵件報告的
 title: 啟用/停用報告訂閱
 exl-id: fbaebdd1-245b-4faf-b47f-fb17ea4d5417
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 13%
+source-wordcount: '78'
+ht-degree: 11%
 
 ---
 
@@ -19,8 +19,8 @@ ht-degree: 13%
 
    ![](assets/image2014-9-17-20-3a48-3a28.png)
 
-1. 選取您要訂閱的報告及其頻率。 按一下「**[!UICONTROL Save]**」。
+1. 選取您要訂閱的報告，其頻率為頻率。 按一下「**[!UICONTROL Save]**」。
 
    ![](assets/email-settings.png)
 
-   完成了！若要取消訂閱報告，只要取消核取並按一下&#x200B;**[!UICONTROL Save]**&#x200B;即可。
+   若要取消訂閱報告，請取消核取並按一下&#x200B;**[!UICONTROL Save]**。

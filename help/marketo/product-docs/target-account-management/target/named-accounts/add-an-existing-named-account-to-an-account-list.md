@@ -4,10 +4,10 @@ description: 瞭解如何將現有的具名帳戶新增至帳戶清單。 使用
 title: 將現有已命名帳戶新增至帳戶清單
 exl-id: 5c6c535c-05da-4d7e-b764-cdbbcc7ec415
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
 source-wordcount: '93'
-ht-degree: 15%
+ht-degree: 16%
 
 ---
 
@@ -30,8 +30,6 @@ ht-degree: 15%
 1. 按一下&#x200B;**[!UICONTROL Account List]**&#x200B;下拉式清單，選取所需的帳戶清單，然後按一下&#x200B;**[!UICONTROL Add]**。
 
    ![](assets/six-1.png)
-
-   完成了！
 
 >[!MORELIKETHIS]
 >

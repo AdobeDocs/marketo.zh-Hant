@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10096400
-description: 瞭解如何在電子郵件編輯器2.0中建立電子郵件範本。建立可重複使用的範本，包含模組和可編輯區段。
+description: 瞭解如何在電子郵件編輯器2.0中建立電子郵件範本。 建立可重複使用的範本，包含模組和可編輯區段。
 title: 建立電子郵件範本
 exl-id: dfd91254-03fa-4f91-995d-ae4fe549a98d
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '265'
 ht-degree: 16%
 
 ---
@@ -65,11 +65,9 @@ ht-degree: 16%
 
    ![](assets/five-1.png)
 
-   就是這樣！
-
    >[!CAUTION]
    >
-   >將電子郵件儲存為範本時，變數值不會保留。變數會繼續使用基礎範本中所指定的預設值。除非已將電子郵件中的可用模組插入電子郵件內文，否則也不會延續。
+   >將電子郵件儲存為範本時，變數值不會保留。 變數會繼續使用基礎範本中所指定的預設值。 除非已將電子郵件中的可用模組插入電子郵件內文，否則也不會延續。
 
 若要自訂您的電子郵件範本，請檢視下文。
 

@@ -4,9 +4,9 @@ description: 瞭解如何建立帳戶智慧清單，以識別高價值帳戶。 
 title: 帳戶智慧清單
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '444'
 ht-degree: 2%
 
 ---
@@ -77,7 +77,7 @@ ht-degree: 2%
 >
 >建立篩選器的容器會建立「and」規則，這表示它只會傳回所有合併的結果。 在此範例中，帳戶擁有醫療保健產業，以及位於加州&#x200B;_和_，且某人被列為CFO。 如果您不想使用容器，只需將篩選器拖曳至現有篩選器的下方/上方。
 
-就是這樣！ 請參閱下節以瞭解如何善用您的[!UICONTROL Account Smart List]。
+檢視下節以瞭解如何善用您的[!UICONTROL Account Smart List]。
 
 >[!TIP]
 >
@@ -93,7 +93,7 @@ ht-degree: 2%
 
 **[!UICONTROL Send to Ad Network]**：將清單當作新的相符對象傳送給[!DNL LinkedIn]。
 
-您也可以使用[!UICONTROL Account Smart List]篩選器，在標準智慧行銷活動/清單中參考您的&#x200B;_[!UICONTROL People Member of Account Smart List]_。
+您也可以使用&#x200B;_[!UICONTROL People Member of Account Smart List]_篩選器，在標準智慧行銷活動/清單中參考您的[!UICONTROL Account Smart List]。
 
 ![](assets/account-smart-lists-12.png)
 
@@ -105,4 +105,4 @@ ht-degree: 2%
 >
 >**定義**
 >
->**[!UICONTROL People Member of Account Smart List]**：在此案例中，「會員」一詞是指帳戶本身，因此「人員會員」是指這些帳戶中的實際人員(Marketo記錄)。
+>**[!UICONTROL People Member of Account Smart List]**：在此案例中，「會員」一詞是指帳戶本身，因此「人員會員」是指這些帳戶中的實際人員（Marketo記錄）。

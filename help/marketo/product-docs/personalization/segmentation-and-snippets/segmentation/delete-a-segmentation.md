@@ -4,10 +4,10 @@ description: 瞭解如何刪除不再需要的區段。 移除資產關聯、取
 title: 刪除細分
 exl-id: d8d9b435-ced1-45cf-8615-d6a12a85bfcd
 feature: Segmentation
-source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 5%
+source-wordcount: '95'
+ht-degree: 6%
 
 ---
 
@@ -36,5 +36,3 @@ ht-degree: 5%
 1. 取消核准後，按一下&#x200B;**[!UICONTROL Segmentation Actions]**&#x200B;和[!UICONTROL Delete]分段。
 
    ![](assets/image2017-3-28-15-3a51-3a46.png)
-
-就是這樣。 無法取回，因此請確定您不再需要它。
