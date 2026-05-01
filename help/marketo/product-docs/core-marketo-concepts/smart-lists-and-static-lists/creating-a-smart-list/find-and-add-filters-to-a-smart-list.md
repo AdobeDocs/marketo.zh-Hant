@@ -4,18 +4,18 @@ description: 瞭解如何尋找篩選器並將其新增至智慧清單。 瀏覽
 title: 找到篩選器並將其新增至智慧清單
 exl-id: de9afdc5-452e-47a4-99cf-ed7374bf114f
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 18%
+source-wordcount: '131'
+ht-degree: 19%
 
 ---
 
 # 找到篩選器並將其新增至智慧清單 {#find-and-add-filters-to-a-smart-list}
 
-在您[建立智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}後，您需要新增和[定義](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md){target="_blank"}篩選器。 以下說明如何尋找和新增篩選器。
+在您[建立智慧列示](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}之後，您必須新增並[定義](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md){target="_blank"}篩選器。
 
-在此範例中，我們來尋找所有分數超過50的加州人。
+在此範例中，目標是尋找加州得分超過50分的所有人。
 
 >[!TIP]
 >
@@ -37,7 +37,7 @@ ht-degree: 18%
 
    ![](assets/find-and-add-filters-to-a-smart-list-4.png)
 
-完美！ 接著來定義這些篩選器。
+定義這些篩選器。
 
 >[!MORELIKETHIS]
 >

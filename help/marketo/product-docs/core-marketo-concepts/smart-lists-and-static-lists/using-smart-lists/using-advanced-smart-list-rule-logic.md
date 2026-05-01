@@ -4,16 +4,16 @@ description: 瞭解如何使用進階智慧清單規則邏輯。 針對複雜的
 title: 使用進階智慧清單規則邏輯
 exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
 source-wordcount: '302'
-ht-degree: 4%
+ht-degree: 3%
 
 ---
 
 # 使用進階智慧清單規則邏輯 {#using-advanced-smart-list-rule-logic}
 
-您可以將「智慧列示」規則邏輯套用至智慧列示內的多個篩選器，以找到您所需的確切人員。 方法如下。
+您可以將「智慧列示」規則邏輯套用至智慧列示內的多個篩選器，以找到您所需的確切人員。
 
 >[!PREREQUISITES]
 >
@@ -68,4 +68,4 @@ ht-degree: 4%
 
 >[!TIP]
 >
->如果輸入無效的規則，規則下方會顯示一條紅線。 捲動文字以檢視相關的錯誤訊息。
+>如果輸入無效的規則，您會在規則下方看到一條紅線。 捲動文字以檢視相關的錯誤訊息。

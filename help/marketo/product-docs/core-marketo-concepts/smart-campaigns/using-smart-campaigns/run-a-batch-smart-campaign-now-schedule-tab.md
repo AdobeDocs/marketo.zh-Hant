@@ -4,16 +4,16 @@ description: 瞭解如何立即從「排程」索引標籤執行批次Smart Camp
 title: 立即執行批次智慧行銷活動 | 排程索引標籤
 exl-id: a9014ab4-12a4-44ae-a361-72f95bb62e27
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 15%
+source-wordcount: '98'
+ht-degree: 16%
 
 ---
 
 # 立即執行批次智慧行銷活動 | 排程索引標籤 {#run-a-batch-smart-campaign-now-schedule-tab}
 
-建立完批次行銷活動後，您可以選擇現在或稍後執行。 以下說明如何立即執行。
+建立完批次行銷活動後，您可以選擇現在或稍後執行。
 
 1. 選取批次促銷活動，前往&#x200B;**[!UICONTROL Schedule]**&#x200B;標籤，然後按一下&#x200B;**[!UICONTROL Run Once]**。
 
@@ -27,7 +27,7 @@ ht-degree: 15%
 
    ![](assets/run-a-batch-smart-campaign-now-schedule-tab-3.png)
 
-   輕鬆自在！ 您也可以[排程稍後執行](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md){target="_blank"} （如果您願意）。
+   您也可以[排程稍後執行](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md){target="_blank"} （如果您願意）。
 
    >[!NOTE]
    >

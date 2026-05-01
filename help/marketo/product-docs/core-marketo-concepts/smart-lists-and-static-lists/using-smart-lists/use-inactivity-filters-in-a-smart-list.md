@@ -4,16 +4,16 @@ description: 瞭解如何在智慧清單中使用非活動篩選器。 尋找在
 title: 在智慧清單中使用閒置狀態篩選器
 exl-id: 9e00c864-db3f-46cd-b65d-e4fd49d89ff5
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '125'
 ht-degree: 12%
 
 ---
 
 # 在智慧清單中使用閒置狀態篩選器 {#use-inactivity-filters-in-a-smart-list}
 
-您知道可以在智慧清單中尋找&#x200B;_沒有_&#x200B;做某些事情的人嗎？ 請檢視這些非使用狀態篩選器。
+使用非使用中篩選器來尋找未執行任何動作的智慧清單中的人員。
 
 1. 前往 **[!UICONTROL Marketing Activities]**。
 
@@ -23,7 +23,7 @@ ht-degree: 12%
 
    ![](assets/use-inactivity-filters-in-a-smart-list-2.png)
 
-1. 尋找並拖曳您選擇的不使用中篩選器至畫布。 例如，我們來尋找未造訪過您任何頁面的人。
+1. 尋找並拖曳您選擇的不使用中篩選器至畫布。 例如，此範例會尋找未造訪過您任何頁面的人。
 
    ![](assets/use-inactivity-filters-in-a-smart-list-3.png)
 

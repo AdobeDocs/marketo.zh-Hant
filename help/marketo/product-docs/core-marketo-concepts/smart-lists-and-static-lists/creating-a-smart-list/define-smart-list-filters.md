@@ -4,10 +4,10 @@ description: 瞭解如何定義智慧清單篩選器。 設定篩選限制和值
 title: 定義智慧清單篩選器
 exl-id: ab08c5be-0afa-46d5-9f29-99e1f6b99dea
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
 source-wordcount: '189'
-ht-degree: 6%
+ht-degree: 5%
 
 ---
 
@@ -18,9 +18,9 @@ ht-degree: 6%
 >* [建立智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 >* [尋找並新增篩選器至智慧列示](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}
 
-現在您已[建立智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}並在其中新增[篩選器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}，接下來讓我們定義篩選器。 方法如下。
+現在您已建立[智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}並在其中新增[篩選器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}，請依照下列方式定義篩選器。
 
-繼續我們的範例，讓我們定義這些篩選器，以尋找在加州分數超過50的所有人。
+繼續此範例，定義這些篩選器以尋找在加州分數超過50的所有人員。
 
 1. 前往 **[!UICONTROL Marketing Activities]**。
 
@@ -44,6 +44,6 @@ ht-degree: 6%
 
 >[!TIP]
 >
->如果您認為資料庫中可能有一些記錄包含不完整的電子郵件地址（例如，只有「@adobe.com」），請在使用「contains」運運算元時使用兩個電子郵件地址篩選器。 一個含有「包含@adobe.com」的篩選器，以及一個含有「包含adobe.com」的個別篩選器（省略@符號）。
+>如果您認為資料庫中可能有包含不完整電子郵件地址的記錄（例如，只有「@adobe.com」），請在使用「contains」運運算元時使用兩個電子郵件地址篩選器。 一個含有「包含@adobe.com」的篩選器，以及一個含有「包含adobe.com」的個別篩選器（省略@符號）。
 
 現在您知道如何建立智慧列示，以及新增/定義篩選器。

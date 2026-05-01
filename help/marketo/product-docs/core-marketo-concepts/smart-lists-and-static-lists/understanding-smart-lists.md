@@ -4,10 +4,10 @@ description: 瞭解在Marketo中尋找具有篩選器之人員群組的智慧清
 title: 了解智慧清單
 exl-id: 8b7fd845-96d8-4b53-9ad0-118cf55be24a
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
 source-wordcount: '225'
-ht-degree: 2%
+ht-degree: 9%
 
 ---
 
@@ -21,10 +21,10 @@ ht-degree: 2%
 建立智慧清單的主要步驟如下：
 
 1. [建立智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
-1. [尋找並新增篩選器至智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}
+1. [找到篩選器並將其新增至智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}
 1. [定義智慧清單篩選器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md){target="_blank"}
 
-以下是智慧清單的範例。
+以下是「智慧列示」的外觀範例。
 
 ## 主要標籤 {#main-tab}
 
@@ -43,8 +43,6 @@ ht-degree: 2%
 您新增並定義篩選器，以檢視[!UICONTROL People]索引標籤中的特定群組人員。
 
 ![](assets/understanding-smart-lists-3.png)
-
-好，讓我們開始吧！
 
 >[!MORELIKETHIS]
 >

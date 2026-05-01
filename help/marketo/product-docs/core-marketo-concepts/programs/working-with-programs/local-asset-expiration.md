@@ -3,9 +3,9 @@ description: 瞭解計畫中的本機資產有效期。 設定程式中的本機
 title: 本地資產期限
 exl-id: 603e3eee-0531-4139-a8f5-279831ad011f
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '251'
 ht-degree: 6%
 
 ---
@@ -48,7 +48,7 @@ ht-degree: 6%
 
    ![](assets/local-asset-expiration-6.png)
 
-1. 設定時間。 您必須排程未來至少15分鐘的時間（別忘了輸入上午/下午）。 完成後請按一下 **[!UICONTROL Confirm]**。
+1. 設定時間。 您必須排程未來至少15分鐘的時間（記得輸入上午/下午）。 完成後請按一下 **[!UICONTROL Confirm]**。
 
    ![](assets/local-asset-expiration-7.png)
 

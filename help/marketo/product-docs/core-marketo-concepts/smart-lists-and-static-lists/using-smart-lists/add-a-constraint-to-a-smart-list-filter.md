@@ -4,9 +4,9 @@ description: 瞭解如何將限制新增至智慧清單篩選器。 使用其他
 title: 新增限制至智慧清單篩選器
 exl-id: 5345019c-55e7-4afd-b583-90f1a687a71c
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '167'
 ht-degree: 10%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 10%
 
 建立智慧列示時，有些篩選器會具有稱為「限制」的進階選項。 這些是可新增至篩選器和觸發器的額外條件，有助於進一步縮小搜尋範圍。
 
-在此範例中，我們將一些限制新增至&#x200B;**[資料值已變更](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}**&#x200B;篩選器，以尋找狀態從MQL變更為SQL的人員。
+在此範例中，將一些限制新增至&#x200B;**[資料值已變更](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}**&#x200B;篩選器，以尋找狀態從MQL變更為SQL的人員。
 
 >[!PREREQUISITES]
 >
@@ -46,4 +46,4 @@ ht-degree: 10%
 
    ![](assets/add-a-constraint-to-a-smart-list-filter-6.png)
 
-1. 做得很好！ 按一下「**[!UICONTROL People]**」標籤，檢視在過去30天內狀態從「MQL」變更為「SQL」的所有人員。
+1. 按一下「**[!UICONTROL People]**」標籤，檢視在過去30天內狀態從「MQL」變更為「SQL」的所有人員。

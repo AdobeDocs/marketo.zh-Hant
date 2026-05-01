@@ -4,9 +4,9 @@ description: 瞭解如何移動智慧行銷活動。 將行銷活動重新定位
 title: 移動智慧行銷活動
 exl-id: e5988fba-584f-47c5-8b26-7ce6ba312c9d
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '149'
 ht-degree: 7%
 
 ---
@@ -33,8 +33,8 @@ ht-degree: 7%
 
    >[!NOTE]
    >
-   >在此範例中，我們將Smart Campaign移至另一個方案，但您也可以將其移至促銷活動資料夾。
+   >在此範例中，Smart Campaign正移至其他方案，但您也可以將其移至行銷活動資料夾。
 
-做得好！ 已移動Smart Campaign。
+已移動Smart Campaign。
 
 ![](assets/move-a-smart-campaign-4.png)

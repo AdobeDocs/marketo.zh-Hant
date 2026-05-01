@@ -4,9 +4,9 @@ description: 瞭解如何中止智慧行銷活動。 停止執行中的批次行
 title: 中止智慧行銷活動
 exl-id: 1d80e67a-324c-4a99-bda3-57074a24ea3d
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '146'
 ht-degree: 8%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 8%
 >
 >僅供緊急使用
 
-有時您啟動Smart Campaign後會立即意識到這是錯誤的。 以下說明如何在Smart Campaign執行期間拉動緊急剎車並停止。
+有時您啟動Smart Campaign後會立即意識到這是錯誤的。 請依照下列步驟停止Smart Campaign執行中。
 
 1. 選擇所需的Smart Campaign，然後按一下&#x200B;**[!UICONTROL Schedule]**&#x200B;標籤。
 
@@ -33,7 +33,7 @@ ht-degree: 8%
 
    >[!NOTE]
    >
-   >中止不會復原已完成的步驟，而只會停止發生更多專案（例如：無法取消傳送電子郵件）。
+   >中止不會復原已完成的步驟，而是會停止發生更多專案（例如：無法取消傳送電子郵件）。
 
    ![](assets/abort-a-smart-campaign-4.png)
 

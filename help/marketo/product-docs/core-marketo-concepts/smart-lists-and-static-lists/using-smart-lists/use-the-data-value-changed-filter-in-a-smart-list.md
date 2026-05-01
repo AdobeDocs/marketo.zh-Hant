@@ -4,16 +4,16 @@ description: 瞭解如何在智慧清單中使用資料值變更篩選器。 在
 title: 在智慧清單中使用資料值已變更篩選器
 exl-id: 4ecca2b0-771f-44aa-a0cf-9f9f40549f41
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 17%
+source-wordcount: '143'
+ht-degree: 16%
 
 ---
 
 # 在智慧清單中使用資料值已變更篩選器 {#use-the-data-value-changed-filter-in-a-smart-list}
 
-Marketo資料庫中的值會持續變更和更新。 有時候，您會想要尋找有價值變更的人，而不是尋找特定值。 方法如下。
+Marketo資料庫中的值會持續變更和更新。 有時候，您會想要尋找有價值變更的人，而不是尋找特定值。
 
 >[!PREREQUISITES]
 >

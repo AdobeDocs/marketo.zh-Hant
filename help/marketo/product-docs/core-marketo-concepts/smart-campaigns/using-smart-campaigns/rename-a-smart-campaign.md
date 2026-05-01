@@ -4,16 +4,16 @@ description: 瞭解如何重新命名智慧行銷活動。 從行銷活動設定
 title: 重新命名智慧行銷活動
 exl-id: 116dff4a-56ca-451a-bbab-f277e4f3daf9
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 12%
+source-wordcount: '93'
+ht-degree: 10%
 
 ---
 
 # 重新命名智慧行銷活動 {#rename-a-smart-campaign}
 
-您可以變更現有Smart Campaign的名稱。 方法如下。
+您可以變更現有Smart Campaign的名稱。
 
 1. 前往 **[!UICONTROL Marketing Activities]**。
 
@@ -35,4 +35,4 @@ ht-degree: 12%
    >
    >舊名稱會顯示在標籤中，並在儲存時變更。
 
-快速輕鬆！ 在任何參考Smart Campaign的地方也會變更。
+在任何參考Smart Campaign的地方也會更新。

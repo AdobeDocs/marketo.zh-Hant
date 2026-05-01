@@ -4,9 +4,9 @@ description: 瞭解如何在流程步驟中使用權杖。 將動態值插入流
 title: 在流程步驟中使用權杖
 exl-id: 9b4c3d57-5906-4d7c-8215-4ba2271be3f8
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '200'
 ht-degree: 10%
 
 ---
@@ -46,7 +46,7 @@ ht-degree: 10%
    >
    >方案成員自訂欄位權杖可用於：建立任務、在Microsoft中建立任務、有趣的時刻、變更資料值流程動作和Webhook。
 
-   酷！ 當Smart Campaign執行時，將會從Token提取資料。
+   當Smart Campaign執行時，將會從Token提取資料。
 
    >[!MORELIKETHIS]
    >

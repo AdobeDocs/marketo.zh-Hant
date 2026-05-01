@@ -4,16 +4,16 @@ description: 瞭解如何從「排程」索引標籤啟動觸發程式Smart Camp
 title: 啟動觸發程序智慧行銷活動 | 排程索引標籤
 exl-id: f9232c91-aa39-4033-bd11-865d1cbc5eb2
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 14%
+source-wordcount: '90'
+ht-degree: 15%
 
 ---
 
 # 啟動觸發程序智慧行銷活動 | 排程索引標籤 {#activate-a-trigger-smart-campaign-schedule-tab}
 
-啟用觸發程式Smart Campaign就像開啟。 以下說明該怎麼做。
+啟用觸發程式Smart Campaign就像開啟一樣。
 
 1. 在Smart Campaign的&#x200B;**[!UICONTROL Schedule]**&#x200B;索引標籤中，按一下&#x200B;**[!UICONTROL Activate]**。
 

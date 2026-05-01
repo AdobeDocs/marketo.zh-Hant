@@ -4,9 +4,9 @@ description: 瞭解如何從智慧清單執行單一流程步驟。 對清單中
 title: 從智慧清單執行單一流程步驟
 exl-id: 1ac5795b-1906-4f94-bd0a-570d55c9357b
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '224'
 ht-degree: 10%
 
 ---
@@ -39,7 +39,7 @@ ht-degree: 10%
    >
    >如果結果跨越多個頁面，按一下&#x200B;**[!UICONTROL Select All]**&#x200B;將選取所有頁面上的所有使用者。
 
-1. 在&#x200B;**[!UICONTROL Person Actions]**&#x200B;下，選取您選擇的流程步驟。 在此範例中，我們將使用[變更資料值](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}。
+1. 在&#x200B;**[!UICONTROL Person Actions]**&#x200B;下，選取您選擇的流程步驟。 此範例使用[變更資料值](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}。
 
    ![](assets/run-a-single-flow-step-from-a-smart-list-4.png)
 
@@ -55,7 +55,7 @@ ht-degree: 10%
 
    ![](assets/run-a-single-flow-step-from-a-smart-list-7.png)
 
-做得棒極了！ 您會在右上角看到單一流程步驟的狀態。
+單一流程步驟的狀態將顯示在右上角。
 
 ![](assets/run-a-single-flow-step-from-a-smart-list-8.png)
 

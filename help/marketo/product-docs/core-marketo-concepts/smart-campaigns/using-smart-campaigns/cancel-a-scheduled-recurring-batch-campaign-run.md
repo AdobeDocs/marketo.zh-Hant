@@ -4,16 +4,16 @@ description: 瞭解如何取消排程的週期性批次行銷活動執行。 停
 title: 取消已安排的定期批次行銷活動執行
 exl-id: 7a659d4e-e546-4630-a36f-38ed80dd2a6e
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 13%
+source-wordcount: '122'
+ht-degree: 12%
 
 ---
 
 # 取消已安排的定期批次行銷活動執行 {#cancel-a-scheduled-recurring-batch-campaign-run}
 
-如果您有循環的「批次促銷活動」，而您不想再有這種活動，您可以取消未來的執行。 方法如下。
+如果您有不想再發生的重複批次促銷活動，可以取消未來的執行。
 
 1. 選取Smart Campaign，然後按一下&#x200B;**排程**&#x200B;索引標籤。
 

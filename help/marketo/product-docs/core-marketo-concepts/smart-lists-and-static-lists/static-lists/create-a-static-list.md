@@ -4,16 +4,16 @@ description: 瞭解如何在Marketo中建立靜態清單。 新增清單至資�
 title: 建立靜態清單
 exl-id: 93560d2a-6b36-4660-99b3-dd6209032fb0
 feature: Static Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 13%
+source-wordcount: '106'
+ht-degree: 15%
 
 ---
 
 # 建立靜態清單 {#create-a-static-list}
 
-靜態清單是資料庫中已有的一組人員。 以下說明如何建立一個。
+靜態清單是資料庫中已有的一組人員。
 
 1. 前往 **[!UICONTROL Database]**。
 

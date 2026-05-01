@@ -4,10 +4,10 @@ description: 瞭解如何將方案狀態列新增至方案報告。 在報表欄
 title: 將方案狀態欄新增至方案報告
 exl-id: ab8e5be7-7ea6-4b69-b701-0c81ea556107
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 12%
+source-wordcount: '130'
+ht-degree: 13%
 
 ---
 
@@ -39,13 +39,13 @@ ht-degree: 12%
 
    ![](assets/image2014-9-23-16-3a26-3a53.png)
 
-1. 您成功了！ 按一下「[!UICONTROL Report]」標籤，以檢視含有計畫狀態列的報告。
+1. 按一下「[!UICONTROL Report]」標籤，以檢視含有計畫狀態列的報告。
 
    ![](assets/programreport.jpg)
 
 >[!NOTE]
 >
->如果您在程式中沒有看到每個狀態的欄，請確定您已選取要在報表中顯示[的欄](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md){target="_blank"}。
+>如果您在程式中沒有看到每個狀態的欄，請確定您已選取要在報表中顯示](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md){target="_blank"}的欄[。
 
 >[!MORELIKETHIS]
 >

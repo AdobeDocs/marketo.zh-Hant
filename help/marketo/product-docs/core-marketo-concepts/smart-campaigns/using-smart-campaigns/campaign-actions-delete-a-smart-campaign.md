@@ -4,16 +4,16 @@ description: 瞭解如何刪除智慧行銷活動。 從行銷活動中移除您
 title: 行銷活動動作 — 刪除智慧型行銷活動
 exl-id: 11a210c8-3375-4e12-a97f-a70a9115a197
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
 source-wordcount: '117'
-ht-degree: 12%
+ht-degree: 11%
 
 ---
 
 # 行銷活動動作：刪除智慧行銷活動 {#campaign-actions-delete-a-smart-campaign}
 
-如果您有不再需要的Smart Campaign舊版，可將其刪除。 方法如下。
+如果您有不再需要的Smart Campaign舊版，可將其刪除。
 
 >[!CAUTION]
 >

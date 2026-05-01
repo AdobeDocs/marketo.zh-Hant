@@ -3,9 +3,9 @@ description: 瞭解如何在流程步驟中變更方案成員資料。 更新方
 title: 變更方案成員資料
 exl-id: 2ed8468e-0dbb-48c1-be60-7b51e92f9095
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '143'
 ht-degree: 5%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 5%
 >
 >您也可以在[!UICONTROL New Value]中使用權杖。
 
-現在，只要執行Smart Campaign，您就完成了！
+準備就緒後執行Smart Campaign。
 
 >[!TIP]
 >

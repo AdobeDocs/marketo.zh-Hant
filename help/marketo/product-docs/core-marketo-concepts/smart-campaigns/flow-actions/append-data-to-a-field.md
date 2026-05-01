@@ -4,16 +4,16 @@ description: 瞭解如何將資料附加到流程步驟中的欄位。 將文字
 title: 將資料附加至欄位
 exl-id: 62d68efd-b2df-48bd-925e-f9a95907f33c
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 12%
+source-wordcount: '108'
+ht-degree: 9%
 
 ---
 
 # 將資料附加至欄位 {#append-data-to-a-field}
 
-有一個簡單的方法可以將資料附加至欄位。 方法如下。
+直接將資料附加至欄位。
 
 >[!PREREQUISITES]
 >
@@ -39,4 +39,4 @@ ht-degree: 12%
 
    ![](assets/append-data-to-a-field-4.png)
 
-完成了！您可以在這裡取得創意並新增多個Token。
+您可以在相同欄位中新增多個代號。

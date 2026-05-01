@@ -4,9 +4,9 @@ description: 在「方案排程檢視」中瞭解暫定與確認日期。 瞭解
 title: 了解暫定/已確認日期
 exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '207'
 ht-degree: 4%
 
 ---
@@ -47,8 +47,8 @@ ht-degree: 4%
 
 ## 已完成  {#finished}
 
-已完成的專案已執行。 他們只能是過去（很顯然）。 一旦專案執行且為&#x200B;**[!UICONTROL Finished]**，您就無法移動它或將其設定為暫定。 （不會改變現實和干擾時間流連續體。）
+已完成的專案已執行。 它們只能是過去。 一旦專案執行且為&#x200B;**[!UICONTROL Finished]**，您就無法移動它或將其設定為暫定。
 
 ![](assets/image2014-9-23-15-3a25-3a53.png)
 
-這些狀態是強大的工具。 當您複製方案時，所有智慧行銷活動和電子郵件方案日期都是暫時性的。 可直接從排程檢視確認這些事件。 很酷，對吧？
+這些狀態是強大的工具。 當您複製方案時，所有智慧行銷活動和電子郵件方案日期都是暫時性的。 可直接從排程檢視確認這些事件。

@@ -3,9 +3,9 @@ description: 瞭解如何使用執行行銷活動流程步驟。 有人完成此
 title: 執行行銷活動
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '704'
+source-wordcount: '718'
 ht-degree: 1%
 
 ---
@@ -60,7 +60,7 @@ ht-degree: 1%
 
 **API互動**
 
-在API[中使用排程或請求促銷活動](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch)時，兩者都可以讓您傳遞「我的Token」的值，這會覆寫在您呼叫之促銷活動中為這些Token設定的值。 如果該行銷活動接著執行另一個行銷活動並設定「使用父項內容為True」，則它會使用透過API傳遞的值，而不是應用程式中設定的值。
+在API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch)中使用排程或請求促銷活動[時，兩者都可以讓您傳遞「我的Token」的值，這會覆寫為您呼叫之促銷活動中的這些Token設定的值。 如果該行銷活動接著執行另一個行銷活動並設定「使用父項內容為True」，則它會使用透過API傳遞的值，而不是應用程式中設定的值。
 
 ## 注意事項 {#things-to-note}
 
@@ -73,7 +73,7 @@ ht-degree: 1%
 
 >[!CAUTION]
 >
->切勿讓可執行行銷活動的智慧清單無效，否則&#x200B;_沒有人_&#x200B;符合資格。 最佳實務建議建立個別的智慧清單資產、完整定義資產，並確保其有效。 然後，使用可執行促銷活動中的「智慧列示成員」篩選器，以交換智慧列示定義。
+>切勿讓可執行行銷活動的智慧清單無效，否則&#x200B;_沒有人_&#x200B;符合資格。 最佳實務是建立個別的智慧清單資產、完整定義資產，並確認其有效。 然後，使用可執行促銷活動中的「智慧列示成員」篩選器，以交換智慧列示定義。
 
 ## 權杖繼承範例 {#token-inheritance-example}
 

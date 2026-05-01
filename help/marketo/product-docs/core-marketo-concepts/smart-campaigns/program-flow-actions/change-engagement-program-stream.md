@@ -4,9 +4,9 @@ description: 瞭解如何在流程步驟中變更參與計畫流程。 將人員
 title: 變更參與方案資料流
 exl-id: 1b8dd04b-3af8-4733-b630-b06c4b06bb75
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '103'
 ht-degree: 7%
 
 ---
@@ -28,5 +28,3 @@ ht-degree: 7%
 1. 選取您要新增人員的資料流。
 
    ![](assets/change-engagement-program-stream-3.png)
-
-就是這樣！

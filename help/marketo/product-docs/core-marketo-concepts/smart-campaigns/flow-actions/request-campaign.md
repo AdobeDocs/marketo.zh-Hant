@@ -4,9 +4,9 @@ description: 瞭解如何使用請求行銷活動流程步驟。 有人達到此
 title: 請求行銷活動
 exl-id: 5deecb56-c25f-4e3b-bd85-f9cac1c7149e
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '115'
 ht-degree: 4%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->您要將人員放置到的行銷活動必須處於作用中狀態，且有[已要求行銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md){target="_blank"}觸發程式。
+>您要將人員放置到的行銷活動必須處於作用中狀態，且有[已要求行銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md){target="_blank"}觸發器。
 
 1. 在&#x200B;**[!UICONTROL Database]**&#x200B;中，尋找並選取想要的人員。
 
@@ -31,15 +31,13 @@ ht-degree: 4%
 
    ![](assets/request-campaign-3.png)
 
-1. 在熒幕的右上角，您將會看到操作完成的時間。 按一下「**[!UICONTROL View Results]**」。
+1. 在畫面的右上角，您將會看到操作完成的時間。 按一下「**[!UICONTROL View Results]**」。
 
    ![](assets/request-campaign-4.png)
 
    您的人員目前處於請求的行銷活動中。
 
    ![](assets/request-campaign-5.png)
-
-   做得棒極了！
 
 >[!TIP]
 >

@@ -4,7 +4,7 @@ description: 瞭解如何在流程步驟中變更方案成功。 當人員完成
 title: 變更方案成功
 exl-id: 5b45b6d0-0c3d-4677-8b9a-8bbf03b1209e
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 4%
@@ -41,4 +41,4 @@ ht-degree: 4%
    >
    >您可以使用兩次流程步驟來設定成功標幟和日期。
 
-太棒了！ 現在您知道如何復原和強製成功了。
+現在您知道如何復原和強製成功了。

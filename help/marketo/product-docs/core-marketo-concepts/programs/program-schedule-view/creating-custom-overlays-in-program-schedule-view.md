@@ -4,9 +4,9 @@ description: 瞭解如何在方案排程檢視中建立自訂覆蓋圖。 新增
 title: 在方案排程視圖中建立自訂覆蓋
 exl-id: 066e7b4d-ff2c-4968-be1e-6d95d680a59a
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '80'
 ht-degree: 18%
 
 ---
@@ -31,6 +31,6 @@ ht-degree: 18%
 
    ![](assets/image2014-9-24-10-3a20-3a32.png)
 
-   棒極了！ 現在您的覆蓋只會顯示您定義的專案。
+   現在您的覆蓋只會顯示您定義的專案。
 
    ![](assets/image2014-9-24-10-3a20-3a37.png)

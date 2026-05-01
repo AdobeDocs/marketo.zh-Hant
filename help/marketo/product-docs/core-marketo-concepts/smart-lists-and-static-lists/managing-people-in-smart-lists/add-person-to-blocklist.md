@@ -4,9 +4,9 @@ description: 瞭解如何將個人新增至封鎖清單。 防止將電子郵件
 title: 將人員新增至封鎖清單
 exl-id: e4543bf9-11e9-42df-a31e-e2cebe24ad4a
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '162'
 ht-degree: 9%
 
 ---
@@ -53,11 +53,11 @@ ht-degree: 9%
 
    ![](assets/add-person-to-blocklist-8.png)
 
-1. 選取您剛建立的智慧清單。
+1. 選取您建立的智慧清單。
 
    ![](assets/add-person-to-blocklist-9.png)
 
-1. 按一下「**[!UICONTROL Flow]**」索引標籤。拖放&#x200B;**[!UICONTROL Change Data Value]**&#x200B;流量動作。
+1. 按一下「**[!UICONTROL Flow]**」索引標籤。 拖放&#x200B;**[!UICONTROL Change Data Value]**&#x200B;流量動作。
 
    ![](assets/add-person-to-blocklist-10.png)
 
@@ -81,4 +81,4 @@ ht-degree: 9%
 
 >[!TIP]
 >
->使用[變更資料值](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}建立&#x200B;**觸發行銷活動**，其中列出的&#x200B;**區塊為True**，適用於未來所有具有可列入封鎖清單屬性的人員。
+>使用&#x200B;**變更資料值**&#x200B;建立[觸發行銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}，其中列出的&#x200B;**區塊為True**，適用於未來所有具有可列入封鎖清單屬性的人員。

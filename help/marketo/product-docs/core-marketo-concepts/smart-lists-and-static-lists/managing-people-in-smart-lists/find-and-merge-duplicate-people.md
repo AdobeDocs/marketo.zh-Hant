@@ -4,16 +4,16 @@ description: 瞭解如何尋找及合併重複人員。 將重複的記錄合併
 title: 找到重複人員並將其合併
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '428'
 ht-degree: 3%
 
 ---
 
 # 找到重複人員並將其合併 {#find-and-merge-duplicate-people}
 
-當有新人員進入系統時，Marketo Engage會自動刪除重複專案。 不過，您的CRM可能一開始是透過重複專案傳送。 以下說明合併方法。
+當有新人員進入系統時，Marketo Engage會自動刪除重複專案。 不過，您的CRM可能一開始是透過重複專案傳送。
 
 >[!CAUTION]
 >
@@ -35,7 +35,7 @@ ht-degree: 3%
 
    >[!CAUTION]
    >
-   >如果您使用[!DNL Salesforce]個人帳戶，在Marketo中合併人員可能無法運作。 請儘可能合併[!DNL Salesforce]中的記錄。
+   >如果您使用[!DNL Salesforce]個人帳戶，在Marketo中合併人員可能無法運作。 儘可能合併[!DNL Salesforce]中的記錄。
 
 1. 選取&#x200B;**[!UICONTROL Possible Duplicates]**&#x200B;系統智慧清單，然後按一下&#x200B;**[!UICONTROL People]**&#x200B;標籤。
 
@@ -49,7 +49,7 @@ ht-degree: 3%
 
 >[!CAUTION]
 >
->合併人員時，如果落選者擁有Marketo自訂物件，則系統不會&#x200B;_將_&#x200B;重新關聯至成功人員。 在執行合併之前，請重新父系自訂物件。
+>合併人員時，如果落選者擁有Marketo自訂物件，則系統不會&#x200B;_將_&#x200B;重新關聯至成功人員。 在執行合併之前重新父系自訂物件。
 
 1. 按住Ctrl/Cmd鍵並按一下，然後按一下&#x200B;**[!UICONTROL Merge People]**&#x200B;以選取重複專案。
 
@@ -59,7 +59,7 @@ ht-degree: 3%
    >
    >您可以為同一個人員設定兩個或多個重複專案 — 一次選取所有專案。
 
-1. 不符合的記錄之間的值會出現。 _選取您要為每個欄位保留的值_。 完成時，按一下&#x200B;**[!UICONTROL Merge]**。 如果您不想要其中一個值，可以核取&#x200B;**[!UICONTROL Custom]**&#x200B;並輸入您選擇的值。
+1. 不符合的記錄之間的值會出現。 _選取您要為每個欄位保留的值_。 完成後請按一下 **[!UICONTROL Merge]**。 如果您不想要其中一個值，可以核取&#x200B;**[!UICONTROL Custom]**&#x200B;並輸入您選擇的值。
 
    ![](assets/find-and-merge-duplicate-people-4.png)
 
@@ -80,10 +80,10 @@ ht-degree: 3%
 * 僅合併潛在客戶或僅合併聯絡人時，會根據一般[!DNL Salesforce]規則合併。
 * 將銷售線索與聯絡人合併在一起時，所有銷售線索都會先轉換為聯絡人，再依據一般[!DNL Salesforce]規則合併。
 
-有關合併潛在客戶或聯絡人時Salesforce行為的詳細資訊，請檢查下列[!DNL Salesforce]檔案：
+如需合併潛在客戶或聯絡人時Salesforce行為的詳細資訊，請檢查下列[!DNL Salesforce]份檔案：
 
-* [正在合併重複的銷售機會](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&language=en_US){target="_blank"}
-* [正在合併重複的連絡人](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&language=en_US){target="_blank"}
+* [合併重複的銷售機會](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&language=en_US){target="_blank"}
+* [合併重複的連絡人](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&language=en_US){target="_blank"}
 
 ## 大量合併 {#bulk-merging}
 

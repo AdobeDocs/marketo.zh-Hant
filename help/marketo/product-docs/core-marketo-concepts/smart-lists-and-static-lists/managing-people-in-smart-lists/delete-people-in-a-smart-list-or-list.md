@@ -4,16 +4,16 @@ description: 瞭解如何從智慧清單或靜態清單刪除人員。 從清單
 title: 刪除智慧清單或清單中的人員
 exl-id: 192e79e6-d816-44e3-84c4-212cd73eb3ce
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '274'
 ht-degree: 7%
 
 ---
 
 # 刪除智慧清單或清單中的人員 {#delete-people-in-a-smart-list-or-list}
 
-您可以快速輕鬆地刪除清單或智慧清單中的部分/所有人員。
+您可以刪除清單或智慧清單中的部分或全部人員。
 
 >[!PREREQUISITES]
 >
@@ -67,4 +67,4 @@ ht-degree: 7%
    >
    >若要檢視大量刪除的結果，請按一下畫面右上角的[單一流量動作]快顯方塊中的&#x200B;**[!UICONTROL View Results]**。 刪除時間會因多因素而有很大的差異。
 
-   這是一項絕佳的功能，使用時請小心！
+   使用此功能時請小心。

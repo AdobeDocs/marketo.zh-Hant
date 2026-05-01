@@ -4,20 +4,20 @@ description: 瞭解如何建立和變更清單與智慧列示的檢視。 自訂
 title: 建立與變更清單和智慧清單視圖
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '218'
-ht-degree: 9%
+source-wordcount: '214'
+ht-degree: 8%
 
 ---
 
 # 建立與變更清單和智慧清單視圖 {#create-and-change-views-for-lists-and-smart-list}
 
-「智慧列示」會顯示預設的欄集合。 您知道您可以編輯這些欄以符合您心靈的內容嗎？ 方法如下。
+「智慧列示」會顯示預設的欄集合。 這些欄可自訂。
 
 ## 建立檢視 {#create-a-view}
 
-1. 移至清單或智慧清單，按一下&#x200B;**[!UICONTROL People]**&#x200B;標籤，然後按一下&#x200B;**[!UICONTROL Create View]**&#x200B;下拉式清單下的&#x200B;**[!UICONTROL View]**。
+1. 移至清單或智慧清單，按一下&#x200B;**[!UICONTROL People]**&#x200B;標籤，然後按一下&#x200B;**[!UICONTROL View]**&#x200B;下拉式清單下的&#x200B;**[!UICONTROL Create View]**。
 
    ![](assets/create-and-change-views-for-lists-and-smart-list-1.png)
 
@@ -45,7 +45,7 @@ ht-degree: 9%
 
 ## 編輯檢視 {#edit-a-view}
 
-1. 確定已在&#x200B;**[!UICONTROL View]**&#x200B;下拉式清單中選取您要編輯的檢視。
+1. 確認已在&#x200B;**[!UICONTROL View]**&#x200B;下拉式清單中選取您要編輯的檢視。
 
    ![](assets/create-and-change-views-for-lists-and-smart-list-5.png)
 
@@ -59,7 +59,7 @@ ht-degree: 9%
 
 ## 刪除檢視 {#delete-a-view}
 
-1. 從&#x200B;**[!UICONTROL Edit]**&#x200B;下拉式清單中選取要刪除之檢視的&#x200B;**[!UICONTROL View]**&#x200B;選項。
+1. 從&#x200B;**[!UICONTROL View]**&#x200B;下拉式清單中選取要刪除之檢視的&#x200B;**[!UICONTROL Edit]**&#x200B;選項。
 
    ![](assets/create-and-change-views-for-lists-and-smart-list-8.png)
 

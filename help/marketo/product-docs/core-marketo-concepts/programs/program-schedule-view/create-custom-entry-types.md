@@ -4,9 +4,9 @@ description: 瞭解如何在方案排程檢視中建立自訂專案型別。 新
 title: 建立自訂條目類型
 exl-id: 75a0fb0d-a0d4-472d-9ac1-53e2f2831221
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '107'
 ht-degree: 14%
 
 ---
@@ -39,7 +39,7 @@ ht-degree: 14%
 
    ![](assets/image2014-9-15-16-3a4-3a14.png)
 
-太棒了！ 現在，當您在排程檢視中建立新專案時，此型別將是一個選項。
+現在，當您在排程檢視中建立新專案時，此型別將是一個選項。
 
 >[!NOTE]
 >

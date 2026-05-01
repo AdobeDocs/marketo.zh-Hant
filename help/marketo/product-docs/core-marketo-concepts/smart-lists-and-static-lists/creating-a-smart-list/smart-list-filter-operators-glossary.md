@@ -4,9 +4,9 @@ description: 取得智慧清單篩選器運運算元的說明。 瞭解用於建
 title: 智慧清單篩選器運算子字彙表
 exl-id: 5a370482-f214-4909-bb49-801c1a36b153
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '610'
+source-wordcount: '601'
 ht-degree: 15%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 15%
 
 運運算元是智慧清單的一部分，可協助您取得特定的。 它可讓您以直截了當的語言描述您的篩選器或觸發器。 每種欄位型別的可用運運算元都不同。
 
-以下辭彙表說明每組運運算元。
+此字彙表說明每組運運算元。
 
 ## 日期欄位 {#date-fields}
 
@@ -102,7 +102,7 @@ ht-degree: 15%
   </tr>
 </tbody></table>
 
-**&#42;**&#x200B;自然語言輸入很酷。 以下是您可以輸入的一些模式：
+**&#42;**&#x200B;自然語言輸入使用以下模式：
 
 * 1 小時
 * 82 天
@@ -110,7 +110,7 @@ ht-degree: 15%
 * 14 個月
 * 1 年
 
-只要輸入數字和單位就行了！
+同時輸入數字和單位。
 
 >[!NOTE]
 >
@@ -128,7 +128,7 @@ ht-degree: 15%
 >
 >**範例**
 >
->當您處理過去和未來的事件時，日期欄位可能會很棘手。 以下是一些範例。
+>當您處理過去和未來的事件時，日期欄位可能會變得棘手。 以下是一些範例。
 >
 >**[!UICONTROL In past before]**
 >
@@ -236,4 +236,4 @@ ht-degree: 15%
 </tbody>
 </table>
 
-如您所見，這些操作員可讓您輕鬆講流利的Marketo文！
+如您所見，這些運運算元可讓您輕鬆說流利的Marketo文。
