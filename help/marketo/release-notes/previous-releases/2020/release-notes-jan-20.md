@@ -57,7 +57,7 @@ ht-degree: 1%
 
 ## [!DNL Marketo Sky] {#marketo-sky}
 
-* [影像編輯](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio)：無需離開Adobe即可存取Marketo Engage的編輯功能。 這項新功能可讓您輕鬆地在[!UICONTROL Design Studio]中直接增強、裁切及新增文字至影像。
+* [影像編輯](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=zh-Hant#design-studio)：無需離開Adobe即可存取Marketo Engage的編輯功能。 這項新功能可讓您輕鬆地在[!UICONTROL Design Studio]中直接增強、裁切及新增文字至影像。
 
 ## [!DNL Sales Insight] {#sales-insight}
 
