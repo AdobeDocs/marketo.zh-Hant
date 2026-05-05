@@ -4,16 +4,16 @@ description: 為一對多或多對多結構建立Marketo自訂物件的步驟，
 title: 建立 Marketo 自訂物件
 exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
 feature: Custom Objects
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40d7e8a0723946970c49a6dfc4f0de4c71b0df65
 workflow-type: tm+mt
-source-wordcount: '629'
-ht-degree: 5%
+source-wordcount: '687'
+ht-degree: 7%
 
 ---
 
 # 建立 Marketo 自訂物件 {#create-marketo-custom-objects}
 
-在Marketo中使用自訂物件來追蹤您企業的特定量度。 這可以是汽車、課程等任何專案，無論您想要在Marketo中建立模型以執行行銷活動，均可進行。
+在Marketo中使用自訂物件來追蹤您企業的特定量度。 這可能包括從汽車到課程的任何內容 — 無論您想要在Marketo中建立模型以執行行銷活動。
 
 >[!NOTE]
 >
@@ -67,7 +67,7 @@ ht-degree: 5%
 
 ## 為多對多結構建立自訂物件 {#create-a-custom-object-for-a-many-to-many-structure}
 
-此範例顯示課程自訂物件，您可用來在人員/公司與課程之間建立多對多關係。 完成後，您將建立中介物件以將其連線到資料庫中的人員或公司。
+此範例顯示課程自訂物件，您可用來在人員或公司與課程之間建立多對多關係。 完成後，您將建立中介物件以將其連線到資料庫中的人員或公司。
 
 >[!NOTE]
 >
@@ -105,7 +105,7 @@ ht-degree: 5%
    >
    >您只能透過清單匯入或[API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api)填入Marketo自訂物件。
 
-下一步是建立您的中介物件（請參閱下文）。 但在那之前，您需要建立一個欄位與之連結。
+下一步是讓您建立中介物件（請參閱下文）。 在此之前，您需要建立一個欄位以與之連結。
 
 ## 建立中介物件 {#create-an-intermediary-object}
 
@@ -135,13 +135,13 @@ ht-degree: 5%
    >
    >您可在建立這些欄位時加以編輯，但在儲存後，您只能編輯[!UICONTROL Plural Name]欄位和[!UICONTROL Show in Lead Detail]滑桿。
 
-1. 如果您想要檢視[資料庫]頁面上的自訂物件資料，請將&#x200B;**[!UICONTROL Show in Lead Detail]**&#x200B;滑桿移到上方以顯示&#x200B;**顯示**。 按一下&#x200B;**儲存**。
+1. 如果您想要檢視[資料庫]頁面上的自訂物件資料，請將&#x200B;**[!UICONTROL Show in Lead Detail]**&#x200B;滑桿移到上面以顯示&#x200B;**[!UICONTROL Show]**。 按一下「**[!UICONTROL Save]**」。
 
    ![](assets/create-marketo-custom-objects-17.png)
 
 1. 自訂物件資訊會顯示您輸入的內容。 請注意，它處於&#x200B;**[!UICONTROL Draft]**&#x200B;狀態。
 
-   下一步是讓您[新增連結欄位](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)，以將您的中介物件連線到人員/公司和自訂物件。
+   下一步是讓您[新增連結欄位](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)，以將您的中介物件連線到個人或公司以及自訂物件。
 
 >[!MORELIKETHIS]
 >

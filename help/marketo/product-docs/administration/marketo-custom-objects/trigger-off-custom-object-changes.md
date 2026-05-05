@@ -4,10 +4,10 @@ description: 如何在Marketo自訂物件的智慧行銷活動智慧清單中使
 title: 觸發自訂物件變更
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
 feature: Custom Objects
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40d7e8a0723946970c49a6dfc4f0de4c71b0df65
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 6%
+source-wordcount: '199'
+ht-degree: 9%
 
 ---
 
@@ -18,9 +18,10 @@ ht-degree: 6%
 >此功能僅適用於：
 >
 >* 僅適用於Marketo自訂物件，而非透過原生[!DNL Salesforce]或[!DNL Microsoft Dynamics]整合約步的自訂物件
+>
 >* 作為觸發器，而非篩選器
 >
->請聯絡[Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support)以啟用自訂物件變更觸發程式。
+>連絡[Marketo支援](https://nation.marketo.com/t5/Support/ct-p/Support)以啟用自訂物件變更觸發程式。
 
 在智慧行銷活動的智慧清單中，當自訂物件新增到人員或公司時，您可以觸發流量動作。 您也可以建立使用自訂物件中的&#x200B;_變更_&#x200B;作為觸發器的智慧清單。 例如，當課程名稱更新時，可使用它來傳送電子郵件。
 
@@ -48,7 +49,7 @@ ht-degree: 6%
 
    ![](assets/trigger-off-custom-object-changes-5.png)
 
-1. 你就在那兒。 變更會自動儲存。
+1. 變更會自動儲存。
 
    ![](assets/trigger-off-custom-object-changes-6.png)
 

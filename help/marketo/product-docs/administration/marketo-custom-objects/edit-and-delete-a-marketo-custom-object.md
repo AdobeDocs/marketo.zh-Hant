@@ -4,9 +4,9 @@ description: 編輯或刪除自訂物件的步驟。
 title: 編輯和刪除 Marketo 自訂物件
 exl-id: 97bae63e-f679-490b-bfa2-51d88355b29c
 feature: Custom Objects
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40d7e8a0723946970c49a6dfc4f0de4c71b0df65
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '236'
 ht-degree: 10%
 
 ---
@@ -41,11 +41,11 @@ ht-degree: 10%
 
    ![](assets/edit-and-delete-a-marketo-custom-object-5.png)
 
-1. 請確定核准[編輯的物件](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)。
+1. 核准[編輯的物件](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)。
 
 ## 刪除自訂物件 {#delete-a-custom-object}
 
-刪除自訂物件很容易，但您需要小心。 自訂物件可以連線至其他物件或智慧清單。 因此，Marketo會在您按一下「**[!UICONTROL Delete]**」之前警告您。
+刪除自訂物件時需要小心。 自訂物件可以連線至其他物件或智慧清單。 Marketo會在您按一下「**[!UICONTROL Delete]**」之前警告您。
 
 >[!CAUTION]
 >
@@ -75,7 +75,7 @@ ht-degree: 10%
 
    ![](assets/edit-and-delete-a-marketo-custom-object-10.png)
 
-1. 如果自訂物件已經核准，則刪除它會有更大的風險。 因此，您會收到更嚴格的警告。 輸入&#x200B;**[!UICONTROL I understand]**，核取&#x200B;**[!UICONTROL Cannot Undo]**&#x200B;核取方塊，然後按一下&#x200B;**[!UICONTROL Delete]**。
+1. 如果自訂物件已經核准，則刪除它會有更大的風險。 因此，您將會收到此較嚴厲的警告。 輸入&#x200B;**[!UICONTROL I understand]**，核取&#x200B;**[!UICONTROL Cannot Undo]**&#x200B;核取方塊，然後按一下&#x200B;**[!UICONTROL Delete]**。
 
    ![](assets/edit-and-delete-a-marketo-custom-object-11.png)
 
