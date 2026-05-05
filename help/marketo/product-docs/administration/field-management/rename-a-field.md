@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360293
-description: 在移除自訂欄位在表單、智慧列示和促銷活動中的所有使用後，重新命名Marketo中自訂欄位的步驟。
+description: 在移除自訂欄位在表單、智慧列示和行銷活動中的所有使用後，重新命名Marketo中自訂欄位的步驟。
 title: 重新命名欄位
 exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 10%
+source-wordcount: '125'
+ht-degree: 11%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 10%
 
 >[!NOTE]
 >
->您可以在Marketo中重新命名自訂欄位，但有一個陷阱：您必須先移除系統中該欄位的所有使用權，才能這樣做。 這包括表單、智慧列示和智慧行銷活動。
+>您可以在Marketo中重新命名自訂欄位。 但是，您必須先移除系統中所有其使用，才能這樣做。 這包括表單、智慧列示和智慧行銷活動。
 
 >[!NOTE]
 >
@@ -41,8 +41,8 @@ ht-degree: 10%
 
    ![](assets/rename-a-field-4.png)
 
-做得好！ 您現在知道如何重新命名Marketo中的欄位。
+您現在知道如何重新命名Marketo中的欄位。
 
 >[!CAUTION]
 >
->如果您在[!DNL Salesforce]中重新命名API名稱，Marketo將會建立全新的欄位，並將舊欄位留下！
+>如果您在[!DNL Salesforce]中重新命名API名稱，Marketo將會建立全新的欄位，並將舊欄位留下。

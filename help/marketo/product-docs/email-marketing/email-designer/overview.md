@@ -5,10 +5,10 @@ description: 瞭解電子郵件Designer及其拖放編輯器。 在Marketo Engag
 title: 概觀
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 67d416c3fc126e695ff7cc3f712265d6dec6dc0d
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '670'
-ht-degree: 95%
+source-wordcount: '672'
+ht-degree: 89%
 
 ---
 
@@ -16,13 +16,13 @@ ht-degree: 95%
 
 歡迎使用新的 Adobe Marketo Engage 電子郵件設計工具。
 
-電子郵件設計工具是 Marketo Engage 的最新創新，旨在提供改版後的電子郵件和電子郵件範本建立體驗，透過提供視覺化拖放編輯器和標準現成可用的範本來提高生產力和效率。輕鬆地建立自訂的電子郵件範本，無需花錢向廠商購買。
+電子郵件設計工具是 Marketo Engage 的最新創新，旨在提供改版後的電子郵件和電子郵件範本建立體驗，透過提供視覺化拖放編輯器和標準現成可用的範本來提高生產力和效率。 輕鬆地建立自訂的電子郵件範本，無需花錢向廠商購買。
 
 ## 如何存取 {#how-to-access}
 
 +++了解如何存取電子郵件設計工具
 
-為了存取新的電子郵件設計工具，您的 Marketo Engage 訂閱必須遷移至 [Adobe Identity Management 系統 (IMS)](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。如果您尚未收到邀請，而您想要請求加速處理，請和 Adobe 客戶團隊 (您的客戶經理) 或 [Marketo 支援](https://nation.marketo.com/t5/support/ct-p/Support)聯絡。
+為了存取新的電子郵件設計工具，您的 Marketo Engage 訂閱必須遷移至 [Adobe Identity Management 系統 (IMS)](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。 如果您尚未收到邀請，而您想要請求加速處理，請和 Adobe 客戶團隊 (您的客戶經理) 或 [Marketo 支援](https://nation.marketo.com/t5/support/ct-p/Support)聯絡。
 
 ### 新增使用者 {#add-users}
 
@@ -34,7 +34,7 @@ ht-degree: 95%
 
    ![新增使用者按鈕](assets/overview-2.png){width="600" zoomable="yes"}
 
-1. 在 **[!UICONTROL Add New Values]** 下拉式清單中，選取所需使用者。完成後請按一下 **[!UICONTROL OK]**。
+1. 在 **[!UICONTROL Add New Values]** 下拉式清單中，選取所需使用者。 完成後請按一下 **[!UICONTROL OK]**。
 
    ![從清單中選擇使用者](assets/overview-3.png){width="600" zoomable="yes"}
 
@@ -54,7 +54,7 @@ ht-degree: 95%
 
 * [影像轉 HTML 轉換器](/help/marketo/product-docs/email-marketing/email-designer/feature-comparison.md){target="_blank"}：上傳電子郵件相容的 PNG/JPEG 影像檔案，此檔案會自動轉換為 HTML，以用於新電子郵件設計工具。
 
-* [品牌主題](/help/marketo/product-docs/email-marketing/email-designer/brands/brand-themes.md){target="_blank"}：在 Marketo Engage 內定義品牌主題。樣式設定可以在電子郵件範本和其他電子郵件資產中重複使用及套用，以維持品牌一致性。
+* [品牌主題](/help/marketo/product-docs/email-marketing/email-designer/brands/brand-themes.md){target="_blank"}：在 Marketo Engage 內定義品牌主題。 樣式設定可以在電子郵件範本和其他電子郵件資產中重複使用及套用，以維持品牌一致性。
 
 * [範本匯入工具](/help/marketo/product-docs/email-marketing/email-designer/import-template.md){target="_blank"}：從傳統電子郵件編輯器匯入電子郵件範本，以建立和 Design Studio 中新電子郵件設計工具相容的範本。
 
@@ -62,13 +62,13 @@ ht-degree: 95%
 
 ## 常見問題集 {#faq}
 
-**舊的電子郵件編輯器是否會繼續運作？ 如果是，會持續多久？**
+**傳統電子郵件編輯器將於何時棄用？**
 
-是的，舊的 (傳統) 電子郵件編輯器將和新的電子郵件設定工具同時存在。以傳統編輯器所建立的電子郵件仍會保留。目前無法得知傳統編輯器的淘汰日期，但直到 2026 年仍可繼續運作。在淘汰舊的編輯器之前，我們會提前幾個月通知您。
+雖然傳統編輯器最終將被取代，但目前沒有特定日期。 但淘汰前會發出&#x200B;_個_&#x200B;個月的通知。
 
 **我可以在哪些方案中使用新的電子郵件設計工具電子郵件？**
 
-新的電子郵件設計工具電子郵件在所有方案中都可存取 (互動式網路研討會方案除外)。原地複製功能也可供使用。
+新的電子郵件設計工具電子郵件在所有方案中都可存取 (互動式網路研討會方案除外)。 原地複製功能也可供使用。
 
 **我們現有的電子郵件範本在新的設計工具中是否可以運作？**
 
@@ -84,15 +84,15 @@ ht-degree: 95%
 
 **是否有辦法強制執行品牌化 (字型、標誌和顏色)？**
 
-是！使用[品牌主題](/help/marketo/product-docs/email-marketing/email-designer/brands/brand-themes.md)來建立和管理您的品牌指導方針。
+是！ 使用[品牌主題](/help/marketo/product-docs/email-marketing/email-designer/brands/brand-themes.md)來建立和管理您的品牌指導方針。
 
 **建立範本模組是否會使其更可自訂及可擴展？**
 
 是的，當然了，我們的WYSIWYG （所見即所得）編輯器更能提供自訂功能。
 
-**電子郵件範本建立流程在新設計工具中如何運作？是 WYSIWYG，還是需要 HTML 知識？**
+**電子郵件範本建立流程在新設計工具中如何運作？ 是 WYSIWYG，還是需要 HTML 知識？**
 
-是 WYSIWYG；不需要 HTML 知識。您可以輕鬆地在設計工具中建立範本，減少對外部 Web 開發人員的需求。不過，您仍可選擇透過 HTML 更新 CSS 及編輯個別區段。
+是 WYSIWYG；不需要 HTML 知識。 您可以輕鬆地在設計工具中建立範本，減少對外部 Web 開發人員的需求。 不過，您仍可選擇透過 HTML 更新 CSS 及編輯個別區段。
 
 **新的電子郵件設計工具是否支援 AMP 語言？**
 

@@ -4,16 +4,16 @@ description: 啟用或停用電子郵件中使用之人員和公司權杖的HTML
 title: 電子郵件中的 HTML 編碼權杖
 exl-id: aeac6eec-0f43-4cf3-a850-d193e4fc194d
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 18%
+source-wordcount: '91'
+ht-degree: 19%
 
 ---
 
 # 電子郵件中的 HTML 編碼權杖 {#html-encode-tokens-in-emails}
 
-啟用/停用電子郵件中使用的個人和公司權杖。
+啟用或停用電子郵件中使用的個人和公司權杖。
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 18%
 
 >[!NOTE]
 >
->編碼會將字元轉換為其HTML程式碼版本，以避免傳輸時產生混淆（即「&amp;」變更為`&amp;`）。 如需詳細資訊，請洽詢您的網頁開發人員。
+>編碼會將字元轉換為其HTML程式碼版本，以避免傳輸時產生混淆（即「&amp;」變更為`&amp;`）。 如需詳細資訊，請洽詢網頁開發人員。
 
 1. 前往「**[!UICONTROL Admin]**」區域。
 
@@ -39,4 +39,4 @@ ht-degree: 18%
 
    ![](assets/html-encode-tokens-in-emails-4.png)
 
-   就是這樣！ 您可以視需要為多個個別欄位執行此操作。
+   視需要對任何其他欄位重複此步驟。

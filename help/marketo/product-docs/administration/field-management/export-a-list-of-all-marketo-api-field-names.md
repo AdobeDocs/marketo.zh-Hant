@@ -4,16 +4,16 @@ description: 下載所有Marketo欄位的試算表及其API名稱，以供SOAP A
 title: 匯出所有 Marketo API 欄位名稱的清單
 exl-id: 7720c3fe-85e3-4de2-ad04-503c430562f0
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 26%
+source-wordcount: '94'
+ht-degree: 27%
 
 ---
 
 # 匯出所有 Marketo API 欄位名稱的清單 {#export-a-list-of-all-marketo-api-field-names}
 
-如果您使用我們的[!DNL SOAP API]或[!DNL Munchkin API]，則需要您所有欄位及其API名稱的清單。 以下說明如何取得此清單。
+如果您使用[!DNL SOAP API]或[!DNL Munchkin API]，則需要您所有欄位及其API名稱的清單。
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ ht-degree: 26%
 
    ![](assets/export-a-list-of-all-marketo-api-field-names-3.png)
 
-很好！ 您現在有一個試算表，其中包含您所有欄位及其API名稱的清單。
+您現在有一個試算表，其中包含您所有欄位及其API名稱的清單。
 
 ![](assets/export-a-list-of-all-marketo-api-field-names-4.png)
 
