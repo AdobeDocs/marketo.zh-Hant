@@ -4,16 +4,16 @@ description: 瞭解如何檢視您目前的Marketo許可權。
 title: 了解您所擁有的權限
 exl-id: 46eb65ea-afd9-44b8-a753-f3ca74c6b74b
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 19%
+source-wordcount: '63'
+ht-degree: 22%
 
 ---
 
 # 了解您所擁有的權限 {#find-out-what-permissions-you-have}
 
-如果您想知道Marketo中有或沒有哪些許可權，有個簡單的方法可以讓您瞭解。
+請依照下列步驟檢視您在Marketo中的許可權。
 
 1. 前往 **[!UICONTROL Marketing Activities]**。
 

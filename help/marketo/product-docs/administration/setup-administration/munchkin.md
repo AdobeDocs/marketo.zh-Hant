@@ -4,15 +4,15 @@ description: 概述用於網站追蹤造訪、點按和表單填寫的Munchkin J
 title: '[!DNL Munchkin]'
 exl-id: 3f9303d4-f534-4ce0-9cde-baa7bba3c7f4
 feature: Administration, Munchkin Tracking Code
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 1%
+source-wordcount: '67'
+ht-degree: 16%
 
 ---
 
 # [!DNL Munchkin] {#munchkin}
 
-[!DNL Munchkin]是您放在網站上的JavaScript片段。 它可追蹤造訪、點按和表單填寫。 此外，它還有豐富的API可執行各種酷炫動作。
+[!DNL Munchkin]是您放在網站上的JavaScript片段。 它可追蹤造訪、點按和表單填寫。 此外，它還有豐富的API以及額外功能。
 
-請檢視[&#x200B; [!DNL Munchkin]上的](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}開發人員頁面以瞭解更多資訊。
+如需瞭解詳細資訊，請參閱 [!DNL Munchkin]](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}上的[開發人員頁面。

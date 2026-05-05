@@ -4,7 +4,7 @@ description: 如何開啟或關閉實驗寶箱功能。
 title: 啟用或停用藏寶箱功能
 exl-id: 79cbe2af-9a00-4798-8b1d-1db475d42ab1
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 25%
@@ -13,7 +13,7 @@ ht-degree: 25%
 
 # 啟用或停用藏寶箱功能 {#enable-or-disable-treasure-chest-features}
 
-The Treasure Chest提供尚未完全支援的有趣實驗功能。
+Treasure Check包含尚未完全支援的實驗功能。
 
 >[!NOTE]
 >
@@ -37,4 +37,4 @@ The Treasure Chest提供尚未完全支援的有趣實驗功能。
 
    >[!TIP]
    >
-   >您可能需要登出再重新登入Marketo，變更才會生效。
+   >您可能需要登出並重新登入Marketo，變更才會生效。

@@ -3,9 +3,9 @@ description: 如何自訂登陸頁面網域的HTTP標頭，包括嚴格傳輸安
 title: 登陸頁面標頭
 exl-id: 58eaa0cd-2a2b-4abe-9180-f60a2a1dcc87
 feature: Administration, Landing Pages
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '134'
 ht-degree: 5%
 
 ---
@@ -37,7 +37,7 @@ ht-degree: 5%
  </tr>
  <tr>
   <td><strong>[!UICONTROL X-Frame-Options]</strong></td>
-  <td>可讓您定義Marketo Engage託管的資產是否可嵌入外部網頁</td>
+  <td>可讓您定義Marketo Engage託管的資產是否可內嵌在外部網頁中</td>
  </tr>
 </table>
 

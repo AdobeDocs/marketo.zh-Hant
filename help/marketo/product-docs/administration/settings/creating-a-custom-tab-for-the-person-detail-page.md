@@ -4,16 +4,16 @@ description: 如何建立人員詳細資料頁面的自訂配置。
 title: 建立人員詳細資料頁面的自訂索引標籤
 exl-id: 8a8bd4a0-6a18-4576-b4a3-89c31b502cd6
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 18%
+source-wordcount: '131'
+ht-degree: 19%
 
 ---
 
 # 建立人員詳細資料頁面的自訂索引標籤 {#creating-a-custom-tab-for-the-person-detail-page}
 
-如果您發現自己需要在人員詳細資料中一次又一次地尋找特定欄位集，請考慮建立自訂版面以簡化工作。
+如果您經常需要存取人員詳細資料頁面中的一組特定欄位，請考慮建立自訂版面配置。
 
 1. 前往「**[!UICONTROL Admin]**」區域。
 
@@ -43,6 +43,6 @@ ht-degree: 18%
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-6.png)
 
-   做得棒極了！ 現在，當您載入個人的詳細資料時，可以使用自訂配置來存取對您而言重要的資訊。
+   載入個人詳細資料時，您可以使用自訂版面配置來存取對您而言重要的資訊。
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-7.png)

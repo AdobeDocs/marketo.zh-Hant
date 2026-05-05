@@ -4,10 +4,10 @@ description: Marketo Engage支援的瀏覽器和版本清單，包括Chrome、Fi
 title: 支援的瀏覽器
 exl-id: 58c35407-ddc5-4932-9853-aeb4d47bab7f
 feature: Administration, Getting Started
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 6%
+source-wordcount: '98'
+ht-degree: 5%
 
 ---
 
@@ -26,4 +26,4 @@ Marketo目前支援下列瀏覽器：
 >
 >對於已移轉至[具有Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}的Marketo的使用者，除了Strict模式中的Microsoft Edge之外，Mac和Windows均支援所有瀏覽器。
 
-為獲得最佳體驗，**讓您的瀏覽器保持更新**！
+為獲得最佳體驗，**保持您的瀏覽器更新**。

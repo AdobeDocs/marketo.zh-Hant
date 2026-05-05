@@ -3,10 +3,10 @@ description: 提供快速參考資料，內含設定Marketo Engage與Adobe身分
 title: 快速指南
 exl-id: eb854ec8-fabb-477d-977b-9dc7e7d9f24f
 feature: Marketo with Adobe Identity
-source-git-commit: 9e21f8a6a95717b1c9794fd7819a2230105370ec
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 81%
+source-wordcount: '135'
+ht-degree: 69%
 
 ---
 
@@ -24,8 +24,7 @@ ht-degree: 81%
 
 ## 使用者管理 {#user-management}
 
-新增和移除使用者。由產品管理員 (或系統
-管理員) 完成。
+新增和移除使用者。 由產品管理員 (或系統 管理員) 完成。
 
 [新增使用者](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-user.md#add-a-user){target="_blank"}
 
@@ -35,11 +34,11 @@ ht-degree: 81%
 
 必須在 Marketo Engage 中建立和管理「僅限 Marketo Engage API 使用者」。
 
-[新增 Adobe IMS 啟用訂閱的僅限 API 使用者](/help/marketo/product-docs/administration/users-and-roles/create-api-only-user.md){target="_blank"}
+[新增 Adobe IMS 啟用訂閱的僅 API 使用者](/help/marketo/product-docs/administration/users-and-roles/create-api-only-user.md){target="_blank"}
 
 ## 透過 CSV 新增使用者 {#add-users-via-csv}
 
-[匯入 CSV](https://helpx.adobe.com/tw/enterprise/using/bulk-upload-users.html#add-users){target="_blank"}
+[匯入CSV](https://helpx.adobe.com/tw/enterprise/using/bulk-upload-users.html#add-users){target="_blank"}
 
 ## 使用者登入 {#user-sign-in}
 
