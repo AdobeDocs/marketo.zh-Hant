@@ -19,7 +19,7 @@ ht-degree: 3%
 >
 >* 在您的[!DNL Salesforce] Professional Edition中安裝Marketo。
 >
->* 在 [!DNL Salesforce] AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}中[安裝 [!DNL Marketo Sales Insight] 封裝
+>* 在 [!DNL Salesforce] AppExchange[&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}中安裝 [!DNL Marketo Sales Insight] 封裝
 
 >[!NOTE]
 >
@@ -45,7 +45,7 @@ ht-degree: 3%
    >
    >您的API秘密金鑰就像您組織的密碼，應該是安全的。
 
-1. 若要填入認證，請按一下&#x200B;_[!UICONTROL Rest API Configuration]_面板中的&#x200B;**[!UICONTROL View]**。
+1. 若要填入認證，請按一下&#x200B;_[!UICONTROL Rest API Configuration]_&#x200B;面板中的&#x200B;**[!UICONTROL View]**。
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-4-1.png)
 
