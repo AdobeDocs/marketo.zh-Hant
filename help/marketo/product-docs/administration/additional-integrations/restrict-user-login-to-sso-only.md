@@ -17,7 +17,7 @@ ht-degree: 8%
 
 >[!IMPORTANT]
 >
->本文不適用於[已啟用IMS的Adobe ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md) Marketo訂閱。
+>本文不適用於[已啟用IMS的Adobe &#x200B;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md) Marketo訂閱。
 
 >[!NOTE]
 >
