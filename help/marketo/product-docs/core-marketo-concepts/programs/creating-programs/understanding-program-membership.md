@@ -4,9 +4,9 @@ description: 瞭解計畫會員資格以及人員如何進入計畫。 瞭解計
 title: 了解方案會籍
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '278'
 ht-degree: 2%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 2%
 
 ## 人們如何成為計畫的成員 {#how-people-become-members-of-a-program}
 
-1. 某人填寫程式中登入頁面[上的](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}表單。
+1. 某人填寫程式中登入頁面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}上的[表單。
 
    * 人員會自動擁有進度中的第一個狀態。
 
@@ -28,8 +28,8 @@ ht-degree: 2%
    * 人員會自動擁有進度中的第一個狀態。
 
 1. 您使用[變更程式狀態](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md){target="_blank"}流程步驟。
-1. 人員註冊或出席與活動程式[同步的](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md){target="_blank"}網路研討會。
-1. 已使用Marketo iPad簽入應用程式[建立人員](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md){target="_blank"}。
+1. 人員註冊或出席與活動程式](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md){target="_blank"}同步的[網路研討會。
+1. 已使用Marketo iPad簽入應用程式](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md){target="_blank"}建立人員[。
 1. 已將人員新增至[同步至方案](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}的SFDC行銷活動。
 
 >[!NOTE]

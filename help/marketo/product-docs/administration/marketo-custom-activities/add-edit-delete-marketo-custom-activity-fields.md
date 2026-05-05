@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10100275
 description: 如何在自訂活動上新增、編輯或刪除欄位。
-title: 新增/編輯/刪除 Marketo 自訂活動欄位
+title: 新增、編輯或刪除Marketo自訂活動欄位
 exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
 feature: Custom Activities
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '262'
-ht-degree: 14%
+source-wordcount: '246'
+ht-degree: 7%
 
 ---
 
-# 新增/編輯/刪除 Marketo 自訂活動欄位 {#add-edit-delete-marketo-custom-activity-fields}
+# 新增、編輯或刪除Marketo自訂活動欄位 {#add-edit-delete-marketo-custom-activity-fields}
 
-您可能需要新增、變更，或甚至移除自訂活動欄位。 方法如下。
+瞭解如何新增、變更或移除自訂活動欄位。
 
 ## 新增自訂活動欄位 {#add-a-custom-activity-field}
 
@@ -43,13 +43,13 @@ ht-degree: 14%
 
    >[!TIP]
    >
-   >不確定要選取什麼專案？ 我們為您提供支援！ 所有可用的資料型別都定義於[此文章](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md)。
+   >如需所有可用資料型別的定義，請參閱[本文章](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md)。
 
-1. 為欄位命名。 Api名稱會自動填入。 完成後，按一下「**[!UICONTROL Save]**」。
+1. 為欄位命名。 [!UICONTROL API Name]會自動填入。 完成後，按一下「**[!UICONTROL Save]**」。
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-7.png)
 
-   完成了！已新增您的新欄位。
+   已新增您的新欄位。
 
 ## 編輯自訂活動欄位 {#edit-a-custom-activity-field}
 
@@ -73,27 +73,27 @@ ht-degree: 14%
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-12.png)
 
-   **[!UICONTROL Edit Field]**&#x200B;快顯視窗會出現。 在此範例中，讓我們變更欄位名稱。
+   **[!UICONTROL Edit Field]**&#x200B;快顯視窗會出現。 在此範例中，欄位名稱正在變更。
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-13.png)
 
-1. 輸入新的名稱和Api名稱，然後按一下&#x200B;**[!UICONTROL Save]**。
+1. 輸入新名稱和[!UICONTROL API Name]，然後按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-14.png)
 
    >[!NOTE]
    >
-   >編輯欄位時不會自動填入[!UICONTROL Api Name]。 雖然欄位[!UICONTROL Name]和[!UICONTROL Api Name]不一定相符，但建議您這麼做。
+   >編輯欄位時不會自動填入[!UICONTROL API Name]。 雖然欄位[!UICONTROL Name]和[!UICONTROL API Name]不一定相符，但Marketo建議兩者相符。
 
    >[!CAUTION]
    >
-   >如果自訂活動尚未發佈，您只能編輯API名稱或將欄位變更為「主要」。
+   >您只能編輯[!UICONTROL API Name]，或如果自訂活動尚未發佈，則將此欄位變更為主要。
 
    >[!NOTE]
    >
    >如果要變更哪個欄位是「主要」，必須先取消選取現有的欄位。
 
-您的欄位現在已編輯！
+欄位已更新。
 
 ## 刪除自訂活動欄位 {#delete-a-custom-activity-field}
 

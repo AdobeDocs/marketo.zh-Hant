@@ -4,16 +4,16 @@ description: 發佈自訂活動的步驟。
 title: 發佈自訂活動
 exl-id: 16ac19ed-8c31-4ddf-819e-72a0ec8a3904
 feature: Custom Activities
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 31%
+source-wordcount: '46'
+ht-degree: 41%
 
 ---
 
 # 發佈自訂活動 {#publish-a-custom-activity}
 
-您的自訂活動完全符合您的需求。 現在，該發佈它了！
+瞭解如何發佈您的自訂活動。
 
 1. 前往「**[!UICONTROL Admin]**」區域。
 
@@ -31,12 +31,10 @@ ht-degree: 31%
 
    ![](assets/publish-a-custom-activity-4.png)
 
-   您將會看到自訂活動的[!UICONTROL state]從[!UICONTROL Draft]開始……
+   自訂活動的[!UICONTROL State]變更自[!UICONTROL Draft]...
 
    ![](assets/publish-a-custom-activity-5.png)
 
    ...至[!UICONTROL Published]。
 
    ![](assets/publish-a-custom-activity-6.png)
-
-   做得很好！

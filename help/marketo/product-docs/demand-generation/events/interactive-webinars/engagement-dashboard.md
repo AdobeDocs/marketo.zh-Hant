@@ -3,9 +3,9 @@ description: 瞭解互動式網路研討會參與儀表板。 在您的網路研
 title: 參與儀表板
 feature: Interactive Webinars
 exl-id: 7fdb922a-a67a-4027-b9c2-8d8833c8eba0
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '1712'
+source-wordcount: '1736'
 ht-degree: 0%
 
 ---
@@ -301,7 +301,7 @@ ht-degree: 0%
     <li>出席者已在Q&amp;A Pod中提出至少一個問題。</li></td>
   </tr>
   <tr>
-    <td>中</td>
+    <td>媒體</td>
     <td>符合下列所有條件的參與者：
     <li>出席者的參與層級並未判定為高。</li>
     <li>出席期間至少佔總事件時間的60%。</li>

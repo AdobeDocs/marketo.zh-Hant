@@ -3,10 +3,10 @@ description: 瞭解如何設定ON24與Marketo的整合。 連線您的ON24帳戶
 title: 設定 ON24 與 Marketo 的整合
 exl-id: 395ffa37-b87d-4eb4-bf9f-72aa96dc819c
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '216'
-ht-degree: 8%
+source-wordcount: '238'
+ht-degree: 10%
 
 ---
 
@@ -64,7 +64,7 @@ ht-degree: 8%
 
    ![](assets/set-up-the-on24-integration-with-marketo-10.png)
 
-1. 選擇[!UICONTROL display name]。 按一下&#x200B;**[!UICONTROL Service]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Custom]**。 輸入[!UICONTROL description]。 按一下[!UICONTROL API Only User]下拉式清單，並選取您在上面的步驟中建立[的使用者](#create-a-new-user)。 按一下「**[!UICONTROL Create]**」。
+1. 選擇[!UICONTROL display name]。 按一下「**[!UICONTROL Service]**」下拉式選單，選取「**[!UICONTROL Custom]**」。 輸入[!UICONTROL description]。 按一下[!UICONTROL API Only User]下拉式清單，並選取您在上面的步驟中建立[的使用者](#create-a-new-user)。 按一下「**[!UICONTROL Create]**」。
 
    ![](assets/set-up-the-on24-integration-with-marketo-11.png)
 

@@ -3,9 +3,9 @@ unique-page-id: 11380218
 description: 發行說明 — 夏季16年 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2016年夏天
 exl-id: 3843668e-c729-42aa-b05c-55c33ee0d783
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '773'
+source-wordcount: '798'
 ht-degree: 0%
 
 ---
@@ -69,7 +69,7 @@ Marketo帳戶式行銷在一個統一的平台上提供所有基本功能：
 
 影像元素中的&#x200B;**Token支援**
 
-代號現在可用於插入影像體驗的「外部URL」區域！ 如果您已使用`{{my.tokens}}`指定影像，您現在可以在電子郵件編輯器2.0中參考這些權杖。請注意，在電子郵件編輯器2.0畫布中，影像仍會顯示為損毀。 但是，在傳送電子郵件之前，您會在預覽和傳送範例中看到這些篩選。
+代號現在可用於插入影像體驗的「外部URL」區域！ 如果您已使用`{{my.tokens}}`指定影像，您現在可以在電子郵件編輯器2.0中參考這些權杖。 請注意，在電子郵件編輯器2.0畫布中，影像仍會顯示為損毀。 但是，在傳送電子郵件之前，您會在預覽和傳送範例中看到這些篩選。
 
 ## 多個品牌化網域 {#multiple-branding-domains}
 
@@ -85,7 +85,7 @@ Marketo帳戶式行銷在一個統一的平台上提供所有基本功能：
 
 ## [企業金鑰](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md) {#enterprise-key}
 
-要求您銷售團隊中的每個人安裝[!DNL Sales Insight]的[!DNL Outlook]外掛程式，可能會很繁瑣。 我們引進了使用企業金鑰從遠端安裝[!DNL Outlook]外掛程式的新方式。 將您在[!DNL Sales Insight]的Marketo [!UICONTROL Admin]區段中找到的唯一金鑰傳送給您的IT團隊，讓他們完成其餘工作。
+要求您銷售團隊中的每個人安裝[!DNL Outlook]的[!DNL Sales Insight]外掛程式，可能會很繁瑣。 我們引進了使用企業金鑰從遠端安裝[!DNL Outlook]外掛程式的新方式。 將您在[!UICONTROL Admin]的Marketo [!DNL Sales Insight]區段中找到的唯一金鑰傳送給您的IT團隊，讓他們完成其餘工作。
 
 ![](assets/enterprise-key.png)
 
@@ -99,7 +99,7 @@ Marketo帳戶式行銷在一個統一的平台上提供所有基本功能：
 
 離線檢視內容分析和建議資料。
 
-## [電子郵件編輯器2.0的API支援](https://developers.marketo.com/documentation/asset-api/) {#api-support-for-email-editor}
+## 電子郵件編輯器2.0](https://developers.marketo.com/documentation/asset-api/) {#api-support-for-email-editor}的[API支援
 
 先前僅與v1.0電子郵件和範本相容的既有資產API，現在可供v2.0電子郵件資產使用。
 

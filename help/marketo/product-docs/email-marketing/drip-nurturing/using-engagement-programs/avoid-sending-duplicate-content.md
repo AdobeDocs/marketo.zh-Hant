@@ -4,9 +4,9 @@ description: 瞭解參與方案中防止或允許重複電子郵件的情況。 
 title: 避免傳送重複內容
 exl-id: fd7118e8-6e34-4973-8aa5-effb774447fd
 feature: Engagement Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '217'
 ht-degree: 7%
 
 ---
