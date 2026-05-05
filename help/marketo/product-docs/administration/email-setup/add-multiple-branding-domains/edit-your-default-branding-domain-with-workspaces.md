@@ -4,10 +4,10 @@ description: 在Marketo中使用工作區時，將一般品牌領域變更為公
 title: 使用工作區編輯您的預設品牌化網域
 exl-id: f0982793-5b74-41fb-ab6b-08d4084ac9b1
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 13%
+source-wordcount: '138'
+ht-degree: 14%
 
 ---
 
@@ -28,8 +28,6 @@ ht-degree: 13%
    >[!NOTE]
    >
    >在您編輯一般網域之前，**[!UICONTROL Add]**&#x200B;無法運作。 在您新增第二個網域之前，**[!UICONTROL Delete]**&#x200B;無法運作。
-   >
-   >您必須先編輯一般領域，才能新增其他領域。
 
 1. 輸入預設網域的名稱，然後按一下&#x200B;**[!UICONTROL Next]**。
 
@@ -41,6 +39,6 @@ ht-degree: 13%
 
 >[!NOTE]
 >
->新增其他商標網域時，您可以選擇將此網域設為主要網域，以供一個或多個工作區使用，且所有現有未傳送電子郵件都會設為「預設」，而所有新建立的電子郵件都會預設為主要網域。 您可以根據每封電子郵件覆寫此專案。
+>新增其他商標網域時，您可以選擇將此設為一或多個工作區的主網域，而所有設為「預設」的現有未傳送電子郵件和所有新建立的電子郵件都將預設為主要網域。 您可以根據每封電子郵件覆寫此專案。
 
 現在，您可以[新增工作區所需的其他品牌網域](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain-with-workspaces.md)。

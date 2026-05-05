@@ -4,16 +4,16 @@ description: 設定每天和每7天的電子郵件限制，以防止與您的人
 title: 啟用通訊限制
 exl-id: c69c083c-08fe-49fc-91d4-5b1ff82a2e52
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 12%
+source-wordcount: '159'
+ht-degree: 11%
 
 ---
 
 # 啟用通訊限制 {#enable-communication-limits}
 
-不要和您的員工過度溝通，這非常重要。 設定通訊限制有助於防止您的組織傳送過多電子郵件。
+切勿與員工過度溝通。 設定通訊限制有助於防止您的組織傳送過多電子郵件。
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ ht-degree: 12%
    >
    >[!UICONTROL Per Day]是以訂閱時區的行事曆日期為基礎（午夜 — 午夜）。
 
-1. 按一下&#x200B;**[!UICONTROL Per Day]**&#x200B;下拉式清單，然後選取想要的限制。 在此範例中，我們選取1。
+1. 按一下&#x200B;**[!UICONTROL Per Day]**&#x200B;下拉式清單，然後選取想要的限制。 在此範例中，使用1。
 
    ![](assets/enable-communication-limits-4.png)
 
@@ -43,7 +43,7 @@ ht-degree: 12%
    >
    >如果預設集選項都不適合您，您也可以選擇&#x200B;**[!UICONTROL Custom]**。
 
-1. 按一下&#x200B;**[!UICONTROL Per 7 Days]**&#x200B;下拉式清單，然後選取想要的限制。 在此範例中，我們選取5。
+1. 按一下&#x200B;**[!UICONTROL Per 7 Days]**&#x200B;下拉式清單，然後選取想要的限制。 在此範例中，使用5。
 
    ![](assets/enable-communication-limits-5.png)
 
@@ -63,7 +63,7 @@ ht-degree: 12%
    >
    >**範例**
    >
-   >上述設定表示在任何七天期間&#x200B;**內，使用者每天不會收到超過**&#x200B;封電子郵件&#x200B;**或超過** 5封。
+   >上述設定表示在任何七天期間&#x200B;**內，使用者每天不會收到超過** 1封電子郵件&#x200B;**或超過** 5封。
 
    >[!NOTE]
    >

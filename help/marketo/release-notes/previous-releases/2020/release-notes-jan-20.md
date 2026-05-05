@@ -4,9 +4,9 @@ description: 發行說明 — 2020年1月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2020年1月
 exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '792'
+source-wordcount: '842'
 ht-degree: 1%
 
 ---
@@ -29,12 +29,12 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->目前，Firefox僅完全支援AEM Asset Selector。 Safari不支援此功能，且根據您的SameSite Cookie設定，此功能在最新版Chrome (v. 80)中可能無法運作。
+>目前，Firefox僅完全支援AEM Asset Selector。 Safari不支援此功能，且可能在最新版Chrome (v. 80)，視您的SameSite Cookie設定而定。
 
 * **[!DNL Microsoft Dynamics]— 即時同步銷售機會與CRM**：即時同步銷售機會與Marketo Engage與[!DNL Microsoft Dynamics]之間的聯絡人。 建立銷售機會或聯絡人，並透過「將人員同步到Microsoft」流程動作立即在[!DNL Microsoft Dynamics]中檢視。
 * **[!DNL LinkedIn]銷售機會總成Forms其他欄位對應**：從[!DNL LinkedIn]銷售機會總成Forms擷取銷售機會資料，以針對銷售和行銷接觸點建立更相關的體驗。 將隱藏欄位、同意欄位和測試潛在客戶欄位拉入Marketo Engage。
 * **電子郵件範本相依性API**：取得相依於電子郵件範本的資產清單，以瞭解可能的變更範圍，以及可更快變更和刪除範本的位址相依性。
-* **多執行個體管理增強功能**：使用訂閱的可捲動字母順序下拉式功能表，快速瀏覽至您需要的執行個體。
+* **多執行個體管理增強功能**：透過訂閱的可捲動字母順序下拉式功能表，快速瀏覽至您需要的執行個體。
 
 ## Account-Based Marketing {#account-based-marketing}
 
@@ -42,7 +42,7 @@ ht-degree: 1%
 
 * [新帳戶探索(BETA)](https://docs.marketo.com/x/WQA6Ag) ![(star)](assets/yellow-star.png)：使用帳戶設定檔來根據您的AI支援的理想客戶設定檔模型，探索ABM策略的全新目標帳戶。 檢視、選取和匯入建議的新帳戶，以及其以AI為基礎的配合與意圖資料指標，這些尚未存在於您的Marketo Engage銷售機會和帳戶資料庫中，以進行ABM目標定位。 立即可供符合帳戶分析客戶資格的客戶使用。
 
-<br>
+<br> 
 
 **_整個季度發行_**
 
@@ -57,12 +57,12 @@ ht-degree: 1%
 
 ## [!DNL Marketo Sky] {#marketo-sky}
 
-* [影像編輯](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=zh-Hant#design-studio)：無需離開Adobe即可存取Marketo Engage的編輯功能。 這項新功能可讓您輕鬆地在[!UICONTROL Design Studio]中直接增強、裁切及新增文字至影像。
+* [影像編輯](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio)：無需離開Adobe即可存取Marketo Engage的編輯功能。 這項新功能可讓您輕鬆地在[!UICONTROL Design Studio]中直接增強、裁切及新增文字至影像。
 
 ## [!DNL Sales Insight] {#sales-insight}
 
 * **[!DNL Salesforce Lightning]大量動作**：提升銷售效率，讓買家持續參與，能夠新增最多200個連絡人/銷售機會至行銷活動，並透過[!DNL Salesforce Lightning]大量傳送Marketo Engage電子郵件給他們。
-* **[!DNL Salesforce1]**&#x200B;的行動支援：您現在可以在[!DNL Sales Insight]應用程式中行動存取所有[!DNL Salesforce1]功能，例如「有趣的時刻」和Web活動與電子郵件。
+* **[!DNL Salesforce1]**&#x200B;的行動支援：您現在可以在[!DNL Salesforce1]應用程式中行動存取所有[!DNL Sales Insight]功能，例如「有趣的時刻」和Web活動與電子郵件。
 * **UI增強功能**：更新介面，提供可讀性增強功能，以及符合我們[!DNL Marketo Sky]體驗的設計。
 
 ## [!DNL Sales Connect] {#sales-connect}
@@ -76,4 +76,4 @@ ht-degree: 1%
 >
 >* **ITP 2.1+ [!DNL Munchkin]更新**：由於[!DNL Safari]的Cookie原則有所變更，[!DNL Munchkin]在同一個網域上跨工作階段追蹤使用者的能力，將由ITP根據訪客使用的瀏覽器和瀏覽器版本，限製為1或7天。 為了解決這個問題，我們正在實作新的網站服務，以允許透過HTTP回應以Set-Cookie標頭設定Munchkin Cookie。 如需有關如何實作此新服務的詳細資訊，請參閱[這裡](https://nation.marketo.com/docs/DOC-7351)。
 
-**_產品發行網路研討會_** [於3月3日11](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) PT / 2:00AM ET加入我們:00PM，參加我們產品團隊舉辦的即時網路研討會，並深入瞭解此發行版本包含的功能。
+**_產品發行網路研討會_** [於3月3日11:00AM PT / 2:00PM ET加入我們](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html)，參加我們產品團隊舉辦的即時網路研討會，並深入瞭解此發行版本包含的功能。

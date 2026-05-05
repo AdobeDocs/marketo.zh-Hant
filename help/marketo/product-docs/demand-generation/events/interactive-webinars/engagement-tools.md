@@ -4,9 +4,9 @@ title: 互動式網路研討會中的參與工具
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '1280'
+source-wordcount: '1285'
 ht-degree: 0%
 
 ---
@@ -77,7 +77,7 @@ Q&amp;A Pod的主持者檢視也可移至主持人和主持者區域，以擁有
 
 檔案
 
-檔案Pod可用來共用可下載的內容。 這可用來分享產品白皮書、個案研究、簡報、影片等。 與參與者。 按一下加號按鈕或將檔案直接拖放到Pod上，即可新增檔案。 若要進一步瞭解「檔案」Pod，請觀看此影片。
+檔案Pod可用來共用可下載的內容。 這可用來與參與者分享產品白皮書、個案研究、簡報、影片等。 按一下加號按鈕或將檔案直接拖放到Pod上，即可新增檔案。 若要進一步瞭解「檔案」Pod，請觀看此影片。
 
 熒幕擷圖
 

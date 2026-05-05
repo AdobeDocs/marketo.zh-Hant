@@ -4,10 +4,10 @@ description: 瞭解如何在Marketo Engage中使用adobe標籤管理員實作rtp
 title: 使用 Adobe Tag Manager 實施 RTP
 exl-id: 5a938d02-6b09-45d5-94b0-dbb50b5d62b6
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '191'
-ht-degree: 8%
+source-wordcount: '198'
+ht-degree: 7%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 8%
 
 1. 前往 **[!UICONTROL Account Settings]**。
 
-   a.如果您已從支援部門收到JavaScript標籤 — 請繼續步驟4。
+   答： 如果您已從支援部門收到JavaScript標籤 — 請繼續步驟4。
 
    ![](assets/image2014-11-30-15-3a19-3a21-4.png)
 
@@ -29,7 +29,7 @@ ht-degree: 8%
 
 1. 登入您的[!DNL Dynamic Tag Manager]帳戶([https://dtm.adobe.com/sign_in](https://dtm.adobe.com/sign_in))。
 
-1. 前往 **[!UICONTROL Dashboard]。**&#x200B;按一下相關的Web屬性。
+1. 移至&#x200B;**[!UICONTROL Dashboard].** 按一下相關的Web屬性。
 
    ![](assets/image2014-12-3-17-3a58-3a17.png)
 
