@@ -23,7 +23,7 @@ ht-degree: 12%
 
 >[!TIP]
 >
->若要尋找&#x200B;*每次成功成本最低*&#x200B;的方案，例如，在該欄排序您的報告](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"}，然後選擇&#x200B;**[!UICONTROL Sort Ascending]**。[
+>若要尋找&#x200B;*每次成功成本最低*&#x200B;的方案，例如，在該欄排序您的報告[&#128279;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"}，然後選擇&#x200B;**[!UICONTROL Sort Ascending]**。
 
 「方案效能」報表中的欄包括：
 

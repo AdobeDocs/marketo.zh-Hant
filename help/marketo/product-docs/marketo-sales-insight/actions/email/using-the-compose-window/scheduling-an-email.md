@@ -28,7 +28,7 @@ ht-degree: 4%
 
    ![](assets/scheduling-an-email-3.png)
 
-1. 輸入您要電子郵件發出的時間。 選取想要的時區，然後按一下[儲存]。**** 完成時關閉排程器。
+1. 輸入您要電子郵件發出的時間。 選取想要的時區，然後按一下[儲存]。**&#x200B;** 完成時關閉排程器。
 
    ![](assets/scheduling-an-email-4.png)
 

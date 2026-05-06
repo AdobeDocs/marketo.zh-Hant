@@ -77,4 +77,4 @@ ht-degree: 4%
 
    >[!TIP]
    >
-   >帳戶儲存後，您就可以在 [!DNL LinkedIn]](/help/marketo/product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md)上使用[相符的對象來鎖定他們。
+   >帳戶儲存後，您就可以在 [!DNL LinkedIn][&#128279;](/help/marketo/product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md)上使用相符的對象來鎖定他們。

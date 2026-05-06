@@ -52,7 +52,7 @@ Salesforce使用OAuth通訊協定，讓應用程式的使用者能夠安全存�
 
    ![](assets/log-in-using-oauth-7.png)
 
-1. 略過最後四個區段，然後按一下[建立]。****
+1. 略過最後四個區段，然後按一下[建立]。**&#x200B;**
 
    ![](assets/log-in-using-oauth-8.png)
 

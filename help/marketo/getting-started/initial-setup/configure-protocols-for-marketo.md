@@ -253,7 +253,7 @@ DMARC 有兩種比對類型：DMARC—DKIM 比對和 SPF 比對。
 
 * 與 DKIM 比對的 DMARC - 若要設定與 DKIM 比對的 DMARC，您必須：
 
-   * 為您的郵件的寄件者: 網域設定 DKIM。 使用](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}本文中[的指示。
+   * 為您的郵件的寄件者: 網域設定 DKIM。 使用[&#128279;](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}本文中的指示。
    * 為先前已設定的寄件者:/DKIM 網域設定 DMARC
 
 * 與 DMARC 比對的 SPF - 若要透過具品牌識別的 return-path 來設定與 DMARC 比對的 SPF，您必須：

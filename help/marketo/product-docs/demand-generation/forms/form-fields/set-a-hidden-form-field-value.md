@@ -37,7 +37,7 @@ ht-degree: 5%
 
 >[!NOTE]
 >
->引數有點技術化，不是嗎？ 不過一旦您取得，就表示它們是強大的。 查詢字串](https://en.wikipedia.org/wiki/Query_string)上的這個[Wikipedia頁面有些幫助。
+>引數有點技術化，不是嗎？ 不過一旦您取得，就表示它們是強大的。 查詢字串[&#128279;](https://en.wikipedia.org/wiki/Query_string)上的這個Wikipedia頁面有些幫助。
 
 1. 為&#x200B;**[!UICONTROL Get Value Type]**&#x200B;選取&#x200B;**[!UICONTROL URL Parameter]**。
 

@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->如果尚未安裝，請為 [!DNL Outlook]](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)安裝[Marketo電子郵件增益集。
+>如果尚未安裝，請為 [!DNL Outlook][&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)安裝Marketo電子郵件增益集。
 
 >[!NOTE]
 >
