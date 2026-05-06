@@ -141,7 +141,7 @@ ht-degree: 2%
   <tr>
    <td>隱私權與合規性</td>
    <td><li>您有計畫確保您符合資料隱私權和垃圾郵件法規嗎？
-   <br/>考慮<a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR</a>、CASL、CAN-SPAM、CCPA等</li>
+   <br/>考慮<a href="https://business.adobe.com/tw/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR</a>、CASL、CAN-SPAM、CCPA等</li>
 <p><img src="assets/tip-icon.png" alt="提示圖示">秘訣：請記得隨時向法律團隊諮詢這些問題。 在進行任何變更之前，請向您的團隊詢問先前的行動方案，以維持法規遵循。</td>
   </tr>
   <tr>
@@ -157,7 +157,7 @@ ht-degree: 2%
   </tr>
   <tr>
    <td>訂閱/偏好設定中心</td>
-   <td><li>您是否已設定<a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html" target="_blank">訂閱/偏好設定中心</a>？ 它是否如預期般運作？</li></td>
+   <td><li>您是否已設定<a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html?lang=zh-Hant" target="_blank">訂閱/偏好設定中心</a>？ 它是否如預期般運作？</li></td>
   </tr>
   <tr>
    <td>有趣的時刻（如果適用）</td>

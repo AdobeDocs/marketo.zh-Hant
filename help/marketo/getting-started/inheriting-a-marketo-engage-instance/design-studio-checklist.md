@@ -25,7 +25,7 @@ ht-degree: 3%
   <tr>
    <td>全域登陸頁面</td>
    <td><li>有多少全域<a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md" target="_blank">登陸頁面</a>？ 程式是否使用這些值？</li>
-   <li>您是否已設定<a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html" target="_blank">訂閱中心</a>？
+   <li>您是否已設定<a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html?lang=zh-Hant" target="_blank">訂閱中心</a>？
    <br/>如果沒有，請考慮建立一個。</li></td>
   </tr>
   <tr>
@@ -95,7 +95,7 @@ ht-degree: 3%
   <tr>
    <td>隱私權與合規性</td>
    <td><li>您的表單策略是否符合貴公司的資料隱私權和選擇加入要求？
-   <br/>請考慮<a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">一般資料保護規範(GDPR)</a>、加拿大的反垃圾郵件法(CASL)、2003年的控制非請求性色情攻擊與行銷法(CAN-SPAM)、加州消費者隱私保護法(CCPA)等，以符合規範。</li>
+   <br/>請考慮<a href="https://business.adobe.com/tw/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">一般資料保護規範(GDPR)</a>、加拿大的反垃圾郵件法(CASL)、2003年的控制非請求性色情攻擊與行銷法(CAN-SPAM)、加州消費者隱私保護法(CCPA)等，以符合規範。</li>
 <p><img src="assets/tip-icon.png" alt="提示圖示">秘訣：請記得隨時向法律團隊諮詢這些問題。 在進行任何變更之前，請向您的團隊詢問先前的行動方案，以維持法規遵循。</td>
   </tr>
  </tbody>
