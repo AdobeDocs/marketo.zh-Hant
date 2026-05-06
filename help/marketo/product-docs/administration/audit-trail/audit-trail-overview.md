@@ -4,9 +4,9 @@ description: 稽核軌跡概觀，以及它如何在Marketo執行個體中擷取
 title: 稽核軌跡概觀
 exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
 feature: Audit Trail
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 759f14f3913491d95e637e0d80217720beda55b1
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '354'
 ht-degree: 2%
 
 ---
@@ -25,15 +25,15 @@ ht-degree: 2%
 
 稽核軌跡可以即時擷取Marketo訂閱中發生之動作和事件的完整清單。 功能包括自助式存取六個月的資料歷史記錄，以協助回答下列問題：
 
-此資產或設定有什麼改變，上次更新的是誰？
+「此資產或設定有什麼改變，上次更新的是誰？」
 
-使用者X最近做了什麼？
+「使用者X最近做了什麼？」
 
-誰正在登入我們的帳戶？
+「誰正在登入我們的帳戶？」
 
 ## 我們稽核的專案 {#what-we-audit}
 
-Marketo將稽核[建立、編輯和刪除](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)動作：
+Marketo稽核下列專案的[建立、編輯和刪除](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)動作：
 
 * Design Studio資產
 * 所有Marketo計畫
@@ -62,11 +62,11 @@ Marketo將稽核[建立、編輯和刪除](/help/marketo/product-docs/administra
 
 **3) [使用者登入歷程記錄](/help/marketo/product-docs/administration/audit-trail/user-login-history.md)**
 
-檢視哪些人一直在登入您的訂閱，以及何時登入。 也包括失敗的登入嘗試。
+檢視哪些人一直在登入您的訂閱以及何時登入（也包括失敗的登入嘗試）。
 
 >[!TIP]
 >
->您可以使用稽核軌跡稽核的次數太多，請務必利用[篩選](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)！
+>因為您可以使用「稽核軌跡」稽核太多了，[篩選](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)可以節省大量時間。
 
 ## 匯出資料 {#exporting-data}
 
@@ -78,7 +78,7 @@ Marketo將稽核[建立、編輯和刪除](/help/marketo/product-docs/administra
 >
 >**定義**
 >
->**未知：**&#x200B;在[!DNL Webhook]中，您可能會看到使用者的名稱和電子郵件列為「未知」。 當您變更CRM中的挑選清單值時，就會發生此狀況。 這些值會顯示在Marketo表單和登入頁面中。 在CRM端執行此更新將會自動草稿您的登入頁面參考表單。 在[!DNL Webhook]中，我們將擷取登入頁面已草稿，但使用者的名稱和電子郵件將顯示為「未知」，因為我們無法從CRM端擷取使用者資訊。
+>**未知：**&#x200B;在[!DNL Webhook]中，您可能會看到使用者的名稱和電子郵件列為「未知」。 當您變更CRM中的挑選清單值時，就會發生此狀況。 這些值會顯示在Marketo表單和登入頁面中。 在CRM端執行此更新將會自動草稿您的登入頁面參考表單。 在[!DNL Webhook]中，Marketo擷取登入頁面為草稿，但使用者的名稱和電子郵件將顯示為「未知」，因為Marketo無法從CRM端擷取使用者資訊。
 
 >[!MORELIKETHIS]
 >
