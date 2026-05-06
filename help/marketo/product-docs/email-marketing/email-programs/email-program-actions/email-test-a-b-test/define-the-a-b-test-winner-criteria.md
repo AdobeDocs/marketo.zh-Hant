@@ -4,10 +4,10 @@ description: 瞭解如何定義A/B測試獲勝者條件。 設定判斷哪個變
 title: 定義 A/B 測試勝出條件
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
 feature: Email Programs, A/B Testing
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '423'
-ht-degree: 20%
+source-wordcount: '443'
+ht-degree: 23%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 20%
    <table>
    <tr>
    <td><b>[!UICONTROL Opens]</b></td>
-   <td>將影像下載到電子郵件中時，開啟的登入會進行。 即使不包含影像，根據預設，Marketo也會在所有HTML電子郵件中插入單一追蹤畫素。</td>
+   <td>將影像下載到電子郵件中時，開啟的登入會進行。 即使您未包含影像，預設情況下，Marketo 也會在所有 HTML 電子郵件中插入一個追蹤像素。</td>
    </tr>
    <tr>
    <td><b>[!UICONTROL Clicks]</b></td>
@@ -36,11 +36,11 @@ ht-degree: 20%
    </tr>
    <tr>
    <td><b>[!UICONTROL Click to Open] %</b></td>
-   <td>電子郵件被開啟而且內含連結被點按的百分比。此數值將不重複點按次數除以不重複開啟次數，然後乘以 100 來用百分比呈現，可衡量電子郵件的相關性和內容。</td>
+   <td>電子郵件被開啟而且內含連結被點按的百分比。 此數值將不重複點按次數除以不重複開啟次數，然後乘以 100 來用百分比呈現，可衡量電子郵件的相關性和內容。</td>
    </tr>
    <tr>
    <td><b>[!UICONTROL Engagement Score]</b></td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html?lang=zh-Hant" target="_blank">參與分數</a>可協助您判斷內容的有效性。</td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html" target="_blank">參與分數</a>可協助您判斷內容的有效性。</td>
    </tr>
    </table>
 

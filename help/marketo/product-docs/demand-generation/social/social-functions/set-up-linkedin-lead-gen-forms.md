@@ -4,9 +4,9 @@ description: 瞭解如何使用Marketo設定LinkedIn潛在客戶Gen Forms。 透
 title: 設定 LinkedIn 商機開發表單
 exl-id: 554a546c-adeb-4132-830d-ff15ba5cf9a1
 feature: Social
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '489'
+source-wordcount: '499'
 ht-degree: 4%
 
 ---
@@ -43,7 +43,7 @@ ht-degree: 4%
 
    ![](assets/set-up-linkedin-lead-gen-forms-4.png)
 
-1. 登入LinkedIn後，請返回Marketo並按一下&#x200B;**[!UICONTROL Authorize]**。
+1. 登入LinkedIn後，返回Marketo並按一下&#x200B;**[!UICONTROL Authorize]**。
 
    ![](assets/set-up-linkedin-lead-gen-forms-5.png)
 

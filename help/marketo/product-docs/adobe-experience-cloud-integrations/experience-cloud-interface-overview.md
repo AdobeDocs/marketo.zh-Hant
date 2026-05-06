@@ -3,32 +3,32 @@ description: 瞭解在單一執行個體中提供Marketo Engage的Adobe Experien
 title: Adobe Experience Cloud 介面概觀
 exl-id: 7aaf6926-c921-4182-a8ef-d594643a5c1c
 feature: Integrations
-source-git-commit: 0851dedd240b2239fd3daca43aa84d8123a4d791
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '296'
-ht-degree: 89%
+source-wordcount: '312'
+ht-degree: 55%
 
 ---
 
 # Adobe Experience Cloud 介面概觀 {#adobe-experience-cloud-interface-overview}
 
-Adobe Experience Cloud 介面與 Adobe Experience Cloud 應用程式及服務的「shell」外觀保持一致。但是其並不只是新設計而已。這是一款單頁應用程式，能在單一執行個體中提供使用者體驗。
+Adobe Experience Cloud 介面與 Adobe Experience Cloud 應用程式及服務的「shell」外觀保持一致。 但是，這不僅僅是新設計。 這是一種單頁應用程式，可在單一執行個體中提供使用者體驗。
 
 ## 使用者流程 {#user-flow}
 
-若您尚未登入 Adobe Experience Cloud 產品，請直接登入 [!DNL Marketo Engage]，連結如下：[https://experience.adobe.com/marketo-engage](https://experience.adobe.com/marketo-engage)。
+如果您尚未登入Adobe Experience Cloud產品，請直接在此登入[!DNL Marketo Engage]： [https://experience.adobe.com/marketo-engage](https://experience.adobe.com/marketo-engage)。
 
-若您&#x200B;_已_&#x200B;登入 Adobe Experience Cloud 產品，只需按一下選單圖示然後選取「**[!DNL Marketo Engage]**」。
+如果您&#x200B;_已_&#x200B;登入Adobe Experience Cloud產品，請按一下功能表圖示並選取&#x200B;**[!DNL Marketo Engage]**。
 
 ![](assets/unified-shell-overview-1.png)
 
 >[!NOTE]
 >
->根據所訂閱的 Adobe Experience Cloud 產品，您的下拉式選單可能呈現不同的外觀。
+>您的下拉式功能表可能會根據您訂閱的Adobe Experience Cloud產品而有所不同。
 
 ## 新功能 {#new-features}
 
-除了外觀更新之外，您還會注意到以下功能：
+除了已更新的外觀和風格，還提供下列功能：
 
 **整合式說明中心**
 
@@ -56,9 +56,9 @@ Adobe Experience Cloud 介面與 Adobe Experience Cloud 應用程式及服務的
 
 ## 常見問題集 {#faq}
 
-**我無法透過 Experience Cloud 介面登入 [!DNL Marketo Engage]。可能是什麼問題造成？**
+**我無法透過Experience Cloud介面登入[!DNL Marketo Engage]。 可能是什麼問題造成？**
 
-若您可以登入 Adobe Experience Cloud，但隨後看到「無法載入頁面」錯誤，則問題可能出在 [!DNL Marketo Engage] 方面。請聯絡 [Marketo 支援](https://nation.marketo.com/t5/support/ct-p/Support)取得協助。
+若您可以登入 Adobe Experience Cloud，但隨後看到「無法載入頁面」錯誤，則問題可能出在 [!DNL Marketo Engage] 方面。 請連絡[Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support)以取得協助。
 
 **使用者歷史記錄、全域搜尋、Marketo 通知以及工作匣都到哪裡去了？**
 

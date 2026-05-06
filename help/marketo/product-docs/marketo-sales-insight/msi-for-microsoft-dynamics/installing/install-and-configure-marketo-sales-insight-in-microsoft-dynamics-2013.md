@@ -4,14 +4,14 @@ description: 瞭解如何在Microsoft Dynamics 2013中安裝和設定Marketo Sal
 title: 在 Microsoft Dynamics 2013 中安裝及設定 Marketo 銷售洞察
 exl-id: 290db451-47a6-4cfa-a36f-bc12ef7d3482
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '365'
 ht-degree: 5%
 
 ---
 
-# 在[!DNL Marketo Sales Insight]中安裝並設定[!DNL Microsoft Dynamics 2013] {#install-and-configure-marketo-sales-insight-in-microsoft-dynamics}
+# 在[!DNL Microsoft Dynamics 2013]中安裝並設定[!DNL Marketo Sales Insight] {#install-and-configure-marketo-sales-insight-in-microsoft-dynamics}
 
 [!DNL Marketo Sales Insight]是絕佳的工具，可讓您的銷售團隊透過一個「視窗」瞭解行銷團隊擁有的豐富資料。 以下說明安裝和設定方法。
 
@@ -19,11 +19,11 @@ ht-degree: 5%
 >
 >完成您的Marketo-Microsoft整合。
 >
->[下載您](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) CRM版本的正確解決方案[!DNL Microsoft Dynamics]。
+>[下載您[!DNL Microsoft Dynamics] CRM版本的正確解決方案](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)。
 
 ## 匯入解決方案 {#import-solution}
 
-好，現在應該將[!DNL Marketo Sales Insight]方案匯入[!DNL Microsoft Dynamics]。
+好，現在可以將[!DNL Marketo Sales Insight]方案匯入[!DNL Microsoft Dynamics]了。
 
 1. 在&#x200B;**[!UICONTROL Microsoft Dynamics CRM]**&#x200B;底下，按一下&#x200B;**[!UICONTROL Settings]**。
 
@@ -75,7 +75,7 @@ ht-degree: 5%
 
 ## 連結Marketo與Sales Insight {#connect-marketo-and-sales-insight}
 
-讓我們在[!DNL Sales Insight]中將您的Marketo執行個體連結至[!DNL Dynamics]。
+讓我們在[!DNL Dynamics]中將您的Marketo執行個體連結至[!DNL Sales Insight]。
 
 >[!NOTE]
 >
@@ -143,7 +143,7 @@ ht-degree: 5%
 
    ![](assets/image2014-12-12-9-3a9-3a22.png)
 
-   而且您應該已全部完成！ 最後，若要進行測試，請以可存取[!DNL Dynamics]的使用者身分登入[!DNL Marketo Sales Insight]，並檢視潛在客戶或連絡人。
+   而且您應該已全部完成！ 最後，若要進行測試，請以可存取[!DNL Marketo Sales Insight]的使用者身分登入[!DNL Dynamics]，並檢視潛在客戶或連絡人。
 
    ![](assets/image2014-12-12-9-3a9-3a31.png)
 

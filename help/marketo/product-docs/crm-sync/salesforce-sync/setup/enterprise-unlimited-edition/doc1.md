@@ -4,9 +4,9 @@ title: 步驟3之1 — 將Marketo欄位新增至Salesforce (Enterprise/Unlimited
 hide: true
 hidefromtoc: true
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '664'
+source-wordcount: '670'
 ht-degree: 1%
 
 ---
@@ -71,7 +71,7 @@ Marketo使用一組欄位來擷取特定型別的行銷相關資訊。 如果您
 
    >[!NOTE]
    >
-   >文字和數字欄位需要長度，但日期/時間欄位不需要。說明為選用。
+   >文字和數字欄位需要長度，但日期/時間欄位不需要。 說明為選用。
 
 1. 按一下「下一步」。
 
@@ -104,7 +104,7 @@ Marketo使用一組欄位來擷取特定型別的行銷相關資訊。 如果您
 
   >[!NOTE]
   >
-  >建立新欄位後，Marketo自動指派的欄位值將無法立即在Salesforce中使用。 下次更新任一系統上的記錄時(即更新任何在Salesforce和Marketo之間同步的欄位)，Marketo會將資料同步至Salesforce。
+  >建立新欄位後，Marketo自動指派的欄位值將無法立即在Salesforce中使用。 下次更新任一系統上的記錄時（即更新任何在Salesforce和Marketo之間同步的欄位），Marketo會將資料同步至Salesforce。
 
 ## 對應自訂欄位以進行轉換 {#map-custom-fields-for-conversions}
 

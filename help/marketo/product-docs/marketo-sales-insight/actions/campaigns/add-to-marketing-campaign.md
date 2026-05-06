@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 exl-id: de9c6896-8a7e-4388-b03b-fec5cc14cb92
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '314'
 ht-degree: 5%
 
 ---
@@ -60,7 +60,7 @@ PICC
 
 PICC
 
-1. 顯示您符合資格的連絡人。 按一下&#x200B;**[!UICONTROL Start]**&#x200B;以新增這些專案。
+1. 您會看到符合資格的連絡人。 按一下&#x200B;**[!UICONTROL Start]**&#x200B;以新增這些專案。
 
 PICC
 
@@ -102,6 +102,6 @@ PICC
 
 PICC
 
-1. 顯示您符合資格的連絡人。 按一下&#x200B;**[!UICONTROL Start]**&#x200B;以新增這些專案。
+1. 您會看到符合資格的連絡人。 按一下&#x200B;**[!UICONTROL Start]**&#x200B;以新增這些專案。
 
 PICC

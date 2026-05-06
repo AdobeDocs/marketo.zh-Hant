@@ -4,16 +4,16 @@ description: 瞭解如何建立推播通知。 將其新增為程式中的本機
 title: 建立推播通知
 exl-id: a08fbef3-25b4-4b11-aee7-f610f8f30d36
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '107'
 ht-degree: 12%
 
 ---
 
 # 建立推播通知 {#create-a-push-notification}
 
-可輕鬆建立推播通知。 不過，在開始之前，您必須讓Marketo管理員和Mobile Apps開發人員設定一些您執行操作時所需的專案。 如需詳細資訊，請參閱[瞭解推播通知](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md)。
+建立推播通知相當容易。 不過在開始之前，您必須讓Marketo管理員和Mobile Apps開發人員設定一些您執行工作時所需的專案。 如需詳細資訊，請參閱[瞭解推播通知](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md)。
 
 1. 前往「**[!UICONTROL Marketing Activities]**」區域。
 

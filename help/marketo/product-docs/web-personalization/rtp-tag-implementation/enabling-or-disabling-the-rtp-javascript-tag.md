@@ -4,10 +4,10 @@ description: 瞭解如何在Marketo Engage中啟用或停用rtp javascript標籤
 title: 啟用或停用 RTP JavaScript 標記
 exl-id: 15d958b2-e8ed-430e-947d-418cb5dd060b
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 12%
+source-wordcount: '134'
+ht-degree: 11%
 
 ---
 
@@ -17,7 +17,7 @@ RTP JavaScript標籤可控制網站Personalization是否追蹤網站活動，或
 
 >[!NOTE]
 >
->**不需要從您網站上的HTML程式碼中移除標籤。**&#x200B;透過[!UICONTROL Account Settings]控制它。
+>**不需要從您網站上的html程式碼移除標籤。** 透過[!UICONTROL Account Settings]控制。
 
 ## 啟用或停用標籤 {#enable-or-disable-the-tag}
 

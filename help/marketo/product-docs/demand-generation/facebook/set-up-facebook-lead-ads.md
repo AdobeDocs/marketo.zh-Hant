@@ -4,10 +4,10 @@ description: 瞭解如何使用Marketo設定Facebook銷售機會廣告。 連線
 title: 設定 Facebook 商機廣告
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '336'
-ht-degree: 4%
+source-wordcount: '354'
+ht-degree: 3%
 
 ---
 
@@ -45,7 +45,7 @@ ht-degree: 4%
 
    ![](assets/set-up-facebook-lead-ads-4.png)
 
-1. 在您登入[!DNL Facebook]後，請返回Marketo並按一下&#x200B;**[!UICONTROL Authorize]**。
+1. 登入[!DNL Facebook]後，返回Marketo並按一下&#x200B;**[!UICONTROL Authorize]**。
 
    ![](assets/set-up-facebook-lead-ads-5.png)
 
@@ -61,7 +61,7 @@ ht-degree: 4%
 
    >[!TIP]
    >
-   >如果您沒有看到預期的頁面，請確定用於驗證的[!DNL Facebook]帳戶已新增到[!DNL Facebook]上的頁面，然後再試一次。
+   >如果您沒有看到您需要的頁面，請確定用於驗證的[!DNL Facebook]帳戶已新增到[!DNL Facebook]上的頁面，然後再試一次。
 
    ![](assets/set-up-facebook-lead-ads-8.png)
 

@@ -3,9 +3,9 @@ description: 瞭解如何防止自我檢視計入電子郵件追蹤中。 避免
 title: 如何防止自我檢視
 exl-id: 52de102f-6c6c-4663-9725-aae2f620d5bb
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '290'
 ht-degree: 2%
 
 ---
@@ -46,11 +46,11 @@ ht-degree: 2%
 
    ![](assets/how-do-i-prevent-self-views-5.png)
 
-1. 在&#x200B;**[!UICONTROL OK]**&#x200B;對話方塊中按一下[!UICONTROL Trust Center]。
+1. 在[!UICONTROL Trust Center]對話方塊中按一下&#x200B;**[!UICONTROL OK]**。
 
    ![](assets/how-do-i-prevent-self-views-6.png)
 
-1. 在&#x200B;**[!UICONTROL OK]**&#x200B;選項對話方塊中按一下[!DNL Outlook]。
+1. 在[!DNL Outlook]選項對話方塊中按一下&#x200B;**[!UICONTROL OK]**。
 
    ![](assets/how-do-i-prevent-self-views-7.png)
 

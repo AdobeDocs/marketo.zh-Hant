@@ -4,9 +4,9 @@ description: 瞭解如何透過拖放來排定串流內容的優先順序。 每
 title: 決定資料流內容優先順序
 exl-id: 81de8a3c-c002-4ecd-afdd-217522c3db01
 feature: Engagement Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '118'
 ht-degree: 6%
 
 ---
@@ -31,4 +31,4 @@ ht-degree: 6%
    >
    >在轉換時，優先順序一律會從上到下讀取。
 
-   這太簡單了！ 現在您知道如何排定串流內容的優先順序。
+   就是這麼簡單！ 現在您知道如何排定串流內容的優先順序。

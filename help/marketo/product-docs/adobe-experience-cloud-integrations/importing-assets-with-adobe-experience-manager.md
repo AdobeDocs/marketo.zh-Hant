@@ -4,7 +4,7 @@ description: 瞭解如何從Adobe Experience Manager將資產匯入Marketo Desig
 title: 使用 Adobe Experience Manager 匯入資產
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
 feature: Integrations
-source-git-commit: 0851dedd240b2239fd3daca43aa84d8123a4d791
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 6%
@@ -21,11 +21,11 @@ ht-degree: 6%
 
 >[!PREREQUISITES]
 >
->確定您已執行[AEM設定](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)。
+>請確定已執行[AEM設定](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)。
 
 >[!IMPORTANT]
 >
->目前，[!DNL Firefox]僅完全支援此功能。 [!DNL Safari]不支援此功能，且根據您的[!DNL Chrome] Cookie設定，此功能可能無法用於最新版本的[!DNL SameSite]。
+>目前，[!DNL Firefox]僅完全支援此功能。 [!DNL Safari]不支援此功能，且根據您的[!DNL SameSite] Cookie設定，此功能可能無法用於最新版本的[!DNL Chrome]。
 
 1. 按一下「**[!UICONTROL Design Studio]**」。
 
@@ -55,7 +55,7 @@ ht-degree: 6%
 
    ![](assets/importing-assets-with-adobe-experience-manager-6.png)
 
-   就是這樣！ 按一下&#x200B;**[!UICONTROL Close]**&#x200B;以返回Design Studio。
+   按一下&#x200B;**[!UICONTROL Close]**&#x200B;以返回Design Studio。
 
    ![](assets/importing-assets-with-adobe-experience-manager-7.png)
 
@@ -63,6 +63,6 @@ ht-degree: 6%
 
 * Marketo目前支援Adobe Experience Manager 6.4和6.5版。
 
-* 您執行個體中的所有使用者都可以檢視/存取您匯入的影像。
+* 您執行個體中的所有使用者都可以檢視及存取您匯入的影像。
 
 * 不會自動更新影像。 如果您匯入至Marketo [!DNL Design Studio]的影像在AEM中更新，您必須手動將其重新匯入至Marketo。

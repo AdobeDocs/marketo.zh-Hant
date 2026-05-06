@@ -3,9 +3,9 @@ description: 瞭解如何設定任務主旨欄位的Salesforce活動詳細資料
 title: 設定 Salesforce 活動詳細資料自訂
 exl-id: 534ebdb5-7a5b-48eb-98f7-2d05a9eae8e8
 feature: Sales Insight Actions
-source-git-commit: 2186cfc201f9f61df4e1fe9cd5f6da1a4a8996bf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '677'
+source-wordcount: '681'
 ht-degree: 2%
 
 ---
@@ -17,11 +17,11 @@ ht-degree: 2%
 >* Salesforce和銷售Insight動作[必須連線](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
 >* 必須啟用透過API [記錄電子郵件活動](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
 
-活動詳細資料自訂可讓管理員設定當[!DNL Salesforce]活動/提醒任務同步到[!DNL Sales Insight Actions]時，將記錄到[!DNL Salesforce]任務 — 主題欄位的資訊。
+活動詳細資料自訂可讓管理員設定當[!DNL Sales Insight Actions]活動/提醒任務同步到[!DNL Salesforce]時，將記錄到[!DNL Salesforce]任務 — 主題欄位的資訊。
 
 >[!NOTE]
 >
->* 如果您在活動詳細資料自訂中使用[!DNL Sales Insight Actions]動態欄位，提醒任務[!DNL Salesforce]中主題欄位的更新將會反映在對應`{{activity_subject}}`任務的主題欄位中。
+>* 如果您在活動詳細資料自訂中使用`{{activity_subject}}`動態欄位，提醒任務[!DNL Sales Insight Actions]中主題欄位的更新將會反映在對應[!DNL Salesforce]任務的主題欄位中。
 >* 將資訊記錄到[!DNL Salesforce]主旨欄位時不支援分行符號。 更新銷售作業主旨時，會移除活動詳細資料自訂編輯器中的任何分行符號。
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
@@ -125,7 +125,7 @@ ht-degree: 2%
 
    >[!TIP]
    >
-   >雖然並非必要，但以直括弧括住新增的文字，可讓某些人在資料填入[!DNL Salesforce]的主題欄位時，更輕鬆地辨別資料。 範例：`[Sales Insight Actions] - {{Activity_type}}`
+   >雖然不需要，但將新增的文字換行成直括弧可以讓某些人在資料填入[!DNL Salesforce]的主題欄位時，更容易分辨這些資料。 範例：`[Sales Insight Actions] - {{Activity_type}}`
 
 1. 按一下&#x200B;**[!UICONTROL Add Dynamic Field]**&#x200B;按鈕，新增您想要的任何其他動態欄位。
 

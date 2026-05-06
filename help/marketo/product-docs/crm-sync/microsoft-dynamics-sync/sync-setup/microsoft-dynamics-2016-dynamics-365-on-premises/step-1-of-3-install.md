@@ -3,10 +3,10 @@ description: 瞭解如何在Dynamics 2016或Dynamics 365內部部署安裝Market
 title: 安裝Marketo for [!DNL Microsoft Dynamics] 2016/Dynamics 365內部部署步驟1之3
 exl-id: 0a494ae7-87da-4ff9-bb47-990b957533e1
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '284'
-ht-degree: 1%
+source-wordcount: '307'
+ht-degree: 0%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 1%
 >
 >您需要CRM系統管理員許可權才能執行此同步處理。
 
-1. 登入&#x200B;**[!DNL Dynamics]。**&#x200B;按一下&#x200B;**[!DNL Microsoft Dynamics]CRM**&#x200B;下拉式功能表並選取&#x200B;**[!UICONTROL Settings]**。
+1. 登入&#x200B;**[!DNL Dynamics].** 按一下&#x200B;**[!DNL Microsoft Dynamics]CRM**&#x200B;下拉式功能表並選取&#x200B;**[!UICONTROL Settings]**。
 
    ![](assets/image2015-3-19-8-33-29.png)
 

@@ -4,9 +4,9 @@ description: 瞭解如何測試Facebook Lead Ads與Marketo的案頭整合。 驗
 title: 測試與 Marketo 桌面應用程式整合的 Facebook 商機廣告
 exl-id: 2025b6e9-ecd7-4677-9f76-bc7813884e93
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '208'
 ht-degree: 4%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 4%
 
    ![](assets/image2016-5-13-14-3a35-3a36.png)
 
-1. 您將在瀏覽器的新索引標籤中被導向到[!DNL Facebook]。 按一下[!UICONTROL Call to Action]潛在客戶廣告單位中的[!DNL Facebook]。
+1. 您將在瀏覽器的新索引標籤中被導向到[!DNL Facebook]。 按一下[!DNL Facebook]潛在客戶廣告單位中的[!UICONTROL Call to Action]。
 
    ![](assets/image2016-5-13-14-3a42-3a45.png)
 

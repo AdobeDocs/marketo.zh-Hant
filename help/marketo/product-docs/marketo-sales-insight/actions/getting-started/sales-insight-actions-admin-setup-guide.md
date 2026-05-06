@@ -3,10 +3,10 @@ description: 瞭解如何以管理員身分設定銷售Insight動作。 設定Ma
 title: 銷售洞察動作管理員設定指南
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '613'
-ht-degree: 3%
+source-wordcount: '627'
+ht-degree: 4%
 
 ---
 
@@ -64,7 +64,7 @@ ht-degree: 3%
 
    >[!NOTE]
    >
-   >如果您在整合資訊卡片上未看到使用者端ID和使用者端密碼，請邀請第一個使用者來啟動您的動作執行個體，然後您就會看到使用者端ID和使用者端密碼出現。
+   >如果您在整合資訊卡片上未看到使用者端ID和使用者端密碼，請邀請第一位使用者來啟動您的動作執行個體，然後您就會看到使用者端ID和使用者端密碼出現。
 
 1. 按一下&#x200B;**銷售Insight**，然後按一下&#x200B;**動作設定**。 從要邀請的Marketo管理員清單中選取，然後按一下&#x200B;**傳送邀請**。
 
@@ -130,7 +130,7 @@ Sales Insight Actions的資料統一欄位同步可讓系統從Marketo Engage資
 
    ![](assets/msi-actions-admin-guide-11.png)
 
-1. 按一下「**[!UICONTROL Actions Config]**」索引標籤。在動作欄位同步卡中，按一下&#x200B;**[!UICONTROL Sync]**。
+1. 按一下「**[!UICONTROL Actions Config]**」索引標籤。 在動作欄位同步卡中，按一下&#x200B;**[!UICONTROL Sync]**。
 
    ![](assets/msi-actions-admin-guide-12.png)
 

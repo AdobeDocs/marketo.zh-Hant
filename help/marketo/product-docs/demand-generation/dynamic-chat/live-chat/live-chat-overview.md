@@ -3,10 +3,10 @@ description: 瞭解訪客與銷售代理之間的即時交談。 新增即時聊
 title: 即時聊天概觀
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '860'
-ht-degree: 1%
+source-wordcount: '914'
+ht-degree: 2%
 
 ---
 
@@ -41,7 +41,7 @@ ht-degree: 1%
 ### 最佳做法 {#best-practices}
 
 * 在即時聊天卡之前使用問題卡詢問訪客是否想要連線。
-* 訪客同意連線後，請使用資訊擷取卡片來收集部分資訊，例如名字/姓氏、電子郵件地址、職稱等。 （建議至少索取名字和電子郵件地址）。
+* 訪客同意連線後，請使用資訊擷取卡片來收集部分資訊，例如名字/姓氏、電子郵件地址、職稱等（建議至少要求名字和電子郵件地址）。
 
 ## 即時聊天卡選項 {#live-chat-card-options}
 
@@ -88,9 +88,9 @@ ht-degree: 1%
 
 如果代理程式在允許瀏覽器後仍未收到瀏覽器通知，則可能需要在作業系統通知設定中啟用瀏覽器的通知：
 
-適用於Mac的[步驟](https://support.apple.com/guide/mac-help/change-notifications-settings-mh40583/mac){target="_blank"}
+[Mac的步驟](https://support.apple.com/guide/mac-help/change-notifications-settings-mh40583/mac){target="_blank"}
 
-適用於Windows的[步驟](https://support.microsoft.com/en-us/windows/change-notification-settings-in-windows-8942c744-6198-fe56-4639-34320cf9444e){target="_blank"}
+[適用於Windows的步驟](https://support.microsoft.com/en-us/windows/change-notification-settings-in-windows-8942c744-6198-fe56-4639-34320cf9444e){target="_blank"}
 
 ### 當即時聊天被路由到代理程式時 {#when-a-live-chat-is-routed-to-an-agent}
 

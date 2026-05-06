@@ -6,10 +6,10 @@ exl-id: 36e19771-e038-4c7d-ac8b-561c5480722f
 hide: true
 hidefromtoc: true
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 8%
+source-wordcount: '241'
+ht-degree: 9%
 
 ---
 
@@ -43,7 +43,7 @@ ht-degree: 8%
    >
    >您也可以選取&#x200B;**[!UICONTROL New]** > **[!UICONTROL New Local Asset]**，在方案內建立社交按鈕。
 
-1. 為您的社交按鈕命名，從&#x200B;**[!UICONTROL None]**&#x200B;選取&#x200B;**[!UICONTROL Clone From]**，然後按一下&#x200B;**[!UICONTROL Insert]**。
+1. 為您的社交按鈕命名，從&#x200B;**[!UICONTROL Clone From]**&#x200B;選取&#x200B;**[!UICONTROL None]**，然後按一下&#x200B;**[!UICONTROL Insert]**。
 
    ![](assets/image2014-9-17-10-3a35-3a26.png)
 
@@ -53,8 +53,8 @@ ht-degree: 8%
 
    [將登入頁面發佈至Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) _將社交按鈕放到您的網站上_
 
-恭喜！您已將社交按鈕新增至登陸頁面。 請務必核准此登陸頁面。
+恭喜！ 您已將社交按鈕新增至登陸頁面。 請務必核准此登陸頁面。
 
 >[!MORELIKETHIS]
 >
->已完成，但您可以視需要變更社交按鈕的設定。 從&#x200B;_自訂按鈕樣式_&#x200B;或&#x200B;_編輯它顯示的共用訊息_&#x200B;開始。
+>已完成，但如有需要，可變更社交按鈕的設定。 從&#x200B;_自訂按鈕樣式_&#x200B;或&#x200B;_編輯它顯示的共用訊息_&#x200B;開始。

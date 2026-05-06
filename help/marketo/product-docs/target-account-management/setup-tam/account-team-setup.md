@@ -4,9 +4,9 @@ description: 瞭解如何設定帳戶團隊並將CRM帳戶角色對應至TAM。 
 title: 帳戶團隊設定
 exl-id: a4aee37f-5e39-4296-b720-b1c73c98df9e
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '187'
 ht-degree: 5%
 
 ---
@@ -37,7 +37,7 @@ ht-degree: 5%
 
    >[!NOTE]
    >
-   >您無法選取[!UICONTROL Account Owner]。 預設會從CRM中的帳戶層級選擇。
+   >您無法選取[!UICONTROL Account Owner]。 預設會從CRM中的帳戶層級中選取。
 
 1. 完成後請按一下 **[!UICONTROL Save]**。
 

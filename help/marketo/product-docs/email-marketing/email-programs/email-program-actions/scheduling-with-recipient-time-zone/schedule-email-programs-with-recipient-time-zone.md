@@ -4,9 +4,9 @@ description: 瞭解如何使用收件者時區排程電子郵件計畫。 設定
 title: 根據收件者時區安排電子郵件方案的時間
 exl-id: d0c3f3c1-9f21-4081-818d-7c5cb1766915
 feature: Email Programs
-source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '804'
+source-wordcount: '807'
 ht-degree: 1%
 
 ---
@@ -15,14 +15,14 @@ ht-degree: 1%
 
 在啟用收件者時區的情況下，排程電子郵件程式時有兩種可能的情況：
 
-1. 正在排程程在接下來的25小時內執行&#x200B;**&#x200B;**
+1. 正在排程程在接下來的25小時內執行&#x200B;****
 1. 正在排程程將來&#x200B;**超過**&#x200B;個25小時執行的程式（亦即下週）
 
 ## 案例1:25小時內 {#scenario-within-hours}
 
 假設您核准已啟用收件者時區且未來25小時內已排程傳送時間的電子郵件方案。 您的智慧清單中可能會有住在已過排程時間的時區的人員。
 
-在此案例中，我們可讓您決定如何處理此合格人員子集。 按一下電子郵件程式&#x200B;**[!UICONTROL Recipient Time Zone]**&#x200B;方塊中&#x200B;**[!UICONTROL Schedule]**&#x200B;旁的齒輪圖示。
+在此案例中，我們可讓您決定如何處理此合格人員子集。 按一下電子郵件程式&#x200B;**[!UICONTROL Schedule]**&#x200B;方塊中&#x200B;**[!UICONTROL Recipient Time Zone]**&#x200B;旁的齒輪圖示。
 
 ![](assets/image2017-12-5-10-3a46-3a42.png)
 
@@ -42,7 +42,7 @@ ht-degree: 1%
 >
 >[深入瞭解](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md#calculating-time-zone)Marketo如何計算收件者的時區。
 
-讓我們更詳細地考慮此情境。 假設您住在舊金山，排程於7:00am傳送電子郵件給&#x200B;**9:00am**。 您的智慧清單中有來自下列區域的人員：
+讓我們更詳細地考慮此情境。 假設您住在舊金山，排程在7:00am傳送電子郵件給&#x200B;**9:00am**。 您的智慧清單中有來自下列區域的人員：
 
 * 舊金山
 * 德克薩斯州
@@ -71,13 +71,13 @@ ht-degree: 1%
 
 **開始時間**
 
-現在，讓我們討論[[!UICONTROL Head Start]](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)如何搭配&#x200B;**[!UICONTROL Recipient Time Zone]**&#x200B;使用。 我們現有的「開門即用」功能要求程式至少提前12小時排程。 這對收件者時區有何意義？ 回想一下，當收件者時區啟用時，我們會在最早時區的排程時間開始執行電子郵件程式(UTC +14:00)。 因此，若要啟用&#x200B;**同時**&#x200B;開始時間和收件者時區，電子郵件程式必須排程在UTC +14 **的排程時間之前:00至少12小時。**
+現在，讓我們討論[[!UICONTROL Head Start]](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)如何搭配&#x200B;**[!UICONTROL Recipient Time Zone]**&#x200B;使用。 我們現有的「開門即用」功能要求程式至少提前12小時排程。 這對收件者時區有何意義？ 回想一下，當收件者時區啟用時，我們會在最早時區的排程時間開始執行電子郵件程式(UTC +14:00)。 因此，若要啟用&#x200B;**同時**&#x200B;開始時間和收件者時區，電子郵件程式必須排程在UTC +14:00的排程時間之前&#x200B;**至少12小時。**
 
-這表示如果您在美洲/洛杉磯，並且想要同時啟用開頭和收件者時區，您需要提前&#x200B;**34小時**&#x200B;排程程程式。 我們如何取得這個號碼？
+這表示如果您在美洲/洛杉磯，並且想要同時啟用開頭和收件者時區，則需提前&#x200B;**34小時**&#x200B;排程方案。 我們如何取得這個號碼？
 
 ![](assets/image2017-12-5-13-3a11-3a38.png)
 
-<br>
+<br> 
 
 簡言之，使用收件者時區排程的電子郵件程式必須在最早時區的排程時間開始執行（亦即到達午夜前），以因應每個時區。 因此，如果您排程電子郵件程式……
 

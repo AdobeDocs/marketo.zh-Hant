@@ -4,9 +4,9 @@ description: 瞭解如何核准電子郵件，以便用於計畫。 排程或傳
 title: 核准電子郵件
 exl-id: dec8ce3e-e11c-4edc-8c81-82a95fc8ed13
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '110'
 ht-degree: 5%
 
 ---

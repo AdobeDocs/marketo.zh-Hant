@@ -4,9 +4,9 @@ description: 瞭解如何使用在Marketo Engage中建立成功路徑分析器�
 title: 建立成功路徑分析工具
 exl-id: bcf3075c-4de6-428c-aebf-8191076169c0
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '181'
 ht-degree: 10%
 
 ---

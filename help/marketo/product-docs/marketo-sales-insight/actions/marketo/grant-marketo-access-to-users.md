@@ -3,9 +3,9 @@ description: 瞭解如何在Sales Insight Actions中授予Marketo存取權給使
 title: 授予使用者 Marketo 存取權
 exl-id: 0efb3e85-cc75-4810-bc67-05127f44e012
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '215'
 ht-degree: 6%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 6%
 
    ![](assets/grant-marketo-access-to-users-2.png)
 
-1. 按一下「**[!UICONTROL User Access]**」索引標籤。選取一或多個使用者，然後按一下&#x200B;**[!UICONTROL Connect]**。
+1. 按一下「**[!UICONTROL User Access]**」索引標籤。 選取一或多個使用者，然後按一下&#x200B;**[!UICONTROL Connect]**。
 
    ![](assets/grant-marketo-access-to-users-3.png)
 

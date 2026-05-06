@@ -6,9 +6,9 @@ product: marketo
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 529e82aa-c00b-49ce-b561-c2448f6a7a9b
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '1289'
+source-wordcount: '1336'
 ht-degree: 2%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 2%
 >[!PREREQUISITES]
 >
 >* 您必須先同意[核心Gen-AI條款與補充條款](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}，才能在電子郵件Designer中使用Gen-AI功能。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
->* 您必須擁有&#x200B;_存取電子郵件範本_&#x200B;以及&#x200B;_編輯/產生電子郵件範本_&#x200B;許可權，並在您的Marketo角色[中啟用](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role)。
+>* 您必須擁有&#x200B;_存取電子郵件範本_&#x200B;以及&#x200B;_編輯/產生電子郵件範本_&#x200B;許可權，並在您的Marketo角色](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role)中啟用[。
 
 ## 轉換影像 {#convert-an-image}
 
@@ -137,7 +137,7 @@ ht-degree: 2%
 
 +++使用影像至HTML轉換器時，現有的電子郵件內容會有什麼改變？
 
-上傳影像進行轉換時，電子郵件中的所有現有內容將會刪除並取代為新產生的範本。 使用此功能之前，請務必儲存任何重要內容。 您最好在電子郵件建立程式的開頭使用影像到HTML的轉換工具。
+上傳影像進行轉換時，電子郵件中的所有現有內容將會刪除並取代為新產生的範本。 使用此功能之前，請務必儲存任何重要內容。 建議您最好在電子郵件建立程式開始時使用影像至HTML轉換工具。
 
 +++
 
@@ -155,7 +155,7 @@ ht-degree: 2%
 
 +++是否可以編輯產生的範本？
 
-是！產生的HTML範本會在具有完整編輯功能的電子郵件Designer中開啟。 您可以修改範本的所有方面，包括文字、影像、樣式、版面配置及結構。
+是！ 產生的HTML範本會在具有完整編輯功能的電子郵件Designer中開啟。 您可以修改範本的所有方面，包括文字、影像、樣式、版面配置及結構。
 
 +++
 
@@ -173,6 +173,6 @@ AI會盡最大努力準確地詮釋您的設計，但可能需要一些手動細
 
 +++我可以在多個電子郵件行銷活動中重複使用轉換的範本嗎？
 
-是！使用影像至HTML轉換器建立的範本會自動儲存至您的&#x200B;_電子郵件範本_&#x200B;資料庫。 您可在未來的任何電子郵件中存取及重複使用它們。
+是！ 使用影像至HTML轉換器建立的範本會自動儲存至您的&#x200B;_電子郵件範本_&#x200B;資料庫。 您可在未來的任何電子郵件中存取及重複使用它們。
 
 +++

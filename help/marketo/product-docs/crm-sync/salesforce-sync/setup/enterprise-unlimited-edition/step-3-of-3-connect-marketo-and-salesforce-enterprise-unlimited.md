@@ -4,7 +4,7 @@ description: 瞭解如何在最終的Enterprise或Unlimited步驟中連線Market
 title: 步驟3之3 — 連線Marketo和Salesforce (Enterprise/Unlimited)
 exl-id: ef74bc53-9dc9-43c7-a9aa-565463fdd2e5
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
 source-wordcount: '431'
 ht-degree: 0%
@@ -48,9 +48,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >在按一下[之前，請務必](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md)隱藏Marketo中不需要的所有欄位&#x200B;**[!UICONTROL Sync Fields]**，不讓同步使用者看到。 一旦您按一下[!UICONTROL Sync Fields]，使用者可以看到的所有欄位將會在Marketo中永久建立且無法刪除。
+   >在按一下&#x200B;**[!UICONTROL Sync Fields]**&#x200B;之前，請務必[隱藏Marketo中不需要的所有欄位](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md)，不讓同步使用者看到。 一旦您按一下[!UICONTROL Sync Fields]，使用者可以看到的所有欄位將會在Marketo中永久建立且無法刪除。
 
-1. 輸入在[!DNL Salesforce]組態（[!DNL Salesforce]Professional[或](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)Enterprise[）的第2部分建立的](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)同步使用者認證，然後按一下&#x200B;**[!UICONTROL Sync Fields]** (只有在您將Marketo沙箱同步到&#x200B;**[!UICONTROL Sandbox]**&#x200B;沙箱時，才核取[!DNL Salesforce])。
+1. 輸入在[!DNL Salesforce]組態（[Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)或[Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)）的第2部分建立的[!DNL Salesforce]同步使用者認證，然後按一下&#x200B;**[!UICONTROL Sync Fields]** （只有在您將Marketo沙箱同步到[!DNL Salesforce]沙箱時，才核取&#x200B;**[!UICONTROL Sandbox]**）。
 
    ![](assets/image2014-12-9-9-3a53-3a8.png)
 

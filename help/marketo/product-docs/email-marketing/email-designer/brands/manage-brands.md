@@ -7,10 +7,10 @@ role: User
 level: Beginner, Intermediate
 badge: Beta
 exl-id: 88945b7c-0205-4540-bb37-1df85e647d90
-source-git-commit: 1850dd03baba259e99e8cc089b39f35735e63fdf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '420'
-ht-degree: 2%
+source-wordcount: '433'
+ht-degree: 4%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 2%
 
 ## 存取品牌 {#access}
 
-若要在&#x200B;**[!UICONTROL brands]**&#x200B;中存取[!DNL Adobe Marketo Engage]功能表，使用者必須獲得相關許可權。
+若要在[!DNL Adobe Marketo Engage]中存取&#x200B;**[!UICONTROL brands]**&#x200B;功能表，使用者必須獲得相關許可權。
 
 +++  瞭解如何指派品牌相關許可權
 

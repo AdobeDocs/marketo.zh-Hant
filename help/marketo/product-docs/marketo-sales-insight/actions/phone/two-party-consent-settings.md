@@ -3,16 +3,16 @@ description: 瞭解如何設定通話錄製的雙方同意設定。 遵守州和
 title: 雙方同意設定
 exl-id: 47634441-c396-4f0c-a9ea-d4f6872b6bf5
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 6%
+source-wordcount: '151'
+ht-degree: 7%
 
 ---
 
 # 雙方同意設定 {#two-party-consent-settings}
 
-為了確保錄音電話時符合美國兩黨同意法，身為管理員，您可以啟用您選擇的預先錄製的訊息，在錄音電話時於通話開始時播放。
+為了確保錄音電話時符合美國兩黨同意法，身為管理員，您可以啟用您選擇的預先錄製的訊息，在錄音電話開始時播放。
 
 >[!PREREQUISITES]
 >

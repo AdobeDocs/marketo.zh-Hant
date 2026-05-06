@@ -3,9 +3,9 @@ description: 瞭解Marketo中的銷售活動觸發器和篩選器。 使用Sales
 title: 銷售活動觸發程序和篩選器
 exl-id: 750abb73-8217-4739-8a08-1eb0f6e2976c
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '125'
 ht-degree: 8%
 
 ---

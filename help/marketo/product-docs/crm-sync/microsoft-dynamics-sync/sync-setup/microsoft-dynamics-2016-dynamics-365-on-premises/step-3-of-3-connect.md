@@ -3,9 +3,9 @@ description: 瞭解如何在步驟3中將Marketo連線至Dynamics 2016或Dynamic
 title: 為 [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365內部部署步驟3之3安裝Marketo
 exl-id: ae801a59-8e29-479c-84c5-a18c7511f21f
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '391'
+source-wordcount: '397'
 ht-degree: 1%
 
 ---
@@ -35,7 +35,7 @@ ht-degree: 1%
 
    ![](assets/image2015-3-16-9-50-6.png)
 
-1. 在&#x200B;**[!UICONTROL Edit]**&#x200B;步驟1：輸入認證&#x200B;**中按一下**。
+1. 在&#x200B;**步驟1：輸入認證**&#x200B;中按一下&#x200B;**[!UICONTROL Edit]**。
 
    ![](assets/image2015-3-16-9-48-43.png)
 
@@ -49,7 +49,7 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >* 如果您的Marketo是在2020年10月之前布建，使用者端ID和密碼為選用欄位。 否則，這些是強制性的。 能否取得此資訊將取決於您使用的MSD版本。
+   >* 如果您的Marketo是在2020年10月之前布建，使用者端ID和密碼為選用欄位。 否則，這些是強制性的。 此資訊的取得將取決於您使用的MSD版本。
    >* Marketo中的使用者名稱必須與CRM中同步處理使用者的使用者名稱相符。 格式可以是`user@domain.com`或DOMAIN\user。
    >* 如果您不知道該URL，[請在這裡瞭解如何找到它](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}。
 
@@ -59,7 +59,7 @@ ht-degree: 1%
 
 ## 選取要同步的欄位 {#select-fields-to-sync}
 
-1. 在&#x200B;**[!UICONTROL Edit]**&#x200B;中按一下&#x200B;**[!UICONTROL Step 2: Select Fields to Sync]**。
+1. 在&#x200B;**[!UICONTROL Step 2: Select Fields to Sync]**&#x200B;中按一下&#x200B;**[!UICONTROL Edit]**。
 
    ![](assets/image2015-3-16-9-51-28.png)
 
@@ -89,7 +89,7 @@ ht-degree: 1%
 
 ## 啟用同步 {#enable-sync}
 
-1. 在&#x200B;**[!UICONTROL Edit]**&#x200B;中按一下&#x200B;**[!UICONTROL Step 3: Enable Sync]**。
+1. 在&#x200B;**[!UICONTROL Step 3: Enable Sync]**&#x200B;中按一下&#x200B;**[!UICONTROL Edit]**。
 
    ![](assets/image2015-3-16-9-52-2.png)
 

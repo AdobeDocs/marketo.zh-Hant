@@ -4,10 +4,10 @@ description: 完成設定與新增人員 - Marketo 文件 - 產品文件
 title: 完成設定與新增人員
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '207'
-ht-degree: 100%
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+workflow-type: tm+mt
+source-wordcount: '211'
+ht-degree: 96%
 
 ---
 
@@ -67,14 +67,14 @@ ht-degree: 100%
 
    ![](assets/get-set-up-and-add-a-person-9.png)
 
-1. 按一下「**[!UICONTROL People]**」索引標籤。您應該會在資料庫中看到自己。
+1. 按一下「**[!UICONTROL People]**」索引標籤。 您應該會在資料庫中看到自己。
 
    ![](assets/get-set-up-and-add-a-person-10.png)
 
 ## 設定完成 {#set-up-complete}
 
-您已準備就緒，可以開始第一項任務！
+您已準備好開始您的第一個任務！
 
-<br>
+<br> 
 
 [任務 1：傳送群發電子郵件 ►](/help/marketo/getting-started/quick-wins/send-an-email.md)

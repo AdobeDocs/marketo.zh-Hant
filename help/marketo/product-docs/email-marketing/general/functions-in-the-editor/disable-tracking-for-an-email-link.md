@@ -4,9 +4,9 @@ description: 瞭解如何停用特定電子郵件連結的追蹤。 需要隱私
 title: 停用電子郵件連結追蹤
 exl-id: 841ef605-1664-4457-bc83-50bbe5d44853
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '294'
 ht-degree: 4%
 
 ---
@@ -47,4 +47,4 @@ ht-degree: 4%
 
    >[!CAUTION]
    >
-   >若要停用電子郵件範本中連結的點選追蹤，或電子郵件的[文字版本](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md){target="_blank"}，請在字串的`mktNoTrack`開頭&#x200B;*新增*，而非結尾，如下列範例所示： `<a class="mktNoTrack" href="https://www.mywebsite.com">This link does not have tracking</a>`。 否則，可能會導致連結消失。 如果您需要上述程式碼實作的協助，請洽詢您的網頁開發人員。
+   >若要停用電子郵件範本中連結的點選追蹤，或電子郵件的[文字版本](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md){target="_blank"}，請在字串的&#x200B;*開頭*&#x200B;新增`mktNoTrack`，而非結尾，如下列範例所示： `<a class="mktNoTrack" href="https://www.mywebsite.com">This link does not have tracking</a>`。 否則，可能會導致連結消失。 如果您需要上述程式碼實作的協助，請洽詢您的網頁開發人員。

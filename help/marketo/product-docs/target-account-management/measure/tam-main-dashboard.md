@@ -4,9 +4,9 @@ description: 瞭解TAM主要控制面板和目標帳戶工作的摘要。 依帳
 title: TAM 主儀表板
 exl-id: f550dd99-f5b1-4d75-9e11-d9791043baea
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '129'
 ht-degree: 4%
 
 ---

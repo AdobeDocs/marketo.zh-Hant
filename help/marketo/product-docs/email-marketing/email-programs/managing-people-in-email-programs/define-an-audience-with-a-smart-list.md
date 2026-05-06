@@ -4,9 +4,9 @@ description: 瞭解如何使用智慧清單定義電子郵件計畫對象。 使
 title: 使用智慧清單定義客群
 exl-id: 72a1e717-271b-46b5-b097-d29658b8f6ff
 feature: Email Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '267'
 ht-degree: 8%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 8%
 
    ![](assets/login-marketing-activities.png)
 
-1. 選取您的電子郵件程式，然後按一下「**[!UICONTROL Edit Smart List]**」方塊下方的「**[!UICONTROL Audience]**」。
+1. 選取您的電子郵件程式，然後按一下「**[!UICONTROL Audience]**」方塊下方的「**[!UICONTROL Edit Smart List]**」。
 
    ![](assets/2017-05-22-09-46-37.png)
 
@@ -63,7 +63,7 @@ ht-degree: 8%
 >
 >按一下數字，即可取得封鎖郵件之人員的詳細清單。 **請注意：**&#x200B;操作電子郵件仍會傳送給標籤為已取消訂閱且行銷已暫停的人員。
 >
->使用![圖磚上的](assets/image2014-10-23-16-3a32-3a36.png)—**[!UICONTROL Audience]**&#x200B;按鈕，檢視有多少人會收到電子郵件。
+>使用&#x200B;**[!UICONTROL Audience]**&#x200B;圖磚上的![—](assets/image2014-10-23-16-3a32-3a36.png)按鈕，檢視有多少人會收到電子郵件。
 
 >[!MORELIKETHIS]
 >

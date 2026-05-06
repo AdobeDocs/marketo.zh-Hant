@@ -3,9 +3,9 @@ description: 瞭解如何在Dynamic Chat中為檔案卡設定Adobe PDF Embed API
 title: Adobe PDF 嵌入式 API
 feature: Dynamic Chat
 exl-id: 27482f55-1bd1-423c-9154-f650532ff1e5
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '150'
 ht-degree: 6%
 
 ---

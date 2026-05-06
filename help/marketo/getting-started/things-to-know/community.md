@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: 86a4ad2c-22c7-4543-bcb3-bca132b6afea
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '590'
+source-wordcount: '605'
 ht-degree: 0%
 
 ---
@@ -46,7 +46,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->為了獲得更廣泛的結果，請使用焦點關鍵字搜尋，而非長尾(例如，搜尋「Dynamic Chat」而非「如何在Dynamic Chat中新增代理程式」)
+>為了獲得更廣泛的結果，請使用焦點關鍵字搜尋，而非長尾（例如，搜尋「Dynamic Chat」而非「如何在Dynamic Chat中新增代理程式」）
 
 ## 提交問題 {#submit-a-question}
 

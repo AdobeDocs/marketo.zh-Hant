@@ -4,9 +4,9 @@ description: 瞭解如何依期間成本篩選方案報告。 檢視特定成本
 title: 按照期間成本篩選方案報告
 exl-id: 039041be-326d-4018-b97d-d80198cb9b84
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '90'
 ht-degree: 15%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 15%
 
    ![](assets/lm-86194-2a-hands.png)
 
-1. 您已完成！ 按一下「**[!UICONTROL Report]**」標籤，只檢視在指定期間成本時間範圍內的計畫。
+1. 完成了！ 按一下「**[!UICONTROL Report]**」標籤，只檢視在指定期間成本時間範圍內的計畫。
 
    ![](assets/lm-86194-report-tab.png)
 

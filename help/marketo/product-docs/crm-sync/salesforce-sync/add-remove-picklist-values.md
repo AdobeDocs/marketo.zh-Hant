@@ -4,9 +4,9 @@ description: 瞭解如何新增和移除Salesforce挑選清單值，以及這些
 title: 新增/移除選項清單值
 exl-id: f1230c43-10cb-47ff-89d7-9f835b034db0
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '244'
 ht-degree: 3%
 
 ---

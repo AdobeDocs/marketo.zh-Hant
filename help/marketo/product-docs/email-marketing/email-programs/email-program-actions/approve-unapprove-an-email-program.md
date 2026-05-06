@@ -4,9 +4,9 @@ description: 瞭解如何核准或取消核准電子郵件方案。 完成核准
 title: 核准/取消核准電子郵件方案
 exl-id: 0bfb1306-7a98-4629-9264-63cfd5d6a690
 feature: Email Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '191'
 ht-degree: 7%
 
 ---
@@ -45,7 +45,7 @@ ht-degree: 7%
 
    ![](assets/image2014-9-12-13-3a43-3a44.png)
 
-   完美！ 您已完成。 您的電子郵件將在排定的時間發出。
+   完美！ 完成。 您的電子郵件將在排定的時間發出。
 
    ![](assets/image2014-9-12-13-3a43-3a56.png)
 

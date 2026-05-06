@@ -3,9 +3,9 @@ description: 瞭解如何在Dynamic Chat中管理Generative AI的回應資料庫
 title: 回答資料庫
 feature: Dynamic Chat
 exl-id: 774346fa-f633-48e8-a489-999404b6070b
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '366'
 ht-degree: 4%
 
 ---
@@ -93,12 +93,12 @@ ht-degree: 4%
 
    ![](assets/response-library-10.png)
 
-1. 確認即會出現，您已準備就緒。
+1. 確認即會出現，且您已完成設定。
 
    ![](assets/response-library-11.png)
 
 ## 篩選您的問題 {#filter-your-questions}
 
-依預設，問題會依建立時間/日期依序列出，最新的問題會先顯示。 如果您正在尋找特定問題，請套用篩選器以縮小搜尋範圍。 依主題、任務名稱和/或核准狀態篩選。
+依預設，問題會依建立時間/日期依序列出，最新的問題會先顯示。 如果您在尋找特定問題，請套用篩選器以縮小搜尋範圍。 依主題、任務名稱和/或核准狀態篩選。
 
 ![](assets/response-library-12.png)

@@ -4,10 +4,10 @@ description: 瞭解如何在Marketo中建立自由格式的登入頁面範本。
 title: 建立自由格式登陸頁面範本
 exl-id: bf633c86-6087-44bf-aaa2-63173154f0aa
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 7%
+source-wordcount: '199'
+ht-degree: 8%
 
 ---
 

@@ -6,10 +6,10 @@ hide: true
 hidefromtoc: true
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '133'
-ht-degree: 100%
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+workflow-type: tm+mt
+source-wordcount: '136'
+ht-degree: 91%
 
 ---
 
@@ -17,9 +17,9 @@ ht-degree: 100%
 
 ## Adobe Marketo Engage 是什麼 {#what-is-marketo-engage}
 
-您想知道 Marketo Engage 是什麼？好問題！
+您想知道 Marketo Engage 是什麼？ 好問題！
 
-[了解 Marketo Engage](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target="_blank"}
+[瞭解Marketo Engage](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target="_blank"}
 
 ## 完成設定 {#get-set-up}
 
@@ -55,7 +55,7 @@ ht-degree: 100%
       <img alt="電子郵件" src="getting-started/assets/getting-started-3.png" />
     </a>
     <div>
-    <a href="getting-started/quick-wins/landing-page-with-a-form.md">3.附有表單的登陸頁面</a>
+    <a href="getting-started/quick-wins/landing-page-with-a-form.md">3. 附有表單的登陸頁面</a>
     </div>
     <br>
   </td>
@@ -125,6 +125,6 @@ ht-degree: 100%
 </tr>
 </table>
 
-## 步驟 4 恭喜！您已經準備好使用 Nation  {#congrats-youre-ready-for-the-nation}
+## 步驟 4 恭喜！ 您已準備好迎接國家  {#congrats-youre-ready-for-the-nation}
 
 來認識 [Marketing Nation](https://nation.marketo.com){target="_blank"}！

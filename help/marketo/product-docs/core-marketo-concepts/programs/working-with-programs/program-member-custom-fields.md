@@ -4,10 +4,10 @@ description: 瞭解方案成員自訂欄位。 為方案中的每個人儲存和
 title: 方案成員自訂欄位
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '412'
-ht-degree: 4%
+source-wordcount: '423'
+ht-degree: 6%
 
 ---
 
@@ -51,7 +51,7 @@ ht-degree: 4%
 |---|---|
 | 公司 | 與個人相關聯的公司名稱。 |
 | 機會 | 商機可以與個人或帳戶相關聯，作為潛在的未來銷售。 他們通常會透過CRM或API進入Marketo。 |
-| 人員 | 您透過行銷活動與之Marketo資料庫中的個人互動。 |
+| 人員 | 您透過行銷活動與Marketo資料庫中接觸的個人。 |
 | 計畫成員 | 同時身為計畫成員的人 |
 
 ## 觸發器和篩選器 {#triggers-and-filters}

@@ -4,9 +4,9 @@ description: 瞭解如何檢視推播通知儀表板。 檢視您推送行銷活
 title: 檢視推播通知儀表板
 exl-id: c898d02e-9587-495e-bd86-c50343cacf8c
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '132'
 ht-degree: 10%
 
 ---

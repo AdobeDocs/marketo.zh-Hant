@@ -4,10 +4,10 @@ description: 瞭解如何使用在帳戶設定中新增子網域，在Marketo En
 title: 在帳戶設定中新增子網域
 exl-id: 8235ae4b-ab07-413f-bd23-4e12232bd019
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '149'
-ht-degree: 5%
+source-wordcount: '156'
+ht-degree: 8%
 
 ---
 

@@ -2,10 +2,10 @@
 description: 瞭解如何將Gmail連線至Sales Insight動作。 使用Actions整合從Gmail傳送及追蹤銷售電子郵件。
 title: 連接至 Gmail
 exl-id: 40f67fbd-cb6e-4e0b-b9ad-093c432f67ed
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 7%
+source-wordcount: '205'
+ht-degree: 6%
 
 ---
 
@@ -41,7 +41,7 @@ ht-degree: 7%
 
    ![](assets/connect-to-gmail-6.png)
 
-1. 如果您已登入Gmail，請選擇您要連線的帳戶。 如果沒有，請輸入您的Gmail位址，然後按一下[下一步]。**&#x200B;** 在此範例中，我們尚未登入。
+1. 如果您已登入Gmail，請選擇您要連線的帳戶。 如果沒有，請輸入您的Gmail位址，然後按一下[下一步]。**** 在此範例中，我們尚未登入。
 
    ![](assets/connect-to-gmail-7.png)
 

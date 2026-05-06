@@ -3,9 +3,9 @@ description: 瞭解如何透過批次或觸發行銷活動來傳送SMS訊息。 
 title: 傳送簡訊訊息
 feature: Mobile Marketing
 exl-id: 2c863ded-f441-4217-9541-6dcc442d9831
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '342'
 ht-degree: 2%
 
 ---

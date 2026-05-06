@@ -4,9 +4,9 @@ description: 當您的Sales Connect電子郵件標示為垃圾訊息時，請取
 title: 電子郵件被標記為垃圾郵件
 exl-id: 2cd1ec96-441d-4de7-8709-543d04e20a91
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '249'
 ht-degree: 3%
 
 ---
@@ -17,14 +17,14 @@ ht-degree: 3%
 
 **檢查您的設定**
 
-* 自訂網域追蹤：這可讓您將所有追蹤連結顯示為go。」「您的網域」而非go.toutapp。 有些電子郵件安全性人員會發現電子郵件來自「您的網域」，但連結正在重新路由至go.toutapp。 實作自訂網域連結追蹤後，您的電子郵件看起來將會合法，而且進入收件者收件匣的機率較高。
+* 自訂網域追蹤：這可讓您將所有追蹤連結顯示為go.&quot;yourdomain&quot;而非go.toutapp。 有些電子郵件安全性人員會發現電子郵件來自「您的網域」，但連結正在重新路由至go.toutapp。 實作自訂網域連結追蹤後，您的電子郵件看起來將會合法，而且進入收件者收件匣的機率較高。
 * 電子郵件傳遞頻道：依預設，您的電子郵件會透過ToutApp伺服器傳送。 藉由設定您自己的Gmail或自訂SMTP，您可以讓電子郵件有最佳的機會進入收件者的收件匣。 [按一下這裡](https://nation.marketo.com/docs/DOC-5080){target="_blank"}以閱讀更多資訊，瞭解如何根據您的需求選擇正確的傳遞管道。
 
 **檢查您的電子郵件行為**
 
 * 保持電子郵件簡短且非正式，並將您的範本貼上為您之前撰寫的電子郵件。
 
-* 請避免格式過度的電子郵件，或是使用跨國文字的訊息。
+* 請避免電子郵件格式過高，或您使用跨國文字的訊息。
 
 * 請確定您有完整完成的電子郵件簽章，而且有實體地址。
 

@@ -2,9 +2,9 @@
 description: 瞭解如何從Salesforce Classic解除安裝Marketo Sales Connect。 從Classic移除Sales Connect自訂專案和按鈕。
 title: 從 Salesforce Classic 解除安裝 Marketo Sales Connect
 exl-id: 17078054-a615-4f2f-bfde-f28fd3ff6f48
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '1032'
+source-wordcount: '1035'
 ht-degree: 12%
 
 ---
@@ -63,19 +63,19 @@ ht-degree: 12%
 
    ![](assets/uninstall-salesforce-classic-customization-package-9.png)
 
-## 從[!DNL Sales Connect]區段中移除[!UICONTROL Activity History]欄位 {#remove-sales-connect-fields-from-activity-history-section}
+## 從[!UICONTROL Activity History]區段中移除[!DNL Sales Connect]欄位 {#remove-sales-connect-fields-from-activity-history-section}
 
 1. 捲動至頁面底部至[!UICONTROL Activity History]相關清單區段，然後按一下「扳手」圖示。
 
    ![](assets/uninstall-salesforce-classic-customization-package-10.png)
 
-1. 從[!DNL Sales Connect]區域選取[!UICONTROL Selected Fields]欄位並按一下[!UICONTROL Remove]箭頭。 完成後請按一下 **[!UICONTROL OK]**。
+1. 從[!UICONTROL Selected Fields]區域選取[!DNL Sales Connect]欄位並按一下[!UICONTROL Remove]箭頭。 完成後請按一下 **[!UICONTROL OK]**。
 
    ![](assets/uninstall-salesforce-classic-customization-package-11.png)
 
    >[!NOTE]
    >
-   >縮寫MSE _是_ [!DNL Sales Connect]。 它只是先前名稱「Marketo銷售參與」。
+   >縮寫MSE _是_ [!DNL Sales Connect]。 它只是先前名稱「Marketo Sales Engage」。
 
 1. 完成Leads頁面時，按一下&#x200B;**儲存**。
 

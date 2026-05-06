@@ -4,9 +4,9 @@ description: 瞭解如何瞭解Marketo Engage中的Opportunity Influence Analyze
 title: 了解機會影響分析工具
 exl-id: 87f85fed-1fb5-4906-bfdb-a9fda7ddd295
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '268'
 ht-degree: 3%
 
 ---

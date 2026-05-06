@@ -2,10 +2,10 @@
 description: 瞭解如何將活動記錄到Salesforce時更新「活動型別」欄位。 在Salesforce設定中，將回覆型別新增至任務型別選擇清單。
 title: 將活動記錄至 Salesforce 時更新活動類型欄位
 exl-id: 800323cb-2b99-42f1-ae30-0f87a9a1b4be
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '432'
-ht-degree: 6%
+source-wordcount: '435'
+ht-degree: 5%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 6%
 
 首先檢查您是否已準備好正確的挑選清單值。 您需要Salesforce管理員的協助，才能變更選擇清單。
 
-首先檢查您的任務型別選擇清單（電子郵件、通話和回覆中）中缺少哪些值。 您可能需要在Salesforce管理員的協助下檢閱此專案，並變更活動型別選擇清單。 若要進行這些變更，您的Salesforce管理員可以依照下列步驟操作。
+首先檢查您的任務型別選擇清單（電子郵件、呼叫和回覆中）中缺少哪些值。 您可能需要在Salesforce管理員的協助下檢閱此專案，並變更活動型別選擇清單。 若要進行這些變更，您的Salesforce管理員可以依照下列步驟操作。
 
 ### 在Salesforce Lightning中 {#salesforce-lightning}
 
@@ -54,7 +54,7 @@ ht-degree: 6%
 
 >[!NOTE]
 >
->如果您沒有看到「回覆」的值，請按一下「新增」**&#x200B;**&#x200B;以新增該值。 「回覆」不是Salesforce中的標準值。
+>如果您沒有看到「回覆」的值，請按一下「新增」****&#x200B;以新增該值。 「回覆」不是Salesforce中的標準值。
 
 >[!MORELIKETHIS]
 >

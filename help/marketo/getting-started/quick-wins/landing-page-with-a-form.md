@@ -4,10 +4,10 @@ description: 含有表單的登陸頁面 — Marketo檔案 — 產品檔案
 title: 附有表單的登陸頁面
 exl-id: 4ae6df7c-96d0-4bfe-962c-e14ecb877a6a
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '498'
-ht-degree: 7%
+source-wordcount: '505'
+ht-degree: 6%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 7%
 
    ![](assets/landing-page-with-a-form-1.png)
 
-1. 選取在&#x200B;**上一個快速入門**&#x200B;中建立的[學習](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"}資料夾。 在&#x200B;**[!UICONTROL New]**&#x200B;底下，按一下&#x200B;**[!UICONTROL New Program]**。
+1. 選取在[上一個快速入門](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"}中建立的&#x200B;**學習**&#x200B;資料夾。 在&#x200B;**[!UICONTROL New]**&#x200B;底下，按一下&#x200B;**[!UICONTROL New Program]**。
 
    ![](assets/landing-page-with-a-form-2.png)
 
@@ -59,7 +59,7 @@ ht-degree: 7%
 
    >[!NOTE]
    >
-   >請確定已核取&#x200B;**[!UICONTROL Open in editor]**&#x200B;方塊。 如果不是，您必須按一下「**[!UICONTROL Edit Form]**」標籤。
+   >請確定已核取&#x200B;**[!UICONTROL Open in editor]**&#x200B;方塊。 如果不是，您必須按一下&#x200B;**[!UICONTROL Edit Form]**&#x200B;標籤。
 
    >[!TIP]
    >
@@ -81,7 +81,7 @@ ht-degree: 7%
 
    ![](assets/landing-page-with-a-form-10.png)
 
-1. 在[感謝頁面]區段下，選取&#x200B;**[!UICONTROL External URL]**&#x200B;的&#x200B;**[!UICONTROL Follow Up With]**。
+1. 在[感謝頁面]區段下，選取&#x200B;**[!UICONTROL Follow Up With]**&#x200B;的&#x200B;**[!UICONTROL External URL]**。
 
    ![](assets/landing-page-with-a-form-11.png)
 
@@ -137,7 +137,7 @@ ht-degree: 7%
 
    ![](assets/landing-page-with-a-form-21.png)
 
-   做得好！您現在已有一個包含表單的登入頁面。 讓我們核准您的頁面，讓它上線。
+   做得好！ 您現在已有一個包含表單的登入頁面。 讓我們核准您的頁面，讓它上線。
 
 ## 步驟4：核准您的登陸頁面 {#step-approve-your-landing-page}
 
@@ -177,7 +177,7 @@ ht-degree: 7%
 
 ## 任務完成！ {#mission-complete}
 
-<br>
+<br> 
 
 [◄任務1：傳送電子郵件爆炸郵件](/help/marketo/getting-started/quick-wins/send-an-email.md)
 

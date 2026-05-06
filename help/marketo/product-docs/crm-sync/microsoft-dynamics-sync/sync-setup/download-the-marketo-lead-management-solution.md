@@ -4,10 +4,10 @@ description: 瞭解如何下載適用於Microsoft Dynamics的Marketo銷售機會
 title: 下載 Marketo 商機管理解決方案
 exl-id: 2deafcfc-19f4-4cbf-8764-402a7f69c7d2
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 21%
+source-wordcount: '101'
+ht-degree: 20%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 21%
 
 >[!CAUTION]
 >
->在執行任何升級之前&#x200B;_，您必須先下載最新的Marketo解決方案_。
+>在執行任何升級之前&#x200B;_必須先下載最新的Marketo解決方案_。
 
 >[!NOTE]
 >

@@ -4,10 +4,10 @@ description: 瞭解如何在Marketo中設定Facebook離線轉換。 將來自Mar
 title: 設定 Facebook 離線轉換
 exl-id: e1974943-8fc8-41f6-be7e-1b594de13db6
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '292'
-ht-degree: 4%
+source-wordcount: '314'
+ht-degree: 3%
 
 ---
 
@@ -87,7 +87,7 @@ ht-degree: 4%
 
    ![](assets/2.png)
 
-1. 核准您的模型並完成！
+1. 核准您的模型並且完成！
 
    ![](assets/image2016-11-29-15-3a6-3a30.png)
 

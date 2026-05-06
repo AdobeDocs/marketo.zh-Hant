@@ -2,9 +2,9 @@
 description: 發行說明 — 2022年5月 — Marketo檔案 — 產品檔案
 title: 版本注意事項 - 2022 年 5 月
 exl-id: f591ab95-5ad8-45fa-8c4e-8e42b5d1359a
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '796'
+source-wordcount: '828'
 ht-degree: 4%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 4%
 
 >[!AVAILABILITY]
 >
->標有星號 (![星號](assets/yellow-star.png)) 的功能為付費附加元件。請聯絡您的 Marketo Engage 代表，了解更多相關資訊。
+>標有星號 (![星號](assets/yellow-star.png)) 的功能為付費附加元件。 請聯絡您的 Marketo Engage 代表，了解更多相關資訊。
 
 **_每季發行_**
 
@@ -65,8 +65,8 @@ ht-degree: 4%
 
 使用&quot;[!UICONTROL Login in Invite User Dialog]&quot;功能訂閱的電子郵件驗證，或是單一電子郵件與多位使用者相關聯的訂閱，將會與5月的發行保持一致。 若訂閱擁有與多位使用者相關聯的單一電子郵件，則會啟用電子郵件驗證，並將要求這些使用者解決衝突並使用每位使用者的唯一電子郵件。 啟用「在邀請使用者對話方塊中登入」功能時，透過此功能受邀的使用者將需要唯一的電子郵件地址。 對於透過此功能邀請的僅API使用者，電子郵件地址不需要是唯一的。
 
-**封存資料夾行為變更**：在此版本中，樹狀內容功能表中將不再提供在封存資料夾中建立新資產的功能。 將會為所有資產隱藏用來建立新資產的功能表選項。 [在這裡瞭解更多](https://nation.marketo.com/t5/product-discussions/archive-folder-change-in-may-2022-release/m-p/324369#M183235){target="_blank"}。
+**封存資料夾行為變更**：在此版本中，樹狀內容功能表中將不再提供在封存資料夾中建立新資產的功能。 將會為所有資產隱藏用來建立新資產的功能表選項。 [若要了解更多資訊，請參閱此處](https://nation.marketo.com/t5/product-discussions/archive-folder-change-in-may-2022-release/m-p/324369#M183235){target="_blank"}。
 
 **_產品發行網路研討會_**
 
-[2022年3月和5月Marketo Engage發行網路研討會](https://engage.marketo.com/2022_March_May_Release_Webinar_DemandPage.html){target="_blank"}
+[2022年3月和5月Marketo Engage版本網路研討會](https://engage.marketo.com/2022_March_May_Release_Webinar_DemandPage.html){target="_blank"}

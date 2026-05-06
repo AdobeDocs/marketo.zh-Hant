@@ -3,10 +3,10 @@ description: 瞭解銷售活動電子郵件步驟的傳送選項。 選擇何時
 title: 了解電子郵件步驟的銷售行銷活動傳送選項
 feature: Sales Insight Actions
 exl-id: 775c6401-efb2-4940-a81c-be5d2759c7bd
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '755'
-ht-degree: 2%
+source-wordcount: '758'
+ht-degree: 3%
 
 ---
 
@@ -74,6 +74,6 @@ ht-degree: 2%
 
 >[!MORELIKETHIS]
 >
->[建立促銷活動](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
->[銷售行銷活動步驟型別和提醒任務](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
+>[建立銷售行銷活動](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
+>[銷售行銷活動步驟類型與提醒工作](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
 >[銷售促銷活動設定](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}

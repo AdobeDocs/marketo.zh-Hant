@@ -4,9 +4,9 @@ description: 瞭解如何在電子郵件中使用動態內容。 根據規則和
 title: 在電子郵件中使用動態內容
 exl-id: a1178f76-6760-4a4a-9510-f129ee6a9032
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '264'
 ht-degree: 5%
 
 ---

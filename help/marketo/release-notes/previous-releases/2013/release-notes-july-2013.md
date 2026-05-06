@@ -4,9 +4,9 @@ description: 發行說明 — 2013年7月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2013年7月
 exl-id: efff413f-99fe-4db6-839b-1a922f8581d9
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '205'
 ht-degree: 1%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 1%
 
 ## 通訊限制 {#communication-limits}
 
-要停止過度傳送電子郵件給潛在客戶嗎？ 現在，可以輕鬆自動限制每個人的頻率。 只要設定每日和每週的通訊限制，系統就會完成其他工作。 適用於Select、Enterprise及Standard客戶的附加元件套件。
+要停止過度傳送電子郵件給潛在客戶嗎？ 現在可以輕鬆地將頻率自動限製為每個人。 只要設定每日和每週的通訊限制，系統就會完成其他工作。 適用於Select、Enterprise及Standard客戶的附加元件套件。
 
 ![](assets/image2014-9-22-16-3a31-3a13.png)
 

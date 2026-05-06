@@ -4,9 +4,9 @@ description: 瞭解如何從您的CRM或Marketo公司發現潛在的目標帳戶
 title: 探索帳戶
 exl-id: 90da4ae0-0a12-48bd-8bae-a7431d2cf4f4
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: '520'
 ht-degree: 1%
 
 ---
@@ -73,7 +73,7 @@ ht-degree: 1%
    >
    >僅在&#x200B;**[!UICONTROL Discover Marketo Companies]**&#x200B;中，Marketo會自動：
    >
-   >* 將大多數網際網路服務提供者和公用網域(例如yahoo.com、gmail.com)篩選為公司名稱
+   >* 將大多數網際網路服務提供者和公用網域（例如yahoo.com、gmail.com）篩選為公司名稱
    >
    >* 刪除CRM帳戶的重複專案。 如果您有一筆記錄中有「Acme」且「Acme Inc」（或下列任一尾碼：Co， Corp， Corporation， Gmbh， Inc， Incorporated， LLC， LLP， LP， Ltd， PA， PC， PLC， PLLC），我們會將它們合併到TAM中，就像「Acme」一樣
 
@@ -101,13 +101,13 @@ ht-degree: 1%
 
    ![](assets/disc-comp-seven.png)
 
-   做得好！
+   做得很好！
 
    ![](assets/disc-co-six.png)
 
 >[!NOTE]
 >
->如果您看到選取的CRM帳戶與Discover CRM格線中的帳戶不相符，可能是因為下列一或多個原因：
+>如果您看到您所選取的CRM帳戶與Discover CRM格線中的帳戶不相符，可能是因為下列一或多個原因：
 >
 >* 擁有名稱類似，但已進行重複資料刪除的不同CRM帳戶
 >* 下一個排定的同步尚未發生

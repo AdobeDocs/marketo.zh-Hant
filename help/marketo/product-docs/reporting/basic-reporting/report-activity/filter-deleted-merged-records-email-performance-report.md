@@ -3,9 +3,9 @@ description: 瞭解如何使用中的篩選刪除的合併記錄，在Marketo En
 title: 篩選電子郵件報告中合併/刪除的記錄
 feature: Reporting
 exl-id: f62047cf-35a4-4b63-9328-3d5f7b778711
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '136'
 ht-degree: 6%
 
 ---
@@ -34,4 +34,4 @@ ht-degree: 6%
 
    ![](assets/filter-deleted-merged-records-in-an-email-performance-report-4.png)
 
-您已完成！ 按一下「報表」標籤，檢視篩選後的報表。
+完成了！ 按一下「報表」標籤，檢視篩選後的報表。

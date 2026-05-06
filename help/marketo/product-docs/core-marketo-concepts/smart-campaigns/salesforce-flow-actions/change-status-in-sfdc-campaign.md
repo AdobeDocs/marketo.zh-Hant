@@ -4,9 +4,9 @@ description: 瞭解如何使用流程步驟變更Salesforce行銷活動的狀態
 title: 在 SFDC 行銷活動中變更狀態
 exl-id: 7c0082fe-204f-46d2-a835-8655dea4d0b1
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '103'
 ht-degree: 9%
 
 ---
@@ -27,6 +27,6 @@ ht-degree: 9%
 
    ![](assets/change-status-in-sfdc-campaign-2.png)
 
-1. 然後選取您要設定的&#x200B;**[!UICONTROL New Status]**，就完成了！
+1. 接著，選取您要設定的&#x200B;**[!UICONTROL New Status]**，然後您就完成了！
 
    ![](assets/change-status-in-sfdc-campaign-3.png)

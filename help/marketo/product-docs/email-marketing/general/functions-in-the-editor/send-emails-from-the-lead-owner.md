@@ -4,9 +4,9 @@ description: 瞭解如何從潛在客戶擁有者地址傳送電子郵件。 使
 title: 傳送來自商機所有者的電子郵件
 exl-id: b7ceb976-f52f-4134-8b7e-1c18d09af5de
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '197'
 ht-degree: 7%
 
 ---
@@ -59,6 +59,6 @@ ht-degree: 7%
 
    ![](assets/ten.png)
 
-1. 確定已填入&#x200B;**[!UICONTROL Reply-to]**&#x200B;和&#x200B;**[!UICONTROL Subject]**&#x200B;欄位，且您已完成！
+1. 請確定已填入&#x200B;**[!UICONTROL Reply-to]**&#x200B;和&#x200B;**[!UICONTROL Subject]**&#x200B;欄位，且您已填入！
 
    ![](assets/eleven.png)

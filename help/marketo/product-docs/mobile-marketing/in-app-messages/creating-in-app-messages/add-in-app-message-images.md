@@ -4,10 +4,10 @@ description: 瞭解如何在應用程式內訊息中新增和自訂影像。 從
 title: 新增應用程式內訊息影像
 exl-id: b4617338-04bc-4235-bff1-7ec89a9b2c6a
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '349'
-ht-degree: 2%
+source-wordcount: '361'
+ht-degree: 3%
 
 ---
 
@@ -87,7 +87,7 @@ ht-degree: 2%
    >
    >針對影像、按鈕或背景的點選動作，您可以為Apple和Android平台設定不同的動作。 例如，Apple和Android的深層連結處理方式不同。 如果您的訊息只傳送到其中一個平台，請將另一個平台保留為預設設定，或選取&#x200B;**[!UICONTROL None]**。
 
-做得很好！ 現在是[為您的應用程式內訊息](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md)建立文字的時間。
+做得很好！ 現在是[為您的應用程式內訊息](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md)建立文字的時候了。
 
 >[!MORELIKETHIS]
 >

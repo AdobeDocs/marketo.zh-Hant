@@ -2,9 +2,9 @@
 description: 瞭解電子郵件範本中的欄位提示。 新增在傳送時提示寄件者填寫自訂內容的預留位置。
 title: 欄位提示
 exl-id: c138b627-f853-4d35-b022-cc517d6b86d4
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '175'
 ht-degree: 2%
 
 ---

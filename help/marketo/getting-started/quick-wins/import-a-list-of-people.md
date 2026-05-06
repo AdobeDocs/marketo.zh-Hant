@@ -4,10 +4,10 @@ description: 匯入人員清單 - Marketo 文件 - 產品文件
 title: 匯入人員清單
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '541'
-ht-degree: 100%
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+workflow-type: tm+mt
+source-wordcount: '553'
+ht-degree: 95%
 
 ---
 
@@ -33,9 +33,9 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >所匯入的任何日期/時間欄位均被視為北美中部時間。若您有位在不同時區的日期/時間欄位，可以使用 Excel 公式將其轉換為北美中部時間 (美國/芝加哥)。
+   >所匯入的任何日期/時間欄位均被視為北美中部時間。 若您有位在不同時區的日期/時間欄位，可以使用 Excel 公式將其轉換為北美中部時間 (美國/芝加哥)。
 
-1. 新增您自己的名字、姓氏、實際電子郵件地址 (讓您可以收到在下一項任務中要傳送的培養電子郵件) 和工作職稱。將檔案儲存在您的電腦上。
+1. 新增您自己的名字、姓氏、實際電子郵件地址 (讓您可以收到在下一項任務中要傳送的培養電子郵件) 和工作職稱。 將檔案儲存在您的電腦上。
 
    ![](assets/import-a-list-of-people-2.png)
 
@@ -45,7 +45,7 @@ ht-degree: 100%
    >
    >* Marketo **不**&#x200B;支援包含表情符號的電子郵件地址。
    >
-   >* 透過 CSV 匯入 `NULL` 值，可能會在人員[活動記錄](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"}中的數值欄位產生「變更資料值」，_即使欄位已經為空白_。若您有任何[智慧行銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}使用「資料值已變更」篩選器或「資料值變更」觸發程序，則即使資料實際上並未變更，也可能會導致人員符合該行銷活動的資格。您可以使用[限制](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}來確保匯入時沒有人符合這些行銷活動的資格。
+   >* 透過 CSV 匯入 `NULL` 值，可能會在人員[活動記錄](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"}中的數值欄位產生「變更資料值」，_即使欄位已經為空白_。 若您有任何[智慧行銷活動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}使用「資料值已變更」篩選器或「資料值變更」觸發程序，則即使資料實際上並未變更，也可能會導致人員符合該行銷活動的資格。 您可以使用[限制](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}來確保匯入時沒有人符合這些行銷活動的資格。
 
 ## 步驟 2：建立方案 {#step-create-a-program}
 
@@ -67,7 +67,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->事件方案會在特定日期發生。了解更多關於&#x200B;[**事件**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md){target="_blank"}&#x200B;的資訊。
+>事件方案會在特定日期發生。 了解更多關於&#x200B;[**事件**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md){target="_blank"}&#x200B;的資訊。
 
 ## 步驟 3：將您的試算表匯入 Marketo 中 {#step-import-your-spreadsheet-into-marketo}
 
@@ -101,7 +101,7 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >在清單匯入模式下，選擇「**[!UICONTROL Skip new people and updates]**」代表您不會影響現有的人員記錄，也不會記錄任何活動。若您想要一個快速、預先篩選的現有人員靜態清單供行銷活動使用，請使用此模式。選取此模式會：
+   >在清單匯入模式下，選擇「**[!UICONTROL Skip new people and updates]**」代表您不會影響現有的人員記錄，也不會記錄任何活動。 若您想要一個快速、預先篩選的現有人員靜態清單供行銷活動使用，請使用此模式。 選取此模式會：
    >
    > * 跳過建立新人員
    > * 跳過人員欄位更新
@@ -113,7 +113,7 @@ ht-degree: 100%
 
    >[!TIP]
    >
-   >欄標題應與欄位名稱完全相符 (區分大小寫)，以達到最佳的自動對應結果。若您使用自訂欄位但在下拉式選單中沒有看到那些欄位，請返回並[建立欄位](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"}，讓欄位能夠成為選項。
+   >欄標題應與欄位名稱完全相符 (區分大小寫)，以達到最佳的自動對應結果。 如果您使用自訂欄位，但未在下拉式清單中看到它們，請返回[建立它們](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"}，讓它們成為選項。
 
    >[!NOTE]
    >
@@ -127,19 +127,19 @@ ht-degree: 100%
 
    ![](assets/import-a-list-of-people-14.png)
 
-1. 返回「**我的商展方案**」，按一下「**[!UICONTROL Members]**」索引標籤。您會看到剛才匯入的所有人員。
+1. 返回「**我的商展方案**」，按一下「**[!UICONTROL Members]**」索引標籤。 您會看到剛才匯入的所有人員。
 
    ![](assets/import-a-list-of-people-15.png)
 
 >[!NOTE]
 >
->透過追蹤方案會籍，您可以分析方案的成功程度。了解更多關於&#x200B;[**方案**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"}&#x200B;的資訊。
+>透過追蹤方案會籍，您可以分析方案的成功程度。 了解更多關於&#x200B;[**方案**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"}&#x200B;的資訊。
 
 ## 任務完成 {#mission-complete}
 
 您的商展與會者現在是您 Marketo 方案的成員！
 
-<br>
+<br> 
 
 [◄ 任務 4：電子郵件自動回覆](/help/marketo/getting-started/quick-wins/email-auto-response.md)
 

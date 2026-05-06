@@ -4,20 +4,20 @@ description: 瞭解如何在Marketo中為您的自由格式登陸頁面新增行
 title: 新增自由格式登陸頁面的行動裝置視圖
 exl-id: 1fc9689f-a39c-4ab4-9b03-0953fe229a8c
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '143'
 ht-degree: 19%
 
 ---
 
 # 新增自由格式登陸頁面的行動裝置視圖 {#add-a-mobile-view-for-your-free-form-landing-page}
 
-讓您的自由格式登陸頁面在智慧型手機上看起來很棒，非常容易。
+讓您在智慧型手機上輕鬆呈現自由格式的登陸頁面。
 
 >[!NOTE]
 >
->行動檢視可在480px寬（或更小）的熒幕上運作。 換句話說，就是智慧型手機。 以下是裝置解析度[的更多](https://www.mydevice.io/)資訊。
+>行動檢視可在480px寬（或更小）的熒幕上運作。 換句話說，就是智慧型手機。 以下是裝置解析度](https://www.mydevice.io/)的更多[資訊。
 
 1. 前往 **[!UICONTROL Marketing Activities]**。
 

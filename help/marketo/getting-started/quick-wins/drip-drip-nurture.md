@@ -4,9 +4,9 @@ description: Drip， Drip， Nurture - Marketo檔案 — 產品檔案
 title: 點滴式培養
 exl-id: b457e191-3b46-4a4d-af1b-e9127d81b71c
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '422'
 ht-degree: 7%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 7%
 
    ![](assets/drip-drip-nurture-2.png)
 
-1. 輸入&#x200B;**[!UICONTROL Name]**&#x200B;並為&#x200B;**[!UICONTROL Engagement]**&#x200B;選取&#x200B;**[!UICONTROL Program Type]**。
+1. 輸入&#x200B;**[!UICONTROL Name]**&#x200B;並為&#x200B;**[!UICONTROL Program Type]**&#x200B;選取&#x200B;**[!UICONTROL Engagement]**。
 
    ![](assets/drip-drip-nurture-3.png)
 
@@ -86,7 +86,7 @@ ht-degree: 7%
 
 ## 步驟3：新增內容至您的串流 {#step-add-content-to-your-stream}
 
-現在該使用您建立的電子郵件，為您的參與計畫建立內容串流了。
+現在可以使用您建立的電子郵件，為您的參與計畫建立內容流。
 
 1. 選取您的參與方案，然後按一下「**[!UICONTROL Streams]**」標籤。
 
@@ -164,7 +164,7 @@ ht-degree: 7%
 
 ## 任務完成！ {#mission-complete}
 
-<br>
+<br> 
 
 [◄任務5：匯入人員清單](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 

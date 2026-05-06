@@ -3,9 +3,9 @@ description: 瞭解指揮中心銷售電子郵件與工作的快速動作。 使
 title: 指揮中心的快速動作
 exl-id: e95cdb06-8a67-41ba-b528-c2478a75356f
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '309'
 ht-degree: 4%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 4%
 
 ## 快速動作 {#quick-actions}
 
-電子郵件快速動作是動態的，而且會根據您所檢視電子郵件狀態的最相關動作進行更新。 每個電子郵件狀態最多會顯示兩個電子郵件快速動作。 您可以在下方看到各個狀態有哪些電子郵件快速動作可用。
+電子郵件快速動作是動態的，而且會根據您所檢視電子郵件狀態的最相關動作而更新。 每個電子郵件狀態最多會顯示兩個電子郵件快速動作。 您可以在下方看到各個狀態有哪些電子郵件快速動作可用。
 
 **[!UICONTROL Delivered]**
 
@@ -39,7 +39,7 @@ ht-degree: 4%
   </tr>
   <tr>
    <td>[!UICONTROL Delete]</td>
-   <td><p>將刪除電子郵件。<br><strong>注意：</strong>無法刪除作為行銷活動的一部分傳送的電子郵件。</p></td>
+   <td><p>將刪除電子郵件。<br><strong>注意：</strong>在行銷活動中傳送的電子郵件無法刪除。</p></td>
   </tr>
  </tbody>
 </table>
@@ -58,7 +58,7 @@ ht-degree: 4%
   </tr>
   <tr>
    <td>[!UICONTROL Delete]</td>
-   <td><p>將刪除電子郵件。<br><strong>注意：</strong>無法刪除作為行銷活動的一部分傳送的電子郵件。</p></td>
+   <td><p>將刪除電子郵件。<br><strong>注意：</strong>在行銷活動中傳送的電子郵件無法刪除。</p></td>
   </tr>
  </tbody>
 </table>
@@ -77,7 +77,7 @@ ht-degree: 4%
   </tr>
   <tr>
    <td>[!UICONTROL Delete]</td>
-   <td><p>將刪除電子郵件。<br><strong>注意：</strong>無法刪除作為行銷活動的一部分傳送的電子郵件。</p></td>
+   <td><p>將刪除電子郵件。<br><strong>注意：</strong>在行銷活動中傳送的電子郵件無法刪除。</p></td>
   </tr>
  </tbody>
 </table>

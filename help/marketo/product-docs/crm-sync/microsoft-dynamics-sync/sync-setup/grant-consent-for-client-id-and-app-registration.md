@@ -3,9 +3,9 @@ description: 瞭解如何授與用於Dynamics同步處理之使用者端ID和應
 title: 授予用戶端 ID 和應用程式註冊的同意
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '284'
 ht-degree: 7%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 7%
 
 ## 授與同步處理使用者的委派使用者許可權 {#grant-delegated-user-permissions-for-the-sync-user}
 
-1. 使用純文字程式(Windows的Notepad，Mac的Text Edit)建立統一資源識別碼(URI)以進行授權，方法是貼上以下文字並替代`client_id`、`redirect_uri`和`state`值。
+1. 使用純文字程式（Windows的Notepad，Mac的Text Edit）建立統一資源識別碼(URI)以進行授權，方法是貼上以下文字並替代`client_id`、`redirect_uri`和`state`值。
 
    ```
    https://login.microsoftonline.com/common/oauth2/authorize?
@@ -46,7 +46,7 @@ ht-degree: 7%
      </tr>
      <tr>
       <td><strong>狀態值</strong></td>
-      <td>可以是任何ID (例如，12345)</td>
+      <td>可以是任何ID （例如，12345）</td>
      </tr>
     </tbody>
    </table>
@@ -57,13 +57,13 @@ ht-degree: 7%
 
    ![](assets/grant-consent-for-client-id-app-registration-1.png)
 
-1. 以您要授與許可權的同步處理使用者身分登入。
+1. 以您正在授與許可權的Sync使用者身分登入。
 
    ![](assets/grant-consent-for-client-id-app-registration-2.png)
 
    >[!NOTE]
    >
-   >如果您已在其他索引標籤中以管理員身分登入Azure，則需使用其他瀏覽器或無痕模式以同步使用者身分登入。
+   >如果您已在其他索引標籤中以管理員身分登入Azure，則需使用其他瀏覽器或無痕模式才能以同步使用者身分登入。
 
 1. 按一下「**[!UICONTROL Accept]**」。
 

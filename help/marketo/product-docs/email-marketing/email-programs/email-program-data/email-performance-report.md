@@ -4,10 +4,10 @@ description: 瞭解如何建立和使用電子郵件效能報表。 追蹤開啟
 title: 電子郵件績效報告
 exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
 feature: Email Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '500'
-ht-degree: 96%
+source-wordcount: '501'
+ht-degree: 95%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 96%
 
 1. [在方案中建立報告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)並選取&#x200B;**[!UICONTROL Email Performance]** [報告類型](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)。
 1. [變更報告時間範圍](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)，然後按一下 **[!UICONTROL Report]** 索引標籤。
-1. 您完成了！現在探索報告，查看電子郵件的執行方式。
+1. 您到了！ 現在探索報告，查看電子郵件的執行方式。
 
    >[!NOTE]
    >
@@ -31,7 +31,7 @@ ht-degree: 96%
 
    >[!NOTE]
    >
-   >電子郵件績效報告包含適用於所有人員的活動，包括傳送電子郵件後即已刪除的活動。有時候，您可能只想查看活躍人員的活動。在這種情況下，您需要從報告中篩選已刪除的人員。使用 **[!UICONTROL Smart List]** 索引標籤來為報告[建立智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)。如果您並未篩選任何特定欄位，則請將電子郵件地址篩選器設為：**[!UICONTROL is not empty]**。
+   >電子郵件績效報告包含適用於所有人員的活動，包括傳送電子郵件後即已刪除的活動。 有時候，您可能只想查看活躍人員的活動。 在這種情況下，您需要從報告中篩選已刪除的人員。 使用 **[!UICONTROL Smart List]** 索引標籤來為報告[建立智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)。 如果您並未篩選任何特定欄位，則請將電子郵件地址篩選器設為：**[!UICONTROL is not empty]**。
 
    電子郵件績效報告的[選取報告欄](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)，包含：
 
@@ -64,7 +64,7 @@ ht-degree: 96%
   </tr>
   <tr>
     <td>已中止</td>
-    <td>無法傳遞且未收到退回事件的電子郵件數目。如果在傳送電子郵件後的三天內未收到回應，則系統會自動將電子郵件標記為「已中止」。</td>
+    <td>無法傳遞且未收到退回事件的電子郵件數目。 如果在傳送電子郵件後的三天內未收到回應，則系統會自動將電子郵件標記為「已中止」。</td>
   </tr>
 </tbody></table>
 
@@ -72,15 +72,15 @@ ht-degree: 96%
 >
 >在電子郵件中按一下取消訂閱連結和電子郵件地址，這些連結即不會計入報告中的「已點按連結」。
 
-一般而言，我們會設法運用常識來記錄這些統計資料。例如，如果有人點按了電子郵件中的連結，他們顯然已經先開啟了電子郵件。我們會遵循電子郵件績效報告的下列特定規則：
+一般而言，我們會設法運用常識來記錄這些統計資料。 例如，如果有人點按了電子郵件中的連結，他們顯然已經先開啟了電子郵件。 我們會遵循電子郵件績效報告的下列特定規則：
 
 * **規則 1**：每個電子郵件活動記錄只能設定為下列其中一項：_已傳遞_、_已硬退回_、_已軟退回_&#x200B;或&#x200B;_待處理_。
 
 * **規則 2**：如果電子郵件記錄顯示 _[!UICONTROL Opened]_，則計為_&#x200B;已傳遞&#x200B;_。
 
-* **規則 3**：如果電子郵件記錄顯示 _[!UICONTROL Clicked Email]_&#x200B;或_[!UICONTROL Unsubscribed]_，則計為&#x200B;_已傳遞_&#x200B;及&#x200B;_已開啟_。
+* **規則 3**：如果電子郵件記錄顯示 _[!UICONTROL Clicked Email]_或_[!UICONTROL Unsubscribed]_，則計為&#x200B;_已傳遞_&#x200B;及&#x200B;_已開啟_。
 
-* **規則 4**：如果電子郵件為 _[!UICONTROL Opened]_，則會忽略退回。如果電子郵件還未開啟，_&#x200B;已硬退回&#x200B;_會優先於_&#x200B;已軟退回&#x200B;_和_&#x200B;已傳遞&#x200B;_。
+* **規則 4**：如果電子郵件為 _[!UICONTROL Opened]_，則會忽略退回。 如果電子郵件還未開啟，_&#x200B;已硬退回&#x200B;_會優先於_&#x200B;已軟退回&#x200B;_和_&#x200B;已傳遞&#x200B;_。
 
 * **規則 5**：如果傳送電子郵件三天後未收到任何電子郵件活動，則將其視為&#x200B;_已中止_。
 

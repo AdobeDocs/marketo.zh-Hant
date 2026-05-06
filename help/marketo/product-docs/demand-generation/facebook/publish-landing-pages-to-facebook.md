@@ -4,9 +4,9 @@ description: 瞭解如何將Marketo登陸頁面發佈至Facebook。 將登入頁
 title: 將登陸頁面發佈至 Facebook
 exl-id: 42ba4136-3538-4eef-b794-3fce7e9fb8e5
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '293'
 ht-degree: 1%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 1%
 >
 >您的頁面必須至少有2,000個讚，您才能發佈到[!DNL Facebook]。
 
-假設您正在發行新書，您可能會透過電子郵件和網站與部分讀者接觸。 額外發佈Marketo登入頁面至您的[!DNL Facebook]品牌頁面可觸及更廣大的受眾，並鼓勵共用您的優惠方案。
+假設您正在發行新書，您可能會透過電子郵件和網站與部分受眾接觸。 額外發佈Marketo登入頁面至您的[!DNL Facebook]品牌頁面可觸及更廣大的受眾，並鼓勵共用您的優惠方案。
 
 1. 選取已核准的登陸頁面。
 

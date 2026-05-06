@@ -4,9 +4,9 @@ description: 瞭解如何透過匯入清單來定義電子郵件方案對象。 
 title: 透過匯入清單定義客群
 exl-id: 9a63f4a5-1d76-4671-9622-19eb368d196f
 feature: Email Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '376'
 ht-degree: 15%
 
 ---
@@ -23,13 +23,13 @@ ht-degree: 15%
 >
 >只有當電子郵件計畫未獲核準時，定義您的對象才能運作。
 >
->所匯入的任何日期/時間欄位均被視為北美中部時間。若您有位在不同時區的日期/時間欄位，可以使用 Excel 公式將其轉換為北美中部時間 (美國/芝加哥)。
+>所匯入的任何日期/時間欄位均被視為北美中部時間。 若您有位在不同時區的日期/時間欄位，可以使用 Excel 公式將其轉換為北美中部時間 (美國/芝加哥)。
 
 1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/login-marketing-activities-1.png)
 
-1. 選取您的電子郵件程式，然後按一下「**[!UICONTROL Import List]**」方塊下方的「**[!UICONTROL Audience]**」。
+1. 選取您的電子郵件程式，然後按一下「**[!UICONTROL Audience]**」方塊下方的「**[!UICONTROL Import List]**」。
 
    ![](assets/importlist.png)
 
@@ -71,13 +71,13 @@ ht-degree: 15%
 >
 >按一下數字，即可取得封鎖郵件之人員的詳細清單。
 >
->使用![圖磚上的](assets/image2014-10-23-16-3a32-3a36-1.png)—**[!UICONTROL Audience]**&#x200B;按鈕，根據智慧清單條件檢視有多少人符合接收電子郵件的資格。 從「人物」號碼中減去「已封鎖」號碼，即可取得將收到電子郵件的人物總數。
+>使用&#x200B;**[!UICONTROL Audience]**&#x200B;圖磚上的![—](assets/image2014-10-23-16-3a32-3a36-1.png)按鈕，根據智慧清單條件檢視有多少人符合接收電子郵件的資格。 從「人物」號碼中減去「已封鎖」號碼，即可取得將收到電子郵件的人物總數。
 
 >[!TIP]
 >
 >您不必等待清單匯入完成。 您可以視需要繼續工作。
 
-太棒了！ 現在該選擇現有電子郵件或建立新電子郵件以傳送給這些人員了。
+太棒了！ 現在該選擇現有電子郵件或建立新電子郵件以傳送給這些人了。
 
 >[!MORELIKETHIS]
 >

@@ -4,9 +4,9 @@ description: 瞭解如何排程您的電子郵件計畫。 設定傳遞的日期
 title: 安排您的電子郵件方案的執行時間
 exl-id: c125166f-3e0d-49a5-ad83-7abac51da713
 feature: Email Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '141'
 ht-degree: 8%
 
 ---
@@ -42,7 +42,7 @@ ht-degree: 8%
 
    ![](assets/image2017-12-5-14-3a3-3a12.png)
 
-   這有多容易？ 剩下的一件事就是[核准電子郵件程式](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)，一切準備就緒。
+   這有多容易？ 剩下的一件事就是[核准電子郵件程式](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)，您已準備就緒。
 
 >[!MORELIKETHIS]
 >

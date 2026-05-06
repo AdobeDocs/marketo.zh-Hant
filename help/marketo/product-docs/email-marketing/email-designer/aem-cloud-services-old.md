@@ -5,10 +5,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '203'
-ht-degree: 1%
+source-wordcount: '218'
+ht-degree: 8%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 1%
 
 熒幕擷圖
 
-1. 按一下&#x200B;**Adobe Experience Manager雲端服務**&#x200B;旁的&#x200B;_編輯_。
+1. 按一下&#x200B;_Adobe Experience Manager雲端服務_&#x200B;旁的&#x200B;**編輯**。
 
 熒幕擷圖
 
@@ -44,7 +44,7 @@ ht-degree: 1%
 
 熒幕擷圖
 
-1. 已設定的存放庫及其狀態和到期日會顯示於下方。 按一下省略符號按鈕(**...**)以檢視憑證。 否則，您就完成了。
+1. 已設定的存放庫及其狀態和到期日會顯示於下方。 按一下省略符號按鈕(**...**) 以檢視憑證。 否則，則表示已完成。
 
 熒幕擷圖
 

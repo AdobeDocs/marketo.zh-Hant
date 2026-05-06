@@ -4,10 +4,10 @@ description: 電子郵件自動回覆 - Marketo 文件 - 產品文件
 title: 電子郵件自動回覆
 exl-id: c9c0a154-65ec-4845-97a0-a2100223cb13
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '340'
-ht-degree: 100%
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+workflow-type: tm+mt
+source-wordcount: '351'
+ht-degree: 97%
 
 ---
 
@@ -38,7 +38,7 @@ ht-degree: 100%
 
    ![](assets/email-auto-response-4.png)
 
-   電子郵件編輯器會於新的視窗或索引標籤中開啟。若快顯視窗被封鎖，請按一下資產摘要頁面上的「**[!UICONTROL Edit Draft]**」來存取電子郵件。
+   電子郵件編輯器會於新的視窗或索引標籤中開啟。 若快顯視窗被封鎖，請按一下資產摘要頁面上的「**[!UICONTROL Edit Draft]**」來存取電子郵件。
 
 1. 輸入主旨行的內容，然後按兩下電子郵件的可編輯區域。
 
@@ -78,7 +78,7 @@ ht-degree: 100%
 
    ![](assets/email-auto-response-12.png)
 
-1. 選取下拉式選單中的「**[!UICONTROL My Form]**」。然後按一下「**[!UICONTROL Flow]**」索引標籤。
+1. 選取下拉式選單中的「**[!UICONTROL My Form]**」。 然後按一下「**[!UICONTROL Flow]**」索引標籤。
 
    ![](assets/email-auto-response-13.png)
 
@@ -86,7 +86,7 @@ ht-degree: 100%
 
    ![](assets/email-auto-response-14.png)
 
-1. 選取您的&#x200B;**自動回覆電子郵件**。然後按一下「**[!UICONTROL Schedule]**」索引標籤。
+1. 選取您的&#x200B;**自動回覆電子郵件**。 然後按一下「**[!UICONTROL Schedule]**」索引標籤。
 
    ![](assets/email-auto-response-15.png)
 
@@ -108,7 +108,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->啟動後，每當有人填寫指定表單時，此行銷活動就會執行。行銷活動會持續執行，直到停用為止。
+>啟動後，每當有人填寫指定表單時，此行銷活動就會執行。 行銷活動將持續執行直到其停用。
 
 ## 步驟 3：填寫表單 {#step-fill-out-the-form}
 

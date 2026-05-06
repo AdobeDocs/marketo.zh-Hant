@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1900558
-description: 瞭解如何在電子郵件編輯器2.0中編輯電子郵件中的元素。修改電子郵件配置中的文字、影像和其他模組。
+description: 瞭解如何在電子郵件編輯器2.0中編輯電子郵件中的元素。 修改電子郵件配置中的文字、影像和其他模組。
 title: 編輯電子郵件中的元素
 exl-id: 915b4a45-f92e-40ff-9a4c-65c52f19f1ec
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '490'
 ht-degree: 2%
 
 ---
@@ -39,7 +39,7 @@ ht-degree: 2%
 
    >[!CAUTION]
    >
-   >避免從RTF來源（例如網站或Word檔案）複製和貼上文字。 請改為先將RTF貼到純文字編輯器中，例如[!DNL Notepad] (Windows)或[!DNL TextEdit] (Mac)。 當它變成「乾淨」後，您就可以從純文字編輯器複製它，並貼到您的電子郵件中。
+   >避免從RTF來源（例如網站或Word檔案）複製和貼上文字。 請改為先將RTF貼到純文字編輯器中，例如[!DNL Notepad] (Windows)或[!DNL TextEdit] (Mac)。 設定為「乾淨」後，您就可以從純文字編輯器複製該專案，並貼到電子郵件中。
 
 ## 如何編輯影像元素 {#how-to-edit-the-image-element}
 

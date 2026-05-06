@@ -4,7 +4,7 @@ description: 瞭解如何在Sales Connect中使用快速動作，以加速您的
 title: 使用快速動作加速您的工作流程
 exl-id: 8cfc2fb4-d7b1-4a12-bf4e-37613345e65b
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
 source-wordcount: '326'
 ht-degree: 6%
@@ -17,7 +17,7 @@ ht-degree: 6%
 
 ## 電子郵件動作 {#email-actions}
 
-電子郵件快速動作是動態的，而且會根據您所檢視電子郵件狀態的最相關動作進行更新。 每個電子郵件狀態最多會顯示兩個電子郵件快速動作。 您可以在下方看到各個狀態有哪些電子郵件快速動作可用。
+電子郵件快速動作是動態的，而且會根據您所檢視電子郵件狀態的最相關動作而更新。 每個電子郵件狀態最多會顯示兩個電子郵件快速動作。 您可以在下方看到各個狀態有哪些電子郵件快速動作可用。
 
 **已傳遞**
 
@@ -40,7 +40,7 @@ ht-degree: 6%
   </tr>
   <tr>
    <td>[!UICONTROL Delete]</td>
-   <td><p>將刪除電子郵件。<br><strong>注意：</strong>無法刪除作為行銷活動的一部分傳送的電子郵件。</p></td>
+   <td><p>將刪除電子郵件。<br><strong>注意：</strong>在行銷活動中傳送的電子郵件無法刪除。</p></td>
   </tr>
  </tbody>
 </table>
@@ -59,7 +59,7 @@ ht-degree: 6%
   </tr>
   <tr>
    <td>[!UICONTROL Delete]</td>
-   <td><p>將刪除電子郵件。<br><strong>注意：</strong>無法刪除作為行銷活動的一部分傳送的電子郵件。</p></td>
+   <td><p>將刪除電子郵件。<br><strong>注意：</strong>在行銷活動中傳送的電子郵件無法刪除。</p></td>
   </tr>
  </tbody>
 </table>
@@ -78,7 +78,7 @@ ht-degree: 6%
   </tr>
   <tr>
    <td>[!UICONTROL Delete]</td>
-   <td><p>將刪除電子郵件。<br><strong>注意：</strong>無法刪除作為行銷活動的一部分傳送的電子郵件。</p></td>
+   <td><p>將刪除電子郵件。<br><strong>注意：</strong>在行銷活動中傳送的電子郵件無法刪除。</p></td>
   </tr>
  </tbody>
 </table>

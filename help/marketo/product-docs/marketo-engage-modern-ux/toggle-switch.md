@@ -5,24 +5,24 @@ exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
 hide: true
 hidefromtoc: true
 feature: Modern UX
-source-git-commit: 95bb780780f90b423465e940f04946dd5c5bed80
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '290'
-ht-degree: 89%
+source-wordcount: '292'
+ht-degree: 86%
 
 ---
 
 # 切換按鈕 {#toggle-switch}
 
-您可以使用切換按鈕在 Marketo Classic 介面和 Modern UX 之間切換。此切換按鈕在以下醒目標示的所有區域皆可使用。
+您可以使用切換按鈕在 Marketo Classic 介面和 Modern UX 之間切換。 它可用於以下所有反白區域。
 
 >[!NOTE]
 >
->當選取切換按鈕時，所有現有的工作流程在使用者介面發生變更之前將會自動儲存。若有某項操作已在進行中 (例如，某項資產正在核准流程中)，您會收到一則錯誤訊息表示您有這樣的狀況，並應於操作完成後重試一次。
+>當選取切換按鈕時，所有現有的工作流程在使用者介面發生變更之前將會自動儲存。 若有某項操作已在進行中 (例如，某項資產正在核准流程中)，您會收到一則錯誤訊息表示您有這樣的狀況，並應於操作完成後重試一次。
 
 ## 為個別角色啟用切換按鈕 {#enable-the-toggle-switch-for-individual-roles}
 
-啟用個別角色或所有角色的切換按鈕。方法如下。
+啟用個別角色或所有角色的切換按鈕。 方法如下。
 
 1. 在 Marketo Engage 中，按一下「**[!UICONTROL Admin]**」。
 

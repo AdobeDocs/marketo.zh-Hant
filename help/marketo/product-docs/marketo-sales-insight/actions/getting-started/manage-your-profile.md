@@ -1,10 +1,10 @@
 ---
 description: 瞭解如何管理您的銷售Insight動作設定檔。 更新「設定」中的名稱、電子郵件、簽名和通知偏好設定。
 title: 管理您的設定檔
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '269'
-ht-degree: 2%
+source-wordcount: '279'
+ht-degree: 4%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 2%
 
    ![](assets/manage-your-profile-1.png)
 
-1. 您的「我的設定檔」頁面預設會開啟。 若要更新您的名稱，只要輸入變更並按一下[儲存]。**&#x200B;**
+1. 您的「我的設定檔」頁面預設會開啟。 若要更新您的名稱，只要輸入變更並按一下[儲存]。****
 
    ![](assets/manage-your-profile-2.png)
 
@@ -38,7 +38,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->如果您使用Exchange On Prem搭配Marketo Sales，將不會更新傳遞管道（第一行專案）或回覆追蹤（第二行專案）整合健康狀態檢查。 我們正努力在未來的版本中支援此功能。
+>如果您搭配使用Exchange On Prem與Marketo Sales，將不會更新傳遞管道（第一行專案）或回覆追蹤（第二行專案）整合健康狀態檢查。 我們正努力在未來的版本中支援此功能。
 
 ## 時區 {#time-zone}
 

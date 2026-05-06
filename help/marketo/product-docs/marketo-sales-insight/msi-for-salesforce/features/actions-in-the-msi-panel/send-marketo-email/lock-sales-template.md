@@ -4,9 +4,9 @@ description: 瞭解如何在Marketo Sales Insight中鎖定銷售範本。 防止
 title: 鎖定銷售範本
 exl-id: 005dde5d-ed60-444b-b7a3-b91be72a0151
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '200'
 ht-degree: 5%
 
 ---

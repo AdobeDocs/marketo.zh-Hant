@@ -4,16 +4,16 @@ description: 瞭解如何使用復製程式分析器復製程式分析器，在M
 title: 原地複製方案分析工具
 exl-id: 90a335b3-dd55-47e7-b4f7-b45c49671d11
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '121'
 ht-degree: 6%
 
 ---
 
 # 原地複製方案分析工具 {#clone-a-program-analyzer}
 
-儲存分析器後，即可輕鬆複製分析器以建立新分析器。 然後，如果新檔案需要變更，請進入並編輯。
+儲存分析器後，可以輕鬆複製該分析器以建立新分析器。 然後，如果新檔案需要變更，請進入並編輯。
 
 1. 按一下&#x200B;**[!UICONTROL Analytics]**&#x200B;圖磚。
 

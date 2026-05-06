@@ -4,10 +4,10 @@ description: 如果您從未收到Sales Connect驗證電子郵件，請取得協
 title: 未曾收到驗證電子郵件
 exl-id: 3378f7c1-7203-4405-a57d-8d0556821ed1
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '56'
-ht-degree: 19%
+source-wordcount: '63'
+ht-degree: 26%
 
 ---
 

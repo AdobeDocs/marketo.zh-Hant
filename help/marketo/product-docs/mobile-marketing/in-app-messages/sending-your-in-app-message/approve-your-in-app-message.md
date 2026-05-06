@@ -4,10 +4,10 @@ description: 瞭解如何核准您的應用程式內訊息，以將其啟動。 
 title: 核准您的應用程式內訊息
 exl-id: 3ebd857e-8caa-45f3-a53c-fa2df2a81d36
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '316'
-ht-degree: 2%
+source-wordcount: '328'
+ht-degree: 3%
 
 ---
 
@@ -57,7 +57,7 @@ ht-degree: 2%
 
    ![](assets/image2016-5-24-13-3a29-3a35.png)
 
-1. 如果您確定要停止此程式，請按一下&#x200B;**[!UICONTROL Stop]**。
+1. 如果您確定要停止程式，請按一下&#x200B;**[!UICONTROL Stop]**。
 
    ![](assets/image2016-5-24-13-3a31-3a22.png)
 

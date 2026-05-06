@@ -4,9 +4,9 @@ description: 瞭解如何在最後一個步驟中將Marketo連線到內部部署
 title: 安裝適用於Microsoft Dynamics 2015內部部署的Marketo步驟3之3
 exl-id: 054bf725-7a80-4114-8360-2d86e2e33dd7
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '375'
 ht-degree: 2%
 
 ---
@@ -36,7 +36,7 @@ ht-degree: 2%
 
    ![](assets/image2015-3-16-9-50-6.png)
 
-1. 在&#x200B;**[!UICONTROL Edit]**&#x200B;中按一下&#x200B;**[!UICONTROL Step 1: Enter Credentials]**。
+1. 在&#x200B;**[!UICONTROL Step 1: Enter Credentials]**&#x200B;中按一下&#x200B;**[!UICONTROL Edit]**。
 
    ![](assets/image2015-3-16-9-48-43.png)
 
@@ -50,7 +50,7 @@ ht-degree: 2%
 
    >[!NOTE]
    >
-   >* 如果您的Marketo是在2020年10月之前布建，使用者端ID和密碼為選用欄位。 否則，這些是強制性的。 能否取得此資訊將取決於您使用的MSD版本。
+   >* 如果您的Marketo是在2020年10月之前布建，使用者端ID和密碼為選用欄位。 否則，這些是強制性的。 此資訊的取得將取決於您使用的MSD版本。
    >* Marketo中的使用者名稱必須與CRM中同步處理使用者的使用者名稱相符。 格式可以是`user@domain.com`或DOMAIN\user。
    >* 如果您不知道該URL，[請在這裡瞭解如何找到它](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}。
 
@@ -60,7 +60,7 @@ ht-degree: 2%
 
 ## 選取要同步的欄位 {#select-fields-to-sync}
 
-1. 在&#x200B;**[!UICONTROL Edit]**&#x200B;中按一下&#x200B;**[!UICONTROL Step 2: Select Fields to Sync]**。
+1. 在&#x200B;**[!UICONTROL Step 2: Select Fields to Sync]**&#x200B;中按一下&#x200B;**[!UICONTROL Edit]**。
 
    ![](assets/image2015-3-16-9-51-28.png)
 
@@ -80,7 +80,7 @@ ht-degree: 2%
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. 在&#x200B;**[!UICONTROL Edit]**&#x200B;上按一下[!UICONTROL Field Sync Details]。
+1. 在[!UICONTROL Field Sync Details]上按一下&#x200B;**[!UICONTROL Edit]**。
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
@@ -90,7 +90,7 @@ ht-degree: 2%
 
 ## 啟用同步 {#enable-sync}
 
-1. 在&#x200B;**[!UICONTROL Edit]**&#x200B;中按一下&#x200B;**[!UICONTROL Step 3: Enable Sync]**。
+1. 在&#x200B;**[!UICONTROL Step 3: Enable Sync]**&#x200B;中按一下&#x200B;**[!UICONTROL Edit]**。
 
    ![](assets/image2015-3-16-9-52-2.png)
 

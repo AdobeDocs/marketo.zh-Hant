@@ -3,9 +3,9 @@ description: 發行說明 — 2023年7月 — Marketo檔案 — 產品檔案
 title: 版本注意事項 - 2023 年 7 月
 feature: Release Information
 exl-id: 4056353c-4125-4849-8350-59c58afb9e66
-source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '655'
+source-wordcount: '664'
 ht-degree: 16%
 
 ---
@@ -16,15 +16,15 @@ ht-degree: 16%
 
 >[!AVAILABILITY]
 >
->標有星號 (![星號](assets/yellow-star.png)) 的功能為付費附加元件。請聯絡您的 Marketo Engage 代表，了解更多相關資訊。
+>標有星號 (![星號](assets/yellow-star.png)) 的功能為付費附加元件。 請聯絡您的 Marketo Engage 代表，了解更多相關資訊。
 
 ## 標準發行週期功能 {#standard-release-cycle-features}
 
-下列功能屬於標準發行週期，並將於&#x200B;**2023年7月21日**&#x200B;開始發行，在接下來的幾週內分階段推出剩餘功能。 發行的功能和日期可能有所變更。請檢視每個功能下方的狀態。
+下列功能屬於標準發行週期，並將於&#x200B;**2023年7月21日**&#x200B;開始發行，在接下來的幾週內分階段推出剩餘功能。 發行的功能和日期可能有所變更。 請檢視每個功能下方的狀態。
 
 </br>
 
-* **參與圖**：參與圖是可讓您建立及組織可重複使用行銷活動的視覺工具。 它完全回溯相容，因此只要按一下按鈕，即可在此新結構中檢視所有現有行銷活動。 地圖可以下載和共用。
+* **參與圖**：參與圖是可讓您建立及組織可重複使用行銷活動的視覺工具。 此結構完全回溯相容，因此只要按一下按鈕，即可在此新結構中檢視所有現有行銷活動。 地圖可以下載和共用。
 
 <table>
   <tr>

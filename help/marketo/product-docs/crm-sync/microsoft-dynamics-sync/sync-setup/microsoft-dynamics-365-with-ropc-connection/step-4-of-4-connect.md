@@ -3,9 +3,9 @@ description: 瞭解如何使用ROPC連線將Marketo解決方案連線至Dynamics
 title: 步驟4之4 — 使用資源擁有者密碼控制連線來連線Marketo解決方案
 exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '400'
 ht-degree: 2%
 
 ---
@@ -42,7 +42,7 @@ ht-degree: 2%
 
    ![](assets/image2015-3-16-9-3a50-3a6.png)
 
-1. 在&#x200B;**[!UICONTROL Edit]**&#x200B;中按一下&#x200B;**[!UICONTROL Step 1: Enter Credentials]**。
+1. 在&#x200B;**[!UICONTROL Step 1: Enter Credentials]**&#x200B;中按一下&#x200B;**[!UICONTROL Edit]**。
 
    ![](assets/image2015-3-16-9-3a48-3a43.png)
 
@@ -64,7 +64,7 @@ ht-degree: 2%
 
 ## 選取要同步的欄位 {#select-fields-to-sync}
 
-1. 在&#x200B;**[!UICONTROL Edit]**&#x200B;中按一下&#x200B;**[!UICONTROL Step 2: Select Fields to Sync]**。
+1. 在&#x200B;**[!UICONTROL Step 2: Select Fields to Sync]**&#x200B;中按一下&#x200B;**[!UICONTROL Edit]**。
 
    ![](assets/image2015-3-16-9-3a51-3a28.png)
 
@@ -84,7 +84,7 @@ ht-degree: 2%
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. 在&#x200B;**[!UICONTROL Edit]**&#x200B;上按一下[!UICONTROL Field Sync Details]。
+1. 在[!UICONTROL Field Sync Details]上按一下&#x200B;**[!UICONTROL Edit]**。
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
@@ -94,7 +94,7 @@ ht-degree: 2%
 
 ## 啟用同步 {#enable-sync}
 
-1. 在&#x200B;**[!UICONTROL Edit]**&#x200B;中按一下&#x200B;**[!UICONTROL Step 3: Enable Sync]**。
+1. 在&#x200B;**[!UICONTROL Step 3: Enable Sync]**&#x200B;中按一下&#x200B;**[!UICONTROL Edit]**。
 
    ![](assets/image2015-3-16-9-3a52-3a2.png)
 

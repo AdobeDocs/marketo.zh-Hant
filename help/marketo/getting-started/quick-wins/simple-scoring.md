@@ -4,10 +4,10 @@ description: 簡單評分 — Marketo檔案 — 產品檔案
 title: 簡單評分
 exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '350'
-ht-degree: 17%
+source-wordcount: '361'
+ht-degree: 16%
 
 ---
 
@@ -44,7 +44,7 @@ ht-degree: 17%
 
    ![](assets/simple-scoring-5.png)
 
-1. 按一下「**[!UICONTROL Smart List]**」標籤。
+1. 按一下「**[!UICONTROL Smart List]**」索引標籤。
 
    ![](assets/simple-scoring-6.png)
 
@@ -60,9 +60,9 @@ ht-degree: 17%
 
    >[!NOTE]
    >
-   >如果您以表單[快速成功完成](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}登陸頁面，您應該有表單。 如果您的表單使用不同的名稱，請選取該名稱。
+   >如果您以表單](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}快速成功完成[登陸頁面，您應該有表單。 如果您的表單使用不同的名稱，請選取該名稱。
 
-1. 按一下「**[!UICONTROL Flow]**」標籤。
+1. 按一下「**[!UICONTROL Flow]**」索引標籤。
 
    ![](assets/simple-scoring-9.png)
 
@@ -88,7 +88,7 @@ ht-degree: 17%
 
 >[!NOTE]
 >
->一旦啟用，此行銷活動就會在每次有人填寫表單時執行。 行銷活動會持續執行，直到停用為止。
+>一旦啟用，此行銷活動就會在每次有人填寫表單時執行。 行銷活動將持續執行直到其停用。
 
 ## 步驟 2：填寫表單 {#step-fill-out-the-form}
 
@@ -96,7 +96,7 @@ ht-degree: 17%
 
    ![](assets/simple-scoring-14.png)
 
-1. 按一下&#x200B;**[!UICONTROL Preview]**。 登入頁面將在新標籤中開啟。
+1. 按一下「**[!UICONTROL Preview]**」。 登入頁面將在新標籤中開啟。
 
    ![](assets/simple-scoring-15.png)
 
@@ -128,7 +128,7 @@ ht-degree: 17%
 
 ## 任務完成！ {#mission-complete}
 
-<br>
+<br> 
 
 [◄任務2：含表單的登陸頁面](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 

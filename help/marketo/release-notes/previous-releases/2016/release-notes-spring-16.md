@@ -4,9 +4,9 @@ description: 發行說明–2016年春季 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2016年春季
 exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
 feature: Release Information
-source-git-commit: b78d943f59628b0885118f56e0875fd43217da35
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '786'
+source-wordcount: '815'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->自6月3日起，我們將分批向客戶推出電子郵件深入分析。 我們的目標是在未來幾個月內完成這項工作。 我們會在您啟用時透過電子郵件通知您。
+>自6月3日起，我們將分批向客戶推出電子郵件深入分析。 我們的目標是在未來幾個月內完成這項工作。 啟用後，我們會透過電子郵件通知您。
 
 ![](assets/two.png)
 

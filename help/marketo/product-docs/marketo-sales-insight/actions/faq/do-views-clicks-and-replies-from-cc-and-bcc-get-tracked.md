@@ -2,10 +2,10 @@
 description: 瞭解是否追蹤CC和BCC收件者的檢視、點按和回覆。 瞭解多個收件者的追蹤行為。
 title: 對於電子郵件副本和密件副本區段所列出的收件者，是否會追蹤其檢視次數、點按次數和回覆次數？
 exl-id: 9a839c61-7fcc-4a7f-a99e-ec5a4c2cc4f9
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 34%
+source-wordcount: '118'
+ht-degree: 33%
 
 ---
 

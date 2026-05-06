@@ -4,9 +4,9 @@ description: 瞭解參與串流中的巢狀方案以及何時使用。 新增子
 title: 新增方案至參與方案資料流
 exl-id: 44c2ce45-439b-4b29-8130-8cc218e04bbf
 feature: Engagement Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '462'
+source-wordcount: '469'
 ht-degree: 4%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 4%
 
 ## 為什麼在參與方案流中使用巢狀方案？ {#why-use-a-nested-program-in-an-engagement-program-stream}
 
-將電子郵件新增至參與計畫中的串流很容易，而且運作正常。 不過，如果您的業務需求較為複雜，將電子郵件置於計畫內或許是可行的作法。 例如，您可能想要：
+在參與計畫中的串流中新增電子郵件很容易，而且運作正常。 不過，如果您的業務需求較為複雜，將電子郵件置於計畫內或許是可行的作法。 例如，您可能想要：
 
 * 傳送電子郵件給資料流中的子群組
 * 傳送&#x200B;*個不同的*&#x200B;電子郵件給資料流中的子群組
@@ -53,7 +53,7 @@ ht-degree: 4%
 
 >[!CAUTION]
 >
->如果您想要重新傳送某些專案，最好建立新的計畫和智慧型行銷活動。
+>如果您想要重新傳送某些專案，最好建立新方案和智慧型行銷活動。
 
 >[!MORELIKETHIS]
 >

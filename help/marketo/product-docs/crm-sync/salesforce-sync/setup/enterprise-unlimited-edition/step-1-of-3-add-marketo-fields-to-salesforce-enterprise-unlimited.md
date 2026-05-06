@@ -4,7 +4,7 @@ description: 瞭解如何將Marketo欄位新增至Salesforce Enterprise或Unlimi
 title: 步驟3之1 — 將Marketo欄位新增至Salesforce (Enterprise/Unlimited)
 exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
 source-wordcount: '728'
 ht-degree: 8%
@@ -104,7 +104,7 @@ Marketo使用一組欄位來擷取特定型別的行銷相關資訊。 若您想
 
 >[!NOTE]
 >
->文字和數字欄位需要長度，但日期/時間欄位不需要。說明為選用。
+>文字和數字欄位需要長度，但日期/時間欄位不需要。 說明為選用。
 
 1. 按一下「**[!UICONTROL Next]**」。
 
@@ -238,7 +238,7 @@ Marketo使用一組欄位來擷取特定型別的行銷相關資訊。 若您想
 
 >[!NOTE]
 >
->建立新欄位時，Marketo自動指派的欄位值將無法立即在[!DNL Salesforce]中使用。 Marketo會在下次更新任一系統上的記錄時(亦即更新Marketo與[!DNL Salesforce]之間同步的任何欄位)，將資料同步至[!DNL Salesforce]。
+>建立新欄位時，Marketo自動指派的欄位值將無法立即在[!DNL Salesforce]中使用。 Marketo會在下次更新任一系統上的記錄時（亦即更新Marketo與[!DNL Salesforce]之間同步的任何欄位），將資料同步至[!DNL Salesforce]。
 
 ## 對應自訂欄位以進行轉換 {#map-custom-fields-for-conversions}
 
@@ -248,7 +248,7 @@ Marketo使用一組欄位來擷取特定型別的行銷相關資訊。 若您想
 
    ![](assets/image2016-5-26-16-3a34-3a0.png)
 
-1. 在導覽搜尋中輸入「欄位」，不按Enter鍵。 欄位會顯示在不同的物件下；按一下&#x200B;**[!UICONTROL Fields]**&#x200B;下的[!UICONTROL Leads]。
+1. 在導覽搜尋中輸入「欄位」，不按Enter鍵。 欄位會顯示在不同的物件下；按一下[!UICONTROL Leads]下的&#x200B;**[!UICONTROL Fields]**。
 
    ![](assets/image2016-5-26-16-3a36-3a32.png)
 
@@ -266,7 +266,7 @@ Marketo使用一組欄位來擷取特定型別的行銷相關資訊。 若您想
 
 1. 對您已建立的任何其他欄位重複上述步驟。
 
-1. 完成時，按一下「**[!UICONTROL Save]**」。
+1. 完成時，按一下&#x200B;**[!UICONTROL Save]**。
 
    很簡單，對吧？
 

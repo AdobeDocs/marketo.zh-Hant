@@ -2,10 +2,10 @@
 description: 瞭解如何設定銷售Insight Actions沙箱以進行測試。 請求布建、啟用您的執行個體，並連線至Salesforce沙箱。
 title: 設定銷售洞察動作沙箱
 exl-id: 8bc3a8a6-7fbc-4cbe-99a7-21b066ec4f96
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '682'
-ht-degree: 2%
+source-wordcount: '693'
+ht-degree: 3%
 
 ---
 
@@ -49,7 +49,7 @@ ht-degree: 2%
 
 ## 啟動您的動作執行個體 {#activate-your-actions-instance}
 
-您的Actions執行個體需要使用Salesforce生產帳戶啟用。 啟用後，可將其切換至Salesforce沙箱帳戶。
+您的Actions執行個體需要使用Salesforce生產帳戶啟用。 在啟用後，可將其切換至Salesforce沙箱帳戶。
 
 1. 找出已傳送的邀請。
 
