@@ -3,10 +3,10 @@ description: 瞭解如何設定行動推播通知。 設定應用程式、訊息
 title: 設定行動推播通知
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: b1c177e03fab297e5f94b1848103ac3239e4d079
 workflow-type: tm+mt
-source-wordcount: '461'
-ht-degree: 3%
+source-wordcount: '506'
+ht-degree: 2%
 
 ---
 
@@ -82,7 +82,19 @@ ht-degree: 3%
 
 ![](assets/configure-mobile-push-notification-10.png)
 
-也就是說，您應用程式的深層連結結構可能與上述範例不同。 您的開發人員在定義深層連結URI時有許多選項，因此請要求您的開發人員將您有意使用的頁面的URI （連結）傳送給您。 這可確保您在推送訊息中輸入的URI會指向正確的位置。 您的開發人員可以[在這裡找到更多資訊](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app)。
+也就是說，您應用程式的深層連結結構可能與上述範例不同。 您的開發人員在定義深層連結URI時有許多選項，因此請要求您的開發人員將您有意使用的頁面的URI （連結）傳送給您。 這可確保您在推送訊息中輸入的URI會指向正確的位置。 您的開發人員可以[在這裡找到更多資訊](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app)。
+
+## 重新導向URI {#redirect-uris}
+
+推播通知訊息中設定的重新導向URI支援訊息中的Marketo權杖。 僅適用於「啟動應用程式URL」。
+
+範例格式：
+
+* 現有應用程式格式：
+  `com.onboardmd://financing?FirstName={{lead.First Name}}&City={{lead.City}}`
+
+* 具有遞補值的格式：
+  `com.onboardmd://financing?FirstName={{lead.First Name:default=edit me}}&City={{lead.City:default=edit me}}`
 
 >[!MORELIKETHIS]
 >

@@ -3,14 +3,14 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: af89a1a1fd0246564d0904103f742230a096de04
+source-git-commit: b1c177e03fab297e5f94b1848103ac3239e4d079
 workflow-type: tm+mt
-source-wordcount: '448'
-ht-degree: 24%
+source-wordcount: '462'
+ht-degree: 23%
 
 ---
 
-# 發行說明：2026 年 3 月 {#release-notes-mar-26}
+# 發行說明： 2026年3月 {#release-notes-mar-26}
 
 下方提供2026年3月發行版本包含的所有功能。 請查看您的 Adobe Marketo Engage 版本是否提供這些功能。
 
@@ -18,7 +18,7 @@ ht-degree: 24%
 
 ## 標準發行週期功能 {#standard-release-cycle-features}
 
-下列功能屬於標準發行週期，並將於&#x200B;**2026年3月27日**&#x200B;開始發行，在接下來的幾週內分階段推出剩餘功能。 發行的功能和日期可能有所變更。如需了解各項功能的狀態，請查看其旁邊欄位。
+下列功能屬於標準發行週期，並將於&#x200B;**2026年3月27日**&#x200B;開始發行，在接下來的幾週內分階段推出剩餘功能。 發行的功能和日期可能有所變更。 如需了解各項功能的狀態，請查看其旁邊欄位。
 
 <table style="table-layout:auto">
  <tbody>
@@ -34,8 +34,8 @@ ht-degree: 24%
   </tr>
   <tr>
    <td> </td>
-   <td>  </td>
-   <td>  </td>
+   <td> </td>
+   <td> </td>
   </tr>
   <tr>
    <td><strong>電子郵件Designer — 快速動作</strong>： <i>與舊電子郵件編輯器的對等性</i>。 快速動作現在可用於所有電子郵件Designer資產（電子郵件、電子郵件範本、片段）。 支援的快速動作包括：複製、刪除、移動、建立/編輯草稿。
@@ -44,9 +44,9 @@ ht-degree: 24%
    <td>不適用</td>
   </tr>
   <tr>
-   <td>  </td>
-   <td>  </td>
-   <td>  </td>
+   <td> </td>
+   <td> </td>
+   <td> </td>
   </tr>
    <tr>
    <td><strong>電子郵件Designer - Outlook轉譯修正</strong>：此更新修正轉譯問題，尤其是在MS Outlook中。 進階HTML模式可讓您進行細微的HTML/CSS編輯，或新增指令碼標籤至您的電子郵件範本。
@@ -56,35 +56,24 @@ ht-degree: 24%
   </tr>
   <tr>
    <td> </td>
-   <td>  </td>
-   <td>  </td>
+   <td> </td>
+   <td> </td>
   </tr>
   <tr>
-   <td><strong>電子郵件Designer - Brand Quality Checker</strong>：評估一般內容品質，找出可讀性、內容一致性和有效性的潛在問題，不受品牌准則影響。</td>
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+   <td><strong>電子郵件Designer - Brand Score Checker</strong>：評估一般內容品質，找出可讀性、內容一致性和有效性的潛在問題，不受品牌准則影響。</td>
+   <td>已發行</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/brands/brand-score.md" target="_blank">品牌分數</a></td>
   </tr>
   <tr>
-   <td>  </td>
-   <td>  </td>
-   <td>  </td>
+   <td> </td>
+   <td> </td>
+   <td> </td>
   </tr>
   <tr>
-   <td><strong>挑選清單管理</strong>：您現在可以指定可以在Marketo Engage的欄位中使用的值。
+   <td><strong>推播通知</strong>：推播通知訊息中設定的重新導向URI現在支援Marketo Engage權杖（僅適用於<i>啟動應用程式URL</i>）。
    </td>
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
-  </tr>
-  <tr>
-   <td>  </td>
-   <td>  </td>
-   <td>  </td>
-  </tr>
-  <tr>
-   <td><strong>推播通知</strong>：在推播通知訊息中設定的重新導向URL現在支援Marketo Engage權杖（僅適用於<i>啟動應用程式URL</i>）。
-   </td>
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+   <td>已發行</td>
+   <td><a href="/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md#redirect-uris">重新導向URI</a></td>
   </tr>
   </tbody>
 </table>
@@ -92,7 +81,7 @@ ht-degree: 24%
 
 ## 公告 {#announcements}
 
-* **SEO功能淘汰**： 2026年3月31日（星期二），Marketo Engage將淘汰搜尋引擎最佳化功能(SEO)。 如果您未主動使用SEO，則不必執行任何動作。 如果您最近曾使用SEO，您可以選擇匯出資料。 [了解更多](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617?profile.language=zh-Hant){target="_blank"}。
+* **SEO功能淘汰**： 2026年3月31日（星期二），Marketo Engage將淘汰搜尋引擎最佳化功能(SEO)。 如果您未主動使用SEO，則不必執行任何動作。 如果您最近曾使用SEO，您可以選擇匯出資料。 [了解更多](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617){target="_blank"}。
 
 * **REST API合併潛在客戶限制**：自2026年3月31日起，在合併潛在客戶API呼叫的leadIds引數中包含超過25個ID的呼叫將產生1080錯誤碼，該呼叫將被跳過。 需要將超過25筆記錄合併成一筆的工作應分割成多個工作，以確保這些呼叫成功。
 
