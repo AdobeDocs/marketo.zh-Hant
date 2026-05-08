@@ -4,7 +4,7 @@ description: 瞭解銷售機會同步如何在Microsoft Dynamics和Marketo之間
 title: Microsoft Dynamics同步 — 銷售機會同步
 exl-id: ea04a039-32f7-41f9-85fb-18df8e236390
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # [!DNL Microsoft Dynamics]同步：潛在客戶同步 {#microsoft-dynamics-sync-lead-sync}
 
-Marketo與[!DNL Dynamics]的同步處理功能非常強大。 詳細資料如下：
+Marketo與[!DNL Dynamics]的同步處理功能強大。 詳細資料如下：
 
 ## 兩個系統之間的詳細資料如何保持同步？ {#how-are-details-kept-in-sync-between-the-two-systems}
 
@@ -25,7 +25,7 @@ Marketo與[!DNL Dynamics]的同步處理功能非常強大。 詳細資料如下
 
 ## 如果兩個系統中的相同欄位同時發生變更，該怎麼辦？ （資料衝突） {#what-if-changes-are-made-to-the-same-field-in-both-systems-at-the-same-time-data-collision}
 
-雖然這種情況很少見，但Marketo將會贏得人員（潛在客戶），而[!DNL Dynamics]將會贏得連絡人。 這是因為我們認為行銷部門是人員的權威，而聯絡人的官方記錄系統是在銷售(CRM)部門。
+雖然這種情況很少見，但Marketo將會贏得人員（潛在客戶），而[!DNL Dynamics]將會贏得連絡人。 這是因為行銷部門被視為人員的權威，而聯絡人的官方記錄系統是在銷售(CRM)部門。
 
 ## 我可以使用Marketo在[!DNL Dynamics]中建立銷售機會嗎？ {#can-i-create-a-lead-in-dynamics-using-marketo}
 
@@ -45,4 +45,4 @@ Marketo與[!DNL Dynamics]的同步處理功能非常強大。 詳細資料如下
 
 ## Marketo是否會遵守[!DNL Dynamics]驗證規則？ {#will-marketo-respect-the-dynamics-validation-rules}
 
-是的。如果資料格式錯誤或遺失必要欄位資訊，同步處理將會失敗。 如果發生此情況，Marketo會將結果記錄在人員的活動記錄中。
+是的。 如果資料格式錯誤或遺失必要欄位資訊，同步處理將會失敗。 如果發生此情況，Marketo會將結果記錄在人員的活動記錄中。

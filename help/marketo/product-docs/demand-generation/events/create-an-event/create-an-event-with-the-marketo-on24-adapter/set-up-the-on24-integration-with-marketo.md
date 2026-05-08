@@ -3,7 +3,7 @@ description: 瞭解如何設定ON24與Marketo的整合。 連線您的ON24帳戶
 title: 設定 ON24 與 Marketo 的整合
 exl-id: 395ffa37-b87d-4eb4-bf9f-72aa96dc819c
 feature: Events
-source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 10%
@@ -12,7 +12,7 @@ ht-degree: 10%
 
 # 設定 ON24 與 Marketo 的整合{#set-up-the-on24-integration-with-marketo}
 
-以下說明如何設定您的ON24事件整合。
+請依照下列步驟設定您的ON24事件整合。
 
 ## 建立僅限API的角色 {#create-an-api-only-role}
 
@@ -42,7 +42,7 @@ ht-degree: 10%
 
    ![](assets/set-up-the-on24-integration-with-marketo-6.png)
 
-1. 選取您剛建立的[!UICONTROL ON24 API Only Role (all workspaces)]。 選取&#x200B;**[!UICONTROL API Only]**&#x200B;核取方塊。 按一下「**[!UICONTROL Next]**」。
+1. 選取您建立的[!UICONTROL ON24 API Only Role (all workspaces)]。 選取&#x200B;**[!UICONTROL API Only]**&#x200B;核取方塊。 按一下「**[!UICONTROL Next]**」。
 
    ![](assets/set-up-the-on24-integration-with-marketo-7.png)
 
@@ -68,11 +68,11 @@ ht-degree: 10%
 
    ![](assets/set-up-the-on24-integration-with-marketo-11.png)
 
-1. 尋找您剛建立的自訂[!DNL LaunchPoint]服務，然後按一下[!UICONTROL View Details]。
+1. 尋找您建立的自訂[!DNL LaunchPoint]服務，然後按一下[!UICONTROL View Details]。
 
    ![](assets/set-up-the-on24-integration-with-marketo-12.png)
 
-1. 反白顯示、按一下滑鼠右鍵、複製並儲存[!UICONTROL Client ID] （您稍後會需要）。 重複[!UICONTROL Client Secret]。
+1. 反白顯示、按一下滑鼠右鍵、複製並儲存[!UICONTROL Client ID] （您稍後會需要它）。 重複[!UICONTROL Client Secret]。
 
    ![](assets/set-up-the-on24-integration-with-marketo-13.png)
 

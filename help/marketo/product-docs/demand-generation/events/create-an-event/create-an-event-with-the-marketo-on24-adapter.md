@@ -4,10 +4,10 @@ description: 瞭解如何使用Marketo ON24轉接器建立事件。 連線ON24�
 title: 使用 Marketo ON24 Adapter 建立事件
 exl-id: a240ff72-b12f-4e3a-8e14-94fddb02f944
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '293'
-ht-degree: 6%
+source-wordcount: '303'
+ht-degree: 22%
 
 ---
 
@@ -16,8 +16,8 @@ ht-degree: 6%
 您應熟悉在Marketo中建立事件的建置區塊和建議順序。 您也應該具備下列Marketo概念的實務知識：
 
 * [Marketo計畫](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"}以及事件，以及它們之間的差異
-* [頻道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}
-* [本機Assets](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md){target="_blank"}
+* [管道](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}
+* [本地資產](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md){target="_blank"}
 * [子行銷活動](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md){target="_blank"}和[方案狀態](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md){target="_blank"}
 
 >[!NOTE]
@@ -39,10 +39,10 @@ ht-degree: 6%
 
 請依照下列步驟，使用Marketo On24轉接器建立事件：
 
-1. [在ON24中建立您的網路研討會活動](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md){target="_blank"}
-1. [設定事件設定，並將Marketo與您的網路研討會同步](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md){target="_blank"}
-1. [建立子行銷活動和本機Assets](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md){target="_blank"}
-1. [測試您的ON24事件整合](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md){target="_blank"}
-1. [範例ON24事件整合](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md){target="_blank"}
-1. [瞭解網路研討會計畫狀態](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md){target="_blank"}
-1. [ON24事件註冊更新](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md){target="_blank"}
+1. [在 ON24 中建立您的網路研討會事件](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md){target="_blank"}
+1. [設定事件設定並將 Marketo 與您的網路研討會同步](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md){target="_blank"}
+1. [建立子系行銷活動和本地資產](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md){target="_blank"}
+1. [測試您的 ON24 事件整合](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md){target="_blank"}
+1. [ON24 事件整合範例](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md){target="_blank"}
+1. [了解網路研討會方案狀態](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md){target="_blank"}
+1. [ON24 事件註冊更新](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md){target="_blank"}

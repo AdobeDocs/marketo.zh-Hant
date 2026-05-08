@@ -4,10 +4,10 @@ description: 瞭解當Marketo同步使用者使用非英文語言時，如何啟
 title: 啟用非英語自訂物件同步
 exl-id: 5d1c5b52-5323-4f68-847b-7d24e6acd6c4
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 7%
+source-wordcount: '158'
+ht-degree: 8%
 
 ---
 
@@ -61,4 +61,4 @@ ht-degree: 7%
 
 >[!NOTE]
 >
->別忘了最後一次「重新整理綱要」以將物件拉回您的語言。
+>最後一次重新整理綱要，將物件拉回您的語言。

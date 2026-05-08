@@ -4,9 +4,9 @@ description: 瞭解如何在Marketo中使用縮放功能建立事件。 設定Zo
 title: 建立具有 [!DNL Zoom]的事件
 exl-id: 6a2aec58-902c-4e40-ab59-9cc33ec83cea
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '547'
+source-wordcount: '555'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,9 @@ ht-degree: 0%
 
 >[!TIP]
 >
->您將在[!DNL Zoom]中設定其他不會影響整合的欄位。 請參考[[!DNL Zoom] 網路研討會說明中心](https://support.zoom.us/hc/en-us/sections/200324965-Video-Webinar)，瞭解這些欄位的詳細資訊。
+>您將在[!DNL Zoom]中設定其他不會影響整合的欄位。 如需這些欄位的詳細資訊，請參閱[[!DNL Zoom] 網路研討會說明中心](https://support.zoom.us/hc/en-us/sections/200324965-Video-Webinar)。
 
-現在，讓我們跳入Marketo！
+現在，繼續前往Marketo。
 
 1. 選取事件。 按一下&#x200B;**[!UICONTROL Event Actions]**&#x200B;並選擇&#x200B;**[!UICONTROL Event Settings]**。
 
@@ -65,7 +65,7 @@ ht-degree: 0%
    >
    >所選事件的頻道型別必須是&#x200B;**網路研討會**。
 
-1. 從&#x200B;**[!UICONTROL Zoom]**&#x200B;清單中選擇&#x200B;**[!UICONTROL Event Partner]**。
+1. 從&#x200B;**[!UICONTROL Event Partner]**&#x200B;清單中選擇&#x200B;**[!UICONTROL Zoom]**。
 
    ![](assets/eventsettings1.png)
 
@@ -81,7 +81,7 @@ ht-degree: 0%
 
    ![](assets/eventsettingssave.png)
 
-   太好了！ [!DNL Zoom]現在已同步並排程此事件。
+   [!DNL Zoom]現在已同步並排程此事件。
 
    >[!NOTE]
    >
@@ -93,7 +93,7 @@ ht-degree: 0%
    >
    >將您的確認電子郵件設定為&#x200B;**營運**，以確保註冊及可能取消訂閱的人員仍會收到其確認資訊。
 
-   當&#x200B;**[!UICONTROL Change Program Status]**&#x200B;設為「已註冊」時，註冊您的網路研討會的人將透過[!UICONTROL New Status]流程步驟推送至您的網路研討會提供者。 沒有其他狀態會將人員推到。 此外，請務必將&#x200B;**[!UICONTROL Change Program Status]**&#x200B;流程步驟#1定為，**[!UICONTROL Send Email]**&#x200B;流程步驟#2定為。
+   當[!UICONTROL New Status]設為「已註冊」時，註冊您的網路研討會的人將透過&#x200B;**[!UICONTROL Change Program Status]**&#x200B;流程步驟推送至您的網路研討會提供者。 沒有其他狀態會將人員推到。 另外，請#1定&#x200B;**[!UICONTROL Change Program Status]**&#x200B;個流程步驟，並#2定&#x200B;**[!UICONTROL Send Email]**&#x200B;個流程步驟。
 
    ![](assets/goto-webinar-1.png)
 
@@ -103,4 +103,4 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >資料可能需要48小時才會出現在Marketo中。 如果等了這麼久，您還是看不到任何內容，請從您事件的&#x200B;**摘要**&#x200B;索引標籤中的[事件動作]功能表，選取[網路研討會提供者]中的[重新整理]&#x200B;**&#x200B;**，然後按一下畫面右下方的重新整理圖示。
+   >資料可能需要48小時才會出現在Marketo中。 如果等了這麼久，您還是看不到任何內容，請從您事件的&#x200B;**摘要**&#x200B;索引標籤中的[事件動作]功能表，選取[網路研討會提供者]中的[重新整理]****，然後按一下畫面右下方的重新整理圖示。

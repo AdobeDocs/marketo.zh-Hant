@@ -3,9 +3,9 @@ description: 瞭解互動式網路研討會參與儀表板。 在您的網路研
 title: 參與儀表板
 feature: Interactive Webinars
 exl-id: 7fdb922a-a67a-4027-b9c2-8d8833c8eba0
-source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '1736'
+source-wordcount: '1738'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 在互動式網路研討會中檢視下列型別工作階段的參與。
 
 * **即時工作階段**：參與者可以主動互動的即時線上工作階段。
-* **隨選工作階段**：即時活動的錄製可做為自己的活動使用。 新受邀者可以註冊並觀看錄製。 註冊之後，使用者會收到事件加入連結，在活動結束後將使用者導向至事件的錄影。 為即時活動註冊的參與者也可以使用相同的加入連結來檢視錄製。
+* **隨選工作階段**：即時活動的錄製可做為自己的活動使用。 新受邀者可以註冊並觀看錄製。 註冊之後，使用者會收到事件加入連結，在活動結束後將使用者導向事件的錄製。 為即時活動註冊的參與者也可以使用相同的加入連結來檢視錄製。
 
 ## 檢視控制面板 {#view-the-dashboard}
 

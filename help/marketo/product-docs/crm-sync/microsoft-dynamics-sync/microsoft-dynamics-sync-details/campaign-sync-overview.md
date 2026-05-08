@@ -3,7 +3,7 @@ description: 瞭解Microsoft Dynamics與Marketo之間的Campaign同步。 使用
 title: 行銷活動同步概觀
 exl-id: d9b748e9-3e0c-40bc-937a-99160aead081
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 4%
@@ -36,7 +36,7 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->請確定Campaign同步正在運作，且促銷活動在Microsoft [!DNL Dynamics]中並未停用。
+>確認Campaign同步功能正常運作，且促銷活動在Microsoft [!DNL Dynamics]中並未停用。
 
 >[!MORELIKETHIS]
 >

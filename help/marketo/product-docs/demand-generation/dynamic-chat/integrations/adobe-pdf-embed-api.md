@@ -3,16 +3,16 @@ description: 瞭解如何在Dynamic Chat中為檔案卡設定Adobe PDF Embed API
 title: Adobe PDF 嵌入式 API
 feature: Dynamic Chat
 exl-id: 27482f55-1bd1-423c-9154-f650532ff1e5
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '149'
 ht-degree: 6%
 
 ---
 
 # Adobe PDF 嵌入式 API {#adobe-pdf-embed-api}
 
-「檔案」卡片可讓您將PDF檔案內嵌在對話方塊中，並追蹤訪客的檔案參與活動。 以下說明設定方法。
+「檔案」卡片可讓您將PDF檔案內嵌在對話方塊中，並追蹤訪客的檔案參與活動。 請依照下列步驟進行設定。
 
 1. 導覽至[Adobe PDF Embed API](https://udp.adobe.io/document-services/apis/pdf-embed/){target="_blank"}。
 
@@ -30,7 +30,7 @@ ht-degree: 6%
 
    >[!IMPORTANT]
    >
-   >您必須使用將託管聊天機器人的網域（例如，如果您在mycompany.com上託管聊天機器人，請務必在步驟4中輸入）。
+   >您必須使用將託管聊天機器人的網域（例如，如果您在mycompany.com上託管聊天機器人，請在步驟4中輸入該網域）。
 
 1. 按一下&#x200B;**[!UICONTROL Copy]**&#x200B;以複製您的使用者端識別碼。
 
@@ -44,4 +44,4 @@ ht-degree: 6%
 
    ![](assets/adobe-pdf-embed-api-6.png)
 
-您現在可以在對話方塊[串流Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}中使用檔案卡！
+您現在可以在對話方塊[串流Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}中使用檔案卡。

@@ -3,20 +3,20 @@ description: 瞭解Marketo中的互動式網路研討會，以進行即時和隨
 title: 互動式網路研討會概觀
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '556'
-ht-degree: 92%
+source-wordcount: '555'
+ht-degree: 87%
 
 ---
 
 # 互動式網路研討會概觀 {#interactive-webinars-overview}
 
-互動式網路研討會功能是我們在 Marketo Engage 中所內建的網路研討會平台。 不需要其他任何工具或整合。
+互動式網路研討會功能是Marketo Engage中的內建網路研討會平台。 不需要其他任何工具或整合。
 
 >[!IMPORTANT]
 >
->由 Adobe Connect 所支援的互動式網路研討會功能已經和 Adobe Connect 內建整合。 您對互動式網路研討會的使用需遵守其他條款與條件。 請檢閱您的合約，或[和 Adobe 聯絡](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}，以查詢其他條款與條件的資訊。
+>由 Adobe Connect 所支援的互動式網路研討會功能已經和 Adobe Connect 內建整合。 您對互動式網路研討會的使用需遵守其他條款與條件。 檢閱您的合約，或[聯絡Adobe](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}以查詢其他條款與條件。
 
 ## 什麼是互動式網路研討會？ {#what-is-interactive-webinars}
 
@@ -54,7 +54,7 @@ ht-degree: 92%
 
 **我在使用公司 VPN 進行網路研討會時遇到音訊/視訊問題。 我該如何處理？**
 
-互動式網路研討會的傳遞平台 Adobe Connect 會使用 WebRTC 進行音訊/視訊/螢幕共用。 貴組織的網路防火牆可能封鎖了用於WebRTC通訊的IP位址/連線埠。 IT 團隊需要允許這些連線埠才能讓 WebRTC 正常運作。 [了解更多](https://helpx.adobe.com/tw/in/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html){target="_blank"}。
+互動式網路研討會的傳遞平台 Adobe Connect 會使用 WebRTC 進行音訊/視訊/螢幕共用。 貴組織的網路防火牆可能封鎖用於WebRTC通訊的IP位址和連線埠。 IT 團隊需要允許這些連線埠才能讓 WebRTC 正常運作。 [了解更多](https://helpx.adobe.com/tw/in/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html){target="_blank"}。
 
 **我的互動式網路研討會是否會自動錄製？**
 

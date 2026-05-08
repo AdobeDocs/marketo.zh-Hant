@@ -4,9 +4,9 @@ description: 瞭解如何將Marketo欄位新增至Salesforce Enterprise或Unlimi
 title: 步驟3之1 — 將Marketo欄位新增至Salesforce (Enterprise/Unlimited)
 exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 feature: Salesforce Integration
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '728'
+source-wordcount: '726'
 ht-degree: 8%
 
 ---
@@ -264,11 +264,10 @@ Marketo使用一組欄位來擷取特定型別的行銷相關資訊。 若您想
 
    ![](assets/image2016-5-26-16-3a56-3a23.png)
 
-1. 對您已建立的任何其他欄位重複上述步驟。
+1. 對已建立的任何其他欄位重複上述步驟。
 
 1. 完成時，按一下&#x200B;**[!UICONTROL Save]**。
 
-   很簡單，對吧？
 
 >[!MORELIKETHIS]
 >

@@ -4,9 +4,9 @@ description: 瞭解如何在首次Salesforce同步之前編輯初始欄位對應
 title: 編輯初始欄位對應
 exl-id: 320613d1-3845-4e05-a704-0db0f8027dc8
 feature: Salesforce Integration
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '278'
 ht-degree: 3%
 
 ---
@@ -59,13 +59,13 @@ ht-degree: 3%
 
    ![](assets/image2014-12-9-13-3a31-3a58.png)
 
-   很好！ 您即將完成初始同步。
+   您即將完成初始同步。
 
 ## 重設結構描述 {#reset-schema}
 
 1. 如果您在處理對應時對Salesforce中的結構描述進行一些變更，可以按一下「**[!UICONTROL Reset Schema]**」提取變更。
 
-   * 所有對應變更都將重設！
+   * 所有對應變更都將重設。
    * 重設結構描述只會新增欄位，不會移除（即使您對同步使用者隱藏欄位）。
 
    ![](assets/image2014-12-9-13-3a32-3a8.png)

@@ -3,9 +3,9 @@ description: 瞭解Dynamic Chat中的代理程式管理。 檢視代理程式、
 title: 代理人管理
 feature: Dynamic Chat
 exl-id: 151d8cf2-a5b7-43c4-8418-cc22252108b2
-source-git-commit: d762c5a3d644c2c13fd82c55b329af9145ac3125
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '362'
 ht-degree: 3%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 3%
 
 >[!NOTE]
 >
->沒有看到您&#x200B;_只是_&#x200B;新增的代理程式？ 在Adobe Admin Console中新增這些量度後，最多可能需要兩個小時才會顯示在這裡。
+>如果此處未顯示最近新增的代理程式，在Adobe Admin Console中新增代理程式後，最多可能需要兩個小時的時間。
 
 ## 團隊 {#teams}
 
@@ -76,7 +76,7 @@ ht-degree: 3%
 
 >[!TIP]
 >
->建立自訂訊息時，您可以設定字型樣式、使用連結，甚至插入表情符號！`:)`
+>建立自訂訊息時，您可以設定字型樣式、使用連結，甚至插入表情符號。
 
 ## 設定 {#settings}
 

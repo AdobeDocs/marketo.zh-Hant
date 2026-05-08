@@ -4,9 +4,9 @@ description: 瞭解如何使用Enterprise或Unlimited版本為Marketo建立Sales
 title: 步驟3之2 — 建立Marketo的Salesforce使用者(Enterprise/Unlimited)
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '360'
+source-wordcount: '359'
 ht-degree: 2%
 
 ---
@@ -47,7 +47,7 @@ ht-degree: 2%
 
    ![](assets/image2014-12-9-9-3a19-3a30.png)
 
-1. 在&#x200B;**[!UICONTROL Administrative Permissions]**&#x200B;區段下，確定已勾選下列方塊：
+1. 在&#x200B;**[!UICONTROL Administrative Permissions]**&#x200B;區段下，確認已勾選下列方塊：
 
    * [!UICONTROL API Enabled]
    * [!UICONTROL Edit HTML Templates]
@@ -58,9 +58,9 @@ ht-degree: 2%
 
    >[!TIP]
    >
-   >請務必勾選&#x200B;**[!UICONTROL Password Never Expires]**&#x200B;方塊。
+   >勾選&#x200B;**[!UICONTROL Password Never Expires]**&#x200B;方塊。
 
-1. 在[!UICONTROL General User Permissions]區段下，確定已勾選下列方塊：
+1. 在[!UICONTROL General User Permissions]區段下，確認已勾選下列方塊：
 
    * [!UICONTROL Convert Leads]
    * [!UICONTROL Edit Events]
@@ -68,7 +68,7 @@ ht-degree: 2%
 
    ![](assets/image2014-12-9-9-3a19-3a47.png)
 
-1. 在[!UICONTROL Standard Object Permissions]區段下，確定已檢查[!UICONTROL Read, Create, Edit, and Delete]許可權：
+1. 在[!UICONTROL Standard Object Permissions]區段下，確認已檢查[!UICONTROL Read, Create, Edit, and Delete]許可權：
 
    * [!UICONTROL Accounts]
    * [!UICONTROL Campaigns]
@@ -111,7 +111,7 @@ ht-degree: 2%
 
    ![](assets/sfdc-sync-field-edit1.png)
 
-1. 找到不需要的欄位，確定未勾選&#x200B;**[!UICONTROL Read Access]**&#x200B;和&#x200B;**[!UICONTROL Edit Access]**。 完成時，按一下「**[!UICONTROL Save]**」。
+1. 找出不需要的欄位，確認已取消勾選&#x200B;**[!UICONTROL Read Access]**&#x200B;和&#x200B;**[!UICONTROL Edit Access]**。 完成時，按一下&#x200B;**[!UICONTROL Save]**。
 
    >[!NOTE]
    >
@@ -119,7 +119,7 @@ ht-degree: 2%
 
    ![](assets/sfdc-sync-field-edit2.png)
 
-1. 在您停用完所有不需要的欄位後，必須檢查&#x200B;**[!UICONTROL Read Access and Edit Access]**&#x200B;下列物件欄位。 完成時，按一下「**[!UICONTROL Save]**」。
+1. 在您停用完所有不需要的欄位後，必須檢查&#x200B;**[!UICONTROL Read Access and Edit Access]**&#x200B;下列物件欄位。 完成時，按一下&#x200B;**[!UICONTROL Save]**。
 
 <table>
  <tbody>
@@ -154,7 +154,7 @@ ht-degree: 2%
 
    ![](assets/sfdc-new-users.png)
 
-1. 填寫必填欄位。 然後，選取&#x200B;**[!UICONTROL User License: Salesforce]**&#x200B;和您先前建立的設定檔。 完成時，按一下「**[!UICONTROL Save]**」。
+1. 填寫必填欄位。 然後，選取&#x200B;**[!UICONTROL User License: Salesforce]**&#x200B;和您先前建立的設定檔。 完成時，按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/image2014-12-9-9-3a20-3a56.png)
 

@@ -4,16 +4,16 @@ description: 瞭解欄位同步如何在Microsoft Dynamics和Marketo之間運作
 title: Microsoft Dynamics同步 — 欄位同步
 exl-id: 78eef0eb-4086-45c5-bce3-a3399016f228
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '336'
 ht-degree: 0%
 
 ---
 
 # [!DNL Microsoft Dynamics]同步：欄位同步 {#microsoft-dynamics-sync-field-sync}
 
-Marketo與[!DNL Dynamics]的同步處理功能非常強大。 詳情如下。
+Marketo與[!DNL Dynamics]的同步處理功能強大。 詳情如下。
 
 ## 兩個系統之間的欄位詳細資料如何保持同步？ {#how-are-field-details-kept-in-sync-between-the-two-systems}
 
@@ -31,7 +31,7 @@ Marketo與[!DNL Dynamics]的同步處理功能非常強大。 詳情如下。
 
 ## 我在[!DNL Dynamics]中建立了一個欄位。 我可以將其同步至Marketo嗎？ {#i-created-a-field-in-dynamics-can-i-sync-it-to-marketo}
 
-可以，只要您的同步使用者在[中擁有欄位](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync)的存取權，您就可以[!DNL Dynamics]同步欄位。
+可以，只要您的同步使用者在[!DNL Dynamics]中擁有欄位](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync)的存取權，您就可以[同步欄位。
 
 ## 哪些欄位會同步至Marketo？ {#what-fields-will-sync-to-marketo}
 

@@ -4,9 +4,9 @@ description: 瞭解如何設定Salesforce同步的預設人員姓氏和公司名
 title: 設定預設人員姓氏和公司名稱
 exl-id: 0216fb41-adf0-4ccf-be22-c064e90be65a
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '137'
 ht-degree: 12%
 
 ---
@@ -31,4 +31,4 @@ ht-degree: 12%
    >
    >Marketo Engage只會在記錄最初同步至Salesforce時，而且僅在任一必要欄位空白時指派預設值。
 
-就是這樣！ 每次有人缺少姓氏和/或公司名稱時，Marketo都會新增預設值，因為它會將記錄同步過去。
+每次人員遺失姓氏或公司名稱時，Marketo都會新增預設值，以便透過該處同步記錄。

@@ -3,10 +3,10 @@ description: 瞭解如何在Dynamic Chat中路由會議和即時聊天。 設定
 title: 路由
 feature: Dynamic Chat
 exl-id: e20193b9-55c1-40f2-9e42-5b5dc9b88144
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '358'
-ht-degree: 0%
+source-wordcount: '360'
+ht-degree: 1%
 
 ---
 
@@ -24,9 +24,9 @@ ht-degree: 0%
 
 ## 建立自訂規則 {#create-a-custom-rule}
 
-在此範例中，我們會將推斷的CA、OR和WA狀態的所有會議傳送給代理程式John。
+在此範例中，來自推斷的CA、OR和WA狀態的所有會議都會路由傳送給代理程式John。
 
-1. 在[設定]下，按一下[路由規則]。**&#x200B;**。
+1. 在[設定]下，按一下[路由規則]。****。
 
    ![](assets/routing-1.png)
 
@@ -54,7 +54,7 @@ ht-degree: 0%
 
    ![](assets/routing-7.png)
 
-1. 選取所有所需值時，按一下[儲存]。**&#x200B;**
+1. 選取所有所需值時，按一下[儲存]。****
 
    ![](assets/routing-8.png)
 
@@ -86,11 +86,11 @@ ht-degree: 0%
 
    ![](assets/routing-12.png)
 
-1. 按一下![組態](assets/icon-routing-edit.png)旁的編輯圖示（_編輯圖示_）。
+1. 按一下&#x200B;_組態_&#x200B;旁的編輯圖示（![編輯圖示](assets/icon-routing-edit.png)）。
 
    ![](assets/routing-13.png)
 
-1. 按一下&#x200B;**檢視帳戶路由**&#x200B;旁的&#x200B;_+_&#x200B;符號。
+1. 按一下&#x200B;_檢視帳戶路由_&#x200B;旁的&#x200B;**+**&#x200B;符號。
 
    ![](assets/routing-14.png){width="600" zoomable="yes"}
 
@@ -100,7 +100,7 @@ ht-degree: 0%
 
 ### 新增帳戶 {#add-an-account}
 
-在此範例中，我們會直接將所有員工從樂高路由到代理程式Steven。
+在此範例中，來自樂高的所有員工都直接被安排給代理程式Steven。
 
 1. 在[帳戶路由]索引標籤中，按一下[**+新增帳戶**]。
 

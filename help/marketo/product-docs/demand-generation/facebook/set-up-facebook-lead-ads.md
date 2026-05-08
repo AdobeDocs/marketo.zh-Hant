@@ -4,9 +4,9 @@ description: 瞭解如何使用Marketo設定Facebook銷售機會廣告。 連線
 title: 設定 Facebook 商機廣告
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
 feature: Integrations
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '351'
 ht-degree: 3%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 3%
 >
 >* **需要管理員權限**
 >
->* 建立Facebook潛在客戶廣告表單時，請確定表單名稱不僅包含數字字元。 表單名稱必須是字母或字母數字。
+>* 建立Facebook銷售機會廣告表單時，請確認表單名稱不僅包含數字字元。 表單名稱必須是字母或字母數字。
 
 >[!AVAILABILITY]
 >
@@ -65,7 +65,7 @@ ht-degree: 3%
 
    ![](assets/set-up-facebook-lead-ads-8.png)
 
-1. 若要接受預設的[!DNL Facebook]到Marketo欄位對應，只要按一下&#x200B;**[!UICONTROL Create]**&#x200B;即可。
+1. 若要接受預設的[!DNL Facebook]到Marketo欄位對應，請按一下&#x200B;**[!UICONTROL Create]**。
 
    >[!TIP]
    >
@@ -77,7 +77,7 @@ ht-degree: 3%
 
    ![](assets/set-up-facebook-lead-ads-9.png)
 
-   做得很好！ 當您執行成功的[!DNL Facebook]個潛在客戶廣告行銷活動時，潛在客戶將開始流入Marketo。
+   當您執行成功的[!DNL Facebook]個潛在客戶廣告行銷活動時，潛在客戶將開始流入Marketo。
 
    ![](assets/set-up-facebook-lead-ads-10.png)
 

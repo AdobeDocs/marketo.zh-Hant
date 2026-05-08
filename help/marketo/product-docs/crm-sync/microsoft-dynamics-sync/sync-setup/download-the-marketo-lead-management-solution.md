@@ -4,10 +4,10 @@ description: 瞭解如何下載適用於Microsoft Dynamics的Marketo銷售機會
 title: 下載 Marketo 商機管理解決方案
 exl-id: 2deafcfc-19f4-4cbf-8764-402a7f69c7d2
 feature: Microsoft Dynamics
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 20%
+source-wordcount: '100'
+ht-degree: 21%
 
 ---
 
@@ -47,4 +47,4 @@ ht-degree: 20%
 
    ![](assets/download-the-marketo-lead-management-solution-5.png)
 
-棒極了！ 解決方案的zip檔案現在將下載至您的裝置。
+解決方案的zip檔案現在將下載至您的裝置。

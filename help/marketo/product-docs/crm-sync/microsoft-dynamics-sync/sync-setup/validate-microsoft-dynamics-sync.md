@@ -4,9 +4,9 @@ description: 瞭解如何執行Validate Sync工具以驗證Microsoft Dynamics和
 title: 驗證 [!DNL Microsoft Dynamics] 同步
 exl-id: 00297a8d-36c3-42f6-a9b8-4a8dd7c1f30d
 feature: Microsoft Dynamics
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '261'
 ht-degree: 5%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 5%
 
 ## 在Marketo中執行驗證同步 {#run-validate-sync-in-marketo}
 
-執行驗證同步工具非常重要，以確定您與Marketo的[!DNL Microsoft Dynamics]同步已正確設定，然後再建立兩者之間的最終連線。 此程式會產生包含七個設定步驟的核對清單，以找出問題的所在。 確認這些操作正確無誤，可節省大量之後的時間。
+執行[驗證同步處理]工具非常重要，以確保在建立[!DNL Microsoft Dynamics]與Marketo之間的最終連線之前，已正確設定您與AEM的同步處理。 此程式會產生包含七個設定步驟的核對清單，以找出問題的所在。 確認這些操作正確無誤，可節省大量之後的時間。
 
 1. 按一下「**[!UICONTROL Admin]**」標籤，然後按一下「整合」區域中的&#x200B;**[!DNL Microsoft Dynamics]**&#x200B;連結。
 

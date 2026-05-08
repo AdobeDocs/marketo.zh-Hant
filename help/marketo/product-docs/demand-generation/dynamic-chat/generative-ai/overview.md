@@ -3,10 +3,10 @@ description: 瞭解Dynamic Chat中的Generative AI，瞭解代理程式生產力
 title: Dynamic Chat中的Generative AI
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '463'
-ht-degree: 2%
+source-wordcount: '472'
+ht-degree: 4%
 
 ---
 
@@ -16,7 +16,7 @@ Adobe Dynamic Chat中由創作AI支援的功能可讓您最佳化銷售代理的
 
 ## 權限 {#permissions}
 
-若要使用產生式AI，請務必授予所需使用者適當的[許可權](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md)。
+若要使用產生式AI，請授與所需使用者適當的[許可權](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md)。
 
 ![](assets/generative-ai-overview-1.png)
 
@@ -70,7 +70,7 @@ Adobe Dynamic Chat中由創作AI支援的功能可讓您最佳化銷售代理的
 
 >[!IMPORTANT]
 >
->使用創作AI時，您必須遵守[Adobe Experience Cloud創作AI使用指南](https://www.adobe.com/tw/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html)，這樣我們才能確保合併創作AI的Adobe Experience Cloud功能以安全負責的方式使用。
+>使用創作AI時，您必須遵守[Adobe Experience Cloud創作AI使用指南](https://www.adobe.com/tw/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html)，以確保以安全負責的方式使用包含創作AI的Adobe Experience Cloud功能。
 
 ## 常見問題集 {#faq}
 
@@ -80,7 +80,7 @@ Generative AI僅適用於Dynamic Chat Prime訂閱者。 如需詳細資訊，請
 
 **我可以產生的問題和答案數量是否有限制？**
 
-是的。目前存在1000的期限限制。
+是的。 目前存在1000的期限限制。
 
 **產生AI中有哪些語言？**
 

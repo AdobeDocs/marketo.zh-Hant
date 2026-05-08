@@ -3,16 +3,16 @@ description: 瞭解如何使用ROPC連線設定Marketo解決方案。 在Dynamic
 title: 步驟4之2 — 使用資源擁有者密碼控制連線設定Marketo解決方案
 exl-id: 41c05910-d8e3-4fb7-8f68-17ee10294e57
 feature: Microsoft Dynamics
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '409'
 ht-degree: 1%
 
 ---
 
 # 步驟4之2：使用資源擁有者密碼控制連線設定Marketo解決方案 {#step-2-of-4-set-up-the-marketo-solution-ropc}
 
-讓我們從建立使用者帳戶開始。
+建立使用者帳戶。
 
 >[!PREREQUISITES]
 >
@@ -66,7 +66,7 @@ ht-degree: 1%
 
 ## 指派同步使用者角色 {#assign-sync-user-role}
 
-僅將Marketo同步使用者角色指派給Marketo同步使用者。 您不需要將其指派給任何其他使用者。
+僅將Marketo同步使用者角色指派給Marketo同步使用者。 它不需要指派給任何其他使用者。
 
 >[!NOTE]
 >
@@ -98,7 +98,7 @@ ht-degree: 1%
 
 ## 設定Marketo解決方案 {#configure-marketo-solution}
 
-即將完成！ 我們只剩下通知Marketo解決方案有關建立的新使用者。
+最後一個步驟：通知Marketo解決方案有關建立的新使用者。
 
 1. 返回[!UICONTROL Advanced Settings]區段並按一下[!UICONTROL Settings]旁的![](assets/image2015-5-13-15-3a49-3a19.png)圖示，然後選取&#x200B;**[!UICONTROL Marketo Config]**。
 

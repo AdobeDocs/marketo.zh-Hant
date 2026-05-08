@@ -3,9 +3,9 @@ description: 瞭解Admin Console中的Dynamic Chat許可權和產品設定檔。
 title: 權限
 feature: Dynamic Chat
 exl-id: 06798ac4-636b-476e-bbb1-498062844406
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '728'
+source-wordcount: '737'
 ht-degree: 4%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 4%
 
    ![](assets/permissions-1.png)
 
-1. 在&#x200B;**產品設定檔**&#x200B;索引標籤中，選取您要編輯的設定檔。 在此範例中，我們選擇&#x200B;**即時代理程式**。
+1. 在&#x200B;**產品設定檔**&#x200B;索引標籤中，選取您要編輯的設定檔。 在此範例中，已選取&#x200B;**即時代理程式**。
 
    ![](assets/permissions-2.png)
 
@@ -28,7 +28,7 @@ ht-degree: 4%
 
    ![](assets/permissions-3.png)
 
-1. 選取要編輯的設定檔區域。 在此範例中，我們選擇「即時交談」。 按一下鉛筆圖示。
+1. 選取要編輯的設定檔區域。 在此範例中，已選取&#x200B;**即時交談**。 按一下鉛筆圖示。
 
    ![](assets/permissions-4.png)
 

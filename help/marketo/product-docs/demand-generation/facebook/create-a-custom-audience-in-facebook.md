@@ -4,9 +4,9 @@ description: 瞭解如何在Facebook中從Marketo建立自訂對象。 傳送Mar
 title: 在 Facebook 中建立自訂客群
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
 feature: Integrations
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '235'
 ht-degree: 6%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 6%
 
 >[!TIP]
 >
->深入瞭解 [!DNL Facebook][&#128279;](https://www.facebook.com/help/341425252616329){target="_blank"}中的自訂對象。
+>深入瞭解 [!DNL Facebook]](https://www.facebook.com/help/341425252616329){target="_blank"}中的[自訂對象。
 
 1. 尋找並選取智慧或靜態清單，其中包含您要建立對象的潛在客戶。
 
@@ -52,7 +52,7 @@ ht-degree: 6%
 
    >[!TIP]
    >
-   >想要將新對象與目前與廣告集或群組相關聯的現有對象交換嗎？ 選取&#x200B;**[!UICONTROL Replace an existing audience]**&#x200B;核取方塊。 執行此動作將&#x200B;**不會**&#x200B;刪除要取代的對象。
+   >若要將新對象與目前與廣告集或群組相關聯的現有對象交換，請選取&#x200B;**[!UICONTROL Replace an existing audience]**&#x200B;核取方塊。 執行此動作將&#x200B;**不會**&#x200B;刪除要取代的對象。
 
 1. 完成後，狀態對話方塊將更新。
 

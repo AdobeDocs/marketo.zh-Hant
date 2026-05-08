@@ -4,9 +4,9 @@ description: 瞭解如何在最後一個步驟中將Marketo連線到內部部署
 title: 安裝適用於Microsoft Dynamics 2015內部部署的Marketo步驟3之3
 exl-id: 054bf725-7a80-4114-8360-2d86e2e33dd7
 feature: Microsoft Dynamics
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '367'
 ht-degree: 2%
 
 ---
@@ -42,7 +42,7 @@ ht-degree: 2%
 
    >[!CAUTION]
    >
-   >請確認您的認證正確無誤，因為提交後就無法回覆後續的結構描述變更。 如果儲存不正確的認證，您必須取得新的Marketo訂閱。
+   >驗證您的認證是否正確。 提交後無法還原後續結構描述變更。 如果儲存不正確的認證，則需要新的Marketo訂閱。
 
 1. 輸入&#x200B;**[!UICONTROL Username]**、**[!UICONTROL Password]** [!DNL Microsoft Dynamics] **URL**&#x200B;和&#x200B;**[!UICONTROL Client Id]/[!UICONTROL Client Secret]**。 完成後請按一下 **[!UICONTROL Save]**。
 
@@ -74,7 +74,7 @@ ht-degree: 2%
 
 ## 自訂篩選器的同步欄位 {#sync-fields-for-a-custom-filter}
 
-如果您已建立自訂篩選器，請務必前往並選取要與Marketo同步的新欄位。
+如果您已建立自訂篩選器，請前往並選取要與Marketo同步的新欄位。
 
 1. 移至[!UICONTROL Admin]並選取&#x200B;**[!UICONTROL Microsoft Dynamics]**。
 

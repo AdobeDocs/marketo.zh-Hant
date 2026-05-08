@@ -4,9 +4,9 @@ description: 瞭解哪些Salesforce欄位同步至Marketo，以及SFDC型別和i
 title: SFDC同步 — 欄位同步
 exl-id: fbd66829-53cb-47fd-a530-149d12baee0e
 feature: Salesforce Integration
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: '430'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,7 @@ Marketo中有一個名為「SFDC isDeleted」的欄位。 如果值為true，則
 
 ## 如果我變更SFDC中的欄位型別，該怎麼辦？ {#what-if-i-change-a-field-type-in-sfdc}
 
-當您變更欄位型別時，如果欄位中的資料不符，Marketo會將其刪除（但會先顯示警告）。 若要保留資料，請務必匯出資料，並在變更欄位型別後重新匯入資料。
+當您變更欄位型別時，如果欄位中的資料不符，Marketo會將其刪除（但會先顯示警告）。 若要保留資料，請先匯出資料，然後在變更欄位型別後重新匯入資料。
 
 ## 如果我在SFDC中變更API名稱，該怎麼辦？ {#what-if-i-change-an-api-name-in-sfdc}
 

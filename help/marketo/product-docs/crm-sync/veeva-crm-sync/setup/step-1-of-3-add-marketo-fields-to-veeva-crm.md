@@ -3,9 +3,9 @@ description: 瞭解如何在連線前將Marketo欄位新增到Veeva CRM。 在Ve
 title: 步驟3之1 — 將Marketo欄位新增至 [!DNL Veeva] CRM
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
 feature: Veeva CRM
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '495'
 ht-degree: 8%
 
 ---

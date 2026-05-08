@@ -4,7 +4,7 @@ description: 瞭解機會同步從Microsoft Dynamics到Marketo的運作方式。
 title: Microsoft Dynamics同步 — 機會同步
 exl-id: dcb72f28-c980-4183-8473-a1e5ad0c8d3c
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '316'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # [!DNL Microsoft Dynamics]同步：機會同步 {#microsoft-dynamics-sync-opportunity-sync}
 
-Marketo與[!DNL Dynamics]的同步處理功能非常強大。 以下是機會同步處理的所有詳細資料：
+Marketo與[!DNL Dynamics]的同步處理功能強大。 以下是機會同步處理的所有詳細資料：
 
 ## 兩個系統之間的機會詳細資料如何保持同步？ {#how-are-opportunity-details-kept-in-sync-between-the-two-systems}
 
@@ -37,4 +37,4 @@ Marketo與[!DNL Dynamics]的同步處理功能非常強大。 以下是機會同
    * 如果帳戶值已設定且聯絡人留空，Marketo將只會針對此帳戶設定該機會的帳戶。
    * 如果同時設定了這兩個值，Dynamics會挑選帳戶作為customerid的值，因此行為將與上述相同。
 
-* 透過利害關係人： Dynamics會使用連線來連線機會，以便從機會建立頁面透過利害關係人進行聯絡。 為此，我們將為每個新利害關係人建立`opportunitycontactrole`記錄。
+* 透過利害關係人： Dynamics會使用連線來連線機會，以便從機會建立頁面透過利害關係人進行聯絡。 為此，會為每個新利害關係人建立`opportunitycontactrole`記錄。

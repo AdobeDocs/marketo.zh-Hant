@@ -3,16 +3,16 @@ description: 瞭解如何授與用於Dynamics同步處理之使用者端ID和應
 title: 授予用戶端 ID 和應用程式註冊的同意
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '285'
 ht-degree: 7%
 
 ---
 
 # 授予用戶端 ID 和應用程式註冊的同意 {#grant-consent-for-client-id-and-app-registration}
 
-請依照下列步驟瞭解如何授與必要同意/許可權。
+請依照下列步驟瞭解如何授與必要的同意和許可權。
 
 ## 授與同步處理使用者的委派使用者許可權 {#grant-delegated-user-permissions-for-the-sync-user}
 

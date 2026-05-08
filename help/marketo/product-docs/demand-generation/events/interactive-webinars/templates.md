@@ -3,16 +3,16 @@ description: 瞭解如何在互動式網路研討會中建立及實作範本。 
 title: 互動式網路研討會範本
 feature: Interactive Webinars
 exl-id: 779deab6-f257-4002-904b-80d20bb73e3e
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '306'
+source-wordcount: '310'
 ht-degree: 6%
 
 ---
 
 # 互動式網路研討會範本 {#templates-for-interactive-webinars}
 
-在互動式網路研討會中建立易於使用的範本，以便在團隊中工作時更快製作內容並符合品牌准則。
+在互動式網路研討會中建立可重複使用的範本，以便在團隊中工作時更快製作內容並符合品牌准則。
 
 ## 授予許可權 {#grant-permissions}
 
@@ -56,7 +56,7 @@ ht-degree: 6%
 
    ![](assets/templates-for-interactive-webinars-9.png)
 
-1. 在[標準範本]索引標籤中，選取所需的範本，然後按一下[下一步] **&#x200B;**。
+1. 在[標準範本]索引標籤中，選取所需的範本，然後按一下[下一步] ****。
 
    ![](assets/templates-for-interactive-webinars-10.png)
 
@@ -68,7 +68,7 @@ ht-degree: 6%
 
    ![](assets/templates-for-interactive-webinars-11.png)
 
-1. 新標籤隨即開啟。 若要編輯/儲存範本，您必須進入檔案室。 由於這不是實際的網路研討會室，因此不需要選取音訊/視訊。 按一下&#x200B;**進入會議室**。
+1. 新標籤隨即開啟。 若要編輯或儲存範本，您必須進入檔案室。 由於這不是實際的網路研討會室，因此不需要選取音訊/視訊。 按一下&#x200B;**進入會議室**。
 
    ![](assets/templates-for-interactive-webinars-12.png)
 

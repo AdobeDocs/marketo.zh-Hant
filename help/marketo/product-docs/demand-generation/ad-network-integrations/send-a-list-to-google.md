@@ -3,10 +3,10 @@ description: 瞭解如何將Marketo靜態清單傳送至Google以進行Customer 
 title: 傳送清單至 Google
 feature: Integrations
 exl-id: d28d828c-3d83-44ca-85de-1207c55ec911
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '226'
-ht-degree: 5%
+source-wordcount: '239'
+ht-degree: 7%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 5%
 
    >[!NOTE]
    >
-   >* 選取&#x200B;**保持對象成員資格同步**，讓清單在您的執行個體中變更時保持最新狀態。 我們會在將人員新增至靜態清單/從靜態清單中移除時，在對象中新增/移除人員。
+   >* 選取&#x200B;**保持對象成員資格同步**，讓清單在您的執行個體中變更時保持最新狀態。 將人員新增至靜態清單或從靜態清單中移除時，會更新對象成員資格。
    >
    >* 選取底部的核取方塊會針對傳送至Google Ads以用於廣告和廣告個人化的使用者資料，將同意狀態傳送為GRANTED。 若未勾選，則會將同意狀態傳送為「未指定」 。 對於計畫為歐洲經濟區(EEA)的使用者上傳資料的使用者，Google已收集[常見問題集](https://support.google.com/google-ads/answer/14310715){target="_blank"}的清單，以及概述[EU使用者同意政策](https://www.google.com/about/company/user-consent-policy/){target="_blank"}的其他詳細資訊。
 

@@ -4,16 +4,16 @@ description: 瞭解如何透過伺服器對伺服器連線，將Marketo解決方
 title: 步驟3之3 — 使用伺服器對伺服器連線連線Marketo解決方案
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '430'
-ht-degree: 1%
+source-wordcount: '447'
+ht-degree: 2%
 
 ---
 
 # 步驟3之3：使用伺服器對伺服器連線連線Marketo解決方案 {#step-3-of-3-connect-microsoft-dynamics-with-marketo-solution-s2s}
 
-這是同步的最後一個步驟。 我們即將完成！
+這是同步的最後一步。
 
 >[!PREREQUISITES]
 >
@@ -46,13 +46,13 @@ ht-degree: 1%
 
    ![](assets/image2015-3-16-9-3a50-3a6.png)
 
-1. 在&#x200B;**[!UICONTROL Edit]**&#x200B;中按一下&#x200B;**[!UICONTROL Step 1: Enter Credentials]**。
+1. 在&#x200B;**[!UICONTROL Step 1: Enter Credentials]**&#x200B;中按一下&#x200B;**[!UICONTROL Edit]**。
 
    ![](assets/image2015-3-16-9-3a48-3a43.png)
 
    >[!CAUTION]
    >
-   >請確認您的組織URL正確無誤，因為提交後即無法回覆後續的結構描述變更。 如果使用錯誤的組織URL，您必須取得新的Marketo訂閱。 如果您不知道該URL，[請在這裡瞭解如何找到它](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}。
+   >確認您的組織URL正確無誤。 提交後無法還原後續結構描述變更。 如果使用不正確的組織URL，則需要新的Marketo訂閱。 如果您不知道該URL，[請在這裡瞭解如何找到它](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}。
 
 1. 輸入[!DNL Dynamics] Sync User資訊，然後在完成時按一下&#x200B;**[!UICONTROL Save]**。
 
@@ -64,7 +64,7 @@ ht-degree: 1%
 
 ## 選取要同步的欄位 {#select-fields-to-sync}
 
-1. 在&#x200B;**[!UICONTROL Edit]**&#x200B;中按一下&#x200B;**[!UICONTROL Step 2: Select Fields to Sync]**。
+1. 在&#x200B;**[!UICONTROL Step 2: Select Fields to Sync]**&#x200B;中按一下&#x200B;**[!UICONTROL Edit]**。
 
    ![](assets/image2015-3-16-9-3a51-3a28.png)
 
@@ -78,13 +78,13 @@ ht-degree: 1%
 
 ## 自訂篩選器的同步欄位 {#sync-fields-for-a-custom-filter}
 
-如果您已建立自訂篩選器，請務必前往並選取要與Marketo同步的新欄位。
+如果您已建立自訂篩選器，請前往並選取要與Marketo同步的新欄位。
 
 1. 移至[!UICONTROL Admin]並選取&#x200B;**[!UICONTROL Microsoft Dynamics]**。
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. 在&#x200B;**[!UICONTROL Edit]**&#x200B;上按一下[!UICONTROL Field Sync Details]。
+1. 在[!UICONTROL Field Sync Details]上按一下&#x200B;**[!UICONTROL Edit]**。
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
@@ -94,7 +94,7 @@ ht-degree: 1%
 
 ## 啟用同步 {#enable-sync}
 
-1. 在&#x200B;**[!UICONTROL Edit]**&#x200B;中按一下&#x200B;**[!UICONTROL Step 3: Enable Sync]**。
+1. 在&#x200B;**[!UICONTROL Step 3: Enable Sync]**&#x200B;中按一下&#x200B;**[!UICONTROL Edit]**。
 
    ![](assets/image2015-3-16-9-3a52-3a2.png)
 

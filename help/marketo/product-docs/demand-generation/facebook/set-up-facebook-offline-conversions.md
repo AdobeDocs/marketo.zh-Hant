@@ -4,16 +4,16 @@ description: 瞭解如何在Marketo中設定Facebook離線轉換。 將來自Mar
 title: 設定 Facebook 離線轉換
 exl-id: e1974943-8fc8-41f6-be7e-1b594de13db6
 feature: Integrations
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: '312'
 ht-degree: 3%
 
 ---
 
 # 設定[!DNL Facebook]個離線轉換 {#set-up-facebook-offline-conversions}
 
-透過將透過「銷售機會廣告」建立之個人的離線轉換資料傳回[!DNL Facebook]，您的廣告團隊可以最佳化他們的廣告支出，比以往更好。 以下說明設定方法。
+透過將透過「銷售機會廣告」建立之個人的離線轉換資料傳回[!DNL Facebook]，您的廣告團隊可以最佳化他們的廣告支出，比以往更好。 請依照下列步驟進行設定。
 
 >[!PREREQUISITES]
 >
@@ -50,7 +50,7 @@ ht-degree: 3%
 
    ![](assets/image2016-11-29-13-3a14-3a52.png)
 
-   真貼心！ 您已經完成[!DNL Facebook]個離線轉換。 讓我們跳到收入週期Modeler來對應階段。
+   您已經完成[!DNL Facebook]個離線轉換。 繼續前往收入週期Modeler以對應階段。
 
    ![](assets/image2016-11-29-13-3a16-3a55.png)
 
@@ -87,7 +87,7 @@ ht-degree: 3%
 
    ![](assets/2.png)
 
-1. 核准您的模型並且完成！
+1. 核准您的模型並完成。
 
    ![](assets/image2016-11-29-15-3a6-3a30.png)
 

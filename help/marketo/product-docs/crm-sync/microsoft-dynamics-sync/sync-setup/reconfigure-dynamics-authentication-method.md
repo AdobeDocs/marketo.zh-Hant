@@ -3,7 +3,7 @@ description: 瞭解如何在Marketo中重新設定Dynamics驗證方法。 停用
 title: 重新設定 [!DNL Dynamics] 驗證方法
 exl-id: 2bd6a992-3dfd-4e91-bec5-9fb3f7bbb840
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 2%
@@ -37,7 +37,7 @@ ht-degree: 2%
 
    ![](assets/reconfigure-dynamics-authentication-method-3.png)
 
-1. 選取想要的新驗證方法（在此範例中，我們選擇Web API）。
+1. 選取所需的新驗證方法（在此範例中，已選取Web API）。
 
    ![](assets/reconfigure-dynamics-authentication-method-4.png)
 
@@ -48,7 +48,7 @@ ht-degree: 2%
    >[!NOTE]
    >
    >* 特定欄位將因選擇的驗證方法而異，表單將根據之前的驗證方法自動更新。
-   >* 如果您之前已同步，上述表單中的資料可能會預先填入。 請重新輸入所有認證，以確保值正確無誤。
+   >* 如果您之前已同步，上述表單中的資料可能會預先填入。 重新輸入所有認證以確保正確的值。
 
 1. 如果一切正常，驗證同步將會產生所有綠色核取標籤![](assets/green-check.png)。 檢閱訊息並按一下&#x200B;**[!UICONTROL Switch]**&#x200B;以更新驗證方法。
 

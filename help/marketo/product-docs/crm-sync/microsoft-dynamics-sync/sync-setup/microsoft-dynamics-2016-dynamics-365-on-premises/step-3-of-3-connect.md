@@ -3,9 +3,9 @@ description: 瞭解如何在步驟3中將Marketo連線至Dynamics 2016或Dynamic
 title: 為 [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365內部部署步驟3之3安裝Marketo
 exl-id: ae801a59-8e29-479c-84c5-a18c7511f21f
 feature: Microsoft Dynamics
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '389'
 ht-degree: 1%
 
 ---
@@ -41,7 +41,7 @@ ht-degree: 1%
 
    >[!CAUTION]
    >
-   >請確認您的認證正確無誤，因為提交後就無法回覆後續的結構描述變更。 如果儲存不正確的認證，您必須取得新的Marketo訂閱。
+   >驗證您的認證是否正確。 提交後無法還原後續結構描述變更。 如果儲存不正確的認證，則需要新的Marketo訂閱。
 
 1. 輸入&#x200B;**使用者名稱**、**密碼** [!DNL Microsoft Dynamics] **URL**&#x200B;和&#x200B;**使用者端識別碼/密碼**。 完成時，按一下&#x200B;**儲存**。
 
@@ -73,7 +73,7 @@ ht-degree: 1%
 
 ## 自訂篩選器的同步欄位 {#sync-fields-for-a-custom-filter}
 
-如果您已建立自訂篩選器，請務必前往並選取要與Marketo同步的新欄位。
+如果您已建立自訂篩選器，請前往並選取要與Marketo同步的新欄位。
 
 1. 移至[管理]並選取&#x200B;**[!DNL Microsoft Dynamics]**。
 

@@ -3,9 +3,9 @@ description: 瞭解如何自訂Dynamic Chat對話方塊視窗的外觀。 設定
 title: 設定
 feature: Dynamic Chat
 exl-id: 01ca6a38-4918-46b0-b0f6-1baffbb0bbaf
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '414'
 ht-degree: 2%
 
 ---
@@ -52,7 +52,7 @@ ht-degree: 2%
 
 **在行動裝置上啟用Poke訊息**
 
-選取滑桿以啟用「撥號」（顯示在聊天圖示旁的開頭問題，訪客不需要按一下即可檢視），讓訪客從行動裝置聊天。
+選取此滑桿即可啟用「撥號」，當訪客從行動裝置登入時，它會在聊天圖示旁邊顯示開頭的問題，而訪客不需要按一下即可檢視。
 
 ![](assets/configuration-6.png)
 
@@ -60,7 +60,7 @@ ht-degree: 2%
 >
 >Poke只適用於交談中的前[張卡片](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards){target="_blank"}。
 
-完成變更後，請記得按一下[儲存]。**&#x200B;**
+完成變更後，請記得按一下[儲存]。****
 
 ![](assets/configuration-7.png)
 
@@ -72,7 +72,7 @@ ht-degree: 2%
 
 ## 安裝標籤 {#installation-tab}
 
-為了讓聊天機器人出現在您的網站上，您必須先安裝Dynamic Chat JavaScript程式碼片段。 按一下此標籤以尋找/複製必要的程式碼。 如果您不熟悉此作業，請連絡您的網站團隊或IT部門以尋求協助。
+為了讓聊天機器人出現在您的網站上，您必須先安裝Dynamic Chat JavaScript程式碼片段。 按一下此標籤以尋找/複製必要的程式碼。 如果您不熟悉此作業，請連絡您的網站團隊或IT部門以取得協助。
 
 ![](assets/configuration-9.png)
 

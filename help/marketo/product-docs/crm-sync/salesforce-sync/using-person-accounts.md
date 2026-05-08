@@ -4,16 +4,16 @@ description: 瞭解Marketo Engage如何處理Salesforce個人帳戶。 區分個
 title: 使用人員帳戶
 exl-id: 3cc67ff2-f689-4dfb-8b67-2b5b8d389aaf
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '297'
 ht-degree: 2%
 
 ---
 
 # 使用人員帳戶 {#using-person-accounts}
 
-您可以在Salesforce中設定個人帳戶，以符合貴組織的需求。 以下為Marketo Engage處理個人帳戶的方式。
+您可以在Salesforce中設定個人帳戶，以符合貴組織的需求。 以下說明Marketo Engage如何處理個人帳戶。
 
 >[!NOTE]
 >

@@ -3,16 +3,16 @@ description: 瞭解如何在Dynamic Chat中建立新的對話方塊。 選擇範
 title: 建立對話
 feature: Dynamic Chat
 exl-id: 7de6ba05-39d5-41b9-921b-50bf5b2c5581
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '94'
 ht-degree: 7%
 
 ---
 
 # 建立對話 {#create-a-dialogue}
 
-以下說明如何建立新的對話方塊。
+請依照下列步驟建立新的對話方塊。
 
 1. 按一下「**[!UICONTROL Dialogues]**」。
 

@@ -4,16 +4,16 @@ description: 瞭解如何在Microsoft Dynamics和Marketo中啟用自訂實體的
 title: 啟用自訂實體同步
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '310'
 ht-degree: 4%
 
 ---
 
 # 啟用自訂實體同步 {#enable-sync-for-a-custom-entity}
 
-如果您需要來自[!DNL Dynamics]的自訂實體資料才能在Marketo Engage中使用，以下說明如何為其啟用同步。
+如果您需要來自[!DNL Dynamics]的自訂實體資料才能在Marketo Engage中使用，請遵循下列步驟。
 
 >[!PREREQUISITES]
 >
@@ -64,7 +64,7 @@ ht-degree: 4%
 
    ![](assets/enable-sync-for-a-custom-entity-7.png)
 
-1. 別忘了重新啟用全域同步處理！
+1. 重新啟用全域同步處理。
 
    ![](assets/enable-sync-for-a-custom-entity-8.png)
 

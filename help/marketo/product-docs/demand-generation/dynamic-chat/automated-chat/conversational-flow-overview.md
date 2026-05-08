@@ -3,9 +3,9 @@ description: 瞭解對話流程以及它們與對話的差異。 設計由訪客
 title: 交談流程概觀
 feature: Dynamic Chat
 exl-id: c741886d-d672-471f-8902-208d25898afa
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '370'
 ht-degree: 3%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 3%
    <th style="width:50%">對話流程</th>
   </tr>
   <tr>
-   <td>對話方塊是鎖定目標 — 您可以根據所實作的引數，為特定頁面和對象設計對話方塊。</td>
+   <td>對話方塊已鎖定目標：您可以根據已實作的引數，為特定頁面和對象設計對話方塊。</td>
    <td>會觸發對話流程 — 您設計可根據訪客動作（如填寫表單、按一下連結等）觸發的對話。</td>
   </tr>
    <tr>
@@ -82,7 +82,7 @@ ht-degree: 3%
 
 >[!TIP]
 >
->檢視[交談SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/?lang=zh-Hant){target="_blank"}正在執行中！
+>檢視[交談SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"}正在執行中！
 
 >[!MORELIKETHIS]
 >
