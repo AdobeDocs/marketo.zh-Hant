@@ -4,16 +4,16 @@ description: 瞭解如何從Marketo刪除已上傳的影像或檔案。 從Desig
 title: 刪除已上傳的影像或檔案
 exl-id: 291ea4f3-a317-4696-b26e-0d69bf4581e3
 feature: Image Editor
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 15%
+source-wordcount: '110'
+ht-degree: 16%
 
 ---
 
 # 刪除已上傳的影像或檔案 {#delete-an-uploaded-image-or-file}
 
-刪除影像或檔案既快速又簡單。
+請依照下列步驟刪除上傳的影像或檔案。
 
 >[!CAUTION]
 >

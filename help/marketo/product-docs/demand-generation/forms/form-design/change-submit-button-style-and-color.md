@@ -4,10 +4,10 @@ description: 瞭解如何在Marketo表單中變更提交按鈕樣式和顏色。
 title: 變更提交按鈕樣式和顏色
 exl-id: a94143d4-0cd5-4c27-b8b1-73d803763e9d
 feature: Forms
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 11%
+source-wordcount: '139'
+ht-degree: 12%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 11%
 
    >[!TIP]
    >
-   >您知道您可以拖曳提交按鈕至左側或右側來變更其位置嗎？ 就是這麼簡單。 試試看！
+   >您可以向左或向右拖曳提交按鈕以變更其位置。
 
 1. 挑選您喜歡的按鈕樣式（向上/向下捲動）。
 
@@ -54,8 +54,6 @@ ht-degree: 11%
 1. 按一下「**[!UICONTROL Approve and Close]**」。
 
    ![](assets/image2014-9-15-16-3a57-3a10.png)
-
-   好了！
 
    ![](assets/image2014-9-15-16-3a57-3a17.png)
 

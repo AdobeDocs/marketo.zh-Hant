@@ -4,10 +4,10 @@ description: 瞭解如何在Marketo表單中調整標籤和欄位寬度大小。
 title: 調整表單中標籤/欄位的寬度
 exl-id: cef10279-881e-44f3-a979-873fa24d7f4b
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 15%
+source-wordcount: '98'
+ht-degree: 14%
 
 ---
 
@@ -31,8 +31,7 @@ ht-degree: 15%
 
    ![](assets/image2014-9-15-15-3a24-3a28.png)
 
-1. 輸入[!UICONTROL Label Width]和/或[!UICONTROL Field Width]的畫素值。
+1. 輸入[!UICONTROL Label Width]、[!UICONTROL Field Width]或兩者的畫素值。
 
    ![](assets/image2014-9-15-15-3a24-3a36.png)
 
-做得好！相當簡單，對吧？
