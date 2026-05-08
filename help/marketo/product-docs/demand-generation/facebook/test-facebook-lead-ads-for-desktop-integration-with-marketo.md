@@ -41,7 +41,7 @@ ht-degree: 5%
 
    ![](assets/image2016-5-13-14-3a52-3a57.png)
 
-1. 提交表單後，在Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)中建立智慧清單，作為使用已填妥[!DNL Facebook]潛在客戶廣告表單篩選器的程式或資料庫的一部分。 [插入您提交之表單的銷售機會廣告表單名稱。
+1. 提交表單後，在Marketo[&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)中建立智慧清單，作為使用已填妥[!DNL Facebook]潛在客戶廣告表單篩選器的程式或資料庫的一部分。 插入您提交之表單的銷售機會廣告表單名稱。
 
    ![](assets/image2016-3-11-8-3a59-3a34-1.png)
 

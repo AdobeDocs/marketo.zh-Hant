@@ -25,7 +25,7 @@ ht-degree: 0%
 
 1. 寫下應用程式ID (ClientId)和租使用者ID。 您稍後需要在Marketo中輸入。
 
-1. 請依照本文章](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md){target="_blank"}中的步驟[授與管理員同意。
+1. 請依照本文章[&#128279;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md){target="_blank"}中的步驟授與管理員同意。
 
 1. 按一下&#x200B;**[!UICONTROL Certificates & secrets]**&#x200B;在管理中心產生使用者端密碼。
 
