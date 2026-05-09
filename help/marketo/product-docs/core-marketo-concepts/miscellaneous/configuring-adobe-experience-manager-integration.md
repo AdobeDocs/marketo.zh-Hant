@@ -3,10 +3,9 @@ unique-page-id: 30081815
 description: 瞭解如何透過Marketo設定Adobe Experience Manager整合。 設定AEM ，以便存取資產並將其匯入Design Studio。
 title: 設定 Adobe Experience Manager 整合
 hide: true
-hidefromtoc: true
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
 feature: Integrations
-source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 10%

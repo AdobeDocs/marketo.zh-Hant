@@ -2,10 +2,9 @@
 description: 瞭解人員頁面欄以及如何自訂檢視。 顯示或隱藏欄，以檢視您需要的聯絡資料。
 title: 人物頁面欄
 hide: true
-hidefromtoc: true
 exl-id: 29870197-81e1-4f88-a129-b1ff6da34924
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 8%

@@ -2,13 +2,12 @@
 description: 瞭解全新電子郵件Designer中的電子郵件範本。 建立和重複使用範本，以在Marketo Engage中更快速地建立電子郵件。
 title: 電子郵件範本
 hide: true
-hidefromtoc: true
 feature: Email Editor
 exl-id: 9e1d81fb-28f5-47d4-b813-950462fee81d
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '1728'
-ht-degree: 3%
+source-wordcount: '1769'
+ht-degree: 4%
 
 ---
 
@@ -58,7 +57,7 @@ ht-degree: 3%
 
 透過簡單的拖放動作新增和移動結構元素來定義您的內容。
 
-1. 在&#x200B;_設計您的模板_&#x200B;頁中，選擇&#x200B;**從頭開始設計**。
+1. 在&#x200B;_設計您的範本_&#x200B;頁面中，選取&#x200B;**從頭開始設計**。
 
 1. 新增[結構和內容](#add-structure-and-content)。
 
@@ -72,11 +71,11 @@ ht-degree: 3%
 
 >[!NOTE]
 >
->.zip 檔案結構沒有限制。不過，參照必須是相對參照，而且符合.zip資料夾的樹狀結構。
+>.zip 檔案結構沒有限制。 不過，參照必須是相對參照，而且符合.zip資料夾的樹狀結構。
 
-1. 在&#x200B;_設計模板_&#x200B;頁中，選擇&#x200B;**導入HTML**。
+1. 在&#x200B;_設計您的範本_&#x200B;頁面中，選取&#x200B;**匯入HTML**。
 
-1. 拖放所需的HTML或.zip檔案（或從電腦中選擇檔案），然後按一下&#x200B;**導入**。
+1. 拖放所需的ip檔案（或從電腦中選取檔案），然後按一下&#x200B;**匯入**。
 
    ![](assets/import-your-html-1.png)
 
@@ -225,7 +224,7 @@ Token在新編輯器中的運作方式與舊版相同，但圖示看起來不同
 
    >[!NOTE]
    >
-   >「遞補文字」是預設值的新編輯器辭彙。 範例： ``{{lead.First Name:default=Friend}}``。 如果您選擇的欄位中沒有該人員的值，建議您這麼做。
+   >「遞補文字」是預設值的新編輯器辭彙。 範例：``{{lead.First Name:default=Friend}}``。 如果您選擇的欄位中沒有該人員的值，建議您這麼做。
 
 1. 設定您的遞補文字，然後按一下[新增]。**&#x200B;**
 

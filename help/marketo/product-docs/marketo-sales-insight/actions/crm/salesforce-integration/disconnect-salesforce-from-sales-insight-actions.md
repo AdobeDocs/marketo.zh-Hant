@@ -2,19 +2,18 @@
 description: 瞭解如何中斷與Sales Insight動作的Salesforce連線。
 title: 中斷銷售洞察動作與 Salesforce 的連線
 hide: true
-hidefromtoc: true
 exl-id: 4b3838d1-92de-4baf-81af-4cd7fc316c06
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 10%
+source-wordcount: '81'
+ht-degree: 9%
 
 ---
 
-# 中斷與[!DNL Salesforce]的[!DNL Sales Insight Actions]連線 {#disconnect-salesforce-from-sales-insight-actions}
+# 中斷與[!DNL Sales Insight Actions]的[!DNL Salesforce]連線 {#disconnect-salesforce-from-sales-insight-actions}
 
-有時您可能需要中斷與[!DNL Salesforce]帳戶的[!DNL Sales Insight Actions]帳戶連線。 方法如下。
+有時您可能需要中斷與[!DNL Sales Insight Actions]帳戶的[!DNL Salesforce]帳戶連線。 方法如下。
 
 ## 如何以管理員身分中斷與[!UICONTROL Salesforce]的連線 {#how-to-disconnect-from-salesforce-as-an-admin}
 

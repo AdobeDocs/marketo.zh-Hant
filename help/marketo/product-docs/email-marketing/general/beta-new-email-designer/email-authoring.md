@@ -2,10 +2,9 @@
 description: 瞭解全新電子郵件Designer中的電子郵件編寫。 在Marketo Engage中建立、個人化和預覽電子郵件。
 title: 電子郵件製作
 hide: true
-hidefromtoc: true
 feature: Email Editor
 exl-id: bfa8d9c2-93d7-494c-ac5e-f743894c58e7
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '1531'
 ht-degree: 5%

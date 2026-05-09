@@ -3,8 +3,8 @@ description: AWS移轉 — Marketo Engage檔案 — 產品檔案
 title: AWS移轉
 feature: Getting Started
 hide: true
-hidefromtoc: true
-source-git-commit: 88155ad99ba2899c3db3c1f7ae92a69f348dc020
+exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '248'
 ht-degree: 0%

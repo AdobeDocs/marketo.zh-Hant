@@ -7,11 +7,10 @@ feature: Email Designer
 role: User
 level: Beginner, Intermediate
 hide: true
-hidefromtoc: true
 exl-id: 349ee021-7341-40e0-8d8c-d041f1a8f343
-source-git-commit: 67d416c3fc126e695ff7cc3f712265d6dec6dc0d
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '714'
+source-wordcount: '718'
 ht-degree: 4%
 
 ---
@@ -20,7 +19,7 @@ ht-degree: 4%
 
 >[!AVAILABILITY]
 >
->此功能目前為 Beta 版本，僅供 Beta 版客戶使用。若要加入 Beta 版計畫，請聯絡 Adobe 代表。
+>此功能目前為 Beta 版本，僅供 Beta 版客戶使用。 若要加入 Beta 版計畫，請聯絡 Adobe 代表。
 
 透過主題，非技術使用者能藉由在標準範本<!-- to achieve brand specific results-->上新增自訂樣式，建立符合特定品牌和設計語言的可重複使用內容。
 
@@ -131,7 +130,7 @@ If you apply a theme to a content using a [fragment](../content-management/fragm
      >
      >如果您選擇&#x200B;_手動樣式_&#x200B;模式，除非重設電子郵件，否則您將無法套用任何主題。
      >
-     >若要在[使用佈景主題](/help/marketo/product-docs/email-marketing/email-designer/fragments.md)模式中使用&#x200B;_片段_，此片段必須已使用&#x200B;_使用佈景主題_&#x200B;模式自行建立。
+     >若要在&#x200B;_使用佈景主題_&#x200B;模式中使用[片段](/help/marketo/product-docs/email-marketing/email-designer/fragments.md)，此片段必須已使用&#x200B;_使用佈景主題_&#x200B;模式自行建立。
 
 1. 在電子郵件Designer中，按一下右側邊欄上的&#x200B;**[!UICONTROL Themes]**&#x200B;按鈕。 預設主題或範本主題隨即顯示。 您可以在此佈景主題的兩個顏色變體之間切換。
 

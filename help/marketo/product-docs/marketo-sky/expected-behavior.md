@@ -2,11 +2,10 @@
 description: 瞭解Marketo Sky中預測對象的預期行為。 瞭解資料隱私權、啟用時間及篩選限制。
 title: 預期行為
 hide: true
-hidefromtoc: true
 exl-id: d19130cf-186e-4aad-be32-6aad18c9d08b
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '389'
+source-wordcount: '390'
 ht-degree: 1%
 
 ---
@@ -18,7 +17,7 @@ ht-degree: 1%
 ## 資料和隱私權考量事項
 
 * AI/ML模型的所有必要資料處理都在北美進行。
-* AI/ML模型不使用特定的潛在客戶資訊，例如名字或姓氏、性別、電子郵件、聯絡電話等。 模型只會利用衍生自電影和活動記錄的一般屬性。
+* AI/ML模型不使用特定的潛在客戶資訊，例如名字或姓氏、性別、電子郵件、聯絡電話等。模型只會利用衍生自電影和活動記錄的一般屬性。
 
 **對於[!UICONTROL Predictive Audiences]，您可以預期下列行為**
 

@@ -3,10 +3,9 @@ unique-page-id: 2360352
 description: 在「管理網站服務」中，為開發人員設定SOAP API加密金鑰並取得端點詳細資訊。
 title: 設定您的 SOAP API 設定
 hide: true
-hidefromtoc: true
 exl-id: a848f5c5-b3ca-40cc-9202-467f26d3916f
 feature: Administration
-source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 22%
@@ -17,7 +16,7 @@ ht-degree: 22%
 
 >[!IMPORTANT]
 >
->The SOAP API is [being deprecacted](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/soap/soap-api) on July 31, 2026. 建議改用[REST API](https://developer.adobe.com/marketo-apis/)。
+>SOAP API已[於2026年7月31日被取代](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/soap/soap-api)。 建議改用[REST API](https://developer.adobe.com/marketo-apis/)。
 
 >[!NOTE]
 >

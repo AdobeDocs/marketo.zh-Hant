@@ -5,8 +5,7 @@ title: 新一代 [!DNL Munchkin] 追蹤常見問題集
 exl-id: 283189ac-c817-479a-b896-91233980608c
 feature: Administration, Munchkin Tracking Code
 hide: true
-hidefromtoc: true
-source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '705'
 ht-degree: 0%

@@ -4,11 +4,10 @@ description: 瞭解如何在Marketo中編輯Facebook豐富貼文設定。 自訂
 title: 編輯 Facebook RTF 貼文設定
 exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
 hide: true
-hidefromtoc: true
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '301'
 ht-degree: 1%
 
 ---
@@ -21,13 +20,13 @@ ht-degree: 1%
 >
 >並非所有Marketo Engage使用者都已購買此功能。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
 
-Marketo _社交應用程式_&#x200B;可讓您的潛在客戶透過其在Facebook、Twitter等社交網路上的連線，共用您的登陸頁面。 Facebook OpenGraph標籤（OG標籤）可讓您指定要將登陸頁面中的哪些資訊包含在Facebook貼文中。
+Marketo _社交應用程式_&#x200B;可讓您的潛在客戶透過其在Facebook、Twitter等社交網路上的連線，共用您的登陸頁面。Facebook OpenGraph標籤（OG標籤）可讓您指定要將登陸頁面中的哪些資訊包含在Facebook貼文中。
 
 ## 選取Rich Post選項 {#select-rich-post-options}
 
 您可以指定要在由共用從您的登入頁面產生的[!DNL Facebook]個豐富貼文中使用的頁面資訊型別。
 
-1. 在編輯器中選取_&#x200B;**[!UICONTROL Facebook Message]**&#x200B;視訊或社交按鈕的&#x200B;_[!DNL YouTube_]_。
+1. 在編輯器中選取_&#x200B;_[!DNL YouTube_]_&#x200B;視訊或社交按鈕的&#x200B;**[!UICONTROL Facebook Message]**。
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 

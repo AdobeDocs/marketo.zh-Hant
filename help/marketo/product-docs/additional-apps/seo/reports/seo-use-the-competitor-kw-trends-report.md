@@ -1,12 +1,11 @@
 ---
 unique-page-id: 2949270
-description: Compare your and your competitors' keyword rankings over time.
+description: 比較您和您競爭對手在一段時間內的關鍵字排名。
 title: SEO - 使用競爭者關鍵字趨勢報告
 exl-id: c36e84d0-ca8d-4618-a1ad-9b903f317792
 hide: true
-hidefromtoc: true
 feature: SEO
-source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '285'
 ht-degree: 7%
@@ -46,8 +45,8 @@ ht-degree: 7%
 |---|---|
 | [!UICONTROL Keywords] | 您正在追蹤的關鍵字數目。 |
 | [!UICONTROL Ranking URLs] | 在您設定的範圍內網站排名的URL數量。 |
-| [!UICONTROL % in rank] | The percentage of keywords ranking in the range you have set. |
-| [!UICONTROL Avg. searches] | The average number of searches on those keywords that occurred during the range you set (in the last 30 days on the Google US search) |
+| [!UICONTROL % in rank] | 關鍵字在您設定的範圍中排名的百分比。 |
+| [!UICONTROL Avg. searches] | 在您設定的範圍內（過去30天在Google美國搜尋中）對這些關鍵字發生的平均搜尋次數 |
 
 ## 篩選資料 {#filtering-data}
 
@@ -59,7 +58,7 @@ ht-degree: 7%
 
    ![](assets/image2014-9-18-14-3a8-3a26.png)
 
-## Exporting Data {#exporting-data}
+## 匯出資料 {#exporting-data}
 
 1. 按一下「**[!UICONTROL Export CSV]**」或「**[!UICONTROL Export PDF]**」。
 

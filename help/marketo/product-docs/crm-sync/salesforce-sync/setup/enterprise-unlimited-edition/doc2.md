@@ -4,7 +4,7 @@ title: 步驟3之2 — 建立Marketo的Salesforce使用者(Enterprise/Unlimited)
 hide: true
 hidefromtoc: true
 feature: Salesforce Integration
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '436'
 ht-degree: 4%

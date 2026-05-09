@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: b1c177e03fab297e5f94b1848103ac3239e4d079
+source-git-commit: 9129e60d468173fc5f17a4acf8126f04a2183711
 workflow-type: tm+mt
 source-wordcount: '9238'
-ht-degree: 99%
+ht-degree: 97%
 
 ---
 
@@ -30,14 +30,14 @@ ht-degree: 99%
       + [新執行個體最佳做法：記錄您的設定](getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md)
    + 應知事項 {#things-to-know}
       + [Marketo Engage字彙表](getting-started/things-to-know/marketo-engage-glossary.md)
-      + [新字彙表](getting-started/things-to-know/new-glossary.md)
+      + {hide-from-toc}[新字彙表](getting-started/things-to-know/new-glossary.md)
       + [圖示字彙表](getting-started/things-to-know/icon-glossary.md)
       + [傳統圖示字彙表](getting-started/things-to-know/classic-icon-glossary.md)
       + [說明中心](getting-started/things-to-know/help-center.md)
       + [訂閱系統狀態通知](getting-started/things-to-know/system-status-notifications.md)
-      + [產品知識的AI助理](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
-      + [行銷國家社群](getting-started/things-to-know/community.md)
-      + [AWS移轉](getting-started/things-to-know/aws-migration.md)
+      + {hide-from-toc}[產品知識的AI助理](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
+      + {hide-from-toc}[行銷國家社群](getting-started/things-to-know/community.md)
+      + {hide-from-toc}[AWS移轉](getting-started/things-to-know/aws-migration.md)
    + 快速成果 {#quick-wins}
       + [完成設定與新增人員](getting-started/quick-wins/get-set-up-and-add-a-person.md)
       + [傳送電子郵件](getting-started/quick-wins/send-an-email.md)
@@ -63,19 +63,19 @@ ht-degree: 99%
    + MARKETO AI {#marketo-ai}
       + [概觀](product-docs/marketo-ai/overview.md)
       + [設定與設定](product-docs/marketo-ai/settings-setup.md)
-      + [設定與設定](product-docs/marketo-ai/settings-setup-old.md)
+      + {hide-from-toc}[設定和設定](product-docs/marketo-ai/settings-setup-old.md)
       + 專員 {#agents}
          + [匯入銷售機會](product-docs/marketo-ai/agents/import-leads.md)
          + [程式QA](product-docs/marketo-ai/agents/program-qa.md)
    + 其他應用程式 {#additional-apps}
       + SEO {#seo}
          + 關鍵字 {#keywords}
-            + [SEO - 匯出關鍵字結果](product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results.md)
+            + {hide-from-toc}[SEO — 匯出關鍵字結果](product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results.md)
          + 頁面 {#pages}
-            + [SEO - 將問題匯出為 CSV](product-docs/additional-apps/seo/pages/seo-export-issues-to-csv.md)
+            + {hide-from-toc}[SEO — 將問題匯出至CSV](product-docs/additional-apps/seo/pages/seo-export-issues-to-csv.md)
          + 報告 {#reports}
-            + [SEO - 使用競爭者關鍵字趨勢報告](product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
-            + [SEO - 使用關鍵字趨勢報告](product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report.md)
+            + {hide-from-toc}[SEO — 使用競爭者KW趨勢報表](product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
+            + {hide-from-toc}[SEO — 使用關鍵字趨勢報告](product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report.md)
    + 管理 {#administration}
       + 設定 {#setup}
          + [了解您所擁有的權限](product-docs/administration/setup-administration/find-out-what-permissions-you-have.md)
@@ -89,11 +89,11 @@ ht-degree: 99%
          + [將 GoToWebinar 新增為 LaunchPoint 服務](product-docs/administration/additional-integrations/add-gotowebinar-as-a-launchpoint-service.md)
          + [將 Level 3 Web Meeting 新增為 LaunchPoint 服務](product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
          + [將 Munchkin 追蹤程式碼新增至您的網站](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
-         + [新一代 Munchkin 追蹤常見問題集](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)
+         + {hide-from-toc}[新一代Munchkin追蹤常見問題集](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)
          + [將單一登入新增至入口網站](product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
          + [將 Webex 新增為 LaunchPoint 服務](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
          + [將 Zoom 新增為 LaunchPoint 服務](product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
-         + [設定您的 SOAP API 設定](product-docs/administration/additional-integrations/configuring-your-soap-api-settings.md)
+         + {hide-from-toc}[設定您的SOAP API設定](product-docs/administration/additional-integrations/configuring-your-soap-api-settings.md)
          + [將 BrightTALK 連接至 Marketo](product-docs/administration/additional-integrations/connect-brighttalk-to-marketo.md)
          + [建立搭配 ReST API 使用的自訂服務](product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)
          + [建立 Webhook](product-docs/administration/additional-integrations/create-a-webhook.md)
@@ -139,7 +139,7 @@ ht-degree: 99%
          + [隱藏和取消隱藏欄位](product-docs/administration/field-management/hide-and-unhide-a-field.md)
          + [電子郵件中的 HTML 編碼權杖](product-docs/administration/field-management/html-encode-tokens-in-emails.md)
          + [將欄位標記為敏感](product-docs/administration/field-management/mark-a-field-as-sensitive.md)
-         + [挑選清單管理](product-docs/administration/field-management/picklist-management.md)
+         + {hide-from-toc}[挑選清單管理](product-docs/administration/field-management/picklist-management.md)
          + [重新命名欄位](product-docs/administration/field-management/rename-a-field.md)
          + [了解系統管理欄位](product-docs/administration/field-management/understanding-system-managed-fields.md)
          + [檢視 Marketo 和 Salesforce 之間的欄位對應](product-docs/administration/field-management/view-field-mappings-between-marketo-and-salesforce.md)
@@ -181,7 +181,7 @@ ht-degree: 99%
          + [啟用您帳戶的個人化 URL](product-docs/administration/settings/enable-personalized-urls-for-your-account.md)
          + [全域表單驗證規則](product-docs/administration/settings/global-form-validation-rules.md)
          + [登陸頁面標頭](product-docs/administration/settings/landing-page-headers.md)
-         + [產品使用量儀表板](product-docs/administration/settings/product-usage-dashboards.md)
+         + {hide-from-toc}[產品使用情況儀表板](product-docs/administration/settings/product-usage-dashboards.md)
          + [根據 IP 限制 Marketo 登入](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
          + [變更您的時區](product-docs/administration/settings/change-time-zone.md)
          + [設定後援頁面](product-docs/administration/settings/set-a-fallback-page.md)
@@ -270,7 +270,7 @@ ht-degree: 99%
             + [刪除人員](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-person.md)
             + [執行行銷活動](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign.md)
             + [流程步驟服務](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/flow-step-service.md)
-            + [歸功於推薦者](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/give-credit-to-referrer.md)
+            + {hide-from-toc}[將評分給予反向連結](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/give-credit-to-referrer.md)
             + [關鍵時刻](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)
             + [從流程中移除](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md)
             + [從清單中移除](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md)
@@ -278,7 +278,7 @@ ht-degree: 99%
             + [請求行銷活動](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)
             + [傳送警報](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md)
             + [傳送電子郵件](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md)
-            + [來自人員詳細資料頁面的單一流程動作](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/single-flow-actions-from-person-detail-page.md)
+            + {hide-from-toc}[來自個人詳細資料頁面的單一流程動作](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/single-flow-actions-from-person-detail-page.md)
             + [行動智慧行銷活動的觸發程序和篩選器](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/triggers-and-filters-for-mobile-smart-campaigns.md)
             + [在智慧行銷活動中使用 Webhook](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-a-webhook-in-a-smart-campaign.md)
             + [在流程步驟中使用新增選擇](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)
@@ -475,9 +475,9 @@ ht-degree: 99%
                + [傳送範例](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md)
                + [分享重要時刻](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
       + 其他 {#miscellaneous}
-         + [設定 Adobe Experience Manager 整合](product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)
+         + {hide-from-toc}[設定Adobe Experience Manager整合](product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)
          + [建立新的行銷活動資料夾](product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)
-         + [鍵盤快速鍵字彙表](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
+         + {hide-from-toc}[鍵盤快速鍵字彙表](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
          + [Marketo 沙箱](product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md)
          + [隱私權管理](product-docs/core-marketo-concepts/miscellaneous/privacy-management.md)
          + [隱私請求](product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md)
@@ -607,7 +607,7 @@ ht-degree: 99%
             + [第 3 步 (共 3 步)：連接 Marketo Engage 和 Veeva CRM](product-docs/crm-sync/veeva-crm-sync/setup/step-3-of-3-connect-marketo-engage-and-veeva-crm.md)
          + 同步詳細資料 {#sync-details}
             + [新增/移除自訂物件欄位做為智慧清單/觸發程序限制](product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
-            + [自訂物件同步](product-docs/crm-sync/veeva-crm-sync/sync-details/custom-object-sync.md)
+            + {hide-from-toc}[自訂物件同步](product-docs/crm-sync/veeva-crm-sync/sync-details/custom-object-sync.md)
             + [預設 Veeva 欄位對應](product-docs/crm-sync/veeva-crm-sync/sync-details/default-veeva-field-mapping.md)
             + [啟用/停用自訂物件同步](product-docs/crm-sync/veeva-crm-sync/sync-details/enable-disable-custom-object-sync.md)
             + [人員帳戶同步常見問題集](product-docs/crm-sync/veeva-crm-sync/sync-details/person-account-sync-faq.md)
@@ -655,7 +655,7 @@ ht-degree: 99%
          + 即時聊天 {#live-chat}
             + [即時聊天概觀](product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md)
             + [代理人收件匣](product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md)
-            + [通知](product-docs/demand-generation/dynamic-chat/live-chat/notifications.md)
+            + {hide-from-toc}[通知](product-docs/demand-generation/dynamic-chat/live-chat/notifications.md)
          + 生成式 AI {#generative-ai}
             + [生成式 AI 概觀](product-docs/demand-generation/dynamic-chat/generative-ai/overview.md)
             + [問題產生](product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md)
@@ -669,8 +669,8 @@ ht-degree: 99%
             + [編輯事件管道](product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)
             + [事件合作夥伴](product-docs/demand-generation/events/understanding-events/event-partners.md)
             + [了解事件方案](product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)
-            + [設定事件上限](product-docs/demand-generation/events/understanding-events/setting-an-event-cap.md)
-            + [設定事件目標](product-docs/demand-generation/events/understanding-events/setting-event-goals.md)
+            + {hide-from-toc}[設定事件上限](product-docs/demand-generation/events/understanding-events/setting-an-event-cap.md)
+            + {hide-from-toc}[設定事件目標](product-docs/demand-generation/events/understanding-events/setting-event-goals.md)
          + 建立事件 {#create-an-event}
             + [使用 Adobe Connect 建立事件](product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
             + [使用 GotoWebinar 建立事件](product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
@@ -712,7 +712,7 @@ ht-degree: 99%
       + Facebook {#facebook}
          + [新增商機至 Facebook 的自訂客群](product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
          + [在 Facebook 中建立自訂客群](product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
-         + [編輯 Facebook RTF 貼文設定](product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)
+         + {hide-from-toc}[編輯Facebook Rich Post設定](product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)
          + [將登陸頁面發佈至 Facebook](product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
          + [設定 Facebook 商機廣告](product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
          + [將自訂欄位對應至 Marketo](product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
@@ -742,8 +742,8 @@ ht-degree: 99%
             + [停用社交表單填寫](product-docs/demand-generation/forms/form-actions/disable-social-form-fill.md)
             + [編輯表單](product-docs/demand-generation/forms/form-actions/edit-a-form.md)
             + [在您的網站上嵌入表單](product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md)
-            + [在表單中啟用社交表單填寫](product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)
-            + [LinkedIn 社交表單填寫常見問題集](product-docs/demand-generation/forms/form-actions/linkedin-social-form-fill-faqs.md)
+            + {hide-from-toc}[啟用社交表單填寫表單](product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)
+            + {hide-from-toc}[LinkedIn社交表單填寫常見問答集](product-docs/demand-generation/forms/form-actions/linkedin-social-form-fill-faqs.md)
             + [向已知人員顯示自訂 HTML 表單](product-docs/demand-generation/forms/form-actions/show-custom-html-form-for-known-people.md)
             + [在 Lightbox 中使用表單](product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md)
          + 表單設計 {#form-design}
@@ -769,9 +769,9 @@ ht-degree: 99%
             + [設定 reCAPTCHA v3](product-docs/demand-generation/forms/using-captcha/setting-up-recaptcha-v3.md)
             + [在 Marketo 表單中啟用驗證碼](product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md)
       + 影像和檔案 {#images-and-files}
-         + [新的新增影像文件](product-docs/demand-generation/images-and-files/new-add-images-doc.md)
+         + {hide-from-toc}[新增影像檔案](product-docs/demand-generation/images-and-files/new-add-images-doc.md)
          + [新增影像和檔案至 Marketo](product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
-         + [使用 Adobe Express 編輯資產](product-docs/demand-generation/images-and-files/edit-assets-with-adobe-express.md)
+         + {hide-from-toc}[使用Adobe Express編輯Assets](product-docs/demand-generation/images-and-files/edit-assets-with-adobe-express.md)
          + [刪除已上傳的影像或檔案](product-docs/demand-generation/images-and-files/delete-an-uploaded-image-or-file.md)
          + [尋找已上傳影像或檔案的 URL](product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
          + [從網頁抓取影像](product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)
@@ -791,8 +791,8 @@ ht-degree: 99%
             + [新增連結至自由格式登陸頁面中的影像](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-link-to-an-image-in-a-free-form-landing-page.md)
             + [新增自由格式登陸頁面的行動裝置視圖](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)
             + [新增新的表單至自由格式登陸頁面](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
-            + [新增社交按鈕至自由格式登陸頁面](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md)
-            + [新增影片至自由格式登陸頁面](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md)
+            + {hide-from-toc}[新增社交按鈕至自由表單登陸頁面](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md)
+            + {hide-from-toc}[新增視訊至自由形式的登陸頁面](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md)
             + [新增影像至自由格式登陸頁面](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)
             + [新增矩形至自由格式登陸頁面](product-docs/demand-generation/landing-pages/free-form-landing-pages/adding-a-rectangle-to-a-free-form-landing-page.md)
             + [新增自訂 HTML 至自由格式登陸頁面](product-docs/demand-generation/landing-pages/free-form-landing-pages/adding-custom-html-to-a-free-form-landing-page.md)
@@ -993,9 +993,9 @@ ht-degree: 99%
       + 電子郵件設計工具 {#email-designer}
          + 品牌 {#brands}
             + [品牌主題](product-docs/email-marketing/email-designer/brands/brand-themes.md)
-            + [套用品牌](product-docs/email-marketing/email-designer/brands/apply-brand.md)
+            + {hide-from-toc}[套用品牌](product-docs/email-marketing/email-designer/brands/apply-brand.md)
             + [建立並管理您的品牌](product-docs/email-marketing/email-designer/brands/manage-brands.md)
-            + [個人化您的品牌](product-docs/email-marketing/email-designer/brands/personalize-brands.md)
+            + {hide-from-toc}[個人化您的品牌](product-docs/email-marketing/email-designer/brands/personalize-brands.md)
             + [品牌分數](product-docs/email-marketing/email-designer/brands/brand-score.md)
          + [概觀](product-docs/email-marketing/email-designer/overview.md)
          + [功能比較](product-docs/email-marketing/email-designer/feature-comparison.md)
@@ -1009,7 +1009,7 @@ ht-degree: 99%
          + [自訂 CSS](product-docs/email-marketing/email-designer/custom-css.md)
          + [深色模式](product-docs/email-marketing/email-designer/dark-mode.md)
          + [使用 Litmus 測試電子郵件呈現](product-docs/email-marketing/email-designer/test-email-rendering.md)
-         + [個人化權杖](product-docs/email-marketing/email-designer/personalization-tokens.md)
+         + {hide-from-toc}[Personalization Token](product-docs/email-marketing/email-designer/personalization-tokens.md)
          + [使用 AEM Assets](product-docs/email-marketing/email-designer/aem-assets.md)
          + [使用 Adobe Express 編輯影像](product-docs/email-marketing/email-designer/edit-images-adobe-express.md)
          + [片段](product-docs/email-marketing/email-designer/fragments.md)
@@ -1063,9 +1063,9 @@ ht-degree: 99%
             + [了解電子郵件事件記錄](product-docs/email-marketing/general/understanding-the-email-editor/understanding-email-event-logging.md)
             + [使用 RTF 編輯器](product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)
          + 新的電子郵件設計工具 Beta 版 {#beta-new-email-designer}
-            + [新的電子郵件設計工具概觀 (Beta)](product-docs/email-marketing/general/beta-new-email-designer/overview.md)
-            + [電子郵件製作](product-docs/email-marketing/general/beta-new-email-designer/email-authoring.md)
-            + [電子郵件範本](product-docs/email-marketing/general/beta-new-email-designer/email-templates.md)
+            + {hide-from-toc}[新的電子郵件設計工具總覽（測試版）](product-docs/email-marketing/general/beta-new-email-designer/overview.md)
+            + {hide-from-toc}[電子郵件製作](product-docs/email-marketing/general/beta-new-email-designer/email-authoring.md)
+            + {hide-from-toc}[電子郵件範本](product-docs/email-marketing/general/beta-new-email-designer/email-templates.md)
          + 建立電子郵件 {#creating-an-email}
             + [核准電子郵件](product-docs/email-marketing/general/creating-an-email/approve-an-email.md)
             + [建立純文字電子郵件](product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
@@ -1081,7 +1081,7 @@ ht-degree: 99%
             + [電子郵件編輯器 v2.0 概觀](product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
             + [電子郵件範本挑選器概觀](product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md)
             + [電子郵件範本語法](product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
-            + [轉變至電子郵件編輯器 2.0](product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2-0.md)
+            + {hide-from-toc}[正在轉換至電子郵件編輯器2.0](product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2-0.md)
          + 編輯器中的功能 {#functions-in-the-editor}
             + [在電子郵件中加入行事曆事件 (.ics)](product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
             + [讓電子郵件可供操作](product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
@@ -1118,9 +1118,9 @@ ht-degree: 99%
    + Marketo Engage Modern UX {#marketo-engage-modern-ux}
       + [概觀](product-docs/marketo-engage-modern-ux/overview.md)
       + [使用全域搜尋](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
-      + [切換按鈕](product-docs/marketo-engage-modern-ux/toggle-switch.md)
+      + {hide-from-toc}[切換開關](product-docs/marketo-engage-modern-ux/toggle-switch.md)
    + Marketo 通知 {#marketo-notifications}
-      + [通知：Websocket 連線](product-docs/marketo-notifications/websocket-connection.md)
+      + {hide-from-toc}[通知： Websocket連線](product-docs/marketo-notifications/websocket-connection.md)
    + Marketo Sales Connect {#marketo-sales-connect}
       + 快速入門 {#getting-started}
          + [Sales Connect 概觀](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
@@ -1353,7 +1353,7 @@ ht-degree: 99%
             + [了解團隊索引標籤](product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md)
             + [範本參與](product-docs/marketo-sales-insight/actions/analytics/template-engagement.md)
          + 行銷活動 {#campaigns}
-            + [新增至行銷活動](product-docs/marketo-sales-insight/actions/campaigns/add-to-marketing-campaign.md)
+            + {hide-from-toc}[新增至行銷活動](product-docs/marketo-sales-insight/actions/campaigns/add-to-marketing-campaign.md)
             + [行銷活動已結束](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
             + [建立銷售行銷活動](product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md)
             + [銷售行銷活動設定](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md)
@@ -1362,12 +1362,12 @@ ht-degree: 99%
             + [以其他使用者的身分檢視行銷活動清單](product-docs/marketo-sales-insight/actions/campaigns/view-campaigns-list-as-another-user.md)
          + CRM {#crm}
             + Salesforce 自訂 {#salesforce-customization}
-               + [文件](product-docs/marketo-sales-insight/actions/crm/salesforce-customization/doc.md)
+               + {hide-from-toc}[檔案](product-docs/marketo-sales-insight/actions/crm/salesforce-customization/doc.md)
             + Salesforce 整合 {#salesforce-integration}
                + [設定 Salesforce 活動詳細資料自訂](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
                + [將您的銷售洞察動作帳戶連接至 Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
-               + [中斷銷售洞察動作與 Salesforce 的連線](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/disconnect-salesforce-from-sales-insight-actions.md)
-               + [回應記錄](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/reply-logging.md)
+               + {hide-from-toc}[中斷與Sales Insight動作的Salesforce連線](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/disconnect-salesforce-from-sales-insight-actions.md)
+               + {hide-from-toc}[回覆記錄](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/reply-logging.md)
                + [Salesforce 診斷](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
                + [設定銷售洞察動作沙箱](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md)
                + [將銷售活動同步至 Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
@@ -1400,7 +1400,7 @@ ht-degree: 99%
             + 使用撰寫視窗 {#using-the-compose-window}
                + [新增附件或可追蹤內容至您的電子郵件](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/add-an-attachment-or-trackable-content-to-your-email.md)
                + [大量寄送電子郵件選項](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
-               + [使用「選取並傳送」功能撰寫大量傳送的電子郵件](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
+               + {hide-from-toc}[使用Select和Send撰寫大量電子郵件](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
                + [透過群組電子郵件傳送電子郵件](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
                + [在撰寫視窗中使用範本](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
          + 電子郵件整合 {#email-integrations}
@@ -1419,7 +1419,7 @@ ht-degree: 99%
             + [我要如何防止內部瀏覽？](product-docs/marketo-sales-insight/actions/faq/how-do-i-prevent-self-views.md)
             + [位置追蹤的運作原理是什麼？](product-docs/marketo-sales-insight/actions/faq/how-does-location-tracking-work.md)
             + [我無法進入我的帳戶。 我該如何處理？](product-docs/marketo-sales-insight/actions/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
-            + [銷售洞察動作是否與 Salesforce Lightning 相容？](product-docs/marketo-sales-insight/actions/faq/is-sales-insight-actions-compatible-with-salesforce-lightning.md)
+            + {hide-from-toc}[銷售Insight動作是否與Salesforce Lightning相容？](product-docs/marketo-sales-insight/actions/faq/is-sales-insight-actions-compatible-with-salesforce-lightning.md)
             + [銷售洞察動作支援哪些瀏覽器？](product-docs/marketo-sales-insight/actions/faq/which-browsers-does-sales-insight-actions-support.md)
             + [銷售洞察動作服務條款的內容是什麼？](product-docs/marketo-sales-insight/actions/faq/what-are-the-sales-insight-actions-terms-of-service.md)
             + [為什麼我的聯絡人都沒有被推送至銷售洞察動作？](product-docs/marketo-sales-insight/actions/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-insight-actions.md)
@@ -1438,14 +1438,14 @@ ht-degree: 99%
             + [讓 Sales Connect 使用者可以看到行銷活動](product-docs/marketo-sales-insight/actions/marketo/make-a-marketing-campaign-visible-in-sales-insight-actions.md)
             + [銷售活動觸發程序和篩選器](product-docs/marketo-sales-insight/actions/marketo/sales-activity-triggers-and-filters.md)
             + [銷售洞察動作活動字彙表](product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)
-            + [設定您的 Marketo 連線](product-docs/marketo-sales-insight/actions/marketo/set-up-your-marketo-connection.md)
+            + {hide-from-toc}[設定您的Marketo連線](product-docs/marketo-sales-insight/actions/marketo/set-up-your-marketo-connection.md)
          + 人員 {#people}
-            + [人員詳細資料視圖](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
+            + {hide-from-toc}[個人詳細資料檢視](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
             + [銷售洞察動作與 GDPR 合規性](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
             + 管理聯絡人 {#managing-contacts}
                + [對人員執行大量動作](product-docs/marketo-sales-insight/actions/people/managing-contacts/bulk-actions-on-people.md)
                + [管理群組](product-docs/marketo-sales-insight/actions/people/managing-contacts/manage-groups.md)
-               + [人物頁面欄](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
+               + {hide-from-toc}[人員頁面欄](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
          + 電話 {#phone}
             + [通話結果](product-docs/marketo-sales-insight/actions/phone/call-outcomes.md)
             + [通話原因](product-docs/marketo-sales-insight/actions/phone/call-reasons.md)
@@ -1463,10 +1463,10 @@ ht-degree: 99%
             + [動態欄位](product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md)
             + [欄位提示](product-docs/marketo-sales-insight/actions/templates/field-prompts.md)
             + [管理範本](product-docs/marketo-sales-insight/actions/templates/manage-templates.md)
-            + [管理範本類別](product-docs/marketo-sales-insight/actions/templates/manage-template-categories.md)
+            + {hide-from-toc}[管理範本類別](product-docs/marketo-sales-insight/actions/templates/manage-template-categories.md)
             + [推薦的範本](product-docs/marketo-sales-insight/actions/templates/recommended-templates.md)
             + [使用 HTML](product-docs/marketo-sales-insight/actions/templates/using-html.md)
-            + [以其他使用者的身分檢視範本清單](product-docs/marketo-sales-insight/actions/templates/view-template-list-as-another-user.md)
+            + {hide-from-toc}[以其他使用者檢視範本清單](product-docs/marketo-sales-insight/actions/templates/view-template-list-as-another-user.md)
       + 使用 MSI {#using-msi}
          + [在 Marketo 中記錄來自商機的傳入郵件](product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
       + MSI Chrome 外掛程式 {#msi-chrome-plugin}
@@ -1565,7 +1565,7 @@ ht-degree: 99%
       + [非原生 MS Dynamics 整合適用的銷售洞察](product-docs/marketo-sales-insight/sales-insight-for-non-native-ms-dynamics-integrations.md)
       + [非原生 Salesforce 整合適用的銷售洞察](product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)
    + Marketo Sky {#marketo-sky}
-      + [預期行為](product-docs/marketo-sky/expected-behavior.md)
+      + {hide-from-toc}[預期行為](product-docs/marketo-sky/expected-behavior.md)
    + 行動裝置行銷 {#mobile-marketing}
       + 管理員 {#admin}
          + [新增行動應用程式](product-docs/mobile-marketing/admin/add-a-mobile-app.md)
@@ -1927,9 +1927,9 @@ ht-degree: 99%
 + 發行說明 {#release-notes}
    + [發行排程](release-notes/release-schedule.md)
    + [最新發行版本](release-notes/current.md)
-   + [最新發行版本 TEMP](release-notes/current-temp.md)
+   + {hide-from-toc}[目前版本TEMP](release-notes/current-temp.md)
    + [Dynamic Chat 發行版本](release-notes/dynamic-chat.md)
-   + [Dynamic Chat 發行版本 TEMP](release-notes/dynamic-chat-temp.md)
+   + {hide-from-toc}[Dynamic Chat發行TEMP](release-notes/dynamic-chat-temp.md)
    + 先前發行版本 {#previous-releases}
       + 2026 {#2026}
          + [發行說明： 2026年1月](release-notes/previous-releases/2026/release-notes-jan-26.md)

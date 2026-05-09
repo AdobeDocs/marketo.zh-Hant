@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 exl-id: 443dc653-4ecb-4daa-9a6d-e124a6be0329
 feature: Modern UX
-source-git-commit: 95bb780780f90b423465e940f04946dd5c5bed80
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '264'
 ht-degree: 85%
 
 ---
@@ -143,7 +143,7 @@ ht-degree: 85%
   <tr>
    <td><img src="assets/classic-revenue-cycle-model-unapproved.png"></td>
    <td><img src="assets/model.png"></td>
-   <td>模型</td>
+   <td>模式</td>
   </tr>
   <tr>
    <td><img src="assets/classic-poll.png"></td>
@@ -297,7 +297,7 @@ ht-degree: 85%
   <tr>
    <td><img src="assets/classic-trigger.png"></td>
    <td><img src="assets/active.png"></td>
-   <td>使用中</td>
+   <td>作用中</td>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-is-requested.png"></td>
@@ -398,7 +398,7 @@ ht-degree: 85%
   <tr>
    <td><strong>不適用</strong></td>
    <td><img src="assets/inapp-scheduled.png"></td>
-   <td>已安排</td>
+   <td>已排程</td>
   </tr>
   <tr>
    <td><img src="assets/classic-in-app-program-stopped.png"></td>
