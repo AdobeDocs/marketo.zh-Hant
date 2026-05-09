@@ -2,12 +2,11 @@
 description: 瞭解如何使用「選取並傳送」來撰寫和傳送大量電子郵件。 從「人物」頁面選擇聯絡人，並大規模傳送個人化電子郵件。
 title: 使用「選取並傳送」功能撰寫大量傳送的電子郵件
 hide: true
-hidefromtoc: true
 exl-id: 8d9d0c78-1f01-48ad-93ac-5c353173c4f3
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '400'
 ht-degree: 3%
 
 ---

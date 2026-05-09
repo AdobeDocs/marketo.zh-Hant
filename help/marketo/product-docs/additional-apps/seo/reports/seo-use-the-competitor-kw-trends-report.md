@@ -1,12 +1,11 @@
 ---
 unique-page-id: 2949270
-description: Compare your and your competitors' keyword rankings over time.
+description: 比較您和您競爭對手在一段時間內的關鍵字排名。
 title: SEO - 使用競爭者關鍵字趨勢報告
 exl-id: c36e84d0-ca8d-4618-a1ad-9b903f317792
 hide: true
-hidefromtoc: true
 feature: SEO
-source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '285'
 ht-degree: 7%
@@ -21,10 +20,10 @@ ht-degree: 7%
 >
 >在2026年3月31日，Marketo Engage [已棄用搜尋引擎最佳化](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}功能。 [seo.marketo.com](https://seo.marketo.com/)仍在限定時間內可用。 請依照下列文章中的步驟匯出任何資料。
 >
->* [匯出問題](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
->* [匯出關鍵字結果](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
->* [匯出關鍵字趨勢](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
->* [匯出競爭者關鍵字趨勢](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
+>* [匯出問題](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [匯出關鍵字結果](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [匯出關鍵字趨勢](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [匯出競爭者關鍵字趨勢](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 ## 尋找報表 {#find-reports}
 
@@ -46,8 +45,8 @@ ht-degree: 7%
 |---|---|
 | [!UICONTROL Keywords] | 您正在追蹤的關鍵字數目。 |
 | [!UICONTROL Ranking URLs] | 在您設定的範圍內網站排名的URL數量。 |
-| [!UICONTROL % in rank] | The percentage of keywords ranking in the range you have set. |
-| [!UICONTROL Avg. searches] | The average number of searches on those keywords that occurred during the range you set (in the last 30 days on the Google US search) |
+| [!UICONTROL % in rank] | 關鍵字在您設定的範圍中排名的百分比。 |
+| [!UICONTROL Avg. searches] | 在您設定的範圍內（過去30天在Google美國搜尋中）對這些關鍵字發生的平均搜尋次數 |
 
 ## 篩選資料 {#filtering-data}
 
@@ -59,7 +58,7 @@ ht-degree: 7%
 
    ![](assets/image2014-9-18-14-3a8-3a26.png)
 
-## Exporting Data {#exporting-data}
+## 匯出資料 {#exporting-data}
 
 1. 按一下「**[!UICONTROL Export CSV]**」或「**[!UICONTROL Export PDF]**」。
 

@@ -2,10 +2,9 @@
 description: 瞭解如何設定從Veeva CRM同步至Marketo Engage的自訂物件。 在Admin中啟用自訂物件，並在智慧清單和觸發程式中使用它們。
 title: 自訂物件同步
 hide: true
-hidefromtoc: true
 exl-id: 68bc14e7-dfc9-4dce-b159-24d734ee3c6f
 feature: Veeva CRM
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 4%

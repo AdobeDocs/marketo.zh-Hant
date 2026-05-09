@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '1172'
-ht-degree: 15%
+source-wordcount: '1184'
+ht-degree: 13%
 
 ---
 
@@ -76,11 +76,11 @@ ht-degree: 15%
 
    熒幕擷圖
 
-1. 您可以變更樣式屬性（例如&#x200B;**[!UICONTROL Border]**、**[!UICONTROL Size]**、**[!UICONTROL Margin]**&#x200B;等），進一步個人化您的按鈕。 從&#x200B;**[!UICONTROL Component settings]**&#x200B;窗格。
+1. 您可以從&#x200B;**[!UICONTROL Component settings]**&#x200B;窗格變更樣式屬性（例如&#x200B;**[!UICONTROL Border]**、**[!UICONTROL Size]**、**[!UICONTROL Margin]**&#x200B;等），以進一步個人化您的按鈕。
 
 ## 文字 {#text}
 
-使用&#x200B;**[!UICONTROL Text]**&#x200B;元件將文字插入您的電子郵件，並使用&#x200B;**[!UICONTROL Styles]**&#x200B;索引標籤調整樣式（邊框、大小、邊框間距等）。
+使用&#x200B;**[!UICONTROL Text]**&#x200B;元件將文字插入您的電子郵件，並調整樣式（邊框、大小、邊框間距等） 使用&#x200B;**[!UICONTROL Styles]**&#x200B;標籤。
 
 熒幕擷圖
 
@@ -107,7 +107,7 @@ ht-degree: 15%
    * **[!UICONTROL Duplicate]**：新增文字元件的復本。
    * **[!UICONTROL Delete]**：從您的電子郵件中刪除選取的文字元件。
 
-1. 調整其他樣式屬性，例如文字顏色、字型系列、邊框、邊框間距、邊界等。從&#x200B;**[!UICONTROL Styles]**&#x200B;索引標籤。
+1. 從&#x200B;**[!UICONTROL Styles]**&#x200B;索引標籤調整其他樣式屬性，例如文字顏色、字型系列、邊框、邊框間距、邊界等。
 
    熒幕擷圖
 
@@ -147,7 +147,7 @@ ht-degree: 15%
 
 1. 在&#x200B;**[!UICONTROL Settings]**&#x200B;索引標籤中，按一下&#x200B;**[!UICONTROL Browse]**&#x200B;以從您的資產選擇影像檔案，或按一下&#x200B;**[!UICONTROL Import media]**&#x200B;將資產上傳到Adobe Experience Manager Assets。
 
-   若要深入瞭解[!DNL Adobe Experience Manager Assets]，請參閱[Adobe Experience Manager Assets檔案](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/introduction.html?lang=zh-Hant){target="_blank"}。
+   若要深入瞭解[!DNL Adobe Experience Manager Assets]，請參閱[Adobe Experience Manager Assets檔案](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/introduction.html){target="_blank"}。
 
    >[!NOTE]
    >
@@ -164,7 +164,7 @@ ht-degree: 15%
 
 1. 您也可以選擇&#x200B;**[!UICONTROL Find similar Stock photos]**。`[Learn more](../integrations/stock.md)`
 
-1. 從&#x200B;**[!UICONTROL Styles]**&#x200B;索引標籤，調整其他樣式屬性，例如邊界、邊框等。 或新增連結以將您的對象重新導向至&#x200B;**[!UICONTROL Component settings]**&#x200B;窗格中的其他內容。
+1. 從&#x200B;**[!UICONTROL Styles]**&#x200B;索引標籤，調整其他樣式屬性，例如邊界、邊框等，或新增連結以將您的對象重新導向至&#x200B;**[!UICONTROL Component settings]**&#x200B;窗格中的其他內容。
 
 ## 社交 {#social}
 
@@ -174,7 +174,7 @@ ht-degree: 15%
 
 1. 選取您新新增的元件。
 
-1. 在&#x200B;**[!UICONTROL Social]**&#x200B;索引標籤的&#x200B;**[!UICONTROL Settings]**&#x200B;欄位中，選擇要新增或移除的社群媒體。
+1. 在&#x200B;**[!UICONTROL Settings]**&#x200B;索引標籤的&#x200B;**[!UICONTROL Social]**&#x200B;欄位中，選擇要新增或移除的社群媒體。
 
    熒幕擷圖
 
@@ -186,7 +186,7 @@ ht-degree: 15%
 
 1. 如有需要，您也可以從Assets變更每個社群媒體的圖示。
 
-1. 調整其他樣式屬性，例如樣式、邊界、邊框等。從&#x200B;**[!UICONTROL Styles]**&#x200B;索引標籤。
+1. 從&#x200B;**[!UICONTROL Styles]**&#x200B;標籤調整其他樣式屬性，例如樣式、邊界、邊框等。
 
 ## 優惠決定 {#offer-decision}
 

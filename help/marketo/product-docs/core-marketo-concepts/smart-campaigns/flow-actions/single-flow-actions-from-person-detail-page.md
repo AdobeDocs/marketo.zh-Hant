@@ -2,12 +2,11 @@
 description: 瞭解如何從人員詳細資料頁面執行單一流程動作。 依需求對個人執行一個流程步驟。
 title: 來自人員詳細資料頁面的單一流程動作
 hide: true
-hidefromtoc: true
 exl-id: 3eeb7724-a502-4ea5-a57b-29d03133402f
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '128'
 ht-degree: 11%
 
 ---

@@ -2,10 +2,9 @@
 description: 瞭解如何設定銷售Insight動作的Marketo連線。 從Marketo管理員連線，為您的執行個體啟用動作。
 title: 設定您的 Marketo 連線
 hide: true
-hidefromtoc: true
 exl-id: f38272b1-a6dc-4d98-b6c1-e432c75b87c6
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 5%
@@ -16,7 +15,7 @@ ht-degree: 5%
 
 >[!NOTE]
 >
->布建[!DNL Sales Insight Actions]時，Marketo會自動將您的認證傳送至Actions，並將您的執行個體連線至Marketo。 只有在布建&#x200B;**執行個體後未看到已建立的連線**&#x200B;時，才需要[!DNL Sales Connect]此步驟。 如果已建立連線，您會在Marketo管理設定頁面上看到您的認證，以及中斷連線的選項。
+>布建[!DNL Sales Insight Actions]時，Marketo會自動將您的認證傳送至Actions，並將您的執行個體連線至Marketo。 只有在布建[!DNL Sales Connect]執行個體後未看到已建立的連線&#x200B;**時，才需要**&#x200B;此步驟。 如果已建立連線，您會在Marketo管理設定頁面上看到您的認證，以及中斷連線的選項。
 
 ## 在連線[!DNL Sales Connect]與Marketo之前取得認證 {#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
 

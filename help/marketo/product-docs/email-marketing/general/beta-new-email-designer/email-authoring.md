@@ -2,10 +2,9 @@
 description: 瞭解全新電子郵件Designer中的電子郵件編寫。 在Marketo Engage中建立、個人化和預覽電子郵件。
 title: 電子郵件製作
 hide: true
-hidefromtoc: true
 feature: Email Editor
 exl-id: bfa8d9c2-93d7-494c-ac5e-f743894c58e7
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '1531'
 ht-degree: 5%
@@ -188,13 +187,13 @@ ht-degree: 5%
 
 1. 直接在畫布中選取結構元件中的欄，或使用左側顯示的&#x200B;_導覽樹狀結構_。
 
-1. 從欄工具列中，按一下&#x200B;_[!UICONTROL Select a column]_&#x200B;工具並選擇您要編輯的工具。
+1. 從欄工具列中，按一下&#x200B;_[!UICONTROL Select a column]_工具並選擇您要編輯的工具。
 
-   您也可以從結構樹中選取它。 該欄的可編輯引數會顯示在右側的&#x200B;_[!UICONTROL Settings]_&#x200B;和_[!UICONTROL Styles]_&#x200B;索引標籤中。
+   您也可以從結構樹中選取它。 該欄的可編輯引數會顯示在右側的&#x200B;_[!UICONTROL Settings]_和_[!UICONTROL Styles]_&#x200B;索引標籤中。
 
    ![](assets/authoring-layers-settings-styles-2.png)
 
-1. 若要編輯欄屬性，請按一下右側的&#x200B;_[!UICONTROL Styles]_&#x200B;標籤，並根據您的需求加以變更：
+1. 若要編輯欄屬性，請按一下右側的&#x200B;_[!UICONTROL Styles]_標籤，並根據您的需求加以變更：
 
    * 針對&#x200B;**[!UICONTROL Background]**，視需要變更背景顏色。
 
@@ -233,7 +232,7 @@ Token在新編輯器中的運作方式與舊版相同，但圖示看起來不同
    >
    >「遞補文字」是預設值的新編輯器辭彙。 範例：``{{lead.First Name:default=Friend}}``。 如果您選擇的欄位中沒有該人員的值，建議您這麼做。
 
-1. 設定您的遞補文字，然後按一下[新增]。**&#x200B;**
+1. 設定您的遞補文字，然後按一下[新增]。****
 
    ![](assets/authoring-personalize-content-4.png)
 
@@ -315,9 +314,9 @@ Token在新編輯器中的運作方式與舊版相同，但圖示看起來不同
 
 在新編輯器中建立電子郵件後，您可以在「智慧行銷活動」和/或「智慧列示」中參考該電子郵件，操作方法與使用任何其他電子郵件時相同。
 
-* 依照一般步驟[&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)，由在智慧清單中參照它。
+* 依照一般步驟](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)，由[在智慧清單中參照它。
 
-* 按照一般步驟[&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)，由在Smart Campaign中參考它。
+* 按照一般步驟](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)，由[在Smart Campaign中參考它。
 
 >[!NOTE]
 >

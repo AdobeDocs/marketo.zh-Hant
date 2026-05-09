@@ -4,9 +4,9 @@ title: 使用對話式流程登陸頁面
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '244'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 2%
 
 >[!PREREQUISITES]
 >
->建立僅包含[會議預訂](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md)卡片的簡單&#x200B;**交談流程**。
+>建立僅包含&#x200B;**會議預訂**&#x200B;卡片的簡單[交談流程](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md)。
 
 ## 引導式登陸頁面 {#guided-landing-pages}
 
