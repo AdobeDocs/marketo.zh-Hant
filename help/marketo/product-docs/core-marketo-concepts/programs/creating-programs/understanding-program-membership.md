@@ -4,9 +4,9 @@ description: 瞭解計畫會員資格以及人員如何進入計畫。 瞭解計
 title: 了解方案會籍
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
 feature: Programs
-source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '271'
 ht-degree: 2%
 
 ---
@@ -56,7 +56,7 @@ ht-degree: 2%
 
 ## 贏取方案 {#acquisition-program}
 
-當新名稱進入系統作為方案成員時，Marketo會自動將該方案設為「贏取」。 這會建立[首次接觸歸因](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md){target="_blank"}的評分。
+當新名稱進入系統作為方案成員時，Marketo會自動將該方案設為「贏取」。
 
 >[!MORELIKETHIS]
 >

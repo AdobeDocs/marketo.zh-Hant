@@ -4,10 +4,10 @@ short-description: 了解 Marketo Engage 術語及其定義，幫助您快速上
 title: Marketo Engage 字彙表
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '4187'
-ht-degree: 92%
+source-wordcount: '4132'
+ht-degree: 91%
 
 ---
 
@@ -686,14 +686,6 @@ ht-degree: 92%
   <tr>
    <td colspan="1"><strong>返回路徑地址</strong></td>
    <td colspan="1">訊息的實際來源電子郵件地址，與「寄件者」欄位中的電子郵件不同。 </td>
-  </tr>
-  <tr>
-   <td><strong>收入週期分析 (RCA)</strong></td>
-   <td>附加元件功能，包含各種工具，旨在協助您增強整個執行個體的報告。</td>
-  </tr>
-  <tr>
-   <td colspan="1"><a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md" rel="nofollow"><strong>收入模型</strong></a></td>
-   <td colspan="1"><strong>收入週期分析 (RCA)</strong> 中所使用的工具，採用一系列階段，讓您在轉換過程中的任何特定點追蹤<strong>商機</strong>的位置。</td>
   </tr>
   <tr>
    <td><strong>角色</strong></td>

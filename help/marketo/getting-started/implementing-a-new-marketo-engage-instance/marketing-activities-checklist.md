@@ -3,9 +3,9 @@ description: 為您新的Marketo Engage執行個體設定行銷活動區段。
 title: 新執行個體最佳實務 — 行銷活動檢查清單
 feature: Getting Started
 exl-id: df536423-7ac8-437a-86c1-3692e68cd9fa
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '1387'
+source-wordcount: '1363'
 ht-degree: 2%
 
 ---
@@ -102,7 +102,7 @@ ht-degree: 2%
   </tr>
   <tr>
     <td>管理報告訂閱</td>
-    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.html?lang=zh-Hant" target="_blank">在Marketing Activities或Analytics中將報表訂閱</a>設定為<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.html?lang=zh-Hant" target="_blank">基本報表</a>或<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.html?lang=zh-Hant" target="_blank">收入週期總管報表</a>。</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.html?lang=zh-Hant" target="_blank">在Marketing Activities或Analytics中將報表訂閱</a>設定為<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.html?lang=zh-Hant" target="_blank">基本報表</a>。</li></td>
   </tr>
 </tbody>
 </table>

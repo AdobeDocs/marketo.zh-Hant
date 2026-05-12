@@ -4,9 +4,9 @@ description: 發行說明 — 2014年1月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2014年1月
 exl-id: 1507aa40-9bd7-42be-8c85-deae8dd45234
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '301'
 ht-degree: 1%
 
 ---
@@ -47,6 +47,6 @@ ht-degree: 1%
 
 ## 計畫會員資格分析中的其他欄位 {#additional-fields-in-program-membership-analysis}
 
-現在您可以依潛在客戶與公司屬性，新增與分組您的[方案會員資格分析](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md)量度。 例如，您可以新增產業欄位，以檢視方案成員與成功的分割。
+現在，您可以依銷售線索和公司屬性，新增計畫會員資格分析量度並加以分組。 例如，您可以新增產業欄位，以檢視方案成員與成功的分割。
 
 ![](assets/image2014-9-22-10-3a39-3a1.png)
