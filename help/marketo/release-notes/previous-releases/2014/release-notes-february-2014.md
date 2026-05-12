@@ -4,7 +4,7 @@ description: 發行說明 — 2014年2月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2014年2月
 exl-id: 5fcac75d-4e09-4f4d-9fd0-7c89f890d63e
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
 source-wordcount: '336'
 ht-degree: 1%
@@ -37,7 +37,7 @@ ht-degree: 1%
 
 [將電子郵件度量匯出至 [!DNL Excel]](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/export-email-program-dashboard-to-excel.md)，包括AB測試變體資料。
 
-## [!UICONTROL Engagement Score]報告中的[!UICONTROL Engagement Stream Performance] {#engagement-score-in-engagement-stream-performance-report}
+## [!UICONTROL Engagement Stream Performance]報告中的[!UICONTROL Engagement Score] {#engagement-score-in-engagement-stream-performance-report}
 
 我們已將參與分數新增到[[!UICONTROL Engagement Stream Performance]報告](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)，以協助您瞭解參與計畫中的內容有多有效。
 
@@ -45,7 +45,7 @@ ht-degree: 1%
 
 ## 電子郵件分析中的計畫詳細資訊 {#program-details-in-email-analysis}
 
-[您現在可以依方案名稱、頻道和標籤來群組您的電子郵件量度](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md)。 當電子郵件是計畫的本機資產時，計畫名稱會新增到電子郵件名稱欄位。 新的「方案名稱」欄位會顯示傳送電子郵件的智慧型行銷活動的方案名稱。 如果電子郵件是不同計畫的本機資產，則此專案可能不同於「電子郵件名稱」欄位中的計畫。
+現在您可以依方案名稱、頻道和標籤，將您的電子郵件量度分組。 當電子郵件是計畫的本機資產時，計畫名稱會新增到電子郵件名稱欄位。 新的「方案名稱」欄位會顯示傳送電子郵件的智慧型行銷活動的方案名稱。 如果電子郵件是不同計畫的本機資產，則此專案可能不同於「電子郵件名稱」欄位中的計畫。
 
 ![](assets/image2014-9-22-10-3a50-3a57.png)
 

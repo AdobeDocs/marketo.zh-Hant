@@ -4,9 +4,9 @@ description: 瞭解如何在Marketo中設定Facebook離線轉換。 將來自Mar
 title: 設定 Facebook 離線轉換
 exl-id: e1974943-8fc8-41f6-be7e-1b594de13db6
 feature: Integrations
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '302'
 ht-degree: 3%
 
 ---
@@ -17,8 +17,7 @@ ht-degree: 3%
 
 >[!PREREQUISITES]
 >
->* 您必須[設定Facebook潛在客戶廣告](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)。
->* 您在[收入週期Modeler](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md)中必須有已核准的模型。
+>您必須[設定Facebook潛在客戶廣告](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)。
 
 ## 管理員設定 {#admin-configuration}
 

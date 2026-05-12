@@ -4,9 +4,9 @@ description: 使用LaunchPoint中的管理員帳戶將多個 [!DNL Google AdWord
 title: 將 [!DNL Google AdWords] 新增為具有管理員帳戶的 [!DNL Launchpoint] 服務
 exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
 feature: Administration, Integrations
-source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '283'
 ht-degree: 7%
 
 ---
@@ -93,7 +93,3 @@ ht-degree: 7%
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-12.png)
 
    請參閱以下相關文章，瞭解如何在您的收入模型中對應[!DNL AdWords]個離線轉換。
-
-   >[!MORELIKETHIS]
-   >
-   >使用經理帳戶在收入模型中設定[轉換 [!DNL Google AdWords] &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md){target="_blank"}
