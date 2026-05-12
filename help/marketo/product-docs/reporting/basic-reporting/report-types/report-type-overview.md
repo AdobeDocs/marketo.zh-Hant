@@ -59,11 +59,11 @@ ht-degree: 8%
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">參與資料流效能報告</a> </strong></td>
-   <td>檢視您的<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">參與計畫</a>運作情況。</td>
+   <td>檢視您的<a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">參與計畫</a>運作情況。</td>
   </tr>
    <tr>
    <td><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md">行銷活動電子郵件績效</a> </strong></td>
-   <td>檢視您的<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">參與計畫</a>運作情況。</td>
+   <td>檢視您的<a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">參與計畫</a>運作情況。</td>
   </tr>
  </tbody>
 </table>
