@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: 7b8f503aae712d9d5e468c6218207514b43d634b
+source-git-commit: f99d8039641ff16444b1ce1ad5410c170f771008
 workflow-type: tm+mt
-source-wordcount: '8827'
+source-wordcount: '8829'
 ht-degree: 96%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 96%
       + [傳統圖示字彙表](getting-started/things-to-know/classic-icon-glossary.md)
       + [說明中心](getting-started/things-to-know/help-center.md)
       + [訂閱系統狀態通知](getting-started/things-to-know/system-status-notifications.md)
-      + {hide-from-toc}[產品知識的AI助理](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
+      + 產品知識的{hide-from-toc}[AI助理](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
       + {hide-from-toc}[行銷國家社群](getting-started/things-to-know/community.md)
       + {hide-from-toc}[AWS移轉](getting-started/things-to-know/aws-migration.md)
    + 快速成果 {#quick-wins}
@@ -64,6 +64,7 @@ ht-degree: 96%
       + [設定與設定](product-docs/marketo-ai/settings-setup.md)
       + {hide-from-toc}[設定和設定](product-docs/marketo-ai/settings-setup-old.md)
       + 專員 {#agents}
+         + {hide-from-toc}[產品知識](product-docs/marketo-ai/agents/product-knowledge.md)
          + [匯入銷售機會](product-docs/marketo-ai/agents/import-leads.md)
          + [程式QA](product-docs/marketo-ai/agents/program-qa.md)
    + 其他應用程式 {#additional-apps}
