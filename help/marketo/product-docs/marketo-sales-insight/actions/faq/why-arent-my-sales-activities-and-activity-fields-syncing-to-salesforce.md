@@ -2,9 +2,13 @@
 description: 銷售活動和欄位未同步至Salesforce時的疑難排解。 檢查API記錄、自訂欄位和許可權。
 title: 為什麼我的銷售活動和活動欄位沒有同步至 Salesforce？
 exl-id: 5da855f2-18c6-456a-9e5d-ef4499596b3c
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/ATXA1f3wZqC0z-QFjrK2ax0w8-wmf5cjKn4jdZJLtt0
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2: id: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: 339
 ht-degree: 6%
 
 ---

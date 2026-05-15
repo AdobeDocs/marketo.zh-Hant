@@ -4,14 +4,17 @@ description: 瞭解如何下載適用於Microsoft Dynamics的Marketo Sales Insig
 title: 下載適用於 Microsoft Dynamics 的 Marketo 銷售洞察解決方案
 exl-id: 6de8c605-d5e9-458d-aca8-2ed708d12402
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/w1Jqw7scFHW8gKnh4O5YTilwiVZ3OpRFRHj8lnH5ERY
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 16%
+source-wordcount: 108
+ht-degree: 15%
 
 ---
 
-# 下載[!DNL Marketo Sales Insight]的[!DNL Microsoft Dynamics]解決方案 {#download-the-marketo-sales-insight-solution-for-microsoft-dynamics}
+# 下載[!DNL Microsoft Dynamics]的[!DNL Marketo Sales Insight]解決方案 {#download-the-marketo-sales-insight-solution-for-microsoft-dynamics}
 
 >[!NOTE]
 >

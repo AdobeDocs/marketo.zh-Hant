@@ -4,10 +4,12 @@ description: 瞭解如何傳送行動推播通知。 使用包含「智慧清單
 title: 傳送行動推播通知
 exl-id: b462857e-c63d-419d-9e28-aafc778e217e
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+TQID: https://experienceleague.adobe.com/ktMtQUJT2YaXM2BzF4yTIBLfXoR0Wrm5aQLb3WalZoc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 21%
+source-wordcount: 105
+ht-degree: 20%
 
 ---
 

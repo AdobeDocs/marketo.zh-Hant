@@ -3,12 +3,14 @@ unique-page-id: 1147226
 description: 快速入門 - Marketo 文件 - 產品文件
 title: 快速入門
 hide: true
-hidefromtoc: true
+hidefromtoc: yes
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
 feature: Getting Started
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+TQID: https://experienceleague.adobe.com/ytjDUdNi2sdVbyIM-FdTYwmXztDgwJnDnX593WVpKdU
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: 136
 ht-degree: 91%
 
 ---

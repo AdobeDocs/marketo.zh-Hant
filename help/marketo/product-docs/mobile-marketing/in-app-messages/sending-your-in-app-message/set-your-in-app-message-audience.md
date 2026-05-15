@@ -4,10 +4,13 @@ description: 瞭解如何設定應用程式內訊息對象。 編輯智慧清單
 title: 設定您的應用程式內訊息客群
 exl-id: 696ae5b6-7063-41bc-bcef-27879182ff1e
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+TQID: https://experienceleague.adobe.com/hMVJupuaDx0Tw9yy8geOrIZPUosdvtx7HJwzqbQiIdA
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '279'
-ht-degree: 4%
+source-wordcount: 292
+ht-degree: 5%
 
 ---
 
@@ -53,6 +56,6 @@ ht-degree: 4%
 
    ![](assets/image2016-5-9-15-3a32-3a6.png)
 
-做得很好！您已設定好您的對象。 您已取得藍色長條和綠色勾號。
+做得很好！ 您已設定好您的對象。 您已取得藍色長條和綠色勾號。
 
 [選取您的應用程式內訊息](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/select-your-in-app-message.md)的時間！

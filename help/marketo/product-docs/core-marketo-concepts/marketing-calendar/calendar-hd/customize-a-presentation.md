@@ -4,9 +4,11 @@ description: 瞭解如何使用檢視和目標自訂行銷行事曆簡報。 設
 title: 自訂簡報
 exl-id: c871afb9-9762-498d-b168-cfce4ef05736
 feature: Marketing Calendar
-source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
+TQID: https://experienceleague.adobe.com/DDmFzhg3-yRx3ktlHa5TICBSOmG6hlrANlH6tb7FGIY
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: 273
 ht-degree: 2%
 
 ---

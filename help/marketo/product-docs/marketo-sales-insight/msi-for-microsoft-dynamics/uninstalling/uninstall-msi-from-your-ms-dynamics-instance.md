@@ -4,9 +4,12 @@ description: 瞭解如何從MS Dynamics執行個體解除安裝Marketo Sales Ins
 title: 從您的MS [!DNL Dynamics] 執行個體解除安裝MSI
 exl-id: 86e8dbc9-236f-42ad-96e8-cdb1b4c3bed2
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/tv5uoDyp6czOdjx3D1RDZUtoDTaaZniVF5fZDWnxPPk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: 139
 ht-degree: 2%
 
 ---

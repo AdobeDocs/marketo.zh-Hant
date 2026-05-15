@@ -1,12 +1,15 @@
 ---
 unique-page-id: 10912237
-description: 瞭解電子郵件編輯器2.0中的電子郵件範本選擇器。建立新電子郵件時從範本中選擇。
+description: 瞭解電子郵件編輯器2.0中的電子郵件範本選擇器。 建立新電子郵件時從範本中選擇。
 title: 電子郵件範本挑選器概觀
 exl-id: 6bfedd73-8b77-469d-9055-f925e2c2a7f1
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/-chlOS7UcjWaNgBhJyHEpfXL4SFnDnZH73tnpn-GZHs
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: 272
 ht-degree: 4%
 
 ---
@@ -33,7 +36,7 @@ ht-degree: 4%
 
 ![](assets/five-2.png)
 
-在&#x200B;**[!UICONTROL Emails]**&#x200B;樹狀結構中顯示在&#x200B;**[!UICONTROL Templates]** > [!UICONTROL Design Studio]下的所有資料夾都將可在&#x200B;**[!UICONTROL My Templates]**&#x200B;中使用。
+在[!UICONTROL Design Studio]樹狀結構中顯示在&#x200B;**[!UICONTROL Emails]** > **[!UICONTROL Templates]**&#x200B;下的所有資料夾都將可在&#x200B;**[!UICONTROL My Templates]**&#x200B;中使用。
 
 ![](assets/six-1.png)
 

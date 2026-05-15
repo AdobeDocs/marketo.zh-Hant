@@ -4,9 +4,11 @@ description: 瞭解如何在Sales Connect中以其他使用者的身分檢視行
 title: 以其他使用者的身分檢視行銷活動清單
 exl-id: 4efb565d-2760-4faa-93a3-c2e49b8b8ff3
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/XnIOX7c3XNBSVGmCWey8f2niODpiKWRODuEhjkFxM4E
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: 96
 ht-degree: 15%
 
 ---

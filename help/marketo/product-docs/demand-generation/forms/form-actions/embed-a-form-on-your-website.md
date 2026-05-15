@@ -4,9 +4,13 @@ description: 瞭解如何在網站上內嵌Marketo表單。 取得內嵌程式�
 title: 在您的網站上嵌入表單
 exl-id: ead46100-7af8-48fe-a37f-74e5bdc4328c
 feature: Forms
-source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
+TQID: https://experienceleague.adobe.com/yaIgInfZtfAz2Zie2zRar9JI-KdlCRAxsk9BfYNQKy8
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: 218
 ht-degree: 6%
 
 ---
@@ -47,6 +51,6 @@ Marketo可讓您將我們的表單內嵌在您自己的網站上。 以下說明
 
 >[!NOTE]
 >
->如果您的開發人員想要自訂外觀或存取進階API函式，請向他們顯示[Forms 2.0開發人員頁面](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)。
+>如果您的開發人員想要自訂外觀或存取進階API函式，請向他們顯示[Forms 2.0開發人員頁面](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)。
 
 若為Lightbox程式碼，請參閱[在Lightbox中使用表單](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md)。

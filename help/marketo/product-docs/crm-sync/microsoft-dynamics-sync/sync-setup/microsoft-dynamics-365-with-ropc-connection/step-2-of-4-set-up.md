@@ -3,10 +3,13 @@ description: 瞭解如何使用ROPC連線設定Marketo解決方案。 在Dynamic
 title: 步驟4之2 — 使用資源擁有者密碼控制連線設定Marketo解決方案
 exl-id: 41c05910-d8e3-4fb7-8f68-17ee10294e57
 feature: Microsoft Dynamics
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/-pefk892NFYV87CCTDrt28Yz-GUS66YZY74Q3-8z4YI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '409'
-ht-degree: 1%
+source-wordcount: 409
+ht-degree: 0%
 
 ---
 
@@ -28,11 +31,11 @@ ht-degree: 1%
 
    ![](assets/two.png)
 
-1. 按一下「**[!UICONTROL Users]**」。
+1. 按一下&#x200B;**[!UICONTROL Users]**。
 
    ![](assets/three.png)
 
-1. 按一下「**[!UICONTROL New]**」。
+1. 按一下&#x200B;**[!UICONTROL New]**。
 
    ![](assets/four.png)
 
@@ -44,7 +47,7 @@ ht-degree: 1%
 
    ![](assets/six.png)
 
-1. 另一個新標籤隨即開啟。 按一下「**[!UICONTROL Add a user]**」。
+1. 另一個新標籤隨即開啟。 按一下&#x200B;**[!UICONTROL Add a user]**。
 
    ![](assets/seven.png)
 
@@ -84,7 +87,7 @@ ht-degree: 1%
 
    ![](assets/eleven.png)
 
-1. 按一下「**[!UICONTROL Manage Roles]**」。
+1. 按一下&#x200B;**[!UICONTROL Manage Roles]**。
 
    ![](assets/twelve.png)
 
@@ -108,7 +111,7 @@ ht-degree: 1%
    >
    >如果您在[!UICONTROL Settings]功能表中看不到&#x200B;**[!UICONTROL Marketo Config]**，請重新整理頁面。 如果仍無法解決問題，請再試一次[發佈Marketo解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)，或登出再重新登入。
 
-1. 按一下「**[!UICONTROL Default]**」。
+1. 按一下&#x200B;**[!UICONTROL Default]**。
 
    ![](assets/fifteen.png)
 

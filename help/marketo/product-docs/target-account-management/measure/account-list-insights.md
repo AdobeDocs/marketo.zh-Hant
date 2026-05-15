@@ -4,9 +4,12 @@ description: 瞭解帳戶清單儀表板和來自指定帳戶的彙總見解。 
 title: 帳戶清單洞察
 exl-id: 27a4020b-b1e0-4f19-b676-2e6dc5fe9611
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+TQID: https://experienceleague.adobe.com/izizFMysvg2jawj-424w0n6AIsNT5dwJG3cw0iwo6cg
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: 174
 ht-degree: 4%
 
 ---

@@ -4,9 +4,11 @@ title: 中斷銷售洞察動作與 Salesforce 的連線
 hide: true
 exl-id: 4b3838d1-92de-4baf-81af-4cd7fc316c06
 feature: Sales Insight Actions
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+TQID: https://experienceleague.adobe.com/zMPouZTq9-cmwJsDKuHgA5qo0TPVU88cp79VZfkj9aU
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: 81
 ht-degree: 9%
 
 ---

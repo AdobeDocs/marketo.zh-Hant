@@ -4,10 +4,13 @@ description: 瞭解六種應用程式內訊息配置。 選擇「快顯」或「
 title: 為應用程式內訊息選擇版面
 exl-id: e36507d1-df04-43ac-9da0-14116db3add6
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+TQID: https://experienceleague.adobe.com/tCjSUGgNukJcbWvyLnj2E-9GzKjbgiEa3ytBkmrzhT4
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '490'
-ht-degree: 2%
+source-wordcount: 498
+ht-degree: 3%
 
 ---
 

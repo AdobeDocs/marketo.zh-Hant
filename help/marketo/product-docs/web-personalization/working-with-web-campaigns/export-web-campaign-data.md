@@ -4,10 +4,14 @@ description: 瞭解如何使用匯出網站行銷活動資料export-web-campaign
 title: 匯出網頁行銷活動資料
 exl-id: 04c33b2a-a314-486d-b72d-5618d7c0ed0d
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/eHxSWlhwdu9sJrSyeh0nWf8vHE3lgXyRwIFWUn-G3v0
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 14%
+source-wordcount: 72
+ht-degree: 13%
 
 ---
 

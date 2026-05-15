@@ -4,16 +4,19 @@ description: 瞭解範本12A引導式登陸頁面範本。 下載並用於您的
 title: 範本 12A
 exl-id: 761d7849-9137-4c6b-b9f2-96d380beb55d
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/INFeg2RURkbzE7EW1Y2jECQTQ5IPSND62hDJTM7Ks-I
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 6%
+source-wordcount: 79
+ht-degree: 5%
 
 ---
 
 # 範本 12A {#template-12a}
 
-按一下滑鼠右鍵以[下載範本12A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12a.html?lang=zh-Hant)
+按一下滑鼠右鍵以[下載範本12A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12a.html)
 
 ![](assets/image2015-8-4-14-3a23-3a23.png)
 
@@ -29,4 +32,4 @@ ht-degree: 6%
 
 **在下方按一下滑鼠右鍵以下載此範本：**
 
-[範本12A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12a.html?lang=zh-Hant)
+[範本12A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12a.html)

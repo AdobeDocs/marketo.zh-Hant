@@ -2,9 +2,13 @@
 description: 當您的銷售電子郵件標示為垃圾訊息時，取得協助。 瞭解常見原因以及如何改善傳遞能力和傳送者信譽。
 title: 為什麼我的電子郵件會被標記為垃圾郵件？
 exl-id: f42cd9ba-5c05-491b-a471-a8dcc49fe27d
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/8DHDyZWQZ5vyTv1iM5arj52XJf9cnS2ZmSKQCzvXLCU
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: 206
 ht-degree: 7%
 
 ---

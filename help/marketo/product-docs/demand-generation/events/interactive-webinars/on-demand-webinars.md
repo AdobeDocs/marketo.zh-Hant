@@ -3,9 +3,12 @@ description: 瞭解Marketo互動式網路研討會中的隨選網路研討會。
 title: 隨選網路研討會
 feature: Interactive Webinars
 exl-id: 65bfc1d2-6382-4cfa-9560-69cbb0c37c42
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/Ir415cX42hhJyB3Nxg0RFt3nNyXvO155ZHH3LxVzu1E
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: 490
 ht-degree: 1%
 
 ---

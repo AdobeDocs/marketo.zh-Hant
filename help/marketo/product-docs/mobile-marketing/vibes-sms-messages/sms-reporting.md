@@ -3,9 +3,13 @@ description: 瞭解SMS訊息控制面板和報表。 檢視您SMS行銷活動的
 title: 簡訊報告
 feature: Mobile Marketing
 exl-id: c4429cb0-01e1-4176-ae14-b8ce38fa1baa
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+TQID: https://experienceleague.adobe.com/WV6w9JEN2q3cdd00Wu5ACP1Gw5A4cDtq9FDslbdD1hE
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: 150
 ht-degree: 3%
 
 ---

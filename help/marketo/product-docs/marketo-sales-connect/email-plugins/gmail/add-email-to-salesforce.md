@@ -4,9 +4,11 @@ description: 瞭解如何從Gmail外掛程式新增電子郵件至Salesforce。 
 title: 新增電子郵件至 Salesforce
 exl-id: bb2e964d-e5f8-495f-969b-9f75822a6211
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/DXp9px46y3tWezlijSWiOqFPTDJJiZmMYi-881vauXc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: 153
 ht-degree: 2%
 
 ---

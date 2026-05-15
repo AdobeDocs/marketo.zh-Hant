@@ -4,9 +4,13 @@ description: 瞭解如何建立及使用電子郵件連結效能報表。 瞭解
 title: 電子郵件連結效能報告
 exl-id: 216af37d-561f-42ad-9f2c-3d9ee5dfd9d7
 feature: Email Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/LAf6S5Nsh-0lT5heZk9IIaaLbPgtz8oGhWuJtm38gY8
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: 233
 ht-degree: 5%
 
 ---
@@ -23,7 +27,7 @@ ht-degree: 5%
 
    ![](assets/image2015-5-20-11-3a18-3a0.png)
 
-1. 連按兩下&#x200B;**[!UICONTROL Date of Activity]**&#x200B;下的&#x200B;**[!UICONTROL Settings]**。
+1. 連按兩下&#x200B;**[!UICONTROL Settings]**&#x200B;下的&#x200B;**[!UICONTROL Date of Activity]**。
 
    ![](assets/image2015-5-20-11-3a18-3a59.png)
 
@@ -78,7 +82,7 @@ ht-degree: 5%
 
 >[!TIP]
 >
->若您想瞭解個人確實做了什麼，您可以從方案的[成員]索引標籤開啟[個人詳細資料](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md)頁面中的[活動記錄](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)。
+>若您想瞭解個人確實做了什麼，您可以從方案的[成員]索引標籤開啟[個人詳細資料](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)頁面中的[活動記錄](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md)。
 
 >[!MORELIKETHIS]
 >

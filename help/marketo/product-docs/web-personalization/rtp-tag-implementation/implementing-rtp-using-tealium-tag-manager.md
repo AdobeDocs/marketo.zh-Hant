@@ -4,9 +4,13 @@ description: 瞭解如何在Marketo Engage中使用Tealium標籤管理員實作r
 title: 使用 Tealium Tag Manager 實施 RTP
 exl-id: 7a099184-625c-46b2-a741-3bcdad0a238e
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/zMs2Dii5RERdH8tKb86a6EhxXUx2IpbZkDOCklUvvY4
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e2290edd-b061-4880-9d79-dee306cf5aa9id: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: 201
 ht-degree: 5%
 
 ---
@@ -29,7 +33,7 @@ ht-degree: 5%
 
 1. 儲存設定檔後，按一下Tealium iQ主控台右上角的姓名/電子郵件地址。
 
-1. 在[!UICONTROL Admin]功能表上，按一下&#x200B;**[!UICONTROL Manage Templates]**&#x200B;底下的[!UICONTROL Account Admin]。
+1. 在[!UICONTROL Admin]功能表上，按一下[!UICONTROL Account Admin]底下的&#x200B;**[!UICONTROL Manage Templates]**。
 
 1. 從下拉式清單中選取&#x200B;**[!UICONTROL Tealium Custom Container]： Marketo RTP**&#x200B;以開啟Tag範本。
 

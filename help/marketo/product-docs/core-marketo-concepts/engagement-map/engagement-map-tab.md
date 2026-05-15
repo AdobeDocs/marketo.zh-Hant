@@ -2,9 +2,11 @@
 description: 瞭解「參與圖」標籤及其觸發器、篩選器和流量卡。 按一下卡片以檢視詳細資料和編輯行銷活動元素。
 title: 參與地圖索引標籤
 exl-id: 8c4d076a-d8aa-44ff-b538-ca6a6778697a
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/fjlcx5-vMP8JVUSlhXPontUVlrHVMLeKfVOxv-VcSQw
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '968'
+source-wordcount: 968
 ht-degree: 0%
 
 ---

@@ -4,9 +4,12 @@ description: 瞭解如何將Marketo登入頁面重新導向至另一個頁面。
 title: 將 Marketo 登陸頁面重新導向至另一個頁面
 exl-id: fe744546-d075-4686-bf42-543bb3624dbb
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/hL18plY9nu2Irs6QC8AEtjbLPzZLvJDhfRQYwDRCgls
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: 150
 ht-degree: 13%
 
 ---

@@ -1,17 +1,20 @@
 ---
 unique-page-id: 1147074
 description: 瞭解自動觸發行銷活動清理。 瞭解Marketo如何清理舊觸發程式行銷活動執行。
-title: 自動觸發程序行銷活動清理
+title: 自動觸發行銷活動清理
 exl-id: 08012b55-e241-4524-a387-9644f5a2b17e
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+TQID: https://experienceleague.adobe.com/KygJNZIAwzO7OzNBHiVwXAylH7mRg31v-bPII53SFD8
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '235'
-ht-degree: 3%
+source-wordcount: 236
+ht-degree: 0%
 
 ---
 
-# 自動觸發程序行銷活動清理 {#automatic-trigger-campaign-cleanup}
+# 自動觸發行銷活動清理 {#automatic-trigger-campaign-cleanup}
 
 Marketo有很好/免費的服務，可以停用不再取得活動的觸發式「智慧型行銷活動」。 如此可提升整體系統效能，並節省您的時間。
 
@@ -27,7 +30,7 @@ Marketo有很好/免費的服務，可以停用不再取得活動的觸發式「
 
    ![](assets/automatic-trigger-campaign-cleanup-1.png)
 
-1. 按一下「**[!UICONTROL Idle Trigger Campaign Cleanup Scheduled]**」。 然後按一下&#x200B;**[!UICONTROL These Idle Trigger Campaigns will be deactivated]**&#x200B;連結。
+1. 按一下&#x200B;**[!UICONTROL Idle Trigger Campaign Cleanup Scheduled]**。 然後按一下&#x200B;**[!UICONTROL These Idle Trigger Campaigns will be deactivated]**&#x200B;連結。
 
    ![](assets/automatic-trigger-campaign-cleanup-2.png)
 

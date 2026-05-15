@@ -4,10 +4,15 @@ description: 發行說明 — 2014年7月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2014年7月
 exl-id: 0f0b4ad4-0ca7-4f43-bc08-5e555890d289
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/ztiNePeKURvJ6rBPeI5QWPv7Qsioz5RvGn6kbRik8G4
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: d5f08d55-2fea-44e2-b699-c9c3a8a79cf1
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '410'
-ht-degree: 2%
+source-wordcount: 442
+ht-degree: 4%
 
 ---
 
@@ -31,7 +36,7 @@ ht-degree: 2%
 
 ## 日期運運算元 {#date-operators}
 
-「[」、「](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md)」和「[!UICONTROL in past before]」的[!UICONTROL in future]進階篩選器[!UICONTROL in future after]。 例如，尋找未來3個月內有出生日期的銷售機會，或在6個月後到期的合約。
+「[!UICONTROL in past before]」、「[!UICONTROL in future]」和「[!UICONTROL in future after]」的[進階篩選器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md)。 例如，尋找未來3個月內有出生日期的銷售機會，或在6個月後到期的合約。
 
 ![](assets/image2014-9-22-14-3a23-3a56.png)
 
@@ -47,7 +52,7 @@ ht-degree: 2%
 
 ## REST API中的清單作業 {#list-operations-in-the-rest-api}
 
-我們在ReST中新增了以下與清單作業相關的呼叫。 如需完整檔案，請參閱[https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api)。
+我們在ReST中新增了以下與清單作業相關的呼叫。 如需完整檔案，請參閱[https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api)。
 
 * 依ID取得清單
 * 取得多個清單
@@ -78,7 +83,7 @@ RTP設定行銷活動頁面現在[包含現成的範本](/help/marketo/product-d
 
 ## RTP： JavaScript API增強功能 {#rtp-javascript-api-enhancements}
 
-新的RTP API呼叫可取得即時訪客資料，例如組織、產業、地點和區段代碼相符。 此外，將游標暫留在「區段」頁面中的區段名稱上，會顯示顯示區段代碼的工具提示。 如需完整檔案，請參閱我們的[開發人員網站](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)。
+新的RTP API呼叫可取得即時訪客資料，例如組織、產業、地點和區段代碼相符。 此外，將游標暫留在「區段」頁面中的區段名稱上，會顯示顯示區段代碼的工具提示。 如需完整檔案，請參閱我們的[開發人員網站](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)。
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 

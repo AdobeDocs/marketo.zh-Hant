@@ -4,9 +4,11 @@ description: 發行說明 — 2013年7月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2013年7月
 exl-id: efff413f-99fe-4db6-839b-1a922f8581d9
 feature: Release Information
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/bKeaJfenSkZgMzERv2zJNTN4-SjckTVGSVvWV6DVY7Q
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: 205
 ht-degree: 1%
 
 ---

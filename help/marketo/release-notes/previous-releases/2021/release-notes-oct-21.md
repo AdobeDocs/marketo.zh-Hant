@@ -3,9 +3,14 @@ description: 發行說明 — 2021年10月 — Marketo檔案 — 產品檔案
 title: 發行說明 - 2021 年 10 月
 exl-id: 6b363c9b-7abe-4576-a362-0ad5cf515c02
 feature: Release Information
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/lJDSwy-83svV2pbHrXQvM4nEEidAPfcBeRz-Z3LmVjk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2: id: d0251300-e25f-466f-9856-7e11ce8fa7aaid: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+topic_v2: id: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '1110'
+source-wordcount: 1110
 ht-degree: 2%
 
 ---
@@ -56,7 +61,7 @@ ht-degree: 2%
 
 * **新電子郵件、網頁活動、匿名網頁活動儀表板**：我們新增了新的銷售儀表板，以通知賣家其銷售機會和連絡人最近的電子郵件和網頁活動。 透過新的篩選功能，儀表板現在可將insight提供給電子郵件開啟、點按和網頁瀏覽次數，以獲得完整的帳戶清單或特定帳戶。 Marketo Engage會追蹤所有網路活動，並為銷售人員提供重要資訊，將匿名流量轉化為銷售機會。 賣家可以個人化參與度，並更快將銷售線索轉換為銷售，因為他們更瞭解銷售線索行為，並根據所有接觸點的相關性行事。
 
-[!DNL Salesforce]&#x200B;**的**&#x200B;[!DNL Sales Insight]
+[!DNL Salesforce]**的**[!DNL Sales Insight]
 
 * **帳戶和機會層級[!UICONTROL Best Bets]**： [!DNL Sales Insight]現在讓銷售代表能夠檢閱他們擁有的帳戶或機會上所有連絡人的首選，即使連絡人已指派給不同的團隊成員。 這可讓帳戶和機會擁有者完整地瞭解相關聯絡人的活動，並協助他們根據帳戶或機會的更整體檢視採取行動。
 

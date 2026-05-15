@@ -4,9 +4,12 @@ description: 瞭解Marketo中的參與計畫、串流、內容、轉換和步調
 title: 了解參與方案
 exl-id: dd573749-5ae6-4794-a340-b5139c316cce
 feature: Engagement Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/miGzcAIMh0IHswARcX7HBevGHcIfAlMTagF-nF9RznE
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: 290
 ht-degree: 93%
 
 ---
@@ -42,7 +45,7 @@ ht-degree: 93%
 
 ## 內容 {#content}
 
-您可以新增兩種類型的&#x200B;**內容**&#x200B;至參與方案資料流 - 電子郵件和方案。系統會在投放時間將電子郵件傳送給人員。
+您可以新增兩種類型的&#x200B;**內容**&#x200B;至參與方案資料流 - 電子郵件和方案。 系統會在投放時間將電子郵件傳送給人員。
 
 ![](assets/image2014-9-15-15-3a25-3a18.png)
 
@@ -64,7 +67,7 @@ ht-degree: 93%
 
 ## 資料流頻率 {#stream-cadence}
 
-您可以透過設定&#x200B;**資料流頻率**&#x200B;來決定何時進行投放。這就是排程內容以在固定間隔投放的方式。
+您可以透過設定&#x200B;**資料流頻率**&#x200B;來決定何時進行投放。 這就是排程內容以在固定間隔投放的方式。
 
 ![](assets/image2014-9-15-15-3a25-3a27.png)
 
@@ -74,7 +77,7 @@ ht-degree: 93%
 
 ## 人員頻率 {#person-cadence}
 
-**人員頻率**&#x200B;指一種狀態，用於定義其從參與方案中接收內容的能力。您可以使用&#x200B;**[!UICONTROL Change Engagement Program Cadence]**&#x200B;流程步驟將此變更為 [!UICONTROL Paused] 或 [!UICONTROL Normal]。
+**人員頻率**&#x200B;指一種狀態，用於定義其從參與方案中接收內容的能力。 您可以使用&#x200B;**[!UICONTROL Change Engagement Program Cadence]**&#x200B;流程步驟將此變更為 [!UICONTROL Paused] 或 [!UICONTROL Normal]。
 
 ![](assets/image2014-9-15-15-3a25-3a55.png)
 
@@ -90,7 +93,7 @@ ht-degree: 93%
 
 ## 內容參與等級 {#content-engagement-level}
 
-內容參與等級是 Marketo 對您的內容所給予的 0 到 100 的評分。此數字是由開啟次數、點按次數、取消訂閱數量、方案成功及其他要素所組成的複雜公式計算而來。
+內容參與等級是 Marketo 對您的內容所給予的 0 到 100 的評分。 此數字是由開啟次數、點按次數、取消訂閱數量、方案成功及其他要素所組成的複雜公式計算而來。
 
 >[!MORELIKETHIS]
 >

@@ -3,9 +3,13 @@ description: 瞭解關於Dynamic Chat Analytics儀表板的參與度和效能。
 title: 分析
 feature: Dynamic Chat
 exl-id: 8130a970-4cf1-4bf6-9403-998460269843
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/50vtNoN8ZR9w062QfNp3Y3Fh21R-XH8oQr17JO3pJOw
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: 276
 ht-degree: 3%
 
 ---

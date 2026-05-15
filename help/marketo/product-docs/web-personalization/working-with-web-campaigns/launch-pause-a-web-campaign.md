@@ -4,16 +4,20 @@ description: 瞭解如何在Marketo Engage中啟動/暫停網路行銷活動，�
 title: 啟動/暫停網頁行銷活動
 exl-id: ce85a5ef-dd53-4298-a521-4b6d0032e111
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/2aoTXa5-MW2w0OxaB3cX7WZ-skSb1sf-Yy0s5q44E8w
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: 164
 ht-degree: 7%
 
 ---
 
 # 啟動/暫停網頁行銷活動 {#launch-pause-a-web-campaign}
 
-網路行銷活動是與特定區段關聯的自訂反應，可以是您網站上的[對話方塊](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)、區域取代[中的](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)、Widget功能或電子郵件警示。
+網路行銷活動是與特定區段關聯的自訂反應，可以是您網站上的[對話方塊](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)、區域取代](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)中的[、Widget功能或電子郵件警示。
 
 您可以從[!UICONTROL Web Campaigns]頁面或[!UICONTROL Set Web Campaigns]頁面以兩種方式啟動或暫停網路行銷活動。
 

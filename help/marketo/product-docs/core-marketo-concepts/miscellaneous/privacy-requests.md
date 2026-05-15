@@ -2,9 +2,12 @@
 description: 瞭解如何在Marketo中管理存取和刪除的隱私權請求。 透過Privacy Service UI或API提交請求，並處理消費者資料。
 title: 隱私請求
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
+TQID: https://experienceleague.adobe.com/o4xyJMLpbHADyAhsfVbxnQA-WdXfhSx-LCmN9-4IvYI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '371'
+source-wordcount: 371
 ht-degree: 20%
 
 ---
@@ -25,7 +28,7 @@ ht-degree: 20%
 
 您可以透過兩種方式提交存取和刪除Marketo Engage中消費者資料的個別請求：
 
-* 透過Privacy Service UI： `https://experience.adobe.com/#/@YOURCOMPANYNAME/privacy`。 請參閱[此處](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=zh-Hant){target="_blank"}的文件。
+* 透過Privacy Service UI： `https://experience.adobe.com/#/@YOURCOMPANYNAME/privacy`。 請參閱[此處](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html){target="_blank"}的文件。
 * 透過Privacy Service API。 請參閱[此處](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"}的文件與[此處](https://developer.adobe.com/experience-platform-apis/){target="_blank"}的 API 資訊。
 
 [Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=zh-Hant){target="_blank"}支援兩種請求：資料存取和資料刪除。

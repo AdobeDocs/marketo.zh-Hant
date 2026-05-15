@@ -3,9 +3,13 @@ unique-page-id: 11380218
 description: 發行說明 — 夏季16年 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2016年夏天
 exl-id: 3843668e-c729-42aa-b05c-55c33ee0d783
-source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
+TQID: https://experienceleague.adobe.com/8CDFBAF3ww-2MEGQ4ypWIZclmfCj6ncATdebtubOUk4
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080bid: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '798'
+source-wordcount: 798
 ht-degree: 0%
 
 ---
@@ -99,7 +103,7 @@ Marketo帳戶式行銷在一個統一的平台上提供所有基本功能：
 
 離線檢視內容分析和建議資料。
 
-## 電子郵件編輯器2.0[&#128279;](https://developers.marketo.com/documentation/asset-api/)的API支援 {#api-support-for-email-editor}
+## 電子郵件編輯器2.0](https://developers.marketo.com/documentation/asset-api/) {#api-support-for-email-editor}的[API支援
 
 先前僅與v1.0電子郵件和範本相容的既有資產API，現在可供v2.0電子郵件資產使用。
 

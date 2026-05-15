@@ -3,9 +3,12 @@ description: 繼承例項檔案您的設定 — Marketo檔案 — 產品檔案
 title: 繼承例項檔案您的設定
 feature: Getting Started
 exl-id: 57057a05-b05a-4451-a13f-05729d5410dc
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/nmRkM3TVZyi9ZwXxwM-nXNg-6qJoqx-cBL4ALs2zWXI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: 299
 ht-degree: 3%
 
 ---
@@ -46,7 +49,7 @@ ht-degree: 3%
   <tr>
    <td>資料字典</td>
    <td><li>是否有單獨的資料字典說明可用的欄位？
-   <br/>     如果沒有，請考慮在行銷營運團隊可存取的資料夾中建立一個傳送。</li></td>
+   <br/>如果沒有，請考慮在行銷作業團隊可存取的資料夾中建立一個資料夾。</li></td>
   </tr>
   <tr>
    <td>組織</td>
@@ -61,7 +64,7 @@ ht-degree: 3%
   <tr>
    <td>教戰手冊</td>
     <td><li>貴組織有使用者或管理員行動手冊嗎？
-    <br/>     若是如此，請據此更新這些專案。</li></td>
+    <br/>若是如此，請更新這些專案。</li></td>
   </tr>
   <tr>
    <td>與內部利害關係人的對話</td>

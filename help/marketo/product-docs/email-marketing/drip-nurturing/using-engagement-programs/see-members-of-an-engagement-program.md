@@ -4,10 +4,13 @@ description: 瞭解如何檢視參與計畫的成員。
 title: 查看參與方案的成員
 exl-id: c30b3333-3ea8-44e7-a911-a0b6584da7cb
 feature: Engagement Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/XtdLnvKfOdY4rFerr-WdCeyptjFpQEF-oVZLdM-hNM0
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 24%
+source-wordcount: 59
+ht-degree: 23%
 
 ---
 

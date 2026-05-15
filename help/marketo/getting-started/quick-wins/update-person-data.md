@@ -4,9 +4,13 @@ description: 更新人員資料 — Marketo檔案 — 產品檔案
 title: 更新人員資料
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/-8fM9lrZT-YHWzC08KAsM917s-QfP-j-NisIydqSG0o
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: c5f60233-d5ea-4453-a799-0ad258b4d399
+subfeature_v2: id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: 181
 ht-degree: 17%
 
 ---
@@ -64,7 +68,7 @@ ht-degree: 17%
 
 做得好！ 您已更新個人資料。
 
-<br>
+<br> 
 
 [◄任務8：警示銷售代表](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
 

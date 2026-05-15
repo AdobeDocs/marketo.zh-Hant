@@ -4,9 +4,12 @@ description: 瞭解如何測試Facebook Lead Ads與Marketo的案頭整合。 驗
 title: 測試與 Marketo 桌面應用程式整合的 Facebook 商機廣告
 exl-id: 2025b6e9-ecd7-4677-9f76-bc7813884e93
 feature: Integrations
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/I4eS9oQyilDMuEigreugkCgPCKvfCw1uX3zSmKyftN8
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: c5f60233-d5ea-4453-a799-0ad258b4d399
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: 196
 ht-degree: 5%
 
 ---
@@ -41,7 +44,7 @@ ht-degree: 5%
 
    ![](assets/image2016-5-13-14-3a52-3a57.png)
 
-1. 提交表單後，在Marketo[&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)中建立智慧清單，作為使用已填妥[!DNL Facebook]潛在客戶廣告表單篩選器的程式或資料庫的一部分。 插入您提交之表單的銷售機會廣告表單名稱。
+1. 提交表單後，在Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)中建立智慧清單，作為使用已填妥[!DNL Facebook]潛在客戶廣告表單篩選器的程式或資料庫的一部分。 [插入您提交之表單的銷售機會廣告表單名稱。
 
    ![](assets/image2016-3-11-8-3a59-3a34-1.png)
 

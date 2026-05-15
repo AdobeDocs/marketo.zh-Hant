@@ -3,9 +3,12 @@ description: 瞭解如何在Sales Connect中設定Marketo連線。 將Sales Conn
 title: 設定您的 Marketo 連線
 exl-id: 5b499c73-1319-4a58-ac49-61ae5558c05f
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/7fRQ1yvSR3t4KrxEv8Au-sSkM6dRrsLy-TG9Kyt42UI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: 168
 ht-degree: 5%
 
 ---
@@ -14,7 +17,7 @@ ht-degree: 5%
 
 >[!NOTE]
 >
->布建MSC時，Marketo會自動將您的認證傳送至[!DNL Sales Connect]，並將您的執行個體連線至Marketo。 只有在布建&#x200B;**執行個體後未看到已建立的連線**&#x200B;時，才需要[!DNL Sales Connect]此步驟。 如果已建立連線，您會在Marketo管理設定頁面上看到您所輸入的認證。
+>布建MSC時，Marketo會自動將您的認證傳送至[!DNL Sales Connect]，並將您的執行個體連線至Marketo。 只有在布建[!DNL Sales Connect]執行個體後未看到已建立的連線&#x200B;**時，才需要**&#x200B;此步驟。 如果已建立連線，您會在Marketo管理設定頁面上看到您所輸入的認證。
 
 ## 在連線[!DNL Sales Connect]與Marketo之前取得認證 {#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
 

@@ -4,16 +4,19 @@ description: 瞭解如何升級適用於Microsoft Dynamics的Marketo Sales Insig
 title: 升級適用於 Microsoft Dynamics 的 Marketo 銷售洞察解決方案
 exl-id: ddc26dc6-7552-4fac-8102-657ecd8c9445
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/z8kco6heN6FNMHz9QOecDdG-4thgtsrfrc9D-UCwbsY
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: 126
 ht-degree: 14%
 
 ---
 
-# 升級[!DNL Marketo Sales Insight]的[!DNL Microsoft Dynamics]解決方案 {#upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics}
+# 升級[!DNL Microsoft Dynamics]的[!DNL Marketo Sales Insight]解決方案 {#upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics}
 
-當針對[!DNL Microsoft Dynamics]發行新的[!DNL Sales Insight]解決方案時，您可以從帳戶的[!UICONTROL Admin]區域下載升級。
+當針對[!DNL Sales Insight]發行新的[!DNL Microsoft Dynamics]解決方案時，您可以從帳戶的[!UICONTROL Admin]區域下載升級。
 
 >[!NOTE]
 >

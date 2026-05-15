@@ -4,9 +4,12 @@ description: 瞭解Sales Connect中的管理員與非管理員使用者許可權
 title: 使用者存取權詳細資料
 exl-id: 6a61176c-acbd-4684-983f-1c5af0ca6187
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/R6ZtthzpNCoE7mMQX3NxjBcrpMBRPCDILsVz5-aGWRY
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: 248
 ht-degree: 2%
 
 ---

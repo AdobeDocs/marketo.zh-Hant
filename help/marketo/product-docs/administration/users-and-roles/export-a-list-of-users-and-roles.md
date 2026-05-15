@@ -4,9 +4,14 @@ description: 瞭解如何匯出使用者和角色清單。
 title: 匯出使用者和角色清單
 exl-id: dd3c5372-4c34-438c-8f47-34ae2d14db24
 feature: Users and Roles
-source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
+TQID: https://experienceleague.adobe.com/KbRT6OCSe2p6-YV08whIupME5APvunplDr96X-bm2z0
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+subfeature_v2: id: fc5c4f1e-5467-43ac-94e9-0acfa71c517d
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: 70
 ht-degree: 28%
 
 ---

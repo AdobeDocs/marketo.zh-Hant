@@ -4,9 +4,12 @@ description: 瞭解如何在方案排程檢視中編輯專案。 變更排程專
 title: 在方案排程視圖中編輯條目
 exl-id: f04cfb84-ff96-4f4e-ab0d-d4b0b95a9f9c
 feature: Programs
-source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
+TQID: https://experienceleague.adobe.com/RAXx0COw9TQF8cPRaapIgoj9eXaidec7UtYxP9P268k
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: 143
 ht-degree: 10%
 
 ---

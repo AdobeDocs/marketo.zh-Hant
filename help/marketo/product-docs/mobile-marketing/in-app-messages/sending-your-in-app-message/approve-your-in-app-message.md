@@ -4,10 +4,12 @@ description: 瞭解如何核准您的應用程式內訊息，以將其啟動。 
 title: 核准您的應用程式內訊息
 exl-id: 3ebd857e-8caa-45f3-a53c-fa2df2a81d36
 feature: Mobile Marketing
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/MODdLWOZwhG8ojcd1sZQdP9v-c9Jo8lKVngIvzJ4ZXs
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '328'
-ht-degree: 3%
+source-wordcount: 328
+ht-degree: 0%
 
 ---
 
@@ -23,7 +25,7 @@ ht-degree: 3%
    >
    >如果傳送程式的任何部分不完整（例如，應用程式內訊息未核准），則會出現警告訊息，指出需要注意的區域。 請修正此問題，您應該會在步驟2看到訊息。
 
-1. 按一下「**[!UICONTROL Approve and Launch]**」。
+1. 按一下&#x200B;**[!UICONTROL Approve and Launch]**。
 
    ![](assets/pasted-image-at-2016-05-31-02-08-pm.png)
 

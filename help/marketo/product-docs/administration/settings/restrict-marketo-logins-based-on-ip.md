@@ -4,9 +4,13 @@ description: 瞭解如何允許或封鎖依IP位址的Marketo登入。
 title: 根據 IP 限制 Marketo 登入
 exl-id: 5d9d0b88-b4bc-4e1b-b70c-2c2e7b4269f5
 feature: Administration
-source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
+TQID: https://experienceleague.adobe.com/05hhFeXOdOg2zw9ioSV3kVI9DbDscpjx-s9SKYVDzv0
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: 233
 ht-degree: 9%
 
 ---
@@ -21,7 +25,7 @@ ht-degree: 9%
 
 >[!IMPORTANT]
 >
->Adobe Admin Console (AAC)支援[IP型存取控制](https://helpx.adobe.com/tw/enterprise/using/ip-based-access.html){target="_blank"}。 為確保順暢轉換，在啟用此功能的訂閱中，現有Marketo Engage IP限制將啟用，包括到2027年第1季的Adobe ID使用者。
+>Adobe Admin Console (AAC)支援[IP型存取控制](https://helpx.adobe.com/enterprise/using/ip-based-access.html){target="_blank"}。 為確保順暢轉換，在啟用此功能的訂閱中，現有Marketo Engage IP限制將啟用，包括到2027年第1季的Adobe ID使用者。
 >
 >* 您可以隨時設定AAC IP型存取。
 >* AAC和Marketo Engage限制可以同時執行。 使用相同的IP允許清單以瞭解相容性。

@@ -4,9 +4,12 @@ description: 瞭解如何將電子郵件移至不同的程式或資料夾。 重
 title: 移動電子郵件
 exl-id: 1ad7940c-b06f-48d4-8564-aedda8f7029a
 feature: Email Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/aLEEHp-4EKjKKKb9XxwgDJDDLP4O4aQ3mAgETAnCGRU
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: 106
 ht-degree: 10%
 
 ---

@@ -3,10 +3,15 @@ description: 最新發行說明 - Marketo 文件 - 產品文件
 title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: b1c177e03fab297e5f94b1848103ac3239e4d079
+TQID: https://experienceleague.adobe.com/QJFy7PeGXlvS3jcJGcZJROlc8c1UvphO-TOOwPUQeX8
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: f71e690b-4480-4b67-9ef5-88f42f9cdfdbid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: c942e9f6-ed06-481a-abdd-1195363d1452
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a04ec3931933c8e6cc0a0ffc26b1b559cd7cc9ce
 workflow-type: tm+mt
-source-wordcount: '462'
-ht-degree: 23%
+source-wordcount: 531
+ht-degree: 20%
 
 ---
 
@@ -31,6 +36,17 @@ ht-degree: 23%
    <td><strong>電子郵件Designer — 管理品牌（測試版）</strong>：根據您組織/品牌的特定撰寫准則產生電子郵件內容。</td>
    <td>已發行</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/brands/manage-brands.md" target="_blank">建立和管理品牌</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>電子郵件Designer — 片段中的可編輯HTML元件</strong>：在視覺片段中，透過元件屬性面板的影像、文字和按鈕元件支援可編輯欄位。 針對HTML元件，可編輯欄位的設定方式不同，在HTML元件本身的原始程式碼中使用以變數為基礎的語法。
+   </td>
+   <td>已發行</i></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments#editable-html" target="_blank">片段中的可編輯HTML元件</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -81,7 +97,7 @@ ht-degree: 23%
 
 ## 公告 {#announcements}
 
-* **SEO功能淘汰**： 2026年3月31日（星期二），Marketo Engage將淘汰搜尋引擎最佳化功能(SEO)。 如果您未主動使用SEO，則不必執行任何動作。 如果您最近曾使用SEO，您可以選擇匯出資料。 [了解更多](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617?profile.language=zh-Hant){target="_blank"}。
+* **SEO功能淘汰**： 2026年3月31日（星期二），Marketo Engage將淘汰搜尋引擎最佳化功能(SEO)。 如果您未主動使用SEO，則不必執行任何動作。 如果您最近曾使用SEO，您可以選擇匯出資料。 [了解更多](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617){target="_blank"}。
 
 * **REST API合併潛在客戶限制**：自2026年3月31日起，在合併潛在客戶API呼叫的leadIds引數中包含超過25個ID的呼叫將產生1080錯誤碼，該呼叫將被跳過。 需要將超過25筆記錄合併成一筆的工作應分割成多個工作，以確保這些呼叫成功。
 

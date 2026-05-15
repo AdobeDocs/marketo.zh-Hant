@@ -3,9 +3,13 @@ description: 瞭解如何在互動式網路研討會中新增網路研討會團�
 title: 新增網路研討會團隊
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/7BngiRMzOdPMZSQkgDOY07ggRv-3zLzOKYJDlMjGAg0
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+subfeature_v2: id: ffdd6159-0e10-4a57-8021-94e93bab8183
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '455'
+source-wordcount: 455
 ht-degree: 2%
 
 ---
@@ -54,7 +58,7 @@ ht-degree: 2%
 
 ## 新增簡報者 {#add-a-presenter}
 
-1. 在互動式網路研討會的[概觀]頁面中，按一下[新增主持人]。**&#x200B;**
+1. 在互動式網路研討會的[概觀]頁面中，按一下[新增主持人]。****
 
    ![](assets/add-a-webinar-team-5.png)
 

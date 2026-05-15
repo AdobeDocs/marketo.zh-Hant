@@ -4,9 +4,14 @@ description: 瞭解如何設定使用者和角色的TAM許可權。 授與Access
 title: 權限
 exl-id: 18206046-15b9-47bc-bea7-88f207dd4021
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+TQID: https://experienceleague.adobe.com/v2ZKk665quFgJvFof7pw-o194dmA5h0vgVG65k0ft24
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+subfeature_v2: id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: 138
 ht-degree: 4%
 
 ---
@@ -31,7 +36,7 @@ ht-degree: 4%
 
    ![](assets/three-2.png)
 
-1. 輸入[!UICONTROL Role Name]並按一下&#x200B;**核取方塊旁的**+**[!UICONTROL Access Target Account Management]**&#x200B;圖示。
+1. 輸入[!UICONTROL Role Name]並按一下&#x200B;**[!UICONTROL Access Target Account Management]**&#x200B;核取方塊旁的&#x200B;**+**&#x200B;圖示。
 
    ![](assets/permissions-4.png)
 

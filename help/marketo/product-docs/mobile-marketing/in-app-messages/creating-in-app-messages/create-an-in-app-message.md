@@ -3,10 +3,12 @@ description: 瞭解如何建立應用程式內訊息。 將其新增至行銷活
 title: 建立應用程式內訊息
 exl-id: 4efcdfe6-c1c3-4082-8eab-3e83c5cefa00
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+TQID: https://experienceleague.adobe.com/ayEZLuHoATSPe6vXQN8iEjzNYHWWUIqlfDFVZZEx5Mw
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 5%
+source-wordcount: 129
+ht-degree: 6%
 
 ---
 

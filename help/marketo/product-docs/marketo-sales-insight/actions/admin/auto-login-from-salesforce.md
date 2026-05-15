@@ -3,16 +3,18 @@ description: 瞭解如何從Salesforce啟用自動登入，以便使用者自動
 title: 從Salesforce自動登入
 exl-id: 3b788af5-6204-40f8-af79-74729de45744
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/q6r5vG5dwpOpfUAaJ98MGhf5PW8ppw3bYv-Yv52A5DY
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: 97
 ht-degree: 0%
 
 ---
 
 # 從[!DNL Salesforce]自動登入 {#auto-login-from-salesforce}
 
-自動登入可讓[!DNL Sales Insight Actions]使用者在從[!DNL Sales Insight Actions]工作時自動驗證[!DNL Salesforce]。
+自動登入可讓[!DNL Sales Insight Actions]使用者在從[!DNL Salesforce]工作時自動驗證[!DNL Sales Insight Actions]。
 
 若要使用自動登入：
 

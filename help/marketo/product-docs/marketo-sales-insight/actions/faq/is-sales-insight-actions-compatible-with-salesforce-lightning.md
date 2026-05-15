@@ -4,9 +4,11 @@ title: 銷售洞察動作是否與 Salesforce Lightning 相容？
 hide: true
 exl-id: 6c119652-8243-4fd2-ad29-1d87ffebf757
 feature: Sales Insight Actions
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+TQID: https://experienceleague.adobe.com/C1GKstSDsWFFhd487wNCUjdd31w1iTMg8hTtS2o8aGY
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: 66
 ht-degree: 12%
 
 ---

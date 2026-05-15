@@ -4,10 +4,12 @@ description: 瞭解如何刪除TAM中的具名帳戶。 選取帳戶並使用具
 title: 刪除已命名帳戶
 exl-id: 47a1ce87-43ac-4f8f-94ab-7dec2730ab21
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+TQID: https://experienceleague.adobe.com/37EJbOPiCmRipZXheiEaLccKSzIdTjt5G0G8azhsxZM
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 9%
+source-wordcount: 110
+ht-degree: 10%
 
 ---
 

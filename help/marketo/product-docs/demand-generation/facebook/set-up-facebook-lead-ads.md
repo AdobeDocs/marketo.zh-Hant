@@ -4,9 +4,12 @@ description: 瞭解如何使用Marketo設定Facebook銷售機會廣告。 連線
 title: 設定 Facebook 商機廣告
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
 feature: Integrations
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/vyL9RjoAwl0pHjwXNf84UAdjIeoFBzlLgKMHN5IMw90
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '351'
+source-wordcount: 351
 ht-degree: 3%
 
 ---

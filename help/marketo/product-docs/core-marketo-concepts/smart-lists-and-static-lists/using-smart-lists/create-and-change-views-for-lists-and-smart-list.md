@@ -4,9 +4,11 @@ description: 瞭解如何建立和變更清單與智慧列示的檢視。 自訂
 title: 建立與變更清單和智慧清單視圖
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
 feature: Smart Lists
-source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
+TQID: https://experienceleague.adobe.com/2MeSAe-8Or9R-MpHcCuUhTVARl-xkweRcyqowWAlQEM
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: 214
 ht-degree: 8%
 
 ---

@@ -3,9 +3,14 @@ description: 發行說明 — 2021年5月 — Marketo檔案 — 產品檔案
 title: 發行說明 - 2021 年 5 月
 exl-id: e3de60a2-17bd-4760-848e-6e931ad85b3c
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/9YQq7Ynf4XGDyhYPq4-pB3Zwh89DD-H13h8E-BRInRQ
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+subfeature_v2: id: ad89fb33-8541-4339-afe7-bb13d1633714id: d0251300-e25f-466f-9856-7e11ce8fa7aaid: d5c7388a-594e-4d15-9b39-98d6ce479e8bid: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5id: ffdd6159-0e10-4a57-8021-94e93bab8183
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: d095671a-1355-40aa-8b5f-06c33c68080bid: e1e0219c-f879-479f-8427-888ed2a6e9c2id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '1436'
+source-wordcount: 1454
 ht-degree: 1%
 
 ---
@@ -28,7 +33,7 @@ ht-degree: 1%
 
 ## 新一代的使用者體驗 {#next-generation-user-experience}
 
-透過全域搜尋預覽，行銷人員可快速檢視共用資產存在於其例項中的位置。 瀏覽器索引標籤會顯示位置，以改善[!UICONTROL Marketing Activities]或[!UICONTROL Design Studio]中的導覽。 其他樹狀結構和全域搜尋篩選器有助於縮小您的搜尋條件。 樹狀結構中的拖放功能已恢復，讓您在主要應用程式區域中快速且有效率地行動資料夾和資產。 最新更新的圖示(符合Adobe的協助工具標準)和狀態徽章可讓行銷人員在樹狀結構中快速輕鬆地區分資料夾和資產，並識別計畫和資產的狀態。
+透過全域搜尋預覽，行銷人員可快速檢視共用資產存在於其例項中的位置。 瀏覽器索引標籤會顯示位置，以改善[!UICONTROL Marketing Activities]或[!UICONTROL Design Studio]中的導覽。 其他樹狀結構和全域搜尋篩選器有助於縮小您的搜尋條件。 樹狀結構中的拖放功能已恢復，讓您在主要應用程式區域中快速且有效率地行動資料夾和資產。 最新更新的圖示（符合Adobe的協助工具標準）和狀態徽章可讓行銷人員在樹狀結構中快速輕鬆地區分資料夾和資產，並識別計畫和資產的狀態。
 
 ## 體驗自動化 {#experience-automation}
 
@@ -82,7 +87,7 @@ ht-degree: 1%
 
 * **Marketo產品檔案切換平台**：我們很高興宣佈，自5月7日星期五起，Marketo產品檔案已加入Adobe Experience League。 您仍可使用URL： docs.marketo.com ，如果您有任何已建立書籤的現有文章，系統將會重新導向您。 新平台提供所有產品檔案，並計畫於今年晚些時候推出增強功能。
 
-* **簡化使用者管理及單一登入(由Adobe Identity System提供技術支援)**：自2021年7月起，新的Adobe Marketo Engage客戶將使用Adobe使用者認證上線。 目前客戶至整合式身分系統的移轉作業要到2022年年中才會進行，且客戶須另行通知後才能採取行動。 單一登入可讓IT/安全性管理員管理多個Adobe Marketo Engage產品執行個體及其他Experience Cloud解決方案，並透過共用主控台設定SSO （Shared Services組織）。 管理員可以透過通用Admin Console方便地管理使用者群組和使用者權益。
+* **簡化使用者管理及單一登入（由Adobe Identity System提供技術支援）**：自2021年7月起，新的Adobe Marketo Engage客戶將使用Adobe使用者認證上線。 目前客戶至整合式身分系統的移轉作業要到2022年年中才會進行，且客戶須另行通知後才能採取行動。 單一登入可讓IT/安全性管理員管理多個Adobe Marketo Engage產品執行個體及其他Experience Cloud解決方案，並透過共用主控台設定SSO （Shared Services組織）。 管理員可以透過通用Admin Console方便地管理使用者群組和使用者權益。
 
 **_產品發行網路研討會_**
 

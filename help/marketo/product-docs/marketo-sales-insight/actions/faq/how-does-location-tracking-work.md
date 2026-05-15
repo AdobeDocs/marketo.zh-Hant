@@ -3,9 +3,11 @@ description: 瞭解位置追蹤如何用於銷售電子郵件。 瞭解收集哪
 title: 位置追蹤如何運作
 exl-id: b4e0d121-0f3f-4477-b05a-466c8d2ac467
 feature: Sales Insight Actions
-source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
+TQID: https://experienceleague.adobe.com/OMtsvCFUgGLH-VyS8cuMMdZ-WSOCogIhqh9gSoKrMk0
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: 124
 ht-degree: 4%
 
 ---

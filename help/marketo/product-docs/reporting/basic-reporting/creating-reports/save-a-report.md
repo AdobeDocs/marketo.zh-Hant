@@ -4,9 +4,13 @@ description: 瞭解如何儲存預設報告，以便稍後透過從報告動作�
 title: 儲存報告
 exl-id: be6da793-1498-4ba1-8d65-e9c0fd5d1033
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/6FQT5RlZlJ05B3eKfmuDEFsmw7LQL1L3hJgKrEGN6Bc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: 92
 ht-degree: 10%
 
 ---

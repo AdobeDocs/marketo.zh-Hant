@@ -4,9 +4,13 @@ description: 瞭解建立推送和應用程式內訊息前的設定專案。 取
 title: 在您建立推播通知和應用程式內訊息之前
 exl-id: c7e24338-387b-4c6f-bb29-7f7e6a1a7de5
 feature: Mobile Marketing
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/YNAyIX3spLETvHChasi9xpP9K96ksYdkr-MSdGp2qog
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: 415
 ht-degree: 4%
 
 ---
@@ -19,13 +23,13 @@ ht-degree: 4%
 
 1. Marketo管理員接著[傳送程式碼片段給開發人員](/help/marketo/product-docs/mobile-marketing/admin/send-sdk-code-to-a-developer.md)。
 
-1. 開發人員下載適用於[Android](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)或[iOS](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios)的SDK，並包含程式碼片段和其他方法。
+1. 開發人員下載適用於[Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)或[iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios)的SDK，並包含程式碼片段和其他方法。
 
 1. 依預設，應用程式會在開啟時觸發應用程式內訊息。 如果您想要觸發其他事件的訊息，例如檢視特定頁面或按一下特定按鈕時，開發人員需要將自訂事件新增至程式碼（請參閱下方的[應用程式內訊息的自訂事件](#CustomEvents)）。
 
-1. 開發人員[會產生Android的伺服器API金鑰和專案編號](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)或[iOS的憑證和密碼](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios)，並將其傳送給Marketo管理員。
+1. 開發人員[會產生Android的伺服器API金鑰和專案編號](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)或[iOS的憑證和密碼](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios)，並將其傳送給Marketo管理員。
 
-1. Marketo管理員使用伺服器API金鑰(Android) [&#128279;](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)設定推播通知存取[，或使用憑證(iOS)](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)設定。
+1. Marketo管理員使用伺服器API金鑰(Android)](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)設定推播通知存取[，或使用憑證(iOS)](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)設定[。
 
 >[!TIP]
 >

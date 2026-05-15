@@ -3,9 +3,12 @@ description: 瞭解如何在Adobe Admin Console中新增或移除Dynamic Chat使
 title: 新增或移除聊天使用者
 feature: Dynamic Chat
 exl-id: 2f5237f7-edb2-4332-97f1-c5b904ce2d92
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/A-Avre-BoRF0UaSDGjqJtBOBTSCLS-JG0idp9LCAh2w
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: 260
 ht-degree: 16%
 
 ---

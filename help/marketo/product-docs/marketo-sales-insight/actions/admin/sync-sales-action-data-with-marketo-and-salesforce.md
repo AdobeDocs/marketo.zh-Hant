@@ -2,9 +2,12 @@
 description: 瞭解如何將Sales Insight Actions資料與Marketo Engage和Salesforce同步。
 title: 與 Marketo 和 Salesforce 同步銷售動作資料
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/SEElhIJ05KyqQUi5rLjSZjwFMdHDDO5is9Hqk7JxeIE
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '1068'
+source-wordcount: 1072
 ht-degree: 3%
 
 ---
@@ -71,7 +74,7 @@ Sales Insight Actions的資料統一欄位同步可讓系統從Marketo Engage資
 
 ## 為什麼銷售Insight Actions有自己的資料庫？ {#why-does-actions-have-its-own-database}
 
-Sales Insight Actions有自己的網頁應用程式，其中包含專屬的人員與活動資料庫，可提供專為銷售團隊建立及設計的最佳化工作區。 這可讓銷售經理和銷售商有空間建立和管理他們的參與策略   無需授與主要Marketo Engage工作區的存取權或許可權，此工作區已針對行銷作業專家最佳化。
+Sales Insight Actions有自己的網頁應用程式，其中包含專屬的人員與活動資料庫，可提供專為銷售團隊建立及設計的最佳化工作區。 這可讓銷售經理和賣家擁有建立和管理其參與策略的空間，而無需授與主要Marketo Engage工作區的存取權或許可權，而這是為行銷作業專家最佳化的。
 
 ## 如何處理重複專案？ {#how-are-duplicates-handled}
 

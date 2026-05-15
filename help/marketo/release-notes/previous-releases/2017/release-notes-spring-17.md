@@ -3,9 +3,13 @@ unique-page-id: 12977439
 description: 發行說明–2017年春季 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2017年春季
 exl-id: 61873d1f-41dd-4f5c-94d0-65f0bcacff75
-source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
+TQID: https://experienceleague.adobe.com/fOKUqseOxMRcof-p8wVETWCH0NAzKKFSA0Ue7E9Emwc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '633'
+source-wordcount: 677
 ht-degree: 0%
 
 ---
@@ -68,7 +72,7 @@ ABM具名帳戶上的&#x200B;**[百分位數評分](https://docs.marketo.com/dis
 
 在訪客關閉您的頁面之前吸引訪客的注意。 設定您的個人化[!UICONTROL Web Campaigns]，使其僅在滑鼠手勢指出訪客正在離開頁面時顯示。
 
-**[的[!UICONTROL Web Campaigns]](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**&#x200B;動畫效果
+[!UICONTROL Web Campaigns]](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**的**[&#x200B;動畫效果
 
 設定對話方塊網路促銷活動的動畫效果，以自訂進入或退出網頁時促銷活動的顯示方式。 您可以從6種不同的效果中選取，並控制對話方塊的時機和方向。
 

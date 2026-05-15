@@ -4,9 +4,11 @@ description: 瞭解Sales Connect中Gmail使用者的電子郵件連線。 連線
 title: Gmail 使用者的電子郵件連線
 exl-id: 024461f1-b1c0-40ff-bb1c-49846c57dabe
 feature: Marketo Sales Connect
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/gLjTc3K51lnsosWQHH7V02ObiNdi2sGCigPZLybmS-4
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: 190
 ht-degree: 11%
 
 ---

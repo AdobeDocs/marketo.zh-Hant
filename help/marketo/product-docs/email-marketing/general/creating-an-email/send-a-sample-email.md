@@ -4,9 +4,12 @@ description: 瞭解如何在啟動前傳送範例電子郵件以測試內容。 
 title: 傳送範例電子郵件
 exl-id: b8f845e8-5c5e-463d-9d60-9c8103cec5ac
 feature: Email Editor
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/Yvr5y1FFXhWZuE01GsIl0Jcnjhk5SffV2yo2hD156kA
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: 327
 ht-degree: 8%
 
 ---
@@ -56,7 +59,7 @@ ht-degree: 8%
 
    >[!NOTE]
    >
-   >觸發欄位僅適用於使用[電子郵件指令碼](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/email-scripting)的使用者。
+   >觸發欄位僅適用於使用[電子郵件指令碼](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)的使用者。
 
 ## 根據區段傳送範例電子郵件 {#send-a-sample-email-based-on-a-segment}
 

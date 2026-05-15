@@ -4,10 +4,13 @@ description: 發行說明 — 2012年5月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2012年5月
 exl-id: b951e986-359d-4da0-8654-4d9f1416cebb
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/GBXVTrpq498UQF0vsVxoK2hhgA5-kHVov2vFLGFw-Ts
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '638'
-ht-degree: 5%
+source-wordcount: 647
+ht-degree: 4%
 
 ---
 
@@ -25,7 +28,7 @@ ht-degree: 5%
 
 ![](assets/image2014-9-23-10-3a14-3a13.png)
 
-圖 1。指定要在營業日結束的等待步驟
+圖 1。 指定要在營業日結束的等待步驟
 
 ## 已封存的Assets已隱藏 {#archived-assets-hidden}
 
@@ -33,7 +36,7 @@ ht-degree: 5%
 
 ![](assets/image2014-9-23-10-3a14-3a28.png)
 
-圖 2。已封存電子郵件篩選的範例
+圖 2。 已封存電子郵件篩選的範例
 
 ## 適用於iPad的新事件簽入應用程式 {#new-event-check-in-app-for-ipad}
 
@@ -43,15 +46,15 @@ ht-degree: 5%
 
 ![](assets/image2014-9-23-10-3a14-3a46.png)
 
-圖 3。事件簽入首頁
+圖 3。 事件簽入首頁
 
 ![](assets/image2014-9-23-10-3a15-3a6.png)
 
-圖 4。活動簽入：選取您的活動！
+圖 4。 活動簽入：選取您的活動！
 
 ![](assets/image2014-9-23-10-3a15-3a27.png)
 
-圖 5。存回
+圖 5。 存回
 
 ## 增強型網路研討會確認URL {#enhanced-webinar-confirmation-url}
 
@@ -59,7 +62,7 @@ ht-degree: 5%
 
 ![](assets/image2014-9-23-10-3a15-3a44.png)
 
-圖 6。讓人員參加您的網路研討會
+圖 6。 讓人員參加您的網路研討會
 
 ## 範本預覽 {#template-preview}
 
@@ -67,7 +70,7 @@ ht-degree: 5%
 
 ![](assets/image2014-9-23-10-3a16-3a4.png)
 
-圖 7。預覽您選擇的範本
+圖 7。 預覽您選擇的範本
 
 ## 可設定的表單預填 {#configurable-form-prefill}
 
@@ -75,11 +78,11 @@ ht-degree: 5%
 
 ![](assets/image2014-9-23-10-3a16-3a22.png)
 
-圖 8。在Admin中的表單預填設定
+圖 8。 在Admin中的表單預填設定
 
 ![](assets/image2014-9-23-10-3a16-3a34.png)
 
-圖 9。編輯登陸頁面上的表單預填設定
+圖 9。 編輯登陸頁面上的表單預填設定
 
 ## Marketo國寶箱 {#marketo-treasure-chest}
 
@@ -87,7 +90,7 @@ ht-degree: 5%
 
 ![](assets/image2014-9-23-10-3a16-3a51.png)\
 
-圖 10。Admin中的Manager Treasure Chest功能
+圖 10。 Admin中的Manager Treasure Chest功能
 
 ## [!DNL Microsoft Dynamics]® CRM整合 {#microsoft-dynamics-crm-integration}
 
@@ -95,7 +98,7 @@ ht-degree: 5%
 
 ![](assets/image2014-9-23-10-3a17-3a6.png)
 
-圖 11。[!DNL Microsoft Dynamics]設定
+圖 11。 [!DNL Microsoft Dynamics]設定
 
 ## Marketo [!DNL Sales Insight]增強功能 {#marketo-sales-insight-enhancements}
 
@@ -105,7 +108,7 @@ ht-degree: 5%
 
 ![](assets/image2014-9-23-10-3a17-3a20.png)
 
-圖 12。Admin中的[!DNL Sales Insight]設定
+圖12。[!DNL Sales Insight] 管理員中的設定
 
 ## 銷售電子郵件範本的資料夾 {#folders-for-sales-email-templates}
 
@@ -113,7 +116,7 @@ ht-degree: 5%
 
 ![](assets/image2014-9-23-10-3a17-3a35.png)
 
-圖 13。選擇電子郵件的資料夾
+圖 13。 選擇電子郵件的資料夾
 
 ## 從[!DNL Sales Insight]存取機會分析器 {#access-opportunity-analyzer-from-sales-insight}
 
@@ -125,7 +128,7 @@ ht-degree: 5%
 
 ![](assets/image2014-9-23-10-3a17-3a47.png)
 
-圖 14。將自訂欄位對應至聯絡人
+圖 14。 將自訂欄位對應至聯絡人
 
 檢視匿名潛在客戶造訪的頁面
 
@@ -133,7 +136,7 @@ ht-degree: 5%
 
 ![](assets/image2014-9-23-10-3a17-3a59.png)
 
-圖 15。請參閱匿名網路活動
+圖 15。 請參閱匿名網路活動
 
 ## 增強型銷售機會與聯絡人訂閱 {#enhanced-lead-and-contact-subscribe}
 

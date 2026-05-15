@@ -4,9 +4,12 @@ description: 瞭解如何刪除智慧行銷活動。 從行銷活動中移除您
 title: 行銷活動動作 — 刪除智慧型行銷活動
 exl-id: 11a210c8-3375-4e12-a97f-a70a9115a197
 feature: Smart Campaigns
-source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
+TQID: https://experienceleague.adobe.com/j8FDanG2BKTL7ymw0xhBIcFbsu7u1j-gUfH-5zQpzLc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: 117
 ht-degree: 11%
 
 ---

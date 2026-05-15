@@ -4,9 +4,12 @@ description: 瞭解如何在Marketo中將新串流新增到您的參與計畫。
 title: 新增資料流
 exl-id: 3b46b9e3-aecd-4b21-b6f6-d682d0d517cf
 feature: Engagement Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/DjV7-AOEPHtFnooWkPCntLq0hwGlRk4Zl-Pbn3-1YPc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: 68
 ht-degree: 13%
 
 ---

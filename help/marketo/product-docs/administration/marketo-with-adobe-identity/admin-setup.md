@@ -3,9 +3,14 @@ description: Adobe系統管理員新增至Marketo Engage後的初始設定步驟
 title: 管理員設定
 exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
 feature: Marketo with Adobe Identity
-source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
+TQID: https://experienceleague.adobe.com/S6IJubZNpCISjsgF646MLAxliBqH8KyOnRETtiVv9gI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+subfeature_v2: id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: 246
 ht-degree: 4%
 
 ---
@@ -20,7 +25,7 @@ ht-degree: 4%
 
    ![](assets/admin-setup-1.png)
 
-1. 如果您先前曾透過Adobe ID存取應用程式，您將會直接進入Adobe Admin Console。 如果沒有，[請設定您的Adobe ID](https://helpx.adobe.com/tw/manage-account/using/create-update-adobe-id.html){target="_blank"}。
+1. 如果您先前曾透過Adobe ID存取應用程式，您將會直接進入Adobe Admin Console。 如果沒有，[請設定您的Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}。
 
    ![](assets/admin-setup-2.png)
 

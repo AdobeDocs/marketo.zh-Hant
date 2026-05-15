@@ -3,9 +3,11 @@ description: 瞭解如何透過群組電子郵件傳送銷售電子郵件。 使
 title: 透過群組電子郵件傳送電子郵件
 exl-id: 0099c0ee-dff2-4d7d-91cd-7d619405bac5
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/M4ZhsvqF5rQrBo9JUHUizghuCD6FXRWOCzzuuaFXOZk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: 164
 ht-degree: 7%
 
 ---

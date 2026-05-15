@@ -3,9 +3,13 @@ description: 瞭解互動式網路研討會的使用者和授權管理。 指派
 title: 使用者和授權管理
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/H5DYW3goJ2P8NiTehqYJiavEl7psxkOOFz29eHPsSpE
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+subfeature_v2: id: ffdd6159-0e10-4a57-8021-94e93bab8183
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '733'
+source-wordcount: 733
 ht-degree: 2%
 
 ---
@@ -28,7 +32,7 @@ ht-degree: 2%
 
    ![](assets/user-and-license-management-3.png)
 
-1. 按一下「可用的使用者」下拉式清單，選取您要新增的使用者，然後按一下「確定」**&#x200B;**。
+1. 按一下「可用的使用者」下拉式清單，選取您要新增的使用者，然後按一下「確定」****。
 
    ![](assets/user-and-license-management-4.png)
 

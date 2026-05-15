@@ -4,9 +4,12 @@ description: 瞭解如何設定參與計畫的串流步調。 排程每週或每
 title: 設定資料流頻率
 exl-id: 589eeefa-b2f6-4131-a72b-359c97ab98c0
 feature: Engagement Programs
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+TQID: https://experienceleague.adobe.com/FJkSjZFKVZb-nBY-xfkU6Vb9JsQYbIMrbKW7rPpOmmg
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: 362
 ht-degree: 3%
 
 ---

@@ -3,10 +3,15 @@ description: 網路請求程式範本。 將其用於閘道內容和表單提交
 title: WR-YYYY-MM-網路請求方案
 feature: Programs
 exl-id: 4acaa2d0-3329-4027-acbd-ae2e0ec6f7c5
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+TQID: https://experienceleague.adobe.com/0Pdc6vYIwuRc5eOsagXsVkHs4HcUWkfs-0PKydiLF3w
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: ea6641cb-8461-4151-a8a9-9faaa44a928a
+topic_v2: id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '405'
-ht-degree: 9%
+source-wordcount: 424
+ht-degree: 10%
 
 ---
 
@@ -14,7 +19,7 @@ ht-degree: 9%
 
 這是一個範例計畫，非常適用於使用Marketo Engage預設計畫的聯絡人請求、報價請求、示範請求或試用請求表單。 可與Marketo登陸頁面搭配使用，或作為非Marketo登陸頁面上的內嵌表單。 在提交表單時會傳送通知電子郵件給指定的個人。
 
-如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/tw/customers/consulting-services/main.html){target="_blank"}頁面。
+如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}頁面。
 
 ## 頻道摘要 {#channel-summary}
 
@@ -46,7 +51,7 @@ ht-degree: 9%
   </tr>
   <tr>
    <td>表單</td>
-   <td>  </td>
+   <td> </td>
    <td>FM-WebRequestForm</td>
   </tr>
   <tr>
@@ -66,33 +71,33 @@ ht-degree: 9%
   </tr>
   <tr>
    <td>本地報告</td>
-   <td>  </td>
+   <td> </td>
    <td>登陸頁面績效</td>
   </tr>
    <tr>
    <td>智慧行銷活動</td>
-   <td>  </td>
+   <td> </td>
    <td>從網路請求新增人員</td>
   </tr>
    <tr>
    <td>智慧行銷活動</td>
-   <td>  </td>
+   <td> </td>
    <td>網路研討會的新人員</td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td>  </td>
+   <td> </td>
    <td>Assets — 容納所有創意資產
 <br/>（警示和登陸頁面的子資料夾）</td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td>  </td>
+   <td> </td>
    <td>行銷活動 — 容納所有智慧行銷活動</td>
   </tr>
   <tr>
    <td>資料夾</td>
-   <td>  </td>
+   <td> </td>
    <td>報告</td>
   </tr>
  </tbody>

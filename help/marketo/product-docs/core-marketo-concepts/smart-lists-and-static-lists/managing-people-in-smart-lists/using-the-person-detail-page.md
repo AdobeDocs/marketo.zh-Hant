@@ -4,10 +4,14 @@ description: 瞭解如何使用人員詳細資料頁面。 檢視和編輯潛在
 title: 使用人員詳細資料頁面
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+TQID: https://experienceleague.adobe.com/ANLA7fu7O3m6mBjiY1b2z3UQH-PqWf6cAn5nQ5S3Yrk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '537'
-ht-degree: 26%
+source-wordcount: 552
+ht-degree: 25%
 
 ---
 
@@ -24,7 +28,7 @@ ht-degree: 26%
 * 方案的&#x200B;**成員**&#x200B;標籤
 * 在Smart Campaign中&#x200B;**檢視行銷活動成員**
 * 某些&#x200B;**報告**
-  <br>
+  <br> 
 
 1. 連按兩下任何人員或按一下左側的ID。
 
@@ -60,7 +64,7 @@ ht-degree: 26%
 
 >[!NOTE]
 >
->您也可以看到透過API[插入的商機資訊](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/lead-database/opportunities)，瞭解未與CRM同步的執行個體。
+>您也可以看到透過API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities)插入的商機資訊[，瞭解未與CRM同步的執行個體。
 
 ## 編輯欄位 {#editing-a-field}
 
@@ -88,7 +92,7 @@ ht-degree: 26%
 | Marketo社交[!DNL Twitter]像片URL | Marketo社交[!DNL Twitter]設定檔URL | Marketo社交[!DNL Twitter]觸及 | Marketo社交[!DNL Twitter]反向註冊 | Marketo社交[!DNL Twitter]轉介的造訪 |
 | 中間名 | 手機號碼 | 員工數 | 電話號碼 | 郵遞區號 |
 | 優先順序 | 相對分數 | 角色 | 稱謂 | 標準產業分類（SIC）代碼 |
-| 地點 | 狀態 | 已取消訂閱 | 退訂原因 | 更新時間 |
+| 現場 | 狀態 | 已取消訂閱 | 退訂原因 | 更新時間 |
 | 急迫性 | 網站 |  |  |  |
 
 >[!NOTE]

@@ -4,9 +4,11 @@ description: 電子郵件個人化 - Marketo 文件 - 產品文件
 title: 電子郵件個人化
 exl-id: 1562796e-da47-4305-b950-3bed1d36d339
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '319'
+TQID: https://experienceleague.adobe.com/T2rqqrkxA5tScMDEnJ4oEXSwuJKnb36bscUKg5aRXhc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+workflow-type: tm+mt
+source-wordcount: 320
 ht-degree: 100%
 
 ---
@@ -29,9 +31,9 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >此動作會以草稿形式建立一封電子郵件副本。請記得核准草稿讓變更生效。
+   >此動作會以草稿形式建立一封電子郵件副本。 請記得核准草稿讓變更生效。
 
-在未啟用快顯視窗封鎖程式的情況下，電子郵件編輯器會在新的索引標籤/視窗中開啟。若未開啟，請按一下「**[!UICONTROL Create Draft]**」兩次。
+在未啟用快顯視窗封鎖程式的情況下，電子郵件編輯器會在新的索引標籤/視窗中開啟。 若未開啟，請按一下「**[!UICONTROL Create Draft]**」兩次。
 
 ## 步驟 2：讓銷售人員成為寄件者 {#step-make-the-salesperson-the-sender}
 
@@ -47,11 +49,11 @@ ht-degree: 100%
 
    ![](assets/personalize-an-email-4.png)
 
-1. 於「**預設值**」欄位輸入您的公司名稱並加上一個破折號 (-)，確保當銷售代表的名字無法使用時仍能顯示某些內容。按一下「**插入**」。
+1. 於「**預設值**」欄位輸入您的公司名稱並加上一個破折號 (-)，確保當銷售代表的名字無法使用時仍能顯示某些內容。 按一下「**插入**」。
 
    ![](assets/personalize-an-email-5.png)
 
-1. 在「**[!UICONTROL From]**」欄位中按下空白鍵，確認在您剛插入的權杖後面一個空格處，有游標正在閃爍。然後再次按一下「**權杖**」圖示。
+1. 在「**[!UICONTROL From]**」欄位中按下空白鍵，確認在您剛插入的權杖後面一個空格處，有游標正在閃爍。 然後再次按一下「**權杖**」圖示。
 
    ![](assets/personalize-an-email-6.png)
 
@@ -95,13 +97,13 @@ ht-degree: 100%
 
 >[!TIP]
 >
->需要快速複習如何傳送電子郵件給自己嗎？請參閱[傳送群發電子郵件](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"}。
+>需要快速複習如何傳送電子郵件給自己嗎？ 請參閱[傳送群發電子郵件](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"}。
 
 ### 任務完成 {#mission-complete}
 
 恭喜，您已製作出個人化的電子郵件！
 
-<br>
+<br> 
 
 [◄ 任務 6：點滴式培養](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
 

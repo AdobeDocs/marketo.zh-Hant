@@ -4,9 +4,11 @@ description: 瞭解如何在Marketo中將表單新增到引導式登陸頁面。
 title: 新增表單至引導式登陸頁面
 exl-id: 480da9ab-909e-4eb5-83c2-34de56b05c78
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/rWlijjPdA6LW-7FBx-wSwolGY0thdJQGn6xg6mYkukk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: 174
 ht-degree: 12%
 
 ---

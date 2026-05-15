@@ -3,9 +3,13 @@ description: 瞭解Dynamic Chat中的Generative AI，瞭解代理程式生產力
 title: Dynamic Chat中的Generative AI
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/Q5f-5suH6XCiuGhqnyPEu1hjWbtIXBaLOoz5VX7gC6o
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '472'
+source-wordcount: 472
 ht-degree: 4%
 
 ---

@@ -3,9 +3,12 @@ description: 瞭解Dynamic Chat中的對話方塊作為個別聊天對話。 定
 title: 對話概觀
 feature: Dynamic Chat
 exl-id: c5e5650f-5f34-4c04-b287-62556bc35593
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/rO2ieaHlOARDMHbJq006NUub2UD-FTKQIj5VYXF9NqI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: 269
 ht-degree: 7%
 
 ---

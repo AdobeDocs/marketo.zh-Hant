@@ -3,9 +3,12 @@ description: 瞭解如何以管理員身分設定銷售Insight動作。 設定Ma
 title: 銷售洞察動作管理員設定指南
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
 feature: Sales Insight Actions
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/OSNakPU4zEu-ORacv80glsvfhIeC-XfwtAcvuE3Iacw
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '627'
+source-wordcount: 627
 ht-degree: 4%
 
 ---

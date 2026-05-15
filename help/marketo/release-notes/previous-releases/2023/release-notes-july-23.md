@@ -3,9 +3,13 @@ description: 發行說明 — 2023年7月 — Marketo檔案 — 產品檔案
 title: 版本注意事項 - 2023 年 7 月
 feature: Release Information
 exl-id: 4056353c-4125-4849-8350-59c58afb9e66
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/-7-rFhUAQhG90TYYv6TEUw8p9iDInRcAYM-I25fjR6E
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '664'
+source-wordcount: 664
 ht-degree: 16%
 
 ---

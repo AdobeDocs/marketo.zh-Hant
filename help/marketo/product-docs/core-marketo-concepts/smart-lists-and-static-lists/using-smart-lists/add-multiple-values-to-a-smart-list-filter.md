@@ -4,9 +4,12 @@ description: 瞭解如何將多個值新增至智慧列示篩選器。 比對一
 title: 新增多個值至智慧清單篩選器
 exl-id: 5f9aaf1b-a3a6-4acf-82ea-7d70d1af1763
 feature: Smart Lists
-source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
+TQID: https://experienceleague.adobe.com/9ii5uHvp4-GohckLzUzPkplfURNIvjF--9hRN-rhi7w
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: 132
 ht-degree: 13%
 
 ---

@@ -4,9 +4,13 @@ description: 瞭解如何在Microsoft Dynamics Online中安裝和設定Marketo S
 title: 在 Microsoft Dynamics 線上版中安裝及設定 Marketo 銷售洞察
 exl-id: 3b58b109-96f9-427e-be5c-a8db270ffe69
 feature: Marketo Sales Insights
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/ILDX3tNq-X0E6jVl5NY8EHw5lGwFEcgXh5yz4Q7zfhs
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080bid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: 415
 ht-degree: 6%
 
 ---

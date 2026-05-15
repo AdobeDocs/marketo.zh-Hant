@@ -4,9 +4,11 @@ description: 瞭解如何在最後一個步驟中將Marketo連線到內部部署
 title: 安裝適用於Microsoft Dynamics 2015內部部署的Marketo步驟3之3
 exl-id: 054bf725-7a80-4114-8360-2d86e2e33dd7
 feature: Microsoft Dynamics
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/yOVhPjsnivOpFEkXYcVLy97Upm3yrBipP6NkSjsAw2Q
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: 367
 ht-degree: 2%
 
 ---

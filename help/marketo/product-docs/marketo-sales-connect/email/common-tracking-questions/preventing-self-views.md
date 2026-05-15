@@ -4,9 +4,13 @@ description: 瞭解如何防止在Sales Connect中自行檢視。 在預覽或�
 title: 防止內部瀏覽
 exl-id: c18715fc-4ca2-4a6b-8f63-a9406f30c0d8
 feature: Marketo Sales Connect
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/UF-7Po7qajqMUjhP0LXWSxDqgqQyauDMLqDACzyWHVc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: 280
 ht-degree: 2%
 
 ---

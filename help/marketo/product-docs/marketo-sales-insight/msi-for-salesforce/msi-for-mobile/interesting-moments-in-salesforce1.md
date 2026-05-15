@@ -4,16 +4,19 @@ description: 瞭解Salesforce Mobile (Salesforce1)中的有趣時刻。 在行�
 title: Salesforce1 中的關鍵時刻
 exl-id: d9009ca9-82f2-4cf1-bf09-e84a7b53369d
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/3J4bWPzp-o4f-N-Lo9ip3xcstSl3SQ7GTPsDWT6q3po
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: 88
 ht-degree: 6%
 
 ---
 
 # [!DNL Salesforce1]中的有趣時刻 {#interesting-moments-in-salesforce}
 
-[使用有趣的時刻](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)是透過Marketo Sales Insight應用程式與您的銷售團隊通訊的關鍵。 現在，使用[!DNL Marketo Sales Insight]的[!DNL Salesforce1]，您可以對您的智慧型手機執行相同操作！
+[使用有趣的時刻](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)是透過Marketo Sales Insight應用程式與您的銷售團隊通訊的關鍵。 現在，使用[!DNL Salesforce1]的[!DNL Marketo Sales Insight]，您可以對您的智慧型手機執行相同操作！
 
 >[!AVAILABILITY]
 >

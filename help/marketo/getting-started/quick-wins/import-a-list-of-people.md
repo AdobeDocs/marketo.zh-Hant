@@ -4,9 +4,14 @@ description: 匯入人員清單 - Marketo 文件 - 產品文件
 title: 匯入人員清單
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/5iRoY4XVNB608Y3SxMYrALr4bhHGUl8zOk0gUtAdamc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+subfeature_v2: id: ffdd6159-0e10-4a57-8021-94e93bab8183
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '553'
+source-wordcount: 553
 ht-degree: 95%
 
 ---

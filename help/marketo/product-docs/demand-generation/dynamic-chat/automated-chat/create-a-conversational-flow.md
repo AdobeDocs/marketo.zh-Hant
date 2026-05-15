@@ -3,9 +3,12 @@ description: 瞭解如何在Dynamic Chat中建立新的轉換流程。 選擇範
 title: 建立交談流程
 feature: Dynamic Chat
 exl-id: 2a4a87e4-13d8-4546-a9c0-75f36f5d83c9
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/yA-mKEwDE9H1VIxR7RGXsYxS8YRHgkjXlYXUwLxOqYk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: 94
 ht-degree: 9%
 
 ---

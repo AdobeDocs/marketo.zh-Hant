@@ -3,10 +3,13 @@ description: 瞭解Marketo Sales Insight面板中的「電子郵件」索引標�
 title: 電子郵件索引標籤
 exl-id: 2fbc966a-6409-4eca-8730-83843b03d19c
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/uG8cRVMM-ZAnS8qZgtvVIDeLJINBEeGS92pkaYmk3ns
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 3%
+source-wordcount: 171
+ht-degree: 4%
 
 ---
 
@@ -38,5 +41,5 @@ ht-degree: 3%
 
 >[!NOTE]
 >
->* 從[!DNL Sales Insight] CRM傳送[!DNL Salesforce]之電子郵件的傳遞狀態無法使用。
+>* 從[!DNL Salesforce] CRM傳送[!DNL Sales Insight]之電子郵件的傳遞狀態無法使用。
 >* 此索引標籤反映從Marketo傳送的電子郵件的範本名稱以及從[!DNL Sales Insight]傳送的電子郵件的主旨行。 在預覽模式中開啟以檢視已傳送電子郵件的主旨行，或參閱潛在客戶/聯絡人/帳戶/機會面板中的電子郵件索引標籤。

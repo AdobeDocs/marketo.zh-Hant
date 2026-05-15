@@ -4,9 +4,13 @@ description: 瞭解如何在行銷行事曆中建立自訂目標。 透過手動
 title: 建立自訂目標
 exl-id: 5e97fb4c-c779-46c7-83ed-de07d27770c7
 feature: Marketing Calendar
-source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
+TQID: https://experienceleague.adobe.com/GMwuLe6peoJWPR30vno6Ik3BIxxcVGez-BNg9WRrm60
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: 111
 ht-degree: 11%
 
 ---

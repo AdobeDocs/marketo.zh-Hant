@@ -3,9 +3,13 @@ description: 瞭解互動式網路研討會的會議室管理。 建立並管理
 title: 會議室管理
 feature: Interactive Webinars
 exl-id: f164795c-c64b-4e0e-a417-b5f7e18a26b3
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/pBehrFodQtNyG3QuXVWPlcZghrpxdsYd2b9O5jixDRk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '790'
+source-wordcount: 790
 ht-degree: 0%
 
 ---

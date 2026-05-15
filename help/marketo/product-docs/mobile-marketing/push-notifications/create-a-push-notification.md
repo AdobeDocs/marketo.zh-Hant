@@ -4,9 +4,11 @@ description: 瞭解如何建立推播通知。 將其新增為程式中的本機
 title: 建立推播通知
 exl-id: a08fbef3-25b4-4b11-aee7-f610f8f30d36
 feature: Mobile Marketing
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/Q2fGYZz-h2s9aMb0rCbwk-PeQkRlnoKrkFid2JWzZQQ
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: 107
 ht-degree: 12%
 
 ---

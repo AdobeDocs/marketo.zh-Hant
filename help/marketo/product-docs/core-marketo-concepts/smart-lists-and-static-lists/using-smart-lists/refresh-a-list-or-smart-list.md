@@ -4,9 +4,11 @@ description: 瞭解如何重新整理清單或智慧清單。 更新清單中的
 title: 重新整理清單或智慧清單
 exl-id: f66adc0f-910f-46d4-a33c-976b061bdce2
 feature: Smart Lists
-source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
+TQID: https://experienceleague.adobe.com/9mDk82MHRwR7qY0or3iOXMJbsJb5Frqd3a3doWa0sfM
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: 148
 ht-degree: 8%
 
 ---

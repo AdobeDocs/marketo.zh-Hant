@@ -3,9 +3,13 @@ description: 瞭解如何在Dynamic Chat中路由會議和即時聊天。 設定
 title: 路由
 feature: Dynamic Chat
 exl-id: e20193b9-55c1-40f2-9e42-5b5dc9b88144
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/AmH0g8c2lKCUOyMiZ2m5J5h-pHbb0JFyq-m7ujEEwow
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '360'
+source-wordcount: 360
 ht-degree: 1%
 
 ---
@@ -26,7 +30,7 @@ ht-degree: 1%
 
 在此範例中，來自推斷的CA、OR和WA狀態的所有會議都會路由傳送給代理程式John。
 
-1. 在[設定]下，按一下[路由規則]。**&#x200B;**。
+1. 在[設定]下，按一下[路由規則]。****。
 
    ![](assets/routing-1.png)
 
@@ -54,7 +58,7 @@ ht-degree: 1%
 
    ![](assets/routing-7.png)
 
-1. 選取所有所需值時，按一下[儲存]。**&#x200B;**
+1. 選取所有所需值時，按一下[儲存]。****
 
    ![](assets/routing-8.png)
 

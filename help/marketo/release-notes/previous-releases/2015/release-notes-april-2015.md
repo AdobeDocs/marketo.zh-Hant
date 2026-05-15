@@ -4,9 +4,13 @@ description: 發行說明 — 2015年4月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2015年4月
 exl-id: 754e3abf-d5e7-447f-a032-6ed66723f837
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/ic7dYiKiLn9iETyfgyq3Lz28S2-8oOvTnsUHGV7anKw
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: c18d9e03-ac7d-4811-9c92-3e92ddc70ade
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: 313
 ht-degree: 1%
 
 ---
@@ -41,11 +45,11 @@ ht-degree: 1%
 
 [[!DNL LinkedIn]銷售機會加速器整合](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
-將您的潛在客戶培養策略延伸至付費顯示廣告和社交廣告。 使用[銷售機會加速器的](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)廣告網路整合[!DNL LinkedIn]可讓您根據任何智慧或靜態清單的成員，在[!DNL LinkedIn]內安全地建立對象區段。 接著，[!DNL LinkedIn]對象區段中的成員就可以利用一系列相關廣告來培養。
+將您的潛在客戶培養策略延伸至付費顯示廣告和社交廣告。 使用[!DNL LinkedIn]銷售機會加速器的[廣告網路整合](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)可讓您根據任何智慧或靜態清單的成員，在[!DNL LinkedIn]內安全地建立對象區段。 接著，[!DNL LinkedIn]對象區段中的成員就可以利用一系列相關廣告來培養。
 
 ![](assets/image2015-4-20-11-3a3-3a27.png)
 
-## [!DNL Sales Insight]的Marketo [!DNL Salesforce1] {#marketo-sales-insight-for-salesforce}
+## [!DNL Salesforce1]的Marketo [!DNL Sales Insight] {#marketo-sales-insight-for-salesforce}
 
 您最愛的[!DNL Sales Insight]功能 — 銷售機會摘要、首選、有趣的時刻，以及新增至Marketo行銷活動 — 全都可在[!DNL Salesforce1]應用程式上取得。
 

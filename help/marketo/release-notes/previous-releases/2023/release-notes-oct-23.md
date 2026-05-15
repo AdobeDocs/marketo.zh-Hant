@@ -3,10 +3,15 @@ description: 發行說明 — 2023年9月 — Marketo檔案 — 產品檔案
 title: 發行說明 - 2023 年 9 月
 feature: Release Information
 exl-id: c1197141-3822-404d-b9d4-3e37fc5330b6
-source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
+TQID: https://experienceleague.adobe.com/AVJDA8DHsX7M8HjUu-M7fol948cadcYu5JHgwlC2NFM
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: e2290edd-b061-4880-9d79-dee306cf5aa9
+subfeature_v2: id: ad89fb33-8541-4339-afe7-bb13d1633714
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '337'
-ht-degree: 20%
+source-wordcount: 406
+ht-degree: 16%
 
 ---
 
@@ -16,11 +21,11 @@ ht-degree: 20%
 
 >[!AVAILABILITY]
 >
->標有星號 (![星號](assets/yellow-star.png)) 的功能為付費附加元件。請聯絡您的 Marketo Engage 代表，了解更多相關資訊。
+>標有星號 (![星號](assets/yellow-star.png)) 的功能為付費附加元件。 請聯絡您的 Marketo Engage 代表，了解更多相關資訊。
 
 ## 標準發行週期功能 {#standard-release-cycle-features}
 
-下列功能屬於標準發行週期，並將於&#x200B;**2023年10月6日**&#x200B;開始發行，在接下來的幾週內分階段推出剩餘功能。 發行的功能和日期可能有所變更。如需了解各項功能的狀態，請查看其旁邊欄位。
+下列功能屬於標準發行週期，並將於&#x200B;**2023年10月6日**&#x200B;開始發行，在接下來的幾週內分階段推出剩餘功能。 發行的功能和日期可能有所變更。 如需了解各項功能的狀態，請查看其旁邊欄位。
 
 <table style="table-layout:auto">
  <tbody>
@@ -35,9 +40,9 @@ ht-degree: 20%
    <td>不適用</td>
   </tr>
    <tr>
-   <td>  </td>
-   <td>  </td>
-   <td>  </td>
+   <td> </td>
+   <td> </td>
+   <td> </td>
   </tr>
   </tr>
    <tr>
@@ -46,9 +51,9 @@ ht-degree: 20%
    <td><a href="https://nation.marketo.com/t5/product-documents/compute-formula-user-guide/ta-p/340633" target="_blank">運算公式使用手冊</a></td>
   </tr>
   <tr>
-   <td>  </td>
-   <td>  </td>
-   <td>  </td>
+   <td> </td>
+   <td> </td>
+   <td> </td>
   </tr>
   </tr>
    <tr>
@@ -63,6 +68,6 @@ ht-degree: 20%
 
 ## 公告 {#announcements}
 
-* **Marketo Engage Forms jQuery 1.x**：在2024年1月版本中，我們將將Marketo Engage Forms的jQuery更新為jQuery 3.x。這可能會影響依賴舊版jQuery的自訂表單實施。 [若要了解更多資訊，請參閱此處](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705#M2597){target="_blank"}。
+* **Marketo Engage Forms jQuery 1.x**：在2024年1月版本中，我們將將Marketo Engage Forms的jQuery更新為jQuery 3.x。 這可能會影響依賴舊版jQuery的自訂表單實施。 [若要了解更多資訊，請參閱此處](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705#M2597){target="_blank"}。
 
 * **棄用Marketo事件和Marketo時刻**： Adobe將從2023年10月2日起從所有應用程式商店[移除Marketo事件和Marketo時刻](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}。 現有使用者 — 您可以繼續使用這些應用程式，直到您將您的Marketo Engage執行個體移轉至Adobe Identity為止。 這些應用程式不支援使用Adobe ID登入。

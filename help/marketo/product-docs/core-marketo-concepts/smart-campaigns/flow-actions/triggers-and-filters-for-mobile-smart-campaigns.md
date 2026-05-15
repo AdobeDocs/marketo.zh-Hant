@@ -4,9 +4,12 @@ description: 瞭解行動裝置智慧行銷活動的觸發器和篩選器。 使
 title: 行動智慧行銷活動的觸發程序和篩選器
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
 feature: Smart Campaigns
-source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
+TQID: https://experienceleague.adobe.com/pXdA6gnA9-7dWa3A9f2rXnnSV5Vk0WqLBMRD7u0l9PE
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '849'
+source-wordcount: 849
 ht-degree: 3%
 
 ---
@@ -103,7 +106,7 @@ ht-degree: 3%
 
 有/曾經有行動應用程式活動
 
-這些提供強大的方式可追蹤自訂行動活動。 您需要與開發人員合作，為Android[&#128279;](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"}設定追蹤[，為iOS](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}設定。
+這些提供強大的方式可追蹤自訂行動活動。 您需要與開發人員合作，為Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"}設定追蹤[，為iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}設定[。
 
 * 具有行動應用程式活動 — 觸發器
 

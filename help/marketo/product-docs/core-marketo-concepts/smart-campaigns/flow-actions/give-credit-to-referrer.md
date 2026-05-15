@@ -5,9 +5,12 @@ title: 歸功於推薦者
 exl-id: d8cd9a54-53fd-4edd-8262-c63ec45a89a9
 hide: true
 feature: Smart Campaigns
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+TQID: https://experienceleague.adobe.com/yGpaY59tnkyQheCiwLYqz8UtGU12iHeE2e3VdFjtvWo
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: 142
 ht-degree: 7%
 
 ---

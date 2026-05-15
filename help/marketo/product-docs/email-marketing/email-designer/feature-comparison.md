@@ -7,10 +7,17 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: af89a1a1fd0246564d0904103f742230a096de04
+TQID: https://experienceleague.adobe.com/cs-7nueaGEFS1geKikrmqBOJAu5US4RX53yLqsnjoSM
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: bcc5edb5-84c3-4940-9f84-ed88b6c16274id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '830'
-ht-degree: 10%
+source-wordcount: 834
+ht-degree: 13%
 
 ---
 
@@ -97,7 +104,7 @@ ht-degree: 10%
   <tr>
     <td>AI 助理</td>
     <td>能夠透過<a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md" target="_blank">Generative AI</a>模型產生主旨列、部分內容或整個電子郵件。</td>
-    <td>不可用</td>
+    <td>無法使用</td>
     <td>可用</td>
   </tr>
   <tr>
@@ -109,7 +116,7 @@ ht-degree: 10%
   <tr>
     <td>內容鎖定</td>
     <td>能夠<a href="/help/marketo/product-docs/email-marketing/email-designer/content-locking.md" target="_blank">鎖定電子郵件範本中的內容</a>，以便在建立電子郵件時無法修改內容。</td>
-    <td>不可用</td>
+    <td>無法使用</td>
     <td>可用</td>
   </tr>
   <tr>
@@ -139,7 +146,7 @@ ht-degree: 10%
   <tr>
     <td>將內容另存為片段</td>
     <td>能夠將<a href="/help/marketo/product-docs/email-marketing/email-designer/fragments.md#save-a-new-fragment-from-email-or-template-content" target="_blank">內容的一部分儲存為片段</a>。</td>
-    <td>不可用</td>
+    <td>無法使用</td>
     <td>可用</td>
   </tr>
   <tr>
@@ -169,24 +176,24 @@ ht-degree: 10%
   <tr>
     <td>與 Adobe Analytics 的整合</td>
     <td>能夠使用<a href="/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md" target="_blank">Adobe Express</a>建立/修改影像。</td>
-    <td>不可用</td>
+    <td>無法使用</td>
     <td>可用</td>
   </tr>
   <tr>
     <td>Litmus整合</td>
     <td>能夠<a href="/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md" target="_blank">與Litmus</a>整合，以檢視您的電子郵件在不同電子郵件使用者端中的呈現方式。</td>
-    <td>不可用</td>
+    <td>無法使用</td>
     <td>可用</td>
     <tr>
     <td>與GenStudio整合</td>
     <td>能夠<a href="/help/marketo/product-docs/email-marketing/email-designer/genstudio.md">與GenStudio</a>整合。</td>
-    <td>不可用</td>
+    <td>無法使用</td>
     <td>可用</td>
   </tr>
   <tr>
     <td>Spam Assassin整合</td>
     <td>能夠在傳遞前<a href="/help/marketo/product-docs/email-marketing/email-designer/spam-report.md">偵測可能標示為垃圾訊息</a>的電子郵件。</td>
-    <td>不可用</td>
+    <td>無法使用</td>
     <td>可用</td>
   </tr>
   <tr>
@@ -234,13 +241,13 @@ ht-degree: 10%
   <tr>
     <td>品牌主題</td>
     <td>可在整個組織中<a href="/help/marketo/product-docs/email-marketing/email-designer/brands/brand-themes.md" target="_blank">套用核准的主題</a>，以確保樣式、顏色、字型大小等元素的一致性。</td>
-    <td>不可用</td>
+    <td>無法使用</td>
     <td>可用</td>
   </tr>
   <tr>
     <td>影像至HTML</td>
     <td>能夠<a href="/help/marketo/product-docs/email-marketing/email-designer/image-to-html.md" target="_blank">將影像轉換為HTML</a>，然後使用建立電子郵件。</td>
-    <td>不可用</td>
+    <td>無法使用</td>
     <td>可用</td>
   </tr>
   <tr>
@@ -271,12 +278,12 @@ ht-degree: 10%
     <td>支援使用電子郵件資產移動、刪除和匯入程式</td>
     <td>能夠移動、刪除和匯入電子郵件計畫以及電子郵件資產。</td>
     <td>可用</td>
-    <td>不可用</td>
+    <td>無法使用</td>
   </tr>
   <tr>
     <td>預測內容</td>
     <td>能夠根據目標受眾，從電子郵件內的知識庫預測內容。</td>
     <td>可用</td>
-    <td>不可用</td>
+    <td>無法使用</td>
   </tr>
 </tbody></table>

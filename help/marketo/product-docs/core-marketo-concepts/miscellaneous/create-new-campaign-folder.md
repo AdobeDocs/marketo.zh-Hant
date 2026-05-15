@@ -3,9 +3,12 @@ unique-page-id: 2953207
 description: 瞭解如何在行銷活動中建立新的行銷活動資料夾。 使用Campaign資料夾來組織您的工作區，以進行自動化和資產。
 title: 建立新的行銷活動資料夾
 exl-id: 2899ee63-b15a-462a-bed6-8858a6b65308
-source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
+TQID: https://experienceleague.adobe.com/8hUgJiQZ-Lf4osq-sSHBd-0NZEG2SplxIycUluBeOsk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: 101
 ht-degree: 19%
 
 ---

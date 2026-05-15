@@ -4,9 +4,12 @@ description: 瞭解如何設定應用程式內訊息背景。 選擇顏色或影
 title: 設定應用程式內訊息背景
 exl-id: 0cb10432-5611-4efe-a605-9a5a57f1bc7c
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+TQID: https://experienceleague.adobe.com/32bKrhka2wbsBdb5cFSm5xnY0UWOsrzf-kofqRsrKz4
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: 323
 ht-degree: 0%
 
 ---

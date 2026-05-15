@@ -4,9 +4,11 @@ description: 瞭解如何從Outlook Office 365外掛程式新增電子郵件至S
 title: 新增電子郵件至 Salesforce (Office 365)
 exl-id: 8d1a1329-a045-47a5-ada0-2c3a3a34cd07
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/kDWFvC0ebB2apOuhl-M-WcTVlhF7wcffsw35eo1bCT8
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: 124
 ht-degree: 4%
 
 ---

@@ -3,9 +3,14 @@ unique-page-id: 11384018
 description: 發行說明–2016年秋季 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2016年秋季
 exl-id: da935951-162e-426c-acf2-12c55ff706b4
-source-git-commit: b29fba0718fda60c6369c398b2b1497d44f91782
+TQID: https://experienceleague.adobe.com/q5GlfNuMIAcClikmke5cTlbV-liv28y328tzxd9NK9k
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+subfeature_v2: id: d0251300-e25f-466f-9856-7e11ce8fa7aaid: fc5c4f1e-5467-43ac-94e9-0acfa71c517d
+topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: eb30f47f-d87a-400f-8f78-63ce7979ff56id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '647'
+source-wordcount: 683
 ht-degree: 0%
 
 ---

@@ -4,10 +4,15 @@ description: 發行說明–2012年1月/2月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2012年1月/2月
 exl-id: 4d1ca9b6-e269-4982-9c0c-cf12363feafb
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/VFd39s1jmATwVi2osVq9l6tpOb8VZNfdZU-Fj39Kk0A
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2: id: a1d50dda-6d94-4e16-8c30-5eb7181c4650id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272id: df8eb12b-4f82-491f-acbb-d74012ca5654
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '432'
-ht-degree: 1%
+source-wordcount: 439
+ht-degree: 2%
 
 ---
 
@@ -71,7 +76,7 @@ _適用於Pro和Enterprise版本_
 
 * [!DNL Mozilla Firefox] 9.0
 * [!DNL Google Chrome] 16
-* [!DNL Microsoft Internet Explorer] 8和9
+* [!DNL Microsoft Internet Explorer] 8 &amp; 9
 * **附註**：我們不再支援[!DNL Internet Explorer] 7
 
 ## 方案管理 {#program-management}

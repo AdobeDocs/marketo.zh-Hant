@@ -4,9 +4,11 @@ description: 瞭解如何在行銷行事曆中檢視專案詳細資料。 選取
 title: 檢視條目詳細資料
 exl-id: bb65f7ae-5a37-4b09-8532-75d1e9a6464c
 feature: Marketing Calendar
-source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
+TQID: https://experienceleague.adobe.com/3F3TIk5iF3Th4Adi4yj1azuMToNvu3kIXsS4zV2mtAc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: 66
 ht-degree: 9%
 
 ---

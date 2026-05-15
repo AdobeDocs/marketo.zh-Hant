@@ -4,9 +4,12 @@ description: 瞭解如何取消電子郵件程式的A/B測試。 停止測試，
 title: 取消 A/B 測試
 exl-id: 7fc79e67-01db-4b6e-818e-fe61e720ad92
 feature: Email Programs, A/B Testing
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/TlwTVRfiqMJZ--s5hdGhi32XfSUwZuTlRupX8wMCwoU
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: 90
 ht-degree: 15%
 
 ---

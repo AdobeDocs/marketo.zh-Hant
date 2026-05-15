@@ -3,9 +3,12 @@ description: 快速入門電子郵件範本。 使用它可從預先建立的範
 title: 快速開始電子郵件範本
 feature: Programs
 exl-id: 4ad2063e-11c4-4926-8438-5b38af0fbc8d
-source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
+TQID: https://experienceleague.adobe.com/4TOHRnalU1E6NaelbM0wZyH-CPGjQomwDvPGlBU4GS4
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '576'
+source-wordcount: 576
 ht-degree: 1%
 
 ---
@@ -24,7 +27,7 @@ Marketo Engage電子郵件編輯器提供的功能可協助您變更版面及編
 
 * **變數**：選取模組時，變數會出現在編輯器的右側。 如果模組屬性不容易透過影像或文字元素編輯，可使用這些專案來調整模組。
 
-如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/tw/customers/consulting-services/main.html){target="_blank"}頁面。
+如需進一步的策略協助或自訂方案的協助，請連絡Adobe客戶團隊或造訪[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}頁面。
 
 ## 模組摘要 {#modules-summary}
 

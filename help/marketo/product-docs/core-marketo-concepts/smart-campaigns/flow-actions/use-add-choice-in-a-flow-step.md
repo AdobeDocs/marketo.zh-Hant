@@ -4,9 +4,13 @@ description: 瞭解如何在流程步驟中使用新增選擇。 使用選擇邏
 title: 在流程步驟中使用新增選擇
 exl-id: 50ffcd60-48ee-4341-94d8-170c63bc9ecb
 feature: Smart Campaigns
-source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
+TQID: https://experienceleague.adobe.com/2zIMDjJx0-Hm1NlgnGrQrnJuBwzMh0B2dq-tnJ34bZo
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483
+subfeature_v2: id: ad89fb33-8541-4339-afe7-bb13d1633714
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: 201
 ht-degree: 6%
 
 ---
@@ -49,7 +53,7 @@ ht-degree: 6%
 
    >[!CAUTION]
    >
-   >只有第一個相符選擇會套用到流程步驟。 瞭解如何在流程動作[&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md){target="_blank"}中重新排序「新增選擇」。
+   >只有第一個相符選擇會套用到流程步驟。 瞭解如何在流程動作](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md){target="_blank"}中[重新排序「新增選擇」。
 
    您現在可以建立具有流程步驟選擇的單一Smart Campaign，而不是為每個選擇建立多個Smart Campaign。
 

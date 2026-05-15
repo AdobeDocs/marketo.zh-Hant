@@ -3,9 +3,13 @@ description: 瞭解如何將Marketo標籤新增至Salesforce。 讓Salesforce的
 title: 新增 Marketo 索引標籤至 Salesforce
 exl-id: dbe01de0-a01a-4a6e-ae89-5dc5cfa8d0b1
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/mVghgsLTZLmDDrFXOE-uhF5a6kpsdIj7v-AE4vdjTRg
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: 61
 ht-degree: 8%
 
 ---

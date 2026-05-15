@@ -4,9 +4,13 @@ description: 瞭解如何建立方案績效報表。 建立報表以檢視方案
 title: 建立方案效能報告
 exl-id: 0b4c3769-e4a8-47b0-aa2c-a21acaf9525c
 feature: Programs
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/eOHrVpWotDldpL6formixLacARlCaQlWwekPLxzHSmw
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: 131
 ht-degree: 12%
 
 ---
@@ -23,7 +27,7 @@ ht-degree: 12%
 
 >[!TIP]
 >
->若要尋找&#x200B;*每次成功成本最低*&#x200B;的方案，例如，在該欄排序您的報告[&#128279;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"}，然後選擇&#x200B;**[!UICONTROL Sort Ascending]**。
+>若要尋找&#x200B;*每次成功成本最低*&#x200B;的方案，例如，在該欄排序您的報告](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"}，然後選擇&#x200B;**[!UICONTROL Sort Ascending]**。[
 
 「方案效能」報表中的欄包括：
 

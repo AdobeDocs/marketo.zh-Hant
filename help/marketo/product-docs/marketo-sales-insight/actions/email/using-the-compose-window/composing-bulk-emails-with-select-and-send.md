@@ -4,9 +4,12 @@ title: 使用「選取並傳送」功能撰寫大量傳送的電子郵件
 hide: true
 exl-id: 8d9d0c78-1f01-48ad-93ac-5c353173c4f3
 feature: Sales Insight Actions
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+TQID: https://experienceleague.adobe.com/-j4w8QfiiQ813G95QHr8MnrBzRRbgOa9K04I2HBaX58
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: 400
 ht-degree: 3%
 
 ---

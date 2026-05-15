@@ -3,9 +3,13 @@ description: 瞭解在單一執行個體中提供Marketo Engage的Adobe Experien
 title: Adobe Experience Cloud 介面概觀
 exl-id: 7aaf6926-c921-4182-a8ef-d594643a5c1c
 feature: Integrations
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/hI1UZacuPMWJVOYXKO3jm3XcOvPnIXcJo6n9bc-8XHE
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+subfeature_v2: id: d1956f52-ecfd-4e01-8941-47af238acb0d
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: 312
 ht-degree: 55%
 
 ---

@@ -4,9 +4,12 @@ description: 瞭解如何在方案排程檢視中重新排程批次Smart Campaig
 title: 在方案排程視圖中重新安排批次智慧行銷活動的時間
 exl-id: accae56e-36c5-4093-a72e-0882ce8e50b2
 feature: Programs, Smart Campaigns
-source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
+TQID: https://experienceleague.adobe.com/4cfOTR-ds-83B7DQBiPFJCAMp7uq-hCqtR2Bf4NoQcM
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: 109
 ht-degree: 18%
 
 ---

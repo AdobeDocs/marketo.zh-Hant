@@ -4,9 +4,12 @@ description: 瞭解如何重新命名參與計畫資料流。
 title: 重新命名資料流
 exl-id: 38e8af11-78a7-4c52-b0d4-301f97d50999
 feature: Engagement Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/hdlS0-qiGDZGhkPcDBe7FrWgMIYETgZ0cstLa-smHoA
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: 59
 ht-degree: 10%
 
 ---

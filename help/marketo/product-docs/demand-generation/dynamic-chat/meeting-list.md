@@ -3,16 +3,18 @@ description: 瞭解訪客預約出現的Dynamic Chat會議清單。 檢視預約
 title: 會議清單
 feature: Dynamic Chat
 exl-id: d26aac7f-b22a-4bc8-b279-2a8522624106
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/LFu75o-grfMTvl53VsQZ22pVPw9g2eyO-POBoQ1o7Qc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: 131
 ht-degree: 18%
 
 ---
 
 # 會議清單 {#meeting-list}
 
-您會在這裡看到網站訪客透過各種對話所排程的所有約會。您可以在這裡找到預約預約者的電子郵件地址、預約預約的預定代理程式、預約排定的時間，以及排定的會議時間是否已過。
+您會在這裡看到網站訪客透過各種對話所排程的所有約會。 您可以在這裡找到預約預約者的電子郵件地址、預約預約的預定代理程式、預約排定的時間，以及排定的會議時間是否已過。
 
 ![](assets/meeting-list-1.png)
 

@@ -4,9 +4,13 @@ description: 瞭解如何建立和使用電子郵件效能報表。 追蹤開啟
 title: 電子郵件績效報告
 exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
 feature: Email Programs
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/90WK5ODp6PnSFAyWFvEc4DFR1oiRn97gsqlP1lXj7-M
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '501'
+source-wordcount: 501
 ht-degree: 95%
 
 ---
@@ -78,7 +82,7 @@ ht-degree: 95%
 
 * **規則 2**：如果電子郵件記錄顯示 _[!UICONTROL Opened]_，則計為_&#x200B;已傳遞&#x200B;_。
 
-* **規則 3**：如果電子郵件記錄顯示 _[!UICONTROL Clicked Email]_&#x200B;或_[!UICONTROL Unsubscribed]_，則計為&#x200B;_已傳遞_&#x200B;及&#x200B;_已開啟_。
+* **規則 3**：如果電子郵件記錄顯示 _[!UICONTROL Clicked Email]_或_[!UICONTROL Unsubscribed]_，則計為&#x200B;_已傳遞_&#x200B;及&#x200B;_已開啟_。
 
 * **規則 4**：如果電子郵件為 _[!UICONTROL Opened]_，則會忽略退回。 如果電子郵件還未開啟，_&#x200B;已硬退回&#x200B;_會優先於_&#x200B;已軟退回&#x200B;_和_&#x200B;已傳遞&#x200B;_。
 

@@ -4,9 +4,13 @@ description: 在Marketo中使用工作區時，將一般品牌領域變更為公
 title: 使用工作區編輯您的預設品牌化網域
 exl-id: f0982793-5b74-41fb-ab6b-08d4084ac9b1
 feature: Email Setup
-source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
+TQID: https://experienceleague.adobe.com/qp5T6tEkxvsIfdrZaPkpWJHmqfxfZFKbbcKORa8psDU
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: 138
 ht-degree: 14%
 
 ---

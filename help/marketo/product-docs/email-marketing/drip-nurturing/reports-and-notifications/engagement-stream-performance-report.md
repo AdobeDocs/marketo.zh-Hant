@@ -4,9 +4,13 @@ description: 瞭解如何建立和執行參與資料流績效報表。 依程式
 title: 參與資料流效能報告
 exl-id: e838fcd8-0fe3-4e96-b453-30b15b911ede
 feature: Engagement Programs, Reporting
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/63c8ll4a9f8PleyGPDFDIKmXW9b9TsJ3pmqnorwKU2g
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: 157
 ht-degree: 7%
 
 ---
@@ -62,4 +66,4 @@ ht-degree: 7%
    >
    >參與分數雖然未以圖示說明，但是此報表中的一欄。 請參閱[瞭解參與分數](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)以取得相關詳細資訊。
 
-   做得好！請注意，報告已依參與方案分組。
+   做得好！ 請注意，報告已依參與方案分組。

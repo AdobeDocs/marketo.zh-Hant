@@ -2,10 +2,15 @@
 description: 發行說明 — 2022年1月 — Marketo檔案 — 產品檔案
 title: 發行說明 - 2022 年 1 月
 exl-id: babc4e7f-3f11-4883-80c6-58e69c3e1ab4
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/sWnFMRl-gpHawYrXU3POsKo2V2OrO9DmiYKvo0oyN3g
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: d65b4a73-87a3-4d56-b638-74e74d9939ceid: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+subfeature_v2: id: d0251300-e25f-466f-9856-7e11ce8fa7aaid: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+topic_v2: id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: d095671a-1355-40aa-8b5f-06c33c68080bid: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '884'
-ht-degree: 4%
+source-wordcount: 964
+ht-degree: 3%
 
 ---
 
@@ -15,7 +20,7 @@ ht-degree: 4%
 
 >[!AVAILABILITY]
 >
->標有星號 (![星號](assets/yellow-star.png)) 的功能為付費附加元件。請聯絡您的 Marketo Engage 代表，了解更多相關資訊。
+>標有星號 (![星號](assets/yellow-star.png)) 的功能為付費附加元件。 請聯絡您的 Marketo Engage 代表，了解更多相關資訊。
 
 **_每季發行_**
 
@@ -56,7 +61,7 @@ ht-degree: 4%
 
 ![（星形）](assets/yellow-star.png)
 
-**[!DNL Sales Insight]CRM[!DNL Salesforce]的**
+[!DNL Salesforce] CRM **的**[!DNL Sales Insight]
 
 * **適用於[!UICONTROL Best Bets]**&#x200B;的新型別欄：賣家將透過標籤為「型別」的新欄取得更快的深入分析，以區分[!UICONTROL Best Bets]頁面上的潛在客戶與聯絡人。
 
@@ -64,7 +69,7 @@ ht-degree: 4%
 
 * **已更新品牌**：正在更新所有[!DNL Sales Insight]頁面，以符合Adobe品牌。
 
-**[!DNL Sales Insight]的[!DNL Microsoft Dynamics]**
+[!DNL Microsoft Dynamics]**的**[!DNL Sales Insight]
 
 * **已更新帳戶配置**：賣家可取得熱門活動的集體檢視，例如：電子郵件活動、網路活動、有趣的時刻，以及帳戶內所有連絡人的分數變更。
 
@@ -74,7 +79,7 @@ ht-degree: 4%
 
 * **通話結果和原因**：透過全新、完全可自訂的通話結果和通話原因選項，更詳細地瞭解及追蹤您的銷售團隊的出站工作。 除了這些新欄位之外，我們還將推出新的控管以強制進行來電原因和結果選擇、新的控管以啟用或停用來電原因和結果，以及新的來電原因和來電結果[!DNL Salesforce]活動自訂欄位，以將資料記錄到[!DNL Salesforce]。 [按一下這裡](https://nation.marketo.com/t5/product-blogs/sales-connect-enhancements-to-call-outcomes-q1-22-release/ba-p/319812)瞭解更多資訊。
 
-* **[!DNL Salesforce]活動詳細資料自訂**：當銷售活動從[!DNL Salesforce]登入[!DNL Salesforce]時，自訂要新增哪些資訊到[!DNL Salesforce]任務主題欄位，以在[!DNL Sales Connect]中擷取更多銷售活動和任務資料。 [按一下這裡](https://nation.marketo.com/t5/product-blogs/sales-connect-enahncements-to-activity-logging-to-salesforce-q1/ba-p/319819)瞭解更多資訊。
+* **[!DNL Salesforce]活動詳細資料自訂**：當銷售活動從[!DNL Sales Connect]登入[!DNL Salesforce]時，自訂要新增哪些資訊到[!DNL Salesforce]任務主題欄位，以在[!DNL Salesforce]中擷取更多銷售活動和任務資料。 [按一下這裡](https://nation.marketo.com/t5/product-blogs/sales-connect-enahncements-to-activity-logging-to-salesforce-q1/ba-p/319819)瞭解更多資訊。
 
 ## 公告 {#announcements}
 
@@ -84,8 +89,8 @@ ht-degree: 4%
 
 * **在[邀請使用者]對話方塊中登入**： 3月起，將棄用現有的選擇性功能[在邀請使用者對話方塊中登入]。 即將推出的Adobe Identity Management系統整合需要通用ID功能，而此功能已在2021年8月對所有訂閱啟用「[!UICONTROL Login in Invite User Dialog]」功能。 淘汰後，Marketo Engage將僅強制訂閱內每個電子郵件地址關聯一名使用者。
 
-**Marketo Engage網域 — [!DNL Sales Insight]設定**：對於未布建SSL憑證和https://的Marketo Engage網域，呼叫將失敗並出現SSL交握錯誤。 因此，這些網域將被淘汰。 因此，具有指向這些網域中任何網域之舊設定的[!DNL Sales Insight]使用者可能在其Lead、Contact、Account、Opportunity Panels或Marketo Global頁面上遇到系統圖說文字錯誤。 如果您發生這個錯誤，建議您在[更新](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)Marketo Engage設定[!DNL Salesforce]。 您只需要更新在檔案的「[!DNL Marketo Sales Insight]設定」區段中醒目提示的Marketo Engage認證。
+**Marketo Engage網域 — [!DNL Sales Insight]設定**：對於未布建SSL憑證和https://的Marketo Engage網域，呼叫將失敗並出現SSL交握錯誤。 因此，這些網域將被淘汰。 因此，具有指向這些網域中任何網域之舊設定的[!DNL Sales Insight]使用者可能在其Lead、Contact、Account、Opportunity Panels或Marketo Global頁面上遇到系統圖說文字錯誤。 如果您發生這個錯誤，建議您在[!DNL Salesforce]更新[Marketo Engage設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)。 您只需要更新在檔案的「[!DNL Marketo Sales Insight]設定」區段中醒目提示的Marketo Engage認證。
 
 **_產品發行網路研討會_**
 
-[2022年1月Marketo Engage發行網路研討會](https://engage.marketo.com/2022_January_Release_Webinar_DemandPage.html)
+[2022年1月Marketo Engage版本網路研討會](https://engage.marketo.com/2022_January_Release_Webinar_DemandPage.html)

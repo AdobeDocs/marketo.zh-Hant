@@ -4,9 +4,13 @@ description: 編輯人員分割區名稱和工作區指派的步驟。
 title: 編輯現有的人員分割
 exl-id: 23353e93-f0f0-4f0d-b833-d870ff345b1a
 feature: Partitions
-source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
+TQID: https://experienceleague.adobe.com/olo-JO-Hyx3cFfVlGW4ZeVQ3xx2DbQCC34eSBkoPVAk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: 85
 ht-degree: 21%
 
 ---

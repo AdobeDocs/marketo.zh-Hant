@@ -4,9 +4,11 @@ description: 瞭解如何將系統權杖新增為電子郵件中的連結。 在
 title: 在電子郵件中新增系統權杖做為連結
 exl-id: 9156be24-18ae-44ea-96e5-a6257ff29b46
 feature: Tokens
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/UjNwoeeRWyGrPUCMV--3StSZcbY-fxSj3a5wrm60oL4
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: 217
 ht-degree: 9%
 
 ---

@@ -3,10 +3,15 @@ description: 發行說明 — 2024年4月 — Marketo檔案 — 產品檔案
 title: 發行說明 - 2024 年 4 月
 feature: Release Information
 exl-id: d87474f8-fc47-407b-bc97-e343b56c1f8f
-source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
+TQID: https://experienceleague.adobe.com/veRcvmZPvQFZcLKnU8ldjfZRQchr99eg0UhRy-0sNQo
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+subfeature_v2: id: fc5c4f1e-5467-43ac-94e9-0acfa71c517d
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '447'
-ht-degree: 20%
+source-wordcount: 471
+ht-degree: 19%
 
 ---
 
@@ -18,11 +23,11 @@ ht-degree: 20%
 
 >[!AVAILABILITY]
 >
->標有星號 (![星號](assets/yellow-star.png)) 的功能為付費附加元件。請聯絡您的 Marketo Engage 代表，了解更多相關資訊。
+>標有星號 (![星號](assets/yellow-star.png)) 的功能為付費附加元件。 請聯絡您的 Marketo Engage 代表，了解更多相關資訊。
 
 ## 標準發行週期功能 {#standard-release-cycle-features}
 
-下列功能屬於標準發行週期，並將於&#x200B;**2024年4月26日**&#x200B;開始發行，在接下來的幾週內分階段推出剩餘功能。 發行的功能和日期可能有所變更。如需了解各項功能的狀態，請查看其旁邊欄位。
+下列功能屬於標準發行週期，並將於&#x200B;**2024年4月26日**&#x200B;開始發行，在接下來的幾週內分階段推出剩餘功能。 發行的功能和日期可能有所變更。 如需了解各項功能的狀態，請查看其旁邊欄位。
 
 <table style="table-layout:auto">
  <tbody>
@@ -38,9 +43,9 @@ ht-degree: 20%
    <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#manual-sync">手動同步</a></li></td>
   </tr>
   <tr>
-   <td>  </td>
-   <td>  </td>
-   <td>  </td>
+   <td> </td>
+   <td> </td>
+   <td> </td>
   </tr>
     <tr>
    <td><strong>稽核軌跡增強功能</strong>：
@@ -49,9 +54,9 @@ ht-degree: 20%
    <td><i>即將推出</i></td>
   </tr>
   <tr>
-   <td>  </td>
-   <td>  </td>
-   <td>  </td>
+   <td> </td>
+   <td> </td>
+   <td> </td>
   </tr>
     <tr>
    <td><strong>新使用者和角色許可權</strong>：新許可權已推出，讓使用者能更精細地存取Marketo Engage。 控制先前未啟用的管理員部分（例如新體驗和預測對象）、分割許可權以分別授予資產稽核軌跡和管理稽核軌跡的存取權，以及使用新的資產和資料夾的建立和移動許可權來防止唯讀使用者進行變更。

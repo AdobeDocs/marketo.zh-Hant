@@ -4,16 +4,19 @@ description: 瞭解範本3B引導式登陸頁面範本。 下載並用於您的M
 title: 範本 3B
 exl-id: 28cd87fa-8ded-449a-8a5d-0e7c7241b49e
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/ZIn-XAe0Xc48LL6O-oM-Vqgy6HC8PSnzsSZ06sYsbxY
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 6%
+source-wordcount: 81
+ht-degree: 4%
 
 ---
 
 # 範本 3B {#template-3b}
 
-按一下滑鼠右鍵以[下載範本3B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3b.html?lang=zh-Hant)
+按一下滑鼠右鍵以[下載範本3B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3b.html)
 
 ![](assets/image2015-6-15-11-3a11-3a30.png)
 
@@ -29,4 +32,4 @@ ht-degree: 6%
 
 **在下方按一下滑鼠右鍵以下載此範本：**
 
-[範本3B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3b.html?lang=zh-Hant)
+[範本3B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3b.html)

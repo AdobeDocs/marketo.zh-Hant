@@ -4,9 +4,13 @@ description: 瞭解如何編輯將哪些人員分割區指派給工作區。
 title: 將人員分割指派給工作區
 exl-id: 84c539f0-ca68-4be3-a462-cbe9d191dbb6
 feature: Workspaces
-source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
+TQID: https://experienceleague.adobe.com/RwOodsRKaP2Iz-DBy6uJ0fpXJkLskqldCqn1PtntVfU
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: 133
 ht-degree: 19%
 
 ---

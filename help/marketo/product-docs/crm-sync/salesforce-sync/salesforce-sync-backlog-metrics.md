@@ -3,9 +3,13 @@ description: 瞭解Salesforce同步待處理量度，以及如何監視擱置同
 title: Salesforce 同步待辦項目量度
 feature: Reporting
 exl-id: 6b58eb50-ff0d-4774-a232-3ae929948e2a
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/RSYhWjNNh7gQiyEw1ImnHr6q23UpaVWhBll6aziHkJk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '1155'
+source-wordcount: 1155
 ht-degree: 1%
 
 ---
@@ -98,9 +102,9 @@ ht-degree: 1%
 
 **經常更新的欄位**：有些欄位很容易經常更新。 例如，貨幣欄位可能會發生貨幣變更。 檢閱這些欄位是否需要同步，或欄位是否應以不同方式設計。 如果您有其他經常更新且不需要的欄位，請向同步使用者隱藏它們。 與您的SFDC管理員討論可能會更新欄位的整合。
 
-**自訂物件**：定期檢閱[啟用同步的自訂物件](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"}，並停用不再需要同步的自訂物件。
+**自訂物件**：定期檢閱[啟用同步的自訂物件](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"}，並停用不再需要同步的自訂物件。
 
-**活動**： [檢閱是否有任何活動](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"}已啟用從同步中移除的同步。  每個潛在客戶每天只能同步處理一次這些活動。
+**活動**： [檢閱是否有任何活動](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"}已啟用從同步中移除的同步。  每個潛在客戶每天只能同步處理一次這些活動。
 
 **檢閱同步處理錯誤**：例外狀況處理可能會減慢同步處理的速度。 檢閱使用者通知並解決錯誤可以改善同步處理健康情況。
 

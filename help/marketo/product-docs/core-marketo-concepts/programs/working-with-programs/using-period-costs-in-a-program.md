@@ -4,9 +4,13 @@ description: 瞭解如何在方案中使用期間成本。 新增成本並指派
 title: 在方案中使用期間成本
 exl-id: 3f00dc09-797a-4f21-bb56-45a1f9b6e5bf
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+TQID: https://experienceleague.adobe.com/Qig5mxtMp5i8kS6ncPA8jZ96pzXcwmbEwOGGGZD4Gio
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: 205
 ht-degree: 9%
 
 ---

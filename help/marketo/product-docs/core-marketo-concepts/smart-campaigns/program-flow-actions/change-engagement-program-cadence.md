@@ -4,9 +4,12 @@ description: 瞭解如何在流程步驟中變更參與計畫節奏。 調整人
 title: 變更參與方案頻率
 exl-id: ce087a0d-43e1-467c-b7f0-3df072048f0e
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+TQID: https://experienceleague.adobe.com/nNhVJUelrVSsKcH2oxw2lzWTJINM5JBj1X36KxAoyWI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: 109
 ht-degree: 7%
 
 ---

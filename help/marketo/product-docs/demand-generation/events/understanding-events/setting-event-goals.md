@@ -4,9 +4,11 @@ title: 設定事件目標
 hide: true
 exl-id: 9690adc0-1136-4416-bb7b-f721789d408b
 feature: Events
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+TQID: https://experienceleague.adobe.com/0tncwlUNBiELP1mR0GLJFstLZfvURtAsz6OohwpqxH4
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: 113
 ht-degree: 7%
 
 ---

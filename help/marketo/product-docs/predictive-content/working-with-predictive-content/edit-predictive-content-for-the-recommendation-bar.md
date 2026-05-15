@@ -4,9 +4,13 @@ description: 瞭解如何為內容推薦列啟用核准的預測性內容。
 title: 編輯推薦列的預測內容
 exl-id: 9a61e625-ec3f-4b4f-90d4-67ff7630ef48
 feature: Predictive Content
-source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
+TQID: https://experienceleague.adobe.com/6hFpQPQm5uhrBPIJiEnCkQ1ngTKU1PyHKTCRpI60TW8
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: 73
 ht-degree: 21%
 
 ---
@@ -17,7 +21,7 @@ ht-degree: 21%
 
 >[!PREREQUISITES]
 >
->所有內容頁面上的預測性內容[的內容必須是](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)已核准。
+>所有內容頁面上的預測性內容](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)的內容必須是[已核准。
 
 1. 在&#x200B;**[!UICONTROL Predictive Content]**&#x200B;頁面上，按一下標題以開啟編輯器。
 

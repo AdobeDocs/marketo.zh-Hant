@@ -3,9 +3,11 @@ description: 瞭解如何設定任務主旨欄位的Salesforce活動詳細資料
 title: 設定 Salesforce 活動詳細資料自訂
 exl-id: 534ebdb5-7a5b-48eb-98f7-2d05a9eae8e8
 feature: Sales Insight Actions
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/OFYgwAWftCcz7IsGMcdiEI6gzYhdvZB10qlTYpIiX60
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '681'
+source-wordcount: 681
 ht-degree: 2%
 
 ---

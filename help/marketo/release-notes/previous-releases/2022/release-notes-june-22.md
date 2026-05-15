@@ -3,9 +3,14 @@ description: 發行說明 — 2022年6月 — Marketo檔案 — 產品檔案
 title: 發行說明 - 2022 年 6 月
 exl-id: f4438ea8-1657-4955-9f9f-640b3ecf5caa
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/7AVr5aiUkEGNwpZMiQpl2JrhsX9yKP85aTcJhHwuXDY
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+subfeature_v2: id: ad89fb33-8541-4339-afe7-bb13d1633714
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '600'
+source-wordcount: 620
 ht-degree: 6%
 
 ---
@@ -16,7 +21,7 @@ ht-degree: 6%
 
 >[!AVAILABILITY]
 >
->標有星號 (![星號](assets/yellow-star.png)) 的功能為付費附加元件。請聯絡您的 Marketo Engage 代表，了解更多相關資訊。
+>標有星號 (![星號](assets/yellow-star.png)) 的功能為付費附加元件。 請聯絡您的 Marketo Engage 代表，了解更多相關資訊。
 
 下列功能將於&#x200B;**2022年6月24日**&#x200B;開始發行，並會在後續幾週內分階段推出剩餘功能（除非另有指定）。
 
@@ -38,8 +43,8 @@ ht-degree: 6%
 
 **新的切換切換檢視**：以下檢視現在可在新一代體驗中使用：
 
-* [電子郵件詳細資料檢視](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-details-view){target="_blank"}
-* [電子郵件清單檢視](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-list-view){target="_blank"}
+* [電子郵件詳細資料視圖](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-details-view){target="_blank"}
+* [電子郵件清單視圖](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-list-view){target="_blank"}
 
 ## 體驗自動化 {#experience-automation}
 
@@ -55,7 +60,7 @@ ht-degree: 6%
 
 ![（星形）](assets/yellow-star.png)
 
-* 在&#x200B;**[!DNL Sales Insight]中設定的[!DNL Salesforce]**&#x200B;許可權：管理員可以透過Marketo App許可權集（屬於[!DNL Sales Insight] [!DNL Sales Insight]套件的一部分）提供[!DNL Salesforce]存取權給使用者層級的有限人員集合，而非設定檔層級。
+* 在&#x200B;[!DNL Salesforce]**中設定的**[!DNL Sales Insight]&#x200B;許可權：管理員可以透過Marketo App許可權集（屬於[!DNL Sales Insight] [!DNL Salesforce]套件的一部分）提供[!DNL Sales Insight]存取權給使用者層級的有限人員集合，而非設定檔層級。
 
 * **我的Marketo動態磚更新 — [!DNL Sales Insight]動作**： Marketo管理員（以及他們指定的使用者）現在可以透過位於「我的Marketo」頁面上的新[!DNL Sales Insight]動作動態磚，快速導覽至他們的[!DNL Sales Insight]動作執行個體。
 
@@ -77,4 +82,4 @@ ht-degree: 6%
 
 **_產品發行網路研討會_**
 
-[2022年6月和8月Marketo Engage發行網路研討會](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target="_blank"}
+[2022年6月和8月Marketo Engage版本網路研討會](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target="_blank"}

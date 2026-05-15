@@ -3,9 +3,11 @@ description: 瞭解Sales Insight動作中的「團隊」標籤和團隊範圍電
 title: 了解團隊索引標籤
 exl-id: 36189eb2-a802-4601-afca-dca3006e4608
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/Py7-IQydZce09tW7d6OmgUZZYil6rbVezomjn47mI5w
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: 153
 ht-degree: 2%
 
 ---

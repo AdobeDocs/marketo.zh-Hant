@@ -6,9 +6,15 @@ description: 瞭解依收件者顯示不同內容的條件式內容。 使用電
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 979ef9db-920f-466f-8c7d-e9de1ee4cf00
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/MKNaSOXiUYlnS2KNvH2rUQXqeNxvjiIr-OlbJQvtnaA
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2: id: a1d50dda-6d94-4e16-8c30-5eb7181c4650id: df8eb12b-4f82-491f-acbb-d74012ca5654
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: 309
 ht-degree: 2%
 
 ---
@@ -19,7 +25,7 @@ ht-degree: 2%
 
 >[!PREREQUISITES]
 >
->已建立至少一個區段[&#128279;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)且[已核准](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)。
+>已建立至少一個區段[](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)且[已核准](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)。
 
 ## 新增條件式內容 {#add-conditional-content}
 
@@ -55,7 +61,7 @@ ht-degree: 2%
 
    ![](assets/conditional-content-7.png){width="600" zoomable="yes"}
 
-1. 若要新增其他變體（選擇性），請按一下[新增變體] **&#x200B;**，然後遵循相同的步驟。
+1. 若要新增其他變體（選擇性），請按一下[新增變體] ****，然後遵循相同的步驟。
 
    ![](assets/conditional-content-8.png)
 

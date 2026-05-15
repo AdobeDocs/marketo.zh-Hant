@@ -4,9 +4,11 @@ description: 瞭解如何建立電子郵件的行事曆事件(.ics)檔案。 新
 title: 建立行事曆事件 (.ics) 檔案
 exl-id: 17b5d99d-94ce-4122-8928-4290cc253d11
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/aFIknZh6lYrZKFnwmzk57wduoMMTly6xkNsysOWzahQ
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: 99
 ht-degree: 12%
 
 ---

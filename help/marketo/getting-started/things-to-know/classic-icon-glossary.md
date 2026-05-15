@@ -3,10 +3,14 @@ description: 傳統圖示字彙表 — Marketo檔案 — 產品檔案
 title: Classic 圖示字彙表
 feature: Getting Started
 exl-id: 05706dc2-9e8b-4f10-89cf-996a69bc4816
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/ILFVjCHYiyZvNKoI29b4Ahz9ypY0v1mWvLHhM5QbdkY
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '563'
-ht-degree: 13%
+source-wordcount: 566
+ht-degree: 15%
 
 ---
 
@@ -281,7 +285,7 @@ ht-degree: 13%
   <tr>
    <td><img src="assets/image2015-1-5-11-3a12-3a45.png">
     </td>
-   <td>請求的智慧型行銷活動(透過銷售Insight或Marketo流量動作)</td>
+   <td>請求的智慧型行銷活動（透過銷售Insight或Marketo流量動作）</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-5-11-3a14-3a24.png">
@@ -351,7 +355,7 @@ ht-degree: 13%
   <tr>
    <td><img src="assets/image2015-1-9-14-3a42-3a29.png">
     </td>
-   <td>社交</td>
+   <td>社群</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-9-14-3a43-3a17.png">
@@ -617,7 +621,7 @@ ht-degree: 13%
   <tr>
    <td><img src="assets/image2015-1-14-13-3a8-3a40.png">
     </td>
-   <td>新版</td>
+   <td>最新</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-14-13-3a8-3a47.png">
@@ -734,12 +738,12 @@ ht-degree: 13%
   <tr>
    <td><img src="assets/image2015-1-5-14-3a27-3a2.png">
     </td>
-   <td>數字</td>
+   <td>數量</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-5-14-3a31-3a7.png">
     </td>
-   <td>Salesforce (也會出現在所有SFDC相關專案中)</td>
+   <td>Salesforce （也會出現在所有SFDC相關專案中）</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-5-15-3a44-3a30.png">
@@ -790,7 +794,7 @@ ht-degree: 13%
   <tr>
    <td><img src="assets/image2015-1-5-14-3a31-3a7.png">
     </td>
-   <td>Salesforce (也會出現在所有SFDC相關專案中)</td>
+   <td>Salesforce （也會出現在所有SFDC相關專案中）</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-5-14-3a33-3a11.png">
@@ -871,7 +875,7 @@ ht-degree: 13%
   <tr>
    <td><img src="assets/image2015-1-14-13-3a9-3a33.png">
     </td>
-   <td>新版</td>
+   <td>最新</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-14-13-3a9-3a39.png">

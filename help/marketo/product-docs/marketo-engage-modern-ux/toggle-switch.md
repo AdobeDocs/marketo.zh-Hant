@@ -4,9 +4,11 @@ title: 切換按鈕
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
 hide: true
 feature: Modern UX
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+TQID: https://experienceleague.adobe.com/gcljHiX-bJ-h-9pkKO9L5504EY3QWwEROc4qfgyBILo
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: 292
 ht-degree: 86%
 
 ---

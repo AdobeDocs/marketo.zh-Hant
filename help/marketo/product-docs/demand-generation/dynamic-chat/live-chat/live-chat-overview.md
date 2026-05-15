@@ -3,9 +3,13 @@ description: 瞭解訪客與銷售代理之間的即時交談。 新增即時聊
 title: 即時聊天概觀
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/7oWqQ3PkLp7gI1jSUXUh--nPG6BX63u1Boi-Ml-YKdA
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+subfeature_v2: id: c942e9f6-ed06-481a-abdd-1195363d1452
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '916'
+source-wordcount: 916
 ht-degree: 2%
 
 ---

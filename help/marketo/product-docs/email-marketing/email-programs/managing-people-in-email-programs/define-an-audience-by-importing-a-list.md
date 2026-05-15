@@ -4,9 +4,12 @@ description: 瞭解如何透過匯入清單來定義電子郵件方案對象。 
 title: 透過匯入清單定義客群
 exl-id: 9a63f4a5-1d76-4671-9622-19eb368d196f
 feature: Email Programs
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/Q5z9emcEDyLDUB2ZDF9LIMZTX1jvEQ8W5-bKFgMMFuc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: 376
 ht-degree: 15%
 
 ---

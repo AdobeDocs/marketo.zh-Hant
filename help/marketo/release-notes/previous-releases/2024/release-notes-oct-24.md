@@ -3,9 +3,14 @@ description: 發行說明 — 2024年10月 — Marketo檔案 — 產品檔案
 title: 版本注意事項 - 2024 年 10 月
 feature: Release Information
 exl-id: 2e28ae7f-51de-4510-b3e8-79a989f0daf5
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/3Qk4bF8OVxVoJYZbtedik6vRsAebYvj-ZMOfxXuzDMk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+subfeature_v2: id: c942e9f6-ed06-481a-abdd-1195363d1452id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '575'
+source-wordcount: 575
 ht-degree: 15%
 
 ---
@@ -92,7 +97,7 @@ ht-degree: 15%
 
 * **大量擷取API更新**：我們已修正大量擷取API中涉及columnHeaderNames選項的問題，該選項可讓您在匯出的檔案中指定自訂欄標題名稱。 以前，包含非ASCII字元的欄標題名稱可能會損毀。
 
-* **Rest API access_token引數淘汰**：用於驗證Marketo REST API呼叫的「access_token」查詢引數已淘汰，並將於2026年3月31日後無法使用。 所有新的和現有的整合應該使用&#39;Authorization&#39;標頭[驗證REST API呼叫，如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication#using-an-access-token)。
+* **Rest API access_token引數淘汰**：用於驗證Marketo REST API呼叫的「access_token」查詢引數已淘汰，並將於2026年3月31日後無法使用。 所有新的和現有的整合應該使用&#39;Authorization&#39;標頭[驗證REST API呼叫，如此處所述](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#using-an-access-token)。
 
 * **QR碼淘汰**：自2024年10月4日起，推播通知和應用程式內訊息資產中使用的QR碼功能將被淘汰。 這包括使用新測試裝置的QR碼，以及使用QR碼建立新資產。 淘汰使用率較低的功能，可讓我們重新分配其資源，以進行Marketo Engage的整體維護。
 

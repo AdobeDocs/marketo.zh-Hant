@@ -3,9 +3,12 @@ description: 瞭解Marketo取消訂閱檢查，讓賣家無法傳送電子郵件
 title: Marketo 取消訂閱檢查
 exl-id: 3c242d04-cf6c-466b-9bcd-e77c6d97d308
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/RaIYKEVyjdeUlOa4paltYIS8NPZHi1XWTmO4IeLBy-o
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: 135
 ht-degree: 8%
 
 ---
@@ -28,7 +31,7 @@ ht-degree: 8%
 
    ![](assets/marketo-unsubscribe-check-2.png)
 
-1. 按一下「**[!UICONTROL Integrations]**」索引標籤。在[!UICONTROL Marketo Unsubscribe Check]區段中，按一下滑桿以啟動檢查。
+1. 按一下「**[!UICONTROL Integrations]**」索引標籤。 在[!UICONTROL Marketo Unsubscribe Check]區段中，按一下滑桿以啟動檢查。
 
    ![](assets/marketo-unsubscribe-check-3.png)
 

@@ -1,19 +1,23 @@
 ---
 unique-page-id: 7512272
-description: Add [!DNL Webex] Webinars as a LaunchPoint service to sync registration and attendance with Marketo.
+description: 新增 [!DNL Webex] 網路研討會作為LaunchPoint服務，以便與Marketo同步註冊及出席情況。
 title: 將 [!DNL Webex] 新增為 [!DNL LaunchPoint] 服務
 exl-id: 2c2cedde-d38f-4d53-a760-104b517afc4c
 feature: Administration, Integrations
-source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
+TQID: https://experienceleague.adobe.com/usUuncd-iS8bP6trbho6Y9aO-idLgQsYmSIgNCq7g2I
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: 97
 ht-degree: 10%
 
 ---
 
 # 將[!DNL Webex]新增為[!DNL LaunchPoint]服務 {#add-webex-as-a-launchpoint-service}
 
-Marketo Engage manages your [!DNL Webex] webinar registration and attendance. You must have an existing subscription to [[!UICONTROL Webex]](https://www.webex.com/).
+Marketo Engage會管理您的[!DNL Webex]網路研討會註冊與出席情況。 您必須有[[!UICONTROL Webex]](https://www.webex.com/)的現有訂閱。
 
 >[!NOTE]
 >
@@ -31,7 +35,7 @@ Marketo Engage manages your [!DNL Webex] webinar registration and attendance. Yo
 
    ![](assets/add-webex-as-a-launchpoint-service-3.png)
 
-1. 輸入&#x200B;**[!UICONTROL Display Name]**。 In the **[!UICONTROL Service]** drop-down, select **[!UICONTROL Webex Webinars]**.
+1. 輸入&#x200B;**[!UICONTROL Display Name]**。 在&#x200B;**[!UICONTROL Service]**&#x200B;下拉式清單中，選取&#x200B;**[!UICONTROL Webex Webinars]**。
 
    ![](assets/add-webex-as-a-launchpoint-service-4.png)
 
@@ -39,18 +43,18 @@ Marketo Engage manages your [!DNL Webex] webinar registration and attendance. Yo
 
    ![](assets/add-webex-as-a-launchpoint-service-5.png)
 
-1. Webex opens in a new tab. Log in using your Webex credentials.
+1. Webex會在新標籤中開啟。 使用您的Webex憑證登入。
 
    ![](assets/add-webex-as-a-launchpoint-service-6.png)
 
-1. Upon successful login, the tab closes and the _New Service_ modal in Marketo Engage reads &quot;Webex Webinars account is set.&quot; 按一下「**[!UICONTROL Create]**」。
+1. 成功登入後，索引標籤會關閉，且Marketo Engage中的&#x200B;_新服務_&#x200B;強制回應視窗會顯示「已設定Webex網路研討會帳戶」。 按一下「**[!UICONTROL Create]**」。
 
    ![](assets/add-webex-as-a-launchpoint-service-7.png)
 
-Your **[!DNL Webex]** is now synced with Marketo.
+您的&#x200B;**[!DNL Webex]**&#x200B;現在已與Marketo同步。
 
 ![](assets/add-webex-as-a-launchpoint-service-8.png)
 
 >[!MORELIKETHIS]
 >
->[Create an Event with [!DNL Webex]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md){target="_blank"}.
+>[使用 [!DNL Webex]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md){target="_blank"}建立事件。

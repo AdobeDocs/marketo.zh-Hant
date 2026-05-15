@@ -4,9 +4,11 @@ description: 瞭解如何將Marketo欄位新增至Salesforce Enterprise或Unlimi
 title: 步驟3之1 — 將Marketo欄位新增至Salesforce (Enterprise/Unlimited)
 exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 feature: Salesforce Integration
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/YYHZHerCNZ2xlShIBOz07jphJ15S5dGclIMMtb2HD0I
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '726'
+source-wordcount: 726
 ht-degree: 8%
 
 ---
