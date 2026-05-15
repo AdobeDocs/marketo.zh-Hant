@@ -4,7 +4,8 @@ title: 進階搜尋概觀
 exl-id: a7cf5078-1d24-4fc0-a82d-02f46f93893d
 feature: Sales Insight Actions
 TQID: https://experienceleague.adobe.com/J-LNmjNNqY98t8gHi9-nRTds113phlyIb66MWyvJagk
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 398
@@ -85,13 +86,13 @@ ht-degree: 4%
 
 ![](assets/advanced-search-overview-9.png)
 
-_**狀態：已傳送**_
+_&#x200B;**狀態：已傳送**&#x200B;_
 
 ![](assets/advanced-search-overview-10.png)
 
 依您傳送的電子郵件活動篩選。 您可以選擇[!UICONTROL views]/[!UICONTROL no views]、[!UICONTROL clicks]/[!UICONTROL no clicks]和/或[!UICONTROL replies]/[!UICONTROL no replies]。
 
-_**狀態：擱置中**_
+_&#x200B;**狀態：擱置中**&#x200B;_
 
 ![](assets/advanced-search-overview-11.png)
 
@@ -116,7 +117,7 @@ _**狀態：擱置中**_
  </tr>
 </table>
 
-_**狀態：未傳遞**_
+_&#x200B;**狀態：未傳遞**&#x200B;_
 
 ![](assets/advanced-search-overview-12.png)
 

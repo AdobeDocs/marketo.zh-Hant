@@ -5,9 +5,14 @@ title: 行銷活動報告
 exl-id: 13904129-c7e2-4bfa-b545-c85656d4262e
 feature: Reporting
 TQID: https://experienceleague.adobe.com/viQdAoYAe7zZlCEkibPytMEPaA-pKrAUxL8FS30EqMg
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: c5f60233-d5ea-4453-a799-0ad258b4d399id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 236
@@ -33,7 +38,7 @@ ht-degree: 4%
 
 >[!TIP]
 >
->若要尋找處理最多人員的行銷活動，例如，依&#x200B;_處理的總人數_&#x200B;排序您的報表](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"}，並選擇&#x200B;**遞減排序**。[
+>若要尋找處理最多人員的行銷活動，例如，依&#x200B;_處理的總人數_&#x200B;排序您的報表[&#128279;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"}，並選擇&#x200B;**遞減排序**。
 
 **[您可以為行銷活動報告包含](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)欄**：
 

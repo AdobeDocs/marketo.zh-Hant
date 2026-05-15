@@ -5,7 +5,8 @@ title: 取消訂閱歷史記錄卡片
 exl-id: ae44552d-7f9e-4f5c-bb22-62c55b63f3e6
 feature: Marketo Sales Connect
 TQID: https://experienceleague.adobe.com/AogYVGru2hgF-2rVus2wl96P7DqQ4MeN0Ib6jsvTgYI
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 154

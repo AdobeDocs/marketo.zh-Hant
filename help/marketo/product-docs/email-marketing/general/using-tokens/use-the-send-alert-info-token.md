@@ -5,9 +5,12 @@ title: 使用傳送警報資訊權杖
 exl-id: 950eb4d1-35d5-4e5c-9624-a38284bff987
 feature: Tokens
 TQID: https://experienceleague.adobe.com/aGDNauucFt-af6OXYlELf-jPMbWKoWZx1VAs7rOIhRs
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 264

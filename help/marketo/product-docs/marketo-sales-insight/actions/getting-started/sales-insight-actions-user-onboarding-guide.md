@@ -4,7 +4,8 @@ title: 銷售洞察動作使用者上線指南
 exl-id: ace517b6-3a06-4e2e-b545-8c95ad0cf457
 feature: Sales Insight Actions
 TQID: https://experienceleague.adobe.com/5nQmTIYbflu3p5Tpy8gJvyK8xTxZLaxJrpQQFudo9AU
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 316

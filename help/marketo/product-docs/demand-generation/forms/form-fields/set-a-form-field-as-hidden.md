@@ -5,8 +5,10 @@ title: 將表單欄位設定為隱藏
 exl-id: 6f293477-69ec-4f56-9800-cc1baaf80f94
 feature: Forms
 TQID: https://experienceleague.adobe.com/bMJsrHzOps-TijM8j6AyUBq0ropItYJQhfyw6a45rQE
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 81

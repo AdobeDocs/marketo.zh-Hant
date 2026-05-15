@@ -5,7 +5,8 @@ title: 在智慧清單中使用閒置狀態篩選器
 exl-id: 9e00c864-db3f-46cd-b65d-e4fd49d89ff5
 feature: Smart Lists
 TQID: https://experienceleague.adobe.com/Yn0UrS8Umo--Uhd7iGyUCI-aB0pTyY0jxrf2277qUSM
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 125

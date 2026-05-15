@@ -5,8 +5,11 @@ title: 使用人物誌
 exl-id: 8c8940ab-d336-494c-b6a0-dad09ed1c888
 feature: Target Account Management
 TQID: https://experienceleague.adobe.com/RRkO7yEFUgpggS2n6Ly0B7I7IjY5ATFhAYx93xbIP6w
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 198

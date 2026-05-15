@@ -5,9 +5,13 @@ title: 建立搭配 ReST API 使用的自訂服務
 exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
 feature: Administration
 TQID: https://experienceleague.adobe.com/7RYZTS-1WiaU0A8ThqHvk01S7GLIIP65xyKI3SIuPyo
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 150
@@ -47,7 +51,7 @@ ht-degree: 24%
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-3.png)
 
-1. 輸入服務的&#x200B;**[!UICONTROL Display Name]**。 選取先前建立的&#x200B;**[!UICONTROL API Only User]** [](/help/marketo/product-docs/administration/users-and-roles/create-api-only-user.md)。
+1. 輸入服務的&#x200B;**[!UICONTROL Display Name]**。 選取先前建立的&#x200B;**[!UICONTROL API Only User]** [&#128279;](/help/marketo/product-docs/administration/users-and-roles/create-api-only-user.md)。
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-4.png)
 

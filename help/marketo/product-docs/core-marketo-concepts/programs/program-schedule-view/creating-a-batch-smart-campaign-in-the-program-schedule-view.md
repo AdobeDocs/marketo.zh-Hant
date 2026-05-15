@@ -5,8 +5,11 @@ title: 在方案排程視圖中建立批次智慧行銷活動
 exl-id: 8baf07c5-d45f-4b17-9c9c-45063dd95aac
 feature: Programs
 TQID: https://experienceleague.adobe.com/fZmdpUAVhewcc7lyQ0yvp0mi0nR6nL1ADgr-lZvczZk
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 159

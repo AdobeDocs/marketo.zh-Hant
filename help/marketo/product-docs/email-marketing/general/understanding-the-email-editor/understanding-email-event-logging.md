@@ -5,8 +5,10 @@ title: 了解電子郵件事件記錄
 exl-id: 107d7f4a-ad38-44e4-95d8-760539aacede
 feature: Email Editor
 TQID: https://experienceleague.adobe.com/7ldlXmnupXohvFUDiniYCV9Idn1zOMUuynPneV5ovLY
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 306

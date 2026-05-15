@@ -5,9 +5,12 @@ title: 建立電子郵件範本
 exl-id: dfd91254-03fa-4f91-995d-ae4fe549a98d
 feature: Email Editor
 TQID: https://experienceleague.adobe.com/VLvIcKbZdX6oqItqsbeRB01kCNDALI3CfYPxgdqI4E4
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 265

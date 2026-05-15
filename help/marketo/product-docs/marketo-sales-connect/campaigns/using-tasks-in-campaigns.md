@@ -5,7 +5,8 @@ title: 在行銷活動中使用工作
 exl-id: 444e7e3a-d774-40cf-82d1-40e395a79baa
 feature: Marketo Sales Connect
 TQID: https://experienceleague.adobe.com/Irny7uMXziNEfsD1pww-v1MB68eDAWKFoQgCYXYsLhA
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 209

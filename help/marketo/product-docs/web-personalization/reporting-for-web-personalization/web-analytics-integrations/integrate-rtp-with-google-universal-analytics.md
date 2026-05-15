@@ -5,9 +5,16 @@ title: 將 RTP 與 Google Universal Analytics 整合
 exl-id: e8fc8730-c91d-44ad-8843-aa5b38f1ebd1
 feature: Web Personalization
 TQID: https://experienceleague.adobe.com/ozCazXzX-TzsUx61u7c30v2p-Z4k1b-kQbEsw9HvgPo
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e0eb8757-182f-49f3-94a4-1587d16f5094
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 414
@@ -36,7 +43,7 @@ ht-degree: 4%
 >* RTP維度是在[!DNL Google Universal Analytics]中建立
 >* 已在Google Tag Manager中正確安裝[RTP標籤](https://docs.marketo.com/display/public/DOCS/Implementing+RTP+using+Google+Tag+Manager)
 >* RTP的帳戶設定已啟用[!DNL Google Universal Analytics]整合
->* 已在Google Tag Manager](https://support.google.com/tagmanager/answer/6107124?hl=en)中正確設定[[!DNL Google Universal Analytics] 標籤
+>* 已在Google Tag Manager[&#128279;](https://support.google.com/tagmanager/answer/6107124?hl=en)中正確設定[!DNL Google Universal Analytics] 標籤
 >* [Google Tag Manager標籤已正確安裝您的網站](https://developers.google.com/tag-manager/quickstart)
 
 ## 在GUA中設定自訂維度 {#set-up-custom-dimensions-in-gua}

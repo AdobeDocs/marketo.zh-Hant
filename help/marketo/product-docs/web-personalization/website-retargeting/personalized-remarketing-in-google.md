@@ -5,9 +5,13 @@ title: Google 中的個人化再行銷
 exl-id: cc733f43-161d-41e4-afdf-8b5217700810
 feature: Web Personalization
 TQID: https://experienceleague.adobe.com/qAvf6tO5v6j29k3wWf3irTqhwv6EDq0eHzijvOjGXls
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 251
@@ -21,7 +25,7 @@ ht-degree: 5%
 
 >[!PREREQUISITES]
 >
->* 使用 [!DNL Web Personalization] 資料](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)設定完成[重新目標定位
+>* 使用 [!DNL Web Personalization] 資料[&#128279;](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)設定完成重新目標定位
 >* 檢閱Google Analytics說明的[再行銷](https://support.google.com/analytics/topic/2611283?hl=en&ref_topic=3413645)檔案。
 
 ## 在Google中建立再行銷對象 {#creating-a-remarketing-audience-in-google}
@@ -38,7 +42,7 @@ ht-degree: 5%
 
    ![](assets/image2015-1-15-17-3a32-3a4.png)
 
-1. 在對象產生器中，按一下[!UICONTROL Custom Dimensions]、[!UICONTROL [!]UICONTROL Custom Variables]、[!UICONTROL Events]下的&#x200B;**[!UICONTROL Sequences]**&#x200B;和&#x200B;**[!UICONTROL Find the RTP Data]**。
+1. 在對象產生器中，按一下[!UICONTROL Custom Dimensions]、[!UICONTROL UICONTROL [ !] Custom Variables]、[!UICONTROL Events]下的&#x200B;**[!UICONTROL Sequences]**&#x200B;和&#x200B;**[!UICONTROL Find the RTP Data]**。
 
 >[!TIP]
 >

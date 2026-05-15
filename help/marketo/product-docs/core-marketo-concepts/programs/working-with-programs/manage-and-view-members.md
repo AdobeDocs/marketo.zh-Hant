@@ -5,8 +5,10 @@ title: 管理和檢視成員
 exl-id: 8d6ad815-4022-4d4b-a258-2bc048ca48f9
 feature: Programs
 TQID: https://experienceleague.adobe.com/R5zgiFHzac-eB2VS1ri5e1Ww1POiM-huOLdFALKRU9s
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 245

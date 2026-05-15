@@ -5,7 +5,8 @@ title: 刪除內容
 exl-id: b4463baf-689f-432e-bf5b-375fe218a407
 feature: Predictive Content
 TQID: https://experienceleague.adobe.com/sV45l1U1foBNaxzunMOoqRsyPCGXuOf29qQfR38xs5I
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 68

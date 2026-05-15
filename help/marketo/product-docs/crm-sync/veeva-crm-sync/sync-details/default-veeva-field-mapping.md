@@ -4,7 +4,8 @@ title: 預設 [!DNL Veeva] 欄位對應
 exl-id: 3bf36d50-daea-431f-9537-b3007ad75945
 feature: Veeva CRM
 TQID: https://experienceleague.adobe.com/ilvA8-VMso0GUsszVRlK20lGSYmPNHRK-N4pEdJWfEY
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 272

@@ -5,7 +5,8 @@ title: 未記錄至 Salesforce
 exl-id: 99b7d023-257d-4421-80a5-ae54bced2658
 feature: Marketo Sales Connect
 TQID: https://experienceleague.adobe.com/M1LxJEhihbKrr-4Jwj6vmZJz89kpxKaeftapkukwvnk
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 88

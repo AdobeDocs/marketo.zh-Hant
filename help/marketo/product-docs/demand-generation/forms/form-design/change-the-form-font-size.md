@@ -5,8 +5,10 @@ title: 變更表單字體大小
 exl-id: 20774590-9209-4c3f-a791-dcbe7bb38031
 feature: Forms
 TQID: https://experienceleague.adobe.com/OEAPpTYS7qsHRiPRf-FyojfukRij174VuPkBDjdW7Wo
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 111

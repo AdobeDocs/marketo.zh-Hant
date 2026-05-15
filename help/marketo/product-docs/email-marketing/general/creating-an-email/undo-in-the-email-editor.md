@@ -5,7 +5,8 @@ title: 電子郵件編輯器中的還原
 exl-id: 5542defb-84cd-49a7-b2d0-5cd7e4df95d7
 feature: Email Editor
 TQID: https://experienceleague.adobe.com/Qg0yTU0csD8z1EoDlCVfKCDWig82IQOHd5By3mpTrxQ
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 78

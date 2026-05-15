@@ -6,8 +6,10 @@ exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
 hide: true
 feature: Integrations
 TQID: https://experienceleague.adobe.com/eRrJ4Lgmy5HYhtbSFCjUZmk549-1D7kgaqK-uE6-jO0
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 301
@@ -29,7 +31,7 @@ Marketo _社交應用程式_&#x200B;可讓您的潛在客戶透過其在Facebook
 
 您可以指定要在由共用從您的登入頁面產生的[!DNL Facebook]個豐富貼文中使用的頁面資訊型別。
 
-1. 在編輯器中選取__[!DNL YouTube_]_視訊或社交按鈕的&#x200B;**[!UICONTROL Facebook Message]**。
+1. 在編輯器中選取_&#x200B;_[!DNL YouTube_]_&#x200B;視訊或社交按鈕的&#x200B;**[!UICONTROL Facebook Message]**。
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 

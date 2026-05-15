@@ -5,9 +5,13 @@ title: 將方案狀態欄新增至方案報告
 exl-id: ab8e5be7-7ea6-4b69-b701-0c81ea556107
 feature: Programs
 TQID: https://experienceleague.adobe.com/zOGiLcZMeALJzxFQMi7DcUutqUOQbfuPDsGoM-zW7Yg
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 130
@@ -49,7 +53,7 @@ ht-degree: 13%
 
 >[!NOTE]
 >
->如果您在程式中沒有看到每個狀態的欄，請確定您已選取要在報表中顯示](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md){target="_blank"}的欄[。
+>如果您在程式中沒有看到每個狀態的欄，請確定您已選取要在報表中顯示[&#128279;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md){target="_blank"}的欄。
 
 >[!MORELIKETHIS]
 >

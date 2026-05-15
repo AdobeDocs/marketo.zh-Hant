@@ -5,7 +5,8 @@ title: 建立我的最愛
 exl-id: 017ae477-02e2-42de-a1b0-1f9a215ef73b
 feature: Mobile Marketing
 TQID: https://experienceleague.adobe.com/UnLXdxg-sd0tgf02Ix-E9GfRE22gYulKcpabRJ79CqU
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 119

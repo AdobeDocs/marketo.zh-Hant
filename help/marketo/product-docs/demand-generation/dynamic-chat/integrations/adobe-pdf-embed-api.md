@@ -4,9 +4,12 @@ title: Adobe PDF 嵌入式 API
 feature: Dynamic Chat
 exl-id: 27482f55-1bd1-423c-9154-f650532ff1e5
 TQID: https://experienceleague.adobe.com/zrFFmOWSbR53kY-NEFwUAdH8vSUoOa600mYpjqtyWfs
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-subfeature_v2: id: c942e9f6-ed06-481a-abdd-1195363d1452
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 149

@@ -5,8 +5,10 @@ title: 啟用適用於網頁豐富媒體的預測內容
 exl-id: 030f1dd7-8fe7-4c82-be5e-052f0a259e3c
 feature: Predictive Content
 TQID: https://experienceleague.adobe.com/wMtEDTeYvsyktbCKcgyvlt8PauPw7Z5uKdDHQkkV7jE
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-topic_v2: id: eb30f47f-d87a-400f-8f78-63ce7979ff56
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2:
+  - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 319
@@ -50,7 +52,7 @@ ht-degree: 6%
 
 ## 自訂Javascript程式碼並將其內嵌至您的網站  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-請參閱Marketo開發人員網站](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}上Rich Media Recommendation範本[的檔案。 以下說明如何自訂網站的範本。
+請參閱Marketo開發人員網站[&#128279;](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}上Rich Media Recommendation範本的檔案。 以下說明如何自訂網站的範本。
 
 將JavaScript程式碼貼入網站中您要顯示範本的位置。
 

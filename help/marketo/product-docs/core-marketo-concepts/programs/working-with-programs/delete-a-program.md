@@ -5,8 +5,10 @@ title: 刪除方案
 exl-id: c13dbb4a-36ea-49ee-aee2-a4af28750b0f
 feature: Programs
 TQID: https://experienceleague.adobe.com/y18Phz-vf3X41n9yADRIiUGcRLsjmHVlKzhHvqAa3X8
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 180

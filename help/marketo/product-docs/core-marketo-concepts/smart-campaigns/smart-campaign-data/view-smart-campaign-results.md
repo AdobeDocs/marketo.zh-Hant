@@ -5,9 +5,12 @@ title: 檢視智慧行銷活動結果
 exl-id: a883b2da-fbce-49f9-b18d-d75a90bd9c51
 feature: Smart Campaigns
 TQID: https://experienceleague.adobe.com/5yRRPiKZAZ1ip1BsoOi2JG9jzQfRKW1T8vCKix7wKnw
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: a7170d27-32ab-462b-a333-269abc654483
-subfeature_v2: id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 118

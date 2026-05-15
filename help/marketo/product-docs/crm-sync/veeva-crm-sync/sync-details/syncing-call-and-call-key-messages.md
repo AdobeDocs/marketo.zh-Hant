@@ -4,9 +4,12 @@ title: 同步呼叫和呼叫關鍵訊息
 exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
 feature: Veeva CRM
 TQID: https://experienceleague.adobe.com/IuF0jecYZcSgM6jZaVLeJO0CoSwBgYoxirK-9ZAiaWU
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 495

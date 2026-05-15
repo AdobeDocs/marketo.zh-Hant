@@ -5,10 +5,14 @@ title: 透過 TAM 進行帳戶型網路行銷
 exl-id: fa81e979-123a-4f60-95d0-dde3918b2ef3
 feature: Web Personalization
 TQID: https://experienceleague.adobe.com/BSlDYlNvFm1mZs9UP58HxZ2HLiLYjFrbt7WyCHzT1c4
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-subfeature_v2: id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
-topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2:
+  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 186
@@ -28,7 +32,7 @@ Marketo提供[[!UICONTROL Target Account Management]](/help/marketo/product-docs
 
    * **注意**：同步處理最多可能需要5分鐘
 
-* 在[!UICONTROL Web Personalization]中，您可以從您在TAM中建立的帳戶清單](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)建立[以帳戶為目標的區段，並個人化這些帳戶的內容
+* 在[!UICONTROL Web Personalization]中，您可以從您在TAM中建立的帳戶清單[&#128279;](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)建立以帳戶為目標的區段，並個人化這些帳戶的內容
 
 ## 針對現有ABWM客戶 {#for-existing-abwm-customers}
 

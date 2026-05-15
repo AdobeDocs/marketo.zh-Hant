@@ -4,7 +4,8 @@ title: 存取您的新 Sales Connect 執行個體
 exl-id: 0add0841-8909-4cb2-9db7-08a5e79b0ed8
 feature: Marketo Sales Connect
 TQID: https://experienceleague.adobe.com/zCpfluTnZK8pf7rYpuHEIKC97SkSoIQ-5Apq1KZv00Y
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 125

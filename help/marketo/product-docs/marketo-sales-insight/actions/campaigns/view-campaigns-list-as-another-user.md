@@ -4,7 +4,8 @@ title: 以其他使用者的身分檢視行銷活動清單
 exl-id: 6a196618-fe34-4770-b405-289f886eb389
 feature: Sales Insight Actions
 TQID: https://experienceleague.adobe.com/5QyodCKCmgH4o5-5yG9QPZ8N-m3tTozTjKEp7poGaUI
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 95

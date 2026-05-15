@@ -5,9 +5,12 @@ title: 電子郵件副本
 exl-id: 00550e98-916d-4e66-91f8-7394c242a29b
 feature: Email Editor
 TQID: https://experienceleague.adobe.com/gshenY7XsQYoWMkkrHQROoSu6uqtxUFxSsKSOLPPCAU
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399
-topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 562

@@ -4,7 +4,8 @@ title: 登入管理設定
 exl-id: 077f7f97-1413-4495-b2c9-94194e8dbcc2
 feature: Sales Insight Actions
 TQID: https://experienceleague.adobe.com/0NG6QpEVASL-Fponmbe25taZps60wJ5BdNui7FdlSrk
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 447

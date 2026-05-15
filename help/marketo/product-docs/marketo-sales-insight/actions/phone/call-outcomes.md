@@ -4,8 +4,10 @@ title: 通話結果
 exl-id: 0166c6fa-70d3-45ea-9138-f2d2c4c28b41
 feature: Sales Insight Actions
 TQID: https://experienceleague.adobe.com/o0-Z6U6RQpZgtSLT9OfO-oPL5VxTIdCtulvomn7VT2s
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-topic_v2: id: b5520579-b31f-4df7-9281-f0d9f91e2edc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2:
+  - id: b5520579-b31f-4df7-9281-f0d9f91e2edc
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 197

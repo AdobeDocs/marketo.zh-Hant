@@ -5,8 +5,10 @@ title: 編輯表單主題的 CSS
 exl-id: 33a124d5-2784-415b-80b6-623823f1eb19
 feature: Forms
 TQID: https://experienceleague.adobe.com/TL1wjn5oKpA2QO-6UKKkbQc3zbaQ2l7tdpHpj0-kN-M
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 176

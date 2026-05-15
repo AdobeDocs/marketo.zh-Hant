@@ -5,7 +5,8 @@ title: 新增權杖至電子郵件連結
 exl-id: b04d279a-b71a-4975-9992-23a51d075856
 feature: Tokens
 TQID: https://experienceleague.adobe.com/mglX2-TE36JiiJ5NbJwSsOKMWz-o1oE1v-XWdJ5D608
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 86

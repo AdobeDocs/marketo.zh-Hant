@@ -5,8 +5,10 @@ title: 新增欄位至表單
 exl-id: cda45a69-128b-4cdc-846e-637acb9555da
 feature: Forms
 TQID: https://experienceleague.adobe.com/1I3yFE0O-VlvjjPzNJv-ZEn7NRAd0emT8iBAonYkT1M
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 132

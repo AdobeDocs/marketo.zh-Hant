@@ -5,8 +5,10 @@ title: 設定隱藏表單欄位值
 exl-id: acec7de1-8567-42c0-a6ce-a91b0bf69f41
 feature: Forms
 TQID: https://experienceleague.adobe.com/uw1Xfgoa51WI-Ca6knnBGlwfrruPTYldJ--3zF5Jlzc
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 266
@@ -40,7 +42,7 @@ ht-degree: 6%
 
 >[!NOTE]
 >
->引數是技術性的。 一旦您瞭解這些功能，就表示它們是強大的。 查詢字串](https://en.wikipedia.org/wiki/Query_string)上的這個[Wikipedia頁面有些幫助。
+>引數是技術性的。 一旦您瞭解這些功能，就表示它們是強大的。 查詢字串[&#128279;](https://en.wikipedia.org/wiki/Query_string)上的這個Wikipedia頁面有些幫助。
 
 1. 為&#x200B;**[!UICONTROL Get Value Type]**&#x200B;選取&#x200B;**[!UICONTROL URL Parameter]**。
 

@@ -5,7 +5,8 @@ exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
 hide: true
 feature: Modern UX
 TQID: https://experienceleague.adobe.com/gcljHiX-bJ-h-9pkKO9L5504EY3QWwEROc4qfgyBILo
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 292

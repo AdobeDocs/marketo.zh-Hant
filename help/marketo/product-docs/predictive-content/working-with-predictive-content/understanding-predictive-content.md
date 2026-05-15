@@ -5,7 +5,8 @@ title: 了解預測內容
 exl-id: 3a8dd077-dc21-4d17-bc85-bb32e009dd94
 feature: Predictive Content
 TQID: https://experienceleague.adobe.com/gBdlrGHiT--9DZtU6kSvtDCqWC0XkC5Pqx6kPHSsqJI
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 289

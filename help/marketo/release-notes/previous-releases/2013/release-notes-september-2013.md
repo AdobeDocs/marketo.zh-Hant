@@ -5,8 +5,10 @@ title: 發行說明 — 2013年9月
 exl-id: 43428813-0405-4c35-9165-f189fbb5ffb7
 feature: Release Information
 TQID: https://experienceleague.adobe.com/7s-CIVh6O3Xk6UHzBObPRY5qhcr1wYhKor-Uzwg-vq8
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 486

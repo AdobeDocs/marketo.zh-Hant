@@ -5,8 +5,10 @@ title: 取代已上傳的影像或檔案
 exl-id: 2bd936bc-2103-49b0-98b5-55f45674a257
 feature: Image Editor
 TQID: https://experienceleague.adobe.com/6poiAxaLlG-5pOmdsleecF1-f6c8r6Sl0Tl-SPwJ2UQ
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 112

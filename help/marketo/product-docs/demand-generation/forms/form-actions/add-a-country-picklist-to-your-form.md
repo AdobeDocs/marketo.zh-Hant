@@ -5,8 +5,10 @@ title: 新增國家/地區選項清單至您的表單
 exl-id: b4725352-7116-4f08-b4ad-2affe81afbf4
 feature: Forms
 TQID: https://experienceleague.adobe.com/Y81zF-8yQXWydT7bb6x0OTKYPk4lw6It7ZkUxqVNssg
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 138

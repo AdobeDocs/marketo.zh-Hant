@@ -5,9 +5,12 @@ title: 檢視Marketo與 [!DNL Salesforce]之間的欄位對應
 exl-id: a60835ec-da8f-4141-af54-0160e2531581
 feature: Field Management
 TQID: https://experienceleague.adobe.com/V4DOlSyvtjeYodrvdMoHVsrqy3x09K3HKyKJuxzGz0I
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 94

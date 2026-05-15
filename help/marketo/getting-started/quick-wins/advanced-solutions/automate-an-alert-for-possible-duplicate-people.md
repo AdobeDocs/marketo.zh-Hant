@@ -5,7 +5,8 @@ title: 自動向可能重複的人員發出警報
 exl-id: 596c03f4-7a84-4564-bbe1-e7bc0d22a616
 feature: Getting Started
 TQID: https://experienceleague.adobe.com/KfVFpkEwzpT-mt8iAEzjD5vRPOs-nsBAefttaHK6kpI
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 157
@@ -20,7 +21,7 @@ ht-degree: 8%
 1. [建立新的Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}。 定義下列智慧清單：
 
 * 觸發程式： **[!UICONTROL Person is Created]**
-* 篩選器： **[!UICONTROL Duplicate Fields]**。 欄位名稱&#x200B;**[!UICONTROL is][!UICONTROL Full Name]**
+* 篩選器： **[!UICONTROL Duplicate Fields]**。 欄位名稱&#x200B;**[!UICONTROL is]&#x200B;[!UICONTROL Full Name]**
 
   ![](assets/automate-an-alert-1.png)
 

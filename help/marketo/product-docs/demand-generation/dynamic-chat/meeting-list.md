@@ -4,7 +4,8 @@ title: 會議清單
 feature: Dynamic Chat
 exl-id: d26aac7f-b22a-4bc8-b279-2a8522624106
 TQID: https://experienceleague.adobe.com/LFu75o-grfMTvl53VsQZ22pVPw9g2eyO-POBoQ1o7Qc
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 131

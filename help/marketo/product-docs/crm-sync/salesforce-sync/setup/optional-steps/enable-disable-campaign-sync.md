@@ -5,7 +5,8 @@ title: 啟用/停用行銷活動同步
 exl-id: a8d53268-75b9-479d-8ffc-b3f19eb77483
 feature: Salesforce Integration
 TQID: https://experienceleague.adobe.com/c-K2FlSiqt747Qb1CC0arLbfOD5-SdYeFN6zIMVWa1Q
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 76

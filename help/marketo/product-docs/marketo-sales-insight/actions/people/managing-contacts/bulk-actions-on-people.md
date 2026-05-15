@@ -4,8 +4,10 @@ title: 對人員執行大量動作
 exl-id: fcd89688-6905-4714-9254-42873eca8428
 feature: Sales Insight Actions
 TQID: https://experienceleague.adobe.com/2-KLQFrmCoj92iXhmKIAke-h4L2XPXgo2SeXFS9TQGE
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 145

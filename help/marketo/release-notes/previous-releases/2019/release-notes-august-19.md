@@ -5,8 +5,10 @@ title: 發行說明 — 2019年8月
 exl-id: 992af312-863c-419c-b6d4-cf5dd3b3e46c
 feature: Release Information
 TQID: https://experienceleague.adobe.com/9khB0o-UG6J245lAy9I1-Sw2wRtHsC1ekdotB7DqEh8
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080b
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 349

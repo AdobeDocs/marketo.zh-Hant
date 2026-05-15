@@ -5,7 +5,8 @@ title: 回應追蹤的運作原理
 exl-id: 8d087014-99b7-47ba-9f08-95b13bc16438
 feature: Marketo Sales Connect
 TQID: https://experienceleague.adobe.com/n3WVUG84dSlzCgmYbR1eSlFOL7dPyGasppSRgqiefMQ
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 179

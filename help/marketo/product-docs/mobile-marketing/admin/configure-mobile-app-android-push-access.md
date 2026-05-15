@@ -5,7 +5,8 @@ title: 設定行動應用程式 Android 推播存取權
 exl-id: 1204f36a-d960-4af6-a5d0-ee6b6720026a
 feature: Mobile Marketing
 TQID: https://experienceleague.adobe.com/b810nQX3dwtz2EqjOrPcFsbaJNb5Ti0MLaYHVQ5hqN0
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 91

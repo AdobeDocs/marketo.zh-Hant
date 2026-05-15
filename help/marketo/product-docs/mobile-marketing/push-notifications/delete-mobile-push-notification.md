@@ -5,7 +5,8 @@ title: 刪除行動推播通知
 exl-id: 1f9d523e-b7aa-4880-8249-48cce92751aa
 feature: Mobile Marketing
 TQID: https://experienceleague.adobe.com/xxppdk2knxCEkS--l7LyrgoDPl-i5RUvFMZPDmB8boc
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 71

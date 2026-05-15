@@ -5,7 +5,8 @@ title: 新增連結至自由格式登陸頁面中的影像
 exl-id: ad845417-2414-407f-998b-eeebe38f328f
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/affRhH-IV8B1M-BYs0vBk-8E3gteSLOudgQI3iWqnTc
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 124

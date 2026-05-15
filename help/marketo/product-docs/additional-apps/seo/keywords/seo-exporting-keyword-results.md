@@ -6,8 +6,10 @@ exl-id: cc1a2487-cdf1-4bf0-ba7a-a020483d0c6e
 hide: true
 feature: SEO
 TQID: https://experienceleague.adobe.com/V8HVfCGhMhXFAMkW5ruLIs0JAdN-JRK54uQnxXCrfmo
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-topic_v2: id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 174

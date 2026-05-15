@@ -5,8 +5,10 @@ title: 編輯表單中的欄位標籤
 exl-id: e9820766-5424-4fb8-bf26-2d38eb5e64cb
 feature: Forms
 TQID: https://experienceleague.adobe.com/0pqRxjLH5S2SkdOvyBOUDjG-dW5jvqBxNI9qPM4oFuY
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 121

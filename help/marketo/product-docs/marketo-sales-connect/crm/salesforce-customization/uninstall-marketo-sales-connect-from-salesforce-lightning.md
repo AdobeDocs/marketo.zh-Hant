@@ -3,8 +3,10 @@ description: 瞭解如何從Salesforce Lightning解除安裝Marketo Sales Connec
 title: 從 Salesforce Lightning 解除安裝 Marketo Sales Connect
 exl-id: 4af89222-22b1-4c08-8081-3dab89d1985b
 TQID: https://experienceleague.adobe.com/1f0f-aw1oeN0j0yITY2oSZmPAknfwzjey--8hLnNV3M
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 1202
@@ -116,7 +118,7 @@ ht-degree: 9%
 
    ![](assets/uninstall-salesforce-lightning-customization-package-18.png)
 
-1. 選取&#x200B;**新增至MSC促銷活動**、**含MSC的電子郵件**&#x200B;和&#x200B;**推送至MSC**，然後按一下[移除]箭頭。 然後按一下[儲存]。****
+1. 選取&#x200B;**新增至MSC促銷活動**、**含MSC的電子郵件**&#x200B;和&#x200B;**推送至MSC**，然後按一下[移除]箭頭。 然後按一下[儲存]。**&#x200B;**
 
    ![](assets/uninstall-salesforce-lightning-customization-package-19.png)
 
@@ -174,7 +176,7 @@ ht-degree: 9%
 
 1. 按一下&#x200B;**自訂我的標籤**。
 
-1. 從右側選取「Marketo銷售寄件匣」選項。 按一下[移除]箭頭，然後按一下[儲存]。****。
+1. 從右側選取「Marketo銷售寄件匣」選項。 按一下[移除]箭頭，然後按一下[儲存]。**&#x200B;**。
 
 ## 刪除Sales Connect封裝 {#delete-sales-connect-package}
 

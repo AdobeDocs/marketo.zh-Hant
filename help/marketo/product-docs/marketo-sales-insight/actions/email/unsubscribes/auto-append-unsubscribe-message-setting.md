@@ -4,8 +4,10 @@ title: 自動附加取消訂閱訊息設定
 feature: Sales Insight Actions
 exl-id: 17734f62-74e6-4168-a9c8-7835e3daf5ff
 TQID: https://experienceleague.adobe.com/4iAq0-giVwuDcqaoi8QnLN35QO67RSlgHYXFYaUebZg
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 184
@@ -27,7 +29,7 @@ ht-degree: 5%
 
    ![](assets/auto-append-unsubscribe-message-setting-1.png)
 
-1. 在[管理設定]下，按一下[取消訂閱]。****
+1. 在[管理設定]下，按一下[取消訂閱]。**&#x200B;**
 
    ![](assets/auto-append-unsubscribe-message-setting-2.png)
 

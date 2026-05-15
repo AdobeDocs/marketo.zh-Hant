@@ -5,7 +5,8 @@ title: 啟用/停用 Salesforce 同步
 exl-id: 3238f149-6aa3-4207-aae9-e404cf519414
 feature: Salesforce Integration
 TQID: https://experienceleague.adobe.com/HxNiD8gOQAVK3EG6tLzgSdXDg41molWzswqkZtmkuxA
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 98

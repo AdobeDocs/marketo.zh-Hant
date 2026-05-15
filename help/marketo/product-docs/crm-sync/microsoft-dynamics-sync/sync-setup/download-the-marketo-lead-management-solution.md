@@ -5,7 +5,8 @@ title: 下載Marketo銷售機會管理解決方案
 exl-id: 2deafcfc-19f4-4cbf-8764-402a7f69c7d2
 feature: Microsoft Dynamics
 TQID: https://experienceleague.adobe.com/fxE18va6cOwHd6rMyPBcvme0dpBe2htCV4TkoJsEKZM
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 100

@@ -5,7 +5,8 @@ title: 如何設定自訂網域追蹤
 exl-id: 55a9b5b7-214d-44e6-a52b-612d03835f01
 feature: Marketo Sales Connect
 TQID: https://experienceleague.adobe.com/iK8QMNOkLI25nbr0laGsU6sM6-ChiAlmcsModzw3Fkk
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 102

@@ -5,7 +5,8 @@ title: TAM 階層
 exl-id: 41364270-bd85-4ca3-921e-842c0dedc167
 feature: Target Account Management
 TQID: https://experienceleague.adobe.com/1Hdh2uh90jHYSvTBi5Jd9nv93iudLKghcp5aj29TmGk
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 159

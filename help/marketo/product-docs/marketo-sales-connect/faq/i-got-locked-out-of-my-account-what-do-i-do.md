@@ -5,7 +5,8 @@ title: 我無法進入我的帳戶。 我該如何處理？
 exl-id: ee6b61f8-24d5-4520-a111-00ece2ba02bc
 feature: Marketo Sales Connect
 TQID: https://experienceleague.adobe.com/Zpx6-D-OVy7JTcm7sNMptXKR2H44-VEZR5LRQo3sD-g
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 77

@@ -5,7 +5,8 @@ title: 視圖追蹤的運作原理
 exl-id: 5eae19f7-c360-486a-9da5-38a3059ad7af
 feature: Marketo Sales Connect
 TQID: https://experienceleague.adobe.com/ZhM38XC2nxZuvt7-HFX9JfXW2abdbGHBYOwrmg-pMmg
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 122

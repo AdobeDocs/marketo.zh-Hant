@@ -4,7 +4,8 @@ title: 使用全域搜尋
 exl-id: eb50013b-9595-4fe1-bd5e-b2d5ca185de4
 feature: Modern UX
 TQID: https://experienceleague.adobe.com/fPEv2wEzmfKQEAvmvxUiTAUCcArfbkwAHNioHHPMamU
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 171

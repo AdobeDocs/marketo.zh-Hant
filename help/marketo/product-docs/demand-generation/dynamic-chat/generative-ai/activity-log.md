@@ -4,7 +4,8 @@ title: 活動記錄
 feature: Dynamic Chat
 exl-id: cddeccc3-3093-48b4-9b8a-13269b5b51e5
 TQID: https://experienceleague.adobe.com/U37pw5bR2HNvl-ZhnvZ65dTLm3nhASdA6NP-umDFUhQ
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 62

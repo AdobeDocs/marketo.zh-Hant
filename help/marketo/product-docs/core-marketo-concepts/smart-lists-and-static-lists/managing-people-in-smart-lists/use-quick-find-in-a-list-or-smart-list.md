@@ -5,7 +5,8 @@ title: 在清單或智慧清單中使用快速尋找
 exl-id: c8ec3d13-0432-400a-acd8-13df709bc29e
 feature: Smart Lists
 TQID: https://experienceleague.adobe.com/PryszoOP-ARYY3MwaOrHmMuW3VlOdssIZ8xeDdGFemA
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 148

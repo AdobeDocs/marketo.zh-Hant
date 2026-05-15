@@ -5,8 +5,10 @@ title: 範本 19B
 exl-id: 8224c9ad-b732-4a75-9966-446980db55ef
 feature: Landing Pages, Guided Landing Page Templates
 TQID: https://experienceleague.adobe.com/wkBdCMTfMDzS1fiRvT4E0P-RlL1nZ3dloxZ8Hy0PiQs
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 76

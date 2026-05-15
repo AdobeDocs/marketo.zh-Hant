@@ -3,8 +3,10 @@ description: 瞭解如何在Salesforce中新增銷售Insight動作的自訂活�
 title: 將銷售活動屬性記錄至 Salesforce
 exl-id: fdefe53b-eb99-48ce-a04e-3666be33fea4
 TQID: https://experienceleague.adobe.com/eHt6JXey7ZwZ8RjqTsGxqcFjun73vh3s4zk3cCqAiq8
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 241

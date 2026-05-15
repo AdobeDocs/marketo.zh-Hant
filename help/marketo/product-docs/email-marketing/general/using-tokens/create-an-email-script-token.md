@@ -5,8 +5,10 @@ title: 建立電子郵件指令碼權杖
 exl-id: c7f8c3e0-6d64-4115-b9b6-261576360ba1
 feature: Tokens
 TQID: https://experienceleague.adobe.com/3FbkNKaOjEX--zXCOC1EHLEVr5ChimEOJTROMY0bHmc
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 243

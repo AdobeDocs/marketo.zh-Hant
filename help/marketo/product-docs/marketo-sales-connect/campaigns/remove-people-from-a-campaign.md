@@ -5,7 +5,8 @@ title: 從行銷活動中移除人員
 exl-id: 700bf1eb-2e8d-46e6-9f93-704708b57543
 feature: Marketo Sales Connect
 TQID: https://experienceleague.adobe.com/ztlUTzx-jSFplSRg9FyEWFID4RIdEHZh6J-I6DXhte4
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 269

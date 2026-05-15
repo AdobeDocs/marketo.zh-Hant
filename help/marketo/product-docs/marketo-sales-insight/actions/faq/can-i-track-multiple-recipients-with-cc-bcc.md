@@ -4,7 +4,8 @@ title: 我可以使用副本/密件副本追蹤多個收件者嗎
 exl-id: cc14cbb5-6c1f-470c-9836-dd853ef7befc
 feature: Sales Insight Actions
 TQID: https://experienceleague.adobe.com/IrCQgggwZlh9qC0j3dAAniEBt60oRfJtaOt3C6qclYk
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 94

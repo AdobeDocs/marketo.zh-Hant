@@ -5,7 +5,8 @@ title: 了解 Marketo On24 Adapter 事件
 exl-id: 00c3ac54-b139-4cff-af53-d4d83d2610f9
 feature: Events
 TQID: https://experienceleague.adobe.com/LtTKin68LiI09y1m2hu1BIhhSE4d03-HkGHCfsDNxE0
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 145

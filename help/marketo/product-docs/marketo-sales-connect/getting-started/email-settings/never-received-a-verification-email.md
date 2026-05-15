@@ -5,7 +5,8 @@ title: 未曾收到驗證電子郵件
 exl-id: 3378f7c1-7203-4405-a57d-8d0556821ed1
 feature: Marketo Sales Connect
 TQID: https://experienceleague.adobe.com/Md4pBKQ6qDq2AjrO0-AcxWvFS-38iEeOazo53DRm1RY
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 63

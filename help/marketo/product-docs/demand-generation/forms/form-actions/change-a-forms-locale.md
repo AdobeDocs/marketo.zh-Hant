@@ -5,8 +5,10 @@ title: 變更表單的地區設定
 exl-id: 811153b7-27e6-407d-abbe-c29dc39944d7
 feature: Forms
 TQID: https://experienceleague.adobe.com/iLHzFDecLt3n1I50K0JboEH6SDBAecBqId-oFf8HH4s
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 125

@@ -5,7 +5,8 @@ title: 讓 Marketo 同步使用者成為行銷使用者
 exl-id: 2bbaf4d3-0bcf-4917-afe1-da9ae9b06a28
 feature: Salesforce Integration
 TQID: https://experienceleague.adobe.com/42ACB3EIyob3z4J9OAXmejZCHIxQ6nmoTayn67kw4-8
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 110

@@ -5,7 +5,8 @@ title: 預覽包含動態內容的電子郵件
 exl-id: 7d27f73c-d38b-4d95-a861-b27367f1f532
 feature: Email Editor
 TQID: https://experienceleague.adobe.com/aqq-w-CNbbGHgeB5uwjdOJwsJJVI1OgaWv8zmde7xto
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 118

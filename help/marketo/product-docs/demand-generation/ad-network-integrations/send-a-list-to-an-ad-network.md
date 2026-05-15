@@ -4,8 +4,10 @@ title: 傳送清單至廣告網路
 exl-id: d5c55df7-53c8-491a-9d79-ecf7c25cee08
 feature: Integrations
 TQID: https://experienceleague.adobe.com/gGzy0KwofHjk0EPTVNsz5dRpE4qrwNlOaJCHJMn924w
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 216

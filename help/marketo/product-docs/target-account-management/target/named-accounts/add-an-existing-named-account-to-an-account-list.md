@@ -5,7 +5,8 @@ title: 將現有已命名帳戶新增至帳戶清單
 exl-id: 5c6c535c-05da-4d7e-b764-cdbbcc7ec415
 feature: Target Account Management
 TQID: https://experienceleague.adobe.com/12lp3121xP2hO8rb4oQSBb1noH6qsw3ZGMVMumabwPM
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 93

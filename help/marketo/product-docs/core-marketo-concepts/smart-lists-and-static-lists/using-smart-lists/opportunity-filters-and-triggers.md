@@ -5,7 +5,8 @@ title: 機會篩選器和觸發程序
 exl-id: 5b372c00-1553-4ac3-a495-53e208371d8d
 feature: Smart Lists
 TQID: https://experienceleague.adobe.com/e5Nz6uthpqduyCkhoo1or70-Ych-DaAeZ-iOSEPxyA8
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 483

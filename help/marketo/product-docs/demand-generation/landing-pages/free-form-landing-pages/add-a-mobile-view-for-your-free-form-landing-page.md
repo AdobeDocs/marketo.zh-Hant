@@ -5,8 +5,10 @@ title: 新增自由格式登陸頁面的行動裝置視圖
 exl-id: 1fc9689f-a39c-4ab4-9b03-0953fe229a8c
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/LG5T0Wbo05-MpqhFgcBWsvj9mZsLwVc4iSsaJmvWfOQ
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 143
@@ -20,7 +22,7 @@ ht-degree: 19%
 
 >[!NOTE]
 >
->行動檢視可在480px寬（或更小）的熒幕上運作。 換句話說，就是智慧型手機。 以下是裝置解析度](https://www.mydevice.io/)的更多[資訊。
+>行動檢視可在480px寬（或更小）的熒幕上運作。 換句話說，就是智慧型手機。 以下是裝置解析度[&#128279;](https://www.mydevice.io/)的更多資訊。
 
 1. 前往 **[!UICONTROL Marketing Activities]**。
 

@@ -5,9 +5,13 @@ title: 版本注意事項 - 2013 年 10 月
 exl-id: f392521e-a5bd-47cd-af5c-d801718ca4e0
 feature: Release Information
 TQID: https://experienceleague.adobe.com/lexl-Fibn0yqcT5uf00CnQPBGILwoVYA5k7XzzfCCrs
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2: id: fc9b09fe-b844-4544-887b-e420c3b82065
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2:
+  - id: fc9b09fe-b844-4544-887b-e420c3b82065
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 147

@@ -5,7 +5,8 @@ title: 發行說明 — 2017年4月ABM增強功能
 exl-id: 2b8b1ed2-de57-42c2-a3f5-3b49895d7595
 feature: Release Information
 TQID: https://experienceleague.adobe.com/noMsArEWgsfva-i-aBQkQUmhsnVPNRhZHmbodhGcExU
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 136

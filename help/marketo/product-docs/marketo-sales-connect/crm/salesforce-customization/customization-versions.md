@@ -5,7 +5,8 @@ title: 自訂版本
 exl-id: 4ca3e330-0d3f-428b-a2a4-19bce63ca08c
 feature: Marketo Sales Connect
 TQID: https://experienceleague.adobe.com/-F9r5sTkTh8-MzNPar6fpT1q2zxeIPp-q3LtR16ML5I
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 76

@@ -4,9 +4,12 @@ title: 執行行銷活動
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 feature: Smart Campaigns
 TQID: https://experienceleague.adobe.com/ggWhZOpbixcuP8E1mXOU4w49S-HQyT-NuXtLhFKGeeU
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: a7170d27-32ab-462b-a333-269abc654483
-subfeature_v2: id: ad89fb33-8541-4339-afe7-bb13d1633714
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+subfeature_v2:
+  - id: ad89fb33-8541-4339-afe7-bb13d1633714
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 718
@@ -64,7 +67,7 @@ ht-degree: 1%
 
 **API互動**
 
-在API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch)中使用排程或請求促銷活動[時，兩者都可以讓您傳遞「我的Token」的值，這會覆寫為您呼叫之促銷活動中的這些Token設定的值。 如果該行銷活動接著執行另一個行銷活動並設定「使用父項內容為True」，則它會使用透過API傳遞的值，而不是應用程式中設定的值。
+在API[&#128279;](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch)中使用排程或請求促銷活動時，兩者都可以讓您傳遞「我的Token」的值，這會覆寫為您呼叫之促銷活動中的這些Token設定的值。 如果該行銷活動接著執行另一個行銷活動並設定「使用父項內容為True」，則它會使用透過API傳遞的值，而不是應用程式中設定的值。
 
 ## 注意事項 {#things-to-note}
 

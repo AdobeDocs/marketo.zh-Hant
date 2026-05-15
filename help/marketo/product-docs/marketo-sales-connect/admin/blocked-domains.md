@@ -5,7 +5,8 @@ title: 已封鎖的網域
 exl-id: 67e27112-8ade-4167-9c58-8a6839bdb6cc
 feature: Marketo Sales Connect
 TQID: https://experienceleague.adobe.com/f1GMgzy-qDsQg5sEx6JkVXCpCgs1yjn5UHkdL5DZ2JU
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 97

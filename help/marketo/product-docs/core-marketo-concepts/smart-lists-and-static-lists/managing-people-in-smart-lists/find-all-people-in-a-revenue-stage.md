@@ -5,7 +5,8 @@ title: 找到處於收入階段的所有人
 exl-id: aa5b30bf-96f1-4c1f-8170-86ba808e9705
 feature: Smart Lists
 TQID: https://experienceleague.adobe.com/-cODXA865GaIRdn34vnODbn7HCmp7Tf8J9OOOOOaswQ
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 148

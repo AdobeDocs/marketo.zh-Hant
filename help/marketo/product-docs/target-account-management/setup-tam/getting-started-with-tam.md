@@ -5,7 +5,8 @@ title: TAM 快速入門
 exl-id: 95fd6c22-7ef8-4184-aeff-7586d12ec495
 feature: Target Account Management
 TQID: https://experienceleague.adobe.com/GTPzG-MpCbU0vy85c8tc5gBqb8CeTI9eTamHsPdascU
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 305

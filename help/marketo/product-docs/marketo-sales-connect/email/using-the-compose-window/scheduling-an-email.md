@@ -5,7 +5,8 @@ title: 安排電子郵件傳送時間
 exl-id: db79ef1f-92f4-4afa-97c8-655299c59406
 feature: Marketo Sales Connect
 TQID: https://experienceleague.adobe.com/dztU4ffCzIPtOTpnv7zQjSqPw2-6ZrX1drDtHkE2Y-A
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 145

@@ -5,8 +5,10 @@ title: 從網頁抓取影像
 exl-id: 5dd406da-082e-43cf-9d5e-3da2b960927d
 feature: Image Editor
 TQID: https://experienceleague.adobe.com/7QJj1DvaBOQ-ZC5JrpFZ3lchV1t2t-2GpRX4uEmC-s0
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 162

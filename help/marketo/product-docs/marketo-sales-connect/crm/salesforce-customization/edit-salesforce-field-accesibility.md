@@ -5,8 +5,11 @@ title: 編輯 Salesforce 欄位可存取性
 exl-id: e4ef29c8-f6ab-4dca-b56e-907c7d2e5263
 feature: Marketo Sales Connect
 TQID: https://experienceleague.adobe.com/eFjPJNOFm7BRh7tR-dJH1-QrbhZ7gYiVEBfvIWY1uyI
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-topic_v2: id: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: d095671a-1355-40aa-8b5f-06c33c68080b
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2:
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 124

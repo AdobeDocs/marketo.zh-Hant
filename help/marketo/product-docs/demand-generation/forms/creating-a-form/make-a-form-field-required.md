@@ -5,8 +5,10 @@ title: 使表單欄位成為必填欄位
 exl-id: f07c4dd8-457a-442b-9ef8-89b51647829b
 feature: Forms
 TQID: https://experienceleague.adobe.com/JbWhwOQPZU2H4NzgKgYo1N6ThKwBHeKwWF2xeO-xczs
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 104

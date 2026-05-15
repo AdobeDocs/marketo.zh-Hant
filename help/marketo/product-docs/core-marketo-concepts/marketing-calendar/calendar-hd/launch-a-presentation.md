@@ -5,7 +5,8 @@ title: 啟動簡報
 exl-id: 2726e185-c28a-44bb-b7a6-46698efcd1b4
 feature: Marketing Calendar
 TQID: https://experienceleague.adobe.com/NlP4JyoKtroa4OS7wLQkjpMsY1P4U1QOx6eozYTuB1Q
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 113

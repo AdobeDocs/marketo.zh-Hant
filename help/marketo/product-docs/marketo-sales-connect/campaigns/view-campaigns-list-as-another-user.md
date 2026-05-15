@@ -5,7 +5,8 @@ title: 以其他使用者的身分檢視行銷活動清單
 exl-id: 4efb565d-2760-4faa-93a3-c2e49b8b8ff3
 feature: Marketo Sales Connect
 TQID: https://experienceleague.adobe.com/XnIOX7c3XNBSVGmCWey8f2niODpiKWRODuEhjkFxM4E
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 96

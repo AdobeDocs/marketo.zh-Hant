@@ -5,7 +5,8 @@ title: 在行銷行事曆中刪除篩選器
 exl-id: 1c53f346-ab35-44d4-9b8a-6e31f97044ca
 feature: Marketing Calendar
 TQID: https://experienceleague.adobe.com/yz7ySu7PcMw75WILn3vC-JiIUE2oqMVlmTn6pVIF67E
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 36

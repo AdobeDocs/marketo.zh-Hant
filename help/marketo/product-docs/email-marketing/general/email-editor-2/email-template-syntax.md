@@ -5,8 +5,10 @@ title: 電子郵件範本語法
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
 TQID: https://experienceleague.adobe.com/-evGqvMqkaIP3CDAe5bKvGchxRhIoOkUPTpnlQlb-40
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 2464
@@ -39,7 +41,7 @@ Marketo 電子郵件語法僅適用於範本和個別電子郵件；如果內嵌
 
 ## RTF 文字 {#rich-text}
 
-如果您將區域定義為 RTF 文字，則使用者即可](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)使用 Marketo 的 RTF 文字編輯器[編輯其內容。 在電子郵件範本內定義 RTF 文字元素的方法有兩種：mktEditable 和 mktoText。 請謹記，RTF 文字一律可以在電子郵件編輯器中轉換為程式碼片段。
+如果您將區域定義為 RTF 文字，則使用者即可[&#128279;](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)使用 Marketo 的 RTF 文字編輯器編輯其內容。 在電子郵件範本內定義 RTF 文字元素的方法有兩種：mktEditable 和 mktoText。 請謹記，RTF 文字一律可以在電子郵件編輯器中轉換為程式碼片段。
 
 ### 選項 1 - mktEditable {#option-mkteditable}
 

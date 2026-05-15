@@ -5,7 +5,8 @@ title: 新增背景影像至簡報
 exl-id: 3ca33701-0f94-448a-8ecc-45d0b2bfb38e
 feature: Marketing Calendar
 TQID: https://experienceleague.adobe.com/fKxbaDF1Nl28XGIPqxz1M-RJfOUuGKXPJajfzwO4jOU
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 102

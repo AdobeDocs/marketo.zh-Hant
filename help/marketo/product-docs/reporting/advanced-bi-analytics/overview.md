@@ -4,10 +4,17 @@ title: 進階 BI 分析概觀
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
 TQID: https://experienceleague.adobe.com/l-H2ZQsoyNEddqb-3cVWjz0GYS6kNaVEPUp8-NPX46Q
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-subfeature_v2: id: b9f06cb0-cdf7-4b83-a9d1-a701d132779b
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+subfeature_v2:
+  - id: b9f06cb0-cdf7-4b83-a9d1-a701d132779b
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 1092
@@ -69,7 +76,7 @@ Advanced BI Analytics （先前稱為Revenue Explorer和Advanced Report Builder�
 
 >[!BEGINTABS]
 
->從報告頁面[!TAB ]
+>[!TAB 從報告頁面] 
 
 1. 在報表頁面上，按一下「更多」圖示(...) 並選取&#x200B;**匯出**。
 

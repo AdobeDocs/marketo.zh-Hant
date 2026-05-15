@@ -5,7 +5,8 @@ title: 跳過週末
 exl-id: 4d7bf11a-71a2-4ae0-ad24-02be81e53957
 feature: Marketo Sales Connect
 TQID: https://experienceleague.adobe.com/svilh3tgrWWepx7-Bn9VhoFTpDwTWGCTVKv2Awu6KFU
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 77
@@ -17,7 +18,7 @@ ht-degree: 6%
 
 當行銷活動自動化時，您可能不希望您的電子郵件在星期六或星期日外寄。 如果沒有，您可以略過週末。
 
-1. 在[!DNL Sales Connect]中，按一下&#x200B;**[!UICONTROL  Campaigns]**&#x200B;標籤。
+1. 在[!DNL Sales Connect]中，按一下&#x200B;**[!UICONTROL &#x200B; Campaigns]**&#x200B;標籤。
 
    ![](assets/one-2.png)
 

@@ -4,7 +4,8 @@ title: 通話原因
 exl-id: 82533d6b-a373-49c7-9cee-271e36916111
 feature: Sales Insight Actions
 TQID: https://experienceleague.adobe.com/EYf6JhfnBf-Xk6JeRQs4ojd-F-H3C4iT8DbgFfuyrSk
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 181
@@ -56,7 +57,7 @@ ht-degree: 2%
 
    ![](assets/call-reasons-7.png)
 
-1. 在文字欄位中輸入您想要的來電原因名稱，然後按一下[新增]。****
+1. 在文字欄位中輸入您想要的來電原因名稱，然後按一下[新增]。**&#x200B;**
 
    ![](assets/call-reasons-8.png)
 

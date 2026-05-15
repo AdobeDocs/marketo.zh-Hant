@@ -5,8 +5,10 @@ title: 變更表單標籤位置
 exl-id: b4291454-f6f8-4800-b806-6ea56d6f83cd
 feature: Forms
 TQID: https://experienceleague.adobe.com/IxxxWXYM9gLd8QgtwAYtW0A1Fb0DuqeQ5PuQT1i36xc
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 95

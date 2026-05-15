@@ -5,7 +5,8 @@ title: 收件者位置不正確
 exl-id: bb605522-367c-4a64-a547-e5b7b60e9a4c
 feature: Marketo Sales Connect
 TQID: https://experienceleague.adobe.com/WXaXEsRVgKATa1H9guhuLGgZk35IjK8Z5dZTbISfF5Q
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 125

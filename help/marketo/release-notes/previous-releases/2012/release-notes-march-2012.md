@@ -5,7 +5,8 @@ title: 發行說明 — 2012年3月
 exl-id: 8dce59bf-6349-4e47-b07b-8302b5039739
 feature: Release Information
 TQID: https://experienceleague.adobe.com/zX0tE831yiWUKWze-duVCVXeUXcMorLMZdm9512RlkU
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 249

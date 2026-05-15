@@ -4,7 +4,8 @@ title: 管理群組
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
 TQID: https://experienceleague.adobe.com/yN7o-BB4oNeM-x78M5-CH3WDctyqoO-mlZriZGGRn8A
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 324
@@ -75,7 +76,7 @@ ht-degree: 3%
 
    ![](assets/manage-groups-6.png)
 
-1. 選取您要新增它們的群組，然後按一下[新增]。****
+1. 選取您要新增它們的群組，然後按一下[新增]。**&#x200B;**
 
    ![](assets/manage-groups-7.png)
 

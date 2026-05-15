@@ -5,7 +5,8 @@ title: 在電子郵件中加入行事曆事件 (.ics)
 exl-id: 077181ec-73e7-4b58-a473-46b0764d6b32
 feature: Email Editor
 TQID: https://experienceleague.adobe.com/ZJ9XMMLrtdu---ij5DISsdhUTvJ6hjJl07STUdEgWfw
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 101

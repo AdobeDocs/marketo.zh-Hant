@@ -5,9 +5,13 @@ title: 效能洞察概觀
 exl-id: f89f8500-5623-4ee2-a7c0-1d561dd40687
 feature: Reporting
 TQID: https://experienceleague.adobe.com/FAsjOuq5ZH1WEmEZm2Z9TpQB6W7A9wgHIouafiX1nsM
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 249
@@ -31,7 +35,7 @@ Marketo [!UICONTROL Performance Insights]可協助您最佳化管道組合，以
 
 ## 貢獻 {#contribution}
 
-評估行銷對收入](/help/marketo/product-docs/reporting/performance-insights/performance-insights-contribution-overview.md)的[貢獻，作為客戶贏取、影響力、轉換，甚至安裝基礎增長的函式。
+評估行銷對收入[&#128279;](/help/marketo/product-docs/reporting/performance-insights/performance-insights-contribution-overview.md)的貢獻，作為客戶贏取、影響力、轉換，甚至安裝基礎增長的函式。
 
 ![](assets/two.png)
 

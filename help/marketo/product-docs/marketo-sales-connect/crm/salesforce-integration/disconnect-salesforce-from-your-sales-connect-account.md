@@ -5,7 +5,8 @@ title: 從您的 Sales Connect 帳戶中斷與 Salesforce 的連接
 exl-id: 7b40ba8f-b852-4de1-bc1d-1206259c2880
 feature: Marketo Sales Connect
 TQID: https://experienceleague.adobe.com/lpF4DjG2mzxkt5QZfx5VKSSxvGbjRyjt9Tw1G6D-E0A
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 88
@@ -15,7 +16,7 @@ ht-degree: 18%
 
 # 從您的 Sales Connect 帳戶中斷與 Salesforce 的連接 {#disconnect-salesforce-from-your-sales-connect-account}
 
-有時您可能需要中斷與[!DNL Sales Connect]帳戶的[!DNL  Salesforce]帳戶連線。 方法如下。
+有時您可能需要中斷與[!DNL Sales Connect]帳戶的[!DNL &#x200B; Salesforce]帳戶連線。 方法如下。
 
 ## 如何以管理員身分中斷與Salesforce的連線 {#how-to-disconnect-from-salesforce-as-an-admin}
 
@@ -23,7 +24,7 @@ ht-degree: 18%
 
    ![](assets/one-1.png)
 
-1. 在[!UICONTROL  Admin Settings]底下，按一下&#x200B;**[!UICONTROL Salesforce]**。
+1. 在[!UICONTROL &#x200B; Admin Settings]底下，按一下&#x200B;**[!UICONTROL Salesforce]**。
 
    ![](assets/six-1.png)
 
@@ -33,7 +34,7 @@ ht-degree: 18%
 
 ## 如何以非管理員身分中斷與Salesforce的連線 {#how-to-disconnect-from-salesforce-as-a-non-admin}
 
-1. 在[!DNL  Sales Connect]中，按一下右上方的齒輪圖示並選取&#x200B;**[!UICONTROL Settings]**。
+1. 在[!DNL &#x200B; Sales Connect]中，按一下右上方的齒輪圖示並選取&#x200B;**[!UICONTROL Settings]**。
 
    ![](assets/one-1.png)
 

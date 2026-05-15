@@ -5,9 +5,13 @@ title: 在 Microsoft Dynamics 365 中安裝及設定 Marketo 銷售洞察
 exl-id: c1f06b8c-48fd-4015-9502-7c9693632589
 feature: Marketo Sales Insights
 TQID: https://experienceleague.adobe.com/F3iRn29xvOCHkuXSitfaT8iPJrlOXKeTQ3sxtGHpXGg
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080bid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 398
@@ -47,7 +51,7 @@ ht-degree: 5%
 
    ![](assets/image2014-12-12-9-3a5-3a27.png)
 
-1. 在新視窗中，按一下&#x200B;**[!UICONTROL Browse]**。 選擇您在步驟1](#msi)下載的[Marketo Sales Insight解決方案。 按一下「**[!UICONTROL Next]**」。
+1. 在新視窗中，按一下&#x200B;**[!UICONTROL Browse]**。 選擇您在步驟1[&#128279;](#msi)下載的Marketo Sales Insight解決方案。 按一下「**[!UICONTROL Next]**」。
 
    ![](assets/image2015-5-13-15-3a38-3a49.png)
 

@@ -4,10 +4,17 @@ title: 說明中心
 feature: Getting Started
 exl-id: 3dd7c005-a416-4808-9418-9114df76d963
 TQID: https://experienceleague.adobe.com/DVB94vkw55tMkQ9LKvASESXHdcjiuKHYHbQCM2UDIFM
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
-subfeature_v2: id: af97ce94-35fa-4fa9-b85a-46b752ac4028id: d1956f52-ecfd-4e01-8941-47af238acb0did: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
-topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+subfeature_v2:
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+  - id: d1956f52-ecfd-4e01-8941-47af238acb0d
+  - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 319

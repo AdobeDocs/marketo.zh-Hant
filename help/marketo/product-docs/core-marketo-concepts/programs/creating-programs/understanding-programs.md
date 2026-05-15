@@ -5,9 +5,14 @@ title: 了解方案
 exl-id: 3ba18df8-9b31-4a69-bb52-f50d3896bb47
 feature: Programs
 TQID: https://experienceleague.adobe.com/aGx41THf9rvtaikZuliRg5I8YiZLbS0fi8TLPXjSY94
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-subfeature_v2: id: d5f08d55-2fea-44e2-b699-c9c3a8a79cf1id: ffdd6159-0e10-4a57-8021-94e93bab8183
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+subfeature_v2:
+  - id: d5f08d55-2fea-44e2-b699-c9c3a8a79cf1
+  - id: ffdd6159-0e10-4a57-8021-94e93bab8183
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 165

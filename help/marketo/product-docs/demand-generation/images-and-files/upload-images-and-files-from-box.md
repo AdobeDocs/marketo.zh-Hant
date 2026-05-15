@@ -5,8 +5,10 @@ title: 從 Box 上傳影像或檔案
 exl-id: 08596026-ce25-4076-957a-d069aa44b85a
 feature: Image Editor
 TQID: https://experienceleague.adobe.com/UrZTeNRgxV5KUbpTWD3vX8UwbNh8FMxn6mGc2flQoKc
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 102

@@ -5,7 +5,8 @@ title: 銷售電話本地業務
 exl-id: 8ebd971f-caf6-40ac-8067-dd0028fec9ab
 feature: Marketo Sales Connect
 TQID: https://experienceleague.adobe.com/-Mw7ww1YsyO-2ejnBdsfAGszUbSNErQdpOMXYPBa7CU
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 151

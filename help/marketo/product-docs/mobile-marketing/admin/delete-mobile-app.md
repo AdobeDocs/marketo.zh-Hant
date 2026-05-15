@@ -5,7 +5,8 @@ title: 刪除行動應用程式
 exl-id: 048b7d05-87c2-4667-a663-27d782ab2ef1
 feature: Mobile Marketing
 TQID: https://experienceleague.adobe.com/HMJovQhOEdHoy7CV-qiE4WOcQS8Alg6ESzYaUyAOoeQ
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 54

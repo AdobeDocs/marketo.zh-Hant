@@ -6,8 +6,10 @@ hide: true
 exl-id: ce87b918-5b45-418f-9b42-8e8275f2e60a
 feature: Forms
 TQID: https://experienceleague.adobe.com/UZ8wUbo1L8sBcK2bMIQxNxWUX6efqcMVbVvtev13ieQ
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 562

@@ -5,7 +5,8 @@ title: 安裝 Gmail 適用的 Sales Connect 電子郵件外掛程式
 exl-id: f1ca3cd9-aafb-4782-a1c2-07c6ad9ef4b0
 feature: Marketo Sales Connect
 TQID: https://experienceleague.adobe.com/SI1ifAgwgUHjFM-Rj1ZHRLcoLCtwqX6AOGxh0RHX47I
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 97

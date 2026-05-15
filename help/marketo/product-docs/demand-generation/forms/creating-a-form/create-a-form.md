@@ -5,8 +5,10 @@ title: 建立表單
 exl-id: ab0f2700-99e5-4ceb-b9df-80016f30fc85
 feature: Forms
 TQID: https://experienceleague.adobe.com/B16g4JTgnSMPSYb-52TzuNQXN06e4fZDfYmtZ5PKNGM
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 124
@@ -20,7 +22,7 @@ ht-degree: 7%
 
 >[!NOTE]
 >
->瞭解Marketo Engage如何確保您的表單安全[](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038)。
+>瞭解Marketo Engage如何確保您的表單安全[&#128279;](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038)。
 
 1. 前往 **[!UICONTROL Marketing Activities]**。
 

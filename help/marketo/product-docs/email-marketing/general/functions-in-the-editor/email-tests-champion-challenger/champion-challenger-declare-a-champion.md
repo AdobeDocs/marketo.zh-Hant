@@ -5,7 +5,8 @@ title: 冠軍/挑戰者 — 宣告冠軍
 exl-id: 04686934-6b6e-407f-8e50-bbf75139e367
 feature: Email Editor
 TQID: https://experienceleague.adobe.com/P6vWv-ff-HjwO8-W5zx7uaj2S-vh1lJnEeVyVX1448Q
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 128

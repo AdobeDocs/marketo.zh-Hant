@@ -5,7 +5,8 @@ title: 智慧清單篩選器運算子字彙表
 exl-id: 5a370482-f214-4909-bb49-801c1a36b153
 feature: Smart Lists
 TQID: https://experienceleague.adobe.com/srdWBb-dHYhiCNam-GPG6tTIHo3k53IH687LF-UiFg4
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 601

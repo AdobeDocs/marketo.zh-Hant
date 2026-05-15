@@ -5,7 +5,8 @@ title: 如何追蹤您的電子郵件附件
 exl-id: 88c97309-13d4-46ef-a375-4afe4401fd94
 feature: Marketo Sales Connect
 TQID: https://experienceleague.adobe.com/-g1avRZcATkOU-nT6GhdcqTPi4mA4N58D2-1d6qKYbo
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 163

@@ -5,8 +5,10 @@ title: 尋找已上傳影像或檔案的 URL
 exl-id: 7aa137cc-7398-40a1-9994-97ca53c88837
 feature: Image Editor
 TQID: https://experienceleague.adobe.com/PeeN0yFaVO16sAX-JIirFjDBKdKh8Zzjr7X5fd5a-Dk
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 78

@@ -5,7 +5,8 @@ title: 冠軍/挑戰者 — 整封電子郵件
 exl-id: fb95b412-5766-44a8-b250-aa5103a604bc
 feature: Email Editor
 TQID: https://experienceleague.adobe.com/-XoBeMYaVcDqM1CvAe9Kl4UzUa-HCxOs3jTO9C68zSk
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 254

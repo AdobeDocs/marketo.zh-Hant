@@ -5,7 +5,8 @@ title: 為什麼我的聯絡人都沒有被推送至 Sales Connect？
 exl-id: a3659c14-356b-4b25-8aa7-251fd213290b
 feature: Marketo Sales Connect
 TQID: https://experienceleague.adobe.com/jLGaBSKYiA9T0L83mvipYf9cIxdESHV0MY4WNaV6VxU
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 91

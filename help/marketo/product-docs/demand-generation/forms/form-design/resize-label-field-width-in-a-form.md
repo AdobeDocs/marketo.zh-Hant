@@ -5,8 +5,10 @@ title: 調整表單中標籤/欄位的寬度
 exl-id: cef10279-881e-44f3-a979-873fa24d7f4b
 feature: Forms
 TQID: https://experienceleague.adobe.com/wILJ5dOvIYm6swmE5JgWFCPaMWL6mtP--iKKbh6O-S8
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 98

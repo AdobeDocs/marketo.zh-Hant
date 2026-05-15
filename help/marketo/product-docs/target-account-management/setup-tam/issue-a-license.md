@@ -5,7 +5,8 @@ title: 核發授權
 exl-id: 5cf3b23a-ab86-4707-8538-97583e4f267b
 feature: Target Account Management
 TQID: https://experienceleague.adobe.com/TNMC41Pp62AjtdY-aQBjZvaooPGyEZpgBgMn-v5IC-U
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 98

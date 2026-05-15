@@ -5,8 +5,10 @@ title: 範本 3D
 exl-id: cb72b874-5294-47b8-b151-e40697d78f13
 feature: Landing Pages, Guided Landing Page Templates
 TQID: https://experienceleague.adobe.com/3EEwpvZ47TlJXfukZPRQSb8Kq7IOTkrv1gkTdu3zjEE
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 79

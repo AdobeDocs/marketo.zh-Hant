@@ -5,9 +5,13 @@ title: 電子郵件洞察傳送概觀
 exl-id: 2e2535bd-fd3d-4660-be43-7755c142bcd1
 feature: Reporting
 TQID: https://experienceleague.adobe.com/jqWygOwiAGryAfaWPV01ZnRqj5bVc-I2AvvkJza-fjM
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 182
@@ -29,10 +33,10 @@ ht-degree: 4%
 
 ![](assets/two-1.png)
 
-**[!UICONTROL Type]**表示使用的資產型別。
-**[!UICONTROL Recipient]**數字是已傳送電子郵件的人數。
-**[!UICONTROL Delivery Metrics]**可讓您快速檢視已傳遞、擱置或已退信的電子郵件數目。
-**[!UICONTROL Engagement Metrics]**可讓您快速檢視有多少收件者已開啟、點按及取消訂閱電子郵件。
+**[!UICONTROL Type]**&#x200B;表示使用的資產型別。
+**[!UICONTROL Recipient]**&#x200B;數字是已傳送電子郵件的人數。
+**[!UICONTROL Delivery Metrics]**&#x200B;可讓您快速檢視已傳遞、擱置或已退信的電子郵件數目。
+**[!UICONTROL Engagement Metrics]**&#x200B;可讓您快速檢視有多少收件者已開啟、點按及取消訂閱電子郵件。
 **[!UICONTROL Score]**&#x200B;是您電子郵件的[參與分數](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)。
 
 依預設，您的電子郵件會依最近使用的量度排序，但您可以依任何可用的量度排序。

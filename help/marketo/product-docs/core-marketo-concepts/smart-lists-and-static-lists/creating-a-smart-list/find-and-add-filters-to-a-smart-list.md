@@ -5,7 +5,8 @@ title: 找到篩選器並將其新增至智慧清單
 exl-id: de9afdc5-452e-47a4-99cf-ed7374bf114f
 feature: Smart Lists
 TQID: https://experienceleague.adobe.com/eQSlCfCck7SpNY-11SOd-KtnwWFD8eOl-jrTWO8CswM
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 131

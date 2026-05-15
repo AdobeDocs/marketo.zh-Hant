@@ -5,8 +5,10 @@ title: 發行說明 — 2012年9月
 exl-id: c81da5ef-11ec-4015-a820-691fa314f369
 feature: Release Information
 TQID: https://experienceleague.adobe.com/h2dSTN-XYCWGD6GLr76iSuMgqVCkCs-XUD85K-LJIj0
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 308

@@ -4,7 +4,8 @@ title: 本地業務
 exl-id: 719fd3e8-1586-4aa1-940f-931dd3b99bd4
 feature: Sales Insight Actions
 TQID: https://experienceleague.adobe.com/8dUNLiNd7c0-GSslKWva4LBrmEFExuk22aLXamF-oBk
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 159

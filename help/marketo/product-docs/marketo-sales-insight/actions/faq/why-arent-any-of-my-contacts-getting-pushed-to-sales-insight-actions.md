@@ -4,7 +4,8 @@ title: 為什麼我的聯絡人都沒有被推送至銷售洞察動作？
 exl-id: 04087f45-eae8-4785-8f81-f3275f4e2d73
 feature: Sales Insight Actions
 TQID: https://experienceleague.adobe.com/sqY3p1-DNHlyMlHR-QfXOKd4GsKboMGTfA4jnHe9oSs
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 92

@@ -5,9 +5,13 @@ title: 在 Marketo 中建立自訂欄位
 exl-id: 6face1d7-6a4e-412b-9708-6aa7e43e8c11
 feature: Field Management
 TQID: https://experienceleague.adobe.com/xdG07VzIcNYcqCsR3wfXHTGE07nsLYAvbM8QZZJf0oo
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 191
@@ -51,7 +55,7 @@ ht-degree: 14%
 
    ![](assets/create-a-custom-field-in-marketo-5.png)
 
-1. 輸入&#x200B;_[!UICONTROL Name]_，讓它在Marketo中顯示（會自動產生_[!UICONTROL API Name]_）。 請謹慎選擇，因為儲存後無法重新命名。 完成後請按一下 **[!UICONTROL Create]**。
+1. 輸入&#x200B;_[!UICONTROL Name]_，讓它在Marketo中顯示（會自動產生&#x200B;_[!UICONTROL API Name]_）。 請謹慎選擇，因為儲存後無法重新命名。 完成後請按一下 **[!UICONTROL Create]**。
 
 >[!CAUTION]
 >

@@ -4,7 +4,8 @@ title: 如何在連線至Salesforce時修正「我們無法驗證您的請求」
 exl-id: ef876f0f-bd76-4ba5-bf48-885ee048ceae
 feature: Sales Insight Actions
 TQID: https://experienceleague.adobe.com/H2VyryO38T7ohs85rfhLUP-BVUEMf-Yr9rusDrAFq6Q
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 352

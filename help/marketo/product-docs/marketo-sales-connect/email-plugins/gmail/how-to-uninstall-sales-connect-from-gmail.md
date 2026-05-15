@@ -5,7 +5,8 @@ title: 如何從 Gmail 解除安裝 Sales Connect
 exl-id: 36032005-651f-43c8-a92a-0968b52ccb86
 feature: Marketo Sales Connect
 TQID: https://experienceleague.adobe.com/HIwYaMn9Az0jbDWOG9Af-Af-xfgYUtblkFrb6hH-VIk
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 75

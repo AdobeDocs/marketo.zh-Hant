@@ -5,7 +5,8 @@ title: 關閉傳送給商機所有者的電子郵件通知
 exl-id: e079ed85-5fdd-49c9-a89c-aaf854a5db63
 feature: Salesforce Integration
 TQID: https://experienceleague.adobe.com/xN0jAy8BGiK2mshzGkGizV6-BwMmFd4nC1EaVFk0-oE
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 59

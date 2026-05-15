@@ -5,8 +5,10 @@ title: 範本 13D
 exl-id: 5f889a36-31d1-4a98-a91c-7c1b21b148d6
 feature: Landing Pages, Guided Landing Page Templates
 TQID: https://experienceleague.adobe.com/svN7-4JCmS-sZvZ4Vn71uSU0jBiuJ9iypAQv8ojYBU4
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 73

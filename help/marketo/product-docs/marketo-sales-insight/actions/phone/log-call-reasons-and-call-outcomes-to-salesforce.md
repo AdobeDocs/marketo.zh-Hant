@@ -4,9 +4,14 @@ title: 將通話原因和通話結果記錄至 Salesforce
 exl-id: cfe71388-282b-45e5-a817-45a951f613bc
 feature: Sales Insight Actions
 TQID: https://experienceleague.adobe.com/JStWQ2NIpa5ct7f5cvFzrHjNHsBnoDJK1vgCxNcAUQ0
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: d095671a-1355-40aa-8b5f-06c33c68080b
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 471
@@ -63,7 +68,7 @@ ht-degree: 5%
    >
    >請確定您的Sales Insight Actions使用者所使用的設定檔可看見自訂欄位，以及您想要的其他顯示位置。
 
-1. 選取您要新增欄位的頁面配置，然後按一下[儲存] **** （您可以選擇按一下[儲存與新增] ****，然後對[來電原因]欄位重複此程式）。
+1. 選取您要新增欄位的頁面配置，然後按一下[儲存] **&#x200B;**&#x200B;（您可以選擇按一下[儲存與新增] **&#x200B;**，然後對[來電原因]欄位重複此程式）。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-9.png)
 

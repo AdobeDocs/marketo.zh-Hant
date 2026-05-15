@@ -5,9 +5,12 @@ title: 修正 Dynamics 驗證同步問題
 exl-id: 1a300249-65b7-49b1-bf50-82236916298f
 feature: Microsoft Dynamics
 TQID: https://experienceleague.adobe.com/VKcPe4kYhM2tid0-Fl4ga9-uAQbgUSwHux8XCBwXjwA
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
-topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080b
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 520
