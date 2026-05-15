@@ -3,9 +3,9 @@ description: 原地復製程式會將現有的Marketo程式複製到具有新名
 title: 復製程式
 beta: true
 hide: true
-source-git-commit: a04ec3931933c8e6cc0a0ffc26b1b559cd7cc9ce
+source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '458'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,10 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
+>* 若要使用此功能，您必須先同意[核心Gen-AI條款與補充條款](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
+>
 >* 您必須具有在目的地資料夾中建立程式的許可權。
+>
 >* 您要複製的來源程式必須已存在於您的Marketo環境中。
 
 ## 使用方式 {#how-to-use}
