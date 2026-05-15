@@ -4,9 +4,12 @@ description: 瞭解Salesforce和Salesforce之間的預設Marketo Engage欄位對
 title: 預設 Salesforce 欄位對應
 exl-id: d6639733-f85d-4f4c-ac41-5d2a68a9c6b2
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+TQID: https://experienceleague.adobe.com/i7ducTSqHY1rBTOQ8qNHPRCuETASKkuVWNsQGOW3OPE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: 154
 ht-degree: 5%
 
 ---
@@ -102,5 +105,5 @@ ht-degree: 5%
 |---|---|
 | SFDC Id | 18個字元的[!DNL Salesforce]識別碼 |
 | SFDC 類型 | 潛在客戶或連絡人。 如果空白，該潛在客戶在Marketo中只會以個人身分存在 |
-| SFDC建立日期 | 在SFDC中建立的日期(可能與Marketo中的建立日期不同) |
+| SFDC建立日期 | 在SFDC中建立的日期（可能與Marketo中的建立日期不同） |
 | SFDC已刪除 | 此人之前在SFDC但遭到刪除，現在僅居住在Marketo |

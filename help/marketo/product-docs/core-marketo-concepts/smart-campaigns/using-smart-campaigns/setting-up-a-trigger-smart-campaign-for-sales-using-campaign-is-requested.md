@@ -4,9 +4,16 @@ description: 瞭解如何使用「已要求Campaign」為銷售設定觸發Smart
 title: 使用「已請求行銷活動」設定銷售的觸發程序智慧行銷活動
 exl-id: ed6d7c27-d54b-48e3-af67-19503da4ef56
 feature: Smart Campaigns
-source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
+TQID: https://experienceleague.adobe.com/lQ07lQKwOe6Z-nW2xWb5bdjlSTAKe5rzgIE9kNIduHc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: 282
 ht-degree: 11%
 
 ---

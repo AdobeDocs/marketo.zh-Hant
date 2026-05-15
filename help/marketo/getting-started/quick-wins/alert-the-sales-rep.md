@@ -4,10 +4,13 @@ description: 提醒銷售代表 — Marketo檔案 — 產品檔案
 title: 通知銷售代表
 exl-id: 4ad7d7b8-ee1e-4605-b4e0-e72a7e573c05
 feature: Getting Started
-source-git-commit: f6893edbfe85d1d6e0958b5a3029d8fd404b1311
+TQID: https://experienceleague.adobe.com/Qd-0TR8Sa4JWsQs7sWzUOmcFU0iRxl6SH62fWnm1GT8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '348'
-ht-degree: 8%
+source-wordcount: 350
+ht-degree: 9%
 
 ---
 
@@ -27,7 +30,7 @@ ht-degree: 8%
 
    ![](assets/alert-the-sales-rep-1.png)
 
-1. 選取您在&#x200B;**登陸頁面（含表單**&#x200B;快速入門）中建立的[我的程式](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}，然後在&#x200B;**[!UICONTROL New]**&#x200B;底下按一下&#x200B;**[!UICONTROL New Local Asset]**。
+1. 選取您在[登陸頁面（含表單](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}快速入門）中建立的&#x200B;**我的程式**，然後在&#x200B;**[!UICONTROL New]**&#x200B;底下按一下&#x200B;**[!UICONTROL New Local Asset]**。
 
    ![](assets/alert-the-sales-rep-2.png)
 
@@ -135,7 +138,7 @@ ht-degree: 8%
 
 ## 任務完成！ {#mission-complete}
 
-<br>
+<br> 
 
 [◄任務7：個人化電子郵件](/help/marketo/getting-started/quick-wins/personalize-an-email.md)
 

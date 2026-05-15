@@ -3,9 +3,12 @@ description: 發行說明 — 2023年3月 — Marketo檔案 — 產品檔案
 title: 發行說明 - 2023 年 3 月
 exl-id: f07abfef-5740-4380-9ca9-069a323486eb
 feature: Release Information
-source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
+TQID: https://experienceleague.adobe.com/Sisp6sUlykUIMGVZjQlLgTarYQBgz-2QP5-3JW5d0t0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '582'
+source-wordcount: 587
 ht-degree: 17%
 
 ---
@@ -16,11 +19,11 @@ ht-degree: 17%
 
 >[!AVAILABILITY]
 >
->標有星號 (![星號](assets/yellow-star.png)) 的功能為付費附加元件。請聯絡您的 Marketo Engage 代表，了解更多相關資訊。
+>標有星號 (![星號](assets/yellow-star.png)) 的功能為付費附加元件。 請聯絡您的 Marketo Engage 代表，了解更多相關資訊。
 
 ## 標準發行週期功能 {#standard-release-cycle-features}
 
-下列功能屬於標準發行週期，並將於&#x200B;**2023年3月31日**&#x200B;開始發行，在接下來的幾週內分階段推出剩餘功能。 發行的功能和日期可能有所變更。請檢視每個功能下方的狀態。
+下列功能屬於標準發行週期，並將於&#x200B;**2023年3月31日**&#x200B;開始發行，在接下來的幾週內分階段推出剩餘功能。 發行的功能和日期可能有所變更。 請檢視每個功能下方的狀態。
 
 ### Marketo Engage Modern UX {#modern-ux}
 
@@ -136,7 +139,7 @@ ht-degree: 17%
   </tbody>
 </table>
 
-* **Dynamic Chat的推斷屬性**：確保將推斷的IP資料（城市、州/省、國家/地區等）寫入Dynamic Chat所取得新人員的個人記錄。
+* **Dynamic Chat的推斷屬性**：確保推斷的IP資料（城市、州/省、國家/地區等） 寫入Dynamic Chat取得新人員的個人記錄。
 
 <table>
   <tr>

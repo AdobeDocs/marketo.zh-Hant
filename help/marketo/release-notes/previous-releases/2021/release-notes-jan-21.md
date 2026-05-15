@@ -3,9 +3,33 @@ description: 發行說明 — 2021年1月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2021年1月
 exl-id: 24a5f955-ef4b-4adf-9478-2653db6f9d79
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/0Mwxsvl6m0uIK7-L0GkX0mYKMnNXDuNjTmR-MBfLDXM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2:
+  - id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
+  - id: fc9b09fe-b844-4544-887b-e420c3b82065
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: beb7a3c1-66ab-4786-b879-7621375b3c40
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '1235'
+source-wordcount: 1301
 ht-degree: 0%
 
 ---
@@ -60,7 +84,7 @@ ht-degree: 0%
 ![（星形）](assets/yellow-star.png)
 
 * **[增強測試電子郵件工作流程([!DNL Salesforce] CRM)](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)**：透過增強的[!DNL Sales Insight]測試電子郵件工作流程提高您的銷售團隊效率。 銷售者可以先傳送測試電子郵件給選定的電子郵件地址，再傳送大量電子郵件給最多200位收件者。
-* **[電子郵件狀態([!DNL Salesforce] CRM)的深入分析](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/email-tab.md)**：使用者在傳送電子郵件之前，嘗試傳送電子郵件至無效的電子郵件ID或取消訂閱的電子郵件地址，就會看到警告訊息。  可以在[!DNL Sales Insight]的電子郵件標籤中檢閱電子郵件傳遞狀態。
+* **[電子郵件狀態([!DNL Salesforce] CRM)的深入分析](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/email-tab.md)**：使用者在傳送電子郵件之前，嘗試傳送電子郵件給無效的電子郵件ID或取消訂閱的電子郵件地址，就會看到警告訊息。您可以在[!DNL Sales Insight]的電子郵件索引標籤中檢閱電子郵件傳遞狀態。
 * **從[帳戶](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md#account-layout)和[商機](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md#opportunity-layout)面板([!DNL Salesforce] CRM)**&#x200B;傳送大量電子郵件：使用新的大量動作功能，改善賣家工作流程的效率，並與整個帳戶或商機連絡人清單互動。 透過在帳戶或機會標籤中使用新的下拉式清單選項（而不是與個別聯絡人合作），傳送電子郵件或新增聯絡人至Marketo Engage行銷活動。 將帳戶連絡人新增至監看清單，以便在潛在客戶成為熱門時收到通知。
 * **[[!DNL Sales Insight] 針對非原生 [!DNL Salesforce] CRM整合](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)**： GA訂閱搭配自訂Salesforce CRM整合，可以安裝[!DNL Sales Insight]套件，並幫助銷售團隊排定優先順序，並與最有希望的潛在客戶和商機互動。
 * **[最佳銷售機會增強功能](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/best-bets.md)**：透過電子郵件傳送或新增至Marketo Engage促銷活動，快速連絡「最佳銷售機會」標籤的熱門銷售機會。 在Marketo Engage中檢視銷售機會，或將其新增至您的關注清單。 [!UICONTROL Best Bets]標籤上的大量動作和排序選項可節省時間並改善銷售團隊的效率。
@@ -69,7 +93,7 @@ ht-degree: 0%
 
 ![（星形）](assets/yellow-star.png)
 
-* **電子郵件連線節流(BETA)**：改善您的電子郵件傳遞能力，並針對:1調整電子郵件連線節流，以擴展1[!DNL Sales Connect]銷售通訊。 我們新的節流技術會自動管理電子郵件傳送時間，為[!DNL Exchange]和Gmail使用者建立順暢的體驗。 減少或避免使用協力廠商大量電子郵件傳送應用程式。
+* **電子郵件連線節流(BETA)**：改善您的電子郵件傳遞能力，並針對[!DNL Sales Connect]調整電子郵件連線節流，以擴展1:1銷售通訊。 我們新的節流技術會自動管理電子郵件傳送時間，為[!DNL Exchange]和Gmail使用者建立順暢的體驗。 減少或避免使用協力廠商大量電子郵件傳送應用程式。
 * **電子郵件連線跳出追蹤**：透過新的電子郵件跳出報告，讓insight瞭解潛在客戶品質和電子郵件範本效能。 [!DNL Exchange]和Gmail使用者可以選擇接收將彙總至即時摘要、電子郵件資料夾、範本分析和行銷活動分析的退回通知。
 * **設定檔頁面組態**：在新設定檔頁面中輕鬆管理使用者偏好設定。 在一個位置變更密碼、編輯地理位置和語言設定，以及檢閱整合狀態。
 * **範本管理**：使用新的拖放功能，將銷售電子郵件範本組織成不同類別，以確保能夠快速存取相關範本，並減少搜尋時間。
@@ -77,9 +101,9 @@ ht-degree: 0%
 
 **_公告與棄用_**
 
-* 所有使用者必須在2021年1月15日&#x200B;**之前升級至最新版本的Sales Insight**。 如果您尚未完成升級，系統會在您登入應用程式時，提示您完成升級。 請依照本指南[中的指示](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md)操作。 更新版本包含已識別安全性弱點的修補程式。 此修補程式最初於2016年4月6日發行。 注意： **1.4363版或以上版本**&#x200B;不需要執行升級。
+* 所有使用者必須在2021年1月15日&#x200B;**之前升級至最新版本的Sales Insight**。 如果您尚未完成升級，系統會在您登入應用程式時，提示您完成升級。 請依照本指南[&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md)中的指示操作。 更新版本包含已識別安全性弱點的修補程式。 此修補程式最初於2016年4月6日發行。 注意： **1.4363版或以上版本**&#x200B;不需要執行升級。
 * Form 1.0服務的棄用將在&#x200B;**2021年5月**&#x200B;發行版本中生效。 Forms 1.0服務將完全淘汰，導致任何仍在使用的Forms 1.0資產失去功能。 此外，透過不支援的方法（例如程式化表單POST至leadCapture/save和leadCapture/save2端點）提交的表單將會遭到拒絕。 如需詳細資訊與補救，請參閱[我們在Marketing Nation](https://nation.marketo.com/t5/Product-Documents/Upcoming-Changes-to-the-Marketo-Engage-Form-Platform/ta-p/306631)的貼文。
-* 2021年，Marketo Engage將變更登陸頁面、表單及影像和檔案資產的URL結構。 對於現有的Marketo Engage訂閱，我們將於2021年4月1日開始逐步推出。 有關轉出時間表的更多詳細資訊將於2021年3月發佈。 如需每個受影響資產型別將如何變更的詳細資訊，請參閱[我們在Marketing Nation](https://nation.marketo.com/t5/Product-Documents/Upcoming-Changes-to-Design-Studio-URLs/ta-p/306632)的貼文。
+* 2021年，Marketo Engage將變更登陸頁面、表單及影像和檔案資產的URL結構。 對於現有的Marketo Engage訂閱，我們將在2021年4月1日開始逐步推出。推出時間表的更多詳細資訊將於2021年3月發佈。 如需每個受影響資產型別將如何變更的詳細資訊，請參閱[我們在Marketing Nation](https://nation.marketo.com/t5/Product-Documents/Upcoming-Changes-to-Design-Studio-URLs/ta-p/306632)的貼文。
 
 **_產品發行網路研討會_**
 

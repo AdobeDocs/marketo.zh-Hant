@@ -3,9 +3,12 @@ description: 瞭解如何設定通話錄製的雙方同意設定。 遵守州和
 title: 雙方同意設定
 exl-id: 47634441-c396-4f0c-a9ea-d4f6872b6bf5
 feature: Sales Insight Actions
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/2KKg-cF-O7M5XAexsGVewdSbddMuCjFD3EwwSoZgfQ4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: 151
 ht-degree: 7%
 
 ---

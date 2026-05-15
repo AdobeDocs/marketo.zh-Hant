@@ -4,9 +4,12 @@ description: 瞭解如何直接從行銷行事曆刪除專案。
 title: 直接在行銷行事曆中刪除條目
 exl-id: c0e2dbc5-f9b1-4743-b07d-c31fecea9977
 feature: Marketing Calendar
-source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
+TQID: https://experienceleague.adobe.com/5gCFWXJoWKwLQUbOAhRd8JWqL4Eob7XUEm8sNyqPPGs
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: 76
 ht-degree: 18%
 
 ---

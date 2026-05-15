@@ -4,10 +4,21 @@ description: 瞭解如何核准分段，以便用於動態內容和報表。 定
 title: 核准細分
 exl-id: c8b0fbe9-012c-47bf-8769-0167156b43d3
 feature: Segmentation
-source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
+TQID: https://experienceleague.adobe.com/hvFKybwLh1INYx2YWtOmdebJVYXOzhNMMncqeOoV8EU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2:
+  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+  - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '240'
-ht-degree: 2%
+source-wordcount: 246
+ht-degree: 5%
 
 ---
 
@@ -48,7 +59,7 @@ ht-degree: 2%
    >
    >每個區段中的人數會顯示在區段名稱旁的方括弧中。
 
-1. **[!UICONTROL People]**&#x200B;中的&#x200B;**[!UICONTROL Segment]**&#x200B;索引標籤現在會顯示該區段的最終人員清單。
+1. **[!UICONTROL Segment]**&#x200B;中的&#x200B;**[!UICONTROL People]**&#x200B;索引標籤現在會顯示該區段的最終人員清單。
 
    ![](assets/approve-a-segmentation-4.png)
 

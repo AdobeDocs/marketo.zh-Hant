@@ -4,9 +4,14 @@ description: 完成設定與新增人員 - Marketo 文件 - 產品文件
 title: 完成設定與新增人員
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
 feature: Getting Started
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/rRqzAz5PfuToNYobPd16xS8kPKeEyiymlN0Bs-YuA5c
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: 211
 ht-degree: 96%
 
 ---

@@ -4,9 +4,12 @@ title: Marketo Engage社群
 hide: true
 feature: Getting Started
 exl-id: 86a4ad2c-22c7-4543-bcb3-bca132b6afea
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+TQID: https://experienceleague.adobe.com/7kyupnJqqnoYrx0f0vr6KBBV7gLgvxUY0I-5caQnD34
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '605'
+source-wordcount: 605
 ht-degree: 0%
 
 ---

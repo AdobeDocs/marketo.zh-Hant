@@ -4,10 +4,21 @@ description: 發行說明 — 2014年7月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2014年7月
 exl-id: 0f0b4ad4-0ca7-4f43-bc08-5e555890d289
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/ztiNePeKURvJ6rBPeI5QWPv7Qsioz5RvGn6kbRik8G4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2:
+  - id: d5f08d55-2fea-44e2-b699-c9c3a8a79cf1
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '410'
-ht-degree: 2%
+source-wordcount: 442
+ht-degree: 4%
 
 ---
 
@@ -31,7 +42,7 @@ ht-degree: 2%
 
 ## 日期運運算元 {#date-operators}
 
-「[」、「](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md)」和「[!UICONTROL in past before]」的[!UICONTROL in future]進階篩選器[!UICONTROL in future after]。 例如，尋找未來3個月內有出生日期的銷售機會，或在6個月後到期的合約。
+「[!UICONTROL in past before]」、「[!UICONTROL in future]」和「[!UICONTROL in future after]」的[進階篩選器](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md)。 例如，尋找未來3個月內有出生日期的銷售機會，或在6個月後到期的合約。
 
 ![](assets/image2014-9-22-14-3a23-3a56.png)
 

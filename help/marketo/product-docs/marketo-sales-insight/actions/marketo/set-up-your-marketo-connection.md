@@ -4,9 +4,12 @@ title: 設定您的 Marketo 連線
 hide: true
 exl-id: f38272b1-a6dc-4d98-b6c1-e432c75b87c6
 feature: Sales Insight Actions
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+TQID: https://experienceleague.adobe.com/AFuURPjAaLkL4MB0qILuGUZZJBuFLv-gfKOmVcQriMY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: 180
 ht-degree: 5%
 
 ---

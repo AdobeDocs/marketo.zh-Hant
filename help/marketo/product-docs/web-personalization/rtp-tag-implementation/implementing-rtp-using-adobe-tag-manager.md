@@ -4,9 +4,18 @@ description: 瞭解如何在Marketo Engage中使用adobe標籤管理員實作rtp
 title: 使用 Adobe Tag Manager 實施 RTP
 exl-id: 5a938d02-6b09-45d5-94b0-dbb50b5d62b6
 feature: Web Personalization
-source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
+TQID: https://experienceleague.adobe.com/aIrAA9GHOTh0EkaSgVYq4veUQH-0uNbIfUvWfV825fQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: 198
 ht-degree: 7%
 
 ---

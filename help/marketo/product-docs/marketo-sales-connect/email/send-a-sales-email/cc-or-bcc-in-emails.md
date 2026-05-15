@@ -4,9 +4,12 @@ description: 瞭解如何在Sales Connect電子郵件中使用副本或密件副
 title: 電子郵件中的副本或密件副本
 exl-id: c4136fec-a85a-4927-9e1f-1e82274232a9
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/gyHvxwvW5tqkkZ6nX1s0V5vV5Oy4DJnbaFPK-gN5Xao
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: 91
 ht-degree: 10%
 
 ---

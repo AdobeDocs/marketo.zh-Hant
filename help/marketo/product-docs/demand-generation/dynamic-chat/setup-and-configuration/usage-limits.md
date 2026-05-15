@@ -3,9 +3,16 @@ description: 瞭解Dynamic Chat使用限制和套件資訊。 檢視每月參與
 title: 安全性設定
 feature: Dynamic Chat
 exl-id: c3c26319-d819-4a12-a77b-da5d57dc3620
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/an8dOoSku13JuFBphrFk9XEwYlkXTP9IYTCq-nmsJFw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: 74
 ht-degree: 5%
 
 ---

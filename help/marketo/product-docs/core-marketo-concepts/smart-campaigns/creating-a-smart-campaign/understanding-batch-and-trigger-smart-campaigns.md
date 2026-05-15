@@ -4,9 +4,15 @@ description: 瞭解批次和觸發智慧行銷活動。 瞭解何時使用每種
 title: 了解批次和觸發程序智慧行銷活動
 exl-id: 84a7b38c-b79c-4360-bd0b-3beb8ca35ac7
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+TQID: https://experienceleague.adobe.com/48wdmRPcrjaIavo4EQG3nkQNcUMH33tuISSqU2VouTM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: 273
 ht-degree: 5%
 
 ---
@@ -36,7 +42,7 @@ ht-degree: 5%
 * 可以排程為遞回，例如每日、每週和每月。 您也可以讓這些變數執行一次。
 * 顯示在[方案排程檢視](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md){target="_blank"}中。 在Smart Campaign中「等待」步驟之後的任何內容都不會包含在檢視中。
 
-<br>
+<br> 
 
 ## 觸發程序行銷活動 {#trigger-campaign}
 

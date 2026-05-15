@@ -4,10 +4,13 @@ description: 瞭解Sales Connect中的Sales Phone國際通話。 撥打並記錄
 title: 銷售電話國際通話
 exl-id: 5a5956fe-67f3-41dd-bbbe-b0cea1ded6f0
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/IYUuKHJBRfSrVMWH-jxgAFkgyDZo2GbIfvd4tNW-Krc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '409'
-ht-degree: 7%
+source-wordcount: 409
+ht-degree: 23%
 
 ---
 
@@ -29,11 +32,11 @@ ht-degree: 7%
   </tr>
   <tr>
    <td colspan="1">阿根廷</td>
-   <td colspan="1">54221， 54223， 54261， 54291， 54341， 54342， 54351</td>
+   <td colspan="1">54221, 54223, 54261, 54291, 54341, 54342, 54351</td>
   </tr>
   <tr>
    <td colspan="1">奧地利</td>
-   <td colspan="1">43， 431， 4312288， 43438， 4350， 4357， 4359， 436555， 43677， 4369988， 4369989， 43720， 43780， 439</td>
+   <td colspan="1">43, 431, 4312288, 43438, 4350, 4357, 4359, 436555, 43677, 4369988, 4369989, 43720, 43780, 439</td>
   </tr>
   <tr>
    <td colspan="1">巴哈馬</td>
@@ -41,7 +44,7 @@ ht-degree: 7%
   </tr>
   <tr>
    <td><p>巴西</p></td>
-   <td>5511， 5521， 5527， 5531， 5541， 5551， 5561， 5562， 5581， 5585</td>
+   <td>5511, 5521, 5527, 5531, 5541, 5551, 5561, 5562, 5581, 5585</td>
   </tr>
   <tr>
    <td>賽普勒斯 </td>
@@ -61,15 +64,15 @@ ht-degree: 7%
   </tr>
   <tr>
    <td>希臘 </td>
-   <td>30， 3021</td>
+   <td>30, 3021</td>
   </tr>
   <tr>
    <td>匈牙利</td>
-   <td>36， 361</td>
+   <td>36, 361</td>
   </tr>
   <tr>
    <td colspan="1">愛爾蘭 </td>
-   <td colspan="1">353， 3531</td>
+   <td colspan="1">353, 3531</td>
   </tr>
   <tr>
    <td>以色列</td>
@@ -81,7 +84,7 @@ ht-degree: 7%
   </tr>
   <tr>
    <td colspan="1">哈薩克 </td>
-   <td colspan="1">76， 77</td>
+   <td colspan="1">76, 77</td>
   </tr>
   <tr>
    <td colspan="1">韓國</td>
@@ -93,7 +96,7 @@ ht-degree: 7%
   </tr>
   <tr>
    <td colspan="1">墨西哥</td>
-   <td colspan="1">52， 5233， 5255， 5281</td>
+   <td colspan="1">52, 5233, 5255, 5281</td>
   </tr>
   <tr>
    <td>摩納哥</td>
@@ -109,11 +112,11 @@ ht-degree: 7%
   </tr>
   <tr>
    <td colspan="1">秘魯 </td>
-   <td colspan="1">5112， 5113， 5114， 5115， 5116， 5117</td>
+   <td colspan="1">5112, 5113, 5114, 5115, 5116, 5117</td>
   </tr>
   <tr>
    <td colspan="1">波蘭 </td>
-   <td colspan="1">48， 4832</td>
+   <td colspan="1">48, 4832</td>
   </tr>
   <tr>
    <td colspan="1">葡萄牙 </td>
@@ -121,7 +124,7 @@ ht-degree: 7%
   </tr>
   <tr>
    <td colspan="1">新加坡 </td>
-   <td colspan="1">65， 658， 659</td>
+   <td colspan="1">65, 658, 659</td>
   </tr>
   <tr>
    <td colspan="1">西班牙 </td>
@@ -133,11 +136,11 @@ ht-degree: 7%
   </tr>
   <tr>
    <td colspan="1">英國</td>
-   <td colspan="1">44， 44203， 44207， 44208</td>
+   <td colspan="1">44, 44203, 44207, 44208</td>
   </tr>
   <tr>
    <td>美國</td>
-   <td>1， 1800,1808， 1844， 1855， 1866， 1867， 1877， 1888</td>
+   <td>1, 1800,1808, 1844, 1855, 1866, 1867, 1877, 1888</td>
   </tr>
  </tbody>
 </table>
@@ -156,8 +159,8 @@ ht-degree: 7%
 
 **是否有無法透過銷售電話撥打的特定型別號碼？**
 
-是的。我們不支援撥打特價服務電話號碼（例如在美國為900號碼，在英國為+449號碼）。 一般而言，我們不支援撥打共用付費電話號碼，以及少數其他付費路由。
+是的。 我們不支援撥打特價服務電話號碼（例如在美國為900號碼，在英國為+449號碼）。 一般而言，我們不支援撥打共用付費電話號碼，以及少數其他付費路由。
 
 **我可以在撥打國際電話時使用本地聯絡嗎？**
 
-否。本機狀態僅適用於美國號碼。
+否。 本機狀態僅適用於美國號碼。

@@ -4,10 +4,26 @@ title: 電子郵件範本
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/En79ezOIpQCGnmPv9HasACkYY4ssfpsFOI-7IOj5Y4s
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2:
+  - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '1834'
-ht-degree: 3%
+source-wordcount: 1872
+ht-degree: 4%
 
 ---
 
@@ -67,11 +83,11 @@ ht-degree: 3%
 
 >[!NOTE]
 >
->.zip 檔案結構沒有限制。不過，參照必須是相對參照，而且符合.zip資料夾的樹狀結構。
+>.zip 檔案結構沒有限制。 不過，參照必須是相對參照，而且符合.zip資料夾的樹狀結構。
 
-1. 在&#x200B;_設計模板_&#x200B;頁中，選擇&#x200B;**導入HTML**。
+1. 在&#x200B;_設計您的範本_&#x200B;頁面中，選取&#x200B;**匯入HTML**。
 
-1. 拖放所需的HTML或.zip檔案（或從電腦中選擇檔案），然後按一下&#x200B;**導入**。
+1. 拖放所需的ip檔案（或從電腦中選取檔案），然後按一下&#x200B;**匯入**。
 
    ![](assets/import-your-html-1.png)
 
@@ -236,7 +252,7 @@ Token在新編輯器中的運作方式與舊版相同，但圖示看起來不同
 
    >[!NOTE]
    >
-   >「遞補文字」是預設值的新編輯器辭彙。 範例： ``{{lead.First Name:default=Friend}}``。 如果您選擇的欄位中沒有該人員的值，建議您這麼做。
+   >「遞補文字」是預設值的新編輯器辭彙。 範例：``{{lead.First Name:default=Friend}}``。 如果您選擇的欄位中沒有該人員的值，建議您這麼做。
 
 1. 設定您的遞補文字，然後按一下[新增]。**&#x200B;**
 

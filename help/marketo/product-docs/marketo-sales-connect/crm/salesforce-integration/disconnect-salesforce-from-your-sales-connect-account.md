@@ -4,16 +4,19 @@ description: 瞭解如何中斷與Sales Connect帳戶的Salesforce連線。
 title: 從您的 Sales Connect 帳戶中斷與 Salesforce 的連接
 exl-id: 7b40ba8f-b852-4de1-bc1d-1206259c2880
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/lpF4DjG2mzxkt5QZfx5VKSSxvGbjRyjt9Tw1G6D-E0A
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: 88
 ht-degree: 18%
 
 ---
 
 # 從您的 Sales Connect 帳戶中斷與 Salesforce 的連接 {#disconnect-salesforce-from-your-sales-connect-account}
 
-有時您可能需要中斷與[!DNL &#x200B; Salesforce]帳戶的[!DNL Sales Connect]帳戶連線。 方法如下。
+有時您可能需要中斷與[!DNL Sales Connect]帳戶的[!DNL &#x200B; Salesforce]帳戶連線。 方法如下。
 
 ## 如何以管理員身分中斷與Salesforce的連線 {#how-to-disconnect-from-salesforce-as-an-admin}
 

@@ -4,9 +4,17 @@ description: 瞭解如何建立和使用電子郵件效能報表。 追蹤開啟
 title: 電子郵件績效報告
 exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
 feature: Email Programs
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/90WK5ODp6PnSFAyWFvEc4DFR1oiRn97gsqlP1lXj7-M
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '501'
+source-wordcount: 501
 ht-degree: 95%
 
 ---

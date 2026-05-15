@@ -4,9 +4,14 @@ description: 瞭解如何在Marketo的Lightbox中使用表單。 在登陸頁面
 title: 在 Lightbox 中使用表單
 exl-id: 4cbb6ae7-acd4-4979-8825-fa983fdc8fb5
 feature: Forms
-source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
+TQID: https://experienceleague.adobe.com/aa676JF-QLru7hdSe74EhyfnAi0iU1mELwMoDIr0PJY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: 106
 ht-degree: 15%
 
 ---

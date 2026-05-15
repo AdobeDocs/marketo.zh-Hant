@@ -4,9 +4,16 @@ description: 啟用或停用電子郵件中使用之人員和公司權杖的HTML
 title: 電子郵件中的 HTML 編碼權杖
 exl-id: aeac6eec-0f43-4cf3-a850-d193e4fc194d
 feature: Field Management
-source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
+TQID: https://experienceleague.adobe.com/yQU9qqbvxSXiTHk0Yvm9lFiaZpyZ86NoIR3TIF6sowg
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: 91
 ht-degree: 19%
 
 ---

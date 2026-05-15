@@ -4,9 +4,15 @@ description: 發行說明 — 2012年4月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2012年4月
 exl-id: 2568911a-071f-42b3-a4be-e951c9fc2ac5
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/Z1tELq97oWQ2jJnDzQzQ-KntHmbvjWDwXgePeQ59X3Y
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: 368
 ht-degree: 1%
 
 ---
@@ -24,7 +30,7 @@ ht-degree: 1%
 * Request Campaign API現在可讓您針對該特定行銷活動執行，傳送「我的Token」的值，這對透過API填入電子郵件內容特別有用
 * 新的上傳至清單和排程Campaign API對以上銷售機會清單和批次行銷活動的支援。
 
-## [!DNL GoToWebinar]和[!DNL WebEx]的更簡單確認電子郵件(Adobe Connect和[!DNL ON24]即將推出！) {#easier-confirmation-emails-for-gotowebinar-and-webex-adobe-connect-and-on-coming-soon}
+## [!DNL GoToWebinar]和[!DNL WebEx]的更簡單確認電子郵件（Adobe Connect和[!DNL ON24]即將推出！） {#easier-confirmation-emails-for-gotowebinar-and-webex-adobe-connect-and-on-coming-soon}
 
 我們已建立會顯示每個潛在客戶之唯一註冊確認URL的成員權杖，以簡化確認URL。 您將不再需要使用不同的權杖來建立此URL。 這目前可供[!DNL GoToWebinar]和[!DNL WebEx]客戶使用，並將在我們下一個版本中供Adobe Connect和[!DNL ON24]使用。
 

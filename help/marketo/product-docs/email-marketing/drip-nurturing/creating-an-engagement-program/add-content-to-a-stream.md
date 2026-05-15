@@ -4,9 +4,14 @@ description: 瞭解如何新增電子郵件或方案至參與方案流。 使用
 title: 新增內容至資料流
 exl-id: b2db9f49-2baa-4d42-9755-480390a91041
 feature: Engagement Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/mEXmi2TJ3INTU2G3cFvw1uJyVbMIwRjNil65pFCY7DY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: 175
 ht-degree: 8%
 
 ---
@@ -49,7 +54,7 @@ ht-degree: 8%
    >
    >智慧型行銷活動必須包含&#x200B;**[!UICONTROL Member of Engagement Program]**&#x200B;篩選器，才能正常運作。
 
-做得好！您現在知道如何將內容新增到您的方案資料流。 根據您的培養需要，新增任意數量的專案。 如需更多詳細資訊，請參閱下文相關文章。
+做得好！ 您現在知道如何將內容新增到您的方案資料流。 根據您的培養需要，新增任意數量的專案。 如需更多詳細資訊，請參閱下文相關文章。
 
 >[!MORELIKETHIS]
 >

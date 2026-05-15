@@ -3,7 +3,7 @@ description: 與Marketo AI討論您的Marketo Engage效能資料。 以淺顯的
 title: 分析
 beta: true
 hide: true
-source-git-commit: cb30495d71d5b4d4fe86d33eed0677eaee882c5e
+source-git-commit: a04ec3931933c8e6cc0a0ffc26b1b559cd7cc9ce
 workflow-type: tm+mt
 source-wordcount: '451'
 ht-degree: 0%
@@ -38,8 +38,8 @@ Analytics可讓您就Marketo效能資料進行交談。 以淺顯的語言提出
 
 ## 注意事項 {#things-to-note}
 
-* **Analytics答案是根據您的Marketo執行個體中可用的資料**：如果未追蹤計畫或未擷取量度，Marketo AI將無法回報該計畫。
-* **超大日期範圍或廣泛的問題可能會傳回高階摘要，而非精細的細節**：例如，「過去兩年我的所有程式表現如何？」
-* **Marketo AI可以呈現資料，但無法根據它找到的內容，對您的程式或報告進行變更**。
-* **若要使用特定篩選器和劃分的詳細自訂報告**，Marketo內建報告工具或BI整合可能更合適。
-* **跨多重接觸行銷活動的歸因需要正確的方案設定**： Marketo AI會報告已追蹤的內容，而非推斷未設定的歸因。
+* Analytics答案取決於您的Marketo執行個體中可用的資料。 如果未追蹤計畫或未擷取量度，Marketo AI將無法回報該計畫。
+* 非常大的日期範圍或廣泛的問題可能會傳回高階摘要，而不是精細的細節。 例如，「我所有的程式在過去兩年中表現如何？」
+* Marketo AI可以呈現資料，但無法根據它找到的內容變更您的計畫或報告。
+* 若要使用特定篩選器和劃分的詳細自訂報表，Marketo內建報告工具或BI整合可能更合適。
+* 跨多重接觸式行銷活動的歸因需要正確的方案設定。 Marketo AI會報告已追蹤的專案，而非推斷未設定的歸因。

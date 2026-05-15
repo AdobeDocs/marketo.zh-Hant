@@ -4,10 +4,17 @@ description: 瞭解Marketo Engage在facebook中的個人化再行銷，包括dnl
 title: Facebook 中的個人化再行銷
 exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/Pm54eQ-MPJ2hQeKyK2jFWHqjy1-t69Kzd2LB8fNcIKo
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '268'
-ht-degree: 7%
+source-wordcount: 312
+ht-degree: 6%
 
 ---
 
@@ -18,7 +25,7 @@ ht-degree: 7%
 >[!PREREQUISITES]
 >
 >* 完成使用Web Personalization資料重新鎖定目標的[設定](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
->* 檢閱關於自訂對象[和再行銷的](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [&#x200B; &#x200B;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)Facebook檔案。
+>* 檢閱關於自訂對象[&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)和再行銷的[&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) Facebook檔案。
 
 ## 在[!DNL Facebook]中建立對象 {#creating-an-audience-in-facebook}
 

@@ -7,9 +7,19 @@ level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 4828e1a5-822f-48a9-bbb8-b1ffe8421e4f
 hide: true
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+TQID: https://experienceleague.adobe.com/2F6SP0sUvcScw0Y86X10nRTfL2b45krGTLeSi-td7Uc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: 263
 ht-degree: 1%
 
 ---
@@ -24,7 +34,7 @@ ht-degree: 1%
 
 ## 主要使用案例 {#primary-use-case}
 
-此增強功能主要有利於從[Velocity指令碼](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/email-scripting){target="_blank"}轉換成Handlebar指令碼的使用者。 新的電子郵件設計工具僅支援新的權杖格式。 更新後的格式消除了空格，並引進了修訂後的預設文字結構，以確保更順暢且更有效的指令碼體驗。
+此增強功能主要有利於從[Velocity指令碼](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting){target="_blank"}轉換成Handlebar指令碼的使用者。 新的電子郵件設計工具僅支援新的權杖格式。 更新後的格式消除了空格，並引進了修訂後的預設文字結構，以確保更順暢且更有效的指令碼體驗。
 
 ## 權杖體驗 {#token-experience}
 

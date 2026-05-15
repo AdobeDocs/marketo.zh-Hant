@@ -3,9 +3,25 @@ unique-page-id: 10097199
 description: 發行說明 — 冬季』16年 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2016年冬
 exl-id: 1e3b9207-27fe-47b1-b709-1306ac57b93b
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/hdBmS6spIdKhu-rX7tiM5pkWk8GVH5QgzJ3v1-HEQFg
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: 492
 ht-degree: 1%
 
 ---
@@ -80,7 +96,7 @@ ht-degree: 1%
 
 ![](assets/image2016-1-11-10-3a20-3a39.png)
 
-## [網頁(即時Personalization)行銷活動排程器](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/schedule-a-web-campaign.md) {#web-real-time-personalization-campaign-scheduler}
+## [網頁（即時Personalization）行銷活動排程器](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/schedule-a-web-campaign.md) {#web-real-time-personalization-campaign-scheduler}
 
 預先排程您的行銷活動。 設定個人化網頁內容的開始和結束日期，並在特定日期和時間重複行銷活動。 個人化排程，以根據網站訪客的時間或選取的時區顯示行銷活動。
 

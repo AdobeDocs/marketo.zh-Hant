@@ -4,9 +4,14 @@ description: 瞭解如何跨工作區參考清單或智慧清單。 在一個工
 title: 跨工作區參照清單或智慧清單
 exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
 feature: Smart Lists
-source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
+TQID: https://experienceleague.adobe.com/NAWn0sS-DldDqgQcLAnrOlaWQXdYBAR9nCrU0j4HlZY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: 179
 ht-degree: 12%
 
 ---

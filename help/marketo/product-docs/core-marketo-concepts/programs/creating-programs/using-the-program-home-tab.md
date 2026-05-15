@@ -4,10 +4,16 @@ description: 瞭解如何使用計畫首頁標籤。 在一個地方檢視計畫
 title: 使用方案首頁索引標籤
 exl-id: 04c36190-d853-4900-b566-973d08316e37
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+TQID: https://experienceleague.adobe.com/1YCKRjfWD2We--zAhgxrPaPLMEFfxbO4DVv2fwe56k0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 11%
+source-wordcount: 156
+ht-degree: 10%
 
 ---
 

@@ -4,9 +4,16 @@ description: 瞭解如何從Adobe Experience Manager將資產匯入Marketo Desig
 title: 使用 Adobe Experience Manager 匯入資產
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
 feature: Integrations
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/DQqJuvBbIZwHVKae9T3NknMvdGG0-f5Al1ERxnaotl8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: 235
 ht-degree: 6%
 
 ---

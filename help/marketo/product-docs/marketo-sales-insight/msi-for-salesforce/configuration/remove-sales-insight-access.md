@@ -3,16 +3,23 @@ description: 瞭解如何從Salesforce的使用者或設定檔中移除銷售Ins
 title: 移除銷售洞察存取權
 exl-id: 3cda112a-524e-469b-a222-c0192b2f5301
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/KkpOo6sg-kURyX5ncltrYry0JdLWYMzj-CzDP7F-Zp8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: 343
 ht-degree: 4%
 
 ---
 
 # 移除[!DNL Sales Insight]存取權 {#remove-sales-insight-access}
 
-使用以下步驟，移除對[!DNL Sales Insight]中[!DNL Salesforce]功能的存取權。 適用於[!DNL Salesforce] Classic和Lightning。
+使用以下步驟，移除對[!DNL Salesforce]中[!DNL Sales Insight]功能的存取權。 適用於[!DNL Salesforce] Classic和Lightning。
 
 ## 概觀 {#overview}
 
@@ -85,9 +92,9 @@ ht-degree: 4%
 
 1. 按一下您要更新的設定檔，然後&#x200B;**[!UICONTROL Edit]**。
 
-1. 向下捲動至「[!UICONTROL Custom Tab Settings]」下的「[!UICONTROL Tab Settings]」。
+1. 向下捲動至「[!UICONTROL Tab Settings]」下的「[!UICONTROL Custom Tab Settings]」。
 
-1. 從[!UICONTROL Tab Hidden] Config和MSI [!DNL Marketo Sales Insight]寄件匣的下拉式清單中選取「[!DNL Marketo Sales]」選項。
+1. 從[!DNL Marketo Sales Insight] Config和MSI [!DNL Marketo Sales]寄件匣的下拉式清單中選取「[!UICONTROL Tab Hidden]」選項。
 
    ![](assets/remove-sales-insight-access-2.png)
 
@@ -133,4 +140,4 @@ ht-degree: 4%
 
    ![](assets/remove-sales-insight-access-6.png)
 
-完成了！您已成功移除[!DNL Sales Insight]存取權。 對您要移除其存取權的任何其他設定檔重複相同的步驟。
+完成了！ 您已成功移除[!DNL Sales Insight]存取權。 對您要移除其存取權的任何其他設定檔重複相同的步驟。

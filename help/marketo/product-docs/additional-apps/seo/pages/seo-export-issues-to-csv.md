@@ -5,9 +5,14 @@ title: SEO - 將問題匯出為 CSV
 exl-id: a3012408-eeb4-4f09-af01-5c0e5dec4625
 hide: true
 feature: SEO
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+TQID: https://experienceleague.adobe.com/3YrTasIvX5GHEdWjIIdHQMEpwPcSJMg7-uLWRQIOtnk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: 214
 ht-degree: 5%
 
 ---

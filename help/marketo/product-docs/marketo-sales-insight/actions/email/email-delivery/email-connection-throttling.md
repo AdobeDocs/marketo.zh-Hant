@@ -3,16 +3,19 @@ description: 瞭解銷售Insight動作中的電子郵件連線節流和傳送限
 title: 電子郵件連線節流
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/9EY5VJaKJCwaBE-YJ8qCXreorIIXjj4hX4Ybvwm5ijg
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '409'
+source-wordcount: 430
 ht-degree: 2%
 
 ---
 
 # 電子郵件連線節流 {#email-connection-throttling}
 
-整合要透過[!DNL Sales Connect]或Gmail電子郵件提供者傳送的[!DNL Exchange]帳戶，提供簡化的設定，並最佳化1:1銷售通訊的電子郵件傳遞能力。 不過，為了維持系統健康且帳戶安全，Gmail和[!DNL Exchange]會強制執行電子郵件傳送限制。 這些限制可由提供者自行決定增加或減少。
+整合要透過[!DNL Exchange]或Gmail電子郵件提供者傳送的[!DNL Sales Connect]帳戶，提供簡化的設定，並最佳化1:1銷售通訊的電子郵件傳遞能力。 不過，為了維持系統健康且帳戶安全，Gmail和[!DNL Exchange]會強制執行電子郵件傳送限制。 這些限制可由提供者自行決定增加或減少。
 
 ## 概觀 {#overview}
 

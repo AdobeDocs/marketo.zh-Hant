@@ -4,10 +4,13 @@ description: 瞭解如何在Marketo中新增其他登陸頁面CNAME。 對您的
 title: 新增其他登陸頁面 CNAME
 exl-id: eb5a7f69-552e-49a2-91db-a784f4639cd0
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/IhpbLwq0syIQpnKsRApy6YtEKhe56dbDciW8lSYJ9tI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '230'
-ht-degree: 6%
+source-wordcount: 222
+ht-degree: 7%
 
 ---
 
@@ -23,7 +26,7 @@ ht-degree: 6%
 >
 >**相同的最上層網域 — 好！ Cookie已共用**.<br/> **執行**.mycompany.com > **資訊**.mycompany.com
 >
->**不同的上層網域 — 錯誤！ Cookie是&#x200B;_非_共用**。<br/>執行。**mycompany**.com >執行。**mynewcompany**.com
+>**不同的上層網域 — 錯誤！ Cookie _不是_共用的**.<br/> 執行&#x200B;**mycompany**.com >執行&#x200B;**mynewcompany**.com
 
 >[!NOTE]
 >
@@ -61,7 +64,7 @@ ht-degree: 6%
 
    ![](assets/add-additional-landing-page-cnames-6.png)
 
-1. 輸入您的&#x200B;**[!UICONTROL Domain Alias]。**&#x200B;如果訪客未放入URL，則會顯示&#x200B;**[!UICONTROL Default Page]**。 輸入在這種情況下應該前往的位置。
+1. 輸入您的&#x200B;**[!UICONTROL Domain Alias].** 如果訪客未放入URL，則會顯示&#x200B;**[!UICONTROL Default Page]**。 輸入在這種情況下應該前往的位置。
 
    >[!NOTE]
    >

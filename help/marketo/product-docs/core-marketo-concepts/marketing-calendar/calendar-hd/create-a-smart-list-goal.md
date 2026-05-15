@@ -4,9 +4,16 @@ description: 瞭解如何在行銷行事曆中建立智慧清單目標。 使用
 title: 建立智慧清單目標
 exl-id: 3b6690b5-7dd1-46b2-b3f2-254439623f91
 feature: Marketing Calendar
-source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
+TQID: https://experienceleague.adobe.com/wDBTecelODmii-pFVGULEX4E9Q6FFT6hTJr9jHDjjTc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: 145
 ht-degree: 10%
 
 ---

@@ -4,9 +4,15 @@ description: 取得有關Marketo鍵盤快速鍵的協助，以進行區域導覽
 hide: true
 title: 鍵盤快速鍵字彙表
 exl-id: ca85bd0f-5ed3-4ae2-a20b-ef3151609f83
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+TQID: https://experienceleague.adobe.com/O13HtgT5vGayOW44WkR82cH3rNTcxnsxR3YO2-EGPqk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: 129
 ht-degree: 15%
 
 ---

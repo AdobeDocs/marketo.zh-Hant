@@ -4,10 +4,23 @@ title: 最新發行說明
 hide: true
 feature: Release Information
 exl-id: 0ca5e844-c30b-4c86-a23d-d8f2c1bdddf5
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+TQID: https://experienceleague.adobe.com/RZsCx9HAyJuDLO46WfshT30be-rMMDZjnygvU32NGfk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a04ec3931933c8e6cc0a0ffc26b1b559cd7cc9ce
 workflow-type: tm+mt
-source-wordcount: '247'
-ht-degree: 52%
+source-wordcount: 421
+ht-degree: 28%
 
 ---
 
@@ -29,37 +42,7 @@ ht-degree: 52%
    <th style="width:25%">文件</th>
   </tr>
   <tr>
-   <td><strong>TITLE</strong>：描述。</td>
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>TITLE</strong>：描述。</td>
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-   <tr>
-   <td><strong>TITLE</strong>：描述。</td>
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
- <tr>
-   <td><strong>TITLE</strong>：描述。</td>
+   <td><strong>電子郵件Designer — 電子郵件片段的條件式內容</strong>： <i>與舊電子郵件編輯器的對等性</i>。 片段現在支援條件式內容。</td>
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
   </tr>
@@ -74,24 +57,24 @@ ht-degree: 52%
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
   </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>TITLE</strong>：描述。</td>
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
-  </tr>
   </tbody>
 </table>
 <br/>
 
 ## 公告 {#announcements}
 
-* 新增SEO附註
+* **社交功能淘汰欄位**：在2025年，Marketo Engage淘汰下列社交功能：
+
+   * 投票
+   * 社交按鈕
+   * 推薦優惠方案
+   * 影片分享
+   * 抽獎
+
+今年早些時候，從Marketo中移除落後的相關欄位。 不久，參考特定社交相關潛在客戶欄位的API請求傳回「找不到欄位」錯誤，造成中斷。 受影響的欄位再次開放使用後，服務已還原，為避免進一步中斷，Marketo已永久中斷社交欄位與棄用的社交功能（因此可在您的Marketo帳戶中使用）。 建議使用者檢閱參考Marketo社交相關欄位的API查詢和整合，並確定這些欄位是否仍為持續業務流程的必要欄位。
 
 * **Rest API &#39;access_token&#39;引數淘汰**：用於驗證Marketo REST API呼叫的`access_token`查詢引數已淘汰，並將於2026年7月31日後無法使用。 所有新的和現有的整合都應使用「Authorization」標頭來驗證 REST API 呼叫，方法[如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
 * **SOAP API淘汰**：對Marketo SOAP API的支援將於2026年7月31日終止。 使用 SOAP API 功能的服務應遷移至 [REST API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。
+
+* **取得潛在客戶活動與取得潛在客戶變更的靜態清單大小限制**：自2026年9月30日起，如果目標靜態清單包含10,000個或更多潛在客戶，呼叫Get潛在客戶活動與取得潛在客戶變更包含`listId`引數的端點將傳回1003錯誤代碼。 如需詳細資訊，請參閱[移轉指南](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}。

@@ -3,16 +3,28 @@ description: 瞭解自訂流程步驟的流程步驟服務。 透過API使用自
 title: 流程步驟服務
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+TQID: https://experienceleague.adobe.com/WNis-WE5v3Alpc0aSj1LrhTfOjNxnWmK8z-4afzADhU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+subfeature_v2:
+  - id: ad89fb33-8541-4339-afe7-bb13d1633714
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '1235'
+source-wordcount: 1256
 ht-degree: 0%
 
 ---
 
 # 流程步驟服務 {#flow-step-service}
 
-自助服務流程步驟是用於編寫、發佈和將Web服務整合到Adobe Marketo Engage Smart Campaigns中的框架和功能集。 本指南適用於想要安裝及使用已建立和發佈之服務的Marketo Engage使用者。 如需製作和發佈您自己的服務的資訊，請參閱服務提供者介面[[!DNL GitHub] 的](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}存放庫。 您可以在[這裡](https://github.com/adobe/mkto-flow-lookup){target="_blank"}找到概念證明查閱表格實作。
+自助服務流程步驟是用於編寫、發佈和將Web服務整合到Adobe Marketo Engage Smart Campaigns中的框架和功能集。 本指南適用於想要安裝及使用已建立和發佈之服務的Marketo Engage使用者。 如需製作和發佈您自己的服務的資訊，請參閱服務提供者介面[&#128279;](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}的[!DNL GitHub] 存放庫。 您可以在[這裡](https://github.com/adobe/mkto-flow-lookup){target="_blank"}找到概念證明查閱表格實作。
 
 ## 入門和管理服務 {#onboarding-and-managing-services}
 
@@ -20,7 +32,7 @@ ht-degree: 0%
 
 ## 安裝URL {#installation-url}
 
-若要開始安裝，您必須先取得定義您服務的OpenAPI檔案的URL。 您的服務提供者應該能夠提供此資訊給您，而且通常會有以`/openapi.json`結尾的URL。 完整的URL看起來會類似`https://www.example.com/OpenAPI.json`。 有了此URL後，請移至[!UICONTROL Service Providers]區段中的[!UICONTROL Admin]功能表。
+若要開始安裝，您必須先取得定義您服務的OpenAPI檔案的URL。 您的服務提供者應該能夠提供此資訊給您，而且通常會有以`/openapi.json`結尾的URL。 完整的URL看起來會類似`https://www.example.com/OpenAPI.json`。 有了此URL後，請移至[!UICONTROL Admin]區段中的[!UICONTROL Service Providers]功能表。
 
 按一下&#x200B;**[!UICONTROL Next]**，移至「輸入服務認證」區段。
 

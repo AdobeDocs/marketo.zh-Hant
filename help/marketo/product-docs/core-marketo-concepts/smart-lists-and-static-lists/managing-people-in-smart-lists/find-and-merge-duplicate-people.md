@@ -4,9 +4,14 @@ description: 瞭解如何尋找及合併重複人員。 將重複的記錄合併
 title: 找到重複人員並將其合併
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
-source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
+TQID: https://experienceleague.adobe.com/QHBmdsH5bm0NdYi4SVhrDJBvO5ku0yaev36lX0b-Vp0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: 428
 ht-degree: 3%
 
 ---

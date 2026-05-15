@@ -4,9 +4,17 @@ title: 深色模式
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 9dc1bce2-c363-46ca-83ef-ee4695ee647f
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/zGeCSfSKkyTkteiTaPmkiirkOXxEP1YVdWmHMvSWnR0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '1210'
+source-wordcount: 1214
 ht-degree: 1%
 
 ---
@@ -121,7 +129,7 @@ ht-degree: 1%
 
 1. 編輯任何樣式色彩屬性，例如文字、背景、按鈕等。
 
-1. 您無法變更影像和圖示的顏色，但只能為深色模式定義特定資產。 若要這麼做，請選取任何影像。 使用&#x200B;**[!UICONTROL Dark mode]**&#x200B;窗格中的專用切換開關切換至&#x200B;**[!UICONTROL Settings]**，並選取其他資產。
+1. 您無法變更影像和圖示的顏色，但只能為深色模式定義特定資產。 若要這麼做，請選取任何影像。 使用&#x200B;**[!UICONTROL Settings]**&#x200B;窗格中的專用切換開關切換至&#x200B;**[!UICONTROL Dark mode]**，並選取其他資產。
 
    ![](assets/dark-mode-3.png)
 

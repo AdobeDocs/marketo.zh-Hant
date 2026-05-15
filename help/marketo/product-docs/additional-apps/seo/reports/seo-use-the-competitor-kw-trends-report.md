@@ -5,9 +5,14 @@ title: SEO - 使用競爭者關鍵字趨勢報告
 exl-id: c36e84d0-ca8d-4618-a1ad-9b903f317792
 hide: true
 feature: SEO
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+TQID: https://experienceleague.adobe.com/VOBeArgGNBHrgFwn-1sT3-paIGwxDYF9yEIHD7JDHwE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: 285
 ht-degree: 7%
 
 ---

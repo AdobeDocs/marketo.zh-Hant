@@ -3,10 +3,15 @@ description: 瞭解如何建立SMS訊息。 在編輯器中新增文字、代號
 title: 建立簡訊訊息
 feature: Mobile Marketing
 exl-id: 94749ea4-2fe3-4d90-9b31-35700ddd1670
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+TQID: https://experienceleague.adobe.com/UOlEOmAlmr52sbQ3yz2Rmh-9HEHObY5D9ncB1CmD0ro
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '490'
-ht-degree: 2%
+source-wordcount: 497
+ht-degree: 0%
 
 ---
 
@@ -22,7 +27,7 @@ ht-degree: 2%
 >
 >[將Vibes新增為LaunchPoint Service](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"}
 
-1. 前往 **[!UICONTROL Marketing Activities]**。
+1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
 
    ![](assets/create-an-sms-message-1.png)
 

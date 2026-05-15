@@ -2,9 +2,17 @@
 description: 瞭解將您的Smart Campaigns視覺化的Engagement Map。 用它在Marketo中直覺地檢視觸發器、篩選器和流程步驟。
 title: 參與地圖概觀
 exl-id: 01cb283d-06c2-4a99-86a9-39dea9550c08
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/vfOhI8VFlGNlAWloYu3Bwshu6bXR13tJCyc3YZN3pGY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+subfeature_v2:
+  - id: ad89fb33-8541-4339-afe7-bb13d1633714
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '763'
+source-wordcount: 763
 ht-degree: 1%
 
 ---

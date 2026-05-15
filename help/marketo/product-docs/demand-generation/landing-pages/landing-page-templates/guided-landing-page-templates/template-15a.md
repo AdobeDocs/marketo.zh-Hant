@@ -4,10 +4,15 @@ description: 瞭解範本15A引導式登陸頁面範本。 下載並用於您的
 title: 範本 15A
 exl-id: 64aeaa61-cd39-487c-9ca5-9b2185dc04a3
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/l7SLog1kHVtagRFcnI9GM97JsErNGZh6N3xOVR3kDTg
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 6%
+source-wordcount: 74
+ht-degree: 5%
 
 ---
 

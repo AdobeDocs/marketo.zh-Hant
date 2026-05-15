@@ -4,9 +4,14 @@ description: 瞭解如何啟用和停用參與投射的串流內容。
 title: 啟用和停用資料流內容
 exl-id: cd5acec0-13aa-491e-b4ee-1db3d66a5056
 feature: Engagement Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/-5qT7OIR29IJib-BobRgtR5ySF4heXLGR-buzjj6pCU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: 129
 ht-degree: 10%
 
 ---
@@ -37,7 +42,7 @@ ht-degree: 10%
    >
    >您也可以按一下最上層的齒輪圖示，然後按一下&#x200B;**[!UICONTROL Activate all content]**，以啟動資料流中的所有內容。
 
-   做得很好！現在您知道如何啟用串流中的內容了。
+   做得很好！ 現在您知道如何啟用串流中的內容了。
 
 ## 停用串流內容 {#deactivate-stream-content}
 

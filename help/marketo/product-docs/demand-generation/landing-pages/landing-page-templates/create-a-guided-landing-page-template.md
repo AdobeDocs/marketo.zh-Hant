@@ -1,44 +1,49 @@
 ---
 unique-page-id: 7515401
-description: Learn how to create a guided landing page template in Marketo. Use syntax to define editable regions and variables for the guided editor.
+description: 瞭解如何在Marketo中建立引導式登入頁面範本。 使用語法來定義引導式編輯器的可編輯區域和變數。
 title: 建立引導式登陸頁面範本
 exl-id: 7d097162-d862-4d09-9440-aba1628450c2
 feature: Landing Pages
-source-git-commit: 4a95c37fe8c09cdbe3cc84e701f0fc50286fc276
+TQID: https://experienceleague.adobe.com/0dAw-HmJskYDA8uvu4ffMPPWwaQV3M-l8-kxLN-Vx-o
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '1127'
+source-wordcount: 1127
 ht-degree: 21%
 
 ---
 
 # 建立引導式登陸頁面範本 {#create-a-guided-landing-page-template}
 
-Guided landing page templates have a special syntax. Use this syntax to specify what is customizable and where content will end up on each landing page built from your template. Only the regions or variables you specify as editable will be available for customization within the &quot;Guided&quot; landing page editor.
+引導式登入頁面範本有特殊語法。 使用此語法來指定可自訂的專案，以及內容在由您的範本建立的每個登入頁面上的結束位置。 只有您指定為可編輯的區域或變數，才能在「引導式」登陸頁面編輯器中自訂。
 
 >[!TIP]
 >
->Use good naming conventions and your marketing team will fall in love with you.
+>使用良好的命名慣例，您的行銷團隊就會愛上您。
 
-There are two ways to declare that something on your page should be editable:
+有兩種方式可宣告頁面上的某個專案應為可編輯：
 
-* Declare an object as an &quot;element&quot;. The landing page creator will be able to add images, text, or Marketo assets into those specified regions.
-* Declare a string as a &quot;variable&quot;. The landing page creator will be able to replace that variable with a string, color, or boolean state from a true/false lever.
+* 將物件宣告為「element」。 登入頁面建立者將能夠新增影像、文字或Marketo資產至這些指定區域。
+* 將字串宣告為「變數」。 登入頁面建立者將能夠從true/false槓桿以字串、顏色或布林值狀態取代該變數。
 
-## Editable Elements {#editable-elements}
+## 可編輯元素 {#editable-elements}
 
-Elements are declared by adding a normal DOM element to the template, then decorating the element with a Marketo-specific class name.
+宣告元素的方法為新增一般DOM元素至範本，然後以Marketo特定的類別名稱裝飾元素。
 
 ## 文字 {#text}
 
 如果您將區域定義為 RTF 文字，則使用者即可[&#128279;](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)使用 Marketo 的 RTF 文字編輯器編輯其內容。
 
-Required attributes:
+必要的屬性：
 **class**：&quot;mktoText&quot;
 **id**：識別碼字串。 僅包含字母、數字、破折號「-」和底線「_」。 不允許有任何空格。 必須為唯一。
-**mktoName**：字串。 This is the display name that will be shown in the landing page editor. Best practice is to use a descriptive name.
+**mktoName**：字串。 這是將顯示在登入頁面編輯器中的顯示名稱。 最佳實務是使用描述性名稱。
 
-Optional:
-The content of an element with class mktoText (if provided) will be used as the default value for the editable region.
+可選：
+具有類別mktoText的元素內容（如果提供）將當作可編輯區域的預設值。
 
 範例：
 
@@ -46,15 +51,15 @@ The content of an element with class mktoText (if provided) will be used as the 
 
 ## 影像 {#image}
 
-You have two options for defining editable Image Elements. You may use either a `<div>`, which specifies a container that the image will be inserted into, or an `<img>` tag.
+您有兩個選項可定義可編輯的影像元素。 您可以使用`<div>`或`<img>`標籤，指定影像要插入的容器。
 
 ## 選項 1 — 使用 `<div>` {#option-use-a-div}
 
-Required attributes:
+必要的屬性：
 
-class: &quot;mktoImg&quot;
-id: ID string. 僅包含字母、數字、破折號「-」和底線「_」。 不允許有任何空格。 必須為唯一。
-mktoName : String. This is the display name that will be shown in the landing page editor. 最佳實務是使用描述性名稱。
+類別： &quot;mktoImg&quot;
+ID：ID字串。 僅包含字母、數字、破折號「-」和底線「_」。 不允許有任何空格。 必須為唯一。
+mktoName ：字串。 這是將顯示在登入頁面編輯器中的顯示名稱。 最佳實務是使用描述性名稱。
 
 可選：
 mktoImgClass：字串。 這裡的值會新增至 div 內 `<img>` 元素的類別屬性。
@@ -187,8 +192,8 @@ src：字串URL。 這將做為影像的預設值。
 **預設**：布林字串。 「true」或「false」控制值是否從ON或OFF位置開始。 &quot;false&quot; （若未提供）。
 **false_value**：字串。 當變數處於OFF位置時要插入的值。 &quot;false&quot; （若未提供）。
 **true_value**：字串。 當變數處於「開啟」位置時要插入的值。 若未提供，則為&quot;true&quot;。
-**false_value_name**：字串。 The display name to be shown in the landing page editor when the value is in the OFF position. &quot;OFF&quot; if not provided.
-**true_value_name**: String. The display name to be shown in the landing page editor when the value is in the ON position. &quot;ON&quot; if not provided.
+**false_value_name**：字串。 當值處於「關閉」位置時，要在登入頁面編輯器中顯示的顯示名稱。 若未提供，則為「關閉」。
+**true_value_name**：字串。 當值位於「開啟」位置時，要在登入頁面編輯器中顯示的顯示名稱。 若未提供，則為「開啟」。
 
 基本範例：
 
@@ -198,10 +203,10 @@ src：字串URL。 這將做為影像的預設值。
 
 `<meta class="mktoColor" id="color" mktoName="My Color Variable" default="#336699">`
 
-This example shows a common use case where a boolean variable controls the visibility of a css element by setting the value of css display property to either &quot;block&quot; or &quot;none&quot; to show/hide an element by id with CSS. The landing page editor will use the display name Show/Hide instead of OFF/ON.
+此範例顯示一個常見的使用案例，其中的布林值變數會將css display屬性的值設為「block」或「none」，藉此控制css元素的可見度，進而使用CSS依ID顯示/隱藏元素。 登入頁面編輯器將使用顯示名稱Show/Hide來取代OFF/ON。
 
 `<meta class="mktoBoolean" id="boolean1" mktoName="My Boolean Variable" default="true" true_value="block" false_value="none" false_value_name="Hide" true_value_name="Show"> <style> #myConditionalDisplayArea { display: ${boolean1}; } </style>`
 
 >[!NOTE]
 >
->Program tokens (my.token) can also be used anywhere in Guided or Free-form landing pages.
+>程式權杖(my.token)也可在引導式或自由表單登陸頁面中的任意位置使用。

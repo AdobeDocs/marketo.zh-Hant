@@ -4,9 +4,14 @@ description: 瞭解如何取消已排程的批次行銷活動執行。 移除一
 title: 取消已安排的批次行銷活動執行
 exl-id: 4bdffdcc-d654-40d1-a316-5ed05fc1b7f4
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+TQID: https://experienceleague.adobe.com/2kJg8aRkZFOidnPjm50gG5EQXLcKAWReC59VFJIO6q8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: 102
 ht-degree: 11%
 
 ---

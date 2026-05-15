@@ -4,9 +4,14 @@ description: 瞭解Facebook離線轉換，以及如何搭配Marketo使用。 了
 title: 了解 Facebook 離線轉換
 exl-id: e0995ebc-47fb-4f10-b767-4fe9f572b2d2
 feature: Integrations
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/22t2foTWN-7xooxnnXuyk1l10kI-H4-gq0LbwbWSlns
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: 237
 ht-degree: 2%
 
 ---

@@ -3,14 +3,32 @@ description: 為您新的Marketo Engage執行個體設定Design Studio區段。
 title: 新執行個體最佳實務 — 設計工作室檢查清單
 feature: Getting Started
 exl-id: 070ee235-dad0-4627-bac0-14bf0174bb03
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+TQID: https://experienceleague.adobe.com/RBppQJwjVVJ-5eQDWh-990TJDXF4c7EPEja7uHRlI6I
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2:
+  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+  - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+  - id: ea6641cb-8461-4151-a8a9-9faaa44a928a
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '369'
-ht-degree: 4%
+source-wordcount: 625
+ht-degree: 3%
 
 ---
 
-# 新執行個體最佳實務：Design Studio檢查清單 {#new-instance-best-practices-design-studio-checklist}
+# 新執行個體最佳做法：Design Studio 檢查清單 {#new-instance-best-practices-design-studio-checklist}
 
 Design Studio區段是可重複使用之「全域資產」的所在位置。 建立您的組織計畫在方案中使用的全域資產、使用一致的命名慣例，並將它們組織在子資料夾中以便輕鬆搜尋。
 
@@ -143,7 +161,7 @@ Design Studio區段是可重複使用之「全域資產」的所在位置。 建
 <tbody>
   <tr>
     <td>資料夾結構 </td>
-    <td><li>為每種型別的資產建立子資料夾，並<a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank">適當地組織全域資產</a> （例如，對話流程、電子郵件範本、電子郵件、表單、影像和檔案、登入頁面、登入頁面範本、程式碼片段等）。</li></td>
+    <td><li>為每種型別的資產建立子資料夾，並<a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank">組織全域資產</a> （例如，對話流程、電子郵件範本、電子郵件、表單、影像和檔案、登入頁面、登入頁面範本、程式碼片段等） 適當地。</li></td>
   </tr>
 </tbody>
 </table>

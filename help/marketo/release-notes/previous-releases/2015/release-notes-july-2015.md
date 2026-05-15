@@ -4,9 +4,12 @@ description: 發行說明 — 2015年7月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2015年7月
 exl-id: d7658718-27fd-4699-8fac-c30a59802dfd
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/WyIgJBqWo7to9K-VrflUdWCGcF7jH-nF3vc7YRoriks
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: 273
 ht-degree: 1%
 
 ---

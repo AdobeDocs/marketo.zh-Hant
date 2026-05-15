@@ -2,9 +2,14 @@
 description: 瞭解如何從Salesforce大量新增銷售機會和聯絡人至促銷活動。 選取清單檢視，並使用Lightning或Classic中的「新增至促銷活動」按鈕。
 title: 在 Salesforce 中使用大量新增至銷售行銷活動
 exl-id: e518fe82-e37d-4edd-8a31-19268f6fd4b1
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/2LbZICCTfZs0GAnBtFwAs3f0xjKk1ZkHvY2fkC7VLbU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '598'
+source-wordcount: 602
 ht-degree: 2%
 
 ---

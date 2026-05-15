@@ -4,10 +4,21 @@ description: 瞭解如何在Marketo的自由形式登陸頁面中使用動態內
 title: 在自由格式登陸頁面中使用動態內容
 exl-id: 76441566-96be-43fb-91da-4c0c520cc9e1
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/O80z2EtTU2E-1yf6ng-5n6FOWNXzVG2-Oq8xbXapvhI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2:
+  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+  - id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
+  - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 9%
+source-wordcount: 203
+ht-degree: 10%
 
 ---
 
@@ -53,7 +64,7 @@ ht-degree: 9%
 
    ![](assets/image2014-9-17-12-3a10-3a8.png)
 
-1. 您也可以從元素&#x200B;**[!UICONTROL Static]**&#x200B;建立元素&#x200B;**[!UICONTROL Dynamic]**&#x200B;或&#x200B;**[!UICONTROL Settings]**。
+1. 您也可以從元素&#x200B;**[!UICONTROL Settings]**&#x200B;建立元素&#x200B;**[!UICONTROL Static]**&#x200B;或&#x200B;**[!UICONTROL Dynamic]**。
 
    ![](assets/image2014-9-17-12-3a10-3a14.png)
 

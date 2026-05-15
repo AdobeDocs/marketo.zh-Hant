@@ -4,9 +4,16 @@ description: 瞭解如何為現有Marketo客戶設定Salesforce Sales Insight。
 title: 針對現有客戶的設定
 exl-id: e365f6b5-a3ec-492e-9348-2d3226e6c7eb
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/kdiRnqpm3kJXIPz2QLQS-AF3f04UIPuOS6c836EXlxo
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: 158
 ht-degree: 10%
 
 ---
@@ -37,7 +44,7 @@ ht-degree: 10%
 
 1. 您會看到確認快顯視窗。 按一下「**[!UICONTROL OK]**」。
 
-## 在[!DNL Sales Insight]中設定[!DNL Salesforce] {#configure-sales-insight-in-salesforce}
+## 在[!DNL Salesforce]中設定[!DNL Sales Insight] {#configure-sales-insight-in-salesforce}
 
 1. 在Salesforce中，按一下&#x200B;**[!UICONTROL Setup]**。
 

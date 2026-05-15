@@ -1,23 +1,32 @@
 ---
 unique-page-id: 2360356
-description: Enable SAML 2.0 single sign-on so your identity provider authenticates users for Marketo.
+description: 啟用SAML 2.0單一登入，讓您的身分提供者可驗證Marketo的使用者。
 title: 將單一登入新增至入口網站
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
+TQID: https://experienceleague.adobe.com/-3bbSWs-yvF6QaXVzY5nJStkPqZtBttJu2EcDq5I3GE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '620'
+source-wordcount: 620
 ht-degree: 6%
 
 ---
 
 # 將單一登入新增至入口網站 {#add-single-sign-on-to-a-portal}
 
-If you have a directory service that authenticates users, you can allow single sign-on (SSO) into Marketo. Marketo使用[!DNL Security Assertion Markup Language] (SAML) 2.0版和更新版本支援此功能。
+如果您有驗證使用者的目錄服務，可以允許單一登入(SSO)進入Marketo。 Marketo使用[!DNL Security Assertion Markup Language] (SAML) 2.0版和更新版本支援此功能。
 
 Marketo的作用就像是SAML服務提供者(SP)，並且仰賴外部身分提供者(IdP)來驗證使用者。
 
-Once SSO is enabled, the IdP can validate a user&#39;s credentials. 當使用者希望使用Marketo軟體時，IdP會傳送已簽署的SAML訊息給Marketo（充當SP）。 此訊息會向Marketo確認使用者已獲授權使用Marketo軟體。
+啟用SSO後，IdP可以驗證使用者的認證。 當使用者希望使用Marketo軟體時，IdP會傳送已簽署的SAML訊息給Marketo（充當SP）。 此訊息會向Marketo確認使用者已獲授權使用Marketo軟體。
 
 >[!NOTE]
 >
@@ -25,17 +34,17 @@ Once SSO is enabled, the IdP can validate a user&#39;s credentials. 當使用者
 
 >[!IMPORTANT]
 >
->This does **not** apply to subscriptions onboarded to Adobe Identity. 先前的設定可能會顯示（從IMS移轉之前），但不再適用。 針對已上線至Adobe Identity的訂閱，已在Adobe Admin Console中的Adobe組織層級設定[單一登入](https://helpx.adobe.com/tw/enterprise/using/set-up-identity.html){target="_blank"}。
+>這&#x200B;**不**&#x200B;適用於已上線至Adobe Identity的訂閱。 先前的設定可能會顯示（從IMS移轉之前），但不再適用。 針對已上線至Adobe Identity的訂閱，已在Adobe Admin Console中的Adobe組織層級設定[單一登入](https://helpx.adobe.com/tw/enterprise/using/set-up-identity.html){target="_blank"}。
 
 >[!NOTE]
 >
->您是[!DNL Microsoft Azure]使用者嗎？ Check out their [integration tutorial](https://learn.microsoft.com/en-us/entra/identity/saas-apps/marketo-tutorial){target="_blank"}. Note that there is a typo in Step 5c of their tutorial. Set the Relay State to `https://<munchkinid>.mktoweb.com`, **_not_** `https://<munchkinid>.marketo.com`.
+>您是[!DNL Microsoft Azure]使用者嗎？ 檢視他們的[整合教學課程](https://learn.microsoft.com/en-us/entra/identity/saas-apps/marketo-tutorial){target="_blank"}。 請注意，其教學課程的步驟5c中有一個錯字。 將轉送狀態設定為`https://<munchkinid>.mktoweb.com`，**_不是_** `https://<munchkinid>.marketo.com`。
 
-## How to Send the Request {#how-to-send-the-request}
+## 如何傳送請求 {#how-to-send-the-request}
 
 * 將SSO要求（亦即SAML回應）傳送至`https://login.marketo.com/saml/assertion/<your-munchkin-id>`
 * 做為SP的對象URL。 使用`http://saml.marketo.com/sp`
-* If you are using the SPNameQualifier attribute, set the NameID element for Subject to `http://saml.marketo.com/sp`
+* 如果您使用SPNameQualifier屬性，請將Subject的NameID元素設定為`http://saml.marketo.com/sp`
 * 如果您要將多個Marketo訂閱聯合到同一個SSO提供者，則可以針對每個Marketo子檔案使用格式為`http://saml.marketo.com/sp/<munchkin_id>`的唯一SP URL
 
 >[!NOTE]

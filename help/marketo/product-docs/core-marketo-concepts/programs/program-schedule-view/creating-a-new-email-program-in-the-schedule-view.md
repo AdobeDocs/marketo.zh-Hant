@@ -4,9 +4,14 @@ description: 瞭解如何從計畫排程檢視建立新的電子郵件計畫。 
 title: 在排程視圖中建立新的電子郵件方案
 exl-id: a052d6a8-d745-4017-a22a-a7019c8432ce
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+TQID: https://experienceleague.adobe.com/YOcP85xZ-fSMEEZMCTnjyamN0gH1VfFMW9KMr7uO0Cg
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: 119
 ht-degree: 19%
 
 ---

@@ -3,10 +3,13 @@ description: 瞭解Veeva CRM和Marketo Engage之間的預設Veeva欄位對應。
 title: 預設 [!DNL Veeva] 欄位對應
 exl-id: 3bf36d50-daea-431f-9537-b3007ad75945
 feature: Veeva CRM
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+TQID: https://experienceleague.adobe.com/ilvA8-VMso0GUsszVRlK20lGSYmPNHRK-N4pEdJWfEY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '270'
-ht-degree: 36%
+source-wordcount: 272
+ht-degree: 37%
 
 ---
 
@@ -38,7 +41,7 @@ ht-degree: 36%
     </tr>
     <tr>
       <td>連絡人說明</td>
-      <td>個人附註</td>
+      <td>人員備註</td>
     </tr>
     <tr>
       <td>電子郵件</td>
@@ -131,7 +134,7 @@ ht-degree: 36%
     </tr>
     <tr>
       <td>帳單城市</td>
-      <td>帳單城市</td>
+      <td>帳單寄送城市</td>
     </tr>
     <tr>
       <td>帳單國家</td>
@@ -218,7 +221,7 @@ ht-degree: 36%
     </tr>
     <tr>
       <td>[!DNL Veeva] 建立日期</td>
-      <td>在SFDC中建立的日期(可能與Marketo中的建立日期不同)</td>
+      <td>在SFDC中建立的日期（可能與Marketo中的建立日期不同）</td>
     </tr>
     <tr>
       <td>[!DNL Veeva] 已刪除</td>

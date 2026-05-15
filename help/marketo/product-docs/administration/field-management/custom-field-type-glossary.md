@@ -4,9 +4,17 @@ description: Marketo中自訂欄位型別的參考，包括布林值、貨幣、
 title: 自訂欄位類型字彙表
 exl-id: 495d4deb-28f1-4044-98d3-27c20756fe73
 feature: Field Management
-source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
+TQID: https://experienceleague.adobe.com/Dh25WBFjkhrFODNcn6DpWNC9F2F-3D7C24Nwkv8fbOM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '601'
+source-wordcount: 601
 ht-degree: 3%
 
 ---

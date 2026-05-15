@@ -4,14 +4,19 @@ description: 瞭解Salesforce Mobile (Salesforce1)中的首選。 在Marketo Sal
 title: Salesforce1 中的最佳選擇
 exl-id: 5b1c9f26-7896-4d38-b458-1a43352ec036
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/yjT8JEOPeB6rr69mRMoM3xfYe8TYWno1Yj2FaI2Ldmk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: 84
 ht-degree: 4%
 
 ---
 
-# [!DNL Best Bets]中的[!DNL Salesforce1] {#best-bets-in-salesforce}
+# [!DNL Salesforce1]中的[!DNL Best Bets] {#best-bets-in-salesforce}
 
 您的[[!DNL Best Bets]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)是緊急性和相對分數最高的潛在客戶和聯絡人。 該清單中只會顯示您擁有的潛在客戶，而且清單會隨著潛在客戶評分的變更而更新。
 
@@ -23,5 +28,5 @@ ht-degree: 4%
 
 >[!MORELIKETHIS]
 >
->* 在[中的[!UICONTROL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)個有趣時刻
+>* 在[!UICONTROL Salesforce1][&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)中的個有趣時刻
 >* [在[!UICONTROL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)中傳送Marketo電子郵件和行銷活動及監看清單動作

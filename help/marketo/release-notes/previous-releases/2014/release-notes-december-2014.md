@@ -4,10 +4,20 @@ description: 發行說明 — 2014年12月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2014年12月
 exl-id: b4dd365d-a2a2-416e-a226-5515203a41f8
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/yAW6Nis-Bk1vWSJL48ua5ZPfsp54YFZKryT7TZzX1Qg
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '455'
-ht-degree: 1%
+source-wordcount: 475
+ht-degree: 2%
 
 ---
 
@@ -25,7 +35,7 @@ ht-degree: 1%
 
 ## [!DNL Facebook]個自訂對象 {#facebook-custom-audiences}
 
-在您的Marketo管理員透過[[!DNL Facebook]  > [!UICONTROL Admin]新增[!UICONTROL LaunchPoint]](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)後，您就可以輕鬆地建立、更新或[以Marketo靜態或智慧清單中的潛在客戶取代 [!DNL Facebook] 自訂對象](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)。 在任何靜態或智慧清單的銷售機會格線底部尋找新的[!DNL Facebook]圖示。
+在您的Marketo管理員透過[!UICONTROL Admin] > [!UICONTROL LaunchPoint][&#128279;](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)新增[!DNL Facebook] 後，您就可以輕鬆地建立、更新或[以Marketo靜態或智慧清單中的潛在客戶取代 [!DNL Facebook] 自訂對象](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)。 在任何靜態或智慧清單的銷售機會格線底部尋找新的[!DNL Facebook]圖示。
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 

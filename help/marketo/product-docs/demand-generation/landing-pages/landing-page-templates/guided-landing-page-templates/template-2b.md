@@ -4,10 +4,15 @@ description: 瞭解範本2B引導式登陸頁面範本。 下載並用於您的M
 title: 範本 2B
 exl-id: 8ccf9758-e1c4-41e2-8266-44f69f3a9c67
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/enpGPbJ-tVrT0cZESDiQnjGdNegyZtKXhCmkwpji0Pw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 5%
+source-wordcount: 89
+ht-degree: 4%
 
 ---
 

@@ -4,9 +4,14 @@ description: 瞭解如何停用特定電子郵件連結的追蹤。 需要隱私
 title: 停用電子郵件連結追蹤
 exl-id: 841ef605-1664-4457-bc83-50bbe5d44853
 feature: Email Editor
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/q3ADow5Tqt-k37k-joN6qGPAPiS8KRkFNUyeR8osJ8Y
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: 294
 ht-degree: 4%
 
 ---

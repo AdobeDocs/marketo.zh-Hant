@@ -4,9 +4,16 @@ description: 瞭解如何在流程步驟中建立有趣的時刻。 記錄在CRM
 title: 關鍵時刻
 exl-id: fa1a45b8-1e62-497e-9441-bf6859addb42
 feature: Smart Campaigns
-source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
+TQID: https://experienceleague.adobe.com/6CpIrnDgwNfa8806wf0r8hNXvdt3q5R6H08xxZg0uoM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+subfeature_v2:
+  - id: ad89fb33-8541-4339-afe7-bb13d1633714
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: 108
 ht-degree: 3%
 
 ---

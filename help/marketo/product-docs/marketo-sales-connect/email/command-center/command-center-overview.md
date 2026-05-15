@@ -4,9 +4,12 @@ description: 瞭解Sales Connect中的Command Center。 在一個地方管理您
 title: 指揮中心概觀
 exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/hzr8OOsBDYhff0UJ-DqyaG6GGnfMePWeagHF78RbF7E
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '568'
+source-wordcount: 575
 ht-degree: 1%
 
 ---
@@ -53,7 +56,7 @@ Commend Center是單一、統一的檢視畫面，可協助您找出下一步驟
   <tr>
    <td title="背景顏色：灰色"><br></td>
    <td title="背景顏色：灰色">[!UICONTROL Draft]</td>
-   <td title="背景顏色：灰色"><p>已儲存為草稿的電子郵件。<br><strong>附註：</strong>只有單一電子郵件可以儲存為草稿。 大量電子郵件（選取和傳送電子郵件及群組電子郵件）將不會儲存為草稿。</p></td>
+   <td title="背景顏色：灰色"><p>已儲存為草稿的電子郵件。<br><strong>注意：</strong>只有單一電子郵件可以儲存為草稿。 大量電子郵件（選取和傳送電子郵件及群組電子郵件）將不會儲存為草稿。</p></td>
   </tr>
   <tr>
    <td title="背景顏色：灰色"><br></td>
@@ -73,7 +76,7 @@ Commend Center是單一、統一的檢視畫面，可協助您找出下一步驟
   <tr>
    <td title="背景顏色：藍色"><br></td>
    <td title="背景顏色：藍色">[!UICONTROL Spam]</td>
-   <td title="背景顏色：藍色"><p>收件者手動標籤為垃圾郵件的電子郵件。<br><strong>注意：</strong>只有當您是舊版ToutApp使用者，並且有權存取MSC伺服器作為傳遞通道時，才會偵測到這個問題。</p></td>
+   <td title="背景顏色：藍色"><p>收件者手動標示為垃圾郵件的電子郵件。<br><strong>注意：</strong>只有當您是舊版ToutApp使用者，並且有權存取MSC Server做為傳遞通道時，才會偵測到此情況。</p></td>
   </tr>
  </tbody>
 </table>

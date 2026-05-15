@@ -4,9 +4,14 @@ description: 瞭解如何中止智慧行銷活動。 停止執行中的批次行
 title: 中止智慧行銷活動
 exl-id: 1d80e67a-324c-4a99-bda3-57074a24ea3d
 feature: Smart Campaigns
-source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
+TQID: https://experienceleague.adobe.com/NHm54v5v58WzsR49vqfpWb6s3JGET4ndGT6fT3EvXDo
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: 146
 ht-degree: 8%
 
 ---

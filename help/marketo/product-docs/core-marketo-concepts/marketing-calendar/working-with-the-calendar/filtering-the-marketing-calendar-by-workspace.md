@@ -4,9 +4,12 @@ description: 瞭解如何依工作區篩選行銷行事曆。 從篩選面板僅
 title: 按照工作區篩選行銷行事曆
 exl-id: 3f1259dd-a42d-4d9b-b2ba-1f1060f8dae6
 feature: Marketing Calendar
-source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
+TQID: https://experienceleague.adobe.com/kitTh-V5W5gqQqXgzNQ3MuEa-H4x9s2k98lm6yaOO00
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: 77
 ht-degree: 15%
 
 ---

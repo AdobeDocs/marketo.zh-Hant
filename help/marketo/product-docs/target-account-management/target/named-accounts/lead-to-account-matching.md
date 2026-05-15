@@ -4,10 +4,22 @@ description: 瞭解銷售線索與帳戶的比對，以及Marketo如何以幾近
 title: 商機與帳戶配對
 exl-id: 676ae500-7691-492d-abec-0cac708216b7
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+TQID: https://experienceleague.adobe.com/UOnC6liEOBDJ7IbaKhf5lYjNfZgKJEXAYqaHrYLGErc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '466'
-ht-degree: 2%
+source-wordcount: 496
+ht-degree: 5%
 
 ---
 
@@ -25,7 +37,7 @@ Marketo銷售線索與帳戶的比對會遵循4個步驟的程式：
 
 **步驟1 -**&#x200B;我們的比對程式從使用潛在客戶記錄的關鍵資訊開始，例如：
 
-* 電子郵件網域(例如acme.com)
+* 電子郵件網域（例如acme.com）
 * 從IP位址推斷的公司名稱
 * 公司名稱 — 這可以是CRM帳戶名稱或潛在客戶公司名稱屬性（例如，來自表單填寫）
 
@@ -37,7 +49,7 @@ Marketo銷售線索與帳戶的比對會遵循4個步驟的程式：
 
 **步驟4 -**&#x200B;我們提供一份提議的公司清單，包含強相符和弱相符的專案。 當根據其中一家建議的公司建立具名帳戶時，我們會建立比對規則，以自動將新的銷售機會（例如，填寫表單的銷售機會）關聯到正確的具名帳戶。 這樣，您就不必再擔心銷售機會配對了，更不用擔心收入問題！
 
-由於Marketo銷售線索與帳戶的比對是Marketo [!UICONTROL Target Account Management]的內建功能，因此幾乎即時都會發生銷售線索與帳戶的比對(例如，當銷售線索填寫Marketo表單時，我們會將所述的銷售線索與正確的具名帳戶建立關聯)。 此事件可用來觸發警報，並通知帳戶擁有者有新的潛在客戶從他們指定的帳戶進入。
+由於Marketo銷售線索與帳戶的比對是Marketo [!UICONTROL Target Account Management]的內建功能，因此幾乎即時都會發生銷售線索與帳戶的比對（例如，當銷售線索填寫Marketo表單時，我們會將所述的銷售線索與正確的具名帳戶建立關聯）。 此事件可用來觸發警報，並通知帳戶擁有者有新的潛在客戶從他們指定的帳戶進入。
 
 >[!NOTE]
 >

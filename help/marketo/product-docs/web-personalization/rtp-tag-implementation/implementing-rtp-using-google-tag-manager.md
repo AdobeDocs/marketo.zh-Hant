@@ -4,9 +4,19 @@ description: 瞭解如何在Marketo Engage中使用Google標籤管理員實作rt
 title: 使用 Google Tag Manager 實施 RTP
 exl-id: f7f06779-8abe-4c8c-9197-9d0c6bcfed49
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/XesXGBf2aDsnsbS2Ro1RLdd1EVrj-mBdCiv8C0dj8NU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: 152
 ht-degree: 6%
 
 ---
@@ -17,13 +27,13 @@ ht-degree: 6%
 
 1. 登入您的[!DNL Google Tag Manager]帳戶。
 
-1. 新增&#x200B;**[!UICONTROL Tag]** > **[!UICONTROL Tag Configurations]** > **[!UICONTROL Custom HTML Tag]。**&#x200B;呼叫它&#x200B;**RTP**。
+1. 新增&#x200B;**[!UICONTROL Tag]** > **[!UICONTROL Tag Configurations]** > **[!UICONTROL Custom HTML Tag].** 呼叫它&#x200B;**RTP**。
 
 1. 登入您的&#x200B;**RTP帳戶**。
 
 1. 前往 **[!UICONTROL Account Settings]**。
 
-   a.如果您已經從「支援」收到JavaScript標籤，請繼續步驟6。
+   答： 如果您已從支援部門收到JavaScript標籤，請繼續前往步驟6。
 
    ![](assets/image2014-11-30-15-3a19-3a21.png)
 
@@ -39,4 +49,4 @@ ht-degree: 6%
 
 1. 確認其出現在所有頁面上，包括登陸頁面和子網域。
 
-   a.您可以在網站的頁面上按一下滑鼠右鍵，以執行此操作。 移至&#x200B;**[!UICONTROL Inspect Element]**，搜尋&#x200B;**RTP**&#x200B;以找出標籤。
+   答： 若要這麼做，請在網站的頁面上按一下滑鼠右鍵。 移至&#x200B;**[!UICONTROL Inspect Element]**，搜尋&#x200B;**RTP**&#x200B;以找出標籤。

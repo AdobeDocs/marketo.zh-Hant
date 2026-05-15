@@ -4,9 +4,12 @@ description: 瞭解如何將背景影像新增至行銷行事曆簡報。 從資
 title: 新增背景影像至簡報
 exl-id: 3ca33701-0f94-448a-8ecc-45d0b2bfb38e
 feature: Marketing Calendar
-source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
+TQID: https://experienceleague.adobe.com/fKxbaDF1Nl28XGIPqxz1M-RJfOUuGKXPJajfzwO4jOU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: 102
 ht-degree: 13%
 
 ---

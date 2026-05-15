@@ -4,9 +4,14 @@ description: 瞭解如何從參與計畫刪除串流。 如有需要，請先將
 title: 刪除資料流
 exl-id: f813c2ce-c819-4a38-bf3e-ff79c2a28c6e
 feature: Engagement Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/pYy8-DXGtYRq7iheK6WYauupMVhownb08RZp8z5Nxz4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: 100
 ht-degree: 8%
 
 ---

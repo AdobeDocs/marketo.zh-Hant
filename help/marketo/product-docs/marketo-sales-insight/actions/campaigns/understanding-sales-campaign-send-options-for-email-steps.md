@@ -3,9 +3,12 @@ description: 瞭解銷售活動電子郵件步驟的傳送選項。 選擇何時
 title: 了解電子郵件步驟的銷售行銷活動傳送選項
 feature: Sales Insight Actions
 exl-id: 775c6401-efb2-4940-a81c-be5d2759c7bd
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/dd4l3DH5i6E-zpjJk-cpQTMgZy-3a90JcrkeAFGl4PM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '758'
+source-wordcount: 758
 ht-degree: 3%
 
 ---

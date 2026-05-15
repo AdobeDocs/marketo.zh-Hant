@@ -1,16 +1,19 @@
 ---
 description: 瞭解如何授與用於Dynamics同步處理之使用者端ID和應用程式註冊的同意。 建置授權URI並授與同步處理使用者的委派使用者許可權。
-title: 授予用戶端 ID 和應用程式註冊的同意
+title: 授予使用者端ID和應用程式註冊的同意
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/HOqR2iJ4eN5091PyTeOLtCeYkVrj9TMs5MuKK8tEeYo
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '285'
-ht-degree: 7%
+source-wordcount: 285
+ht-degree: 0%
 
 ---
 
-# 授予用戶端 ID 和應用程式註冊的同意 {#grant-consent-for-client-id-and-app-registration}
+# 授予使用者端ID和應用程式註冊的同意 {#grant-consent-for-client-id-and-app-registration}
 
 請依照下列步驟瞭解如何授與必要的同意和許可權。
 
@@ -65,7 +68,7 @@ ht-degree: 7%
    >
    >如果您已在其他索引標籤中以管理員身分登入Azure，則需使用其他瀏覽器或無痕模式才能以同步使用者身分登入。
 
-1. 按一下「**[!UICONTROL Accept]**」。
+1. 按一下&#x200B;**[!UICONTROL Accept]**。
 
    ![](assets/grant-consent-for-client-id-app-registration-3.png)
 
@@ -83,6 +86,6 @@ ht-degree: 7%
 
    ![](assets/grant-consent-for-client-id-app-registration-5.png)
 
-1. 按一下 **[!UICONTROL Yes]** 確認。
+1. 按一下&#x200B;**[!UICONTROL Yes]**&#x200B;確認。
 
    ![](assets/grant-consent-for-client-id-app-registration-6.png)

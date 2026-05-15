@@ -7,9 +7,25 @@ level: Beginner, Intermediate
 feature: Email Designer
 badge: Beta
 exl-id: a4755e1c-01a0-40d5-91d1-514ec3d138f5
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/3DdGJZ9VW-RHragnelCpYisUYUjnqQePiEGn1TOU3Fk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2:
+  - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '756'
+source-wordcount: 758
 ht-degree: 1%
 
 ---
@@ -139,7 +155,7 @@ ht-degree: 1%
   <tr>
     <td>對於匯入的內容，使用內容預覽不是可靠的指標。</td>
     <td>Designer的預覽功能不支援自訂HTML。</td>
-    <td>建議您使用<b>模擬內容</b>畫面中的<i>傳送校樣</i>選項來測試電子郵件。</td>
+    <td>建議您使用<i>模擬內容</i>畫面中的<b>傳送校樣</b>選項來測試電子郵件。</td>
   </tr>
   <tr>
     <td>舊範本中的程式碼片段無法用於電子郵件Designer。</td>

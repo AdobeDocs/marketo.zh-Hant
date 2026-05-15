@@ -4,10 +4,18 @@ description: 瞭解如何在電子郵件程式中啟用或停用通訊限制。 
 title: 在電子郵件方案中啟用/停用通訊限制
 exl-id: 25427978-33a0-4153-ad66-b34f9549e794
 feature: Email Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/D9EiErAPptyeyF5Snw0RJxh7tMfKvY1NNycspaH2tss
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 13%
+source-wordcount: 139
+ht-degree: 12%
 
 ---
 
@@ -17,7 +25,7 @@ ht-degree: 13%
 
 >[!NOTE]
 >
->通訊限制在管理員區段[中設定為](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)，可協助您避免傳送過多電子郵件給某人。
+>通訊限制在管理員區段[&#128279;](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)中設定為，可協助您避免傳送過多電子郵件給某人。
 
 1. 前往 **[!UICONTROL Marketing Activities]**。
 

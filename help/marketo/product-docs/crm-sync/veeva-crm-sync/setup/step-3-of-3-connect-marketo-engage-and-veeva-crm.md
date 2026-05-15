@@ -3,9 +3,14 @@ description: 瞭解如何在最後的設定步驟中將Marketo Engage連結至Ve
 title: 步驟3之3 — 連線Marketo Engage和 [!DNL Veeva] CRM
 exl-id: aff91540-1d9d-448c-aae9-e6fa92a8ae01
 feature: Veeva CRM
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/nIEl6amGFVi-n6BruezuUFDxAQj5f-BnKCQFPHGJsRw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: 319
 ht-degree: 2%
 
 ---

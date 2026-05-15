@@ -4,16 +4,23 @@ description: 瞭解如何從Salesforce AppExchange安裝Marketo Sales Insight套
 title: 在 Salesforce AppExchange 中安裝 Marketo 銷售洞察封裝
 exl-id: d0c54d6a-e9d5-4ddb-8679-873b61375a82
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/Avewt9joDG0k3TR0MF1jvqtQsS-GQeKKNnfARk8Xffk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: 220
 ht-degree: 6%
 
 ---
 
-# 在[!DNL Marketo Sales Insight] AppExchange中安裝[!DNL Salesforce]套件 {#install-marketo-sales-insight-package-in-salesforce-appexchange}
+# 在[!DNL Salesforce] AppExchange中安裝[!DNL Marketo Sales Insight]套件 {#install-marketo-sales-insight-package-in-salesforce-appexchange}
 
-您必須先在您的[!DNL Marketo Sales Insight]訂閱中安裝[!DNL Salesforce]應用程式，才能享受[!DNL Sales Insight]提供的所有優點。 方法如下。
+您必須先在您的[!DNL Salesforce]訂閱中安裝[!DNL Marketo Sales Insight]應用程式，才能享受[!DNL Sales Insight]提供的所有優點。 方法如下。
 
 >[!NOTE]
 >
@@ -23,7 +30,7 @@ ht-degree: 6%
 >
 >[!DNL Marketo Sales Insight]與[!DNL Salesforce] Platform (Shield)加密相容。
 
-1. 移至[&#x200B; [!DNL Marketo Sales Insight]的](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)AppExchange頁面，然後按一下&#x200B;**[!UICONTROL Get it Now]**。
+1. 移至 [!DNL Marketo Sales Insight][&#128279;](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)的AppExchange頁面，然後按一下&#x200B;**[!UICONTROL Get it Now]**。
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-1.png)
 
@@ -57,11 +64,11 @@ ht-degree: 6%
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-7.png)
 
-1. 搜尋&quot;[!UICONTROL objects]&quot;，然後按一下&#x200B;**[!UICONTROL Objects]**&#x200B;下方的&#x200B;**[!UICONTROL Create]**。
+1. 搜尋&quot;[!UICONTROL objects]&quot;，然後按一下&#x200B;**[!UICONTROL Create]**&#x200B;下方的&#x200B;**[!UICONTROL Objects]**。
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-8.png)
 
-1. 仔細檢查是否已針對所有&#x200B;**[!UICONTROL Deployed]**&#x200B;個專案檢查[!DNL Marketo Sales Insight]。
+1. 仔細檢查是否已針對所有[!DNL Marketo Sales Insight]個專案檢查&#x200B;**[!UICONTROL Deployed]**。
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-9.png)
 
@@ -73,10 +80,10 @@ ht-degree: 6%
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-11.png)
 
-做得好！現在您已安裝並部署[!DNL Marketo Sales Insight]。 繼續為您的銷售團隊進行設定，並觀看銷售飆升過程。
+做得好！ 現在您已安裝並部署[!DNL Marketo Sales Insight]。 繼續為您的銷售團隊進行設定，並觀看銷售飆升過程。
 
 >[!MORELIKETHIS]
 >
->* [在 [!DNL Marketo Sales Insight] Professional Edition [!DNL Salesforce] 設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
->* [在 [!DNL Marketo Sales Insight] Enterprise/Unlimited [!DNL Salesforce] 中設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
+>* [在 [!DNL Salesforce] Professional Edition](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)設定 [!DNL Marketo Sales Insight] 
+>* [在 [!DNL Salesforce] Enterprise/Unlimited](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)中設定 [!DNL Marketo Sales Insight] 
 >* [將銷售Insight存取權新增至設定檔](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}

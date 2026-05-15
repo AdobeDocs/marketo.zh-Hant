@@ -4,9 +4,16 @@ description: 發行說明 — 2013年6月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2013年6月
 exl-id: c4f022f2-e579-42ed-9e47-00dcd96d0e6f
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/eQePp2FMfxvMsOkO3n0zHR3CkprQ0asS3oa9PzurWqw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: 161
 ht-degree: 2%
 
 ---
@@ -35,7 +42,7 @@ ht-degree: 2%
 
 ## 多個模型 {#multiple-models}
 
-這項功能是社群中收入週期分析(RCA)的首要構想，可讓您建立多個模型，以便按產品線、業務單位或區域更詳細地瞭解您的收入漏斗。 「依收入階段的銷售機會」、「成功路徑分析器」、「Program Analyzer」和「收入總管」報告現在支援選取特定模型以進行報告的功能。
+這是社群收入週期分析(RCA)的首要構想，此功能可讓您建立多個模型，以按產品線、業務單位或區域更詳細地瞭解您的收入funnel。 「依收入階段的銷售機會」、「成功路徑分析器」、「Program Analyzer」和「收入總管」報告現在支援選取特定模型以進行報告的功能。
 
 依預設，Select SMB Edition提供兩種機型，Enterprise Edition提供十五種機型。 您也可以購買其他機型。
 

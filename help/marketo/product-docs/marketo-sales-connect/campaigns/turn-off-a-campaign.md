@@ -4,9 +4,12 @@ description: 瞭解在收件者回覆時如何關閉Sales Connect行銷活動。
 title: 關閉行銷活動
 exl-id: 4b6fcb6e-7966-43aa-aa4f-43c475c79de8
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/cjWi7igx6LLK6QI-tdOhcoq0TUC6mqZ4TMtHzRc7yHk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: 160
 ht-degree: 6%
 
 ---

@@ -4,10 +4,13 @@ description: 瞭解如何在Marketo中使用自由格式登陸頁面設計手冊
 title: 使用指南進行自由格式登陸頁面設計
 exl-id: 44c6a984-ae05-464c-905a-9e1b53f73f37
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/Bw7pYxsFnhj5vhHyJpVN1aKPAAqPz2d-wap8uaSkQV8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 12%
+source-wordcount: 115
+ht-degree: 13%
 
 ---
 

@@ -4,10 +4,13 @@ description: 瞭解如何使用整封電子郵件執行冠軍/挑戰者測試。
 title: 冠軍/挑戰者 — 整封電子郵件
 exl-id: fb95b412-5766-44a8-b250-aa5103a604bc
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/-XoBeMYaVcDqM1CvAe9Kl4UzUa-HCxOs3jTO9C68zSk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 1%
+source-wordcount: 254
+ht-degree: 2%
 
 ---
 
@@ -19,7 +22,7 @@ ht-degree: 1%
 >
 >[新增電子郵件冠軍/挑戰者](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. 在電子郵件測試編輯器中，選取&#x200B;**[!UICONTROL Whole Emails]**&#x200B;下拉式清單中的&#x200B;**[!UICONTROL Test Type]**。
+1. 在電子郵件測試編輯器中，選取&#x200B;**[!UICONTROL Test Type]**&#x200B;下拉式清單中的&#x200B;**[!UICONTROL Whole Emails]**。
 
    ![](assets/image2014-9-12-16-3a39-3a14.png)
 

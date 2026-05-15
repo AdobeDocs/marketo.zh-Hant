@@ -3,9 +3,14 @@ description: 瞭解銷售活動步驟型別和提醒工作。 使用電子郵件
 title: 銷售行銷活動步驟類型與提醒工作
 exl-id: 41b19452-ba1a-4ca7-bf22-29314072a346
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/QnwSipRlTnXV-LV-KG11LPZbHBjHPGsaLMPBrzqD8gM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: 330
 ht-degree: 4%
 
 ---

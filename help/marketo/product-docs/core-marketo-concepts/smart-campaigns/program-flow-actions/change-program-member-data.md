@@ -3,9 +3,14 @@ description: 瞭解如何在流程步驟中變更方案成員資料。 更新方
 title: 變更方案成員資料
 exl-id: 2ed8468e-0dbb-48c1-be60-7b51e92f9095
 feature: Smart Campaigns
-source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
+TQID: https://experienceleague.adobe.com/LpbN-6AJjEgVjfWKC8FlW5cfhJVtraT7n4bhIBAjhDY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: 143
 ht-degree: 5%
 
 ---

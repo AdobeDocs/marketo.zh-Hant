@@ -4,9 +4,12 @@ description: 當您無法刪除Sales Connect中的連絡人時，請取得協助
 title: 為什麼我無法刪除聯絡人？
 exl-id: 28218879-240e-450e-990d-1c2af0a74dc3
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/w-bJqpBIahBP-zYPLeiMt22LBtbxSvnKk83jrlpSQn4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: 100
 ht-degree: 12%
 
 ---

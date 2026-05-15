@@ -4,9 +4,12 @@ description: 瞭解當Sales Connect連線至Salesforce時，回覆記錄如何�
 title: 回覆記錄(SFDC)
 exl-id: 11f84157-55b7-42a7-81d0-f5848adbb9f4
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/f0d-5xccuVhooEcbh-7TU8fw68iazo1Ird1I8VZJYU4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: 265
 ht-degree: 0%
 
 ---

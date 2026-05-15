@@ -4,9 +4,17 @@ description: 瞭解如何使用Enterprise或Unlimited版本為Marketo建立Sales
 title: 步驟3之2 — 建立Marketo的Salesforce使用者(Enterprise/Unlimited)
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/QFFzCkj2oeYkcK36qKjLXDhit4XhWrSX4iMJDQOnor0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2:
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: 359
 ht-degree: 2%
 
 ---

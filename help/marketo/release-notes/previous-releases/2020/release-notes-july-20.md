@@ -4,9 +4,23 @@ description: 發行說明–2020年7月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2020年7月
 exl-id: 3c9b1f1d-961c-4bf8-8b99-37b483230506
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/m0gaKwTahjs5M2I7i-XVYMLZT4COy0XRTYwIsd3p9g8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+subfeature_v2:
+  - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '629'
+source-wordcount: 651
 ht-degree: 2%
 
 ---
@@ -31,7 +45,7 @@ ht-degree: 2%
 
 * **已更新帳戶設定檔的UI**：簡化在帳戶設定檔中建立目標帳戶清單的步驟，所有步驟都可在單一畫面中完成。
 
-<br>
+<br> 
 
 **_整個季度發行_**
 
@@ -57,7 +71,7 @@ ht-degree: 2%
 
 * **[銷售電話的增強型雙方同意：](/help/marketo/product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)**&#x200B;管理員現在對電話錄製設定有更大的控制權。 [啟用通話錄製](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md)，並確信您遵守雙方同意法。 自動通知正在錄製的通話，並啟動通話前要播放的音訊片段。
 
-<br>
+<br> 
 
 ## 公告與淘汰 {#announcements-deprecations}
 

@@ -4,9 +4,12 @@ description: 當Sales Connect活動未登入Salesforce活動歷程記錄時取�
 title: 未記錄至活動歷史記錄
 exl-id: 4870cd09-86d4-4dff-919c-0584bbc844d2
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/QqpAt-XEbi8Oa0tme6UF5uNHpVwFzcQgj-0MHwna5BA
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: 96
 ht-degree: 10%
 
 ---

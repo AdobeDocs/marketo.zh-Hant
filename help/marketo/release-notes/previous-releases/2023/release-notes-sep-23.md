@@ -3,9 +3,20 @@ description: 發行說明 — 2023年9月 — Marketo檔案 — 產品檔案
 title: 發行說明 - 2023 年 9 月
 feature: Release Information
 exl-id: 5a3a5b9f-73d8-4227-9e75-62852833619b
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/QKjIZ21uV2k4kVUcVs53W34pyrbmi5DjZjZTWxX-CrU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2:
+  - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '972'
+source-wordcount: 972
 ht-degree: 10%
 
 ---

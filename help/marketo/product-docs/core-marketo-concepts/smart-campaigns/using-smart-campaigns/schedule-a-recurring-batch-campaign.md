@@ -4,10 +4,15 @@ description: 瞭解如何排程週期性批次行銷活動。 將行銷活動設
 title: 安排定期批次行銷活動的時間
 exl-id: b7a931b0-5061-4c4f-8084-4938254a4d9c
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+TQID: https://experienceleague.adobe.com/Lx-hnmuzQtp7O7-h-Xzv8lTujIKLcKqFt9pC7SCCzys
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 10%
+source-wordcount: 145
+ht-degree: 11%
 
 ---
 

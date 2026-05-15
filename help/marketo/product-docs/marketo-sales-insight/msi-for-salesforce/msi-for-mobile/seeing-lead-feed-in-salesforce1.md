@@ -4,9 +4,14 @@ description: 瞭解如何在Salesforce Mobile (Salesforce1)中檢視潛在客戶
 title: 在 Salesforce1 中查看商機動態消息
 exl-id: c6811752-0e60-4b38-88bb-7b1061ee6f7b
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/jNgJLm4LvwGsZZuys5TeYm1-XuLLWTYFXetbD-NNrOY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: 83
 ht-degree: 7%
 
 ---
@@ -15,7 +20,7 @@ ht-degree: 7%
 
 潛在客戶摘要是潛在客戶所進行有趣事件的最新清單。
 
-1. 移至&#x200B;**中的** Marketo[!DNL Salesforce1]區域。
+1. 移至[!DNL Salesforce1]中的&#x200B;**Marketo**&#x200B;區域。
 
    ![](assets/image2015-4-20-15-3a14-3a15.png)
 
@@ -33,6 +38,6 @@ ht-degree: 7%
 
 >[!MORELIKETHIS]
 >
->* [中的 [!DNL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)個有趣時刻
+>*  [!DNL Salesforce1][&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)中的個有趣時刻
 >* [在 [!DNL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)中傳送Marketo電子郵件和行銷活動及監看清單動作
 >* [[!DNL Best Bets] in [!DNL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)

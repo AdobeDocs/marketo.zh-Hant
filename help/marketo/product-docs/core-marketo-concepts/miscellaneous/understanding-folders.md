@@ -3,9 +3,17 @@ unique-page-id: 4720779
 description: 瞭解用於組織Smart Campaigns和資產的方案內的資料夾。 建立、重新命名和刪除資料夾。
 title: 了解資料夾
 exl-id: 2ea914f6-ca64-4e87-806c-93beba075ab2
-source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
+TQID: https://experienceleague.adobe.com/wAE129LK3Pk-CB5SSQqqSV50ng085soYsm4JHfh0CuI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: 259
 ht-degree: 8%
 
 ---

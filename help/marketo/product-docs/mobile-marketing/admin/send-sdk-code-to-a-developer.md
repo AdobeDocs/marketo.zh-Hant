@@ -4,10 +4,16 @@ description: 瞭解如何將SDK程式碼傳送給您的開發人員。 使用行
 title: 傳送 SDK 程式碼至開發人員
 exl-id: 0c32b9af-8d86-40d7-b1f3-9aaa53b9b730
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+TQID: https://experienceleague.adobe.com/6jda4bPfCg8Be2N-RNSTVdqxdPRPlhnG9m97te4e-tE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 16%
+source-wordcount: 151
+ht-degree: 13%
 
 ---
 
@@ -15,8 +21,8 @@ ht-degree: 16%
 
 您必須先讓開發人員設定並初始化適用於Android和iOS平台的行動應用程式SDK，才能建立應用程式內訊息或推播通知。
 
-* 適用於Android的[指示](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)
-* 適用於iOS的[指示](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios)
+* [Android說明](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)
+* [iOS說明](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios)
 
 ## 傳送 SDK 程式碼至開發人員 {#send-sdk-code-to-a-developer-1}
 

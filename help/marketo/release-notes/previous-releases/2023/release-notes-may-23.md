@@ -2,10 +2,21 @@
 description: 發行說明 — 2023年5月 — Marketo檔案 — 產品檔案
 title: 版本注意事項 - 2023 年 5 月
 exl-id: beefd8ad-b0d2-4a6f-9f2e-74f03fc3abe7
-source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
+TQID: https://experienceleague.adobe.com/TNFskyWoqMkppTm3glx6nYBwGCEaPZtlPnHBBmqKKCY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+subfeature_v2:
+  - id: d1956f52-ecfd-4e01-8941-47af238acb0d
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '345'
-ht-degree: 19%
+source-wordcount: 370
+ht-degree: 18%
 
 ---
 
@@ -15,11 +26,11 @@ ht-degree: 19%
 
 >[!AVAILABILITY]
 >
->標有星號 (![星號](assets/yellow-star.png)) 的功能為付費附加元件。請聯絡您的 Marketo Engage 代表，了解更多相關資訊。
+>標有星號 (![星號](assets/yellow-star.png)) 的功能為付費附加元件。 請聯絡您的 Marketo Engage 代表，了解更多相關資訊。
 
 ## 標準發行週期功能 {#standard-release-cycle-features}
 
-下列功能屬於標準發行週期，並將於&#x200B;**2023年5月12日**&#x200B;開始發行，在接下來的幾週內分階段推出剩餘功能。 發行的功能和日期可能有所變更。請檢視每個功能下方的狀態。
+下列功能屬於標準發行週期，並將於&#x200B;**2023年5月12日**&#x200B;開始發行，在接下來的幾週內分階段推出剩餘功能。 發行的功能和日期可能有所變更。 請檢視每個功能下方的狀態。
 
 ### Marketo Engage Modern UX {#modern-ux}
 

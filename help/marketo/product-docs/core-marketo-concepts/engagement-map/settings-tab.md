@@ -2,9 +2,14 @@
 description: 瞭解Smart Campaign資格規則、執行和循環的設定索引標籤。 設定人們執行您的行銷活動流程的頻率。
 title: 設定索引標籤
 exl-id: 622ad162-a2b1-4a37-93d8-c1dd8c6e10c8
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/Qk7st47AobYHVid3SsHeNHSRVfWKiPqm11moqgomYjk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: 324
 ht-degree: 2%
 
 ---

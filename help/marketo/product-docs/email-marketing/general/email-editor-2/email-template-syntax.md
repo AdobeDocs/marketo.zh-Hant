@@ -4,9 +4,14 @@ description: 瞭解電子郵件編輯器2.0中的電子郵件範本語法。 使
 title: 電子郵件範本語法
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/-evGqvMqkaIP3CDAe5bKvGchxRhIoOkUPTpnlQlb-40
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '2464'
+source-wordcount: 2464
 ht-degree: 83%
 
 ---

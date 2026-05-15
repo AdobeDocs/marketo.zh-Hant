@@ -3,9 +3,12 @@ description: 瞭解如何在伺服器或防火牆上將銷售Insight動作加入
 title: 如何在我的伺服器上將銷售洞察動作加入允許清單？
 exl-id: 55ec5552-d71c-4f86-a8c8-44d6d9cb2c0b
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/9iY4BRyowe9c-BPQOVMIMDEGkLIp-FV3h-kyvVtRmi4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: 77
 ht-degree: 12%
 
 ---

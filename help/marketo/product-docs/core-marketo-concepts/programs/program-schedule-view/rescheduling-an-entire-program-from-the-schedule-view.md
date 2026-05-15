@@ -4,9 +4,14 @@ description: 瞭解如何從排程檢視重新排程整個方案。 一次將所
 title: 在排程視圖重新安排整個方案的時間
 exl-id: 3debeff2-67ce-4b59-be5b-ce8cc198f4a0
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+TQID: https://experienceleague.adobe.com/-cJk4kg20zIjGpqJNuV0znbCCnodpNBgvf5F4LREW5g
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: 126
 ht-degree: 15%
 
 ---

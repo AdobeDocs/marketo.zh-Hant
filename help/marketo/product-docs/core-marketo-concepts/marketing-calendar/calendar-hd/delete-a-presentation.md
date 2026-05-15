@@ -4,9 +4,12 @@ description: 瞭解如何刪除行銷行事曆簡報。 移除舊的簡報，為
 title: 刪除簡報
 exl-id: 027d6d68-c2b6-4424-bc69-77d047d62359
 feature: Marketing Calendar
-source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
+TQID: https://experienceleague.adobe.com/sDs7lwyTYgG4taPC6NxImkvlR1NQyUcXNoZ43Q2BHdQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '42'
+source-wordcount: 42
 ht-degree: 21%
 
 ---
