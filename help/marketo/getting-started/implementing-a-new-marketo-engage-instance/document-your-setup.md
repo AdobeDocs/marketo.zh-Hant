@@ -37,8 +37,8 @@ ht-degree: 4%
 <tbody>
   <tr>
     <td>清單匯入</td>
-    <td><li>收集資料來源清單，這些記錄將從這裡提取到<a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people" target="_blank">匯入Marketo Engage</a>。</li>
-    <li>如果您要從多個資料來源匯入，請考慮使用主清單或在人員記錄上建立<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo" target="_blank">自訂欄位</a>來表示資料來源。</li></td>
+    <td><li>收集資料來源清單，這些記錄將從這裡提取到<a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people" target="_blank">匯入Marketo Engage</a>。</li>
+    <li>如果您要從多個資料來源匯入，請考慮使用主清單或在人員記錄上建立<a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo" target="_blank">自訂欄位</a>來表示資料來源。</li></td>
   </tr>
   <tr>
     <td>資料庫整合</td>
@@ -74,11 +74,11 @@ ht-degree: 4%
   </tr>
   <tr>
     <td>組織</td>
-    <td><li>記錄協定的資料夾結構、方案、資產等的標準命名慣例，以及做出決定背後的原因。 <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/best-practices-to-organize-a-new-instance" target="_blank">在這裡進一步瞭解最佳實務。</a></li></td>
+    <td><li>記錄協定的資料夾結構、方案、資產等的標準命名慣例，以及做出決定背後的原因。 <a href="https://experienceleague.adobe.com/zh-hant/docs/marketo-learn/tutorials/fundamentals/best-practices-to-organize-a-new-instance" target="_blank">在這裡進一步瞭解最佳實務。</a></li></td>
   </tr>
   <tr>
     <td>Changelog</td>
-    <td><li>建立變更記錄檔，您可以在其中記錄執行個體中的變更專案以及修改的原因。 <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/auditing-an-inherited-instance/develop-an-instance-governance-guide" target="_blank">在這裡進一步瞭解最佳實務。</a></li></td>
+    <td><li>建立變更記錄檔，您可以在其中記錄執行個體中的變更專案以及修改的原因。 <a href="https://experienceleague.adobe.com/zh-hant/docs/marketo-learn/auditing-an-inherited-instance/develop-an-instance-governance-guide" target="_blank">在這裡進一步瞭解最佳實務。</a></li></td>
   </tr>
   <tr>
     <td>教戰手冊</td>

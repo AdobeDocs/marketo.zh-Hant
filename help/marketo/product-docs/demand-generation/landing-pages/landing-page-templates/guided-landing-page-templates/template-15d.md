@@ -18,7 +18,7 @@ ht-degree: 5%
 
 # 範本 15D {#template-15d}
 
-按一下滑鼠右鍵以[下載範本15D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15d.html)
+按一下滑鼠右鍵以[下載範本15D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15d.html?lang=zh-Hant)
 
 ![](assets/image2015-8-13-13-3a56-3a26.png)
 
@@ -33,4 +33,4 @@ ht-degree: 5%
 
 **在下方按一下滑鼠右鍵以下載此範本：**
 
-[範本15D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15d.html)
+[範本15D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15d.html?lang=zh-Hant)
