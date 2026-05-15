@@ -4,9 +4,9 @@ title: 調查銷售機會
 beta: true
 hide: true
 hidefromtoc: true
-source-git-commit: a04ec3931933c8e6cc0a0ffc26b1b559cd7cc9ce
+source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
 workflow-type: tm+mt
-source-wordcount: '500'
+source-wordcount: '536'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->您必須擁有潛在客戶記錄以及您正在調查的方案或里程碑的檢視存取權。
+>* 若要使用此功能，您必須先同意[核心Gen-AI條款與補充條款](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
+>
+>* 您必須擁有潛在客戶記錄以及您正在調查的方案或里程碑的檢視存取權。
 
 ## 使用方式 {#how-to-use}
 

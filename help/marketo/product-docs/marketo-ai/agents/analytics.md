@@ -3,9 +3,9 @@ description: 與Marketo AI討論您的Marketo Engage效能資料。 以淺顯的
 title: 分析
 beta: true
 hide: true
-source-git-commit: a04ec3931933c8e6cc0a0ffc26b1b559cd7cc9ce
+source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
 workflow-type: tm+mt
-source-wordcount: '451'
+source-wordcount: '487'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,9 @@ Analytics可讓您就Marketo效能資料進行交談。 以淺顯的語言提出
 
 >[!PREREQUISITES]
 >
->您必須能存取正在查詢的程式與報告。
+>* 若要使用此功能，您必須先同意[核心Gen-AI條款與補充條款](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
+>
+>* 您必須能存取正在查詢的程式與報告。
 
 ## 使用方式 {#how-to-use}
 
