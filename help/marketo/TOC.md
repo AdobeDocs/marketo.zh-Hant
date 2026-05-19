@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: 48aeac444cca4abfc4393eb53dc091b8e73a5b63
+source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
 workflow-type: tm+mt
-source-wordcount: '8840'
+source-wordcount: '9171'
 ht-degree: 96%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 96%
       + [傳統圖示字彙表](getting-started/things-to-know/classic-icon-glossary.md)
       + [說明中心](getting-started/things-to-know/help-center.md)
       + [訂閱系統狀態通知](getting-started/things-to-know/system-status-notifications.md)
-      + {hide-from-toc}[產品知識的AI助理](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
+      + 產品知識的{hide-from-toc}[AI助理](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
       + {hide-from-toc}[行銷國家社群](getting-started/things-to-know/community.md)
       + {hide-from-toc}[AWS移轉](getting-started/things-to-know/aws-migration.md)
    + 快速成果 {#quick-wins}
@@ -1731,6 +1731,67 @@ ht-degree: 96%
          + [效能洞察設定](product-docs/reporting/performance-insights/performance-insights-settings.md)
          + [效能洞察趨勢概觀](product-docs/reporting/performance-insights/performance-insights-trend-overview.md)
          + [設定效能洞察](product-docs/reporting/performance-insights/setting-up-performance-insights.md)
+      + 收入週期分析 {#revenue-cycle-analytics}
+         + 電子郵件分析 {#email-analysis}
+            + [建置會列出商機的電子郵件分析報告](product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-lists-leads.md)
+            + [建置會顯示方案資訊的電子郵件分析報告](product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md)
+            + [了解電子郵件分析區域](product-docs/reporting/revenue-cycle-analytics/email-analysis/understanding-the-email-analysis-area.md)
+         + 機會影響分析工具 {#opportunity-influence-analyzer}
+            + [了解機會影響分析工具](product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/understanding-the-opportunity-influence-analyzer.md)
+            + [設定機會影響分析工具](product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)
+            + [建立機會影響分析工具](product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
+            + [匯出機會影響分析工具資料](product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/export-opportunity-influence-analyzer-data.md)
+            + [利用機會影響分析工具講述行銷故事](product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
+         + 方案分析 {#program-analytics}
+            + [進階方案報告概觀](product-docs/reporting/revenue-cycle-analytics/program-analytics/advanced-program-reporting-overview.md)
+            + [建置會列出商機的方案會籍分析報告](product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md)
+            + [原地複製方案分析工具](product-docs/reporting/revenue-cycle-analytics/program-analytics/clone-a-program-analyzer.md)
+            + [使用方案分析工具比較管道效益](product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)
+            + [使用方案分析工具比較方案效益](product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)
+            + [建立方案分析工具](product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
+            + [使用方案分析工具探索方案和管道詳細資料](product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
+            + [讓營收總管及分析工具可以包含沒有期間成本的方案](product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)
+            + [在方案層級覆寫分析行為](product-docs/reporting/revenue-cycle-analytics/program-analytics/override-analytics-behavior-at-the-program-level.md)
+            + [了解方案成本分析區域](product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-cost-analysis-area.md)
+            + [了解方案會籍分析區域](product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-membership-analysis-area.md)
+            + [了解方案機會分析區域](product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md)
+            + [了解方案收入階段分析區域](product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-revenue-stage-analysis-area.md)
+         + 收入週期模型 {#revenue-cycle-models}
+            + [核准/取消核准收入模型](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)
+            + [編輯已核准的模型](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model/editing-your-approved-model.md)
+            + [核准階段並將商機指派至收入模型](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md)
+            + [變更階段的名稱](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/changing-the-name-of-a-stage.md)
+            + [原地複製 Marketo 範例收入模型](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/cloning-a-marketo-example-revenue-model.md)
+            + [建立新的收入模型](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
+            + [建立成功路徑分析工具](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-success-path-analyzer.md)
+            + [啟用自訂欄位群組供模型效能分析使用 (商機)](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/enable-custom-field-groups-for-model-performance-analysis-leads.md)
+            + [尋找收入週期模型中的所有商機](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md)
+            + [在收入建模工具中合併兩個階段](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/merging-two-stages-in-the-revenue-modeler.md)
+            + [報告您的收入模型](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
+            + [使用管理員帳戶在收入模型中設定 Google AdWords 轉換](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md)
+            + [在收入模型中設定 Google AdWords 轉換](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md)
+            + [在收入建模工具中開始按照帳戶追蹤](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)
+            + [了解收入模型階段](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-phases.md)
+            + [了解收入模型成功路徑](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md)
+            + [了解收入模型](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md)
+            + [使用收入模型門檻階段](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
+            + [使用收入模型庫存階段](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
+            + [使用收入模型 SLA 階段](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+            + [使用收入模型轉變](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-transitions.md)
+            + [使用成功路徑分析工具](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-the-success-path-analyzer.md)
+         + 收入工具 {#revenue-tools}
+            + [定義期間成本](product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md)
+            + [針對收入週期分析啟用自訂欄位同步](product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md)
+            + [人員收入階段報告](product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md)
+            + 歸因 {#attribution}
+               + [了解歸因](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)
+               + [歸因範例 1](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
+               + [歸因範例 2](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
+               + [歸因範例 3](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
+               + [歸因範例 4](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)
+            + 欄位組織工具 {#field-organizers}
+               + [使用欄位組織工具](product-docs/reporting/revenue-cycle-analytics/revenue-tools/using-field-organizers.md)
+               + [使用欄位組織工具建立自訂欄位群組](product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)
       + 進階 BI 分析 {#advanced-bi-analytics}
          + [進階 BI 分析概觀](product-docs/reporting/advanced-bi-analytics/overview.md)
          + [量度和維度](product-docs/reporting/advanced-bi-analytics/metrics-and-dimensions.md)
