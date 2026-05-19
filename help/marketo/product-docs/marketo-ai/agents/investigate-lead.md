@@ -1,12 +1,12 @@
 ---
 description: 「調查」銷售機會代理會回答行銷人員最常提出的問題。 它比手動挖掘活動記錄、智慧行銷活動記錄和評分記錄更快、更可靠。
 title: 調查銷售機會
-beta: true
+badge: Beta
 hide: true
 hidefromtoc: true
-source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
+source-git-commit: 69749951d0397a837bee77d16baddc3342f68ec2
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '579'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,10 @@ ht-degree: 0%
 >* 若要使用此功能，您必須先同意[核心Gen-AI條款與補充條款](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
 >
 >* 您必須擁有潛在客戶記錄以及您正在調查的方案或里程碑的檢視存取權。
+
+>[!AVAILABILITY]
+>
+>此功能處於封閉測試版，目前正處於未來幾個月的分階段推出中。 當您在「我的Marketo」畫面上看到&#x200B;_使用AI建置_&#x200B;圖磚，就會知道您的訂閱已啟用此功能。
 
 ## 使用方式 {#how-to-use}
 

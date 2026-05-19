@@ -1,11 +1,11 @@
 ---
 description: 使用Marketo AI從簡單的語言簡報建置Marketo計畫。 讓智慧型行銷活動、排程和資產預留位置準備好進行稽核和調整。
 title: 建立計畫
-beta: true
+badge: Beta
 hide: true
-source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
+source-git-commit: 69749951d0397a837bee77d16baddc3342f68ec2
 workflow-type: tm+mt
-source-wordcount: '560'
+source-wordcount: '603'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,10 @@ ht-degree: 0%
 >* 若要使用此功能，您必須先同意[核心Gen-AI條款與補充條款](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
 >
 >* 您必須有權在Marketo帳戶中建立程式。
+
+>[!AVAILABILITY]
+>
+>此功能處於封閉測試版，目前正處於未來幾個月的分階段推出中。 當您在「我的Marketo」畫面上看到&#x200B;_使用AI建置_&#x200B;圖磚，就會知道您的訂閱已啟用此功能。
 
 ## 使用方式 {#how-to-use}
 

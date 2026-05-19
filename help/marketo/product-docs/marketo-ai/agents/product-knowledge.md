@@ -1,11 +1,11 @@
 ---
 description: 使用產品知識向Marketo AI詢問Marketo Engage功能、最佳實務和操作說明。 答案以Adobe的官方檔案為依據。
 title: 產品知識
-beta: true
+badge: Beta
 hide: true
-source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
+source-git-commit: 69749951d0397a837bee77d16baddc3342f68ec2
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '492'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >若要使用此功能，您必須先同意[核心Gen-AI條款與補充條款](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
+
+>[!AVAILABILITY]
+>
+>此功能處於封閉測試版，目前正處於未來幾個月的分階段推出中。 當您在「我的Marketo」畫面上看到&#x200B;_使用AI建置_&#x200B;圖磚，就會知道您的訂閱已啟用此功能。
 
 ## 使用方式 {#how-to-use}
 
