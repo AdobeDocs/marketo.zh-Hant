@@ -40,7 +40,7 @@ ht-degree: 0%
 
    ![](assets/import-leads-4.png)
 
-1. 輸入[匯入清單]並按一下[傳送]。**&#x200B;**
+1. 輸入[匯入清單]並按一下[傳送]。****
 
    ![](assets/import-leads-5.png)
 
