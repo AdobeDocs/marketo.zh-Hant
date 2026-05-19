@@ -1,11 +1,11 @@
 ---
 description: 原地復製程式會將現有的Marketo程式複製到具有新名稱的新資料夾中，保留其結構，同時讓您自訂新的促銷活動。
 title: 復製程式
-beta: true
+badge: Beta
 hide: true
-source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
+source-git-commit: 69749951d0397a837bee77d16baddc3342f68ec2
 workflow-type: tm+mt
-source-wordcount: '458'
+source-wordcount: '501'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,10 @@ ht-degree: 0%
 >* 您必須具有在目的地資料夾中建立程式的許可權。
 >
 >* 您要複製的來源程式必須已存在於您的Marketo環境中。
+
+>[!AVAILABILITY]
+>
+>此功能處於封閉測試版，目前正處於未來幾個月的分階段推出中。 當您在「我的Marketo」畫面上看到&#x200B;_使用AI建置_&#x200B;圖磚，就會知道您的訂閱已啟用此功能。
 
 ## 使用方式 {#how-to-use}
 

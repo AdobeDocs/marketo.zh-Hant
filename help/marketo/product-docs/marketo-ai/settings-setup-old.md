@@ -1,12 +1,12 @@
 ---
 description: 瞭解如何啟用Marketo AI許可權、設定組織規則及管理整合和通知等設定。
 title: 設定與設定
-hide: true
+badge: Beta
 exl-id: d6f37214-65b9-48c1-bf9f-d64b4eda87b9
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+source-git-commit: 814e1a9c3e97404e9ed227fcbdf201fde0145a7a
 workflow-type: tm+mt
-source-wordcount: '382'
-ht-degree: 0%
+source-wordcount: '371'
+ht-degree: 1%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->在Marketo AI的Alpha階段中，預設為下列角色啟用&#x200B;_存取權： 「管理員」、「Adobe產品管理員」、「行銷使用者」、「標準使用者」。_&#x200B;因此，您不必針對想要存取的角色將其開啟，而必須針對您不想要的角色將其關閉。
+>在Marketo AI的Beta版階段，預設為下列角色啟用&#x200B;_存取權：「管理員」和「Adobe產品管理員」。_&#x200B;您必須為要存取的任何其他角色啟用它。
 
 ### 全部存取 {#access-for-all}
 
