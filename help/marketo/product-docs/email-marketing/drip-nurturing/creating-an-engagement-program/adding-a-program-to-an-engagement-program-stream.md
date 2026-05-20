@@ -17,9 +17,9 @@ subfeature_v2:
   - id: ad89fb33-8541-4339-afe7-bb13d1633714
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 469
+source-wordcount: 471
 ht-degree: 4%
 
 ---
@@ -44,13 +44,13 @@ ht-degree: 4%
 * 如果您是計畫的成員，您將不會收到電子郵件
 * 如果您不再是會員，但先前已透過該程式收到電子郵件，您將不會收到電子郵件
 
-當您在串流中使用程式時，您以前是否收到過該特定電子郵件並不重要。 只要該特定程式&#x200B;*中的電子郵件未在*&#x200B;之前寄出，您就可以再次收到該電子郵件。
+當您在串流中使用程式時，如果您之前已收到該特定電子郵件並不重要。 只要該特定程式&#x200B;*中的電子郵件未在*&#x200B;之前寄出，您就可以再次收到該電子郵件。
 
 在參與計畫中，電子郵件和計畫可能會很棘手。 您可能會想要使用其中一個。
 
 >[!TIP]
 >
->請務必在智慧清單中使用&#x200B;**[!UICONTROL Member of Engagement Program]**&#x200B;篩選器。
+>在您的智慧清單中使用&#x200B;**[!UICONTROL Member of Engagement Program]**&#x200B;篩選器。
 
 ## 不符合智慧清單條件的人會發生什麼事？ {#what-happens-to-people-who-dont-meet-the-smart-list-criteria}
 

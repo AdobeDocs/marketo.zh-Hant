@@ -9,16 +9,16 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 118
-ht-degree: 6%
+source-wordcount: 104
+ht-degree: 7%
 
 ---
 
 # 決定資料流內容優先順序 {#prioritize-stream-content}
 
-將內容新增到串流後，您可以變更優先順序。 內容一律由上而下在每次轉換中傳送，不會將任何內容傳送給同一個人兩次。
+將內容新增到串流後，您可能想要變更優先順序。 內容一律由上而下在每次轉換中傳送，不會將任何內容傳送給同一個人兩次。
 
 1. 前往 **[!UICONTROL Marketing Activities]**。
 
@@ -28,7 +28,7 @@ ht-degree: 6%
 
    ![](assets/cloneasteam-1.jpg)
 
-1. 現在，只要將內容拖放至您想要的順序即可。
+1. 將內容拖放至您想要的順序。
 
    ![](assets/image2014-9-15-17-3a5-3a45.png)
 
@@ -36,4 +36,3 @@ ht-degree: 6%
    >
    >在轉換時，優先順序一律會從上到下讀取。
 
-   就是這麼簡單！ 現在您知道如何排定串流內容的優先順序。

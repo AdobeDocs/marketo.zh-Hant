@@ -9,16 +9,16 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 175
+source-wordcount: 144
 ht-degree: 8%
 
 ---
 
 # 新增內容至資料流 {#add-content-to-a-stream}
 
-建立參與計畫後，您需要將內容新增到資料流。 您可以將電子郵件或程式新增到資料流。
+建立參與計畫後，您必須將內容新增到資料流。 您可以將電子郵件或程式新增到資料流。
 
 1. 前往 **[!UICONTROL Marketing Activities]**。
 
@@ -53,8 +53,6 @@ ht-degree: 8%
    >[!NOTE]
    >
    >智慧型行銷活動必須包含&#x200B;**[!UICONTROL Member of Engagement Program]**&#x200B;篩選器，才能正常運作。
-
-做得好！ 您現在知道如何將內容新增到您的方案資料流。 根據您的培養需要，新增任意數量的專案。 如需更多詳細資訊，請參閱下文相關文章。
 
 >[!MORELIKETHIS]
 >

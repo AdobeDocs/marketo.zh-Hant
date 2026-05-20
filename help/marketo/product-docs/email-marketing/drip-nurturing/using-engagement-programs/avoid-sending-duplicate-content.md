@@ -9,16 +9,14 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 217
+source-wordcount: 209
 ht-degree: 7%
 
 ---
 
 # 避免傳送重複內容 {#avoid-sending-duplicate-content}
-
-您曾收到過相同的電子郵件兩次嗎？ 很煩人，不是嗎？
 
 以下是可注意的七個可能案例和結果，以防止透過參與計畫將相同的訊息傳送給某人兩次。
 

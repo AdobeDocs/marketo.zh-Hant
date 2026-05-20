@@ -9,16 +9,16 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 236
+source-wordcount: 228
 ht-degree: 5%
 
 ---
 
 # 在參與資料流之間進行人員轉變 {#transition-people-between-engagement-streams}
 
-參與計畫可以有一個以上的資料流。 如果您[新增資料流](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)，您將想要定義讓人員從一個資料流移至另一個資料流的方法。 這些稱為&#x200B;**轉換規則。**
+參與計畫可以有一個以上的資料流。 如果您[新增資料流](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)，請定義人們在不同資料流之間移動的方式。 這些稱為&#x200B;**轉換規則。**
 
 1. 前往 **[!UICONTROL Marketing Activities]**。
 
@@ -36,23 +36,23 @@ ht-degree: 5%
    >
    >轉換規則提取到資料流中；請一律在您要提取的資料流上定義規則。
 
-   轉換規則視窗開啟後，在您選擇的觸發程式中尋找並拖曳。 在此案例中，我們想在新增至商機時將人員移至[!UICONTROL Mid Stage]。
+   轉換規則視窗開啟後，在您選擇的觸發程式中尋找並拖曳。 在此範例中，新增至機會時，會將人員移至[!UICONTROL Mid Stage]。
 
    ![](assets/image2014-9-15-18-3a10-3a46.png)
 
-1. 讓我們將運運算元設為&#x200B;**[!UICONTROL is any]**，讓人員移動以取得任何新增的機會。
+1. 將運運算元設為&#x200B;**[!UICONTROL is any]**，讓人員移動以取得任何新增的機會。
 
    ![](assets/image2014-9-15-18-3a11-3a14.png)
 
    >[!TIP]
    >
-   >您可以將多個觸發器和篩選器新增至轉變規則，但轉變規則會使用所有篩選器（唯一選項是使用「全部」篩選器）。 如果您需要在轉變規則中使用OR，建議您改為設定外部智慧行銷活動。
+   >您可以將多個觸發器和篩選器新增至轉變規則，但轉變規則會使用所有篩選器（唯一選項是使用「全部」篩選器）。 如果您需要在轉變規則中使用OR，建議改為設定外部智慧行銷活動。
 
 1. 按一下「**[!UICONTROL Close]**」。
 
    ![](assets/image2014-9-15-18-3a11-3a23.png)
 
-   太棒了！ 現在，參與方案中新增至商機的任何人都將移至[!UICONTROL Mid Stage]資料流。
+   現在，參與方案中新增至商機的任何人都將移至[!UICONTROL Mid Stage]資料流。
 
    ![](assets/image2014-9-15-18-3a11-3a29.png)
 

@@ -7,9 +7,9 @@ feature: Deliverability
 TQID: https://experienceleague.adobe.com/VKfpLEXYck1SKLiwg-d8em3BpYmaxHIuiyZZYYRgZ-0
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 328
+source-wordcount: 321
 ht-degree: 5%
 
 ---
@@ -50,11 +50,11 @@ ht-degree: 5%
 
    >[!TIP]
    >
-   >請務必將您的清單命名為容易找到的名稱。
+   >以容易找到的方式命名您的清單。
 
    >[!CAUTION]
    >
-   >您每月獲得的這些收件匣放置行銷活動數量有限。 若要檢視您獲得的數量，請檢視[!DNL Everest]中[!UICONTROL Account Settings] > [!UICONTROL Subscription]下的[!UICONTROL Subscription]區段。 若要取得更多資訊，請聯絡您的Marketo銷售代表。
+   >您每月獲得的這些收件匣放置行銷活動數量有限。 若要檢視您獲得的數量，請檢視[!DNL Everest]中[!UICONTROL Account Settings] > [!UICONTROL Subscription]下的[!UICONTROL Subscription]區段。 若要取得詳細資訊，請聯絡您的Marketo銷售代表。
 
 ## 取得新的種子清單 {#acquiring-new-seedlists}
 

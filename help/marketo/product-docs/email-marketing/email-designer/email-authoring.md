@@ -24,20 +24,16 @@ level_v2:
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 1800
-ht-degree: 4%
+source-wordcount: 1727
+ht-degree: 2%
 
 ---
 
 # 電子郵件製作 {#email-authoring}
 
-瞭解如何在新的Marketo Engage電子郵件Designer中建立、個人化和預覽電子郵件。
-
->[!PREREQUISITES]
->
->若要存取新的電子郵件設計工具，您的Marketo Engage訂閱必須移轉至[Adobe Identity Management系統(IMS)](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}。 如果您尚未收到邀請，而您想要請求加速處理，請和 Adobe 客戶團隊 (您的客戶經理) 或 [Marketo 支援](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}聯絡。
+瞭解如何在電子郵件Designer中建立、個人化和預覽電子郵件。
 
 ## 建立電子郵件 {#create-an-email}
 
@@ -73,7 +69,7 @@ ht-degree: 4%
 
    ![](assets/create-an-email-5.png)
 
-1. 若要建立新電子郵件，您有兩個選項。 以滑鼠右鍵按一下您的電子郵件方案名稱，然後選取&#x200B;**新增本機資產**，或按一下儀表板上電子郵件方塊中的&#x200B;**+新增電子郵件**&#x200B;按鈕。 在此範例中，我們會執行前者。
+1. 若要建立新電子郵件，您有兩個選項。 以滑鼠右鍵按一下您的電子郵件方案名稱，然後選取&#x200B;**新增本機資產**，或按一下儀表板上電子郵件方塊中的&#x200B;**+新增電子郵件**&#x200B;按鈕。 在此範例中，會使用第一個選項。
 
    ![](assets/create-an-email-6.png)
 

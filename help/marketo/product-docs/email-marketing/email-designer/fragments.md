@@ -21,9 +21,9 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 1910
+source-wordcount: 1905
 ht-degree: 1%
 
 ---
@@ -231,7 +231,7 @@ ht-degree: 1%
 
 1. 若要更新內容，請按一下右上方的&#x200B;**[!UICONTROL Create draft version]**。
 
-   在對話方塊中按一下&#x200B;**[!UICONTROL OK]**，在視覺化設計工具中開啟草稿版本。 您可以視需要變更`image source`公斤 — 此處連結。
+   在對話方塊中按一下&#x200B;**[!UICONTROL OK]**，在視覺化設計工具中開啟草稿版本。 您可以變更`image source`。
 
    ![建立草稿版本對話方塊](assets/fragments-create-draft-version.png){width="300"}
 

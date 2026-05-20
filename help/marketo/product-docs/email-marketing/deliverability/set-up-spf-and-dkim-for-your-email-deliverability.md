@@ -7,10 +7,10 @@ feature: Deliverability
 TQID: https://experienceleague.adobe.com/ZZvIOz7gmqXEht3xw1Pj1tabkQqjvGokF0BgOjdNzjs
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 434
-ht-degree: 89%
+source-wordcount: 432
+ht-degree: 71%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 89%
 
 >[!CAUTION]
 >
->您需要請網路管理員在 DNS 記錄中進行此變更。
+>您的網路系統管理員必須在DNS記錄中進行此變更。
 
 ## 設定 SPF {#set-up-spf}
 
@@ -44,16 +44,16 @@ DKIM 是一種驗證通訊協定，電子郵件接收者會將其用於確定電
 
 **DKIM 如何運作？**
 
-您在 DNS 記錄中設定公開金鑰並在「管理員」區段中啟用傳送網域後 (A)，我們即會為您的傳出訊息開啟自訂 DKIM 簽署，其中包括我們為您傳送的每封電子郵件的加密數位簽名 (B)。 接收者即可透過在傳送網域的 DNS 中查詢「公開金鑰」將數位簽名解密 (C)。 如果電子郵件中的金鑰與您 DNS 記錄中的金鑰相對應，則接收郵件伺服器即更有可能接受 Marketo 代表您傳送的電子郵件。
+當您在DNS記錄中設定公開金鑰並在Admin區段中啟用傳送網域後(A)，Marketo將會針對您的傳出郵件開啟自訂DKIM簽署，其中包括加密的數位簽名以及代表您傳送的每封電子郵件(B)。 接收者即可透過在傳送網域的 DNS 中查詢「公開金鑰」將數位簽名解密 (C)。 如果電子郵件中的金鑰與您 DNS 記錄中的金鑰相對應，則接收郵件伺服器即更有可能接受 Marketo 代表您傳送的電子郵件。
 
 ![](assets/image2015-1-12-13-3a56-3a55.png)
 
 **如何設定 DKIM？**
 
-請參閱[設定自訂 DKIM 簽名](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}。
+請參閱[設定自訂DKIM簽章](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}。
 
 >[!MORELIKETHIS]
 >
->* 了解更多 SPF 及其運作方式的資訊`: http://www.open-spf.org/Introduction/`
+>* 深入瞭解SPF及其運作方式： `http://www.open-spf.org/Introduction/`
 >* 我的 SPF 設定是否正確？：`https://www.kitterman.com/spf/validate.html`
 >* 我是否使用正確的語法？：`http://www.open-spf.org/SPF_Record_Syntax/`

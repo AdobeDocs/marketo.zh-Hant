@@ -9,16 +9,16 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 304
+source-wordcount: 301
 ht-degree: 1%
 
 ---
 
 # 持久性取消訂閱 {#durable-unsubscribe}
 
-Marketo已增強取消訂閱功能的行為，讓其「經久耐用」。 我們已新增主要電子郵件狀態，這與人員詳細資料記錄上顯示的取消訂閱旗標不同。
+Marketo已增強取消訂閱功能的行為，讓其「經久耐用」。 已新增主要電子郵件狀態，與人員詳細資料記錄上顯示的取消訂閱旗標不同。
 
 如果取消訂閱旗標從false設定為true，主電子郵件狀態會更新，而變更會傳播給具有相同電子郵件地址的其他人。 如果移除人員並重新建立，或如果使用相同的電子郵件地址建立新記錄，則取消訂閱旗標將&#x200B;**不會**&#x200B;被覆寫。
 
@@ -38,13 +38,13 @@ Marketo已增強取消訂閱功能的行為，讓其「經久耐用」。 我們
 
 ![清除個人記錄中的取消訂閱方塊](assets/durable-unsubscribe-2.png)
 
-對一或多個人員執行&#x200B;_變更資料值_&#x200B;流程步驟，如下所示。
+對一或多個人員執行&#x200B;**[!UICONTROL Change Data Value]**&#x200B;流程步驟，如下所示。
 
 ![變更資料值流程步驟](assets/durable-unsubscribe-3.png)
 
 ## 建立新人員 {#creating-a-new-person}
 
-建立新人員時，Marketo會根據主要電子郵件狀態表檢查該人員。 如果人員之前已取消訂閱，我們將更新要取消訂閱的記錄。
+建立新人員時，Marketo會根據主要電子郵件狀態表檢查該人員。 如果人員之前已取消訂閱，記錄將更新為取消訂閱。
 
 ## 變更電子郵件地址 {#changing-an-email-address}
 
@@ -52,7 +52,7 @@ Marketo已增強取消訂閱功能的行為，讓其「經久耐用」。 我們
 
 ## 重新訂閱 {#re-subscribing}
 
-就像取消訂閱會導致所有擁有相同電子郵件地址的人被取消訂閱一樣，重新訂閱實際上會以相同的電子郵件地址重新訂閱每個人。
+就像取消訂閱會造成所有擁有相同電子郵件地址的人被取消訂閱一樣，重新訂閱也會以相同的電子郵件地址重新訂閱每個人。
 
 >[!MORELIKETHIS]
 >

@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: '1184'
-ht-degree: 13%
+source-wordcount: '1181'
+ht-degree: 11%
 
 ---
 
@@ -135,7 +135,7 @@ ht-degree: 13%
 
 >[!NOTE]
 >
->為了簡單地使外部內容與電子郵件設計工具相容，Adobe 建議從頭開始建立訊息，然後將現有電子郵件的內容複製到元件中。
+>為了讓外部內容符合電子郵件Designer，Adobe建議從草稿建立訊息，並將現有電子郵件的內容複製到元件中。
 
 ## 影像 {#image}
 
@@ -158,7 +158,7 @@ ht-degree: 13%
 1. 按一下您新增的元件，然後設定影像屬性：
 
    * **[!UICONTROL Image title]**&#x200B;可讓您定義影像的標題。
-   * **[!UICONTROL Alt text]**&#x200B;可讓您定義連結至影像的標題。 這會對應至alt HTML屬性。
+   * **[!UICONTROL Alt text]**&#x200B;可讓您定義連結至影像的標題。 這對應於替代 HTML 屬性。
 
    熒幕擷圖
 
@@ -198,7 +198,7 @@ ht-degree: 13%
 
    熒幕擷圖
 
-1. 從下拉式清單中選取您的&#x200B;**[!UICONTROL Placements]**。  然後，選取您要新增至內容的&#x200B;**[!UICONTROL Offer decision]**，然後按一下&#x200B;**[!UICONTROL Add]**。
+1. 從下拉式清單中選取您的&#x200B;**[!UICONTROL Placements]**。 然後，選取您要新增至內容的&#x200B;**[!UICONTROL Offer decision]**，然後按一下&#x200B;**[!UICONTROL Add]**。
 
    熒幕擷圖
 

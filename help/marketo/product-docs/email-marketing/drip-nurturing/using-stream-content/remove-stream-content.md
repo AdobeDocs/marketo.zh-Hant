@@ -9,7 +9,7 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
 source-wordcount: 121
 ht-degree: 6%
@@ -18,7 +18,7 @@ ht-degree: 6%
 
 # 移除資料流內容 {#remove-stream-content}
 
-您可以移除或封存內容片段。 與移除串流內容不同，[封存](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)會保留與內容相關的所有歷程記錄。 如果您不介意遺失部分內容的歷史統計資料，但想加以移除，以下說明移除步驟。
+您可以移除或封存內容片段。 與移除串流內容不同，[封存](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)會保留與內容相關的所有歷程記錄。 如果您不介意遺失部分內容的歷史統計資料，但想加以移除，以下提供移除的方式。
 
 1. 前往 **[!UICONTROL Marketing Activities]**。
 

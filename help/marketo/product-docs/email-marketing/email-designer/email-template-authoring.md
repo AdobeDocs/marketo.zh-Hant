@@ -20,10 +20,10 @@ level_v2:
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 1872
-ht-degree: 4%
+source-wordcount: 1787
+ht-degree: 1%
 
 ---
 
@@ -31,13 +31,9 @@ ht-degree: 4%
 
 為了加速並改善設計流程，您可以建立獨立的電子郵件範本，以輕鬆重複使用自訂內容。
 
->[!PREREQUISITES]
->
->若要存取新的電子郵件設計工具，您的Marketo Engage訂閱必須移轉至[Adobe Identity Management系統(IMS)](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。 如果您尚未收到邀請，而您想要請求加速處理，請和 Adobe 客戶團隊 (您的客戶經理) 或 [Marketo 支援](https://nation.marketo.com/t5/support/ct-p/Support)聯絡。
-
 >[!NOTE]
 >
->新電子郵件設計工具中的電子郵件範本只能用來建立新電子郵件設計工具中的電子郵件。 舊版電子郵件編輯器中無法參照這些引數。
+>電子郵件Designer中的電子郵件範本只能在電子郵件Designer中用於建立電子郵件。 在傳統電子郵件編輯器中無法參照這些引數。
 
 ## 建立電子郵件範本 {#create-an-email-template}
 
@@ -185,7 +181,7 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->您目前只能在新設計工具中新增影像，不能新增其他檔案型別。
+>您目前只能在電子郵件Designer中新增影像，不能新增其他檔案型別。
 
 1. 若要存取影像，請按一下資產選擇器圖示。
 
@@ -236,7 +232,7 @@ ht-degree: 4%
 
 ### 將內容個人化 {#personalize-content}
 
-Token在新編輯器中的運作方式與舊版相同，但圖示看起來不同。 以下範例概述如何使用遞補文字新增名字代號。
+代號在電子郵件Designer中的運作方式，與在傳統編輯器中相同，但圖示看起來不同。 以下範例概述如何使用遞補文字新增名字代號。
 
 1. 選取文字元件。 將游標放在您要顯示權杖的位置，然後按一下&#x200B;**新增個人化**&#x200B;圖示。
 
@@ -252,7 +248,7 @@ Token在新編輯器中的運作方式與舊版相同，但圖示看起來不同
 
    >[!NOTE]
    >
-   >「遞補文字」是預設值的新編輯器辭彙。 範例：``{{lead.First Name:default=Friend}}``。 如果您選擇的欄位中沒有該人員的值，建議您這麼做。
+   >「遞補文字」是電子郵件Designer的預設值術語。 範例：``{{lead.First Name:default=Friend}}``。 如果您選擇的欄位中沒有該人員的值，建議您這麼做。
 
 1. 設定您的遞補文字，然後按一下[新增]。**&#x200B;**
 
@@ -384,4 +380,4 @@ Token在新編輯器中的運作方式與舊版相同，但圖示看起來不同
 
 >[!MORELIKETHIS]
 >
->[電子郵件製作](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}：瞭解如何使用新設計工具建立、設計和參考電子郵件。
+>[電子郵件製作](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}

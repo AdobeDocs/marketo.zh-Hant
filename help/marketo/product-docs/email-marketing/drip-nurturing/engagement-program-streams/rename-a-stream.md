@@ -9,16 +9,16 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 59
-ht-degree: 10%
+source-wordcount: 45
+ht-degree: 13%
 
 ---
 
 # 重新命名資料流 {#rename-a-stream}
 
-如果您想要維持井然有序，可以重新命名您的串流。 以下是其操作方式。
+如果您想要維持井然有序，可以重新命名您的串流。
 
 1. 尋找並選取您的參與方案，然後按一下&#x200B;**[!UICONTROL Streams]**。
 
@@ -31,5 +31,3 @@ ht-degree: 10%
 1. 輸入新資料流&#x200B;**[!UICONTROL Name]**&#x200B;並按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/image2014-9-15-17-3a4-3a14.png)
-
-   您好！ 您現在知道如何重新命名串流。

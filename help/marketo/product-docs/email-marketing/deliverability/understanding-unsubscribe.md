@@ -9,7 +9,7 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
 source-wordcount: 238
 ht-degree: 4%
@@ -18,7 +18,7 @@ ht-degree: 4%
 
 # 了解取消訂閱 {#understanding-unsubscribe}
 
-Marketo中實際上有數種不同型別的內建取消訂閱。 它們都由person物件上的欄位表示，就像「名字」一樣。
+Marketo中有數種不同型別的內建取消訂閱。 它們都由person物件上的欄位表示，就像「名字」一樣。
 
 所有這些欄位都內建在您的Marketo訂閱中。 全都是布林值（核取方塊）型別。 它們可以在Forms或[變更資料值](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)流程步驟中使用。
 
@@ -36,10 +36,10 @@ Marketo中實際上有數種不同型別的內建取消訂閱。 它們都由per
 
 >[!NOTE]
 >
->即使24小時期間結束後，系統仍會檢查「已暫停的電子郵件」，因此您可以指出過去曾如此標示的人。 若要檢視該人員是否可郵寄，只需在電子郵件暫停時間24小時後計算即可。
+>即使24小時期間結束後，系統仍會檢查「已暫停的電子郵件」，因此您可以指出過去曾如此標示的人。 若要檢視該人員是否可郵寄，請在電子郵件暫停時間後的24小時內計算。
 
 ## 已加入封鎖清單 {#blocklisted}
 
-[將此用於競爭者之類的人](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md)。 任何您想要接收&#x200B;**no**&#x200B;電子郵件的人 — 營運、行銷等他們什麼也得不到！
+[將此用於競爭者之類的人](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md)。 任何您想要接收&#x200B;**no**&#x200B;電子郵件的人 — 營運、行銷等他們不會收到電子郵件。
 
 ![](assets/image2015-5-18-12-3a6-3a40.png)

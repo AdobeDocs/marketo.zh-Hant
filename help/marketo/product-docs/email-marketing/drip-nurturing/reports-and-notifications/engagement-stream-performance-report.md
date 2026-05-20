@@ -12,10 +12,10 @@ feature_v2:
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 157
-ht-degree: 7%
+source-wordcount: 150
+ht-degree: 6%
 
 ---
 
@@ -44,7 +44,7 @@ ht-degree: 7%
 
    ![](assets/image2014-9-15-18-3a24-3a23.png)
 
-   好啦！ 現在，讓我們檢查設定。
+   現在進行設定。
 
 ## 編輯設定 {#edit-settings}
 
@@ -62,7 +62,7 @@ ht-degree: 7%
 
 ## 執行報告 {#run-report}
 
-1. 若要執行報表，只要按一下&#x200B;**[!UICONTROL Report]**&#x200B;索引標籤即可。
+1. 若要執行報表，請按一下&#x200B;**[!UICONTROL Report]**&#x200B;標籤。
 
    ![](assets/image2014-9-15-18-3a25-3a15.png)
 
@@ -70,4 +70,4 @@ ht-degree: 7%
    >
    >參與分數雖然未以圖示說明，但是此報表中的一欄。 請參閱[瞭解參與分數](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)以取得相關詳細資訊。
 
-   做得好！ 請注意，報告已依參與方案分組。
+   請注意，報告已依參與方案分組。
