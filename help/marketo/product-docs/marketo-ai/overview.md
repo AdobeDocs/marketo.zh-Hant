@@ -1,26 +1,26 @@
 ---
-description: 探索旨在自動化行銷工作（例如方案QA、潛在客戶匯入、資料標準化等）的Marketo Engage AI代理程式套件。
-title: Marketo Engage AI總覽
+description: 探索旨在自動化行銷工作（例如方案QA、潛在客戶匯入、資料標準化等）的Marketo AI代理程式套件。
+title: Marketo AI總覽
 badge: Beta
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: 814e1a9c3e97404e9ed227fcbdf201fde0145a7a
+source-git-commit: ff71b9e2a743056f8efd64d3debdf498ee3e43df
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '266'
 ht-degree: 2%
 
 ---
 
-# Marketo Engage AI總覽 {#overview}
+# Marketo AI總覽 {#overview}
 
-Marketo Engage AI提供的代理程式，可將耗時但重要的行銷功能自動化。
-
->[!PREREQUISITES]
->
->若要使用此功能，您必須先同意[核心Gen-AI條款與補充條款](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
+Marketo AI提供的代理程式，可將耗時但重要的行銷功能自動化。
 
 >[!AVAILABILITY]
 >
->此功能處於封閉測試版，目前正處於未來幾個月的分階段推出中。 當您在「我的Marketo」畫面上看到&#x200B;_使用AI建置_&#x200B;圖磚，就會知道您的訂閱已啟用此功能。
+>此功能限時提供。 若要要求您訂閱的存取權，請聯絡Adobe客戶團隊（您的客戶經理）。
+
+>[!PREREQUISITES]
+>
+>若要使用此功能，您必須先同意[核心Gen-AI條款與補充條款](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}。 如需詳細資訊，請聯絡您的客戶經理。
 
 >[!IMPORTANT]
 >
