@@ -7,10 +7,16 @@ level: Intermediate
 feature: Email Designer
 exl-id: c191b44a-47ab-41f8-aa95-9268e359e5db
 TQID: https://experienceleague.adobe.com/Rw-Sk5TQz8PEK07bb69pJnyuqAEKWH-XsS87XW4N22k
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: e2290edd-b061-4880-9d79-dee306cf5aa9
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: c1579802-ddd4-4214-8a91-97b2066abe11id: d095671a-1355-40aa-8b5f-06c33c68080b
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
 source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
 source-wordcount: 592
@@ -46,7 +52,7 @@ ht-degree: 3%
 
    >[!NOTE]
    >
-   >使用包含鎖定內容](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md)的[範本時，您無法新增自訂CSS至您的內容。 按鈕標籤變更為&#x200B;**[!UICONTROL View custom CSS]**，且顯示的任何自訂CSS都是唯讀的。
+   >使用包含鎖定內容[&#128279;](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md)的範本時，您無法新增自訂CSS至您的內容。 按鈕標籤變更為&#x200B;**[!UICONTROL View custom CSS]**，且顯示的任何自訂CSS都是唯讀的。
 
 1. 請確定CSS套用至您的內容。 如果不適用，請檢查[疑難排解](#troubleshooting)區段。
 

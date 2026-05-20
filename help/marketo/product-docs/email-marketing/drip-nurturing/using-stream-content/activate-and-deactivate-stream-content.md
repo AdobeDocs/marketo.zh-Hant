@@ -5,8 +5,10 @@ title: 啟用和停用資料流內容
 exl-id: cd5acec0-13aa-491e-b4ee-1db3d66a5056
 feature: Engagement Programs
 TQID: https://experienceleague.adobe.com/-5qT7OIR29IJib-BobRgtR5ySF4heXLGR-buzjj6pCU
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
 source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
 source-wordcount: 115

@@ -5,9 +5,12 @@ title: 共用和專用的 IP 位址
 exl-id: 3d7a78f4-531a-4ad7-a20b-1385bd62d1d9
 feature: Deliverability
 TQID: https://experienceleague.adobe.com/iYWkYblhZa6DTMf8-ZAMQ5xnFemKl5q5jwaGNWshPOM
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
 source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
 source-wordcount: 445

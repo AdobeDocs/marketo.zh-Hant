@@ -5,8 +5,10 @@ title: 決定資料流內容優先順序
 exl-id: 81de8a3c-c002-4ecd-afdd-217522c3db01
 feature: Engagement Programs
 TQID: https://experienceleague.adobe.com/TaFWfyjnC7V5Pu22rJbgx6AyPwDmbV--dyMzreyDLBo
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
 source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
 source-wordcount: 104

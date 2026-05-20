@@ -5,8 +5,11 @@ title: 測試參與資料流
 exl-id: 144d805c-7805-4b35-b25c-4a18a7c3ab87
 feature: Engagement Programs
 TQID: https://experienceleague.adobe.com/idDd76zfpXOVc7RIRfubWZ1bScpjAR6rECV69EaivpI
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
 source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
 source-wordcount: 158

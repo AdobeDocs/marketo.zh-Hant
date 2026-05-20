@@ -5,8 +5,10 @@ title: 從參與方案中移除成員
 exl-id: c97f15cc-b01a-4148-a150-84901ee2567e
 feature: Engagement Programs
 TQID: https://experienceleague.adobe.com/lVxZZEEceV59TpU7JaSUISp2L5HmSNHiv8Xy9vcymqQ
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
 source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
 source-wordcount: 118

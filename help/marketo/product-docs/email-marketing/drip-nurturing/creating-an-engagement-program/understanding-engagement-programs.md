@@ -5,8 +5,10 @@ title: 了解參與方案
 exl-id: dd573749-5ae6-4794-a340-b5139c316cce
 feature: Engagement Programs
 TQID: https://experienceleague.adobe.com/miGzcAIMh0IHswARcX7HBevGHcIfAlMTagF-nF9RznE
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
 source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
 source-wordcount: 290
