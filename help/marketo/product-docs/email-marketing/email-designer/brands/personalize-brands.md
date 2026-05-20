@@ -7,10 +7,10 @@ role: User
 level: Beginner, Intermediate
 hide: true
 exl-id: 63d2e356-1a42-4cd2-b11f-3499f963c2dd
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: '845'
-ht-degree: 0%
+source-wordcount: '844'
+ht-degree: 1%
 
 ---
 
@@ -167,7 +167,7 @@ ht-degree: 0%
 
 1. 如有需要，請選取其中一個准則或排除專案來更新或刪除。
 
-1. 按一下「編輯」以編輯您的範例，或按一下「刪除」圖示以刪除範例。
+1. 按一下&#x200B;**[!UICONTROL Edit]**&#x200B;圖示以編輯您的專案，或按一下&#x200B;**[!UICONTROL Delete]**&#x200B;圖示以刪除專案。
 
    熒幕擷圖
 

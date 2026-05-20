@@ -5,20 +5,18 @@ title: 停用和啟用內容已用盡通知
 exl-id: 6c40de8e-80bd-41c0-a811-2ed70bb09795
 feature: Engagement Programs
 TQID: https://experienceleague.adobe.com/hbRQJScd6cxiS8k63hwN2HRKSZtviMFHB9xaBAeWt8U
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 96
-ht-degree: 16%
+source-wordcount: 93
+ht-degree: 15%
 
 ---
 
 # 停用和啟用內容已用盡通知 {#disable-and-enable-exhausted-content-notifications}
 
-當人們耗盡串流中的所有內容時，Marketo可以傳送通知給您。 您可以根據需求停用/啟用通知。 方法如下。
+當人們耗盡串流中的所有內容時，Marketo可以傳送通知給您。 您可以根據需求停用/啟用通知。
 
 1. 前往 **[!UICONTROL Marketing Activities]**。
 
@@ -36,4 +34,4 @@ ht-degree: 16%
 
    ![](assets/image2014-9-15-17-3a28-3a15.png)
 
-   超級！ 如果您啟用通知，將會在資料流本身看到一些內容，並收到電子郵件通知。
+   如果您啟用通知，將會在資料流本身看到一些內容，並收到電子郵件通知。

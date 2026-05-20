@@ -7,18 +7,13 @@ level: Beginner, Intermediate
 feature: Email Designer
 exl-id: ccef36af-362a-4ac0-9030-492e9d7f10b5
 TQID: https://experienceleague.adobe.com/HDelTp-9vepH8-TeDRN6FyAe-Nik-hfegvHrakdYDT4
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 395
+source-wordcount: 394
 ht-degree: 3%
 
 ---
@@ -71,7 +66,7 @@ ht-degree: 3%
 
    ![](assets/test-email-rendering-with-litmus-6.png)
 
-**選擇性步驟**：如果您決定變更您的電子郵件，在您按一下&#x200B;**轉譯電子郵件**&#x200B;進行檢視之後，請務必也按一下Litmus _電子郵件預覽_&#x200B;畫面右上角的&#x200B;**重新測試**&#x200B;按鈕。
+**選擇性步驟**：如果您決定變更您的電子郵件，在您按一下&#x200B;**轉譯電子郵件**&#x200B;進行檢視之後，請記得也按一下Litmus _電子郵件預覽_&#x200B;畫面右上角的&#x200B;**重新測試**&#x200B;按鈕。
 
 ![](assets/test-email-rendering-with-litmus-7.png)
 

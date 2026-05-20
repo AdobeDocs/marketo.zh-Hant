@@ -5,25 +5,15 @@ level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
 TQID: https://experienceleague.adobe.com/En79ezOIpQCGnmPv9HasACkYY4ssfpsFOI-7IOj5Y4s
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: d65b4a73-87a3-4d56-b638-74e74d9939ceid: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 1872
-ht-degree: 4%
+source-wordcount: 1787
+ht-degree: 1%
 
 ---
 
@@ -31,13 +21,9 @@ ht-degree: 4%
 
 為了加速並改善設計流程，您可以建立獨立的電子郵件範本，以輕鬆重複使用自訂內容。
 
->[!PREREQUISITES]
->
->若要存取新的電子郵件設計工具，您的Marketo Engage訂閱必須移轉至[Adobe Identity Management系統(IMS)](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。 如果您尚未收到邀請，而您想要請求加速處理，請和 Adobe 客戶團隊 (您的客戶經理) 或 [Marketo 支援](https://nation.marketo.com/t5/support/ct-p/Support)聯絡。
-
 >[!NOTE]
 >
->新電子郵件設計工具中的電子郵件範本只能用來建立新電子郵件設計工具中的電子郵件。 舊版電子郵件編輯器中無法參照這些引數。
+>電子郵件Designer中的電子郵件範本只能在電子郵件Designer中用於建立電子郵件。 在傳統電子郵件編輯器中無法參照這些引數。
 
 ## 建立電子郵件範本 {#create-an-email-template}
 
@@ -177,7 +163,7 @@ ht-degree: 4%
 >
 >如果您希望片段佔據電子郵件內的整個水準版面，請新增1:1欄結構，然後將片段拖放至其中。
 
-儲存電子郵件後，它會顯示在片段詳細資訊頁面的&#x200B;_[!UICONTROL Used By]_&#x200B;標籤中。 新增到電子郵件範本的片段在範本中無法編輯；來源片段會定義內容。
+儲存電子郵件後，它會顯示在片段詳細資訊頁面的&#x200B;_[!UICONTROL Used By]_標籤中。 新增到電子郵件範本的片段在範本中無法編輯；來源片段會定義內容。
 
 ### 新增資產 {#add-assets}
 
@@ -185,7 +171,7 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->您目前只能在新設計工具中新增影像，不能新增其他檔案型別。
+>您目前只能在電子郵件Designer中新增影像，不能新增其他檔案型別。
 
 1. 若要存取影像，請按一下資產選擇器圖示。
 
@@ -209,13 +195,13 @@ ht-degree: 4%
 
 1. 直接在畫布中選取結構元件中的欄，或使用左側顯示的&#x200B;_導覽樹狀結構_。
 
-1. 從欄工具列中，按一下&#x200B;_[!UICONTROL Select a column]_&#x200B;工具並選擇您要編輯的工具。
+1. 從欄工具列中，按一下&#x200B;_[!UICONTROL Select a column]_工具並選擇您要編輯的工具。
 
-   您也可以從結構樹中選取它。 該欄的可編輯引數會顯示在右側的&#x200B;_[!UICONTROL Settings]_&#x200B;和_[!UICONTROL Styles]_&#x200B;索引標籤中。
+   您也可以從結構樹中選取它。 該欄的可編輯引數會顯示在右側的&#x200B;_[!UICONTROL Settings]_和_[!UICONTROL Styles]_&#x200B;索引標籤中。
 
    ![](assets/layers-settings-styles-2.png)
 
-1. 若要編輯欄屬性，請按一下右側的&#x200B;_[!UICONTROL Styles]_&#x200B;標籤，並根據您的需求加以變更：
+1. 若要編輯欄屬性，請按一下右側的&#x200B;_[!UICONTROL Styles]_標籤，並根據您的需求加以變更：
 
    * 針對&#x200B;**[!UICONTROL Background]**，視需要變更背景顏色。
 
@@ -236,7 +222,7 @@ ht-degree: 4%
 
 ### 將內容個人化 {#personalize-content}
 
-Token在新編輯器中的運作方式與舊版相同，但圖示看起來不同。 以下範例概述如何使用遞補文字新增名字代號。
+代號在電子郵件Designer中的運作方式，與在傳統編輯器中相同，但圖示看起來不同。 以下範例概述如何使用遞補文字新增名字代號。
 
 1. 選取文字元件。 將游標放在您要顯示權杖的位置，然後按一下&#x200B;**新增個人化**&#x200B;圖示。
 
@@ -252,9 +238,9 @@ Token在新編輯器中的運作方式與舊版相同，但圖示看起來不同
 
    >[!NOTE]
    >
-   >「遞補文字」是預設值的新編輯器辭彙。 範例：``{{lead.First Name:default=Friend}}``。 如果您選擇的欄位中沒有該人員的值，建議您這麼做。
+   >「遞補文字」是電子郵件Designer的預設值術語。 範例：``{{lead.First Name:default=Friend}}``。 如果您選擇的欄位中沒有該人員的值，建議您這麼做。
 
-1. 設定您的遞補文字，然後按一下[新增]。**&#x200B;**
+1. 設定您的遞補文字，然後按一下[新增]。****
 
    ![](assets/personalize-content-4.png)
 
@@ -356,7 +342,7 @@ Token在新編輯器中的運作方式與舊版相同，但圖示看起來不同
 
   ![](assets/duplicate-email-templates-1.png)
 
-* 在&#x200B;_電子郵件範本_&#x200B;清單頁面中，按一下所需電子郵件範本的[更多動作]圖示（三個點），然後選擇[複製]。**&#x200B;**
+* 在&#x200B;_電子郵件範本_&#x200B;清單頁面中，按一下所需電子郵件範本的[更多動作]圖示（三個點），然後選擇[複製]。****
 
 在對話方塊中，輸入唯一名稱與選擇性說明。 完成時，按一下&#x200B;**複製**。
 
@@ -384,4 +370,4 @@ Token在新編輯器中的運作方式與舊版相同，但圖示看起來不同
 
 >[!MORELIKETHIS]
 >
->[電子郵件製作](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}：瞭解如何使用新設計工具建立、設計和參考電子郵件。
+>[電子郵件製作](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}

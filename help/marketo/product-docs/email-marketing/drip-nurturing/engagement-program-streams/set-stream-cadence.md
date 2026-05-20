@@ -5,13 +5,11 @@ title: 設定資料流頻率
 exl-id: 589eeefa-b2f6-4131-a72b-359c97ab98c0
 feature: Engagement Programs
 TQID: https://experienceleague.adobe.com/FJkSjZFKVZb-nBY-xfkU6Vb9JsQYbIMrbKW7rPpOmmg
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 362
+source-wordcount: 356
 ht-degree: 3%
 
 ---
@@ -46,11 +44,11 @@ ht-degree: 3%
 
    ![](assets/image2017-12-5-14-3a10-3a17.png)
 
-1. 現在，選擇您要讓步調每週發生，還是間隔更久。 讓我們每2週挑選。
+1. 現在，選擇您要讓步調每週發生，還是間隔更久。 每2週挑選。
 
    ![](assets/image2017-12-5-14-3a10-3a56.png)
 
-1. 決定一週的哪幾天。 在這種情況下，讓我們在星期二、星期三和星期四進行。
+1. 決定一週的哪幾天。 在這種情況下，請選取星期二、星期三和星期四。
 
    ![](assets/image2017-12-5-14-3a12-3a29.png)
 
@@ -66,13 +64,13 @@ ht-degree: 3%
    >
    >內容會在您選取的第一次播放日期當天送出，因此請確定它與您選擇的一週中的第幾天一致；否則在第一週會送出兩次。
 
-1. 暫留在步調上。 您將會看到未來何時進行轉播。
+1. 暫留在步調上。 將會顯示未來轉換的日期。
 
    ![](assets/image2017-12-5-14-3a17-3a29.png)
 
    >[!NOTE]
    >
-   >在此範例中，電子郵件將於星期四發出。 然後，我們略過一週，並在下週的週二、週三和週四再次傳送。 然後再重複一次。
+   >在此範例中，電子郵件將於星期四發出。 已略過下週，電子郵件會在下週的週二、週三和週四再次傳送。 然後重複週期。
 
 ## 每月 {#monthly}
 
@@ -84,7 +82,7 @@ ht-degree: 3%
 
    ![](assets/image2014-9-15-16-3a30-3a11.png)
 
-1. 如果您希望它以每月或更久間隔顯示……讓我們選取每個第四個月。
+1. 選取是否希望每個月或隔開更多時間。 每四個月挑選一次。
 
    ![](assets/image2014-9-15-16-3a30-3a7.png)
 
@@ -100,7 +98,7 @@ ht-degree: 3%
 
    ![](assets/image2014-9-15-16-3a29-3a42.png)
 
-1. 暫留在步調上。 您將會看到未來何時進行轉播。
+1. 暫留在步調上。 將會顯示未來轉換的日期。
 
    ![](assets/image2014-9-15-16-3a29-3a38.png)
 
@@ -108,7 +106,7 @@ ht-degree: 3%
    >
    >如果您決定稍後修改參與串流步調，請確定第一個轉換設定為未來的日期。
 
-現在您知道如何設定串流步調了！
+現在您知道如何設定資料流步調了。
 
 >[!MORELIKETHIS]
 >

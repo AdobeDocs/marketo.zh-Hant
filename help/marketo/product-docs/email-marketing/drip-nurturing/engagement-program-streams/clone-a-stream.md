@@ -5,14 +5,12 @@ title: 原地複製資料流
 exl-id: 9e1b83c0-38ce-4729-a922-80b927673717
 feature: Engagement Programs
 TQID: https://experienceleague.adobe.com/Z-U9iTTV04OrhnjcfU00R1n9lZ9XB27TIGDhHkzE96M
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 94
-ht-degree: 6%
+source-wordcount: 83
+ht-degree: 7%
 
 ---
 
@@ -31,8 +29,6 @@ ht-degree: 6%
    >[!NOTE]
    >
    >每個參與計畫最多可以有25個串流。
-
-   做得很好！ 您不喜歡讓生活更輕鬆的事物嗎？
 
    ![](assets/image2014-9-15-17-3a1-3a20.png)
 

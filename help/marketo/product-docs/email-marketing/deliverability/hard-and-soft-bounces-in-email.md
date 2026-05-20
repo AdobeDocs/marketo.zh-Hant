@@ -5,13 +5,11 @@ title: 電子郵件中的硬退回和軟退回
 exl-id: 53298562-76b6-473a-bf9f-2bec682f4d35
 feature: Deliverability
 TQID: https://experienceleague.adobe.com/qr4rAdOWWg5dazZVztnoTUv6WJQE8Xpm2WKttjQaOOg
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 312
+source-wordcount: 310
 ht-degree: 14%
 
 ---
@@ -22,7 +20,7 @@ ht-degree: 14%
 
 ## 跳出分類 {#bounce-classification}
 
-Marketo中有5個人員字串與問題電子郵件傳送有關。
+Marketo中有5個人員欄位與問題電子郵件傳送有關。
 
 1. **電子郵件已暫停** — 當發生特定型別的硬退信時，設定為True。
 1. **電子郵件擱置原因** — 可能有很多原因。 此欄位會嘗試說明原因。
@@ -34,7 +32,7 @@ Marketo中有5個人員字串與問題電子郵件傳送有關。
 >
 >當人員達到&#x200B;**電子郵件已暫停**&#x200B;狀態後，便無法清除[電子郵件已暫停]核取方塊。 不過，該人士在首次被停職24小時後仍會保持郵寄狀態。
 >
->當某人標示為&#x200B;**電子郵件無效**&#x200B;時，您只能透過取消勾選其記錄之「人員資訊」索引標籤中的「電子郵件無效」方塊，以手動重設這些人員（我們建議您只有在您知道其電子郵件有效時才進行重設）。
+>當某人標示為&#x200B;**電子郵件無效**&#x200B;時，只能透過取消勾選其記錄之「人員資訊」索引標籤中的「電子郵件無效」方塊，手動重設他們（僅當您已確認電子郵件地址有效時才建議這樣做）。
 
 >[!PREREQUISITES]
 >

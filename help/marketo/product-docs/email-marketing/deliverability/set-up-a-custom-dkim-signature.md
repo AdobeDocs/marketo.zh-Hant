@@ -5,26 +5,24 @@ title: 設定自訂 DKIM 簽名
 exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
 feature: Deliverability
 TQID: https://experienceleague.adobe.com/ln23WoloRVzBoC8CXFsm90LqYV5FDJzbII8UItp3xDc
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-topic_v2:
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 440
+source-wordcount: 427
 ht-degree: 3%
 
 ---
 
 # 設定自訂 DKIM 簽名 {#set-up-a-custom-dkim-signature}
 
-為確保最高傳遞能力，我們會使用共用的Marketo DKIM簽名自動簽署所有傳出郵件。
+為確保最佳化傳遞能力，Marketo會自動使用共用的DKIM簽名簽署所有傳出郵件。
 
 >[!NOTE]
 >
 >您可能需要IT團隊的協助，才能完成本文中的部分步驟。
 
-您可以個人化DKIM簽名，以反映您選擇的網域。 方法如下。
+您可以個人化DKIM簽名，以反映您選擇的網域。
 
 1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區段。
 
@@ -32,7 +30,7 @@ ht-degree: 3%
 
    >[!NOTE]
    >
-   >如果您以舊式方式設定自訂DKIM簽名，它將持續運作，並且應該顯示在這裡。
+   >如果您使用舊版方法設定自訂DKIM簽名，它將持續運作，並應該顯示在這裡。
 
 1. 按一下&#x200B;**電子郵件**。
 
@@ -62,20 +60,20 @@ ht-degree: 3%
 
    >[!TIP]
    >
-   >* 我們建議使用2048金鑰大小。
-   >* 如果您在寄件者地址中使用不同的網域，我們將使用Marketo共用的DKIM簽名。
+   >* 建議使用2048金鑰大小。
+   >* 如果您在寄件者地址中使用不同的網域，Marketo將會使用共用的DKIM簽名。
 
    >[!IMPORTANT]
    >
    >如果您需要更新網域的DKIM選擇器或DKIM加密大小，您必須刪除現有記錄並使用新值重新發佈新產生的記錄。
    >
-   >請注意，這麼做時，在您的新記錄發佈並由我們的系統驗證之前，不會為您的網域簽署DKIM。 相應地規劃您的變更，因為新的DKIM記錄可能需要24到48小時的時間才會完全傳播到網際網路。
+   >如此一來，在您的新記錄發佈並由我們的系統驗證之前，不會為您的網域簽署DKIM。 相應地規劃您的變更，因為新的DKIM記錄可能需要24到48小時的時間才會完全傳播到網際網路。
 
-1. 將&#x200B;**[!UICONTROL Host Record]**&#x200B;和&#x200B;**[!UICONTROL TXT Value]**&#x200B;傳送給您的IT。 請他們為您建立記錄，並確定紀錄會傳播至與來自網域關聯的所有名稱伺服器。 Marketo的DKIM驗證需要將DKIM金鑰傳播到與DKIM簽署的網域相關聯的所有名稱伺服器。
+1. 將&#x200B;**[!UICONTROL Host Record]**&#x200B;和&#x200B;**[!UICONTROL TXT Value]**&#x200B;傳送給您的IT。 要求他們為您建立記錄，並確保記錄會傳播到與來自網域關聯的所有名稱伺服器。 Marketo的DKIM驗證需要將DKIM金鑰傳播到與DKIM簽署的網域相關聯的所有名稱伺服器。
 
    ![](assets/set-up-a-custom-dkim-signature-5.png)
 
-1. 一旦他們確認已建立記錄，請返回Marketo、選取您的網域，然後按一下&#x200B;**[!UICONTROL Check DNS]**。
+1. 確認已建立記錄後，返回Marketo，選取您的網域，然後按一下&#x200B;**[!UICONTROL Check DNS]**。
 
    ![](assets/set-up-a-custom-dkim-signature-6.png)
 
@@ -85,6 +83,6 @@ ht-degree: 3%
 
    >[!CAUTION]
    >
-   >修改/移除對應的DNS記錄將會損害傳遞能力。 在進行DNS變更之前，請務必刪除Marketo中的專案。
+   >修改/移除對應的DNS記錄將會損害傳遞能力。 刪除Marketo中的專案，然後再進行DNS變更。
 
-   這絕對有助於您的電子郵件傳遞能力。 您應該取得記錄存在且正確的驗證。
+   這將改善您的電子郵件傳遞能力。 您應該取得記錄存在且正確的驗證。
