@@ -2,9 +2,27 @@
 title: 2014
 description: 2014 - Marketo檔案 — 產品檔案
 feature: Release Information
-feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2: id: a1d50dda-6d94-4e16-8c30-5eb7181c4650id: d0251300-e25f-466f-9856-7e11ce8fa7aaid: d5c7388a-594e-4d15-9b39-98d6ce479e8bid: d5f08d55-2fea-44e2-b699-c9c3a8a79cf1id: fc5c4f1e-5467-43ac-94e9-0acfa71c517d
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: d095671a-1355-40aa-8b5f-06c33c68080bid: e0eb8757-182f-49f3-94a4-1587d16f5094id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2:
+  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+  - id: d5f08d55-2fea-44e2-b699-c9c3a8a79cf1
+  - id: fc5c4f1e-5467-43ac-94e9-0acfa71c517d
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: 4d4669f3239b43afbcbd660644c8d1a35734a556
 workflow-type: tm+mt
 source-wordcount: 3266
@@ -352,7 +370,7 @@ RTP設定行銷活動頁面現在[包含現成的範本](/help/marketo/product-d
 
 ## 行銷行事曆授權 {#marketing-calendar-licenses}
 
-2014年9月5日之後，只有5位使用者可以免費存取行銷行事曆。 請務必先將行銷行事曆授權](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md)問題/撤銷給您選擇的使用者，再將其設為未中斷存取。[
+2014年9月5日之後，只有5位使用者可以免費存取行銷行事曆。 請務必先將行銷行事曆授權[&#128279;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md)問題/撤銷給您選擇的使用者，再將其設為未中斷存取。
 
 ![--](assets/image2014-9-16-9-3a45-3a52.png)
 
@@ -507,7 +525,7 @@ RTP設定行銷活動頁面現在[包含現成的範本](/help/marketo/product-d
 
 ## [!DNL Facebook]個自訂對象 {#facebook-custom-audiences}
 
-在您的Marketo管理員透過[!UICONTROL Admin] > [!UICONTROL LaunchPoint]](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)新增[[!DNL Facebook] 後，您就可以輕鬆地建立、更新或[以Marketo靜態或智慧清單中的潛在客戶取代 [!DNL Facebook] 自訂對象](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)。 在任何靜態或智慧清單的銷售機會格線底部尋找新的[!DNL Facebook]圖示。
+在您的Marketo管理員透過[!UICONTROL Admin] > [!UICONTROL LaunchPoint][&#128279;](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)新增[!DNL Facebook] 後，您就可以輕鬆地建立、更新或[以Marketo靜態或智慧清單中的潛在客戶取代 [!DNL Facebook] 自訂對象](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)。 在任何靜態或智慧清單的銷售機會格線底部尋找新的[!DNL Facebook]圖示。
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 

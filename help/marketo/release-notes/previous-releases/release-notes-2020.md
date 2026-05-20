@@ -2,9 +2,37 @@
 title: 2020
 description: 2020 - Marketo檔案 — 產品檔案
 feature: Release Information
-feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f71e690b-4480-4b67-9ef5-88f42f9cdfdbid: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2: id: a8c137b3-8aa5-433e-bdc9-0a216c2a11c1id: d1956f52-ecfd-4e01-8941-47af238acb0did: d5c7388a-594e-4d15-9b39-98d6ce479e8bid: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275id: f5e85a9b-a883-40d0-8759-f3651efb32e9id: f7d2c504-7d5f-4a94-b77e-7fce7ef46c22id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5id: ffdd6159-0e10-4a57-8021-94e93bab8183
-topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: beb7a3c1-66ab-4786-b879-7621375b3c40id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: d095671a-1355-40aa-8b5f-06c33c68080bid: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2:
+  - id: a8c137b3-8aa5-433e-bdc9-0a216c2a11c1
+  - id: d1956f52-ecfd-4e01-8941-47af238acb0d
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+  - id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
+  - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+  - id: f7d2c504-7d5f-4a94-b77e-7fce7ef46c22
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+  - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: beb7a3c1-66ab-4786-b879-7621375b3c40
+  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: 4d4669f3239b43afbcbd660644c8d1a35734a556
 workflow-type: tm+mt
 source-wordcount: 4148
@@ -249,7 +277,7 @@ ht-degree: 1%
 
 * **資產API「_method」引數移除**： 2020年9月後，資產API端點將不再接受於POST主體中使用「_method」傳遞查詢引數，以略過URI長度限制。 為因應需要此引數的請求，資產API的URI限制將從8KB增加到65KB。
 * **[[!DNL Munchkin] 關聯銷售機會](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)**：在此版本的Munchkin JavaScript Client （版本159）中，我們將開始棄用[!DNL Munchkin] Associate Lead方法。 如果叫用，您將會收到警告，指出將在未來版本中移除方法。 移除後，方法將無法繼續運作，並且嘗試使用它將失敗。 最近使用過此方法的Marketo Engage客戶將會個別收到使用通知。
-* **支援Internet Explorer**：如先前宣佈的，Marketo Engage對Internet Explorer 11的支援將於&#x200B;**2020年7月31日**&#x200B;結束。 我們將繼續支援[!DNL Google Chrome]、[!DNL Mozilla Firefox]、[!DNL  Apple Safari]和[!DNL Microsoft Edge]。
+* **支援Internet Explorer**：如先前宣佈的，Marketo Engage對Internet Explorer 11的支援將於&#x200B;**2020年7月31日**&#x200B;結束。 我們將繼續支援[!DNL Google Chrome]、[!DNL Mozilla Firefox]、[!DNL &#x200B; Apple Safari]和[!DNL Microsoft Edge]。
 * **Sky預設體驗**：管理員或使用者將[!DNL Marketo Sky]設定為預設體驗的選項將在此版本中移除，以準備更新主要使用者體驗。 主要體驗更新的更多詳細資訊預計在今年晚些時候推出，將於7月推出。 已將[!DNL Marketo Sky]設定為其預設體驗，或已授與[!DNL Marketo Sky]存取許可權的使用者，可以繼續從「我的Marketo」首頁上的圖磚存取[!DNL Marketo Sky]。
 * **支援EdgeHTML （非Chromium） [!DNL Microsoft Edge]**： 2020年底Marketo Engage將不再支援Microsoft Edge的EdgeHTML版本。 自2021年1月1日起，我們將僅支援最新的Microsoft Edge Chromium版本。
 
