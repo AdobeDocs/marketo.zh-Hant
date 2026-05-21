@@ -5,17 +5,12 @@ title: 建立自由格式登陸頁面範本
 exl-id: bf633c86-6087-44bf-aaa2-63173154f0aa
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/zAuwXys4flRTw2x2zthiov4yxcx-gKmZEWIMFoIaIq4
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-topic_v2:
-  - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 199
+source-wordcount: 189
 ht-degree: 8%
 
 ---
@@ -36,7 +31,7 @@ ht-degree: 8%
 
    ![](assets/three.png)
 
-1. 您的範本應在新標籤中開啟。 任何熟悉CSS/HTML的人現在都可以編輯它。
+1. 您的範本應在新標籤中開啟。 任何熟悉CSS/HTML的人現在都能編輯它。
 
    ![](assets/four.png)
 
@@ -47,8 +42,6 @@ ht-degree: 8%
 1. 完成編輯後，按一下&#x200B;**[!UICONTROL Template Actions]**，然後選取&#x200B;**[!UICONTROL Approve and Close]**。
 
    ![](assets/five.png)
-
-   您現在有新的自由表單登陸頁面範本！
 
    >[!NOTE]
    >

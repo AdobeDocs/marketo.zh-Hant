@@ -5,24 +5,22 @@ title: 新增自由格式登陸頁面的行動裝置視圖
 exl-id: 1fc9689f-a39c-4ab4-9b03-0953fe229a8c
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/LG5T0Wbo05-MpqhFgcBWsvj9mZsLwVc4iSsaJmvWfOQ
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 143
-ht-degree: 19%
+source-wordcount: 140
+ht-degree: 20%
 
 ---
 
 # 新增自由格式登陸頁面的行動裝置視圖 {#add-a-mobile-view-for-your-free-form-landing-page}
 
-讓您在智慧型手機上輕鬆呈現自由格式的登陸頁面。
+您可以最佳化自由格式的登陸頁面，以便在智慧型手機上正確顯示。
 
 >[!NOTE]
 >
->行動檢視可在480px寬（或更小）的熒幕上運作。 換句話說，就是智慧型手機。 以下是裝置解析度[&#128279;](https://www.mydevice.io/)的更多資訊。
+>行動檢視可在480px寬（或更小）的熒幕上運作。 換句話說，就是智慧型手機。 以下是裝置解析度](https://www.mydevice.io/)的更多[資訊。
 
 1. 前往 **[!UICONTROL Marketing Activities]**。
 
@@ -48,7 +46,7 @@ ht-degree: 19%
    >
    >可能需要升級自由格式範本。 如果您看到該訊息，請快速閱讀如何[讓現有的自由格式登陸頁面範本行動裝置相容](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)。
 
-1. 太棒了！ 您現在已啟動登陸頁面的行動版本。 按一下「**[!UICONTROL Close]**」。
+1. 您現在已啟動登陸頁面的行動版本。 按一下「**[!UICONTROL Close]**」。
 
    ![](assets/image2015-1-22-16-3a44-3a37.png)
 

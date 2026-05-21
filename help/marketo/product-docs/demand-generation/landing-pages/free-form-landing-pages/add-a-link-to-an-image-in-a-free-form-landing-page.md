@@ -5,18 +5,17 @@ title: 新增連結至自由格式登陸頁面中的影像
 exl-id: ad845417-2414-407f-998b-eeebe38f328f
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/affRhH-IV8B1M-BYs0vBk-8E3gteSLOudgQI3iWqnTc
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 124
-ht-degree: 21%
+source-wordcount: 122
+ht-degree: 19%
 
 ---
 
 # 新增連結至自由格式登陸頁面中的影像 {#add-a-link-to-an-image-in-a-free-form-landing-page}
 
-想要將登陸頁面上的影像設為另一個頁面/網站的連結嗎？ 方法如下。
+若要將登陸頁面上的影像設為可點按的連結，請遵循下列步驟。
 
 >[!PREREQUISITES]
 >
@@ -34,8 +33,8 @@ ht-degree: 21%
 
    ![](assets/add-link.png)
 
-   恭喜！ 您現在已成功新增登陸頁面上影像的連結。 您現在可以[預覽頁面](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)以檢視其運作情況。
+   您已成功將連結新增至登陸頁面上的影像。 您現在可以[預覽頁面](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)以檢視其運作情況。
 
 >[!TIP]
 >
->永遠測試您的頁面！
+>永遠測試您的頁面。

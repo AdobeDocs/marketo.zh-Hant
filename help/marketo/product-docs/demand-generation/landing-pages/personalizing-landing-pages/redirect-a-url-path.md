@@ -5,18 +5,17 @@ title: 重新導向 URL 路徑
 exl-id: 5857971a-507b-4946-b131-a5a74eef0d9a
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/tLOxmCH9CqI7FkYXOxTe9FPs5h77fQRt-H9B-J-i2p0
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 135
-ht-degree: 10%
+source-wordcount: 133
+ht-degree: 8%
 
 ---
 
 # 重新導向 URL 路徑 {#redirect-a-url-path}
 
-Marketo可讓您輕鬆將URL路徑重新導向至您選擇的任何頁面。 方法如下。
+Marketo可讓您輕鬆將URL路徑重新導向至您選擇的任何頁面。
 
 >[!NOTE]
 >
@@ -48,7 +47,7 @@ Marketo可讓您輕鬆將URL路徑重新導向至您選擇的任何頁面。 方
 
    您也可以[使用Marketo登陸頁面](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md)作為目的地。
 
-恭喜！ 您已成功重新導向URL路徑。
+已成功重新導向您的URL路徑。
 
 >[!MORELIKETHIS]
 >

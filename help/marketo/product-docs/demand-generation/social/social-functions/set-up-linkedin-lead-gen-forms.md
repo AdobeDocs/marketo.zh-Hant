@@ -5,15 +5,11 @@ title: 設定 LinkedIn 商機開發表單
 exl-id: 554a546c-adeb-4132-830d-ff15ba5cf9a1
 feature: Social
 TQID: https://experienceleague.adobe.com/M71uOB2ibUQ43e52t04-kjgVkbI5c4dsw-ajqD44ZIs
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: c5f60233-d5ea-4453-a799-0ad258b4d399
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 499
+source-wordcount: 494
 ht-degree: 4%
 
 ---
@@ -38,7 +34,7 @@ ht-degree: 4%
 
    ![](assets/set-up-linkedin-lead-gen-forms-2.png)
 
-1. 輸入您服務的&#x200B;_顯示名稱_，從下拉式清單中選取&#x200B;**[!UICONTROL LinkedIn Lead Gen]**&#x200B;服務，然後按一下&#x200B;**[!UICONTROL Next]**。
+1. 為您的服務輸入&#x200B;**[!UICONTROL Display Name]**，從下拉式清單中選取&#x200B;**[!UICONTROL LinkedIn Lead Gen]**&#x200B;服務，然後按一下&#x200B;**[!UICONTROL Next]**。
 
    ![](assets/set-up-linkedin-lead-gen-forms-3.png)
 
@@ -64,7 +60,7 @@ ht-degree: 4%
 
    >[!CAUTION]
    >
-   >此服務在授權一年後自動過期。 若要重新取得存取權，只要按一下&#x200B;**[!UICONTROL Re-Authorize]**&#x200B;即可。 視您的瀏覽器設定而定，您可能需要重新輸入您的LinkedIn密碼。
+   >此服務在授權一年後自動過期。 若要重新取得存取權，請按一下&#x200B;**[!UICONTROL Re-Authorize]**。 視您的瀏覽器設定而定，您可能需要重新輸入您的LinkedIn密碼。
 
 1. 選取您希望LinkedIn銷售機會一般銷售機會進入Marketo的帳戶，然後按一下&#x200B;**[!UICONTROL Next]**。
 
@@ -74,7 +70,7 @@ ht-degree: 4%
 
    ![](assets/set-up-linkedin-lead-gen-forms-8.png)
 
-1. 若要接受預設的LinkedIn與Marketo欄位對應，只要按一下&#x200B;**[!UICONTROL Create]**&#x200B;即可。 如果您想要變更預設欄位對應、移除欄位對應或新增欄位對應，您可以透過以下模式為每個欄位執行此操作。
+1. 若要接受預設的LinkedIn與Marketo欄位對應，請按一下&#x200B;**[!UICONTROL Create]**。 如果您想要變更預設欄位對應、移除欄位對應或新增欄位對應，您可以透過以下模式為每個欄位執行此操作。
 
    >[!CAUTION]
    >
@@ -88,7 +84,7 @@ ht-degree: 4%
 
    ![](assets/set-up-linkedin-lead-gen-forms-10.png)
 
-做得很好！ 當您在LinkedIn端執行成功的行銷活動時，提交LinkedIn潛在客戶一般表單的人員將開始流入Marketo。
+當您在LinkedIn端執行成功的行銷活動時，提交LinkedIn潛在客戶一般表單的人員將開始流入Marketo。
 
 >[!NOTE]
 >

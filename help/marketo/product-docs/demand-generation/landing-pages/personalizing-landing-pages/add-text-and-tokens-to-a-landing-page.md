@@ -5,9 +5,8 @@ title: 新增文字和權杖至登陸頁面
 exl-id: df6f17dc-50a0-4ee0-9a6e-96b0ebde46c7
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/-WO74fBXUqqawkC75M5bH2pFdWk3jcVhZghU2o5vEmk
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
 source-wordcount: 191
 ht-degree: 8%
@@ -38,7 +37,7 @@ ht-degree: 8%
 
    ![](assets/image2015-7-8-17-3a0-3a49.png)
 
-現在您知道如何將文字新增至登入頁面了，讓我們開始新增Token吧。
+現在您知道如何將文字新增至登入頁面，下一節將涵蓋新增權杖。
 
 ## 新增Token至您的登陸頁面 {#add-a-token-to-your-landing-page}
 
@@ -46,7 +45,7 @@ Token是動態的文字位元，可個人化您的登入頁面。
 
 >[!TIP]
 >
->名字等內容來自個人記錄。 其他代號則來自方案中的「我的代號」索引標籤。
+>「名字」等值來自個人記錄。 其他代號則來自方案中的「我的代號」索引標籤。
 
 1. 選取您的登入頁面並按一下&#x200B;**[!UICONTROL Edit Draft]**。
 
@@ -76,4 +75,4 @@ Token是動態的文字位元，可個人化您的登入頁面。
 
    ![](assets/image2015-7-8-17-3a25-3a22.png)
 
-   任務完成！ 您的登陸頁面上現在有Token。
+   您的登陸頁面上現在有Token。

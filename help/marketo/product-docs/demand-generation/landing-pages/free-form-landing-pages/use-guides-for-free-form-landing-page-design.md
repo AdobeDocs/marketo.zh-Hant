@@ -5,18 +5,17 @@ title: 使用指南進行自由格式登陸頁面設計
 exl-id: 44c6a984-ae05-464c-905a-9e1b53f73f37
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/Bw7pYxsFnhj5vhHyJpVN1aKPAAqPz2d-wap8uaSkQV8
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 115
+source-wordcount: 118
 ht-degree: 13%
 
 ---
 
 # 使用指南進行自由格式登陸頁面設計 {#use-guides-for-free-form-landing-page-design}
 
-設計自由格式登入頁面時，您可以使用參考線來協助對齊元件。
+設計自由格式登陸頁面時，您可以使用參考線來協助對齊頁面上的元素。
 
 >[!NOTE]
 >
@@ -38,4 +37,4 @@ ht-degree: 13%
 
    ![](assets/image2015-5-20-14-3a17-3a24.png)
 
-   對齊的物件在眼睛上很容易！
+   對齊正確的元素可建立更乾淨、更專業的版面。

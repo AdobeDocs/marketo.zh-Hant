@@ -5,19 +5,13 @@ title: 在自由格式登陸頁面中使用動態內容
 exl-id: 76441566-96be-43fb-91da-4c0c520cc9e1
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/O80z2EtTU2E-1yf6ng-5n6FOWNXzVG2-Oq8xbXapvhI
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-subfeature_v2:
-  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
-  - id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
-  - id: df8eb12b-4f82-491f-acbb-d74012ca5654
-topic_v2:
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2: id: a1d50dda-6d94-4e16-8c30-5eb7181c4650id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272id: df8eb12b-4f82-491f-acbb-d74012ca5654
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 203
+source-wordcount: 205
 ht-degree: 10%
 
 ---
@@ -86,7 +80,7 @@ ht-degree: 10%
 >
 >在修改各種區段的內容之前，請先建立預設登陸頁面。
 
-瞧！ 您現在可以傳送目標內容。
+您現在可以將目標內容傳送至區段。
 
 >[!MORELIKETHIS]
 >
