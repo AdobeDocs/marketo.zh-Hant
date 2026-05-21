@@ -15,9 +15,9 @@ subfeature_v2:
   - id: df8eb12b-4f82-491f-acbb-d74012ca5654
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 203
+source-wordcount: 205
 ht-degree: 10%
 
 ---
@@ -86,7 +86,7 @@ ht-degree: 10%
 >
 >在修改各種區段的內容之前，請先建立預設登陸頁面。
 
-瞧！ 您現在可以傳送目標內容。
+您現在可以將目標內容傳送至區段。
 
 >[!MORELIKETHIS]
 >

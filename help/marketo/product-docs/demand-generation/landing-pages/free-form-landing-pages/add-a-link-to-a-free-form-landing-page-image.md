@@ -7,9 +7,9 @@ feature: Landing Pages
 TQID: https://experienceleague.adobe.com/oWeDNJi60IIzN30h98YEwJQix8W5pJP7BvAY-1rgobI
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 95
+source-wordcount: 93
 ht-degree: 21%
 
 ---
@@ -24,14 +24,14 @@ ht-degree: 21%
 >
 >這僅適用於自由格式的登陸頁面。
 
-1. 選取您新增至登陸頁面的影像，並展開&#x200B;**[!UICONTROL Property Sheet].**
+1. 選取您新增至登陸頁面的影像，並展開&#x200B;**[!UICONTROL Property Sheet]**。
 
    ![](assets/image2014-9-18-15-3a29-3a0.png)
 
-1. 在&#x200B;**[!UICONTROL linkUrl].**&#x200B;中輸入您的mailto連結
+1. 在&#x200B;**[!UICONTROL linkUrl]**&#x200B;中輸入您的mailto連結。
 
    ![](assets/image2014-9-18-15-3a29-3a21.png)
 
-   做得很好！ 現在，您的Marketo登陸頁面上有要連結的影像作為郵件。
+   現在，您的Marketo登陸頁面上有要連結的影像作為郵件。
 
    ![](assets/image2014-9-18-15-3a29-3a38.png)

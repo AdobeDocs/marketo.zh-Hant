@@ -13,9 +13,9 @@ feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 199
+source-wordcount: 189
 ht-degree: 8%
 
 ---
@@ -36,7 +36,7 @@ ht-degree: 8%
 
    ![](assets/three.png)
 
-1. 您的範本應在新標籤中開啟。 任何熟悉CSS/HTML的人現在都可以編輯它。
+1. 您的範本應在新標籤中開啟。 任何熟悉CSS/HTML的人現在都能編輯它。
 
    ![](assets/four.png)
 
@@ -47,8 +47,6 @@ ht-degree: 8%
 1. 完成編輯後，按一下&#x200B;**[!UICONTROL Template Actions]**，然後選取&#x200B;**[!UICONTROL Approve and Close]**。
 
    ![](assets/five.png)
-
-   您現在有新的自由表單登陸頁面範本！
 
    >[!NOTE]
    >

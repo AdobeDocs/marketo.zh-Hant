@@ -7,9 +7,9 @@ feature: Landing Pages
 TQID: https://experienceleague.adobe.com/NXUXGYSgviIdw-W1yVRAfTpW82mWvZA9SZExRQVSvko
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 95
+source-wordcount: 94
 ht-degree: 14%
 
 ---
@@ -31,4 +31,4 @@ ht-degree: 14%
 
    ![](assets/image2014-9-25-15-3a34-3a40.png)
 
-棒極了！ 您現在可以確保您的登入頁面可跨區段運作。
+您現在可確保登入頁面在區段間依您想要的方式運作。

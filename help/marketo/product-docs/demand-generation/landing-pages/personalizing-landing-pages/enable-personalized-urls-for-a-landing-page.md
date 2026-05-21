@@ -7,16 +7,16 @@ feature: Landing Pages
 TQID: https://experienceleague.adobe.com/62RoGtAhtBHDi9sxFFXeL4oAKjC25cuRHC6y3m5mO-I
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 86
+source-wordcount: 84
 ht-degree: 16%
 
 ---
 
 # 啟用登陸頁面的個人化 URL {#enable-personalized-urls-for-a-landing-page}
 
-個人化URL非常適合列印郵件行銷活動。
+個人化URL很適合列印郵件行銷活動。
 
 >[!PREREQUISITES]
 >
@@ -30,4 +30,4 @@ ht-degree: 16%
 
    ![](assets/image2014-9-18-13-3a23-3a53.png)
 
-太棒了！ 現在您已為登陸頁面啟用個人化URL。 系統將識別使用該URL的訪客，且Token可正常運作。
+您已為登陸頁面啟用個人化URL。 系統將識別使用該URL的訪客，且Token可正常運作。

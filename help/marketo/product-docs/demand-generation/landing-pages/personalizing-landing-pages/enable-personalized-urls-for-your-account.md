@@ -7,16 +7,16 @@ feature: Landing Pages
 TQID: https://experienceleague.adobe.com/As1NwttcwB-zbe-UNOF1tuYcot34gZcb3UH-lnQcRAM
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 106
-ht-degree: 17%
+source-wordcount: 103
+ht-degree: 16%
 
 ---
 
 # 啟用您帳戶的個人化 URL {#enable-personalized-urls-for-your-account}
 
-個人化URL非常適合列印郵件行銷活動。
+個人化URL很適合列印郵件行銷活動。
 
 >[!NOTE]
 >
@@ -34,7 +34,7 @@ ht-degree: 17%
 
    ![](assets/image2014-9-18-13-3a30-3a6.png)
 
-做得好！ 現在您已為帳戶啟用PURL，可以為個別登入頁面啟用。
+您已為帳戶啟用PURL。 您現在可以為個別登陸頁面啟用這些功能。
 
 >[!NOTE]
 >

@@ -7,10 +7,10 @@ feature: Landing Pages
 TQID: https://experienceleague.adobe.com/4GUDuUUCJroLl2v1QGD8-7k9ZwmzrZtfzB2DAQBVZTs
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 173
-ht-degree: 6%
+source-wordcount: 156
+ht-degree: 7%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 6%
 >* [為您的帳戶啟用個人化URL](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
 >* [啟用登陸頁面的個人化URL](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)
 
-1. 選取您的清單或智慧清單，按一下&#x200B;**[!UICONTROL Leads]**&#x200B;標籤以取得結果，然後按一下Excel圖示。 INLINE確定您有&#x200B;**[!UICONTROL Marketo Unique Code]**&#x200B;和&#x200B;**[!UICONTROL Marketo Unique Name]**&#x200B;個[資料行可見](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md)。
+1. 選取您的清單或智慧清單，按一下&#x200B;**[!UICONTROL Leads]**&#x200B;標籤以取得結果，然後按一下Excel圖示。 確定您有&#x200B;**[!UICONTROL Marketo Unique Code]**&#x200B;和&#x200B;**[!UICONTROL Marketo Unique Name]**&#x200B;個[可見欄](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md)。
 
    ![](assets/image2014-9-25-11-3a10-3a43.png)
 
@@ -35,7 +35,7 @@ ht-degree: 6%
 
    >[!TIP]
    >
-   >如果您看到同一登陸頁面有多個URL，可能是因為您在過去的某個時間點變更頁面URL並建立重新導向。
+   >如果您看見同一登陸頁面有多個URL，很可能是因為您在過去的某個時間點變更頁面URL，並建立重新導向。
 
 1. 選擇&#x200B;**[!UICONTROL Style]**&#x200B;並按一下&#x200B;**[!UICONTROL Export]**。
 
@@ -44,8 +44,6 @@ ht-degree: 6%
 1. 匯出完成時，按一下&#x200B;**[!UICONTROL Download Now]**&#x200B;連結以儲存檔案。
 
    ![](assets/image2014-9-18-13-3a37-3a27.png)
-
-   而您已完成！ 您現在已有銷售機會和個人化URL的清單。
 
    ![](assets/image2014-9-18-13-3a37-3a36.png)
 

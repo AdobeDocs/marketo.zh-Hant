@@ -9,9 +9,9 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 162
+source-wordcount: 163
 ht-degree: 11%
 
 ---
@@ -36,7 +36,7 @@ ht-degree: 11%
 
    ![](assets/image2014-9-17-12-3a3-3a39.png)
 
-很好！ 將任何您想要的指令碼或CSS放在該處。
+您可以將任何指令碼或CSS新增至HTML元素。
 
 >[!TIP]
 >

@@ -7,16 +7,16 @@ feature: Landing Pages
 TQID: https://experienceleague.adobe.com/jKfwONyZaf3HXfYg2i1bl0ncsuXp5ALCh6HuCw-Vf5M
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 133
-ht-degree: 14%
+source-wordcount: 130
+ht-degree: 13%
 
 ---
 
 # 新增矩形至自由格式登陸頁面 {#adding-a-rectangle-to-a-free-form-landing-page}
 
-登入頁面上的矩形很適合用來反白文字區域。
+登入頁面上的矩形可用來反白標示或以視覺化方式分隔內容區段。
 
 1. 選取自由格式登陸頁面，然後按一下&#x200B;**[!UICONTROL Edit Draft]**。
 
@@ -38,4 +38,4 @@ ht-degree: 14%
 
    ![](assets/image2015-5-21-14-3a50-3a24.png)
 
-恭喜！ 您現在可以在任意格式的登陸頁面上建立矩形。
+您現在可以將矩形新增至自由格式的登入頁面。

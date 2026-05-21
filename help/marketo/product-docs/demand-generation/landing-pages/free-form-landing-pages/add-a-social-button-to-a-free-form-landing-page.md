@@ -8,9 +8,9 @@ feature: Landing Pages
 TQID: https://experienceleague.adobe.com/siTy0QNBBmitEfs7pg8xxW5Kdul2GF2NYRVTzTzQZPU
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 241
+source-wordcount: 216
 ht-degree: 9%
 
 ---
@@ -35,7 +35,7 @@ ht-degree: 9%
 
    ![](assets/image2014-9-17-10-3a35-3a13.png)
 
-   一旦您的登入頁面作用中，請在Social儀表板&#x200B;_上檢視您的_&#x200B;社交按鈕（含Analytics）產生的活動。
+   啟動登陸頁面後，您就能在Social控制面板上檢視社交按鈕（含Analytics）產生的活動。
 
    如果您改為新增[!UICONTROL Like/Recommend Button (Lite)]，請在[登陸頁面效能報表](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)中檢視共用數量。
 
@@ -53,10 +53,6 @@ ht-degree: 9%
    >
    >若要節省時間，您可以使用&#x200B;**[!UICONTROL Clone From]**&#x200B;選項，從現有的社交按鈕複製所有設定。
 
-   [將登入頁面發佈至Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) _將社交按鈕放到您的網站上_
+1. 將登入頁面[發佈到Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)，並將社交按鈕放到您的網站上。
 
-恭喜！ 您已將社交按鈕新增至登陸頁面。 請務必核准此登陸頁面。
-
->[!MORELIKETHIS]
->
->已完成，但如有需要，可變更社交按鈕的設定。 從&#x200B;_自訂按鈕樣式_&#x200B;或&#x200B;_編輯它顯示的共用訊息_&#x200B;開始。
+您已將社交按鈕新增至登陸頁面。 當您準備好時，核准登入頁面。

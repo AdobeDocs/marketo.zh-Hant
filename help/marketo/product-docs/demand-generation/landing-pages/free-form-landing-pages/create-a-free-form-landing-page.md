@@ -10,10 +10,10 @@ product_v2:
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 180
-ht-degree: 10%
+source-wordcount: 182
+ht-degree: 9%
 
 ---
 
@@ -43,7 +43,7 @@ ht-degree: 10%
 
    ![](assets/image2014-9-16-12-3a58-3a49.png)
 
-1. 為登入頁面命名，並從下拉式清單中選擇自由格式範本。
+1. 為登入頁面命名，並從下拉式選單中選擇任意格式的範本。
 
    >[!NOTE]
    >
@@ -69,7 +69,7 @@ ht-degree: 10%
 
    ![](assets/image2014-9-16-13-3a0-3a43.png)
 
-1. 為登入頁面命名，並從下拉式清單中選擇自由格式範本。
+1. 為登入頁面命名，並從下拉式選單中選擇任意格式的範本。
 
    ![](assets/image2015-5-19-13-3a30-3a25.png)
 

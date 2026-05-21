@@ -9,7 +9,7 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
 source-wordcount: 133
 ht-degree: 9%
@@ -18,7 +18,7 @@ ht-degree: 9%
 
 # 編輯登陸頁面標題和後設資料 {#edit-landing-page-title-and-metadata}
 
-Marketo可讓您編輯登入頁面[中繼標籤以進行SEO &#x200B;](https://www.w3schools.com/tags/tag_meta.asp)，以及自訂HTML的`<head>`部分。
+Marketo可讓您編輯登入頁面的[中繼標籤，以用於SEO用途](https://www.w3schools.com/tags/tag_meta.asp)，以及自訂HTML的`<head>`部分。
 
 1. 選取登入頁面並按一下&#x200B;**[!UICONTROL Edit Draft]**。
 

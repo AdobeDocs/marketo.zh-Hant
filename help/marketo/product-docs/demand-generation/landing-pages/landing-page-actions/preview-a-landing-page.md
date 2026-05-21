@@ -7,16 +7,16 @@ feature: Landing Pages
 TQID: https://experienceleague.adobe.com/3bgFcAopW5NAzIhEbI8hWVv9BP4njL6dX-pKRbEQV4Y
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 142
-ht-degree: 9%
+source-wordcount: 138
+ht-degree: 8%
 
 ---
 
 # 預覽登陸頁面 {#preview-a-landing-page}
 
-您可能想要在讓登入頁面上線之前檢視頁面外觀。
+預覽您的登入頁面，以檢視它在上線之前的樣子。
 
 ## 預覽登陸頁面 {#preview-a-landing-page-1}
 
@@ -52,4 +52,4 @@ ht-degree: 9%
 
    ![](assets/image2014-9-17-10-3a10-3a20.png)
 
-做得很好！ 現在您知道如何預覽登入頁面了。
+您現在知道如何預覽登入頁面。

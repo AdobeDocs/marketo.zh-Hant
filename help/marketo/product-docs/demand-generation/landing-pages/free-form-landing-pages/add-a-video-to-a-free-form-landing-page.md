@@ -10,10 +10,10 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 238
-ht-degree: 7%
+source-wordcount: 208
+ht-degree: 8%
 
 ---
 
@@ -49,8 +49,4 @@ ht-degree: 7%
 >
 >若要節省時間，您可以使用&#x200B;**[!UICONTROL Clone From]**&#x200B;選項，從現有的視訊共用複製所有設定。
 
-恭喜！ 您已新增視訊共用至您的自由格式登陸頁面。 核准登陸頁面，您的視訊共用即時。 您也可以[將登入頁面發佈至Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)，或&#x200B;_將視訊共用放在您的網站上_。
-
->[!MORELIKETHIS]
->
->已完成，但如有需要，您可以變更視訊共用設定。 從&#x200B;_自訂共用流程_&#x200B;開始（共用提示開啟的時間和位置）。
+您已新增視訊共用至您的自由格式登陸頁面。 核准登陸頁面，您的視訊共用即時。 您也可以[將登入頁面發佈至Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)，或將視訊共用放在您的網站上。

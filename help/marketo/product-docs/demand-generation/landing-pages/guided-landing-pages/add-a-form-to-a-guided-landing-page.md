@@ -7,16 +7,14 @@ feature: Landing Pages
 TQID: https://experienceleague.adobe.com/rWlijjPdA6LW-7FBx-wSwolGY0thdJQGn6xg6mYkukk
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 174
-ht-degree: 12%
+source-wordcount: 161
+ht-degree: 13%
 
 ---
 
 # 新增表單至引導式登陸頁面 {#add-a-form-to-a-guided-landing-page}
-
-表單，符合登陸頁面。 登陸頁面，符合表單。
 
 >[!PREREQUISITES]
 >
@@ -52,12 +50,10 @@ ht-degree: 12%
    >
    >後續追蹤頁面是使用者提交表單後所看到的頁面。
 
-1. 在此範例中，我們將使用[!UICONTROL Form Defined]。 按一下「**[!UICONTROL Insert]**」。
+1. 在此範例中，選取[!UICONTROL Form Defined]。 按一下「**[!UICONTROL Insert]**」。
 
    ![](assets/image2015-5-20-15-3a46-3a55.png)
 
-   做得很好！
-
    ![](assets/image2015-5-20-15-3a45-3a45.png)
 
-現在只需關閉登入頁面編輯器並[核准登入頁面草稿](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)即可。
+關閉登入頁面編輯器並[核准登入頁面草稿](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)。

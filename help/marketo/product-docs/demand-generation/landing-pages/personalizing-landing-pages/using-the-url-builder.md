@@ -9,9 +9,9 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 127
+source-wordcount: 125
 ht-degree: 6%
 
 ---
@@ -36,4 +36,4 @@ URL產生器可協助您建構可填入Marketo隱藏表單欄位的URL。
    >
    >如果您在產生器中未看到任何可用的欄位，請確定您的表單有隱藏欄位，且這些欄位已[設定為接受URL引數](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md#url-parameter)。
 
-做得很好！ 您現在可以複製並貼上URL，並在網頁上使用。
+您現在可以複製並貼上URL，並在網頁上使用。

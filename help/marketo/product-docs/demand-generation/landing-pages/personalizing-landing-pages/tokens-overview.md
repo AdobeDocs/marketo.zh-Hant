@@ -9,10 +9,10 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 309
-ht-degree: 88%
+source-wordcount: 310
+ht-degree: 79%
 
 ---
 
@@ -115,7 +115,7 @@ ht-degree: 88%
 * `{{Company.Site}}`
 * `{{Company.State}}`
 * `{{Company.Website}}`
-* 如果您使用自訂公司欄位的顯示名稱，則也同樣可正常運作，例如：`{{Company.Custom Field Name}}`
+* 如果您使用其顯示名稱，例如`{{Company.Custom Field Name}}`，自訂公司欄位也可運作
 
 ## 行銷活動權杖 {#campaign-tokens}
 
@@ -168,7 +168,7 @@ ht-degree: 88%
 
 ## 成員權杖 {#member-token}
 
-成員權杖可用於插入整合式服務合作夥伴的唯一值。 成員權杖的常見用途為網路研討會出席者的唯一 URL。 每個使用者都有唯一 URL，可用於存取可使用 `{{member.webinar url}}` 權杖插入的網路研討會。 `{{member.webinar url}}` 權杖會自動解析服務提供者所產生的個人唯一確認 URL。
+成員權杖可用於插入整合式服務合作夥伴的唯一值。 成員權杖的常見用途為網路研討會出席者的唯一 URL。 每個使用者都有唯一 URL，可用於存取可使用 `{{member.webinar url}}` 權杖插入的網路研討會。 `{{member.webinar url}}`權杖會自動解析服務提供者產生的個人唯一確認URL。
 
 * `{{member.webinar url}}`
 

@@ -12,7 +12,7 @@ feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
 source-wordcount: 348
 ht-degree: 62%
@@ -21,7 +21,7 @@ ht-degree: 62%
 
 # 引導式登陸頁面範本清單 {#guided-landing-page-template-list}
 
-瀏覽範例範本的集合，以搭配[引導式登陸頁面編輯器](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)使用。 每個範本都能完全回應，並以Bootstrap架構為基礎。
+瀏覽範例範本集合，以搭配[引導式登陸頁面編輯器](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)使用。 每個範本都能完全回應，並以Bootstrap架構為基礎。
 
 >[!NOTE]
 >
@@ -31,10 +31,10 @@ ht-degree: 62%
 
 1. 按一下範本名稱即可檢視大圖。
 1. 下載所選的範本。
-1. 在Marketo中，導覽至&#x200B;**[!UICONTROL Design Studio].**
-1. 按一下左側樹狀結構中的&#x200B;**[!UICONTROL Landing Pages]**，然後選取&#x200B;**[!UICONTROL Templates].**
+1. 在Marketo中導覽至&#x200B;**[!UICONTROL Design Studio]**。
+1. 按一下左側樹狀結構中的&#x200B;**[!UICONTROL Landing Pages]**，然後選取&#x200B;**[!UICONTROL Templates]**。
 
-1. 在功能表列中，按一下&#x200B;**[!UICONTROL Import Template].**
+1. 在功能表列中，按一下&#x200B;**[!UICONTROL Import Template]**。
 1. 選擇下載的檔案，輸入範本名稱，然後按一下&#x200B;**[!UICONTROL Import]** （請確定選取描述性名稱並指示編輯模式為&#x200B;**[!UICONTROL Guided]**）。
 
 <table>

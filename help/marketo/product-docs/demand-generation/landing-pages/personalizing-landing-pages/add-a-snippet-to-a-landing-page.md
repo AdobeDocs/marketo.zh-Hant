@@ -15,16 +15,16 @@ subfeature_v2:
   - id: df8eb12b-4f82-491f-acbb-d74012ca5654
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 112
+source-wordcount: 110
 ht-degree: 12%
 
 ---
 
 # 新增程式碼片段至登陸頁面 {#add-a-snippet-to-a-landing-page}
 
-程式碼片段是HTML的小片段，可遵循規則並保留個人化內容。
+程式碼片段是可重複使用的HTML區塊，可遵循規則並儲存個人化內容。
 
 >[!PREREQUISITES]
 >
@@ -50,4 +50,4 @@ ht-degree: 12%
    >
    >如果您想要將程式碼片段新增至引導式登陸頁面，請參閱[本文章](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)。
 
-棒極了！ 現在您知道如何將程式碼片段新增至登入頁面。
+您現在知道如何將程式碼片段新增至登入頁面。

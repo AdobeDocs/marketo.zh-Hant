@@ -10,10 +10,10 @@ product_v2:
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 376
-ht-degree: 7%
+source-wordcount: 365
+ht-degree: 6%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 7%
 >
 >[為您的自由格式登陸頁面新增行動裝置檢視](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)
 
-您的自由表單登陸頁面的行動裝置檢視大多是自動的，但您可以加以自訂。 方法如下。
+您的自由表單登陸頁面的行動裝置檢視大多是自動的，但您可以加以自訂。
 
 1. 選取您的自由格式登陸頁面。
 
@@ -51,7 +51,7 @@ ht-degree: 7%
 
 ![](assets/image2015-5-21-15-3a12-3a2.png)
 
-## 重要須知： {#important-things-to-know}
+## 重要須知 {#important-things-to-know}
 
 * 影像會擴展至行動裝置的寬度。 如果您想要較小的影像，請拉入RTF元素並從那裡新增影像。
 * 僅使用Forms 2.0表單。 它們會回應式，並會自動調整。
@@ -63,13 +63,13 @@ ht-degree: 7%
 
 >[!TIP]
 >
->在行動裝置上越少越好。 使用更少字詞，讓客戶更快樂。
+>在行動裝置上越少越好。
 
 1. 若要隱藏元素，請按一下行動欄下方的對應核取方塊。
 
    ![](assets/image2015-5-21-15-3a28-3a17.png)
 
-1. 完美！ 該元素將不再會顯示在您的行動檢視中。
+1. 該元素將不再會顯示在您的行動檢視中。
 
    ![](assets/image2015-5-21-15-3a30-3a17.png)
 
@@ -77,7 +77,7 @@ ht-degree: 7%
 
 >[!TIP]
 >
->製作特殊（較短）內容，僅供行動檢視使用。
+>縮短行動檢視的內容。
 
 1. 若要新增元素，請將其拖放至自由格式的登陸頁面。
 
@@ -97,15 +97,15 @@ ht-degree: 7%
 
    ![](assets/image2015-5-21-15-3a36-3a35.png)
 
-1. 想看點很酷的東西嗎？ 選取「**[!UICONTROL Side By Side]**」。
+1. 選取&#x200B;**[!UICONTROL Side By Side]**&#x200B;以同時比較案頭和行動版本。
 
    ![](assets/image2015-1-22-20-3a2-3a15.png)
 
-1. 現在，您可以同時看到登入頁面的桌上型電腦和行動版本！
+1. 您現在可以同時檢視登入頁面的案頭和行動版本。
 
    ![](assets/image2015-1-22-20-3a3-3a22.png)
 
-1. 如果您喜歡，請按一下&#x200B;**[!UICONTROL Approve and Close]**。
+1. 按一下「**[!UICONTROL Approve and Close]**」。
 
    ![](assets/image2015-1-22-20-3a5-3a36.png)
 
@@ -113,7 +113,6 @@ ht-degree: 7%
    >
    >預覽不是互動式。 每部智慧型手機的顯示方式都有點不同。 我們建議您在幾個裝置上預覽您的登陸頁面，以檢視登陸頁面的確切行為。
 
-祝您有愉快的使用體驗！
 
 >[!MORELIKETHIS]
 >

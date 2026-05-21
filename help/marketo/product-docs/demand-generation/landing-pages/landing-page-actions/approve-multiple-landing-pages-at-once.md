@@ -9,10 +9,10 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 91
-ht-degree: 16%
+source-wordcount: 86
+ht-degree: 18%
 
 ---
 
@@ -34,11 +34,11 @@ ht-degree: 16%
    >
    >請勿按一下實際的登陸頁面名稱，這些是連結，會帶您前往頁面本身。
 
-1. 選取登陸頁面後，按一下&#x200B;**登陸頁面動作**&#x200B;下拉式清單，然後選取&#x200B;**核准**。
+1. 選取您的登入頁面後，按一下&#x200B;**[!UICONTROL Landing Page Actions]**&#x200B;下拉式清單並選取&#x200B;**[!UICONTROL Approve]**。
 
    ![](assets/approve-multiple-landing-pages-at-once-4.png)
 
-1. 按一下&#x200B;**核准**。
+1. 按一下「**[!UICONTROL Approve]**」。
 
    ![](assets/approve-multiple-landing-pages-at-once-5.png)
 
