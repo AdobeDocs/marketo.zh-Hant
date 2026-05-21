@@ -5,8 +5,10 @@ title: 新增自訂 HTML 至自由格式登陸頁面
 exl-id: 1bcb215b-d291-42a5-be74-2c78f151384e
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/SxcMmBYB5tq4xcwlpAvP-1y39nZPS7Xp0jylXdNwVoU
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
 source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
 source-wordcount: 163
