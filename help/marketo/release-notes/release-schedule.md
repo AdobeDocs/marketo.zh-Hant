@@ -5,9 +5,12 @@ title: 發行排程
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
 TQID: https://experienceleague.adobe.com/qWeyxsBXYxKLSJvq6SfpXsBsocY3eLGROIO8EcZlkMw
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: 94c38b1a49aa08434e79647c10671b93b03ed360
 workflow-type: tm+mt
 source-wordcount: 160
