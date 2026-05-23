@@ -18,7 +18,7 @@ ht-degree: 4%
 
 # 範本 8C {#template-8c}
 
-按一下滑鼠右鍵以[下載範本8C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8c.html)
+按一下滑鼠右鍵以[下載範本8C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8c.html?lang=zh-Hant)
 
 ![](assets/image2015-7-29-14-3a12-3a24.png)
 
@@ -34,4 +34,4 @@ ht-degree: 4%
 
 **在下方按一下滑鼠右鍵以下載此範本：**
 
-[範本8C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8c.html)
+[範本8C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8c.html?lang=zh-Hant)

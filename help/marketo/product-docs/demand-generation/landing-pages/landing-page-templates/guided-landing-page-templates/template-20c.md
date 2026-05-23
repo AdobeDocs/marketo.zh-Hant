@@ -18,7 +18,7 @@ ht-degree: 5%
 
 # 範本 20C {#template-20c}
 
-按一下滑鼠右鍵以[下載範本20C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20c.html)
+按一下滑鼠右鍵以[下載範本20C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20c.html?lang=zh-Hant)
 
 ![](assets/template-20c.png)
 
@@ -33,4 +33,4 @@ ht-degree: 5%
 
 **在下方按一下滑鼠右鍵以下載此範本：**
 
-[範本20C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20c.html)
+[範本20C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20c.html?lang=zh-Hant)

@@ -18,7 +18,7 @@ ht-degree: 5%
 
 # 範本 3D {#template-3d}
 
-按一下滑鼠右鍵以[下載範本3D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html)
+按一下滑鼠右鍵以[下載範本3D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html?lang=zh-Hant)
 
 ![](assets/image2015-6-15-11-3a29-3a7.png)
 
@@ -34,4 +34,4 @@ ht-degree: 5%
 
 **在下方按一下滑鼠右鍵以下載此範本：**
 
-[範本3D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html)
+[範本3D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html?lang=zh-Hant)

@@ -59,7 +59,7 @@ ht-degree: 4%
 <tbody>
   <tr>
     <td>使用者</td>
-    <td><li>基於安全理由，記錄您執行個體中的<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank">目前使用者</a>。 以下詳細資料應至少包含在內（前往「管理員&gt;使用者和角色」即可全部看到）：</li>
+    <td><li>基於安全理由，記錄您執行個體中的<a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank">目前使用者</a>。 以下詳細資料應至少包含在內（前往「管理員&gt;使用者和角色」即可全部看到）：</li>
     <ul>
     <li>名稱</li>
     <li>電子郵件</li>
