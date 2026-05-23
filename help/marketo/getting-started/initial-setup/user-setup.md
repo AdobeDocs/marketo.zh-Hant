@@ -59,9 +59,9 @@ ht-degree: 6%
   </tr>
   <tr>
     <td>使用者</td>
-    <td><li>建立原則於何時<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.html">建立使用者</a>。</li> <li>在何時移除使用者時建立原則。</li>
+    <td><li>建立原則於何時<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.html?lang=zh-Hant">建立使用者</a>。</li> <li>在何時移除使用者時建立原則。</li>
     <p><img src="assets/note-icon.png" alt="附註圖示"> 注意：您必須是系統管理員才能移除使用者。
-    <li>決定應該擁有<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html?lang=zh-Hant">Adobe系統管理員和Marketo Engage產品管理員許可權的使用者。</a> <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user">將使用者</a>新增到所需的產品設定檔。</li>
+    <li>決定應該擁有<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html?lang=zh-Hant">Adobe系統管理員和Marketo Engage產品管理員許可權的使用者。</a> <li><a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user">將使用者</a>新增到所需的產品設定檔。</li>
     <li>為每個API使用案例建立一個API使用者。</li></td>
   </tr>
   <tr>

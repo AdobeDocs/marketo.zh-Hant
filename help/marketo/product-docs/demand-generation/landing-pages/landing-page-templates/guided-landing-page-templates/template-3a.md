@@ -18,7 +18,7 @@ ht-degree: 4%
 
 # 範本 3A {#template-3a}
 
-按一下滑鼠右鍵以[下載範本3A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3a.html)
+按一下滑鼠右鍵以[下載範本3A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3a.html?lang=zh-Hant)
 
 ![](assets/image2015-6-12-9-3a2-3a8.png)
 
@@ -34,4 +34,4 @@ ht-degree: 4%
 
 **在下方按一下滑鼠右鍵以下載此範本：**
 
-[範本3A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3a.html)
+[範本3A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3a.html?lang=zh-Hant)
