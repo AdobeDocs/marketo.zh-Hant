@@ -11,7 +11,7 @@ feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 94c38b1a49aa08434e79647c10671b93b03ed360
+source-git-commit: 854fee409fb55c8f611ee85225bea6ab77036dff
 workflow-type: tm+mt
 source-wordcount: 160
 ht-degree: 79%
@@ -57,7 +57,7 @@ _發行日期/功能可能會有所變更_
   <tr>
   <td><a href="/help/marketo/release-notes/current.md">2026 年 5 月</a></td>
    <td>2026年5月22日</td>
-   <td>準時發行</td>
+   <td>進行中</td>
   </tr>
   <tr>
   <td>』26年6月</td>
