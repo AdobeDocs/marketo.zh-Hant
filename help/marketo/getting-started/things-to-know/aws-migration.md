@@ -4,10 +4,10 @@ title: AWS移轉
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 12c00719acd28ad2063b423eb14c866f495ac757
+source-git-commit: 5a260c00311588c3a55f176e7a7977f422bcc8a4
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 0%
+source-wordcount: '298'
+ht-degree: 1%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 * **檢閱並更新IP允許清單**，以取得登入、API存取、電子郵件傳送、網頁追蹤和整合。
 
-* 新增下列IP位址，並將您目前的IP維持原狀：
+* **新增下列IP位址**，並將您目前的IP保持原樣：
 
    * 54.160.246.246
    * 54.237.141.197
@@ -44,6 +44,35 @@ ht-degree: 0%
 * **CRM整合和LaunchPoint服務**&#x200B;將會停用，但之後應該會自動繼續。
 * **登陸頁面、表單和資料彙集**&#x200B;將無法使用，而將會顯示維護訊息。
 
+## 排程 {#schedule}
+
+新的日期和資料中心/Pod資訊會定期新增，因此請務必回到這裡檢視詳細資訊。
+
+在檢閱下清單格之前，[請先瞭解如何識別](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify)您的訂閱所在的資料中心和pod/伺服器。
+
+<table>
+ <tbody>
+  <tr>
+   <th style="width:75%">日期</th>
+   <th style="width:25%">Pod</th>
+  </tr>
+  <tr>
+   <td>2026年6月5日</td>
+   <td>AB46</td>
+  </tr>
+  <tr>
+   <td>2026年7月8日</td>
+   <td>AB69<br>
+   AB64</td>
+  </tr>
+  <tr>
+   <td>2026年7月9日</td>
+   <td>AB70<br>
+   AB43</td>
+  </tr>
+  </body>
+  </table>
+
 ## 更新與支援
 
-如需最新更新，請將此頁面加入書籤。 如果您有任何問題，請透過Admin Console的支援入口網站或[Experience League](https://experienceleague.adobe.com/zh-hant/support)聯絡Adobe支援。
+如需最新更新，請將此頁面加入書籤。 如果您有任何問題，請透過Admin Console的支援入口網站或[Experience League](https://experienceleague.adobe.com/en/support)聯絡Adobe支援。
