@@ -16,10 +16,10 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 7853491f53bd2f7d5ec6e63189c1e8b77b4b5349
+source-git-commit: 365a2c3767c8c3e3455361ac5c2a0e070796cbfa
 workflow-type: tm+mt
-source-wordcount: 543
-ht-degree: 23%
+source-wordcount: 700
+ht-degree: 19%
 
 ---
 
@@ -86,6 +86,50 @@ ht-degree: 23%
    </td>
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Dynamic Chat — 正在輸入</strong>：現在訪客和代理程式都會看到「正在輸入……」 輸入時通知，防止一方打斷另一方。
+   </td>
+   <td>已發行</td>
+   <td>不適用</td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Dynamic Chat - Marketo挑選清單/下拉式欄位</strong>： Marketo挑選清單/下拉式人員欄位（包括Salesforce同步的值）現在可在聊天設定檔編輯器中作為下拉式值使用。
+   </td>
+   <td>已發行</td>
+   <td>不適用</td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Dynamic Chat — 已錯過聊天狀態</strong>：現在，當代理程式不接受聊天時，新的「已錯過聊天」狀態將會顯示在已進行聊天之人員的「活動詳細資料」中。
+   </td>
+   <td>已發行</td>
+   <td>不適用</td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Dynamic Chat — 新屬性同步處理行為</strong>：之前，新增新屬性會在同步處理完成時最多封鎖環境24小時的變更，以防止對話方塊編輯和發佈。 現在，雖然新增屬性仍需要完全資料同步（可能需要24小時），在此過程中環境不再封鎖。
+   </td>
+   <td>已發行</td>
+   <td>不適用</td>
   </tr>
   </tbody>
 </table>
