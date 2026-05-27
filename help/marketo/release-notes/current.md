@@ -16,9 +16,9 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 365a2c3767c8c3e3455361ac5c2a0e070796cbfa
+source-git-commit: 24293b38dc097aa69b8716b367ac9c3a63279bfc
 workflow-type: tm+mt
-source-wordcount: 700
+source-wordcount: 704
 ht-degree: 19%
 
 ---
@@ -115,7 +115,7 @@ ht-degree: 19%
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat — 已錯過聊天狀態</strong>：現在，當代理程式不接受聊天時，新的「已錯過聊天」狀態將會顯示在已進行聊天之人員的「活動詳細資料」中。
+   <td><strong>Dynamic Chat — 錯過聊天狀態</strong>：當代理程式不接受聊天時，新的「錯過聊天」狀態會顯示在聊天者之個人記錄的「活動詳細資料」中。
    </td>
    <td>已發行</td>
    <td>不適用</td>
@@ -126,7 +126,7 @@ ht-degree: 19%
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat — 新屬性同步處理行為</strong>：之前，新增新屬性會在同步處理完成時最多封鎖環境24小時的變更，以防止對話方塊編輯和發佈。 現在，雖然新增屬性仍需要完全資料同步（可能需要24小時），在此過程中環境不再封鎖。
+   <td><strong>Dynamic Chat — 新屬性同步處理行為</strong>：之前，新增新屬性會在同步處理完成時最多封鎖環境24小時的變更，以防止對話方塊編輯和發佈。 現在，雖然新增屬性仍需要完全資料同步（這最多可能需要24小時），在此過程中環境不再封鎖。
    </td>
    <td>已發行</td>
    <td>不適用</td>
