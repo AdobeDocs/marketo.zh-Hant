@@ -4,21 +4,13 @@ title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
 TQID: https://experienceleague.adobe.com/QJFy7PeGXlvS3jcJGcZJROlc8c1UvphO-TOOwPUQeX8
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: c942e9f6-ed06-481a-abdd-1195363d1452
-topic_v2:
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 365a2c3767c8c3e3455361ac5c2a0e070796cbfa
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: f71e690b-4480-4b67-9ef5-88f42f9cdfdbid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: c942e9f6-ed06-481a-abdd-1195363d1452
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 24293b38dc097aa69b8716b367ac9c3a63279bfc
 workflow-type: tm+mt
-source-wordcount: 700
+source-wordcount: 704
 ht-degree: 19%
 
 ---
@@ -43,8 +35,8 @@ ht-degree: 19%
   <tr>
    <td><strong>Marketo AI</strong>：利用一套代理程式，將耗時但重要的行銷功能自動化（現在提供兩個代理程式，即將推出更多代理程式）。
 </td>
-   <td>可用性有限（<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode">要求在此存取</a>）</td>
-   <td><a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/marketo-ai/overview">Marketo AI總覽</a></td>
+   <td>可用性有限（<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&amp;origin=QRCode">要求在此存取</a>）</td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-ai/overview">Marketo AI總覽</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -58,7 +50,7 @@ ht-degree: 19%
   </tr>
   <tr>
    <td><strong>Marketo Engage MCP伺服器</strong>： Marketo Engage MCP伺服器可做為您AI助理與Marketo Engage之間的橋樑。 它會公開超過100項操作，涵蓋表單、方案、智慧行銷活動、人員/銷售機會、電子郵件、代碼片段、清單和資料夾。</td>
-   <td>可用性有限（<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode">要求在此存取</a>）</td>
+   <td>可用性有限（<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&amp;origin=QRCode">要求在此存取</a>）</td>
    <td><a href="https://experienceleague.corp.adobe.com/docs/marketo-developer/marketo/mcp-server.html">Marketo MCP伺服器</a></td>
   </tr>
   <tr>
@@ -115,7 +107,7 @@ ht-degree: 19%
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat — 已錯過聊天狀態</strong>：現在，當代理程式不接受聊天時，新的「已錯過聊天」狀態將會顯示在已進行聊天之人員的「活動詳細資料」中。
+   <td><strong>Dynamic Chat — 錯過聊天狀態</strong>：當代理程式不接受聊天時，新的「錯過聊天」狀態會顯示在聊天者之個人記錄的「活動詳細資料」中。
    </td>
    <td>已發行</td>
    <td>不適用</td>
@@ -126,7 +118,7 @@ ht-degree: 19%
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat — 新屬性同步處理行為</strong>：之前，新增新屬性會在同步處理完成時最多封鎖環境24小時的變更，以防止對話方塊編輯和發佈。 現在，雖然新增屬性仍需要完全資料同步（可能需要24小時），在此過程中環境不再封鎖。
+   <td><strong>Dynamic Chat — 新屬性同步處理行為</strong>：之前，新增新屬性會在同步處理完成時最多封鎖環境24小時的變更，以防止對話方塊編輯和發佈。 現在，雖然新增屬性仍需要完全資料同步（這最多可能需要24小時），在此過程中環境不再封鎖。
    </td>
    <td>已發行</td>
    <td>不適用</td>
