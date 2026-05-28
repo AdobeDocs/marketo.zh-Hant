@@ -3,9 +3,9 @@ description: 原地復製程式會將現有的Marketo程式複製到具有新名
 title: 復製程式
 badge: Beta
 hide: true
-source-git-commit: 69749951d0397a837bee77d16baddc3342f68ec2
+source-git-commit: 54702db63ae356706fceba7dc4c09c70e164612f
 workflow-type: tm+mt
-source-wordcount: '501'
+source-wordcount: '472'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->此功能處於封閉測試版，目前正處於未來幾個月的分階段推出中。 當您在「我的Marketo」畫面上看到&#x200B;_使用AI建置_&#x200B;圖磚，就會知道您的訂閱已啟用此功能。
+>此功能目前處於封閉測試階段。 請勿散佈此檔案。
 
 ## 使用方式 {#how-to-use}
 

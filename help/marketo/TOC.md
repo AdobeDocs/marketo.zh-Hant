@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: 37f7aeb9a3ee5618ae57d5b76e90e0be254caacd
+source-git-commit: 54702db63ae356706fceba7dc4c09c70e164612f
 workflow-type: tm+mt
-source-wordcount: '8896'
+source-wordcount: '8897'
 ht-degree: 96%
 
 ---
@@ -1113,12 +1113,12 @@ ht-degree: 96%
       + {hide-from-toc}[設定和設定](product-docs/marketo-ai/settings-setup-old.md)
       + 專員 {#agents}
          + {hide-from-toc}[產品知識](product-docs/marketo-ai/agents/product-knowledge.md)
-         + {hide-from-toc}[Analytics](product-docs/marketo-ai/agents/analytics.md)
-         + {hide-from-toc}[建立程式](product-docs/marketo-ai/agents/create-program.md)
+         + {hide-from-toc}[表面分析](product-docs/marketo-ai/agents/surface-insights.md)
+         + {hide-from-toc}[建置計畫](product-docs/marketo-ai/agents/create-program.md)
          + {hide-from-toc}[復製程式](product-docs/marketo-ai/agents/clone-program.md)
-         + {hide-from-toc}[調查潛在客戶](product-docs/marketo-ai/agents/investigate-lead.md)
+         + {hide-from-toc}[調查潛在客戶](product-docs/marketo-ai/agents/investigate-leads.md)
          + [匯入銷售機會](product-docs/marketo-ai/agents/import-leads.md)
-         + [程式QA](product-docs/marketo-ai/agents/program-qa.md)
+         + [驗證程式](product-docs/marketo-ai/agents/validate-programs.md)
    + Marketo Engage Modern UX {#marketo-engage-modern-ux}
       + [概觀](product-docs/marketo-engage-modern-ux/overview.md)
       + [使用全域搜尋](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
