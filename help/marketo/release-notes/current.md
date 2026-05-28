@@ -16,10 +16,10 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 24293b38dc097aa69b8716b367ac9c3a63279bfc
+source-git-commit: d63afbeaaa3c1299e73276e2be5d993f575b5fde
 workflow-type: tm+mt
-source-wordcount: 704
-ht-degree: 19%
+source-wordcount: 698
+ht-degree: 18%
 
 ---
 
@@ -52,11 +52,6 @@ ht-degree: 19%
    <td> </td>
   </tr>
   <tr>
-   <th style="width:65%">功能</th>
-   <th style="width:10%">狀態</th>
-   <th style="width:25%">文件</th>
-  </tr>
-  <tr>
    <td><strong>Marketo Engage MCP伺服器</strong>： Marketo Engage MCP伺服器可做為您AI助理與Marketo Engage之間的橋樑。 它會公開超過100項操作，涵蓋表單、方案、智慧行銷活動、人員/銷售機會、電子郵件、代碼片段、清單和資料夾。</td>
    <td>可用性有限（<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode">要求在此存取</a>）</td>
    <td><a href="https://experienceleague.corp.adobe.com/docs/marketo-developer/marketo/mcp-server.html">Marketo MCP伺服器</a></td>
@@ -65,11 +60,6 @@ ht-degree: 19%
    <td> </td>
    <td> </td>
    <td> </td>
-  </tr>
- <tr>
-   <th style="width:65%">功能</th>
-   <th style="width:10%">狀態</th>
-   <th style="width:25%">文件</th>
   </tr>
   <tr>
    <td><strong>電子郵件Designer — 電子郵件片段的條件式內容</strong>： <i>與舊電子郵件編輯器的對等性</i>。 片段現在支援條件式內容。</td>
