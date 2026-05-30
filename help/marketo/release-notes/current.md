@@ -16,9 +16,9 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: d63afbeaaa3c1299e73276e2be5d993f575b5fde
+source-git-commit: db3d673399917ad24559a88931972beaf4ea40a5
 workflow-type: tm+mt
-source-wordcount: 698
+source-wordcount: 655
 ht-degree: 18%
 
 ---
@@ -74,8 +74,8 @@ ht-degree: 18%
   <tr>
    <td><strong>挑選清單管理</strong>：您現在可以指定可以在Marketo Engage的欄位中使用的值。
    </td>
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+   <td>已發行</td>
+   <td><a href="/help/marketo/product-docs/administration/field-management/picklist-management.md">挑選清單管理</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -83,7 +83,7 @@ ht-degree: 18%
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat — 正在輸入</strong>：現在訪客和代理程式都會看到「正在輸入……」 輸入時通知，防止一方打斷另一方。
+   <td><strong>Dynamic Chat — 正在輸入</strong>：現在訪客和代理程式在另一方輸入時都會看到「正在輸入……」通知，以防止一方中斷另一方。
    </td>
    <td>已發行</td>
    <td>不適用</td>
@@ -116,7 +116,7 @@ ht-degree: 18%
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat — 新屬性同步處理行為</strong>：之前，新增新屬性會在同步處理完成時最多封鎖環境24小時的變更，以防止對話方塊編輯和發佈。 現在，雖然新增屬性仍需要完全資料同步（這最多可能需要24小時），在此過程中環境不再封鎖。
+   <td><strong>Dynamic Chat — 新屬性同步處理行為</strong>：之前，新增新屬性會在同步處理完成時最多封鎖環境24小時的變更，以防止對話方塊編輯和發佈。現在，雖然新增屬性仍需要完全資料同步（這最多可能需要24小時），在此過程中環境不再封鎖。
    </td>
    <td>已發行</td>
    <td>不適用</td>
