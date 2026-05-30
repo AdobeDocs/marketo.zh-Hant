@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: 54702db63ae356706fceba7dc4c09c70e164612f
+source-git-commit: db3d673399917ad24559a88931972beaf4ea40a5
 workflow-type: tm+mt
 source-wordcount: '8897'
 ht-degree: 96%
@@ -34,7 +34,7 @@ ht-degree: 96%
       + [傳統圖示字彙表](getting-started/things-to-know/classic-icon-glossary.md)
       + [說明中心](getting-started/things-to-know/help-center.md)
       + [訂閱系統狀態通知](getting-started/things-to-know/system-status-notifications.md)
-      + {hide-from-toc}[產品知識的AI助理](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
+      + 產品知識的{hide-from-toc}[AI助理](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
       + {hide-from-toc}[行銷國家社群](getting-started/things-to-know/community.md)
       + {hide-from-toc}[AWS移轉](getting-started/things-to-know/aws-migration.md)
    + 快速成果 {#quick-wins}
@@ -131,7 +131,7 @@ ht-degree: 96%
          + [隱藏和取消隱藏欄位](product-docs/administration/field-management/hide-and-unhide-a-field.md)
          + [電子郵件中的 HTML 編碼權杖](product-docs/administration/field-management/html-encode-tokens-in-emails.md)
          + [將欄位標記為敏感](product-docs/administration/field-management/mark-a-field-as-sensitive.md)
-         + {hide-from-toc}[挑選清單管理](product-docs/administration/field-management/picklist-management.md)
+         + [挑選清單管理](product-docs/administration/field-management/picklist-management.md)
          + [重新命名欄位](product-docs/administration/field-management/rename-a-field.md)
          + [了解系統管理欄位](product-docs/administration/field-management/understanding-system-managed-fields.md)
          + [檢視 Marketo 和 Salesforce 之間的欄位對應](product-docs/administration/field-management/view-field-mappings-between-marketo-and-salesforce.md)
