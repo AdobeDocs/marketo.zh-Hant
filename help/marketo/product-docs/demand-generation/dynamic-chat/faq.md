@@ -4,16 +4,12 @@ title: Dynamic Chat常見問題集
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
 TQID: https://experienceleague.adobe.com/IpAD0KUETdl3o4UTUS-PBWhtCTY1N7k83qeyGkKnan8
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: cc2b43cd0e963803d1998bd8438f066d74303e67
 workflow-type: tm+mt
-source-wordcount: 922
+source-wordcount: 963
 ht-degree: 1%
 
 ---
@@ -29,6 +25,10 @@ ht-degree: 1%
 **我可以在公司網站上的任何地方安裝Dynamic Chat，還是只能在Marketo登陸頁面上運作？**
 
 Dynamic Chat JavaScript程式碼片段可安裝在任何網站以及Marketo登陸頁面上。
+
+**我有Dynamic Chat，但在「我的Marketo」中看不到Dynamic Chat磚。 我要如何取得？**
+
+從experience.adobe.com上的「應用程式」功能表存取Dynamic Chat，並透過&#x200B;**設定** > **整合**&#x200B;連線至Marketo。 連線之後，圖磚會出現。
 
 **資料會儲存多久以用於報告？**
 
@@ -70,7 +70,7 @@ Dynamic Chat不支援AI/NLP功能。
 
 對話方塊的設計僅向訪客顯示一次。 因此，當訪客到達對話方塊中任何指定分支的結尾時，該對話方塊就會被視為完成，且不會再向該訪客顯示。
 
-**當我在「我的Marketo」中按一下Dynamic Chat圖磚並登入Adobe Experience Cloud時，為何會收到下列訊息？ _您的Adobe ID似乎未連結Adobe Experience Cloud解決方案帳戶_。&quot;**
+**當我在Marketo中按一下Dynamic Chat圖磚並登入Adobe Experience Cloud時，為何會收到下列訊息？ _您的Adobe ID似乎未連結Adobe Experience Cloud解決方案帳戶_。&quot;**
 
 這很可能表示您尚未在Adobe Admin Console中新增為Dynamic Chat使用者。 請連絡您Adobe組織的系統管理員或Dynamic Chat的產品管理員，以要求Dynamic Chat的存取權。
 
@@ -102,7 +102,7 @@ Dynamic Chat透過Salesforce整合與Marketo Engage Salesforce整合。
 
 Dynamic Chat中使用多個辭彙。 其中許多的定義可在各自區域的說明文章中找到。
 
-* 您可以在此找到「已取得人員」之類的Analytics辭彙[&#128279;](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions){target="_blank"}。
+* 您可以在此找到「已取得人員」之類的Analytics辭彙[](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions){target="_blank"}。
 * 智慧清單觸發程式/篩選器定義[可以在這裡找到](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md#definitions){target="_blank"}。
 * 各種串流Designer卡片[的說明可在此找到](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards){target="_blank"}。
 
