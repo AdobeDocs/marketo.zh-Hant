@@ -7,10 +7,10 @@ feature: Salesforce Integration
 TQID: https://experienceleague.adobe.com/kPzDEdjDnDAvuJmCtPj0I2Lfl63Lset00t-LwB8DDhI
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 67c57a9162946c4b9c424ab3fd445b70e90b530a
 workflow-type: tm+mt
-source-wordcount: 158
-ht-degree: 8%
+source-wordcount: 176
+ht-degree: 10%
 
 ---
 
@@ -18,17 +18,15 @@ ht-degree: 8%
 
 如果您的Marketo同步使用者設為英文以外的語言，當您嘗試啟用自訂物件同步時，可能會發生錯誤。
 
-## 錯誤 {#the-error}
-
 ![](assets/image2014-12-10-13-3a17-3a51.png)
 
-## 繞過它 {#getting-around-it}
+## 如何修正 {#how-to-fix}
 
 1. 使用marketo同步使用者登入[!DNL Salesforce]。
 
    ![](assets/image2014-12-10-13-3a18-3a1.png)
 
-1. 在使用者名稱底下，移至&#x200B;**[!UICONTROL Setup]**。
+1. 按一下使用者名稱下拉式清單，然後選取&#x200B;**[!UICONTROL Setup]**。
 
    ![](assets/image2014-12-10-13-3a18-3a11.png)
 
@@ -48,19 +46,23 @@ ht-degree: 8%
 
    ![](assets/image2014-12-10-13-3a18-3a55.png)
 
-1. 返回Marketo，在&#x200B;**[!UICONTROL Admin]** > **[!UICONTROL Salesforce]** > **[!UICONTROL Objects]**&#x200B;下，按一下&#x200B;**[!UICONTROL Refresh Schema]**。
+1. 在您的[Adobe帳戶設定檔](https://account.adobe.com/tw/profile){target="_blank"}中，向下捲動至&#x200B;**[!UICONTROL Preferred languages]**，並確定您的第一語言已設定為英文。
+
+   ![](assets/enable-non-english-custom-object-sync-step-6.5.png)
+
+1. 在Marketo Engage中，導覽至&#x200B;**[!UICONTROL Admin]** > **[!UICONTROL Salesforce]** > **[!UICONTROL Objects]**。 按一下「**[!UICONTROL Refresh Schema]**」。
 
    ![](assets/image2014-12-10-13-3a19-3a6.png)
 
-1. 這將會提取英文的物件清單。 現在選取您選擇的物件，然後按一下&#x200B;**[!UICONTROL Enable Sync]**。
+1. 這會拉出英文的物件清單。 選取您選擇的物件並按一下&#x200B;**[!UICONTROL Enable Sync]**。
 
    ![](assets/image2014-12-10-13-3a19-3a16.png)
 
-1. 請注意，您的自訂物件現已啟用且正在同步。
+1. 您的自訂物件現在已啟用且正在同步。
 
    ![](assets/image2014-12-10-13-3a19-3a26.png)
 
-1. 現在返回[!DNL Salesforce]並使用上述步驟將同步使用者變更為您偏好的語言。
+1. 返回[!DNL Salesforce]並使用上述步驟將同步使用者變回您偏好的語言。
 
 >[!NOTE]
 >
