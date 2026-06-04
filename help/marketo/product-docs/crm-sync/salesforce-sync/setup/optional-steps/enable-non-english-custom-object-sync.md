@@ -5,7 +5,8 @@ title: 啟用非英語自訂物件同步
 exl-id: 5d1c5b52-5323-4f68-847b-7d24e6acd6c4
 feature: Salesforce Integration
 TQID: https://experienceleague.adobe.com/kPzDEdjDnDAvuJmCtPj0I2Lfl63Lset00t-LwB8DDhI
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: 67c57a9162946c4b9c424ab3fd445b70e90b530a
 workflow-type: tm+mt
 source-wordcount: 176
