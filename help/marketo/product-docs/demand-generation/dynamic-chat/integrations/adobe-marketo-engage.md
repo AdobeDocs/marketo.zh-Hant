@@ -15,9 +15,9 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: cc2b43cd0e963803d1998bd8438f066d74303e67
 workflow-type: tm+mt
-source-wordcount: 293
+source-wordcount: 317
 ht-degree: 3%
 
 ---
@@ -38,7 +38,7 @@ ht-degree: 3%
 
    >[!NOTE]
    >
-   >如果沒有看見圖磚，請聯絡您的Marketo管理員。
+   >如果您在「我的Marketo」畫面中看不到Dynamic Chat動態磚，請在experience.adobe.com上從「應用程式」功能表存取Dynamic Chat，並透過&#x200B;**設定** > **整合**&#x200B;連線至Marketo。 連線之後，圖磚會出現。
 
 1. 如果您先前曾透過Adobe ID存取應用程式，您將會直接進入Dynamic Chat。 如果沒有，[請設定您的Adobe ID](https://helpx.adobe.com/tw/manage-account/using/create-update-adobe-id.html){target="_blank"}。
 

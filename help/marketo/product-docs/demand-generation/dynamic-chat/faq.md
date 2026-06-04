@@ -11,9 +11,9 @@ feature_v2:
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: cc2b43cd0e963803d1998bd8438f066d74303e67
 workflow-type: tm+mt
-source-wordcount: 922
+source-wordcount: 963
 ht-degree: 1%
 
 ---
@@ -29,6 +29,10 @@ ht-degree: 1%
 **我可以在公司網站上的任何地方安裝Dynamic Chat，還是只能在Marketo登陸頁面上運作？**
 
 Dynamic Chat JavaScript程式碼片段可安裝在任何網站以及Marketo登陸頁面上。
+
+**我有Dynamic Chat，但在「我的Marketo」中看不到Dynamic Chat磚。 我要如何取得？**
+
+從experience.adobe.com上的「應用程式」功能表存取Dynamic Chat，並透過&#x200B;**設定** > **整合**&#x200B;連線至Marketo。 連線之後，圖磚會出現。
 
 **資料會儲存多久以用於報告？**
 
@@ -70,7 +74,7 @@ Dynamic Chat不支援AI/NLP功能。
 
 對話方塊的設計僅向訪客顯示一次。 因此，當訪客到達對話方塊中任何指定分支的結尾時，該對話方塊就會被視為完成，且不會再向該訪客顯示。
 
-**當我在「我的Marketo」中按一下Dynamic Chat圖磚並登入Adobe Experience Cloud時，為何會收到下列訊息？ _您的Adobe ID似乎未連結Adobe Experience Cloud解決方案帳戶_。&quot;**
+**當我在Marketo中按一下Dynamic Chat圖磚並登入Adobe Experience Cloud時，為何會收到下列訊息？ _您的Adobe ID似乎未連結Adobe Experience Cloud解決方案帳戶_。&quot;**
 
 這很可能表示您尚未在Adobe Admin Console中新增為Dynamic Chat使用者。 請連絡您Adobe組織的系統管理員或Dynamic Chat的產品管理員，以要求Dynamic Chat的存取權。
 
