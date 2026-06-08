@@ -5,16 +5,13 @@ title: 發行排程
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
 TQID: https://experienceleague.adobe.com/qWeyxsBXYxKLSJvq6SfpXsBsocY3eLGROIO8EcZlkMw
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-topic_v2:
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 854fee409fb55c8f611ee85225bea6ab77036dff
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: d8620eadc64a918d1932739ca1794d5030cc4941
 workflow-type: tm+mt
-source-wordcount: 160
-ht-degree: 79%
+source-wordcount: 165
+ht-degree: 76%
 
 ---
 
@@ -57,15 +54,15 @@ _發行日期/功能可能會有所變更_
   <tr>
   <td><a href="/help/marketo/release-notes/current.md">2026 年 5 月</a></td>
    <td>2026年5月22日</td>
-   <td>進行中</td>
+   <td>完成</td>
   </tr>
   <tr>
-  <td>』26年6月</td>
-   <td>2026年6月26日</td>
+  <td>2026年7月(1/2)</td>
+   <td>2026年7月10日</td>
    <td>準時發行</td>
   </tr>
   <tr>
-  <td>2026年7月</td>
+  <td>2026年7月(2/2)</td>
    <td>2026年7月31日</td>
    <td>準時發行</td>
   </tr>
