@@ -16,9 +16,9 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: f5b235bda9063b8f54321fd62f2c9d5f4442c783
+source-git-commit: d8620eadc64a918d1932739ca1794d5030cc4941
 workflow-type: tm+mt
-source-wordcount: 655
+source-wordcount: 654
 ht-degree: 18%
 
 ---
@@ -63,8 +63,8 @@ ht-degree: 18%
   </tr>
   <tr>
    <td><strong>電子郵件Designer — 電子郵件片段的條件式內容</strong>： <i>與舊電子郵件編輯器的對等性</i>。 片段現在支援條件式內容。</td>
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+   <td>已發行</td>
+   <td>不適用</td>
   </tr>
   <tr>
    <td> </td>
