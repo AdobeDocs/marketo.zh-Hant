@@ -44,7 +44,7 @@ ht-degree: 18%
    <td><strong>Marketo AI</strong>：利用一套代理程式，將耗時但重要的行銷功能自動化（現在提供兩個代理程式，即將推出更多代理程式）。
 </td>
    <td>可用性有限（<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode">要求在此存取</a>）</td>
-   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-ai/overview">Marketo AI總覽</a></td>
+   <td><a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/marketo-ai/overview">Marketo AI總覽</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -54,7 +54,7 @@ ht-degree: 18%
   <tr>
    <td><strong>Marketo Engage MCP伺服器</strong>： Marketo Engage MCP伺服器可做為您AI助理與Marketo Engage之間的橋樑。 它會公開超過100項操作，涵蓋表單、方案、智慧行銷活動、人員/銷售機會、電子郵件、代碼片段、清單和資料夾。</td>
    <td>可用性有限（<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode">要求在此存取</a>）</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html">Marketo MCP伺服器</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=zh-Hant">Marketo MCP伺服器</a></td>
   </tr>
   <tr>
    <td> </td>
