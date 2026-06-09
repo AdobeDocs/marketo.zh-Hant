@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: c796ac842d937e9b05bc39bc36f3e5645ad68328
+source-git-commit: a1efdaab40e02861b7ee9ceabeb004fdd6c5de57
 workflow-type: tm+mt
-source-wordcount: '8897'
+source-wordcount: '8903'
 ht-degree: 96%
 
 ---
@@ -467,6 +467,9 @@ ht-degree: 96%
                + [傳送範例](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md)
                + [分享重要時刻](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
       + 其他 {#miscellaneous}
+         + {hide-from-toc}[光暈1](product-docs/core-marketo-concepts/miscellaneous/halo-1.md)
+         + {hide-from-toc}[光暈2](product-docs/core-marketo-concepts/miscellaneous/halo-2.md)
+         + {hide-from-toc}[光暈3](product-docs/core-marketo-concepts/miscellaneous/halo-3.md)
          + {hide-from-toc}[設定Adobe Experience Manager整合](product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)
          + [建立新的行銷活動資料夾](product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)
          + {hide-from-toc}[鍵盤快速鍵字彙表](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
