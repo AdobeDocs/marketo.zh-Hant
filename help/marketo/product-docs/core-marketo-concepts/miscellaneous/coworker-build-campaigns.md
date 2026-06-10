@@ -1,9 +1,9 @@
 ---
-description: 待定。
+description: 在CX Enterprise Co-worker中建立電子郵件行銷活動的逐步指南，從撰寫提示到檢閱和匯出行銷活動。
 title: 建立及產生電子郵件行銷活動
-source-git-commit: 69965ea0c32f61bf749fa6fc655854dcca7674b9
+source-git-commit: b58edb707bf68aeed9f1b5eba8328c54a95c5a2f
 workflow-type: tm+mt
-source-wordcount: '1157'
+source-wordcount: '1179'
 ht-degree: 0%
 
 ---
