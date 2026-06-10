@@ -1,16 +1,16 @@
 ---
 description: 瀏覽CX Enterprise Co-worker的即時提示模式，依贏取、參與、事件、轉換和保留行銷活動中的使用案例組織。
 title: 使用案例
-source-git-commit: 69965ea0c32f61bf749fa6fc655854dcca7674b9
+source-git-commit: 1d7b5e3c4c5ca34c10934a659ac9025d2a27c95d
 workflow-type: tm+mt
-source-wordcount: '526'
+source-wordcount: '525'
 ht-degree: 0%
 
 ---
 
 # 使用案例 {#use-cases}
 
-以下是生命週期與成長行銷人員目前在CX Enterprise Co-worker中使用的實際提示模式。 每個區段都設計為可複製、與您自己的對象和品牌詳細資料交換，並在對話中精簡。
+以下是生命週期與成長行銷人員在CX Enterprise Co-worker中使用的實際提示模式。 每個區段都設計為可複製、與您自己的對象和品牌詳細資料交換，並在對話中精簡。
 
 ## 使用方式
 
