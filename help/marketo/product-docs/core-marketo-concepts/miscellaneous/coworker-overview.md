@@ -1,16 +1,16 @@
 ---
 description: 瞭解CX Enterprise Co-worker，這是一種AI原生行銷應用程式，可將單一提示轉換為可供檢閱的行銷活動。
 title: CX Enterprise Co-worker概述
-source-git-commit: e7f73f63bed1158a734d0905ec3e93c247936741
+source-git-commit: 8750337464744e2684bef91d70caa4abcefdcc8c
 workflow-type: tm+mt
-source-wordcount: '836'
+source-wordcount: '835'
 ht-degree: 0%
 
 ---
 
 # CX Enterprise Co-worker概述 {#overview}
 
-CX Enterprise Co-worker是AI原生行銷應用程式，可在數分鐘內將您從單一提示導向可供檢閱的行銷活動。
+CX Enterprise Co-worker是AI原生行銷應用程式，可帶您從單一提示進入可完整檢閱的行銷活動。
 
 ## 如何存取
 
