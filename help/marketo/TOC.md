@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: 69965ea0c32f61bf749fa6fc655854dcca7674b9
+source-git-commit: 279805c50fd1b2d9d36e5e093f1c9d661ad00461
 workflow-type: tm+mt
-source-wordcount: '8905'
+source-wordcount: '8907'
 ht-degree: 96%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 96%
       + [傳統圖示字彙表](getting-started/things-to-know/classic-icon-glossary.md)
       + [說明中心](getting-started/things-to-know/help-center.md)
       + [訂閱系統狀態通知](getting-started/things-to-know/system-status-notifications.md)
-      + {hide-from-toc}[產品知識的AI助理](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
+      + 產品知識的{hide-from-toc}[AI助理](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
       + {hide-from-toc}[行銷國家社群](getting-started/things-to-know/community.md)
       + {hide-from-toc}[AWS移轉](getting-started/things-to-know/aws-migration.md)
    + 快速成果 {#quick-wins}
@@ -468,7 +468,7 @@ ht-degree: 96%
                + [分享重要時刻](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
       + 其他 {#miscellaneous}
          + {hide-from-toc}[同事簡介](product-docs/core-marketo-concepts/miscellaneous/coworker-overview.md)
-         + {hide-from-toc}[同事組建行銷活動](product-docs/core-marketo-concepts/miscellaneous/coworker-build-campaigns.md)
+         + {hide-from-toc}[同事建立電子郵件行銷活動](product-docs/core-marketo-concepts/miscellaneous/coworker-create-an-email-campaign.md)
          + {hide-from-toc}[同事使用案例](product-docs/core-marketo-concepts/miscellaneous/coworker-use-cases.md)
          + {hide-from-toc}[設定Adobe Experience Manager整合](product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)
          + [建立新的行銷活動資料夾](product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)
