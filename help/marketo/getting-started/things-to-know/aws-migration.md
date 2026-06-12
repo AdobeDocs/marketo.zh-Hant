@@ -4,7 +4,7 @@ title: AWS移轉
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 8229c19a046bb9b8f82053475e8f00b5c27370c2
+source-git-commit: 2778f5a4fdc2221b9b46fbda5df90f9e35fa6b9f
 workflow-type: tm+mt
 source-wordcount: '363'
 ht-degree: 3%
