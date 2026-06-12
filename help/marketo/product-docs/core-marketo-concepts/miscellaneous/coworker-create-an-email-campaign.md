@@ -1,7 +1,8 @@
 ---
 description: 在Adobe CX Enterprise Co-worker Campaigns中產生電子郵件行銷活動的逐步指南，從撰寫提示到檢閱和匯出行銷活動。
 title: 建立電子郵件行銷活動
-source-git-commit: 8229c19a046bb9b8f82053475e8f00b5c27370c2
+hide: true
+source-git-commit: 14ea82fe7161fdc9ca6c45937a606774f0144177
 workflow-type: tm+mt
 source-wordcount: '955'
 ht-degree: 0%

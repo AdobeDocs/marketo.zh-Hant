@@ -1,7 +1,8 @@
 ---
 description: 瀏覽Adobe CX Enterprise Co-worker Campaigns的即時提示模式，依贏取、參與、事件、轉換和保留行銷活動中的使用案例來整理。
 title: 使用案例
-source-git-commit: 8229c19a046bb9b8f82053475e8f00b5c27370c2
+hide: true
+source-git-commit: 14ea82fe7161fdc9ca6c45937a606774f0144177
 workflow-type: tm+mt
 source-wordcount: '506'
 ht-degree: 0%
