@@ -1,20 +1,20 @@
 ---
-description: 瀏覽CX Enterprise Co-worker的即時提示模式，依贏取、參與、事件、轉換和保留行銷活動中的使用案例組織。
+description: 瀏覽Adobe CX Enterprise Co-worker Campaigns的即時提示模式，依贏取、參與、事件、轉換和保留行銷活動中的使用案例來整理。
 title: 使用案例
-source-git-commit: e72cf50e03dcf225a47872dc5ade976d46445c86
+source-git-commit: 8229c19a046bb9b8f82053475e8f00b5c27370c2
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '506'
 ht-degree: 0%
 
 ---
 
 # 使用案例 {#use-cases}
 
-以下是生命週期與成長行銷人員在CX Enterprise Co-worker中使用的實際提示模式。 每個區段都設計為可複製、與您自己的對象和品牌詳細資料交換，並在對話中精簡。
+生命週期與成長行銷人員在Adobe CX Enterprise Co-worker Campaigns中使用的實際提示模式如下。 每個區段都設計為可複製、與您自己的對象和品牌詳細資料交換，並在對話中精簡。
 
 ## 使用方式
 
-挑選符合您目標的使用案例、複製範例提示並貼到CX Enterprise Co-worker中、將預留位置取代為您的具體資訊，以及透過聊天調整輸出。 如需完整逐步進行，請前往建立並產生行銷活動。
+挑選符合您目標的使用案例、複製範例提示並將其貼到同事行銷活動中、將預留位置取代為您的詳細資訊，以及透過聊天調整輸出。 如需完整逐步進行，請前往建立並產生行銷活動。
 
 ## 贏取與上線
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 最適合：企業帳戶啟用、新SaaS註冊、售後移交。
 
-`"Create a guided onboarding email series for new enterprise accounts. Include a welcome email, a setup walkthrough, and a check-in from a customer success contact. Use the CSV I uploaded and personalize by first name and company name."`
+`"Create a guided onboarding email series for new enterprise accounts. Include a welcome email, a setup walkthrough, and a check-in from a customer success contact. Use the CSV I will upload and personalize by first name and company name."`
 
 ### 新會員入門，B2C
 
@@ -52,7 +52,7 @@ ht-degree: 0%
 
 最適合：客戶保留率、產品知名度、思維領導力。
 
-`"Create a monthly newsletter for our customers. Use the CSV I uploaded. Include product updates, industry insights, and a resource, with simple CTAs."`
+`"Create a monthly newsletter for our customers. Use the CSV I will upload. Include product updates, industry insights, and a resource, with simple CTAs."`
 
 ### B2C每月電子報
 
@@ -142,7 +142,7 @@ ht-degree: 0%
 
 最適合：失效的客戶、休眠的買家、季節性重新啟動。
 
-`"Create a win-back email series for customers who bought last year but haven't come back. Use the CSV I uploaded. Include 2-3 emails that feel seasonal and remind them to shop again."`
+`"Create a win-back email series for customers who bought last year but haven't come back. Use the CSV I will upload. Include 2-3 emails that feel seasonal and remind them to shop again."`
 
 ### 失效的風扇重新參與、B2C （運動與娛樂）
 
@@ -158,4 +158,4 @@ ht-degree: 0%
 
 ## 準備好建置了嗎？
 
-挑選上述使用案例，造訪&#x200B;_建立並產生行銷活動_&#x200B;以進行完整的逐步說明，然後再試一次。
+請挑選上述使用案例，造訪&#x200B;_建立電子郵件行銷活動_&#x200B;以進行完整逐步說明，然後再試一次。
