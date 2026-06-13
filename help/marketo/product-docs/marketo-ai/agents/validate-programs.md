@@ -1,11 +1,10 @@
 ---
 description: 瞭解如何稽核您的方案以取得所有元件（例如電子郵件、登陸頁面、行銷活動等）的最佳實務。
 title: 驗證程式
-badge: Beta
 exl-id: 51d4b2d8-44b0-4b51-851f-7cb233baf2d6
-source-git-commit: d6051c04a5d2680d280b572c0ba53751f4086b03
+source-git-commit: e7df214d1796c631a4fcdd874de84cfe7f92e8b6
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -38,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/program-qa-4.png){width="450" zoomable="yes"}
 
-1. 在提示視窗中，輸入[驗證程式]並按一下[傳送]。**&#x200B;**
+1. 在提示視窗中，輸入[驗證程式]並按一下[傳送]。****
 
    AI助理提供所選程式的QA，顯示通過和未通過的專案。
 
