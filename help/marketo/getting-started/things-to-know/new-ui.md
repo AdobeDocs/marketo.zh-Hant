@@ -3,7 +3,7 @@ description: Marketo Engage全新UI - Marketo Engage檔案 — 產品檔案
 title: Marketo Engage全新UI
 feature: Getting Started
 hide: true
-source-git-commit: ee378219a9b294ae0c64620d0c0b306f73665f0d
+source-git-commit: 59d851d919aa28f41d49e26381d1703017076b7b
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 1%
@@ -12,7 +12,7 @@ ht-degree: 1%
 
 # Marketo Engage全新UI {#new-ui}
 
-感謝您參與新的Marketo Engage UI測試版。 此更新更新Marketo Engage的樣式符合現代化要求，並提升回應能力，而不會變更功能。 存取新UI時，會使用主題選擇器，該選擇器會出現在Marketo Engage中大部分頁面的右上角。
+感謝您參與新的Marketo Engage UI測試版。 此更新更新Marketo Engage的樣式符合現代化要求，並提升回應能力，而不會變更功能。 新的UI可使用下拉式清單進行存取，該下拉式清單會出現在Marketo Engage中大部分頁面的右上角。
 
 ## 開始之前 {#before-starting}
 
@@ -48,7 +48,7 @@ ht-degree: 1%
 
 ![](assets/new-ui-4.png)
 
-若您因任何原因需要切換回來，請再次按一下主題下拉式清單，然後選取&#x200B;**傳統**。
+如果您因為任何原因需要切換回，請再次按一下UI下拉式清單，然後選取&#x200B;**Classic**。
 
 ## 提交意見反應 {#feedback}
 
