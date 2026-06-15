@@ -4,9 +4,9 @@ title: 調查銷售機會
 badge: Beta
 hide: true
 hidefromtoc: true
-source-git-commit: 54702db63ae356706fceba7dc4c09c70e164612f
+source-git-commit: 8dff86ca52f267f1fb25eb3036af83e689a5e312
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '550'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 ## 使用方式 {#how-to-use}
 
-1. 在「我的Marketo」中，按一下「**使用AI建置**」圖磚。
+1. 在「我的Marketo」中，按一下「**Marketo AI**」圖磚。
 
 1. 在提示視窗中，說明您正在調查的內容。 包含銷售機會（透過電子郵件或名稱）以及您預期會發生的情況。
 

@@ -2,9 +2,9 @@
 description: 瞭解如何使用匯入銷售機會代理程式上傳CSV、套用商業規則、對應欄位，以及將銷售機會直接匯入您的Marketo Engage資料庫。
 title: 匯入銷售機會
 exl-id: 6583b93c-71eb-4a07-b25d-11eca834a3ba
-source-git-commit: e7df214d1796c631a4fcdd874de84cfe7f92e8b6
+source-git-commit: 8dff86ca52f267f1fb25eb3036af83e689a5e312
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## 使用方式 {#how-to-use}
 
-1. 在「我的Marketo」中，按一下「**使用AI建置**」圖磚。
+1. 在「我的Marketo」中，按一下「**Marketo AI**」圖磚。
 
    ![](assets/import-leads-1.png)
 
