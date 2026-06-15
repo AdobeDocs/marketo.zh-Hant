@@ -3,9 +3,9 @@ description: 原地復製程式會將現有的Marketo程式複製到具有新名
 title: 復製程式
 badge: Beta
 hide: true
-source-git-commit: 54702db63ae356706fceba7dc4c09c70e164612f
+source-git-commit: 8dff86ca52f267f1fb25eb3036af83e689a5e312
 workflow-type: tm+mt
-source-wordcount: '472'
+source-wordcount: '471'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 ## 使用方式 {#how-to-use}
 
-1. 在「我的Marketo」中，按一下「**使用AI建置**」圖磚。
+1. 在「我的Marketo」中，按一下「**Marketo AI**」圖磚。
 
 1. 在提示視窗中，輸入您的指示。 例如，「將我的第2季網路研討會程式原地複製至Q3 Campaigns資料夾，並將其稱為第3季產品示範網路研討會。」
 
