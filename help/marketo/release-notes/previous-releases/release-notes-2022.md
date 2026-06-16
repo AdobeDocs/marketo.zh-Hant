@@ -25,7 +25,7 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 4d4669f3239b43afbcbd660644c8d1a35734a556
+source-git-commit: 992f0ad35d396b1f6ecd30f34ba1d228116fb264
 workflow-type: tm+mt
 source-wordcount: 4254
 ht-degree: 6%
@@ -46,7 +46,7 @@ ht-degree: 6%
 
 下列功能將於&#x200B;**2022年1月21日**&#x200B;開始發行，並在接下來的幾週內分階段推出每個功能（除非另有指定）。
 
-## 次世代體驗 {#modern-ux}
+## 次世代體驗
 
 * **新一代體驗中的Screens已更新**：我們為新一代體驗提供額外的重新整理熒幕，透過切換開關提供更新的設計和可用性增強功能：
 
@@ -133,7 +133,7 @@ ht-degree: 6%
 
 * **電子郵件機器人活動篩選增強功能**：作為先前發行之[電子郵件機器人活動篩選](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"}功能的增強功能，您現在可以選擇加入識別為機器人的記錄活動。 然後，您可以根據識別為機器人正在執行的活動來篩選及觸發動作。
 
-## 次世代體驗 {#modern-ux}
+## 次世代體驗
 
 * **新一代體驗中的Screens已更新**：我們為新一代體驗提供額外的重新整理熒幕，透過切換開關提供更新的設計和可用性增強功能：
 
@@ -215,7 +215,7 @@ ht-degree: 6%
 
 **[電子郵件追蹤連結的STS標頭](/help/marketo/product-docs/administration/settings/email-tracking-link-headers.md){target="_blank"}**：符合安全性最佳實務，能夠套用Secure Transport Security標頭，以確保追蹤連結的流量一律安全。
 
-## 次世代體驗 {#modern-ux}
+## 次世代體驗
 
 **切換切換預設為新一代體驗**：切換切換切換將在所有可用熒幕中預設為新體驗，讓使用者更容易發現更新的設計和可用性增強功能。
 
@@ -336,7 +336,7 @@ ht-degree: 6%
 
 ## 次世代體驗
 
-* **Adobe品牌**：更新了編輯的外觀與風格，以及具有新Adobe Experience Cloud品牌的人員詳細資料頁面。
+* **Adobe品牌化**：更新了編輯的外觀和風格，以及具有新Adobe Experience Cloud品牌化的個人詳細資料頁面。
 
 * **在移動對話方塊中顯示目的地資料夾的資料夾階層**：檢視每個資料夾的資料夾階層可讓移動資產更容易，並降低將資產放入錯誤資料夾的可能性。
 
@@ -427,7 +427,7 @@ ht-degree: 6%
   </tbody>
 </table>
 
-### 次世代體驗 {#modern-ux}
+### 次世代體驗
 
 </br>
 
@@ -565,3 +565,4 @@ ht-degree: 6%
 * **Forms 1.0**： Forms 1.0將於10月發行版本中淘汰。 Forms 1.0資產無法再將資料提交至Marketo Engage，若嘗試將傳回錯誤。
 
 * **無指令碼Forms**：在瀏覽器中停用Javascript時，Forms將不再運作。 提交表單需要啟用Javascript。
+
