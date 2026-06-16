@@ -2,9 +2,9 @@
 description: 瞭解如何啟用Marketo AI許可權、設定組織規則及管理整合和通知等設定。
 title: 設定與設定
 exl-id: faf642a1-25f0-4566-b35d-074b003835ed
-source-git-commit: 7e869a7a66badbb274355a676d9950068bb8b68e
+source-git-commit: 9cc4e828948622b8862f207865dac0f4de6c52a8
 workflow-type: tm+mt
-source-wordcount: '562'
+source-wordcount: '563'
 ht-degree: 1%
 
 ---
