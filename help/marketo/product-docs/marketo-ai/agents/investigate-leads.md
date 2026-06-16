@@ -1,12 +1,9 @@
 ---
 description: 「調查」銷售機會代理會回答行銷人員最常提出的問題。 它比手動挖掘活動記錄、智慧行銷活動記錄和評分記錄更快、更可靠。
 title: 調查銷售機會
-badge: Beta
-hide: true
-hidefromtoc: true
-source-git-commit: 8dff86ca52f267f1fb25eb3036af83e689a5e312
+source-git-commit: 3895c3c0ffeeafee45193c8ac3ce346a4e59ebb1
 workflow-type: tm+mt
-source-wordcount: '550'
+source-wordcount: '549'
 ht-degree: 0%
 
 ---
