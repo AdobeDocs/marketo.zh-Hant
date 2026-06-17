@@ -1,7 +1,7 @@
 ---
 description: 使用產品知識向Marketo AI詢問Marketo Engage功能、最佳實務和操作說明。 答案以Adobe的官方檔案為依據。
 title: 產品知識
-source-git-commit: 3895c3c0ffeeafee45193c8ac3ce346a4e59ebb1
+source-git-commit: 3f7d17870cf0d60c716095ae200c003fc8ff0e28
 workflow-type: tm+mt
 source-wordcount: '461'
 ht-degree: 0%
@@ -10,7 +10,7 @@ ht-degree: 0%
 
 # 產品知識 {#product-knowledge}
 
-產品知識可讓您隨選存取Marketo專業知識，而不需離開平台。 以直白語言提出問題，Marketo AI會利用Adobe的官方檔案來回答。
+產品知識可讓您隨選存取Marketo專業知識，而不需離開平台。 以簡單的語言提出問題，Marketo AI就會利用官方Adobe檔案來回答。
 
 >[!PREREQUISITES]
 >
