@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: 7706af36b932345f3534190444d9eba29febd924
+source-git-commit: a87250f519eff511c158e9f949761f090a565a45
 workflow-type: tm+mt
-source-wordcount: '8899'
+source-wordcount: '8896'
 ht-degree: 96%
 
 ---
@@ -34,8 +34,7 @@ ht-degree: 96%
       + [傳統圖示字彙表](getting-started/things-to-know/classic-icon-glossary.md)
       + [說明中心](getting-started/things-to-know/help-center.md)
       + [訂閱系統狀態通知](getting-started/things-to-know/system-status-notifications.md)
-      + {hide-from-toc}[產品知識的AI助理](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
-      + {hide-from-toc}[行銷國家社群](getting-started/things-to-know/community.md)
+      + 產品知識的{hide-from-toc}[AI助理](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
       + {hide-from-toc}[AWS移轉](getting-started/things-to-know/aws-migration.md)
       + {hide-from-toc}[新UI](getting-started/things-to-know/new-ui.md)
    + 快速成果 {#quick-wins}
@@ -1963,4 +1962,3 @@ ht-degree: 96%
       + [2012](release-notes/previous-releases/release-notes-2012.md)
       + [2010-2011](release-notes/previous-releases/2010-2011.md)
       + [2007-2009](release-notes/previous-releases/2007-2009.md)
-
