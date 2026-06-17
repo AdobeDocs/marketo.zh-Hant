@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: b6cd3c664558bba94330221dc6280e50df22888b
+source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
 workflow-type: tm+mt
-source-wordcount: '8909'
+source-wordcount: '8899'
 ht-degree: 96%
 
 ---
@@ -468,9 +468,6 @@ ht-degree: 96%
                + [傳送範例](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md)
                + [分享重要時刻](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
       + 其他 {#miscellaneous}
-         + {hide-from-toc}[同事簡介](product-docs/core-marketo-concepts/miscellaneous/coworker-overview.md)
-         + {hide-from-toc}[同事建立電子郵件行銷活動](product-docs/core-marketo-concepts/miscellaneous/coworker-create-an-email-campaign.md)
-         + {hide-from-toc}[同事使用案例](product-docs/core-marketo-concepts/miscellaneous/coworker-use-cases.md)
          + {hide-from-toc}[設定Adobe Experience Manager整合](product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)
          + [建立新的行銷活動資料夾](product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)
          + {hide-from-toc}[鍵盤快速鍵字彙表](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
@@ -1115,14 +1112,14 @@ ht-degree: 96%
       + [概觀](product-docs/marketo-ai/overview.md)
       + [設定與設定](product-docs/marketo-ai/settings-setup.md)
       + {hide-from-toc}[設定和設定](product-docs/marketo-ai/settings-setup-old.md)
-      + 專員 {#agents}
-         + [產品知識](product-docs/marketo-ai/agents/product-knowledge.md)
-         + {hide-from-toc}[表面分析](product-docs/marketo-ai/agents/surface-insights.md)
-         + {hide-from-toc}[建置計畫](product-docs/marketo-ai/agents/build-programs.md)
-         + {hide-from-toc}[復製程式](product-docs/marketo-ai/agents/clone-program.md)
-         + [調查銷售機會](product-docs/marketo-ai/agents/investigate-leads.md)
-         + [匯入銷售機會](product-docs/marketo-ai/agents/import-leads.md)
-         + [驗證程式](product-docs/marketo-ai/agents/validate-programs.md)
+      + 技能 {#skills}
+         + [產品知識](product-docs/marketo-ai/skills/product-knowledge.md)
+         + {hide-from-toc}[表面分析](product-docs/marketo-ai/skills/surface-insights.md)
+         + {hide-from-toc}[建置計畫](product-docs/marketo-ai/skills/build-programs.md)
+         + {hide-from-toc}[復製程式](product-docs/marketo-ai/skills/clone-program.md)
+         + [調查銷售機會](product-docs/marketo-ai/skills/investigate-leads.md)
+         + [匯入銷售機會](product-docs/marketo-ai/skills/import-leads.md)
+         + [驗證程式](product-docs/marketo-ai/skills/validate-programs.md)
    + Marketo Engage Modern UX {#marketo-engage-modern-ux}
       + [概觀](product-docs/marketo-engage-modern-ux/overview.md)
       + [使用全域搜尋](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
