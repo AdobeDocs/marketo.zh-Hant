@@ -2,7 +2,7 @@
 description: 「調查」銷售機會代理會回答行銷人員最常提出的問題。 它比手動挖掘活動記錄、智慧行銷活動記錄和評分記錄更快、更可靠。
 title: 調查銷售機會
 badge: beta
-source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
+source-git-commit: 408923e529bdfb2aa23f7d6acfb229cd7ee4c9d8
 workflow-type: tm+mt
 source-wordcount: '554'
 ht-degree: 0%
@@ -54,3 +54,4 @@ ht-degree: 0%
 * 潛在客戶調查為唯讀。 它會告訴您發生的情況，但不會變更潛在客戶記錄或計畫會員資格。
 * 對於最後證明是資料品質問題（缺少欄位值、潛在客戶來源不正確）的問題，必須在潛在客戶記錄中手動進行修正。
 * 如果調查顯示智慧行銷活動邏輯問題影響許多銷售機會，請使用方案QA來檢閱完整方案設定。
+

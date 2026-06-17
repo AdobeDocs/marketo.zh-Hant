@@ -3,7 +3,7 @@ description: 原地復製程式會將現有的Marketo程式複製到具有新名
 title: 復製程式
 badge: Beta
 hide: true
-source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
+source-git-commit: 408923e529bdfb2aa23f7d6acfb229cd7ee4c9d8
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
@@ -29,15 +29,10 @@ ht-degree: 0%
 ## 使用方式 {#how-to-use}
 
 1. 在「我的Marketo」中，按一下「**Marketo AI**」圖磚。
-
 1. 在提示視窗中，輸入您的指示。 例如，「將我的第2季網路研討會程式原地複製至Q3 Campaigns資料夾，並將其稱為第3季產品示範網路研討會。」
-
 1. Marketo AI會確認來源程式、目的地資料夾和新名稱。 檢閱並確認。
-
 1. 複製已建立。 Marketo AI會在完成時進行確認，並告訴您應在何處尋找它。
-
 1. 在Marketo中開啟新程式並更新不同專案：電子郵件內容、日期、對象篩選器、代號等。
-
 1. 在啟動之前執行[程式QA](/help/marketo/product-docs/marketo-ai/skills/program-qa.md)代理程式。
 
 ## 使用案例 {#use-cases}
