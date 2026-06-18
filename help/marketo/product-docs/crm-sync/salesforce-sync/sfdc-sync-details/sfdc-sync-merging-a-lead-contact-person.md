@@ -7,10 +7,10 @@ feature: Salesforce Integration
 TQID: https://experienceleague.adobe.com/alPa6YMG0tgo08ruZAZlWhujV54iVcUMAAejXJbEQFw
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 25bbf4409df3db38b849d936e2a90b48f859d089
 workflow-type: tm+mt
-source-wordcount: 204
-ht-degree: 3%
+source-wordcount: 267
+ht-degree: 2%
 
 ---
 
@@ -28,9 +28,13 @@ ht-degree: 3%
 >合併每個分數為10的3個銷售機會（人員），會產生1個銷售機會（人員）的結果，分數為30。
 
 * 衝突的欄位值是從「成功記錄」中取得。 （記錄=產生的潛在客戶或連絡人）
-* 如果「失敗記錄」（正在消失的記錄）有一個值，且成功記錄沒有值，我們會保留失敗記錄。 換句話說，「有值總比沒有值好。」
+* 如果「失敗記錄」（正在消失的記錄）有一個值，且成功記錄沒有（或為空），我們會保留失敗記錄。 換句話說，「有值總比沒有值好。」
 * 所有活動記錄專案都會合併。
 
 >[!NOTE]
 >
->深入瞭解[在Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md){target="_blank"}中合併人員的詳細資訊。
+>API合併中的布林值欄位行為在2026年3月版本中變更。 現在，系統會正確將False值視為該欄位有值。 評估衝突欄位時，只有null值會視為「空白」。 檢視[此社群貼文](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219?profile.language=zh-Hant){target="_blank"}更多詳細資料。
+
+>[!MORELIKETHIS]
+>
+>深入瞭解[在Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md)中合併人員的詳細資訊。
