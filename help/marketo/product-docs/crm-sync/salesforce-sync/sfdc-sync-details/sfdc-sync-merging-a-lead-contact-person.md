@@ -7,9 +7,9 @@ feature: Salesforce Integration
 TQID: https://experienceleague.adobe.com/alPa6YMG0tgo08ruZAZlWhujV54iVcUMAAejXJbEQFw
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: 25bbf4409df3db38b849d936e2a90b48f859d089
+source-git-commit: 18ccc13ddd9cfb998015bb581373a7ca7c064d59
 workflow-type: tm+mt
-source-wordcount: 267
+source-wordcount: 268
 ht-degree: 2%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->API合併中的布林值欄位行為在2026年3月版本中變更。 現在，系統會正確將False值視為該欄位有值。 評估衝突欄位時，只有null值會視為「空白」。 檢視[此社群貼文](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219?profile.language=zh-Hant){target="_blank"}更多詳細資料。
+>API合併中的布林值欄位行為在2026年3月版本中變更。 現在，系統會正確將False值視為該欄位有值。 評估衝突欄位時，只有null值會視為「空白」。 如需詳細資訊，請參閱[此社群貼文](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219?profile.language=zh-Hant){target="_blank"}。
 
 >[!MORELIKETHIS]
 >
