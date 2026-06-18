@@ -2,30 +2,10 @@
 title: 2016
 description: 2016 - Marketo檔案 — 產品檔案
 feature: Release Information
-feature_v2:
-  - id: a7170d27-32ab-462b-a333-269abc654483
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
-  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
-  - id: fc5c4f1e-5467-43ac-94e9-0acfa71c517d
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-  - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 4d4669f3239b43afbcbd660644c8d1a35734a556
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: d0251300-e25f-466f-9856-7e11ce8fa7aaid: d5c7388a-594e-4d15-9b39-98d6ce479e8bid: fc5c4f1e-5467-43ac-94e9-0acfa71c517d
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: d095671a-1355-40aa-8b5f-06c33c68080bid: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eb30f47f-d87a-400f-8f78-63ce7979ff56id: eddd9b14-83bd-4ff4-9072-54a4a484abb7id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: ad6fe9ab015682c15426fdc416cf6d243c83f297
 workflow-type: tm+mt
 source-wordcount: 2739
 ht-degree: 0%
@@ -289,7 +269,7 @@ Marketo帳戶式行銷在一個統一的平台上提供所有基本功能：
 
 離線檢視內容分析和建議資料。
 
-## 電子郵件編輯器2.0[&#128279;](https://developers.marketo.com/documentation/asset-api/)的API支援 {#api-support-for-email-editor}
+## 電子郵件編輯器2.0](https://developers.marketo.com/documentation/asset-api/) {#api-support-for-email-editor}的[API支援
 
 先前僅與v1.0電子郵件和範本相容的既有資產API，現在可供v2.0電子郵件資產使用。
 
@@ -387,3 +367,4 @@ Marketo帳戶式行銷在一個統一的平台上提供所有基本功能：
 ## [對Marketo Salesforce Sync的變更](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
 
 Marketo的[!DNL Salesforce]整合正不斷發展，以改善Marketo欄位與[!DNL Salesforce]同步的方式。 現在，您不必同步大量您可能需要（也可能不需要）的欄位，您可以挑選要納入的欄位。 請在此檢視我們的檔案以取得詳細資訊： [https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840)。
+
