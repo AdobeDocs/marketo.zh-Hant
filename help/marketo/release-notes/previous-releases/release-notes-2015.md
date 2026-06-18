@@ -30,9 +30,9 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 4d4669f3239b43afbcbd660644c8d1a35734a556
+source-git-commit: ad6fe9ab015682c15426fdc416cf6d243c83f297
 workflow-type: tm+mt
-source-wordcount: 2850
+source-wordcount: 2807
 ht-degree: 1%
 
 ---
@@ -281,8 +281,8 @@ RTP： [拖放區段編輯器](/help/marketo/product-docs/web-personalization/us
 
 ## RTF編輯器更新 {#rich-text-editor-update}
 
-更新文字編輯器，提供現代外觀，包括簡化的文字格式、影像編輯、連結插入和HTML編輯。 HTML編輯器現在提供最低限度的驗證，允許進行限制較少的程式碼編輯。
-`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>`此更新將在7月發行後的幾天內自動推出。 之後，您將可以從&#x200B;**[!UICONTROL Admin]> [!UICONTROL Email] >[!UICONTROL Edit Editor Settings]**&#x200B;切換編輯器的新版本和舊版本。
+更新文字編輯器，提供現代外觀，包括簡化的文字格式、影像編輯、連結插入和HTML編輯。HTML編輯器現在提供最低限度的驗證，允許進行限制較少的程式碼編輯。
+`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>`此更新將在7月發行後的幾天內自動推出。之後，您將可以從&#x200B;**[!UICONTROL Admin]> [!UICONTROL Email] >[!UICONTROL Edit Editor Settings]**&#x200B;切換編輯器的新版本和舊版本。
 
 ![](assets/image2015-7-10-9-3a42-3a44.png)
 
@@ -480,3 +480,4 @@ RTP的Assets頁面現在分為Content Analytics和內容建議。
 ## 在Design Studio中依登陸頁面的URL搜尋 {#search-by-url-of-landing-page-in-design-studio}
 
 在Design Studio登陸頁面格線中，您現在可以依頁面URL進行搜尋，以尋找您的登陸頁面。 此檔案也可匯出。
+

@@ -25,7 +25,7 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 992f0ad35d396b1f6ecd30f34ba1d228116fb264
+source-git-commit: 5247efff11566852d4c7271f1d212cc233593c19
 workflow-type: tm+mt
 source-wordcount: 4254
 ht-degree: 6%
@@ -77,7 +77,7 @@ ht-degree: 6%
 
 同時使用Adobe Experience Platform (AEP)的Marketo Engage客戶可透過Marketo Engage目的地聯結器，將全新人員記錄從AEP推送至AEP，讓資料庫發揮最大效用。 從AEP傳送對象區段至Marketo Engage時，區段內尚未存在於Marketo Engage資料庫[中的人員可自動新增至該資料庫](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-an-adobe-experience-platform-segment-to-a-marketo-static-list.md)。
 
-## [!DNL Sales Insight] {#sales-insight}
+## [!DNL Sales Insight]
 
 ![（星形）](assets/yellow-star.png)
 
@@ -93,7 +93,7 @@ ht-degree: 6%
 
 * **已更新帳戶配置**：賣家可取得熱門活動的集體檢視，例如：電子郵件活動、網路活動、有趣的時刻，以及帳戶內所有連絡人的分數變更。
 
-## [!DNL Sales Connect] {#sales-connect}
+## [!DNL Sales Connect]
 
 ![（星形）](assets/yellow-star.png)
 
@@ -101,7 +101,7 @@ ht-degree: 6%
 
 * **[!DNL Salesforce]活動詳細資料自訂**：當銷售活動從[!DNL Sales Connect]登入[!DNL Salesforce]時，自訂要新增哪些資訊到[!DNL Salesforce]任務主題欄位，以在[!DNL Salesforce]中擷取更多銷售活動和任務資料。 [按一下這裡](https://nation.marketo.com/t5/product-blogs/sales-connect-enahncements-to-activity-logging-to-salesforce-q1/ba-p/319819)瞭解更多資訊。
 
-## 公告 {#announcements}
+## 公告
 
 * **棄用Marketo Sky**：三月起，我們將不再提供Marketo Sky，因為我們的資源著重於提供新一代的使用者體驗。 為了維持對當今Marketo Sky專屬功能的存取權，我們在3月將資產到期和智慧型行銷活動優先順序覆寫帶入主流體驗。 [按一下這裡](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33)瞭解更多資訊。
 
@@ -127,7 +127,7 @@ ht-degree: 6%
 
 下列功能將於&#x200B;**2022年3月11日**&#x200B;開始發行，並在接下來的幾週內分階段推出每個功能（除非另有指定）。
 
-## 跨頻道協調 {#cross-channel-orchestration}
+## 跨頻道協調
 
 * **[!DNL Dynamic Chat]**：透過主動式、主動式和1:1個人化對話將目標同時鎖定於銷售機會和帳戶，在您的網站上最大化每個商機。 [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"}可讓Marketo Engage使用者開始運用聊天，作為B2B行銷和銷售使用案例整合式跨管道體驗的關鍵部分。 功能包括：直接在聊天中預約會議、潛在客戶路由、入門範本、建立拖放式交談等等。 Dynamic Chat包含在所有Marketo Engage套件中，並將於今年推出給所有Marketo Engage使用者。
 
@@ -143,7 +143,7 @@ ht-degree: 6%
 
 * **新一代體驗切換開關的管理員控制**：以適合您的使用者的方式管理新一代體驗的推出，同時管理員能夠選取哪些使用者型別可以存取切換開關。
 
-## 體驗自動化 {#experience-automation}
+## 體驗自動化
 
 * **自助服務流程步驟(Beta)**：擴充Marketo Engage與您棧疊其他部分之間的連線，並有能力編寫自訂的流程步驟以用於Smart Campaigns。 Marketo使用者和合作夥伴均可運用此功能，允許在批次和可執行的行銷活動中使用外部Web服務，而非Webhook，後者只能用於觸發行銷活動。
 
@@ -151,7 +151,7 @@ ht-degree: 6%
 
 * **智慧型行銷活動優先順序覆寫**：確保高優先順序觸發智慧型行銷活動會儘快執行，並有能力覆寫標準行銷活動優先順序排名。 低優先順序觸發器智慧型行銷活動也可以降低優先順序，以釋出處理資源給其他高優先順序的工作。
 
-## API增強功能 {#api-enhancements}
+## API增強功能
 
 * **傳回停用電子郵件的開啟追蹤狀態**：允許透過API讀取電子郵件的開啟追蹤狀態
 * **從電子郵件擷取動態內容主旨列**：可讓行銷人員在BI工具中執行動態主旨列分析
@@ -171,13 +171,13 @@ ht-degree: 6%
 
 * **BI範本**： [!DNL Bizible]現在將提供Tableau和Power BI的可下載基礎報告成品和範例報告，以便快速開發針對您特定業務需求量身打造的自訂報告。
 
-## [!DNL Sales Connect] {#sales-connect}
+## [!DNL Sales Connect]
 
 ![（星形）](assets/yellow-star.png)
 
 * **電子郵件連線節流(GA)**：電子郵件連線節流可讓[!DNL Sales Connect]管理員設定使用Gmail或[!DNL Exchange]作為傳遞通道時的電子郵件傳送速率，讓電子郵件傳送給傳遞通道提供者的速率不超過強制的限制。
 
-## 公告 {#announcements}
+## 公告
 
 * **棄用Marketo Sky**：三月起，我們將不再提供Marketo Sky，因為我們的資源著重於提供新一代的使用者體驗。 為了維持目前Marketo Sky專屬功能的存取權，我們將「資產有效期」和「智慧型行銷活動優先順序覆寫」引入傳統體驗。 [按一下這裡](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33)瞭解更多資訊。
 
@@ -201,7 +201,7 @@ ht-degree: 6%
 
 **[原生Veeva CRM整合](/help/marketo/product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md){target="_blank"} （可用性限制）**：透過原生整合，在Veeva CRM與Marketo Engage之間同步活動，以改善與醫療專業人員的互動。 此整合可讓行銷人員為醫療保健專業人員建立更個人化且順暢的跨管道體驗。 如果您有興趣參與，請聯絡您的客戶成功案例經理。
 
-## 跨頻道協調 {#cross-channel-orchestration}
+## 跨頻道協調
 
 **[!DNL Dynamic Chat]**&#x200B;的聊天機器人事件：利用網頁訪客的更詳細行為資料，例如頁面逗留時間、網站逗留時間和頁面捲動百分比，以定義應顯示聊天對話方塊的時間。
 
@@ -223,11 +223,11 @@ ht-degree: 6%
 
 我們在[!UICONTROL Design Studio]內提供新一代體驗的電子郵件範本詳細資料檢視，提供更新的設計和可用性增強功能，可透過切換開關存取。
 
-## 體驗自動化 {#experience-automation}
+## 體驗自動化
 
 **自助服務流程步驟（繼續測試版）**：擴充Marketo Engage與您棧疊其他部分之間的連線，並有能力編寫自訂流程步驟以用於Smart Campaigns。 Marketo Engage使用者和合作夥伴均可運用此功能，允許在觸發、批次和可執行的行銷活動中使用外部Web服務（相較於只能用於觸發行銷活動的Webhook）。
 
-## API增強功能 {#api-enhancements}
+## API增強功能
 
 * **已啟用CRM之訂閱的擴充API存取**：我們正在擴充已啟用CRM同步處理之訂閱的API存取，以允許使用者從Marketo Engage擷取公司、商機和銷售人員。
 * **在Forms中支援「隱藏」資料型別**：提供透過API管理隱藏表單欄位的功能。
@@ -235,7 +235,7 @@ ht-degree: 6%
 * **允許分別設定選取清單中的顯示值和提交值**：分別設定欄位中的顯示值和提交值。 例如，顯示飯店的名稱，但將內部ID提交至後端。
 * **允許在建立或更新電子郵件時停用開啟追蹤的設定**：建立已停用開啟追蹤的電子郵件。
 
-## 公告 {#announcements}
+## 公告
 
 **電子郵件驗證與唯一性**：從4月開始，將開始推出電子郵件驗證。 此時，Marketo Engage使用者電子郵件地址需要驗證和唯一性（這不適用於僅限API的使用者）。 目錄服務已驗證的使用者會在訂閱啟用電子郵件驗證時，自動驗證其電子郵件。
 
@@ -257,11 +257,11 @@ ht-degree: 6%
 
 下列功能將於&#x200B;**2022年6月24日**&#x200B;開始發行，並會在後續幾週內分階段推出剩餘功能（除非另有指定）。
 
-## 行銷資料環境 {#marketing-data-environment}
+## 行銷資料環境
 
 * **公開自訂物件的CreatedAt/UpdatedAt欄位**：讓您能夠在「人員詳細資料」畫面中檢查這些欄位，以取得額外的insight。
 
-## 跨頻道協調 {#cross-channel-orchestration}
+## 跨頻道協調
 
 * **改善[!DNL Dynamic Chat]**&#x200B;的串流Designer可用性：無需拖放，即可直接從Designer串流畫布新增卡片。 [!DNL Dynamic Chat]介面也已經過改良，以提供更清楚的個別卡片內容可見度。
 
@@ -278,7 +278,7 @@ ht-degree: 6%
 * [電子郵件詳細資料視圖](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-details-view){target="_blank"}
 * [電子郵件清單視圖](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-list-view){target="_blank"}
 
-## 體驗自動化 {#experience-automation}
+## 體驗自動化
 
 * **全域表單欄位驗證規則排除**：從全域表單驗證規則中排除特定表單，以便訂閱中心和其他重要業務工作流程可以接受所有值。
 
@@ -288,7 +288,7 @@ ht-degree: 6%
 
 * **適用於Webhook的其他HTTP方法**：將PUT、PATCH和DELETE指定為與Web服務互動的請求型別。
 
-## [!DNL Sales Insight] {#sales-insight}
+## [!DNL Sales Insight]
 
 ![（星形）](assets/yellow-star.png)
 
@@ -296,19 +296,19 @@ ht-degree: 6%
 
 * **我的Marketo動態磚更新 — [!DNL Sales Insight]動作**： Marketo管理員（以及他們指定的使用者）現在可以透過位於「我的Marketo」頁面上的新[!DNL Sales Insight]動作動態磚，快速導覽至他們的[!DNL Sales Insight]動作執行個體。
 
-## [!DNL Sales Connect] {#sales-connect}
+## [!DNL Sales Connect]
 
 ![（星形）](assets/yellow-star.png)
 
 * **[!DNL Salesforce]API更新**：隨著[!DNL Salesforce]夏季&#39;22的發行，[!DNL Salesforce]將不再支援API舊版21-30。 透過此Marketo Engage版本，使用舊版API的所有[!DNL Sales Connect]請求都已更新，以保持在支援的版本中。 如需[!DNL Salesforce] API淘汰計畫的完整詳細資料，請按一下[這裡](https://help.salesforce.com/s/articleView?language=en_US&type=1&id=000354473){target="_blank"}。
 
-## API增強功能 {#api-enhancements}
+## API增強功能
 
 * **大量程式成員擷取API的新篩選功能**：依程式成員資格狀態、updatedAt、cadence或用完的內容進行篩選，以精簡擷取的資料集。
 
 * **大量程式成員擷取API改善**：在建立工作期間指定最多10個程式以改善輸送量。
 
-## 公告 {#announcements}
+## 公告
 
 * **Forms淘汰 — Forms 1.0、銷售機會擷取/儲存端點，以及無指令碼版本的forms**：對Forms 1.0資產的支援將於2022年10月前從Marketo Engage中完全移除。 所有現有的Forms 1.0資產都將停止運作。 Marketo Engage表單將需要JavaScript才能載入登陸頁面和網站。
 
@@ -326,7 +326,7 @@ ht-degree: 6%
 
 下列功能於&#x200B;**2022年8月26日**&#x200B;開始分階段推出。
 
-## 跨頻道協調 {#cross-channel-orchestration}
+## 跨頻道協調
 
 * 一次啟用/停用[!DNL Dynamic Chat]的所有已發佈對話方塊**：按一下按鈕，一次從設定頁面全域啟用/停用所有已發佈對話方塊。
 
@@ -349,7 +349,7 @@ ht-degree: 6%
 >
 >在行銷活動中將資產移至方案中的資料夾為例外情況。 此移動動作不會顯示資料夾階層，因為程式中的資料夾名稱不能重複。
 
-## 體驗自動化 {#experience-automation}
+## 體驗自動化
 
 * **[自助服務流程步驟 — 程式匯入增強功能](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/flow-step-service.md){target="_blank"}**：已改善對匯入具有自訂流程步驟之程式的支援，您現在可以使用相同服務提供者的多個執行個體，以及匯入具有與這些服務提供者相容之流程步驟的程式。
 
@@ -363,21 +363,21 @@ ht-degree: 6%
 
 * **永遠在匿名合併後執行促銷活動重播**：匿名潛在客戶合併會在促銷活動重播之前發生，因此自訂欄位篩選器在匿名促銷活動重播完成時會可靠地運作。
 
-## 行銷資料環境 {#marketing-data-environment}
+## 行銷資料環境
 
 * **修正自訂物件&quot;[!UICONTROL Used By]&quot;欄位的UI截斷**：現在更容易識別「使用中」的自訂物件欄位，因此您可以在必要時從自訂物件中刪除欄位。
 
-## API增強功能 {#api-enhancements}
+## API增強功能
 
 * **大量程式成員擷取API的新篩選功能**：依程式成員資格狀態、updatedAt、cadence或用完的內容進行篩選，以精簡擷取的資料集。
 
-## [!DNL Sales Insight] {#sales-insight}
+## [!DNL Sales Insight]
 
 ![（星形）](assets/yellow-star.png)
 
 * **[[!DNL Sales Insight] 與 [!DNL Dynamic Chat]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target="_blank"}**&#x200B;整合：檢視[!DNL Sales Insight]面板中[!DNL Dynamic Chat]的活動，並將這個新的資料點用於您的潛在客戶工作。
 
-## 公告 {#announcements}
+## 公告
 
 **_產品發行網路研討會_**
 
@@ -395,7 +395,7 @@ ht-degree: 6%
 
 下列功能屬於標準發行週期，並將於&#x200B;**2022年10月14日**&#x200B;開始發行，在接下來的幾週內分階段推出剩餘功能。 發行的功能和日期可能有所變更。 請檢視每個功能下方的狀態。
 
-### 行銷資料環境 {#marketing-data-environment}
+### 行銷資料環境
 
 </br>
 
@@ -476,7 +476,7 @@ ht-degree: 6%
   </tbody>
 </table>
 
-### API增強功能 {#api-enhancements}
+### API增強功能
 
 </br>
 
@@ -494,7 +494,7 @@ ht-degree: 6%
   </tbody>
 </table>
 
-### 銷售Insight {#sales-insight}
+### 銷售Insight
 
 </br>
 
@@ -560,9 +560,8 @@ ht-degree: 6%
   </tbody>
 </table>
 
-## 公告 {#announcements}
+## 公告
 
 * **Forms 1.0**： Forms 1.0將於10月發行版本中淘汰。 Forms 1.0資產無法再將資料提交至Marketo Engage，若嘗試將傳回錯誤。
 
 * **無指令碼Forms**：在瀏覽器中停用Javascript時，Forms將不再運作。 提交表單需要啟用Javascript。
-

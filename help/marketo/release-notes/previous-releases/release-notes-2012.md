@@ -18,7 +18,7 @@ topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 4d4669f3239b43afbcbd660644c8d1a35734a556
+source-git-commit: ad6fe9ab015682c15426fdc416cf6d243c83f297
 workflow-type: tm+mt
 source-wordcount: 3286
 ht-degree: 1%
@@ -582,3 +582,4 @@ Marketo [!UICONTROL BrightTALK]配接卡可讓您從即時或隨選網路廣播�
 移至&#x200B;**[!UICONTROL Admin]** > **[!UICONTROL Treasure Chest]**&#x200B;以啟用&#x200B;**[!UICONTROL Campaign Inspector]**。
 
 ![](assets/image2014-9-23-10-3a52-3a39.png)
+

@@ -25,7 +25,7 @@ topic_v2:
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 4d4669f3239b43afbcbd660644c8d1a35734a556
+source-git-commit: ad6fe9ab015682c15426fdc416cf6d243c83f297
 workflow-type: tm+mt
 source-wordcount: 2739
 ht-degree: 0%
@@ -387,3 +387,4 @@ Marketo帳戶式行銷在一個統一的平台上提供所有基本功能：
 ## [對Marketo Salesforce Sync的變更](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
 
 Marketo的[!DNL Salesforce]整合正不斷發展，以改善Marketo欄位與[!DNL Salesforce]同步的方式。 現在，您不必同步大量您可能需要（也可能不需要）的欄位，您可以挑選要納入的欄位。 請在此檢視我們的檔案以取得詳細資訊： [https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840)。
+
