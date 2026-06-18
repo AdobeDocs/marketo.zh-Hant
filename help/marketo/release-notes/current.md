@@ -4,22 +4,14 @@ title: 最新發行說明
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
 TQID: https://experienceleague.adobe.com/QJFy7PeGXlvS3jcJGcZJROlc8c1UvphO-TOOwPUQeX8
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: c942e9f6-ed06-481a-abdd-1195363d1452
-topic_v2:
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: f71e690b-4480-4b67-9ef5-88f42f9cdfdbid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: c942e9f6-ed06-481a-abdd-1195363d1452
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 5debaa373787b2e02c6af0da8d5c054a1e4f1aa7
 workflow-type: tm+mt
-source-wordcount: 628
-ht-degree: 19%
+source-wordcount: 695
+ht-degree: 17%
 
 ---
 
@@ -44,7 +36,7 @@ ht-degree: 19%
    <td><strong>Marketo AI</strong>：利用一套代理程式，將耗時但重要的行銷功能自動化（現在提供兩個代理程式，即將推出更多代理程式）。
 </td>
    <td>開啟Beta版</td>
-   <td><a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/marketo-ai/overview" target="_blank">Marketo AI總覽</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-ai/overview" target="_blank">Marketo AI總覽</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -54,7 +46,7 @@ ht-degree: 19%
   <tr>
    <td><strong>Marketo Engage MCP伺服器</strong>： Marketo Engage MCP伺服器可做為您AI助理與Marketo Engage之間的橋樑。 它會公開超過100項操作，涵蓋表單、方案、智慧行銷活動、人員/銷售機會、電子郵件、代碼片段、清單和資料夾。</td>
    <td>開啟Beta版</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=zh-Hant" target="_blank">Marketo MCP伺服器</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html" target="_blank">Marketo MCP伺服器</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -136,6 +128,8 @@ ht-degree: 19%
    * 抽獎
 
 今年早些時候，從Marketo中移除落後的相關欄位。 不久，參考特定社交相關潛在客戶欄位的API請求傳回「找不到欄位」錯誤，造成中斷。 受影響的欄位再次開放使用後，服務已還原，為避免進一步中斷，Marketo已永久中斷社交欄位與棄用的社交功能（因此可在您的Marketo帳戶中使用）。 建議使用者檢閱參考Marketo社交相關欄位的API查詢和整合，並確定這些欄位是否仍為持續業務流程的必要欄位。
+
+* **布林欄位的API合併功能**： API合併中的布林欄位行為在2026年3月發行版本中有所變更。 現在，系統會正確將False值視為該欄位有值。 評估衝突欄位時，只有null值會視為「空白」。 如需詳細資訊，請參閱[此社群貼文](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219){target="_blank"}。
 
 * **Rest API &#39;access_token&#39;引數淘汰**：用於驗證Marketo REST API呼叫的`access_token`查詢引數已淘汰，並將於2026年7月31日後無法使用。 所有新的和現有的整合都應使用「Authorization」標頭來驗證 REST API 呼叫，方法[如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
