@@ -16,10 +16,10 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
+source-git-commit: 5debaa373787b2e02c6af0da8d5c054a1e4f1aa7
 workflow-type: tm+mt
-source-wordcount: 628
-ht-degree: 19%
+source-wordcount: 695
+ht-degree: 17%
 
 ---
 
@@ -136,6 +136,8 @@ ht-degree: 19%
    * 抽獎
 
 今年早些時候，從Marketo中移除落後的相關欄位。 不久，參考特定社交相關潛在客戶欄位的API請求傳回「找不到欄位」錯誤，造成中斷。 受影響的欄位再次開放使用後，服務已還原，為避免進一步中斷，Marketo已永久中斷社交欄位與棄用的社交功能（因此可在您的Marketo帳戶中使用）。 建議使用者檢閱參考Marketo社交相關欄位的API查詢和整合，並確定這些欄位是否仍為持續業務流程的必要欄位。
+
+* **布林欄位的API合併功能**： API合併中的布林欄位行為在2026年3月發行版本中有所變更。 現在，系統會正確將False值視為該欄位有值。 評估衝突欄位時，只有null值會視為「空白」。 如需詳細資訊，請參閱[此社群貼文](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219?profile.language=zh-Hant){target="_blank"}。
 
 * **Rest API &#39;access_token&#39;引數淘汰**：用於驗證Marketo REST API呼叫的`access_token`查詢引數已淘汰，並將於2026年7月31日後無法使用。 所有新的和現有的整合都應使用「Authorization」標頭來驗證 REST API 呼叫，方法[如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
