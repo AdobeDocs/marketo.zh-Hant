@@ -33,7 +33,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->API合併中的布林值欄位行為在2026年3月版本中變更。 現在，系統會正確將False值視為該欄位有值。 評估衝突欄位時，只有null值會視為「空白」。 檢視[此社群貼文](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219){target="_blank"}更多詳細資料。
+>API合併中的布林值欄位行為在2026年3月版本中變更。 現在，系統會正確將False值視為該欄位有值。 評估衝突欄位時，只有null值會視為「空白」。 檢視[此社群貼文](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219?profile.language=zh-Hant){target="_blank"}更多詳細資料。
 
 >[!MORELIKETHIS]
 >
