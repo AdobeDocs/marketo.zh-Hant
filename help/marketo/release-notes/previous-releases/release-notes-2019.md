@@ -2,36 +2,10 @@
 title: 2019
 description: 2019 - Marketo檔案 — 產品檔案
 feature: Release Information
-feature_v2:
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
-  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
-  - id: de9e3aa9-f002-4fe1-897b-09ee3c55114b
-  - id: df8eb12b-4f82-491f-acbb-d74012ca5654
-  - id: ffdd6159-0e10-4a57-8021-94e93bab8183
-topic_v2:
-  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-  - id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8c
-  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 4d4669f3239b43afbcbd660644c8d1a35734a556
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e2290edd-b061-4880-9d79-dee306cf5aa9id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: a1d50dda-6d94-4e16-8c30-5eb7181c4650id: d5c7388a-594e-4d15-9b39-98d6ce479e8bid: de9e3aa9-f002-4fe1-897b-09ee3c55114bid: df8eb12b-4f82-491f-acbb-d74012ca5654id: ffdd6159-0e10-4a57-8021-94e93bab8183
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: bbbea26f-9621-49eb-9ab8-e06fb3bbce8cid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: d095671a-1355-40aa-8b5f-06c33c68080bid: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 5247efff11566852d4c7271f1d212cc233593c19
 workflow-type: tm+mt
 source-wordcount: 2528
 ht-degree: 0%
@@ -58,7 +32,7 @@ ht-degree: 0%
 >
 >Marketo正在將GoToWebinar的OAuth版本從1.0升級至2.0。 對OAuth 1.0的支援將於2019年1月終止支援。 如果您是GoToWebinar客戶，您必須在&#x200B;**2019年1月31日**&#x200B;前，透過LaunchPoint （在管理區域中）重新驗證您的登入，以確保您的整合可繼續運作。 如需詳細資訊，請參閱我們的[社群頁面](https://nation.marketo.com/docs/DOC-6739-gotowebinar-authentication-change-take-action-before-1312019)。
 
-## 核心平台增強功能 {#core-platform-enhancements}
+## 核心平台增強功能
 
 **[Marketo電子郵件的電子郵件副本](/help/marketo/product-docs/email-marketing/general/email-cc.md)**
 
@@ -75,7 +49,7 @@ ht-degree: 0%
 * **選擇退出管理**：將選擇退出Cookie網域與[!DNL Munchkin]追蹤Cookie網域比對，以輕鬆管理選擇退出。
 * **網域層級決定程式引數**：兩個字母的網域（即「[website.io](https://website.io)」）將在Marketo中自動追蹤，不需要額外的設定需求。
 
-## Marketo Sales Engage {#marketo-sales-engage}
+## Marketo Sales Engage
 
 * **[!DNL Salesforce]自訂設定檔**： Sales Engage現在支援無限制的自訂設定檔。
 
@@ -89,7 +63,7 @@ ht-degree: 0%
 * **適用於[!DNL Windows]**&#x200B;的OWA外掛程式：透過單一增益集，所有[!DNL Windows Office365]使用者端將可支援Sales Engage，因此能夠在Outlook中使用即時摘要。 新的外掛程式可在Microsoft商店中使用。
 * **活動推播程式**：將銷售參與同步處理至核心Marketo平台，以運用即時行銷深入分析。
 
-## [!DNL Marketo Sky] {#marketo-sky}
+## [!DNL Marketo Sky]
 
 >[!NOTE]
 >
@@ -108,7 +82,7 @@ ht-degree: 0%
 * **電子郵件方案可用性增強功能**：我們持續邁向在傳統Marketo銷售機會管理平台與新的[!DNL Marketo Sky]體驗之間實現電子郵件方案功能的對等化。
 * **具有網路研討會程式**：具有網路研討會程式[!DNL Marketo Sky]現已提供使用（注意：此版本僅支援GoToWebinar，並隨著時間建立進一步的整合）。
 
-## Account-Based Marketing {#account-based-marketing}
+## Account-Based Marketing
 
 **[ABM角色型細分與篩選](/help/marketo/product-docs/target-account-management/using-personas.md)**
 
@@ -159,7 +133,7 @@ ht-degree: 0%
 
 下列功能已於2019年3月15日發行。
 
-## 核心平台增強功能 {#core-platform-enhancements}
+## 核心平台增強功能
 
 * **已輪候：**&#x200B;當您要[保留成員](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)直到空缺開啟為止，要輪候成員的新計畫/事件狀態。 這適用於與Marketo Classic中的事件方案相關的管道，以及與[!DNL Marketo Sky]中的網路研討會方案相關的事件和事件。 依預設，「輪候」與「已註冊」的步驟值相同。
 * **[自訂通訊限制](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)**：管理員現在可以設定自訂每日或每週通訊限制。
@@ -177,19 +151,19 @@ Account-Based Marketing
 
 下列功能預計會在整個第一季度和第二季初發佈。
 
-## [!DNL Marketo Sky] {#marketo-sky}
+## [!DNL Marketo Sky]
 
 * **完整的電子郵件程式功能**：傳送電子郵件、建立A/B測試並追蹤結果，以提供使用者友善的體驗。
 * **智慧型行銷活動功能**：隨著智慧型行銷活動功能在Sky中繼續推出，讓您在新的使用者介面中享受增強的穩定性。
 * **管理Design Studio Assets**：新增從Design Studio清單檢視大量管理範本、影像、Forms、代碼片段、檔案、電子郵件和登入頁面的功能。
 * **在收件者時區傳遞控制面板**：瞭解客戶使用Sky中的在收件者時區傳遞功能所傳送電子郵件的報告行為。
 
-## Marketo Sales Engage {#marketo-sales-engage}
+## Marketo Sales Engage
 
 * **增強型稽核**：在例項中，新增其他使用者建立的[結束現有行銷活動](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md)的功能，以檢視所有人員、電子郵件和[內容](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md)。
 * **[取消訂閱管理](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)**：透過[封鎖電子郵件網域](/help/marketo/product-docs/marketo-sales-connect/admin/blocked-domains.md)的連絡功能，最大化傳遞能力及合規性。 Marketo在傳送電子郵件之前，也會交叉參考潛在客戶資料庫以取消訂閱。
 
-## 由Marketo進行的[!DNL Bizible] {#bizible-by-marketo}
+## 由Marketo進行的[!DNL Bizible]
 
 * **[!DNL Bizible]探索功能增強功能**：新的儀表板分段功能可讓行銷人員更清楚瞭解效能。
 * **多貨幣支援**：利用[!DNL Bizible]以CRM貨幣資料表為基礎的全新自動貨幣轉換功能，在您的公司貨幣與任何本幣之間切換。
@@ -212,7 +186,7 @@ Account-Based Marketing
 >
 >自2019年6月18日起，不再提供Email 1.0。 您可以在[此處](https://nation.marketo.com/docs/DOC-7038)進一步瞭解Email 2.0和Email 1.0的淘汰。
 
-## Account-Based Marketing {#account-based-marketing}
+## Account-Based Marketing
 
 * **[!DNL LinkedIn]帳戶比對(BETA)** ：測試版現在提供新的ABM功能，讓您能夠直接從Marketo將已知和空白帳戶清單傳送至LinkedIn。 此功能會自動納入所有Marketo ABM客戶中。
 
@@ -222,7 +196,7 @@ Account-Based Marketing
 
 下列功能預計會在整個第二行事曆季度並持續至2019年第三季初。
 
-## [!DNL Marketo Sky] {#marketo-sky}
+## [!DNL Marketo Sky]
 
 * **事件上限**&#x200B;和&#x200B;**事件目標**&#x200B;通常可在[!DNL Marketo Sky]中的Premium Events附加元件下取得。
 
@@ -246,13 +220,13 @@ Account-Based Marketing
 
 * **系統電子郵件範本**：更新設計、回應能力和國際化功能。
 
-## 由Marketo進行的[!DNL Bizible] {#bizible-by-marketo}
+## 由Marketo進行的[!DNL Bizible]
 
 * **[!DNL Dynamics]**&#x200B;的多重貨幣支援： [!DNL Bizible]現在可調整為[!DNL Microsoft Dynamics]貨幣表格，因此您可以輕鬆切換公司貨幣與當地貨幣。 （注意：對SFDC的支援已於2019年第1季度發行。）
 * **漂移整合**：瞭解漂移對話如何影響客戶的歷程。 [!DNL Bizible]也會從交談中擷取電子郵件地址，以建立新的銷售機會，或將接觸點連線到現有的銷售機會。
 * **本地化**： [!DNL Bizible]現在提供所有Marketo支援的語言（英文、日文、德文、西班牙文、法文和葡萄牙文）。
 
-_&#x200B;**產品發行網路研討會**&#x200B;_&#x200B;在[這裡](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html)觀看2019年6月Release Innovations網路研討會影片。
+_**產品發行網路研討會**_&#x200B;在[這裡](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html)觀看2019年6月Release Innovations網路研討會影片。
 
 ## 2019年8月 {#august}
 
@@ -294,3 +268,4 @@ _&#x200B;**產品發行網路研討會**&#x200B;_&#x200B;在[這裡](https://eng
 >**若要維持您的Marketo Engage存取權，請確定在2019年12月13日之前所有使用者端系統皆符合TLS 1.2規範**。 在[這裡](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq)可找到更多詳細資訊。
 
 **_產品發行網路研討會_** [於8月28日1:00PM PT / 4:00PM ET加入我們](https://engage.marketo.com/August_19_Release_Webinar.html)，參加我們產品團隊舉辦的即時網路研討會，並深入瞭解此發行版本包含的功能。
+

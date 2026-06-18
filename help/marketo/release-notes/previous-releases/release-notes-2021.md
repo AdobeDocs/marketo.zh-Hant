@@ -2,40 +2,10 @@
 title: 2021
 description: 2021 - Marketo檔案 — 產品檔案
 feature: Release Information
-feature_v2:
-  - id: a7170d27-32ab-462b-a333-269abc654483
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: ad89fb33-8541-4339-afe7-bb13d1633714
-  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
-  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
-  - id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
-  - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
-  - id: fc9b09fe-b844-4544-887b-e420c3b82065
-  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
-  - id: ffdd6159-0e10-4a57-8021-94e93bab8183
-topic_v2:
-  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: beb7a3c1-66ab-4786-b879-7621375b3c40
-  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-  - id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 4d4669f3239b43afbcbd660644c8d1a35734a556
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f71e690b-4480-4b67-9ef5-88f42f9cdfdbid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: ad89fb33-8541-4339-afe7-bb13d1633714id: d0251300-e25f-466f-9856-7e11ce8fa7aaid: d5c7388a-594e-4d15-9b39-98d6ce479e8bid: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46id: fc9b09fe-b844-4544-887b-e420c3b82065id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5id: ffdd6159-0e10-4a57-8021-94e93bab8183
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: beb7a3c1-66ab-4786-b879-7621375b3c40id: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: d095671a-1355-40aa-8b5f-06c33c68080bid: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3id: eddd9b14-83bd-4ff4-9072-54a4a484abb7id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 5247efff11566852d4c7271f1d212cc233593c19
 workflow-type: tm+mt
 source-wordcount: 4732
 ht-degree: 1%
@@ -56,9 +26,9 @@ ht-degree: 1%
 
 下列功能將於&#x200B;**2021年1月15日**&#x200B;發行。
 
-## 新一代的使用者體驗 {#next-generation-user-experience}
+## 新一代的使用者體驗
 
-* 對工作區的支援：Marketo Engage的新一代使用者體驗將Adobe Experience Cloud的外觀與感覺與生產力創新結合在一起，以協助行銷人員更快速、更聰明地工作。 在最新版本中，我們新增對工作區和分割區的完整支援，包括跨工作區共用資料夾的功能。 右側畫布提供切換開關，可讓您為每個功能在舊體驗和新體驗之間無縫轉換，而不會失去內容。 [進一步瞭解](https://nation.marketo.com/t5/The-modern-ux/modern-ux-FAQ/ba-p/307124)，瞭解有關Marketing Nation的新一代體驗常見問題。
+* 對工作區的支援：Marketo Engage的新一代使用者體驗將Adobe Experience Cloud的外觀與感覺與生產力創新結合在一起，以協助行銷從業人員更快速、更聰明地工作。 在最新版本中，我們新增對工作區和分割區的完整支援，包括跨工作區共用資料夾的功能。 右側畫布提供切換開關，可讓您為每個功能在舊體驗和新體驗之間無縫轉換，而不會失去內容。 [進一步瞭解](https://nation.marketo.com/t5/The-modern-ux/modern-ux-FAQ/ba-p/307124)，瞭解有關Marketing Nation的新一代體驗常見問題。
 
 ## 多管道Personalization {#multi-channel-personalization}
 
@@ -89,7 +59,7 @@ ht-degree: 1%
 
 下列功能採用非季度週期，並將在未來幾個月發行。
 
-## [!DNL Sales Insight] {#sales-insight}
+## [!DNL Sales Insight]
 
 ![（星形）](assets/yellow-star.png)
 
@@ -99,7 +69,7 @@ ht-degree: 1%
 * **[[!DNL Sales Insight] 針對非原生 [!DNL Salesforce] CRM整合](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)**： GA訂閱搭配自訂Salesforce CRM整合，可以安裝[!DNL Sales Insight]套件，並幫助銷售團隊排定優先順序，並與最有希望的潛在客戶和商機互動。
 * **[最佳銷售機會增強功能](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/best-bets.md)**：透過電子郵件傳送或新增至Marketo Engage促銷活動，快速連絡「最佳銷售機會」標籤的熱門銷售機會。 在Marketo Engage中檢視銷售機會，或將其新增至您的關注清單。 [!UICONTROL Best Bets]標籤上的大量動作和排序選項可節省時間並改善銷售團隊的效率。
 
-## [!DNL Sales Connect] {#sales-connect}
+## [!DNL Sales Connect]
 
 ![（星形）](assets/yellow-star.png)
 
@@ -111,7 +81,7 @@ ht-degree: 1%
 
 **_公告與棄用_**
 
-* 所有使用者必須在2021年1月15日&#x200B;**之前升級至最新版本的Sales Insight**。 如果您尚未完成升級，系統會在您登入應用程式時，提示您完成升級。 請依照本指南[&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md)中的指示操作。 更新版本包含已識別安全性弱點的修補程式。 此修補程式最初於2016年4月6日發行。 注意： **1.4363版或以上版本**&#x200B;不需要執行升級。
+* 所有使用者必須在2021年1月15日&#x200B;**之前升級至最新版本的Sales Insight**。 如果您尚未完成升級，系統會在您登入應用程式時，提示您完成升級。 請依照本指南](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md)中的指示[操作。 更新版本包含已識別安全性弱點的修補程式。 此修補程式最初於2016年4月6日發行。 注意： **1.4363版或以上版本**&#x200B;不需要執行升級。
 * Form 1.0服務的棄用將在&#x200B;**2021年5月**&#x200B;發行版本中生效。 Forms 1.0服務將完全淘汰，導致任何仍在使用的Forms 1.0資產失去功能。 此外，透過不支援的方法（例如程式化表單POST至leadCapture/save和leadCapture/save2端點）提交的表單將會遭到拒絕。 如需詳細資訊與補救，請參閱[我們在Marketing Nation](https://nation.marketo.com/t5/Product-Documents/Upcoming-Changes-to-the-Marketo-Engage-Form-Platform/ta-p/306631)的貼文。
 * 2021年，Marketo Engage將變更登陸頁面、表單及影像和檔案資產的URL結構。 對於現有的Marketo Engage訂閱，我們將於2021年4月1日開始逐步推出。 有關轉出時間表的更多詳細資訊將於2021年3月發佈。 如需每個受影響資產型別將如何變更的詳細資訊，請參閱[我們在Marketing Nation](https://nation.marketo.com/t5/Product-Documents/Upcoming-Changes-to-Design-Studio-URLs/ta-p/306632)的貼文。
 
@@ -135,11 +105,11 @@ ht-degree: 1%
 
 * **帳戶智慧清單（一般可用性）** ![](assets/yellow-star.png)：使用跨管道行銷活動中要鎖定的所需帳戶和個人屬性，動態識別並限定帳戶，並及時傳送警示給銷售人員，以更快完成交易。 這項新功能可讓帳戶式行銷策略實現強大的自動化功能。 帳戶智慧清單適用於擁有新一代使用者體驗之Target帳戶管理的客戶。
 
-## 新一代的使用者體驗 {#next-generation-user-experience}
+## 新一代的使用者體驗
 
 透過全域搜尋預覽，行銷人員可快速檢視共用資產存在於其例項中的位置。 瀏覽器索引標籤會顯示位置，以改善[!UICONTROL Marketing Activities]或[!UICONTROL Design Studio]中的導覽。 其他樹狀結構和全域搜尋篩選器有助於縮小您的搜尋條件。 樹狀結構中的拖放功能已恢復，讓您在主要應用程式區域中快速且有效率地行動資料夾和資產。 最新更新的圖示（符合Adobe的協助工具標準）和狀態徽章可讓行銷人員在樹狀結構中快速輕鬆地區分資料夾和資產，並識別計畫和資產的狀態。
 
-## 體驗自動化 {#experience-automation}
+## 體驗自動化
 
 * **執行行銷活動流程步驟**：透過智慧行銷活動的新流程步驟，簡化行銷活動建立工作流程並改善行銷活動績效。 透過新的「執行行銷活動」流程步驟，從任何Smart Campaign呼叫並執行的工作區中重複工作（例如國家/地區程式碼標準化）的集中範本行銷活動，並加以儲存。 連結的行銷活動會以指定的順序執行，並在前進到下一個流程步驟之前確保任務完成。 在一個集中式行銷活動中快速編輯流程，以更新使用它的每個Smart Campaign，簡化資料管理、領導評分和路由工作流程。
 
@@ -153,7 +123,7 @@ ht-degree: 1%
 
 * **篩選掉電子郵件機器人活動**：透過新的電子郵件機器人活動篩選功能，防止意外銷售警示和不正確的電子郵件報告。 識別並篩選出可能與電子郵件機器人相關聯的開啟和點按，檢查導致錯誤觸發器和銷售警報，或不正確報告的連結。
 
-## API增強功能 {#api-enhancements}
+## API增強功能
 
 大量和潛在客戶API的幾項重要更新，包括大量匯出自訂物件資料的功能、將公司與潛在客戶大量建立關聯的功能、根據主要屬性篩選大量活動擷取的功能，以及建立和更新方案成員資格的功能。
 
@@ -181,13 +151,13 @@ ht-degree: 1%
 
 * **依銷售機會ID搜尋**：快速存取在銷售機會資料庫或靜態清單中依Adobe Marketo Engage銷售機會ID搜尋的銷售機會記錄。 在[快速尋找]視窗中，只要輸入對應編號的`[id]`即可，就會顯示潛在客戶資訊。 使用者可以快速檢視潛在客戶、公司或商機的詳細資訊。
 
-## Bizible {#bizible}
+## Bizible
 
 ![](assets/yellow-star.png)
 
 * **與[!DNL LinkedIn] Lead Gen Forms (Beta)整合**：透過Bizible優質歸因解決方案，深入瞭解您的[!DNL LinkedIn]通路支出和ROI。 透過與[!DNL LinkedIn]的Lead Gen Forms的最新整合，Bizible將insight帶入已在[!DNL LinkedIn]平台內提交的表單。 這些表單填寫會比對您CRM （客戶關係管理）或Adobe Marketo Engage執行個體的銷售機會，因此符合歸因資格，並可根據您的其他行銷活動進行追蹤。
 
-## 公告 {#announcements}
+## 公告
 
 * **Marketo產品檔案切換平台**：我們很高興宣佈，自5月7日星期五起，Marketo產品檔案已加入Adobe Experience League。 您仍可使用URL： docs.marketo.com ，如果您有任何已建立書籤的現有文章，系統將會重新導向您。 新平台提供所有產品檔案，並計畫於今年晚些時候推出增強功能。
 
@@ -209,9 +179,9 @@ ht-degree: 1%
 
 下列功能將於&#x200B;**2021年8月20日**&#x200B;發行。
 
-## 體驗自動化 {#experience-automation}
+## 體驗自動化
 
-* **透過Marketo Engage Identity進行Adobe使用者驗證**：不久將使用Adobe ID使用者認證來上線具有Enterprise套件的新Marketo Engage使用者。 目前的使用者要到2022年年中才會移轉至整合式身分系統，而且除非另行通知，否則不需要採取任何動作。 Adobe身分使用者驗證可讓IT/安全管理員管理多個Marketo Engage產品執行個體及其他Experience Cloud解決方案，並透過通用主控台設定SSO。 管理員可以在一個位置方便地管理使用者群組和使用者權益。
+* **透過Marketo Engage Identity進行Adobe使用者驗證**：不久將使用Adobe ID使用者認證來上線具有Enterprise套件的新Marketo Engage使用者。 目前的使用者要到2022年年中才會移轉至整合式身分系統，而且除非另行通知，否則不需要採取任何動作。 Adobe身分使用者驗證可讓IT/安全性管理員管理多個Marketo Engage產品執行個體及其他Experience Cloud解決方案，並透過通用主控台設定SSO。 管理員可以在一個位置方便地管理使用者群組和使用者權益。
 
 * **可執行促銷活動巢狀內嵌**：可執行促銷活動現在也可以呼叫其他可執行促銷活動，讓您最多可將其巢狀內嵌至三層深。 這可進一步整合常見作業流程，並改善Smart Campaign管理。
 
@@ -219,7 +189,7 @@ ht-degree: 1%
 
 * **[自訂活動匯出](/help/marketo/product-docs/administration/marketo-custom-activities/custom-activity-metadata-export.md)**：中繼資料匯出現在支援所有物件和個別中繼資料，這些物件和中繼資料可用來共用、分析和設計您的訂閱資料模型。
 
-## API增強功能 {#api-enhancements}
+## API增強功能
 
 * **提交表單API**：當電子郵件地址在兩個或更多潛在客戶記錄中重複時，我們會更新「上次更新」記錄而不是完全跳過。 提供與Forms 2.0 API的同等功能。
 
@@ -229,13 +199,13 @@ ht-degree: 1%
 
 下列功能採用非季度週期，並將在未來幾個月發行。
 
-## [!DNL Sales Insight] {#sales-insight}
+## [!DNL Sales Insight]
 
 ![（星形）](assets/yellow-star.png)
 
 * **Salesforce CRM使用者的Lead、Contact、Account及Opportunity活動可見度提升**：由於[!DNL Sales Insight]中的參與記錄數量增加，在長銷售週期期間與潛在客戶互動會更明智。 有趣的時刻、網頁活動、電子郵件和分數索引標籤會顯示Lead、Contact、Account和Opportunity物件中最多400個活動。
 
-## [!DNL Sales Connect] {#sales-connect}
+## [!DNL Sales Connect]
 
 ![（星形）](assets/yellow-star.png)
 
@@ -247,11 +217,11 @@ ht-degree: 1%
 
 * **增強型銷售活動深入分析**：根據您銷售團隊先前的活動，擷取並啟用個人化參與。 新的屬性（例如「銷售電話錄音」連結、銷售促銷活動名稱和銷售電子郵件主旨）可用於Marketo Engage智慧清單。  這些活動可透過Marketo Engage REST API或大量匯出功能匯出和報告，並可在篩選器和觸發器上使用，作為智慧清單的額外限制。
 
-## [!DNL Bizible] {#bizible}
+## [!DNL Bizible]
 
 ![](assets/yellow-star.png)
 
-* **[!DNL Bizible]&#x200B;[!DNL LinkedIn] Lead Gen Forms整合**：行銷人員現在可以對[!DNL LinkedIn]透過其Lead Gen Forms廣告單位擷取表單填寫時發生的轉換執行收入歸因。 這些見解可用於最佳化表單效能和付費媒體投資。[!DNL LinkedIn] Lead Gen Forms是[!DNL LinkedIn]成長最快的付費媒體方案之一，這項新功能包含在我們與[!DNL Bizible]的現有[!DNL LinkedIn]廣告整合中。
+* **[!DNL Bizible][!DNL LinkedIn] Lead Gen Forms整合**：行銷人員現在可以對[!DNL LinkedIn]透過其Lead Gen Forms廣告單位擷取表單填寫時發生的轉換執行收入歸因。 這些見解可用於最佳化表單效能和付費媒體投資。[!DNL LinkedIn] Lead Gen Forms是[!DNL LinkedIn]成長最快的付費媒體方案之一，這項新功能包含在我們與[!DNL Bizible]的現有[!DNL LinkedIn]廣告整合中。
 
 * **已改善Velocity儀表板**：我們已新增新的Velocity量度和儀表板篩選器，以取得更深入的見解。 此儀表板可供行銷人員用來瞭解逐階段銷售線索和機會速度，以及不同行銷和銷售參與形式的效率。
 
@@ -263,11 +233,11 @@ ht-degree: 1%
 
 * **[!DNL Bizible]與Adobe Privacy Service**&#x200B;的整合（2021年9月推出）： [!DNL Bizible]與Adobe Privacy Service的整合可跨Adobe Experience Cloud應用程式集中遵循關鍵資料隱私權法規（例如GDPR）。 您現在可以善用此服務，集中管理所有隱私權要求，以便在[!DNL Bizible]和其他Adobe產品中反映的變更要求。
 
-* Adobe Unified Shell **上的**&#x200B;[!DNL Bizible]： [!DNL Bizible]採用Adobe Unified Shell後，使用者可擁有新功能，這些功能將出現在[!DNL Bizible]應用程式標題列中，並可更輕鬆存取支援資源及應用程式切換。 Adobe Unified Shell可協助在[!DNL Bizible]和其他Adobe Experience Cloud應用程式之間建立一致的體驗。
+* Adobe Unified Shell **上的**[!DNL Bizible]： [!DNL Bizible]採用Adobe Unified Shell後，使用者可擁有新功能，這些功能將出現在[!DNL Bizible]應用程式標題列中，並可更輕鬆存取支援資源及應用程式切換。 Adobe Unified Shell可協助在[!DNL Bizible]和其他Adobe Experience Cloud應用程式之間建立一致的體驗。
 
-* **[!DNL Bizible]網域擁有權和自我管理**： [!DNL Bizible]使用者可運用Adobe Admin Console來管理他們要[!DNL Bizible]追蹤的網域。 這可為先前手動的流程帶來自助服務，並提供在Adobe Experience Cloud應用程式間管理網域所有權和追蹤的一致體驗。
+* **[!DNL Bizible]網域擁有權和自我管理**： [!DNL Bizible]使用者可運用Adobe Admin Console來管理他們要[!DNL Bizible]追蹤的網域。 這項功能為先前手動的流程提供自助服務，並可在Adobe Experience Cloud應用程式間提供網域擁有權和追蹤管理方式的一致體驗。
 
-## 公告 {#announcements}
+## 公告
 
 * **更新至訂閱通用ID設定**：為了支援現有使用者即將整合的Marketo Engage和Adobe身分，所有Marketo Engage訂閱將在啟用通用ID支援中整合。
 
@@ -299,7 +269,7 @@ ht-degree: 1%
 
 * **監視工作**：透過全域導覽列中的新工作通知匣監視新體驗背景中執行的工作狀態。 系統匣會擷取從表單詳細資料和登陸頁面清單的新體驗檢視所啟動任務的通知，包括變更登陸頁面上的狀態以及使用新體驗的一般整批動作。
 
-## 體驗自動化 {#experience-automation}
+## 體驗自動化
 
 * **提交表單API程式成員自訂欄位支援**：提交表單API端點已升級為支援程式成員自訂欄位，允許自訂表單整合以收集程式特定資料。
 
@@ -311,7 +281,7 @@ ht-degree: 1%
 
 * **Adobe Experience Platform Marketo Data Source Connector**： Adobe Experience Platform和Marketo Engage的使用者將能利用Marketo Source Connector，將資料從Marketo帶到AEP。 您將能夠在AEP中從Marketo串流資料（及其變更），以保持兩個產品之間的資料一致。 您可透過「Marketo應用程式」底下的「來源」目錄看見Adobe聯結器。
 
-## [!DNL Sales Insight] {#sales-insight}
+## [!DNL Sales Insight]
 
 ![（星形）](assets/yellow-star.png)
 
@@ -321,11 +291,11 @@ ht-degree: 1%
 
 * **新電子郵件、網頁活動、匿名網頁活動儀表板**：我們新增了新的銷售儀表板，以通知賣家其銷售機會和連絡人最近的電子郵件和網頁活動。 透過新的篩選功能，儀表板現在可將insight提供給電子郵件開啟、點按和網頁瀏覽次數，以獲得完整的帳戶清單或特定帳戶。 Marketo Engage會追蹤所有網路活動，並為銷售人員提供重要資訊，將匿名流量轉化為銷售機會。 賣家可以個人化參與度，並更快將銷售線索轉換為銷售，因為他們更瞭解銷售線索行為，並根據所有接觸點的相關性行事。
 
-[!DNL Salesforce]&#x200B;**的**&#x200B;[!DNL Sales Insight]
+[!DNL Salesforce]**的**[!DNL Sales Insight]
 
 * **帳戶和機會層級[!UICONTROL Best Bets]**： [!DNL Sales Insight]現在讓銷售代表能夠檢閱他們擁有的帳戶或機會上所有連絡人的首選，即使連絡人已指派給不同的團隊成員。 這可讓帳戶和機會擁有者完整地瞭解相關聯絡人的活動，並協助他們根據帳戶或機會的更整體檢視採取行動。
 
-## [!DNL Sales Connect] {#sales-connect}
+## [!DNL Sales Connect]
 
 ![（星形）](assets/yellow-star.png)
 
@@ -333,13 +303,13 @@ ht-degree: 1%
 
 * **簡化使用者體驗**：此更新會針對[!DNL Sales Connect]引入以Adobe Spectrum設計系統為基礎的新字型、色彩、按鈕和模式。 透過這些更新，我們將提供更有效率的體驗，讓賣家可以在需要時專注於所需專案。
 
-## [!DNL Bizible] {#bizible}
+## [!DNL Bizible]
 
 ![](assets/yellow-star.png)
 
-* **[!DNL Bizible]與Adobe Privacy Service (GA)的整合**： [!DNL Bizible]與Adobe Privacy Service的整合可集中管理對關鍵資料隱私權法規的合規性，例如Adobe Experience Cloud應用程式中的GDPR （一般資料隱私權規範）或CCPA （加州消費者隱私權法案）。 您現在可以善用此服務，並透過Adobe的Privacy Service集中管理所有隱私權要求，以便來自[!DNL Bizible]和其他Adobe產品的變更要求會反映在應用程式中。
+* **[!DNL Bizible]與Adobe Privacy Service (GA)的整合**： [!DNL Bizible]與Adobe Privacy Service的整合可集中對重大資料隱私權法規的合規性，例如Adobe Experience Cloud應用程式中的GDPR （一般資料隱私權法規）或CCPA （加州消費者隱私權法案）。 您現在可以善用此服務，並透過Adobe的Privacy Service集中管理所有隱私權要求，以便來自[!DNL Bizible]和其他Adobe產品的變更要求會反映在應用程式中。
 
-## 公告 {#announcements}
+## 公告
 
 * **關聯銷售機會淘汰/Munchkin Beta 161更新**：自2021年9月7日起，Munchkin版本161開始推出10%的訂閱，並啟用Munchkin Beta，接著於9月16日推出50%，9月30日再推出100%。 此變更會影響Marketo Engage登陸頁面，以及服務給外部登陸頁面（從已推出最新版本的訂閱載入）的檔案munchkin-beta.js版本。 此版本已完全淘汰[!DNL Munchkin] Associate Lead方法，這是一種允許將個人資料提交至Marketo Engage訂閱的功能，以及與已知個人記錄關聯的網頁瀏覽歷史記錄。 Associate Lead正在移除，以支援更現代且安全的替代方案，例如Forms JS API、Form Submit API和Associate Lead REST API。 [在此瞭解更多關於此過時的資訊](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)。
 
@@ -348,3 +318,4 @@ ht-degree: 1%
 **_產品發行網路研討會_**
 
 [2021年10月Marketo Engage發行網路研討會](https://engage.marketo.com/October_Release_Webinar_On-Demand.html)
+
