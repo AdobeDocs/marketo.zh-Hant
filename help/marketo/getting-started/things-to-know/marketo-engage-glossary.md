@@ -5,46 +5,13 @@ title: Marketo Engage 字彙表
 feature: Getting Started
 exl-id: dd97b50c-4148-473e-b9fb-4e76ef733e5d
 TQID: https://experienceleague.adobe.com/PTGIP2b0gv2iYVUC6dXES-Sh2XNeCLZJT-VnWZ5-1Yk
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: a7170d27-32ab-462b-a333-269abc654483
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-  - id: c954475c-8548-4e33-a0b8-6b550d956115
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-subfeature_v2:
-  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
-  - id: ad89fb33-8541-4339-afe7-bb13d1633714
-  - id: be80ef53-082b-4612-a88f-dfce57d36b02
-  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
-  - id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
-  - id: cfb57412-021b-4a60-afde-b402d442e24f
-  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
-  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
-  - id: d5f08d55-2fea-44e2-b699-c9c3a8a79cf1
-  - id: df8eb12b-4f82-491f-acbb-d74012ca5654
-  - id: ea6641cb-8461-4151-a8a9-9faaa44a928a
-  - id: edda586e-0147-48f2-b791-992622a00783
-  - id: fc5011cf-5b46-40b1-a5de-d7f042f85633
-  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
-  - id: ffdd6159-0e10-4a57-8021-94e93bab8183
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-  - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: c2dbad80-0f5c-4d96-a798-2a65f93b8721id: c5f60233-d5ea-4453-a799-0ad258b4d399id: c954475c-8548-4e33-a0b8-6b550d956115id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2: id: a1d50dda-6d94-4e16-8c30-5eb7181c4650id: ad89fb33-8541-4339-afe7-bb13d1633714id: be80ef53-082b-4612-a88f-dfce57d36b02id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272id: cfb57412-021b-4a60-afde-b402d442e24fid: d0251300-e25f-466f-9856-7e11ce8fa7aaid: d5c7388a-594e-4d15-9b39-98d6ce479e8bid: d5f08d55-2fea-44e2-b699-c9c3a8a79cf1id: df8eb12b-4f82-491f-acbb-d74012ca5654id: ea6641cb-8461-4151-a8a9-9faaa44a928aid: edda586e-0147-48f2-b791-992622a00783id: fc5011cf-5b46-40b1-a5de-d7f042f85633id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5id: ffdd6159-0e10-4a57-8021-94e93bab8183
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: d095671a-1355-40aa-8b5f-06c33c68080bid: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eb30f47f-d87a-400f-8f78-63ce7979ff56id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 6137b262cf085d5b270d16e0bf3e4e39351c5af4
 workflow-type: tm+mt
-source-wordcount: 6102
+source-wordcount: 6103
 ht-degree: 62%
 
 ---
@@ -331,7 +298,7 @@ ht-degree: 62%
     <div>
      <p><strong> 預設方案</strong></p>
     </div></td>
-   <td colspan="1">Marketo 中的一種方案類型。 電子郵件、活動或參與計畫不相關時，您會使用的通用計畫。 <br></td>
+   <td colspan="1">Marketo 中的一種方案類型。 當電子郵件、活動或參與計畫不相關時，您將使用的通用計畫。 <br></td>
   </tr>
   <tr>
    <td colspan="1"><strong>專用IP位址</strong></td>
