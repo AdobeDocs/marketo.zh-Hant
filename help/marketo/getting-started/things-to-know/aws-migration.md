@@ -4,9 +4,9 @@ title: AWS移轉
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 51020c6772c6a81ef53f3a0effcf43cda01f85f4
+source-git-commit: 9c2784f06be42e5b65cd338a18b0d37a8fa48d9a
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: '392'
 ht-degree: 2%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 2%
 
 * **檢閱並更新IP允許清單**，以取得登入、API存取、電子郵件傳送、網頁追蹤和整合。
 
-* **新增IP位址**&#x200B;並保留您目前的IP不變。 檢視要透過下方[&#128279;](#ip-addresses)的表格新增的IP位址。
+* **新增IP位址**&#x200B;並保留您目前的IP不變。 檢視要透過下方](#ip-addresses)的[表格新增的IP位址。
 
 ## 預期的服務影響
 
@@ -56,11 +56,6 @@ ht-degree: 2%
    <th style="width:30%">時間</th>
   </tr>
   <tr>
-   <td>2026年6月19日</td>
-   <td>AB46</td>
-   <td>已延遲</td>
-  </tr>
-  <tr>
    <td>2026年7月8日</td>
    <td>AB69<br>
    AB64</td>
@@ -73,6 +68,11 @@ ht-degree: 2%
    AB43</td>
    <td>下午5點PDT<br>
    下午6點PDT</td>
+  </tr>
+  <tr>
+   <td>2026年7月11日</td>
+   <td>AB46</td>
+   <td>上午10點PDT</td>
   </tr>
   <tr>
    <td>2026年7月13日</td>
@@ -93,7 +93,7 @@ ht-degree: 2%
    <td>上午10點PDT<br>
    上午11點PDT</td>
   </tr>
-  &lt;/body>
+  </body>
 </table>
 
 ## 要新增的IP位址 {#ip-addresses}
@@ -118,9 +118,9 @@ ht-degree: 2%
 18.200.201.81<br>
 54.220.138.65</td>
 </tr>
-&lt;/body>
+</body>
 </table>
 
 ## 更新與支援
 
-如需最新更新，請將此頁面加入書籤。 如果您有任何問題，請透過Admin Console的支援入口網站或[Experience League](https://experienceleague.adobe.com/zh-hant/support){target="_blank"}聯絡Adobe支援。
+如需最新更新，請將此頁面加入書籤。 如果您有任何問題，請透過Admin Console的支援入口網站或[Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}聯絡Adobe支援。
