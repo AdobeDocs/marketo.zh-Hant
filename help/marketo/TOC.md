@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: 39fef7edc7c475efd901a75235ccf7b25f789793
+source-git-commit: e3e7991f0a8fcdb18f7be8c5a25c3c7904ef9ed6
 workflow-type: tm+mt
 source-wordcount: '8898'
 ht-degree: 96%
@@ -1110,7 +1110,7 @@ ht-degree: 96%
    + Marketo AI {#marketo-ai}
       + [概觀](product-docs/marketo-ai/overview.md)
       + [設定與設定](product-docs/marketo-ai/settings-setup.md)
-      + {hide-from-toc}[Marketo AI資料資訊表](product-docs/marketo-ai/data-information.md)
+      + [Marketo AI資料資訊表](product-docs/marketo-ai/data-information.md)
       + 技能 {#skills}
          + [產品知識](product-docs/marketo-ai/skills/product-knowledge.md)
          + {hide-from-toc}[表面分析](product-docs/marketo-ai/skills/surface-insights.md)
