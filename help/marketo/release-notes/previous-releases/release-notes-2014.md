@@ -1,5 +1,5 @@
 ---
-title: 2014
+title: "2014"
 description: 2014 - Marketo檔案 — 產品檔案
 feature: Release Information
 feature_v2:
@@ -23,9 +23,9 @@ topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: ad6fe9ab015682c15426fdc416cf6d243c83f297
+source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
 workflow-type: tm+mt
-source-wordcount: 3266
+source-wordcount: 3274
 ht-degree: 1%
 
 ---

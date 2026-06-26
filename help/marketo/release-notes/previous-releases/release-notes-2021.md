@@ -1,5 +1,5 @@
 ---
-title: 2021
+title: "2021"
 description: 2021 - Marketo檔案 — 產品檔案
 feature: Release Information
 feature_v2:
@@ -35,7 +35,7 @@ topic_v2:
   - id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 5247efff11566852d4c7271f1d212cc233593c19
+source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
 workflow-type: tm+mt
 source-wordcount: 4732
 ht-degree: 1%

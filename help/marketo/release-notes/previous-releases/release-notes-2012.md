@@ -1,5 +1,5 @@
 ---
-title: 2012
+title: "2012"
 description: 2012 - Marketo檔案 — 產品檔案
 feature: Release Information
 feature_v2:
@@ -18,9 +18,9 @@ topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: ad6fe9ab015682c15426fdc416cf6d243c83f297
+source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
 workflow-type: tm+mt
-source-wordcount: 3286
+source-wordcount: 3294
 ht-degree: 1%
 
 ---

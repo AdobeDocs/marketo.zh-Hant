@@ -4,10 +4,10 @@ title: AWS移轉
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 6137b262cf085d5b270d16e0bf3e4e39351c5af4
+source-git-commit: 9c2784f06be42e5b65cd338a18b0d37a8fa48d9a
 workflow-type: tm+mt
-source-wordcount: '363'
-ht-degree: 3%
+source-wordcount: '392'
+ht-degree: 2%
 
 ---
 
@@ -56,51 +56,70 @@ ht-degree: 3%
    <th style="width:30%">時間</th>
   </tr>
   <tr>
-   <td>2026年6月19日</td>
-   <td>AB46</td>
-   <td>下午5點（太平洋標準時間）</td>
-  </tr>
-  <tr>
    <td>2026年7月8日</td>
    <td>AB69<br>
    AB64</td>
-   <td>下午5點（太平洋標準時間）<br>
-   下午6點（太平洋標準時間）</td>
+   <td>下午5點PDT<br>
+   下午6點PDT</td>
   </tr>
   <tr>
    <td>2026年7月9日</td>
    <td>AB70<br>
    AB43</td>
-   <td>下午5點（太平洋標準時間）<br>
-   下午6點（太平洋標準時間）</td>
+   <td>下午5點PDT<br>
+   下午6點PDT</td>
+  </tr>
+  <tr>
+   <td>2026年7月11日</td>
+   <td>AB46</td>
+   <td>上午10點PDT</td>
+  </tr>
+  <tr>
+   <td>2026年7月13日</td>
+   <td>NLD101</td>
+   <td>上午10點PDT</td>
+  </tr>
+  <tr>
+   <td>2026年7月15日</td>
+   <td>NLD102<br>
+   NLD104</td>
+   <td>上午10點PDT<br>
+   上午11點PDT</td>
+  </tr>
+  <tr>
+   <td>2026年7月17日</td>
+   <td>NLD103<br>
+   NLD105</td>
+   <td>上午10點PDT<br>
+   上午11點PDT</td>
   </tr>
   &lt;/body>
-  </table>
+</table>
 
 ## 要新增的IP位址 {#ip-addresses}
 
 根據您的資料中心，與您的IT部門合作，以新增個別IP位址。
 
 <table>
- <tbody>
-  <tr>
-   <th style="width:25%">資料中心</th>
-   <th style="width:75%">IP位址</th>
-  </tr>
-  <tr>
-   <td>AB</td>
-   <td>54.160.246.246<br>
-   54.237.141.197<br>
-   52.20.211.99</td>
-  </tr>
-  <tr>
-   <td>NLD</td>
-   <td>34.247.24.245<br>
+<tbody>
+<tr>
+  <th style="width:25%">資料中心</th>
+  <th style="width:75%">IP位址</th>
+</tr>
+<tr>
+  <td>AB</td>
+  <td>54.160.246.246<br>
+  54.237.141.197<br>
+  52.20.211.99</td>
+</tr>
+<tr>
+  <td>NLD</td>
+  <td>34.247.24.245<br>
 18.200.201.81<br>
 54.220.138.65</td>
-  </tr>
-  &lt;/body>
-  </table>
+</tr>
+&lt;/body>
+</table>
 
 ## 更新與支援
 

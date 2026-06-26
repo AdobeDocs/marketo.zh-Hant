@@ -1,5 +1,5 @@
 ---
-title: 2017
+title: "2017"
 description: 2017 - Marketo檔案 — 產品檔案
 feature: Release Information
 feature_v2:
@@ -22,7 +22,7 @@ topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 5247efff11566852d4c7271f1d212cc233593c19
+source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
 workflow-type: tm+mt
 source-wordcount: 2301
 ht-degree: 0%

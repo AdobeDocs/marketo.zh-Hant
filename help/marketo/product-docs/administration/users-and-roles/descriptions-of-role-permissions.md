@@ -28,9 +28,9 @@ topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: e8a199f7105f301b7328def28ea172da00285da9
 workflow-type: tm+mt
-source-wordcount: 1344
+source-wordcount: 1338
 ht-degree: 1%
 
 ---
@@ -234,15 +234,10 @@ ht-degree: 1%
 * 刪除行銷資產
 * 編輯行銷活動限制
 * 編輯行銷資產
-* 匯出行銷活動活動&#42;
+* 匯出行銷活動內容
 * 匯入計畫
 * 清單匯入
 * 排程批次行銷活動
-
-存取SEO
-
-* 管理SEO
-* 標準SEO
 
 ## 目標定位與Personalization {#targeting-and-personalization}
 
