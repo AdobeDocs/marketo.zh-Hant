@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: 39fef7edc7c475efd901a75235ccf7b25f789793
+source-git-commit: e3e7991f0a8fcdb18f7be8c5a25c3c7904ef9ed6
 workflow-type: tm+mt
 source-wordcount: '8898'
 ht-degree: 96%
@@ -34,7 +34,7 @@ ht-degree: 96%
       + [傳統圖示字彙表](getting-started/things-to-know/classic-icon-glossary.md)
       + [說明中心](getting-started/things-to-know/help-center.md)
       + [訂閱系統狀態通知](getting-started/things-to-know/system-status-notifications.md)
-      + {hide-from-toc}[產品知識的AI助理](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
+      + 產品知識的{hide-from-toc}[AI助理](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
       + {hide-from-toc}[AWS移轉](getting-started/things-to-know/aws-migration.md)
       + {hide-from-toc}[新UI](getting-started/things-to-know/new-ui.md)
    + 快速成果 {#quick-wins}
@@ -1110,7 +1110,7 @@ ht-degree: 96%
    + Marketo AI {#marketo-ai}
       + [概觀](product-docs/marketo-ai/overview.md)
       + [設定與設定](product-docs/marketo-ai/settings-setup.md)
-      + {hide-from-toc}[Marketo AI資料資訊表](product-docs/marketo-ai/data-information.md)
+      + [Marketo AI資料資訊表](product-docs/marketo-ai/data-information.md)
       + 技能 {#skills}
          + [產品知識](product-docs/marketo-ai/skills/product-knowledge.md)
          + {hide-from-toc}[表面分析](product-docs/marketo-ai/skills/surface-insights.md)
