@@ -12,9 +12,9 @@ feature_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 427d3327b9d5641dbc6744ee32ee8803ae76d6fe
 workflow-type: tm+mt
-source-wordcount: 688
+source-wordcount: 719
 ht-degree: 3%
 
 ---
@@ -86,6 +86,10 @@ ht-degree: 3%
 1. 輸入遠端網站名稱（類似「MarketoRestAPI」）。 輸入遠端網站URL，這是您在Marketo的Rest API設定面板中的API URL。 按一下「**[!UICONTROL Save]**」。 您現在已建立Rest API的遠端站台設定。
 
 ## 授予Sales Insight使用者設定檔存取標準Salesforce物件的許可權 {#grant-sales-insight-users-profile-access}
+
+>[!IMPORTANT]
+>
+>MSI的完整功能需要標準Salesforce授權。 具有Salesforce平台授權（有限授權類別）的使用者在執行某些動作或存取某些標籤時可能會看到錯誤。
 
 由於Salesforce安全性增強功能，AppExchange套件無法再授與標準物件的許可權，且必須從Salesforce使用者的設定檔授與相關Salesforce物件的存取權。 請依照下列步驟授與必要的許可權。
 

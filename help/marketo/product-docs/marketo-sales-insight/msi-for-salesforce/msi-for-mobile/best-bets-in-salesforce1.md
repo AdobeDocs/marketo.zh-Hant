@@ -9,9 +9,9 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 427d3327b9d5641dbc6744ee32ee8803ae76d6fe
 workflow-type: tm+mt
-source-wordcount: 84
+source-wordcount: 94
 ht-degree: 4%
 
 ---
@@ -19,6 +19,10 @@ ht-degree: 4%
 # [!DNL Salesforce1]中的[!DNL Best Bets] {#best-bets-in-salesforce}
 
 您的[[!DNL Best Bets]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)是緊急性和相對分數最高的潛在客戶和聯絡人。 該清單中只會顯示您擁有的潛在客戶，而且清單會隨著潛在客戶評分的變更而更新。
+
+>[!AVAILABILITY]
+>
+>Salesforce平台授權無法使用首選。
 
 1. 前往[!DNL Salesforce]應用程式中的Marketo區域。
 

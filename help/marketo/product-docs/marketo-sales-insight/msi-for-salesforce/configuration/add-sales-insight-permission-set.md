@@ -10,10 +10,10 @@ feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 427d3327b9d5641dbc6744ee32ee8803ae76d6fe
 workflow-type: tm+mt
-source-wordcount: 348
-ht-degree: 3%
+source-wordcount: 379
+ht-degree: 2%
 
 ---
 
@@ -27,7 +27,9 @@ ht-degree: 3%
 
 >[!IMPORTANT]
 >
->如果您先前已授予[!DNL Sales Insight]所有設定檔的存取權和/或為您所有使用者實作[!DNL Sales Insight]，則您必須[移除設定檔層級的存取權](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"}才能使用此許可權集。
+>* 如果您先前已授予[!DNL Sales Insight]所有設定檔的存取權和/或為您所有使用者實作[!DNL Sales Insight]，則您必須[移除設定檔層級的存取權](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"}才能使用此許可權集。
+>
+>* MSI的完整功能需要標準Salesforce授權。 具有Salesforce平台授權（有限授權類別）的使用者在執行某些動作或存取某些標籤時可能會看到錯誤。
 
 ## 概觀 {#overview}
 

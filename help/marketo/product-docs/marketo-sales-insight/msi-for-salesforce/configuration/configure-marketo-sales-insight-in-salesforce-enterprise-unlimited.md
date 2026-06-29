@@ -12,9 +12,9 @@ feature_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 427d3327b9d5641dbc6744ee32ee8803ae76d6fe
 workflow-type: tm+mt
-source-wordcount: 822
+source-wordcount: 853
 ht-degree: 2%
 
 ---
@@ -104,6 +104,10 @@ ht-degree: 2%
    >_您_&#x200B;選擇您的&#x200B;**[!UICONTROL Remote Site Name]** （`MarketoAPI`已在此使用）。 **[!UICONTROL Remote Site URL]**&#x200B;可以在「在Marketo中設定Sales Insight」區段步驟3的「編輯API設定」對話方塊的「Marketo主機」欄位中找到。
 
 ## 授予Sales Insight使用者設定檔存取標準Salesforce物件的許可權 {#grant-sales-insight-users-profile-access}
+
+>[!IMPORTANT]
+>
+>MSI的完整功能需要標準Salesforce授權。 具有Salesforce平台授權（有限授權類別）的使用者在執行某些動作或存取某些標籤時可能會看到錯誤。
 
 由於Salesforce安全性增強功能，AppExchange套件無法再授與標準物件的許可權，且必須從Salesforce使用者的設定檔授與相關Salesforce物件的存取權。 若要授與必要的許可權，請依照下列步驟進行。
 
