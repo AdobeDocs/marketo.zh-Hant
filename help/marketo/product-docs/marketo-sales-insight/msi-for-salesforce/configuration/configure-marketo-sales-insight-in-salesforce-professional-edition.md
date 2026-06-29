@@ -5,16 +5,12 @@ title: 在 Salesforce 專業版中設定 Marketo 銷售洞察
 exl-id: fae63560-0bb3-46a9-94a3-cc27c1aa363e
 feature: Marketo Sales Insights
 TQID: https://experienceleague.adobe.com/ixHyQT01yLz6LIoEG5L0wm9WKUSOgShHmXZUCI-R4Pw
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-topic_v2:
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080bid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 427d3327b9d5641dbc6744ee32ee8803ae76d6fe
 workflow-type: tm+mt
-source-wordcount: 688
+source-wordcount: 719
 ht-degree: 3%
 
 ---
@@ -27,7 +23,7 @@ ht-degree: 3%
 >
 >* 在您的[!DNL Salesforce] Professional Edition中安裝Marketo。
 >
->* 在 [!DNL Salesforce] AppExchange[&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}中安裝 [!DNL Marketo Sales Insight] 封裝
+>* 在 [!DNL Salesforce] AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}中[安裝 [!DNL Marketo Sales Insight] 封裝
 
 >[!NOTE]
 >
@@ -53,7 +49,7 @@ ht-degree: 3%
    >
    >您的API秘密金鑰就像您組織的密碼，應該是安全的。
 
-1. 若要填入認證，請按一下&#x200B;_[!UICONTROL Rest API Configuration]_&#x200B;面板中的&#x200B;**[!UICONTROL View]**。
+1. 若要填入認證，請按一下&#x200B;_[!UICONTROL Rest API Configuration]_面板中的&#x200B;**[!UICONTROL View]**。
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-4-1.png)
 
@@ -86,6 +82,10 @@ ht-degree: 3%
 1. 輸入遠端網站名稱（類似「MarketoRestAPI」）。 輸入遠端網站URL，這是您在Marketo的Rest API設定面板中的API URL。 按一下「**[!UICONTROL Save]**」。 您現在已建立Rest API的遠端站台設定。
 
 ## 授予Sales Insight使用者設定檔存取標準Salesforce物件的許可權 {#grant-sales-insight-users-profile-access}
+
+>[!IMPORTANT]
+>
+>MSI的完整功能需要標準Salesforce授權。 具有Salesforce平台授權（有限授權類別）的使用者在執行某些動作或存取某些標籤時可能會看到錯誤。
 
 由於Salesforce安全性增強功能，AppExchange套件無法再授與標準物件的許可權，且必須從Salesforce使用者的設定檔授與相關Salesforce物件的存取權。 請依照下列步驟授與必要的許可權。
 
