@@ -5,8 +5,10 @@ title: Salesforce1 中的最佳選擇
 exl-id: 5b1c9f26-7896-4d38-b458-1a43352ec036
 feature: Marketo Sales Insights
 TQID: https://experienceleague.adobe.com/yjT8JEOPeB6rr69mRMoM3xfYe8TYWno1Yj2FaI2Ldmk
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: 427d3327b9d5641dbc6744ee32ee8803ae76d6fe
 workflow-type: tm+mt
 source-wordcount: 94
@@ -30,5 +32,5 @@ ht-degree: 4%
 
 >[!MORELIKETHIS]
 >
->* 在[!UICONTROL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)中的[個有趣時刻
+>* 在[!UICONTROL Salesforce1][&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)中的個有趣時刻
 >* [在[!UICONTROL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)中傳送Marketo電子郵件和行銷活動及監看清單動作
