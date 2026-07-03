@@ -16,22 +16,22 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 713ab854749cb88a35b24f4355368092cdb35e64
+source-git-commit: 7ed34709d2a8b8ab3922a62d043bcdfa8e2d33ce
 workflow-type: tm+mt
-source-wordcount: 758
-ht-degree: 16%
+source-wordcount: 483
+ht-degree: 22%
 
 ---
 
-# 發行說明： 2026年5月 {#release-notes-may-26}
+# 發行說明： 2026年7月#1/2 {#release-notes-july-26-one}
 
-以下是2026年5月發行版本包含的所有功能。 請查看您的 Adobe Marketo Engage 版本是否提供這些功能。
+2026年7月第一個版本包含的所有功能如下所述。 請查看您的 Adobe Marketo Engage 版本是否提供這些功能。
 
 如需 Adobe Dynamic Chat 特定的發行說明，[請參閱這裡](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}。
 
 ## 標準發行週期功能 {#standard-release-cycle-features}
 
-下列功能屬於標準發行週期，並將於&#x200B;**2026年5月22日**&#x200B;開始發行，在接下來的幾週內分階段推出剩餘功能。 發行的功能和日期可能有所變更。 如需了解各項功能的狀態，請查看其旁邊欄位。
+下列功能屬於標準發行週期，並將於&#x200B;**2026年7月10日**&#x200B;開始發行，在接下來的幾週內分階段推出剩餘功能。 發行的功能和日期可能有所變更。 如需了解各項功能的狀態，請查看其旁邊欄位。
 
 <table style="table-layout:auto">
  <tbody>
@@ -41,10 +41,20 @@ ht-degree: 16%
    <th style="width:25%">文件</th>
   </tr>
   <tr>
-   <td><strong>Marketo AI</strong>：利用一套代理程式，將耗時但重要的行銷功能自動化（現在提供兩個代理程式，即將推出更多代理程式）。
+   <td><strong>Marketo AI技能 — 產品知識</strong>：產品知識可讓您隨選存取Marketo專業知識，而不需離開平台。 以簡單的語言提出問題，Marketo AI就會利用官方Adobe檔案來回答。</td>
+   <td>開啟Beta版</td>
+   <td><a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/marketo-ai/skills/product-knowledge" target="_blank">Marketo AI總覽</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Marketo AI技能 — 調查銷售機會</strong>：瞭解為什麼特定人員/銷售機會未達到里程碑（例如MQL、方案資格或促銷活動），並取得所發生情況的直白語言說明。
 </td>
    <td>開啟Beta版</td>
-   <td><a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/marketo-ai/overview" target="_blank">Marketo AI總覽</a></td>
+   <td><a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/marketo-ai/skills/investigate-leads" target="_blank">Marketo AI總覽</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -52,92 +62,16 @@ ht-degree: 16%
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Marketo Engage MCP伺服器</strong>： Marketo Engage MCP伺服器可做為您AI助理與Marketo Engage之間的橋樑。 它會公開超過100項操作，涵蓋表單、方案、智慧行銷活動、人員/銷售機會、電子郵件、代碼片段、清單和資料夾。</td>
-   <td>開啟Beta版</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=zh-Hant" target="_blank">Marketo MCP伺服器</a></td>
+   <td><strong>電子郵件Designer - AI小幫手內容功能表</strong>：現在可以從內容功能表（黑色列）存取電子郵件Designer的AI小幫手功能。 例如，當您選取文字內容時，「AI輔助程式」圖示會出現在內容功能表上，可讓您從該處執行快速動作。</td>
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
   </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>電子郵件Designer — 電子郵件片段的條件式內容</strong>： <i>與舊電子郵件編輯器的對等性</i>。 片段現在支援條件式內容。</td>
-   <td>已發行</td>
-   <td>不適用</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>挑選清單管理</strong>：您現在可以指定可以在Marketo Engage的欄位中使用的值。
-   </td>
-   <td>已發行</td>
-   <td><a href="/help/marketo/product-docs/administration/field-management/picklist-management.md" target="_blank">挑選清單管理</a></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Dynamic Chat — 正在輸入</strong>：現在訪客和代理程式在另一方輸入時都會看到「正在輸入……」通知，以防止一方中斷另一方。
-   </td>
-   <td>已發行</td>
-   <td>不適用</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Dynamic Chat - Marketo挑選清單/下拉式欄位</strong>： Marketo挑選清單/下拉式人員欄位（包括Salesforce同步的值）現在可在聊天設定檔編輯器中作為下拉式值使用。
-   </td>
-   <td>已發行</td>
-   <td>不適用</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Dynamic Chat — 錯過聊天狀態</strong>：當代理程式不接受聊天時，新的「錯過聊天」狀態會顯示在聊天者之個人記錄的「活動詳細資料」中。
-   </td>
-   <td>已發行</td>
-   <td>不適用</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Dynamic Chat — 新屬性同步處理行為</strong>：之前，新增新屬性會在同步處理完成時最多封鎖環境24小時的變更，以防止對話方塊編輯和發佈。現在，雖然新增屬性仍需要完全資料同步（這最多可能需要24小時），在此過程中環境不再封鎖。
-   </td>
-   <td>已發行</td>
-   <td>不適用</td>
   </tr>
   </tbody>
 </table>
 <br/>
 
 ## 公告 {#announcements}
-
-* **社交功能淘汰欄位**：在2025年，Marketo Engage淘汰下列社交功能：
-
-   * 投票
-   * 社交按鈕
-   * 推薦優惠方案
-   * 影片分享
-   * 抽獎
-
-今年早些時候，從Marketo中移除落後的相關欄位。 不久，參考特定社交相關潛在客戶欄位的API請求傳回「找不到欄位」錯誤，造成中斷。 受影響的欄位再次開放使用後，服務已還原，為避免進一步中斷，Marketo已永久中斷社交欄位與棄用的社交功能（因此可在您的Marketo帳戶中使用）。 建議使用者檢閱參考Marketo社交相關欄位的API查詢和整合，並確定這些欄位是否仍為持續業務流程的必要欄位。
-
-* **布林欄位的API合併功能**： API合併中的布林欄位行為在2026年3月發行版本中有所變更。 現在，系統會正確將False值視為該欄位有值。 評估衝突欄位時，只有null值會視為「空白」。 如需詳細資訊，請參閱[此社群貼文](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219?profile.language=zh-Hant){target="_blank"}。
 
 * **Rest API &#39;access_token&#39;引數淘汰**：用於驗證Marketo REST API呼叫的`access_token`查詢引數已淘汰，並將於2026年7月31日後無法使用。 所有新的和現有的整合都應使用「Authorization」標頭來驗證 REST API 呼叫，方法[如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 

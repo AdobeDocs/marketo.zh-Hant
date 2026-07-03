@@ -17,22 +17,22 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a04ec3931933c8e6cc0a0ffc26b1b559cd7cc9ce
+source-git-commit: 7ed34709d2a8b8ab3922a62d043bcdfa8e2d33ce
 workflow-type: tm+mt
-source-wordcount: 421
-ht-degree: 28%
+source-wordcount: 483
+ht-degree: 22%
 
 ---
 
-# 發行說明： 2026年5月 {#release-notes-may-26}
+# 發行說明： 2026年7月#1/2 {#release-notes-july-26-one}
 
-以下是2026年5月發行版本包含的所有功能。 請查看您的 Adobe Marketo Engage 版本是否提供這些功能。
+2026年7月第一個版本包含的所有功能如下所述。 請查看您的 Adobe Marketo Engage 版本是否提供這些功能。
 
 如需 Adobe Dynamic Chat 特定的發行說明，[請參閱這裡](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}。
 
 ## 標準發行週期功能 {#standard-release-cycle-features}
 
-下列功能屬於標準發行週期，並將於&#x200B;**2026年5月22日**&#x200B;開始發行，在接下來的幾週內分階段推出剩餘功能。 發行的功能和日期可能有所變更。 如需了解各項功能的狀態，請查看其旁邊欄位。
+下列功能屬於標準發行週期，並將於&#x200B;**2026年7月10日**&#x200B;開始發行，在接下來的幾週內分階段推出剩餘功能。 發行的功能和日期可能有所變更。 如需了解各項功能的狀態，請查看其旁邊欄位。
 
 <table style="table-layout:auto">
  <tbody>
@@ -42,9 +42,9 @@ ht-degree: 28%
    <th style="width:25%">文件</th>
   </tr>
   <tr>
-   <td><strong>電子郵件Designer — 電子郵件片段的條件式內容</strong>： <i>與舊電子郵件編輯器的對等性</i>。 片段現在支援條件式內容。</td>
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+   <td><strong>Marketo AI技能 — 產品知識</strong>：產品知識可讓您隨選存取Marketo專業知識，而不需離開平台。 以簡單的語言提出問題，Marketo AI就會利用官方Adobe檔案來回答。</td>
+   <td>開啟Beta版</td>
+   <td><a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/marketo-ai/skills/product-knowledge" target="_blank">Marketo AI總覽</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -52,10 +52,21 @@ ht-degree: 28%
    <td> </td>
   </tr>
   <tr>
-   <td><strong>挑選清單管理</strong>：您現在可以指定可以在Marketo Engage的欄位中使用的值。
-   </td>
+   <td><strong>Marketo AI技能 — 調查銷售機會</strong>：瞭解為什麼特定人員/銷售機會未達到里程碑（例如MQL、方案資格或促銷活動），並取得所發生情況的直白語言說明。
+</td>
+   <td>開啟Beta版</td>
+   <td><a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/marketo-ai/skills/investigate-leads" target="_blank">Marketo AI總覽</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>電子郵件Designer - AI小幫手內容功能表</strong>：現在可以從內容功能表（黑色列）存取電子郵件Designer的AI小幫手功能。 例如，當您選取文字內容時，「AI輔助程式」圖示會出現在內容功能表上，可讓您從該處執行快速動作。</td>
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
+  </tr>
   </tr>
   </tbody>
 </table>
@@ -63,17 +74,9 @@ ht-degree: 28%
 
 ## 公告 {#announcements}
 
-* **社交功能淘汰欄位**：在2025年，Marketo Engage淘汰下列社交功能：
-
-   * 投票
-   * 社交按鈕
-   * 推薦優惠方案
-   * 影片分享
-   * 抽獎
-
-今年早些時候，從Marketo中移除落後的相關欄位。 不久，參考特定社交相關潛在客戶欄位的API請求傳回「找不到欄位」錯誤，造成中斷。 受影響的欄位再次開放使用後，服務已還原，為避免進一步中斷，Marketo已永久中斷社交欄位與棄用的社交功能（因此可在您的Marketo帳戶中使用）。 建議使用者檢閱參考Marketo社交相關欄位的API查詢和整合，並確定這些欄位是否仍為持續業務流程的必要欄位。
-
 * **Rest API &#39;access_token&#39;引數淘汰**：用於驗證Marketo REST API呼叫的`access_token`查詢引數已淘汰，並將於2026年7月31日後無法使用。 所有新的和現有的整合都應使用「Authorization」標頭來驗證 REST API 呼叫，方法[如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
+
+* **REST API合併潛在客戶限制**：自2026年7月31日起，在合併潛在客戶API呼叫的leadIds引數中包含超過25個ID的呼叫將產生1080錯誤碼，並將略過該呼叫。 需要將超過25筆記錄合併成一筆的工作應分割成多個工作，以確保這些呼叫成功。
 
 * **SOAP API淘汰**：對Marketo SOAP API的支援將於2026年7月31日終止。 使用 SOAP API 功能的服務應遷移至 [REST API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。
 
