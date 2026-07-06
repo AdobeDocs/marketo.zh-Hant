@@ -5,8 +5,10 @@ title: 電子郵件編輯器 v2.0 概觀
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
 TQID: https://experienceleague.adobe.com/FKo7NwPSrEVbNBlfo1Jpd88yXyIH-NVfdpYiVmrRSLM
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
 source-git-commit: 5935e1cef334c7c5fd40864dd2a677b4cb9d46d4
 workflow-type: tm+mt
 source-wordcount: 453
