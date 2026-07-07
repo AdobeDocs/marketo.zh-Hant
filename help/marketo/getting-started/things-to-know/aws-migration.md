@@ -123,4 +123,4 @@ ht-degree: 2%
 
 ## 更新與支援 {#support}
 
-如需最新更新，請將此頁面加入書籤。 如果您有任何問題，請透過Admin Console的支援入口網站或[Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}聯絡Adobe支援。
+如需最新更新，請將此頁面加入書籤。 如果您有任何問題，請透過Admin Console的支援入口網站或[Experience League](https://experienceleague.adobe.com/zh-hant/support){target="_blank"}聯絡Adobe支援。
