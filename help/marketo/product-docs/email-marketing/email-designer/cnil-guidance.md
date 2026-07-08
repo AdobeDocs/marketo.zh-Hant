@@ -5,16 +5,16 @@ title: CNIL指南 — 條件式電子郵件開啟追蹤
 description: 瞭解如何使用自訂布林值欄位設定Marketo Engage以符合CNIL規範，以根據每個人的同意狀態路由電子郵件開啟追蹤。
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: de1e3b715de3a7978f851a336ca63b5da2aa86f3
+source-git-commit: b8d1872fc697e42a82675a2b45ce01f21bb83edd
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '433'
 ht-degree: 0%
 
 ---
 
 # CNIL指南：條件式電子郵件開啟追蹤 {#cnil}
 
-瞭解如何根據CNIL准則（社群連結），設定Marketo Engage以遵循電子郵件開啟（畫素）追蹤的一般使用者同意。 方法使用自訂布林值欄位來判斷某人收到哪個電子郵件變體，一個啟用開啟追蹤，另一個停用開啟追蹤。
+瞭解如何根據[CNIL准則](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/understanding-cnil-s-updated-guidance-on-email-open-tracking-251632?profile.language=zh-Hant){target="_blank"}，設定Marketo Engage以遵循電子郵件開啟（畫素）追蹤的一般使用者同意。 方法使用自訂布林值欄位來判斷某人收到哪個電子郵件變體，一個啟用開啟追蹤，另一個停用開啟追蹤。
 
 ## 步驟1：建立自訂布林值欄位 {#custom-field}
 
