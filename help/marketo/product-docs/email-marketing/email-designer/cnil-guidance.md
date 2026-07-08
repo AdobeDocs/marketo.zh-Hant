@@ -1,19 +1,18 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: CNIL指引合規性 — 條件式電子郵件開啟追蹤
+title: CNIL指南 — 條件式電子郵件開啟追蹤
 description: 瞭解如何使用自訂布林值欄位設定Marketo Engage以符合CNIL規範，以根據每個人的同意狀態路由電子郵件開啟追蹤。
 level: Beginner, Intermediate
 feature: Email Designer
-hide: true
-source-git-commit: c0c8e88ae6357c4bf75437e1bbc7fe0d6bce1012
+source-git-commit: de1e3b715de3a7978f851a336ca63b5da2aa86f3
 workflow-type: tm+mt
-source-wordcount: '421'
+source-wordcount: '419'
 ht-degree: 0%
 
 ---
 
-# CNIL指引合規性：條件式電子郵件開啟追蹤 {#cnil}
+# CNIL指南：條件式電子郵件開啟追蹤 {#cnil}
 
 瞭解如何根據CNIL准則（社群連結），設定Marketo Engage以遵循電子郵件開啟（畫素）追蹤的一般使用者同意。 方法使用自訂布林值欄位來判斷某人收到哪個電子郵件變體，一個啟用開啟追蹤，另一個停用開啟追蹤。
 
@@ -63,7 +62,7 @@ ht-degree: 0%
 
 ## 步驟4：設定Smart Campaign {#smart-campaign}
 
-[建立Smart Campaign](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign){target="_blank"}，以決定每個人收到的電子郵件。
+[建立Smart Campaign](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign){target="_blank"}，以決定每個人收到的電子郵件。
 
 1. 在Smart Campaign的&#x200B;_流量_&#x200B;索引標籤中，插入&#x200B;**傳送電子郵件**&#x200B;流量步驟。
 
