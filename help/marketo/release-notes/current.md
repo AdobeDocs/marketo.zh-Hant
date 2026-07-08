@@ -16,9 +16,9 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 7ed34709d2a8b8ab3922a62d043bcdfa8e2d33ce
+source-git-commit: 14cdc585c2c5b972dd3743c5eb3e253a8a91f608
 workflow-type: tm+mt
-source-wordcount: 483
+source-wordcount: 481
 ht-degree: 22%
 
 ---
@@ -43,7 +43,7 @@ ht-degree: 22%
   <tr>
    <td><strong>Marketo AI技能 — 產品知識</strong>：產品知識可讓您隨選存取Marketo專業知識，而不需離開平台。 以簡單的語言提出問題，Marketo AI就會利用官方Adobe檔案來回答。</td>
    <td>開啟Beta版</td>
-   <td><a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/marketo-ai/skills/product-knowledge" target="_blank">Marketo AI總覽</a></td>
+   <td><a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/marketo-ai/skills/product-knowledge" target="_blank">產品知識</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -54,7 +54,7 @@ ht-degree: 22%
    <td><strong>Marketo AI技能 — 調查銷售機會</strong>：瞭解為什麼特定人員/銷售機會未達到里程碑（例如MQL、方案資格或促銷活動），並取得所發生情況的直白語言說明。
 </td>
    <td>開啟Beta版</td>
-   <td><a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/marketo-ai/skills/investigate-leads" target="_blank">Marketo AI總覽</a></td>
+   <td><a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/marketo-ai/skills/investigate-leads" target="_blank">調查銷售機會</a></td>
   </tr>
   <tr>
    <td> </td>
