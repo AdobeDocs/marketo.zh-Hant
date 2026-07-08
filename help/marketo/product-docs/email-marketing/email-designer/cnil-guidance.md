@@ -63,7 +63,7 @@ ht-degree: 0%
 
 ## 步驟4：設定Smart Campaign {#smart-campaign}
 
-[建立Smart Campaign](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign){target="_blank"}，以決定每個人收到的電子郵件。
+[建立Smart Campaign](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign){target="_blank"}，以決定每個人收到的電子郵件。
 
 1. 在Smart Campaign的&#x200B;_流量_&#x200B;索引標籤中，插入&#x200B;**傳送電子郵件**&#x200B;流量步驟。
 
