@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # CNIL指南：條件式電子郵件開啟追蹤 {#cnil}
 
-瞭解如何根據[CNIL准則](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/understanding-cnil-s-updated-guidance-on-email-open-tracking-251632){target="_blank"}，設定Marketo Engage以遵循電子郵件開啟（畫素）追蹤的一般使用者同意。 方法使用自訂布林值欄位來判斷某人收到哪個電子郵件變體，一個啟用開啟追蹤，另一個停用開啟追蹤。
+瞭解如何根據[CNIL准則](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/understanding-cnil-s-updated-guidance-on-email-open-tracking-251632?profile.language=zh-Hant){target="_blank"}，設定Marketo Engage以遵循電子郵件開啟（畫素）追蹤的一般使用者同意。 方法使用自訂布林值欄位來判斷某人收到哪個電子郵件變體，一個啟用開啟追蹤，另一個停用開啟追蹤。
 
 ## 步驟1：建立自訂布林值欄位 {#custom-field}
 
@@ -62,7 +62,7 @@ ht-degree: 0%
 
 ## 步驟4：設定Smart Campaign {#smart-campaign}
 
-[建立Smart Campaign](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign){target="_blank"}，以決定每個人收到的電子郵件。
+[建立Smart Campaign](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign){target="_blank"}，以決定每個人收到的電子郵件。
 
 1. 在Smart Campaign的&#x200B;_流量_&#x200B;索引標籤中，插入&#x200B;**傳送電子郵件**&#x200B;流量步驟。
 
