@@ -4,9 +4,9 @@ title: AWS移轉
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: de84d9a26dea78022a1d4ca79baa8e2f445ee2a9
+source-git-commit: 94b7cd136325e2c6cb63b8bbf9ae2ee0aeb028b7
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '432'
 ht-degree: 2%
 
 ---
@@ -92,6 +92,31 @@ ht-degree: 2%
    NLD105</td>
    <td>上午10點PDT<br>
    上午11點PDT</td>
+  </tr>
+  <tr>
+   <td>2026年7月21日</td>
+   <td>AB54<br>
+   AB56</td>
+   <td>下午5點PDT<br>
+   下午6點PDT</td>
+  </tr>
+  <tr>
+   <td>2026年7月23日</td>
+   <td>AB48</td>
+   <td>下午5點PDT</td>
+  </tr>
+  <tr>
+   <td>2026年8月12日</td>
+   <td>AB61<br>
+   AB17</td>
+   <td>下午3點PDT<br>
+   下午4點PDT</td>
+  </tr>
+  <td>2026年8月13日</td>
+   <td>AB62<br>
+   AB68</td>
+   <td>下午3點PDT<br>
+   下午4點PDT</td>
   </tr>
   </body>
 </table>
