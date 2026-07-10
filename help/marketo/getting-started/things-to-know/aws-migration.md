@@ -4,9 +4,9 @@ title: AWS移轉
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 959b1599d48d5e496f012b515a9d8f9a528431e0
+source-git-commit: 3073a443b5dee8033e88dc474989c44552851e52
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '435'
 ht-degree: 2%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 2%
 
 * **檢閱並更新IP允許清單**，以取得登入、API存取、電子郵件傳送、網頁追蹤和整合。
 
-* **新增IP位址**&#x200B;並保留您目前的IP不變。 檢視要透過下方[&#128279;](#ip-addresses)的表格新增的IP位址。
+* **新增IP位址**&#x200B;並保留您目前的IP不變。 檢視要透過下方](#ip-addresses)的[表格新增的IP位址。
 
 ## 預期的服務影響 {#impacts}
 
@@ -104,6 +104,11 @@ ht-degree: 2%
    <td>下午5點PDT</td>
   </tr>
   <tr>
+   <td>2026年7月31日</td>
+   <td>AB43</td>
+   <td>下午3點PDT</td>
+  </tr>
+  <tr>
    <td>2026年8月12日</td>
    <td>AB61<br>
    AB17</td>
@@ -146,4 +151,4 @@ ht-degree: 2%
 
 ## 更新與支援 {#support}
 
-如需最新更新，請將此頁面加入書籤。 如果您有任何問題，請透過Admin Console的支援入口網站或[Experience League](https://experienceleague.adobe.com/zh-hant/support){target="_blank"}聯絡Adobe支援。
+如需最新更新，請將此頁面加入書籤。 如果您有任何問題，請透過Admin Console的支援入口網站或[Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}聯絡Adobe支援。
