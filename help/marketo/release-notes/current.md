@@ -16,16 +16,16 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 14cdc585c2c5b972dd3743c5eb3e253a8a91f608
+source-git-commit: d0cf66fe0c72af8e9d1db09792f73fd6db10abbb
 workflow-type: tm+mt
-source-wordcount: 481
+source-wordcount: 477
 ht-degree: 22%
 
 ---
 
-# 發行說明： 2026年7月#1/2 {#release-notes-july-26-one}
+# 發行說明： 2026年7月 {#release-notes-july-26}
 
-2026年7月第一個版本包含的所有功能如下所述。 請查看您的 Adobe Marketo Engage 版本是否提供這些功能。
+以下是2026年7月發行版本包含的所有功能。 請查看您的 Adobe Marketo Engage 版本是否提供這些功能。
 
 如需 Adobe Dynamic Chat 特定的發行說明，[請參閱這裡](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}。
 

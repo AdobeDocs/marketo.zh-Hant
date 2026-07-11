@@ -11,10 +11,10 @@ feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: c0c8e88ae6357c4bf75437e1bbc7fe0d6bce1012
+source-git-commit: d0cf66fe0c72af8e9d1db09792f73fd6db10abbb
 workflow-type: tm+mt
-source-wordcount: 165
-ht-degree: 78%
+source-wordcount: 152
+ht-degree: 83%
 
 ---
 
@@ -60,18 +60,13 @@ _發行日期/功能可能會有所變更_
    <td>完成</td>
   </tr>
   <tr>
-  <td><a href="/help/marketo/release-notes/current.md">2026年7月(1/2)</a></td>
+  <td><a href="/help/marketo/release-notes/current.md">2026年7月</a></td>
    <td>2026年7月10日</td>
    <td>準時發行</td>
   </tr>
   <tr>
-  <td>2026年7月(2/2)</td>
-   <td>2026年7月31日</td>
-   <td>準時發行</td>
-  </tr>
-  <tr>
   <td>2026年8月</td>
-   <td>2026年8月28日</td>
+   <td>2026年8月14日</td>
    <td>準時發行</td>
   </tr>
   <tr>
