@@ -5,8 +5,10 @@ title: 變更參與方案資料流
 exl-id: 1b8dd04b-3af8-4733-b630-b06c4b06bb75
 feature: Smart Campaigns
 TQID: https://experienceleague.adobe.com/JODd03zXlwTRCW-jkoQVPS6Up2Gvtzc-GFmI%2D%2D%2D1-0M
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: a7170d27-32ab-462b-a333-269abc654483
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
 source-git-commit: 0e20d3cd1d58a098d8419c4b10572fe85e672aa2
 workflow-type: tm+mt
 source-wordcount: 103
