@@ -4,9 +4,9 @@ title: AWS移轉
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 3073a443b5dee8033e88dc474989c44552851e52
+source-git-commit: 7f91d1423f25ba0e1572673cbd55099b0000cb03
 workflow-type: tm+mt
-source-wordcount: '435'
+source-wordcount: '431'
 ht-degree: 2%
 
 ---
@@ -116,10 +116,8 @@ ht-degree: 2%
    下午4點PDT</td>
   </tr>
   <td>2026年8月13日</td>
-   <td>AB62<br>
-   AB68</td>
-   <td>下午3點PDT<br>
-   下午4點PDT</td>
+   <td>AB68</td>
+   <td>下午4點PDT</td>
   </tr>
   </body>
 </table>
