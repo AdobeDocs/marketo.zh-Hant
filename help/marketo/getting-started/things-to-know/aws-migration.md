@@ -4,10 +4,10 @@ title: AWS移轉
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 7f91d1423f25ba0e1572673cbd55099b0000cb03
+source-git-commit: 4cdacd070daedd0ecc8f619c994f343b14c00adb
 workflow-type: tm+mt
-source-wordcount: '431'
-ht-degree: 2%
+source-wordcount: '459'
+ht-degree: 6%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 2%
 
 * **檢閱並更新IP允許清單**，以取得登入、API存取、電子郵件傳送、網頁追蹤和整合。
 
-* **新增IP位址**&#x200B;並保留您目前的IP不變。 檢視要透過下方[&#128279;](#ip-addresses)的表格新增的IP位址。
+* **新增IP位址**&#x200B;並保留您目前的IP不變。 檢視要透過下方](#ip-addresses)的[表格新增的IP位址。
 
 ## 預期的服務影響 {#impacts}
 
@@ -51,9 +51,10 @@ ht-degree: 2%
 <table>
  <tbody>
   <tr>
-   <th style="width:50%">日期</th>
-   <th style="width:20%">資料中心/Pod</th>
-   <th style="width:30%">時間</th>
+   <th style="width:25%">日期</th>
+   <th style="width:25%">資料中心/Pod</th>
+   <th style="width:25%">時間</th>
+   <th style="width:25%">狀態</th>
   </tr>
   <tr>
    <td>2026年7月8日</td>
@@ -61,21 +62,26 @@ ht-degree: 2%
    AB64</td>
    <td>下午5點PDT<br>
    下午6點PDT</td>
+   <td>已完成<br>
+   已完成</td>
   </tr>
   <tr>
    <td>2026年7月9日</td>
    <td>AB70</td>
    <td>下午5點PDT</td>
+   <td>已完成</td>
   </tr>
   <tr>
    <td>2026年7月11日</td>
    <td>AB46</td>
    <td>上午10點PDT</td>
+   <td>已完成</td>
   </tr>
   <tr>
    <td>2026年7月13日</td>
    <td>NLD101</td>
    <td>上午10點PDT</td>
+   <td>已完成</td>
   </tr>
   <tr>
    <td>2026年7月15日</td>
@@ -83,6 +89,8 @@ ht-degree: 2%
    NLD104</td>
    <td>上午10點PDT<br>
    上午11點PDT</td>
+   <td>準時發行<br>
+   依排程</td>
   </tr>
   <tr>
    <td>2026年7月17日</td>
@@ -90,6 +98,8 @@ ht-degree: 2%
    NLD105</td>
    <td>上午10點PDT<br>
    上午11點PDT</td>
+   <td>準時發行<br>
+   依排程</td>
   </tr>
   <tr>
    <td>2026年7月21日</td>
@@ -97,16 +107,20 @@ ht-degree: 2%
    AB56</td>
    <td>下午5點PDT<br>
    下午6點PDT</td>
+   <td>準時發行<br>
+   依排程</td>
   </tr>
   <tr>
    <td>2026年7月23日</td>
    <td>AB48</td>
    <td>下午5點PDT</td>
+   <td>準時發行</td>
   </tr>
   <tr>
    <td>2026年7月31日</td>
    <td>AB43</td>
    <td>下午3點PDT</td>
+   <td>準時發行</td>
   </tr>
   <tr>
    <td>2026年8月12日</td>
@@ -114,10 +128,13 @@ ht-degree: 2%
    AB17</td>
    <td>下午3點PDT<br>
    下午4點PDT</td>
+   <td>準時發行<br>
+   依排程</td>
   </tr>
   <td>2026年8月13日</td>
    <td>AB68</td>
    <td>下午4點PDT</td>
+   <td>準時發行</td>
   </tr>
   </body>
 </table>
@@ -149,4 +166,4 @@ ht-degree: 2%
 
 ## 更新與支援 {#support}
 
-如需最新更新，請將此頁面加入書籤。 如果您有任何問題，請透過Admin Console的支援入口網站或[Experience League](https://experienceleague.adobe.com/zh-hant/support){target="_blank"}聯絡Adobe支援。
+如需最新更新，請將此頁面加入書籤。 如果您有任何問題，請透過Admin Console的支援入口網站或[Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}聯絡Adobe支援。
