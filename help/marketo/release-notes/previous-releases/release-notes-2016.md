@@ -25,9 +25,9 @@ topic_v2:
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+source-git-commit: ca5ce3f901525a7ad1d08a7c4a4d8d5f61786cf4
 workflow-type: tm+mt
-source-wordcount: 2739
+source-wordcount: 2877
 ht-degree: 0%
 
 ---
@@ -38,25 +38,35 @@ ht-degree: 0%
 
 以下功能包含在2016年冬季發行版本中。 請按一下標題連結以檢視每個功能的詳細文章。
 
-## [是匿名篩選器](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) {#is-anonymous-filter}
+## 為匿名篩選器 {#is-anonymous-filter}
+
+[為匿名篩選器](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)
 
 已移除智慧列示的「為匿名」篩選器。 如需詳細資訊，請參閱[新一代Munchkin追蹤常見問題集](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)檔案。 此變更不會影響Web Personalization (RTP)，其會繼續識別匿名和已知的Web訪客，並即時為這些訪客個人化內容。
 
-## [資料庫儀表板](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md)  {#database-dashboard}
+## 資料庫儀表板 {#database-dashboard}
+
+[資料庫儀表板](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md)
 
 [!UICONTROL Lead Database]已更新摘要儀表板，其中包含人員資料庫大小總計、可行銷銷售機會數量，以及依前五個來源的銷售機會劃分。
 
 ![](assets/image2016-1-12-16-3a18-3a7.png)
 
-## [Microsoft Edge瀏覽器](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md) {#microsoft-edge-browser}
+## Microsoft Edge瀏覽器 {#microsoft-edge-browser}
+
+[Microsoft Edge瀏覽器](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md)
 
 我們已將[!DNL Microsoft Edge]新增至Marketo支援的[瀏覽器](https://docs.marketo.com/display/public/DOCS/Supported+Browsers)清單。
 
-## [Microsoft Outlook 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) {#microsoft-outlook}
+## Microsoft Outlook 2016 {#microsoft-outlook}
+
+[Microsoft Outlook 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)
 
 現已支援[[!DNL Microsoft Outlook] 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)。
 
-## [電子郵件程式開始時間](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) {#email-program-head-start}
+## 電子郵件計劃開始時間 {#email-program-head-start}
+
+[電子郵件計劃開始時間](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
 
 使用[!UICONTROL Head Start]指示應該提前處理您的傳送。 [!UICONTROL Head Start]不是在計畫的排程時間確認潛在客戶並準備電子郵件，而是確保這些任務提前完成。 如此一來，您的對象就會開始在排程時間收到電子郵件。
 
@@ -70,7 +80,9 @@ ht-degree: 0%
 >
 >此功能將在2016年冬季版本發行後的一週內逐步推出。 無法將其用於智慧行銷活動或API。
 
-## [行動行銷增強功能](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
+## 行動裝置行銷增強功能 {#mobile-marketing-enhancements}
+
+[行動裝置行銷增強功能](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md)
 
 **[!DNL PhoneGap]支援：**&#x200B;我們現在為您的行動應用程式提供[!DNL PhoneGap]支援。 [了解更多](https://developers.marketo.com/documentation/mobile/phonegap-plugin/)。
 
@@ -78,11 +90,15 @@ ht-degree: 0%
 
 ![](assets/image2016-1-12-10-3a47-3a13.png)
 
-## [程式API](https://developers.marketo.com/documentation/programs/) {#program-api}
+## 程式API {#program-api}
+
+[程式API](https://developers.marketo.com/documentation/programs/)
 
 透過REST API建立、更新和復製程式。 這不包括方案中智慧列示和智慧行銷活動的建立或更新作業。
 
-## [Microsoft Dynamics增強功能](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#microsoft-dynamics-enhancements}
+## Microsoft Dynamics增強功能 {#microsoft-dynamics-enhancements}
+
+[Microsoft Dynamics增強功能](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)
 
 **[[!UICONTROL Sync Status]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)**：持續關注同步處理程式的目前輸送量和待處理專案。 依插入和更新次數（依物件）來劃分。
 
@@ -92,19 +108,25 @@ ht-degree: 0%
 
 ![](assets/image2016-1-12-8-3a13-3a9.png)
 
-## [自訂物件增強功能](/help/marketo/product-docs/administration/marketo-custom-objects/create-marketo-custom-objects.md) {#custom-objects-enhancements}
+## 自訂物件增強功能 {#custom-objects-enhancements}
+
+[自訂物件增強功能](/help/marketo/product-docs/administration/marketo-custom-objects/create-marketo-custom-objects.md)
 
 您現在可以使用具有多個連結欄位的中介物件，在銷售機會/帳戶與自訂物件之間建立多對多關係。
 
 ![](assets/image2016-1-11-12-3a59-3a59.png)
 
-## [個Facebook潛在客戶廣告](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) {#facebook-lead-ads}
+## Facebook潛在客戶廣告 {#facebook-lead-ads}
+
+[Facebook潛在客戶廣告](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
 
 [[!UICONTROL Facebook Lead ads]](https://www.facebook.com/business/a/lead-ads)是公司在[!DNL Facebook]上執行潛在客戶產生行銷活動的更直接方式。 人們填寫表格來表達對產品或服務的興趣，以便企業跟進。 Marketo與[!UICONTROL Facebook Lead Ads]的整合會自動擷取銷售機會在銷售機會廣告表單中提供的資訊。 後續動作和通知可以使用新的[!UICONTROL Fills Out Facebook Lead Ads]觸發器自動執行。
 
 ![](assets/image2016-1-11-10-3a20-3a39.png)
 
-## [網頁（即時Personalization）行銷活動排程器](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/schedule-a-web-campaign.md) {#web-real-time-personalization-campaign-scheduler}
+## Web （即時Personalization）行銷活動排程器 {#web-real-time-personalization-campaign-scheduler}
+
+[Web （即時Personalization）行銷活動排程器](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/schedule-a-web-campaign.md)
 
 預先排程您的行銷活動。 設定個人化網頁內容的開始和結束日期，並在特定日期和時間重複行銷活動。 個人化排程，以根據網站訪客的時間或選取的時區顯示行銷活動。
 
@@ -114,7 +136,9 @@ ht-degree: 0%
 
 以下功能包含在2016年春季發行版本中。 請按一下標題連結以檢視每個功能的詳細文章。
 
-## [電子郵件深入分析](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md) {#email-insights}
+## 電子郵件洞察 {#email-insights}
+
+[電子郵件洞察](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md)
 
 電子郵件深入解析是全新的歷史彙總資料電子郵件分析體驗 — 重新設計端對端，提供超快效能。 其特色是全新使用者介面設計，已最佳化以符合電子郵件行銷人員的需求和工作流程。
 
@@ -124,7 +148,9 @@ ht-degree: 0%
 
 ![](assets/two.png)
 
-## [電子郵件範本挑選器](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md) {#email-template-picker}
+## 電子郵件範本選取器 {#email-template-picker}
+
+[電子郵件範本選取器](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md)
 
 使用我們新的入門範本建立精美的電子郵件！ 此外，從範本的即時縮圖快速找到您的範本。
 
@@ -134,33 +160,45 @@ ht-degree: 0%
 
 ![](assets/5-29-home-starter-templates.png)
 
-## [電子郵件編輯 — 重新想像](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md) {#email-editing-re-imagined}
+## 電子郵件編輯 — 重新想像 {#email-editing-re-imagined}
+
+[電子郵件編輯 — 重新想像](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
 
 沒錯，全新的電子郵件編輯器！ 使用輕量型的拖放功能來新增及重新排序內容。 新元素（包括影像、影片、變數和模組）必定能增強您的編輯體驗。 另請檢視更新的程式碼編輯器、預覽器和預覽器支援。
 
 ![](assets/17a-29-modules-next.png)
 
-## [行動應用程式內訊息](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md) {#mobile-in-app-messages}
+## 行動應用程式內訊息 {#mobile-in-app-messages}
+
+[行動應用程式內訊息](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
 
 直接在Marketo中為您的應用程式建立令人驚歎的應用程式內訊息。 精確地定義應該看到的人以及使用應用程式內訊息程式的時機。 使用程式儀表板輕鬆監控其效能。
 
 ![](assets/pasted-image-at-2016-05-24-09-45-am.png)
 
-## [沒有草稿程式碼片段](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md) {#no-draft-snippets}
+## 無草稿程式碼片段 {#no-draft-snippets}
+
+[無草稿程式碼片段](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md)
 
 您每次更新程式碼片段時必須重新核准所有專案的日子已一去不復返！ 透過無草稿，所有使用程式碼片段的電子郵件和登陸頁面都會收到程式碼片段更新，並保持其先前的狀態。 每次核准程式碼片段時，您都可以選擇執行無草稿並更新所有專案，或建立草稿。 由您決定！ 無草稿可供所有客戶使用，並由Admin中的新許可權控制。
 
 ![](assets/image2016-5-16-15-3a41-3a17.png)
 
-## [登陸頁面、登陸頁面範本和表單API](https://developers.marketo.com/blog/spring-2016-updates/) {#landing-page-landing-page-template-and-form-apis}
+## 登陸頁面、登陸頁面範本及表單API {#landing-page-landing-page-template-and-form-apis}
+
+[登陸頁面、登陸頁面範本及表單API](https://developers.marketo.com/blog/spring-2016-updates/)
 
 Marketo REST API現在支援控制Marketo登陸頁面、登陸頁面範本和表單。 使用者現在可以直接透過Marketo REST API建立、更新內容、核准和刪除這些資產。
 
-## [API存取的IP允許清單](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
+## API存取的IP允許清單 {#ip-allowlisting-for-api-access}
+
+[API存取的IP允許清單](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md)
 
 與Marketo使用者登入的IP允許清單功能類似，Marketo管理員現在可以設定IP位址允許清單，以存取Marketo SOAP和REST API，進而封鎖來自未授權IP位址的存取。 這為您的Marketo執行個體提供額外的安全層，並確保API存取只能從您組織的網路中進行。 有關如何進行此設定的詳細資訊，請參閱[Marketo檔案網站](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md)。
 
-## [新的高速Microsoft Dynamics同步聯結器](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
+## 新的高速Microsoft Dynamics同步聯結器 {#new-high-speed-microsoft-dynamics-sync-connector}
+
+[新的高速Microsoft Dynamics同步聯結器](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)
 
 全新的高速Dynamics聯結器可提供高達20倍的初始同步處理速度，以及高達5倍的增量同步處理速度。 所有新客戶將在發行日期加入此聯結器，我們將在夏季發行時間範圍內逐步向現有客戶推出。
 
@@ -178,7 +216,9 @@ Marketo REST API現在支援控制Marketo登陸頁面、登陸頁面範本和表
 
 **外掛程式更新現在已記錄：**&#x200B;請參閱[外掛程式更新檔案文章](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)。
 
-## [易記執行個體名稱](/help/marketo/product-docs/administration/settings/edit-subscription-settings.md) {#friendly-instance-name}
+## 好記的執行個體名稱 {#friendly-instance-name}
+
+[好記的執行個體名稱](/help/marketo/product-docs/administration/settings/edit-subscription-settings.md)
 
 現今，很難區分Marketo執行個體，例如沙箱和生產執行個體。 此功能可讓您知道您目前正在處理哪些執行個體。
 
@@ -190,7 +230,9 @@ Marketo REST API現在支援控制Marketo登陸頁面、登陸頁面範本和表
 
 ![](assets/image2016-5-16-15-3a59-3a52.png)
 
-## [自訂物件格線](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) {#custom-objects-grid}
+## 自訂物件格線 {#custom-objects-grid}
+
+[自訂物件格線](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
 現在，您可以檢視所有已發佈自訂物件的記錄數和欄位數。
 
@@ -204,7 +246,9 @@ Marketo管理員現在可以透過Marketo自訂活動定義模組化工具來定
 
 下列功能包含在2016年夏季版本中。 檢查您的Marketo版本是否有功能可用。 請按一下標題連結以檢視每個功能的詳細文章。
 
-## [以帳戶為基礎的行銷](https://docs.marketo.com/display/docs/account+based+marketing) {#account-based-marketing}
+## 帳戶型行銷 {#account-based-marketing}
+
+[帳戶型行銷](https://docs.marketo.com/display/docs/account+based+marketing)
 
 Marketo帳戶式行銷在一個統一的平台上提供所有基本功能：
 
@@ -218,7 +262,9 @@ Marketo帳戶式行銷在一個統一的平台上提供所有基本功能：
 >
 >ABM可作為您的Marketo訂閱的附加元件，因此請聯絡您的銷售代表以實作它。
 
-## [稽核記錄](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md) {#audit-trail}
+## 稽核軌跡 {#audit-trail}
+
+[稽核軌跡](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md)
 
 稽核軌跡提供在Marketo訂閱中所做變更的完整記錄。 如此一來，使用者和管理員將可共同承擔責任，協助找出非預期行為的成因，並確保安全掌握相關資訊。 此資訊將在任何時間點提供，並可用於回答以下問題：
 
@@ -238,7 +284,9 @@ Marketo帳戶式行銷在一個統一的平台上提供所有基本功能：
 
 ![](assets/vibes-sms2.png)
 
-## [電子郵件2.0增強功能](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md) {#email-enhancements}
+## Email 2.0增強功能 {#email-enhancements}
+
+[Email 2.0增強功能](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
 
 **模組層級變數**
 
@@ -267,37 +315,51 @@ Marketo帳戶式行銷在一個統一的平台上提供所有基本功能：
 
 ![](assets/multiple-branding-domains.png)
 
-## [程式權杖](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) {#program-tokens}
+## 方案權杖 {#program-tokens}
+
+[方案權杖](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
 
 我們已建立程式的新Token型別。 您現在可以在資產和智慧行銷活動流程步驟中呈現方案名稱、說明和ID。
 
 ![](assets/program-tokens.png)
 
-## [企業金鑰](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md) {#enterprise-key}
+## 企業金鑰 {#enterprise-key}
+
+[企業金鑰](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md)
 
 要求您銷售團隊中的每個人安裝[!DNL Outlook]的[!DNL Sales Insight]外掛程式，可能會很繁瑣。 我們引進了使用企業金鑰從遠端安裝[!DNL Outlook]外掛程式的新方式。 將您在[!UICONTROL Admin]的Marketo [!DNL Sales Insight]區段中找到的唯一金鑰傳送給您的IT團隊，讓他們完成其餘工作。
 
 ![](assets/enterprise-key.png)
 
-## [網頁Personalization行銷活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) {#web-personalization-campaigns}
+## 網頁Personalization行銷活動 {#web-personalization-campaigns}
+
+[網頁Personalization行銷活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
 
 指定網站行銷活動在網站上反應的時間延遲。
 
 ![](assets/dialog-campaign-delay.png)
 
-## [Content Analytics和Recommendations匯出](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) {#content-analytics-and-recommendations-export}
+## Content Analytics和Recommendations匯出 {#content-analytics-and-recommendations-export}
+
+[Content Analytics和Recommendations匯出](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md)
 
 離線檢視內容分析和建議資料。
 
-## 電子郵件編輯器2.0[&#128279;](https://developers.marketo.com/documentation/asset-api/)的API支援 {#api-support-for-email-editor}
+## 電子郵件編輯器2.0的API支援 {#api-support-for-email-editor}
+
+[電子郵件編輯器2.0的API支援](https://developers.marketo.com/documentation/asset-api/)
 
 先前僅與v1.0電子郵件和範本相容的既有資產API，現在可供v2.0電子郵件資產使用。
 
-## [Marketo開發人員網站](https://developers.marketo.com/) {#marketo-developers-site}
+## Marketo開發人員網站 {#marketo-developers-site}
+
+[Marketo開發人員網站](https://developers.marketo.com/)
 
 全新及改良！
 
-## [隱私權設定](/help/marketo/product-docs/administration/settings/understanding-privacy-settings.md) {#privacy-settings}
+## 隱私權設定 {#privacy-settings}
+
+[隱私權設定](/help/marketo/product-docs/administration/settings/understanding-privacy-settings.md)
 
 行銷人員可使用隱私權設定，決定是否使用[!DNL Munchkin]和Web Personalization功能來追蹤訪客。 追蹤層級可透過使用瀏覽器的Do Not Track設定、選擇退出Cookie或非特定IP來控制。 這些方法可能會影響Marketo在特定區域中的價值和功能，但若行銷人員未變更任何專案，Marketo功能將會維持不變。
 
@@ -321,7 +383,9 @@ Marketo帳戶式行銷在一個統一的平台上提供所有基本功能：
 
 ![](assets/predictive.png)
 
-## [Facebook離線轉換](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md) {#facebook-offline-conversions}
+## Facebook離線轉換 {#facebook-offline-conversions}
+
+[Facebook離線轉換](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)
 
 透過[!DNL Facebook]離線轉換整合，Marketo （適用於潛在客戶廣告銷售機會）中的轉換資料會自動傳回[!DNL Facebook]，讓您的廣告團隊更能將廣告支出最佳化。 在此[!DNL Facebook]廣告管理員報表中，離線轉換會反白顯示。
 
@@ -347,7 +411,9 @@ Marketo帳戶式行銷在一個統一的平台上提供所有基本功能：
 
 此版本也可讓您使用Marketo REST API在ABM中管理具名帳戶屬性和帳戶分數。 如需API作業的詳細資訊，請造訪[Marketo開發人員網站](https://developers.marketo.com/rest-api/lead-database/named-accounts)。
 
-## [稽核軌跡增強功能](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
+## 稽核軌跡增強功能 {#audit-trail-enhancements}
+
+[稽核軌跡增強功能](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)
 
 稽核軌跡提供在Marketo訂閱中所做變更的完整記錄。 我們為方案新增了其他追蹤功能，並呈現智慧行銷活動、智慧列示以及對使用者和角色所做變更的重要變更詳細資料。
 
@@ -361,7 +427,9 @@ Marketo帳戶式行銷在一個統一的平台上提供所有基本功能：
 
 如果您無法強制執行[行銷活動限制](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)，為什麼要設定這些限制？ 當您設定「行銷活動限制設定」來限制資料庫中單一行銷活動可鎖定的人數，您現在便能夠在排程行銷活動時限制哪些使用者可以覆寫這些設定。
 
-## [行動推播通知的聲音](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) {#sound-for-mobile-push-notifications}
+## 行動推播通知的聲音 {#sound-for-mobile-push-notifications}
+
+[行動推播通知的聲音](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
 
 啟用音效，讓您的iOS推播通知更加豐富。 此新功能可讓您在行動裝置上顯示推播通知時觸發音效。
 
@@ -372,19 +440,27 @@ Marketo帳戶式行銷在一個統一的平台上提供所有基本功能：
 
 ![](assets/sound-for-push-notifications.png)
 
-## [與Salesforce Encryption相容的銷售Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
+## 銷售Insight與Salesforce加密相容 {#sales-insight-compatible-with-salesforce-encryption}
+
+[銷售Insight與Salesforce加密相容](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
 
 市場[!DNL Sales Insight]現在與[!DNL Salesforce] Shield Encryption相容。 所有[!DNL Sales Insight]客戶都應該升級至這個最新的Managed套件（版本1.4359.2），此套件[可在 [!DNL Appexchange]](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)上取得。
 
-## [具名帳戶API](https://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
+## 具名帳戶API {#named-accounts-apis}
+
+[具名帳戶API](https://developers.marketo.com/rest-api/lead-database/named-accounts/)
 
 在此版本中，Marketo ABM使用者可以透過指定帳戶API管理指定帳戶。 使用者可以建立、更新和刪除具名帳戶，以及讀取和更新ABM具名帳戶分數。
 
-## [電子郵件編輯器v2.0 API支援](https://developers.marketo.com/rest-api/assets/emails/) {#email-editor-v-api-support}
+## 電子郵件編輯器v2.0 API支援 {#email-editor-v-api-support}
+
+[電子郵件編輯器v2.0 API支援](https://developers.marketo.com/rest-api/assets/emails/)
 
 使用Marketo REST API管理v2.0格式的電子郵件變數和模組。
 
-## [對Marketo Salesforce Sync的變更](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
+## Marketo Salesforce同步處理的變更 {#changes-to-marketo-salesforce-sync}
+
+[Marketo Salesforce同步處理的變更](https://nation.marketo.com/docs/DOC-3840)
 
 Marketo的[!DNL Salesforce]整合正不斷發展，以改善Marketo欄位與[!DNL Salesforce]同步的方式。 現在，您不必同步大量您可能需要（也可能不需要）的欄位，您可以挑選要納入的欄位。 請在此檢視我們的檔案以取得詳細資訊： [https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840)。
 

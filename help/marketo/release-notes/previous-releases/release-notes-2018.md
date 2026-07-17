@@ -28,9 +28,9 @@ topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+source-git-commit: ca5ce3f901525a7ad1d08a7c4a4d8d5f61786cf4
 workflow-type: tm+mt
-source-wordcount: 1857
+source-wordcount: 1860
 ht-degree: 0%
 
 ---
@@ -57,7 +57,9 @@ Marketo運用我們的大型資料架構，提高觸發行銷活動的輸送量�
 
 這些改善將於2018年推出。
 
-## [Marketo效能深入分析](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md) {#marketo-performance-insights}
+## Marketo效能深入分析 {#marketo-performance-insights}
+
+[Marketo效能深入分析](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)
 
 >[!AVAILABILITY]
 >

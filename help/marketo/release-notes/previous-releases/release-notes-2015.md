@@ -30,9 +30,9 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+source-git-commit: ca5ce3f901525a7ad1d08a7c4a4d8d5f61786cf4
 workflow-type: tm+mt
-source-wordcount: 2862
+source-wordcount: 2865
 ht-degree: 1%
 
 ---
@@ -267,7 +267,9 @@ RTP： [拖放區段編輯器](/help/marketo/product-docs/web-personalization/us
 
 2015年6月發行版本包含下列功能。 請檢查您的Marketo版本是否有功能可用。 發行後，請務必返回尋找每個功能的詳細文章連結！
 
-## [歸因電子郵件報告](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) {#attribution-email-report}
+## 歸因電子郵件報表 {#attribution-email-report}
+
+[歸因電子郵件報表](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)
 
 檢視個人化提供的價值以及建議內容提供給行銷活動。 [歸因電子郵件報表](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)會顯示歸因於RTP個人化和建議內容行銷活動的直接和輔助銷售機會。 在RTP的「使用者設定和電子郵件報表」中，新增「歸因電子郵件報表」以接收每月或每季的電子郵件。
 
@@ -281,7 +283,8 @@ RTP： [拖放區段編輯器](/help/marketo/product-docs/web-personalization/us
 
 ## RTF編輯器更新 {#rich-text-editor-update}
 
-更新文字編輯器，提供現代外觀，包括簡化的文字格式、影像編輯、連結插入和HTML編輯。 HTML編輯器現在提供最低限度的驗證，允許進行限制較少的程式碼編輯。`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>`此更新將在7月發行後的幾天內自動推出。 之後，您將可以從&#x200B;**[!UICONTROL Admin]> [!UICONTROL Email] >[!UICONTROL Edit Editor Settings]**&#x200B;切換編輯器的新版本和舊版本。
+更新文字編輯器，提供現代外觀，包括簡化的文字格式、影像編輯、連結插入和HTML編輯。 HTML編輯器現在提供最低限度的驗證，允許進行限制較少的程式碼編輯。
+`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>`此更新將在7月發行後的幾天內自動推出。 之後，您將可以從&#x200B;**[!UICONTROL Admin]> [!UICONTROL Email] >[!UICONTROL Edit Editor Settings]**&#x200B;切換編輯器的新版本和舊版本。
 
 ![](assets/image2015-7-10-9-3a42-3a44.png)
 

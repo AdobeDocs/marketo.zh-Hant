@@ -4,10 +4,10 @@ title: AWS移轉
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 4cdacd070daedd0ecc8f619c994f343b14c00adb
+source-git-commit: 55a3bfe19da19ebfdf3f565ac4a4dbe2ca6041a2
 workflow-type: tm+mt
-source-wordcount: '459'
-ht-degree: 6%
+source-wordcount: '488'
+ht-degree: 5%
 
 ---
 
@@ -39,6 +39,10 @@ ht-degree: 6%
 
 * **CRM整合和LaunchPoint服務**&#x200B;將會停用，但之後應該會自動繼續。
 * **登陸頁面、表單和資料彙集**&#x200B;將無法使用，而將會顯示維護訊息。
+
+>[!NOTE]
+>
+>如果您使用[外部表單](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}，並且想要在移轉期間保留資料，請聯絡[Adobe支援](https://experienceleague.adobe.com/zh-hant/support){target="_blank"}，並提供表單ID和您訂閱的Munchkin ID。
 
 ## 識別您的資料中心/Pod {#identify}
 
@@ -89,8 +93,8 @@ ht-degree: 6%
    NLD104</td>
    <td>上午10點PDT<br>
    上午11點PDT</td>
-   <td>準時發行<br>
-   依排程</td>
+   <td>已完成<br>
+   已完成</td>
   </tr>
   <tr>
    <td>2026年7月17日</td>
