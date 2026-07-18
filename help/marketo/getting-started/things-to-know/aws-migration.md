@@ -4,9 +4,9 @@ title: AWS移轉
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 55a3bfe19da19ebfdf3f565ac4a4dbe2ca6041a2
+source-git-commit: cd0b1dece6129df76deb7eb9c8953711d4d29e45
 workflow-type: tm+mt
-source-wordcount: '488'
+source-wordcount: '486'
 ht-degree: 5%
 
 ---
@@ -102,8 +102,8 @@ ht-degree: 5%
    NLD105</td>
    <td>上午10點PDT<br>
    上午11點PDT</td>
-   <td>準時發行<br>
-   依排程</td>
+   <td>已完成<br>
+   已完成</td>
   </tr>
   <tr>
    <td>2026年7月21日</td>
