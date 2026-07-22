@@ -4,19 +4,12 @@ title: 發行說明 - 2023 年 1 月
 exl-id: 584f74e5-ed0a-4f2f-9a1e-93cb8804dec8
 feature: Release Information
 TQID: https://experienceleague.adobe.com/fB2DSNQ-lP-D8y9ISOy-TCHaJ2BiwQtqcKoTNv8t-Mk
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-topic_v2:
-  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: e0eb8757-182f-49f3-94a4-1587d16f5094id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: babcd0bfb6c16165488cabd075a9d75d2952016b
 workflow-type: tm+mt
-source-wordcount: 656
+source-wordcount: 663
 ht-degree: 17%
 
 ---
@@ -39,8 +32,8 @@ ht-degree: 17%
 
 * **現代UX中的Screens已更新**：現代UX （先前稱為新一代體驗）中，我們提供額外的重新整理熒幕，透過切換開關提供更新的設計和可用性增強功能：
 
-   * 程式碼片段清單視圖
-   * 登陸頁面範本清單
+  * 程式碼片段清單視圖
+  * 登陸頁面範本清單
 
   <table>
   <tr>
@@ -49,7 +42,7 @@ ht-degree: 17%
   </tr>
   <tr>
    <td>已發行</td>
-   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">切換按鈕</a></td>
+   <td><a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/home">切換按鈕</a></td>
   </tr>
   </tbody>
 
@@ -100,7 +93,7 @@ ht-degree: 17%
   </tr>
   <tr>
    <td>已發行</td>
-   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html?lang=zh-Hant">Marketo Measure Ultimate</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html">Marketo Measure Ultimate</a></td>
   </tr>
   </tbody>
 </table>

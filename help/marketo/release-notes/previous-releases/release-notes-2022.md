@@ -1,33 +1,13 @@
 ---
-title: "2022"
+title: 2022
 description: 2022 - Marketo檔案 — 產品檔案
 feature: Release Information
-feature_v2:
-  - id: a7170d27-32ab-462b-a333-269abc654483
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: ad89fb33-8541-4339-afe7-bb13d1633714
-  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
-  - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: f71e690b-4480-4b67-9ef5-88f42f9cdfdbid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: ad89fb33-8541-4339-afe7-bb13d1633714id: d0251300-e25f-466f-9856-7e11ce8fa7aaid: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: d095671a-1355-40aa-8b5f-06c33c68080bid: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: babcd0bfb6c16165488cabd075a9d75d2952016b
 workflow-type: tm+mt
-source-wordcount: 4254
+source-wordcount: 4283
 ht-degree: 6%
 
 ---
@@ -50,8 +30,8 @@ ht-degree: 6%
 
 * **新一代體驗中的Screens已更新**：我們為新一代體驗提供額外的重新整理熒幕，透過切換開關提供更新的設計和可用性增強功能：
 
-   * 在[!UICONTROL Design Studio]中的登陸頁面資產詳細資訊
-   * 在[!UICONTROL Marketing Activities]中的登陸頁面資產詳細資訊
+  * 在[!UICONTROL Design Studio]中的登陸頁面資產詳細資訊
+  * 在[!UICONTROL Marketing Activities]中的登陸頁面資產詳細資訊
 
 ## [!DNL Microsoft Dynamics]整合 {#microsoft-dynamics-integration}
 
@@ -81,7 +61,7 @@ ht-degree: 6%
 
 ![（星形）](assets/yellow-star.png)
 
-[!DNL Salesforce] CRM **的**&#x200B;[!DNL Sales Insight]
+[!DNL Salesforce] CRM **的**[!DNL Sales Insight]
 
 * **適用於[!UICONTROL Best Bets]**&#x200B;的新型別欄：賣家將透過標籤為「型別」的新欄取得更快的深入分析，以區分[!UICONTROL Best Bets]頁面上的潛在客戶與聯絡人。
 
@@ -89,7 +69,7 @@ ht-degree: 6%
 
 * **已更新品牌**：正在更新所有[!DNL Sales Insight]頁面，以符合Adobe品牌。
 
-[!DNL Microsoft Dynamics]&#x200B;**的**&#x200B;[!DNL Sales Insight]
+[!DNL Microsoft Dynamics]**的**[!DNL Sales Insight]
 
 * **已更新帳戶配置**：賣家可取得熱門活動的集體檢視，例如：電子郵件活動、網路活動、有趣的時刻，以及帳戶內所有連絡人的分數變更。
 
@@ -129,7 +109,7 @@ ht-degree: 6%
 
 ## 跨頻道協調
 
-* **[!DNL Dynamic Chat]**：透過主動式、主動式和1:1個人化對話將目標同時鎖定於銷售機會和帳戶，在您的網站上最大化每個商機。 [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"}可讓Marketo Engage使用者開始運用聊天，作為B2B行銷和銷售使用案例整合式跨管道體驗的關鍵部分。 功能包括：直接在聊天中預約會議、潛在客戶路由、入門範本、建立拖放式交談等等。 Dynamic Chat包含在所有Marketo Engage套件中，並將於今年推出給所有Marketo Engage使用者。
+* **[!DNL Dynamic Chat]**：透過主動式、主動式和1:1個人化對話將目標同時鎖定於銷售線索和帳戶，最大化您網站上的每一個商機。 [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"}可讓Marketo Engage使用者開始運用聊天，作為B2B行銷和銷售使用案例整合式跨管道體驗的關鍵部分。 功能包括：直接在聊天中預約會議、潛在客戶路由、入門範本、建立拖放式交談等等。 Dynamic Chat包含在所有Marketo Engage套件中，並將於今年推出給所有Marketo Engage使用者。
 
 * **電子郵件機器人活動篩選增強功能**：作為先前發行之[電子郵件機器人活動篩選](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"}功能的增強功能，您現在可以選擇加入識別為機器人的記錄活動。 然後，您可以根據識別為機器人正在執行的活動來篩選及觸發動作。
 
@@ -137,7 +117,7 @@ ht-degree: 6%
 
 * **新一代體驗中的Screens已更新**：我們為新一代體驗提供額外的重新整理熒幕，透過切換開關提供更新的設計和可用性增強功能：
 
-   * [!UICONTROL Design Studio]中的表單清單檢視（包括新的大量動作）
+  * [!UICONTROL Design Studio]中的表單清單檢視（包括新的大量動作）
 
 * **匯入方案工作流程更新**：正在新一代體驗中傳遞匯入方案工作流程，其中包含更新的設計和可用性增強功能。 這將是一個自動變更，不需要切換開關。
 
@@ -275,8 +255,8 @@ ht-degree: 6%
 
 **新的切換切換檢視**：以下檢視現在可在新一代體驗中使用：
 
-* [電子郵件詳細資料視圖](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-details-view){target="_blank"}
-* [電子郵件清單視圖](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-list-view){target="_blank"}
+* [電子郵件詳細資料視圖](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/home){target="_blank"}
+* [電子郵件清單視圖](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/home){target="_blank"}
 
 ## 體驗自動化
 
@@ -292,7 +272,7 @@ ht-degree: 6%
 
 ![（星形）](assets/yellow-star.png)
 
-* 在&#x200B;[!DNL Salesforce]&#x200B;**中設定的**&#x200B;[!DNL Sales Insight]&#x200B;許可權：管理員可以透過Marketo App許可權集（屬於[!DNL Sales Insight] [!DNL Salesforce]套件的一部分）提供[!DNL Sales Insight]存取權給使用者層級的有限人員集合，而非設定檔層級。
+* 在&#x200B;[!DNL Salesforce]**中設定的**[!DNL Sales Insight]&#x200B;許可權：管理員可以透過Marketo App許可權集（屬於[!DNL Sales Insight] [!DNL Salesforce]套件的一部分）提供[!DNL Sales Insight]存取權給使用者層級的有限人員集合，而非設定檔層級。
 
 * **我的Marketo動態磚更新 — [!DNL Sales Insight]動作**： Marketo管理員（以及他們指定的使用者）現在可以透過位於「我的Marketo」頁面上的新[!DNL Sales Insight]動作動態磚，快速導覽至他們的[!DNL Sales Insight]動作執行個體。
 
@@ -340,10 +320,10 @@ ht-degree: 6%
 
 * **在移動對話方塊中顯示目的地資料夾的資料夾階層**：檢視每個資料夾的資料夾階層可讓移動資產更容易，並降低將資產放入錯誤資料夾的可能性。
 
-* **[新一代體驗中的Screens已更新](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md){target="_blank"}**：我們為新一代體驗提供額外的重新整理熒幕，透過切換開關提供更新的設計和可用性增強功能：
+* **[新一代體驗中的Screens已更新](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/home){target="_blank"}**：我們將在新一代體驗中提供額外的重新整理熒幕，這些熒幕提供可透過切換開關存取的更新設計和可用性增強功能：
 
-   * 程式碼片段詳細資料
-   * 「影像和檔案」詳細資料
+  * 程式碼片段詳細資料
+  * 「影像和檔案」詳細資料
 
 >[!NOTE]
 >
@@ -357,7 +337,7 @@ ht-degree: 6%
 
 * **Webhook自訂標題可見性**： Webhook自訂標題現在顯示在[!UICONTROL Admin] > [!UICONTROL Webhooks]索引標籤中，以便更佳的可見性。
 
-* **CAPTCHA**：使用reCAPTCHA v3[&#128279;](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target="_blank"}評估表單提交的有效性以評分傳入的表單流量。 建立行銷工作流程，以自動排除、隔離或刪除可疑的機器人流量。
+* **CAPTCHA**：使用reCAPTCHA v3](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target="_blank"}評估表單提交的有效性[以評分傳入的表單流量。 建立行銷工作流程，以自動排除、隔離或刪除可疑的機器人流量。
 
 * **核准表單的許可權**：新許可權，可控制哪些設計人員可核准與其他[!UICONTROL Design Studio]資產一致的表單變更。 這可以防止其他設計人員在沒有其他具有核准許可權的人員審閱表單的情況下，將變更推送至表單。
 
@@ -433,8 +413,8 @@ ht-degree: 6%
 
 * **新一代體驗中的Screens已更新**：我們為新一代體驗提供額外的重新整理熒幕，透過切換開關提供更新的設計和可用性增強功能：
 
-   * 登陸頁面範本詳細資料
-   * 電子郵件範本清單
+  * 登陸頁面範本詳細資料
+  * 電子郵件範本清單
 
 <table>
   <tr>
@@ -443,7 +423,7 @@ ht-degree: 6%
   </tr>
   <tr>
    <td>已發行</td>
-   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">切換按鈕</a></td>
+   <td><a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/home">切換按鈕</a></td>
   </tr>
   </tbody>
 </table>
