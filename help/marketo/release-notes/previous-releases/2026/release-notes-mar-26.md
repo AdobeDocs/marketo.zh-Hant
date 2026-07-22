@@ -2,10 +2,10 @@
 description: 發行說明 — 2026年3月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2026年3月
 feature: Release Information
-source-git-commit: 7ed34709d2a8b8ab3922a62d043bcdfa8e2d33ce
+source-git-commit: e8663ada66948bc30ff7ad90b26f6ba75d670ae8
 workflow-type: tm+mt
-source-wordcount: '533'
-ht-degree: 18%
+source-wordcount: '468'
+ht-degree: 21%
 
 ---
 
@@ -37,9 +37,10 @@ ht-degree: 18%
    <td> </td>
   </tr>
   <tr>
-   <td><strong>電子郵件Designer — 片段中的可編輯HTML元件</strong>：在視覺片段中，透過元件屬性面板的影像、文字和按鈕元件支援可編輯欄位。 針對HTML元件，可編輯欄位的設定方式不同，在HTML元件本身的原始程式碼中使用以變數為基礎的語法。</td>
+   <td><strong>電子郵件Designer — 片段中的可編輯HTML元件</strong>：在視覺片段中，透過元件屬性面板的影像、文字和按鈕元件支援可編輯欄位。針對HTML元件，可編輯欄位的設定方式不同，在HTML元件本身的原始程式碼中使用以變數為基礎的語法。
+   </td>
    <td>已發行</i></td>
-   <td><a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments#editable-html" target="_blank">片段中的可編輯HTML元件</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments#editable-html" target="_blank">片段中的可編輯HTML元件</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -47,7 +48,8 @@ ht-degree: 18%
    <td> </td>
   </tr>
   <tr>
-   <td><strong>電子郵件Designer — 快速動作</strong>： <i>與舊電子郵件編輯器的對等性</i>。 快速動作現在可用於所有電子郵件Designer資產（電子郵件、電子郵件範本、片段）。 支援的快速動作包括：複製、刪除、移動、建立/編輯草稿。</td>
+   <td><strong>電子郵件Designer — 快速動作</strong>： <i>與舊電子郵件編輯器的對等性</i>。快速動作現在可用於所有電子郵件Designer資產（電子郵件、電子郵件範本、片段）。支援的快速動作包括：複製、刪除、移動、建立/編輯草稿。
+   </td>
    <td>已發行</i></td>
    <td>不適用</td>
   </tr>
@@ -57,7 +59,8 @@ ht-degree: 18%
    <td> </td>
   </tr>
    <tr>
-   <td><strong>電子郵件Designer - Outlook轉譯修正</strong>：此更新修正轉譯問題，尤其是在MS Outlook中。 進階HTML模式可讓您進行細微的HTML/CSS編輯，或新增指令碼標籤至您的電子郵件範本。</td>
+   <td><strong>電子郵件Designer - Outlook轉譯修正</strong>：此更新修正轉譯問題，尤其是在MS Outlook中。進階HTML模式可讓您進行細微的HTML/CSS編輯，或新增指令碼標籤至您的電子郵件範本。
+   </td>
    <td>已發行</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/advanced-html-mode.md" target="_blank">使用進階HTML編輯器編輯電子郵件範本</a></td>
   </tr>
@@ -88,10 +91,10 @@ ht-degree: 18%
 
 ## 公告 {#announcements}
 
-* **SEO功能淘汰**： 2026年3月31日（星期二），Marketo Engage將淘汰搜尋引擎最佳化功能(SEO)。 如果您未主動使用SEO，則不必執行任何動作。 如果您最近曾使用SEO，您可以選擇匯出資料。 [了解更多](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617?profile.language=zh-Hant){target="_blank"}。
+* **SEO功能淘汰**： 2026年3月31日（星期二），Marketo Engage將淘汰搜尋引擎最佳化功能(SEO)。 如果您未主動使用SEO，則不必執行任何動作。 如果您最近曾使用SEO，您可以選擇匯出資料。 [了解更多](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617){target="_blank"}。
 
 * **REST API合併潛在客戶限制**：自2026年7月31日起，在合併潛在客戶API呼叫的leadIds引數中包含超過25個ID的呼叫將產生1080錯誤碼，並將略過該呼叫。 需要將超過25筆記錄合併成一筆的工作應分割成多個工作，以確保這些呼叫成功。
 
-* **Rest API &#39;access_token&#39;引數淘汰**：用於驗證Marketo REST API呼叫的`access_token`查詢引數已淘汰，並將於2026年7月31日後無法使用。 所有新的和現有的整合都應使用「Authorization」標頭來驗證 REST API 呼叫，方法[如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
+* **Rest API &#39;access_token&#39;引數淘汰**：用於驗證Marketo REST API呼叫的`access_token`查詢引數已淘汰，並將於2026年8月31日後無法使用。 所有新的和現有的整合都應使用「Authorization」標頭來驗證 REST API 呼叫，方法[如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
 * **SOAP API淘汰**：對Marketo SOAP API的支援將於2026年7月31日終止。 使用 SOAP API 功能的服務應遷移至 [REST API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。
