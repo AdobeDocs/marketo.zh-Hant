@@ -3,7 +3,7 @@ description: 發行說明 — 2026年2月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2026年2月
 feature: Release Information
 exl-id: 679d2fca-99ba-4321-ad0d-a297b7f193fc
-source-git-commit: 713ab854749cb88a35b24f4355368092cdb35e64
+source-git-commit: e8663ada66948bc30ff7ad90b26f6ba75d670ae8
 workflow-type: tm+mt
 source-wordcount: '436'
 ht-degree: 22%
@@ -67,6 +67,6 @@ ht-degree: 22%
 
 * **REST API合併潛在客戶限制**：自2026年7月31日起，在合併潛在客戶API呼叫的leadIds引數中包含超過25個ID的呼叫將產生1080錯誤碼，並將略過該呼叫。 需要將超過25筆記錄合併成一筆的工作應分割成多個工作，以確保這些呼叫成功。
 
-* **Rest API &#39;access_token&#39;引數淘汰**：用於驗證Marketo REST API呼叫的`access_token`查詢引數已淘汰，並將於2026年7月31日後無法使用。 所有新的和現有的整合都應使用「Authorization」標頭來驗證 REST API 呼叫，方法[如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
+* **Rest API &#39;access_token&#39;引數淘汰**：用於驗證Marketo REST API呼叫的`access_token`查詢引數已淘汰，並將於2026年8月31日後無法使用。 所有新的和現有的整合都應使用「Authorization」標頭來驗證 REST API 呼叫，方法[如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
 * **SOAP API淘汰**：對Marketo SOAP API的支援將於2026年7月31日終止。 使用 SOAP API 功能的服務應遷移至 [REST API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。

@@ -25,9 +25,9 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+source-git-commit: babcd0bfb6c16165488cabd075a9d75d2952016b
 workflow-type: tm+mt
-source-wordcount: 4254
+source-wordcount: 4283
 ht-degree: 6%
 
 ---
@@ -50,8 +50,8 @@ ht-degree: 6%
 
 * **新一代體驗中的Screens已更新**：我們為新一代體驗提供額外的重新整理熒幕，透過切換開關提供更新的設計和可用性增強功能：
 
-   * 在[!UICONTROL Design Studio]中的登陸頁面資產詳細資訊
-   * 在[!UICONTROL Marketing Activities]中的登陸頁面資產詳細資訊
+  * 在[!UICONTROL Design Studio]中的登陸頁面資產詳細資訊
+  * 在[!UICONTROL Marketing Activities]中的登陸頁面資產詳細資訊
 
 ## [!DNL Microsoft Dynamics]整合 {#microsoft-dynamics-integration}
 
@@ -129,7 +129,7 @@ ht-degree: 6%
 
 ## 跨頻道協調
 
-* **[!DNL Dynamic Chat]**：透過主動式、主動式和1:1個人化對話將目標同時鎖定於銷售機會和帳戶，在您的網站上最大化每個商機。 [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"}可讓Marketo Engage使用者開始運用聊天，作為B2B行銷和銷售使用案例整合式跨管道體驗的關鍵部分。 功能包括：直接在聊天中預約會議、潛在客戶路由、入門範本、建立拖放式交談等等。 Dynamic Chat包含在所有Marketo Engage套件中，並將於今年推出給所有Marketo Engage使用者。
+* **[!DNL Dynamic Chat]**：透過主動式、主動式和1:1個人化對話將目標同時鎖定於銷售線索和帳戶，最大化您網站上的每一個商機。 [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"}可讓Marketo Engage使用者開始運用聊天，作為B2B行銷和銷售使用案例整合式跨管道體驗的關鍵部分。 功能包括：直接在聊天中預約會議、潛在客戶路由、入門範本、建立拖放式交談等等。 Dynamic Chat包含在所有Marketo Engage套件中，並將於今年推出給所有Marketo Engage使用者。
 
 * **電子郵件機器人活動篩選增強功能**：作為先前發行之[電子郵件機器人活動篩選](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"}功能的增強功能，您現在可以選擇加入識別為機器人的記錄活動。 然後，您可以根據識別為機器人正在執行的活動來篩選及觸發動作。
 
@@ -137,7 +137,7 @@ ht-degree: 6%
 
 * **新一代體驗中的Screens已更新**：我們為新一代體驗提供額外的重新整理熒幕，透過切換開關提供更新的設計和可用性增強功能：
 
-   * [!UICONTROL Design Studio]中的表單清單檢視（包括新的大量動作）
+  * [!UICONTROL Design Studio]中的表單清單檢視（包括新的大量動作）
 
 * **匯入方案工作流程更新**：正在新一代體驗中傳遞匯入方案工作流程，其中包含更新的設計和可用性增強功能。 這將是一個自動變更，不需要切換開關。
 
@@ -275,8 +275,8 @@ ht-degree: 6%
 
 **新的切換切換檢視**：以下檢視現在可在新一代體驗中使用：
 
-* [電子郵件詳細資料視圖](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-details-view){target="_blank"}
-* [電子郵件清單視圖](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-list-view){target="_blank"}
+* [電子郵件詳細資料視圖](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/home){target="_blank"}
+* [電子郵件清單視圖](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/home){target="_blank"}
 
 ## 體驗自動化
 
@@ -340,10 +340,10 @@ ht-degree: 6%
 
 * **在移動對話方塊中顯示目的地資料夾的資料夾階層**：檢視每個資料夾的資料夾階層可讓移動資產更容易，並降低將資產放入錯誤資料夾的可能性。
 
-* **[新一代體驗中的Screens已更新](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md){target="_blank"}**：我們為新一代體驗提供額外的重新整理熒幕，透過切換開關提供更新的設計和可用性增強功能：
+* **[新一代體驗中的Screens已更新](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/home){target="_blank"}**：我們將在新一代體驗中提供額外的重新整理熒幕，這些熒幕提供可透過切換開關存取的更新設計和可用性增強功能：
 
-   * 程式碼片段詳細資料
-   * 「影像和檔案」詳細資料
+  * 程式碼片段詳細資料
+  * 「影像和檔案」詳細資料
 
 >[!NOTE]
 >
@@ -433,8 +433,8 @@ ht-degree: 6%
 
 * **新一代體驗中的Screens已更新**：我們為新一代體驗提供額外的重新整理熒幕，透過切換開關提供更新的設計和可用性增強功能：
 
-   * 登陸頁面範本詳細資料
-   * 電子郵件範本清單
+  * 登陸頁面範本詳細資料
+  * 電子郵件範本清單
 
 <table>
   <tr>
@@ -443,7 +443,7 @@ ht-degree: 6%
   </tr>
   <tr>
    <td>已發行</td>
-   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">切換按鈕</a></td>
+   <td><a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/home">切換按鈕</a></td>
   </tr>
   </tbody>
 </table>

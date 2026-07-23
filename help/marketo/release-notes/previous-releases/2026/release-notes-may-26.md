@@ -2,10 +2,10 @@
 description: 發行說明 — 2026年5月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2026年5月
 feature: Release Information
-source-git-commit: 7ed34709d2a8b8ab3922a62d043bcdfa8e2d33ce
+source-git-commit: e8663ada66948bc30ff7ad90b26f6ba75d670ae8
 workflow-type: tm+mt
-source-wordcount: '802'
-ht-degree: 14%
+source-wordcount: '760'
+ht-degree: 15%
 
 ---
 
@@ -69,7 +69,8 @@ ht-degree: 14%
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat — 正在輸入</strong>：現在訪客和代理程式都會看到「正在輸入……」 輸入時通知，防止一方打斷另一方。</td>
+   <td><strong>Dynamic Chat — 正在輸入</strong>：現在訪客和代理程式在另一方輸入時都會看到「正在輸入……」通知，以防止一方中斷另一方。
+   </td>
    <td>已發行</td>
    <td>不適用</td>
   </tr>
@@ -101,7 +102,8 @@ ht-degree: 14%
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat — 新屬性同步處理行為</strong>：之前，新增新屬性會在同步處理完成時最多封鎖環境24小時的變更，以防止對話方塊編輯和發佈。 現在，雖然新增屬性仍需要完全資料同步（這最多可能需要24小時），在此過程中環境不再封鎖。</td>
+   <td><strong>Dynamic Chat — 新屬性同步處理行為</strong>：之前，新增新屬性會在同步處理完成時最多封鎖環境24小時的變更，以防止對話方塊編輯和發佈。現在，雖然新增屬性仍需要完全資料同步（這最多可能需要24小時），在此過程中環境不再封鎖。
+   </td>
    <td>已發行</td>
    <td>不適用</td>
   </tr>
@@ -113,20 +115,20 @@ ht-degree: 14%
 
 * **社交功能淘汰欄位**：在2025年，Marketo Engage淘汰下列社交功能：
 
-   * 投票
-   * 社交按鈕
-   * 推薦優惠方案
-   * 影片分享
-   * 抽獎
+  * 投票
+  * 社交按鈕
+  * 推薦優惠方案
+  * 影片分享
+  * 抽獎
 
 今年早些時候，從Marketo中移除落後的相關欄位。 不久，參考特定社交相關潛在客戶欄位的API請求傳回「找不到欄位」錯誤，造成中斷。 受影響的欄位再次開放使用後，服務已還原，為避免進一步中斷，Marketo已永久中斷社交欄位與棄用的社交功能（因此可在您的Marketo帳戶中使用）。 建議使用者檢閱參考Marketo社交相關欄位的API查詢和整合，並確定這些欄位是否仍為持續業務流程的必要欄位。
 
 * **布林欄位的API合併功能**： API合併中的布林欄位行為在2026年3月發行版本中有所變更。 現在，系統會正確將False值視為該欄位有值。 評估衝突欄位時，只有null值會視為「空白」。 如需詳細資訊，請參閱[此社群貼文](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219?profile.language=zh-Hant){target="_blank"}。
 
-* **Rest API &#39;access_token&#39;引數淘汰**：用於驗證Marketo REST API呼叫的`access_token`查詢引數已淘汰，並將於2026年7月31日後無法使用。 所有新的和現有的整合都應使用「Authorization」標頭來驗證 REST API 呼叫，方法[如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
+* **Rest API &#39;access_token&#39;引數淘汰**：用於驗證Marketo REST API呼叫的`access_token`查詢引數已淘汰，並將於2026年8月31日後無法使用。 所有新的和現有的整合都應使用「Authorization」標頭來驗證 REST API 呼叫，方法[如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
 * **REST API合併潛在客戶限制**：自2026年7月31日起，在合併潛在客戶API呼叫的leadIds引數中包含超過25個ID的呼叫將產生1080錯誤碼，並將略過該呼叫。 需要將超過25筆記錄合併成一筆的工作應分割成多個工作，以確保這些呼叫成功。
 
 * **SOAP API淘汰**：對Marketo SOAP API的支援將於2026年7月31日終止。 使用 SOAP API 功能的服務應遷移至 [REST API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。
 
-* **取得潛在客戶活動與取得潛在客戶變更的靜態清單大小限制**：自2026年9月30日起，如果目標靜態清單包含10,000個或更多潛在客戶，呼叫Get潛在客戶活動與取得潛在客戶變更包含`listId`引數的端點將傳回1003錯誤代碼。 如需詳細資訊，請參閱[移轉指南](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}。
+* **取得潛在客戶活動與取得潛在客戶變更的靜態清單大小限制**：自2026年9月30日起，如果目標靜態清單包含10,000個或更多潛在客戶，呼叫Get潛在客戶活動與取得潛在客戶變更包含`listId`引數的端點將傳回1003錯誤代碼。 如需詳細資訊，請參閱[移轉指南](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}。
