@@ -4,9 +4,9 @@ title: AWS移轉
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: b38557d141ba7364fa5900ba0b87c7ba9d24da4d
+source-git-commit: 0828b4cb43dd18d02b80083ea5128e2f0e5e40d6
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '502'
 ht-degree: 5%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 5%
 
 * **檢閱並更新IP允許清單**，以取得登入、API存取、電子郵件傳送、網頁追蹤和整合。
 
-* **新增IP位址**&#x200B;並保留您目前的IP不變。 檢視要透過下方[&#128279;](#ip-addresses)的表格新增的IP位址。
+* **新增IP位址**&#x200B;並保留您目前的IP不變。 檢視要透過下方](#ip-addresses)的[表格新增的IP位址。
 
 ## 預期的服務影響 {#impacts}
 
@@ -42,7 +42,7 @@ ht-degree: 5%
 
 >[!NOTE]
 >
->如果您使用[外部表單](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}，並且想要在移轉期間保留資料，請聯絡[Adobe支援](https://experienceleague.adobe.com/zh-hant/support){target="_blank"}，並提供表單ID和您訂閱的Munchkin ID。
+>如果您使用[外部表單](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}，並且想要在移轉期間保留資料，請聯絡[Adobe支援](https://experienceleague.adobe.com/en/support){target="_blank"}，並提供表單ID和您訂閱的Munchkin ID。
 
 ## 識別您的資料中心/Pod {#identify}
 
@@ -115,7 +115,7 @@ ht-degree: 5%
    <td>2026年7月23日</td>
    <td>AB48</td>
    <td>下午5點PDT</td>
-   <td>準時發行</td>
+   <td>已完成</td>
   </tr>
   <tr>
    <td>2026年7月31日</td>
@@ -132,10 +132,26 @@ ht-degree: 5%
    <td>準時發行<br>
    依排程</td>
   </tr>
+  <tr>
   <td>2026年8月13日</td>
    <td>AB68</td>
    <td>下午4點PDT</td>
    <td>準時發行</td>
+  </tr>
+  <tr>
+  <td>2026年8月18日</td>
+   <td>AB39</td>
+   <td>下午5點PDT</td>
+   <td>準時發行</td>
+  </tr>
+  <tr>
+   <td>2026年8月20日</td>
+   <td>AB42<br>
+   AB44</td>
+   <td>下午5點PDT<br>
+   下午6點PDT</td>
+   <td>準時發行<br>
+   依排程</td>
   </tr>
   </body>
 </table>
@@ -167,4 +183,4 @@ ht-degree: 5%
 
 ## 更新與支援 {#support}
 
-如需最新更新，請將此頁面加入書籤。 如果您有任何問題，請透過Admin Console的支援入口網站或[Experience League](https://experienceleague.adobe.com/zh-hant/support){target="_blank"}聯絡Adobe支援。
+如需最新更新，請將此頁面加入書籤。 如果您有任何問題，請透過Admin Console的支援入口網站或[Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}聯絡Adobe支援。

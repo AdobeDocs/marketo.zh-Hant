@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: babcd0bfb6c16165488cabd075a9d75d2952016b
+source-git-commit: 0828b4cb43dd18d02b80083ea5128e2f0e5e40d6
 workflow-type: tm+mt
-source-wordcount: '8901'
+source-wordcount: '8906'
 ht-degree: 96%
 
 ---
@@ -1119,7 +1119,7 @@ ht-degree: 96%
       + [調查銷售機會](product-docs/marketo-ai/skills/investigate-leads.md)
       + [匯入銷售機會](product-docs/marketo-ai/skills/import-leads.md)
       + [驗證程式](product-docs/marketo-ai/skills/validate-programs.md)
-    + [MARKETO MCP](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/mcp-server)
+    + [MARKETO MCP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + Marketo 通知 {#marketo-notifications}
     + {hide-from-toc}[通知： Websocket連線](product-docs/marketo-notifications/websocket-connection.md)
   + Marketo Sales Connect {#marketo-sales-connect}
@@ -1662,6 +1662,7 @@ ht-degree: 96%
       + [編輯推薦列的預測內容](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
   + 報告 {#reporting}
     + [報告概觀](product-docs/reporting/reporting-overview.md)
+    + {hide-from-toc}[Marketo活動資料保留原則](product-docs/reporting/data-retention.md)
     + 基本報告 {#basic-reporting}
       + 建立報告 {#creating-reports}
         + [在方案中建立報告](product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)
