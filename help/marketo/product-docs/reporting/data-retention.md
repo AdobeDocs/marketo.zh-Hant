@@ -93,7 +93,7 @@ Marketo會以滾動方式保留行銷活動資料。 活動和促銷活動會籍
 
 ## 匯出資料
 
-Marketo提供[大量擷取REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract)，可讓您匯出人員活動並將其儲存在本機。 透過API擷取資料後，您可以視使用案例的需求來儲存和排序資料。
+Marketo提供[大量擷取REST API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract)，可讓您匯出人員活動並將其儲存在本機。 透過API擷取資料後，您可以視使用案例的需求來儲存和排序資料。
 
 >[!TIP]
 >
