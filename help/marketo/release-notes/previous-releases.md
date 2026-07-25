@@ -2,10 +2,10 @@
 title: 舊版
 description: 所有舊版Marketo Engage的發行說明，按年整理。
 feature: Release Information
-source-git-commit: 400b847ed81f4dda33f9c76b95319815366db7cf
+source-git-commit: 0828b4cb43dd18d02b80083ea5128e2f0e5e40d6
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 31%
+source-wordcount: '104'
+ht-degree: 36%
 
 ---
 
@@ -14,13 +14,14 @@ ht-degree: 31%
 
 >[!NOTE]
 >
->如需最新版本，請參閱[最新發行說明](current.md)。 如需Dynamic Chat發行歷程記錄，請參閱[Dynamic Chat發行說明](dynamic-chat.md)。
+>如需目前版本，請參閱[發行說明](current.md)。 如需Dynamic Chat的發行資訊，請參閱[Dynamic Chat發行說明](dynamic-chat.md)。
 
 ## 2026
 
 * [2026 年 1 月](previous-releases/2026/release-notes-jan-26.md)
 * [2026 年 2 月](previous-releases/2026/release-notes-feb-26.md)
 * [2026 年 3 月](previous-releases/2026/release-notes-mar-26.md)
+* [2026 年 5 月](previous-releases/2026/release-notes-may-26.md)
 
 ## 2025
 
