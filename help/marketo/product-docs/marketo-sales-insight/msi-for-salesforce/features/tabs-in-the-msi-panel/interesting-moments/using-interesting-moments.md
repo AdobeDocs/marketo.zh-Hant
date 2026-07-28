@@ -5,15 +5,12 @@ title: 使用關鍵時刻
 exl-id: ccf7664b-08e1-490a-a3f9-5fa3bd8fb05f
 feature: Marketo Sales Insights
 TQID: https://experienceleague.adobe.com/a7xwk8AWmiXHHxNMaCKh6rfVAO-60pwNjBoNsCZu0h4
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 76cacaf05738c6fe8836c5f2e9c64d9287c56bb7
 workflow-type: tm+mt
-source-wordcount: 427
+source-wordcount: 431
 ht-degree: 1%
 
 ---
@@ -24,11 +21,11 @@ ht-degree: 1%
 
 >[!AVAILABILITY]
 >
->這些僅供[!DNL Marketo Sales Insight]和[[!DNL Marketo Sales Connect]](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md)客戶使用。
+>若要使用有趣的時刻，您必須是[!DNL Marketo Sales Insight]或[[!DNL Marketo Sales Connect]](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md)使用者。
 
 ## 什麼是有趣的時刻？ {#what-is-an-interesting-moment}
 
-由您決定！ 您可以決定哪些資訊與您的銷售團隊相關。 您的銷售團隊可能想知道潛在客戶何時會：
+由您決定。 您可以決定哪些資訊與您的銷售團隊相關。 您的銷售團隊可能想知道潛在客戶何時會：
 
 * 瀏覽您網站上的定價頁面
 * 按一下新產品公告電子郵件中的連結
