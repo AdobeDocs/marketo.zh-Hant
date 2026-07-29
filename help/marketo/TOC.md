@@ -3,7 +3,8 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: 82084b98ee8f4e89896aa16b99c82af97fcea971
+nudge: toc
+source-git-commit: 6fc98c8f6a47c184831964e5613aa9bd05e9b737
 workflow-type: tm+mt
 source-wordcount: '8911'
 ht-degree: 96%
@@ -1120,7 +1121,7 @@ ht-degree: 96%
       + [調查銷售機會](product-docs/marketo-ai/skills/investigate-leads.md)
       + [匯入銷售機會](product-docs/marketo-ai/skills/import-leads.md)
       + [驗證程式](product-docs/marketo-ai/skills/validate-programs.md)
-    + [MARKETO MCP](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/mcp-server)
+    + [MARKETO MCP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + Marketo 通知 {#marketo-notifications}
     + {hide-from-toc}[通知： Websocket連線](product-docs/marketo-notifications/websocket-connection.md)
   + Marketo Sales Connect {#marketo-sales-connect}
