@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
-source-git-commit: 0828b4cb43dd18d02b80083ea5128e2f0e5e40d6
+source-git-commit: 82084b98ee8f4e89896aa16b99c82af97fcea971
 workflow-type: tm+mt
-source-wordcount: '8906'
+source-wordcount: '8911'
 ht-degree: 96%
 
 ---
@@ -163,6 +163,7 @@ ht-degree: 96%
       + [行銷活動檢查器](product-docs/administration/settings/campaign-inspector.md)
       + [變更分析的歸因設定](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
       + [建立人員詳細資料頁面的自訂索引標籤](product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
+      + {hide-from-toc}[在封存上停用智慧行銷活動](product-docs/administration/settings/disable-smart-campaigns-archive.md)
       + [編輯「不追蹤」瀏覽器支援設定](product-docs/administration/settings/edit-do-not-track-browser-support-settings.md)
       + [編輯登陸頁面設定](product-docs/administration/settings/edit-landing-page-settings.md)
       + [編輯報告和警報中的連結期限](product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md)
@@ -1119,7 +1120,7 @@ ht-degree: 96%
       + [調查銷售機會](product-docs/marketo-ai/skills/investigate-leads.md)
       + [匯入銷售機會](product-docs/marketo-ai/skills/import-leads.md)
       + [驗證程式](product-docs/marketo-ai/skills/validate-programs.md)
-    + [MARKETO MCP](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/mcp-server)
+    + [MARKETO MCP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + Marketo 通知 {#marketo-notifications}
     + {hide-from-toc}[通知： Websocket連線](product-docs/marketo-notifications/websocket-connection.md)
   + Marketo Sales Connect {#marketo-sales-connect}
