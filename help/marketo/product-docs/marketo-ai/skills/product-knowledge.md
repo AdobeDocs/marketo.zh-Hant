@@ -1,10 +1,9 @@
 ---
 description: 使用產品知識向Marketo AI詢問Marketo Engage功能、最佳實務和操作說明。 答案以Adobe的官方檔案為依據。
 title: 產品知識
-badge: beta
-source-git-commit: 408923e529bdfb2aa23f7d6acfb229cd7ee4c9d8
+source-git-commit: 0f58900f991bc288cbc6a4acc0ce882722b853ea
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '412'
 ht-degree: 0%
 
 ---
@@ -12,10 +11,6 @@ ht-degree: 0%
 # 產品知識 {#product-knowledge}
 
 產品知識可讓您隨選存取Marketo專業知識，而不需離開平台。 以簡單的語言提出問題，Marketo AI就會利用官方Adobe檔案來回答。
-
->[!AVAILABILITY]
->
->此功能目前處於開放Beta版。 若要要求存取權，請聯絡您的帳戶管理員。 您也必須同意[核心Gen-AI條款與補充條款](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}。
 
 ## 使用方式 {#how-to-use}
 

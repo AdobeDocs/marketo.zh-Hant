@@ -1,10 +1,9 @@
 ---
 description: 檢閱Marketo AI跨主要工作流程的資料範圍、治理控制和PII考量事項，例如潛在客戶匯入、方案QA和資料標準化。
 title: Marketo AI資料資訊表
-badge: beta
-source-git-commit: 06d77c31c729de70033696662fb6191eb527dedf
+source-git-commit: 0f58900f991bc288cbc6a4acc0ce882722b853ea
 workflow-type: tm+mt
-source-wordcount: '1454'
+source-wordcount: '1453'
 ht-degree: 0%
 
 ---
