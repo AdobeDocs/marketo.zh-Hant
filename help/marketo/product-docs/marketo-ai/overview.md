@@ -1,9 +1,8 @@
 ---
 description: 探索旨在自動化行銷工作（例如方案QA、潛在客戶匯入、資料標準化等）的Marketo AI代理程式套件。
 title: Marketo AI總覽
-badge: beta
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: f500c305c3e5c1331e9bb34c01cfec5974cf329e
+source-git-commit: 0f58900f991bc288cbc6a4acc0ce882722b853ea
 workflow-type: tm+mt
 source-wordcount: '379'
 ht-degree: 1%
@@ -16,7 +15,7 @@ Marketo AI提供的代理程式技能，可讓耗時但重要的行銷功能自�
 
 >[!AVAILABILITY]
 >
->此功能目前處於開放Beta版。 若要要求存取權，請聯絡您的帳戶管理員。 您也必須同意[核心Gen-AI條款與補充條款](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}。 Marketo AI目前僅針對英文最佳化。
+>此功能適用於所有訂閱。 如果您在「我的Marketo」畫面上看不到Marketo AI動態磚，請聯絡您的客戶經理。 您也必須同意[核心Gen-AI條款與補充條款](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}。
 
 >[!IMPORTANT]
 >

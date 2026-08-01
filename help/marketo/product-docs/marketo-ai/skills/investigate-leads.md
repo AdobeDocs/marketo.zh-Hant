@@ -1,10 +1,9 @@
 ---
 description: 「調查」銷售機會代理會回答行銷人員最常提出的問題。 它比手動挖掘活動記錄、智慧行銷活動記錄和評分記錄更快、更可靠。
 title: 調查銷售機會
-badge: beta
-source-git-commit: 408923e529bdfb2aa23f7d6acfb229cd7ee4c9d8
+source-git-commit: 0f58900f991bc288cbc6a4acc0ce882722b853ea
 workflow-type: tm+mt
-source-wordcount: '554'
+source-wordcount: '502'
 ht-degree: 0%
 
 ---
@@ -13,15 +12,9 @@ ht-degree: 0%
 
 瞭解為什麼特定人員/銷售機會未達到里程碑（例如MQL、方案資格或促銷活動），並取得所發生情況的直白語言說明。
 
->[!AVAILABILITY]
+>[!PREREQUISITES]
 >
->此功能目前處於開放Beta版。 若要要求存取權，請聯絡您的帳戶管理員。 您也必須同意[核心Gen-AI條款與補充條款](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}。
->
->* 您必須具有檢視許可權才能存取人員/潛在客戶記錄以及您正在調查的方案或里程碑。
-
->[!AVAILABILITY]
->
->此功能目前處於開放Beta版。 如需存取許可權，請聯絡您的帳戶管理員。
+>您必須具有檢視許可權才能存取人員/潛在客戶記錄以及您正在調查的方案或里程碑。
 
 ## 使用方式 {#how-to-use}
 
