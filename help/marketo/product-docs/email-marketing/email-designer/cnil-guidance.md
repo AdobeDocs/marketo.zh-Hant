@@ -28,7 +28,7 @@ ht-degree: 0%
 
 ## 步驟2：填入同意欄位 {#populate}
 
-1. 透過資料匯入（API同步或[CSV上傳](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people){target="_blank"}）設定每個人的電子郵件畫素追蹤欄位值。
+1. 透過資料匯入（API同步或[CSV上傳](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people){target="_blank"}）設定每個人的電子郵件畫素追蹤欄位值。
 
    ![](assets/cnil-3.png)
 
