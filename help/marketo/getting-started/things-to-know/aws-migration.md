@@ -4,9 +4,9 @@ title: AWS移轉
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: f0d3f6ad0113d3610f55e03533f8280816ed5181
+source-git-commit: 16ff6c279c222f3cd2d9b8a1a7bbba15472231cb
 workflow-type: tm+mt
-source-wordcount: '531'
+source-wordcount: '680'
 ht-degree: 6%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 6%
 
 * **檢閱並更新IP允許清單**，以取得登入、API存取、電子郵件傳送、網頁追蹤和整合。
 
-* **新增IP位址**&#x200B;並保留您目前的IP不變。 檢視要透過下方[&#128279;](#ip-addresses)的表格新增的IP位址。
+* **新增IP位址**&#x200B;並保留您目前的IP不變。 檢視要透過下方](#ip-addresses)的[表格新增的IP位址。
 
 ## 預期的服務影響 {#impacts}
 
@@ -42,7 +42,7 @@ ht-degree: 6%
 
 >[!NOTE]
 >
->如果您使用[外部表單](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}，並且想要在移轉期間保留資料，請聯絡[Adobe支援](https://experienceleague.adobe.com/zh-hant/support){target="_blank"}，並提供表單ID和您訂閱的Munchkin ID。
+>如果您使用[外部表單](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}，並且想要在移轉期間保留資料，請聯絡[Adobe支援](https://experienceleague.adobe.com/en/support){target="_blank"}，並提供表單ID和您訂閱的Munchkin ID。
 
 ## 識別您的資料中心/Pod {#identify}
 
@@ -52,6 +52,7 @@ ht-degree: 6%
 
 新日期和Data Center/Pod資訊會定期新增或變更，因此請監視此排程以取得更新。
 
++++7月排程
 <table>
  <tbody>
   <tr>
@@ -121,7 +122,20 @@ ht-degree: 6%
    <td>2026年7月31日</td>
    <td>AB43</td>
    <td>下午3點PDT</td>
-   <td>準時發行</td>
+   <td>已完成</td>
+  </tr>
+  </body>
+</table>
+
++++
+
+<table>
+ <tbody>
+  <tr>
+   <th style="width:25%">日期</th>
+   <th style="width:25%">資料中心/Pod</th>
+   <th style="width:25%">時間</th>
+   <th style="width:25%">狀態</th>
   </tr>
   <tr>
    <td>2026年8月12日</td>
@@ -171,6 +185,24 @@ ht-degree: 6%
    <td>準時發行<br>
    依排程</td>
   </tr>
+  <tr>
+   <td>2026年9月8日</td>
+   <td>AB01<br>
+   AB02</td>
+   <td>下午5點PDT<br>
+   下午6點PDT</td>
+   <td>準時發行<br>
+   依排程</td>
+  </tr>
+  <tr>
+   <td>2026年9月10日</td>
+   <td>AB03<br>
+   AB04</td>
+   <td>下午5點PDT<br>
+   下午6點PDT</td>
+   <td>準時發行<br>
+   依排程</td>
+  </tr>
   </body>
 </table>
 
@@ -201,4 +233,22 @@ ht-degree: 6%
 
 ## 更新與支援 {#support}
 
-如需最新更新，請將此頁面加入書籤。 如果您有任何問題，請透過Admin Console的支援入口網站或[Experience League](https://experienceleague.adobe.com/zh-hant/support){target="_blank"}聯絡Adobe支援。
+如需最新更新，請將此頁面加入書籤。 如果您有任何問題，請透過Admin Console的支援入口網站或[Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}聯絡Adobe支援。
+
+## 常見問題集 {#faq}
+
+**資料儲存於何處？**
+所有Marketo使用者資料都儲存在Amazon Web Services (AWS)上。Marketo已將其基礎架構從擁有的實體資料中心移轉至AWS的企業級雲端平台。
+
+**個人資料的具體儲存位置？**
+個人資料儲存在AWS完全受管理的關聯式資料庫服務Amazon Aurora中。Aurora會以六種方式在AWS地區的三個獨立可用區中複製資料，以保護個人資料免於硬體故障、儲存裝置降級和本地化基礎架構事件。
+
+**誰擁有儲存環境？**
+儲存基礎建設由Amazon Web Services (AWS)所擁有和營運。Adobe (Marketo)是以AWS客戶的身分來運作，並採用共同責任模式：AWS負責基礎建設的安全性和可用性，而Adobe則負責基礎建設中執行之資料和應用程式的安全性。
+
+**生產、備份/DR位置和儲存技術的完整詳細資料為何？**
+Marketo使用Amazon Aurora （完全由AWS管理的雲端原生關聯式資料庫引擎）作為主要資料庫技術。Aurora會將運算與儲存分離，以六種方式自動複製生產區域內3個可用區中的資料，並需要四份法定復本才能確認任何寫入操作。
+
+Aurora也會即時執行持續自動備份至Amazon S3，以便在設定的保留期間內，隨時進行時間點復原(PITR)。
+
+目前，Marketo的Aurora部署可在單一AWS區域運作，無需跨區域復寫。 生產資料會保留在指定的區域基礎架構中，而災難回覆是透過Aurora的多可用區儲存備援和持續備份來提供，而不是透過地理容錯移轉至次要區域。 隨著Marketo的AWS基礎建設日漸成熟，可進一步評估這項作業。
