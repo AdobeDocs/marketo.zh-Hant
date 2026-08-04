@@ -5,43 +5,10 @@ title: Marketo Engage 字彙表
 feature: Getting Started
 exl-id: dd97b50c-4148-473e-b9fb-4e76ef733e5d
 TQID: https://experienceleague.adobe.com/PTGIP2b0gv2iYVUC6dXES-Sh2XNeCLZJT-VnWZ5-1Yk
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: a7170d27-32ab-462b-a333-269abc654483
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-  - id: c954475c-8548-4e33-a0b8-6b550d956115
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-subfeature_v2:
-  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
-  - id: ad89fb33-8541-4339-afe7-bb13d1633714
-  - id: be80ef53-082b-4612-a88f-dfce57d36b02
-  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
-  - id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
-  - id: cfb57412-021b-4a60-afde-b402d442e24f
-  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
-  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
-  - id: d5f08d55-2fea-44e2-b699-c9c3a8a79cf1
-  - id: df8eb12b-4f82-491f-acbb-d74012ca5654
-  - id: ea6641cb-8461-4151-a8a9-9faaa44a928a
-  - id: edda586e-0147-48f2-b791-992622a00783
-  - id: fc5011cf-5b46-40b1-a5de-d7f042f85633
-  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
-  - id: ffdd6159-0e10-4a57-8021-94e93bab8183
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-  - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: c2dbad80-0f5c-4d96-a798-2a65f93b8721id: c5f60233-d5ea-4453-a799-0ad258b4d399id: c954475c-8548-4e33-a0b8-6b550d956115id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2: id: a1d50dda-6d94-4e16-8c30-5eb7181c4650id: ad89fb33-8541-4339-afe7-bb13d1633714id: be80ef53-082b-4612-a88f-dfce57d36b02id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272id: cfb57412-021b-4a60-afde-b402d442e24fid: d0251300-e25f-466f-9856-7e11ce8fa7aaid: d5c7388a-594e-4d15-9b39-98d6ce479e8bid: d5f08d55-2fea-44e2-b699-c9c3a8a79cf1id: df8eb12b-4f82-491f-acbb-d74012ca5654id: ea6641cb-8461-4151-a8a9-9faaa44a928aid: edda586e-0147-48f2-b791-992622a00783id: fc5011cf-5b46-40b1-a5de-d7f042f85633id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5id: ffdd6159-0e10-4a57-8021-94e93bab8183
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: d095671a-1355-40aa-8b5f-06c33c68080bid: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eb30f47f-d87a-400f-8f78-63ce7979ff56id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: 6137b262cf085d5b270d16e0bf3e4e39351c5af4
 workflow-type: tm+mt
 source-wordcount: 6103
@@ -295,7 +262,7 @@ ht-degree: 62%
   </tr>
   <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md" rel="nofollow">自訂物件</a></strong></td>
-   <td colspan="1">自訂物件能協助您追蹤您業務特定的量度。</td>
+   <td colspan="1">自訂物件能協助您追蹤業務專屬的量度。</td>
   </tr>
   <tr>
    <td colspan="1">
@@ -324,7 +291,7 @@ ht-degree: 62%
   </tr>
   <tr>
    <td><strong>去除重複</strong></td>
-   <td>也稱為去除重複內容。 識別並統合資訊 (例如人員)，以便消除重複內容的過程。 例如，當新的人員輸入您的執行個體時，Marketo 會自動去除重複。</td>
+   <td>也稱為去除重複內容。 識別並統合資訊 (例如人員)，以便消除重複內容的過程。 例如，當新的人員進入您的執行個體時，Marketo 會自動去除重複。</td>
   </tr>
   <tr>
    <td colspan="1">
@@ -475,7 +442,7 @@ ht-degree: 62%
   </tr>
   <tr>
    <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" rel="nofollow"><strong>已用盡</strong></a></td>
-   <td colspan="1">人員已經接收到參與資料流中每項內容的狀態。 被標記為已用盡的人員會保持這種狀態，直到新增額外的<strong>內容</strong>。</td>
+   <td colspan="1">人員已經接收到參與資料流中每項內容的時候。 被標記為已用盡的人員會保持這種狀態，直到新增額外的<strong>內容</strong>。</td>
   </tr>
   <tr>
    <td colspan="1"><strong>Experience Cloud對象同步</strong></td>
@@ -697,7 +664,7 @@ ht-degree: 62%
    <td colspan="1">這是由<strong>使用者</strong>手動設定的欄位，可以使其 Marketo <strong>資料庫</strong>中的某位人員暫時變成無法寄信的狀態。</td>
   </tr>
   <tr>
-   <td colspan="1"><strong>Marketo 商機管理 (MLM)</strong></td>
+   <td colspan="1"><strong>Marketo 銷售線索管理 (MLM)</strong></td>
    <td colspan="1">用於描述 Marketo Classic 核心應用程式介面的口語化術語。</td>
   </tr>
   <tr>
@@ -776,7 +743,7 @@ ht-degree: 62%
   </tr>
   <tr>
    <td><strong>選擇加入</strong></td>
-   <td>人員給予權限開始接收行銷電子郵件。</td>
+   <td>當人員同意開始接收行銷電子郵件時。</td>
   </tr>
   <tr>
    <td><strong>選擇退出</strong></td>
@@ -810,7 +777,7 @@ ht-degree: 62%
     <div>
      <p><a href="/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md" rel="nofollow"><strong> 效能洞察</strong></a></p>
     </div></td>
-   <td colspan="1">過去稱為 Marketo 績效洞察 (MPI)。 附加元件分析功能，會使用各種工具協助您探索趨勢並識別一致的勝利策略。</td>
+   <td colspan="1">過去稱為 Marketo 績效洞察 (MPI)。 附加元件分析功能，會使用各種工具協助您探索趨勢並找出持續奏效的策略。</td>
   </tr>
   <tr>
    <td><strong>人員</strong></td>
@@ -818,7 +785,7 @@ ht-degree: 62%
   </tr>
   <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md#person-partitions" rel="nofollow">人員分割</a></strong></td>
-   <td colspan="1">人員分割的功用類似於獨立的<strong>資料庫</strong>。 每個分割都有自己的人員，不會去除重複或與其他分割混合。</td>
+   <td colspan="1">人員分割的功用類似於獨立的<strong>資料庫</strong>。 每個分割都有自己的人員，不會與其他分割進行重複資料刪除或混合。</td>
   </tr>
   <tr>
    <td colspan="1"><a href="/help/marketo/product-docs/target-account-management/using-personas.md" rel="nofollow"><strong>人物誌</strong></a></td>
@@ -857,7 +824,7 @@ ht-degree: 62%
   </tr>
   <tr>
    <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md" rel="nofollow"><strong>方案效能報告</strong></a></td>
-   <td colspan="1">Marketo 中的一種報告類型。 透過報告可深入了解方案的運作情況。 依照<strong>標記</strong>、<strong>期間成本</strong>等篩選器進行篩選。</td>
+   <td colspan="1">Marketo 中的一種報告類型。 它可讓您查看方案的執行情況。 依照<strong>標記</strong>、<strong>期間成本</strong>等篩選器進行篩選。</td>
   </tr>
   <tr>
    <td colspan="1"><strong>Progressive設定檔分析</strong></td>
@@ -998,11 +965,11 @@ ht-degree: 62%
   </tr>
   <tr>
    <td colspan="1"><strong>垃圾郵件陷阱</strong></td>
-   <td colspan="1">ISP 和電子郵件安全性供應商專門監控以捕獲垃圾郵件寄送者的電子郵件地址。 可能包括從未使用過的地址、拼字錯誤的網域和過期的網域。 不同類型的垃圾郵件陷阱可以反映出不同的獲取資料問題，包括表單問題 (拼字錯誤垃圾郵件陷阱)、未正確維護資料庫或移除無效地址 (過期網域垃圾郵件陷阱)，或經常透過購買清單未經許可而取得地址 (原始垃圾郵件陷阱) 。 寄送到這些地址的任何郵件都會被標記為<strong>垃圾郵件</strong>。</td>
+   <td colspan="1">ISP 和電子郵件安全性供應商專門監視以捕獲垃圾郵件寄送者的電子郵件地址。 可能包括從未使用過的地址、拼字錯誤的網域和過期的網域。 不同類型的垃圾郵件陷阱可以反映出不同的獲取資料問題，包括表單問題 (拼字錯誤垃圾郵件陷阱)、未正確維護資料庫或移除無效地址 (過期網域垃圾郵件陷阱)，或經常透過購買清單未經許可而取得地址 (原始垃圾郵件陷阱) 。 寄送到這些地址的任何郵件都會被標記為<strong>垃圾郵件</strong>。</td>
   </tr>
   <tr>
    <td><strong>分割測試</strong></td>
-   <td>使用兩個或多個變數進行的測試實驗，用於測量結果的差異。 目標為識別網頁上哪些變更能夠讓興趣的結果增加或最大化。</td>
+   <td>使用兩個或多個變體進行的測試實驗，用於測量結果的差異。 目標為識別網頁上哪些變更能夠讓興趣的結果增加或最大化。</td>
   </tr>
   <tr>
    <td><strong>靜態清單</strong></td>
@@ -1159,7 +1126,7 @@ ht-degree: 62%
   </tr>
   <tr>
    <td><strong>所見即所得 (WYSIWYG)</strong></td>
-   <td>這是一個常用術語，指讓您在建立<strong>內容</strong>時，可以即時看到其最終結果的應用程式或編輯器。 Marketo 有一個 WYSIWYG 編輯器。</td>
+   <td>這是一個常用術語，指讓您在建立<strong>內容</strong>時，可以即時看到其最終結果的應用程式或編輯器。 Marketo 有一個所見即所得編輯器。</td>
   </tr>
   <tr>
    <td><strong>小工具</strong></td>
@@ -1171,7 +1138,7 @@ ht-degree: 62%
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">工作區</a></strong></td>
-   <td>Marketo 中的獨立區域，用於保存行銷<strong>資產</strong>。 例如，您可以擁有一個名為「北美」的工作區，僅限用於該區域的行銷。 歐洲、亞洲等。</td>
+   <td>Marketo 中的獨立區域，用於保存行銷<strong>資產</strong>。 例如，您可以擁有一個名為「北美」的工作區，專門用於向該區域進行行銷。 歐洲、亞洲等。</td>
   </tr>
  </tbody>
 </table>

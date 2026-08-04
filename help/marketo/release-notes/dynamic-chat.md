@@ -4,19 +4,9 @@ title: Dynamic Chat 發行說明
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
 TQID: https://experienceleague.adobe.com/AAOfVuJRhzuwLD48wA3me91Hx6LPD9NCOGHGaXe-vyA
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: a7170d27-32ab-462b-a333-269abc654483
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 3551
@@ -34,11 +24,11 @@ Adobe Dynamic Chat 的版本發行採用持續傳遞的模式，提供擴充性�
 
 ### 訪客等待時間限制 {#visitor-wait-time}
 
-設定訪客在收到遞補訊息之前，等候連線至即時代理的最長時間（10至500秒之間）。 [了解更多](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management#visitor-wait-time){target="_blank"}
+設定訪客在收到遞補訊息之前，等候連線至即時代理的最長時間（10至500秒之間）。 [了解更多](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management#visitor-wait-time){target="_blank"}
 
 ### 下載逐字稿 {#download-transcript}
 
-您現在可以在即時聊天結束後下載聊天記錄的.txt檔案。 [了解更多](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
+您現在可以在即時聊天結束後下載聊天記錄的.txt檔案。 [了解更多](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
 
 ## 2025 年 6 月發行版本 {#june-2025-release}
 
@@ -52,11 +42,11 @@ Adobe Dynamic Chat 的版本發行採用持續傳遞的模式，提供擴充性�
 
 * **每個工作階段最多嘗試聯繫兩次**
 
-   * 系統會嘗試連接至最多兩位代理人，但嚴格遵守主要路由規則。
+  * 系統會嘗試連接至最多兩位代理人，但嚴格遵守主要路由規則。
 
-   * 若代理人有空但沒有回應 (例如拒絕或錯過聊天)，系統會嘗試連接至同一集區的其他代理人。
+  * 若代理人有空但沒有回應 (例如拒絕或錯過聊天)，系統會嘗試連接至同一集區的其他代理人。
 
-   * 唯有在初次分配期間未能找到符合條件之代理人時才會啟動備用邏輯 (例如循環配置)，而非在參與失敗後進行重試。
+  * 唯有在初次分配期間未能找到符合條件之代理人時才會啟動備用邏輯 (例如循環配置)，而非在參與失敗後進行重試。
 
 * **路由規則特定行為**
 
@@ -72,9 +62,9 @@ Adobe Dynamic Chat 的版本發行採用持續傳遞的模式，提供擴充性�
 
 * 相反地，系統會：
 
-   * 顯示對應代理程式的會議行事曆（如果啟用），
- — 或 — 
-   * 退回到預設訊息 (最糟情況)。
+  * 顯示對應代理程式的會議行事曆（如果啟用），
+     — 或 — 
+  * 退回為預設訊息（最壞情況）。
 
 唯有當帳戶路由不符合條件 (沒有任何相符的網域或代理人) 時，才會考慮卡片層級路由規則 (例如團隊、自訂)。
 
@@ -82,7 +72,7 @@ Adobe Dynamic Chat 的版本發行採用持續傳遞的模式，提供擴充性�
 
 這些規則可能會傳回多位符合條件的代理人。
 
-若第一位有空的代理人沒有接手處理，系統會嘗試從同一清單中再聯繫一位或多位代理人。
+若第一位有空的代理人沒有接手處理，系統會嘗試從同一清單中再聯繫一位代理人。
 
 不會因為一位代理人沒有回應便觸發循環配置備用機制。
 
@@ -106,7 +96,7 @@ Adobe Dynamic Chat 的版本發行採用持續傳遞的模式，提供擴充性�
 
 系統會確認帳戶路由是否適用。
 
-* 若適用而且代理人有空，便會立即連接。
+* 若是，而且代理人有空，便會立即連接。
 
 * 若代理人不符合條件或沒有空，則會繼續執行卡片層級路由規則。
 
@@ -118,9 +108,9 @@ Adobe Dynamic Chat 的版本發行採用持續傳遞的模式，提供擴充性�
 
 * 若聯繫皆未成功，則套用備用邏輯：
 
-   * 日曆遞補（若已啟用）、
- — 或 — 
-   * 預設訊息。
+  * 日曆遞補（若已啟用）、
+     — 或 — 
+  * 預設訊息。
 
 唯有從主要路由規則中找不到符合條件之代理人時，才會考慮循環配置備用機制，而不是在個別代理人無法回應時。
 
@@ -128,7 +118,7 @@ Adobe Dynamic Chat 的版本發行採用持續傳遞的模式，提供擴充性�
 
 <p>
 
-_&#x200B;**帳戶路由**&#x200B;_
+_**帳戶路由**_
 
 <table><thead>
   <tr>
@@ -154,7 +144,7 @@ _&#x200B;**帳戶路由**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**自訂路由**&#x200B;_
+_**自訂路由**_
 
 <table><thead>
   <tr>
@@ -180,7 +170,7 @@ _&#x200B;**自訂路由**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**團隊路由**&#x200B;_
+_**團隊路由**_
 
 <table><thead>
   <tr>
@@ -206,7 +196,7 @@ _&#x200B;**團隊路由**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**循環配置路由**&#x200B;_
+_**循環配置路由**_
 
 <table><thead>
   <tr>
@@ -300,13 +290,13 @@ Demandbase 使用者可以在 Dynamic Chat 中使用 Demandbase 人員屬性進�
 
 * 分數值為 0、1、2、3 (預設值為空值)
 
-* 當交談完成或捨棄時，評分值便無法編輯
+* 當交談完成或中斷時，評分值便無法編輯
 
 * 設定分數：
 
-   * 在代理人收件匣中 - 在即時聊天期間，代理人可以更新或設定交談的分數，該分數會儲存在對話活動中
+  * 在代理人收件匣中 - 在即時聊天期間，代理人可以更新或設定交談的分數，該分數會儲存在對話活動中
 
-   * 在流程設計工具中 - 在目標卡片內，使用者可以更新或設定交談的分數
+  * 在流程設計工具中 - 在目標卡片內，使用者可以更新或設定交談的分數
 
 ![](assets/dynamic-chat-sep-oct-2024-release-2.png)
 
@@ -314,7 +304,7 @@ Demandbase 使用者可以在 Dynamic Chat 中使用 Demandbase 人員屬性進�
 
 ![](assets/dynamic-chat-sep-oct-2024-release-4.png)
 
-### 新商機建立邏輯 {#new-lead-creation-logic}
+### 新銷售線索建立邏輯 {#new-lead-creation-logic}
 
 若商機使用電子郵件 `abc@test.com` 填寫表單，且 Cookie 設為 xyz，然後稍後使用電子郵件 `def@test.com` 填寫相同的表單，則會建立新的人員記錄，但 Cookie xyz 會與新的人員相關聯，並從人員 `abc@test.com` 移除。
 
@@ -430,7 +420,7 @@ Demandbase 使用者可以使用自己的 Demandbase 授權，並啟動整合。
 
 ### 即時商機解析 {#real-time-lead-resolution}
 
-與匿名商機交談期間，若有提供電子郵件 ID，我們會解析該電子郵件 ID 是否具有已知商機記錄，並使用該記錄即時進行個人化。 若找到多筆記錄，我們會即時將記錄合併。 對話和交談流程皆會實施此行為。
+與匿名銷售線索交談期間，若有提供電子郵件 ID，我們會判定是否存在具有該電子郵件 ID 的已知銷售線索記錄，並使用該記錄即時進行個人化。 若找到多筆記錄，我們會即時將記錄合併。 對話和交談流程皆會實施此行為。
 
 ### 同步商機，無需來自 Marketo Engage 的 Cookie {#syncing-leads-without-cookies}
 
@@ -444,7 +434,7 @@ Demandbase 使用者可以使用自己的 Demandbase 授權，並啟動整合。
 
 ### 重新整理推斷資料 {#refreshed-inferred-data}
 
-網站上的大多數交談都是與匿名訪客進行的。 您仍然可以透過依賴訪客 IP 推斷的資料，將這類訪客設為目標。 我們已更新 IP 資料庫和相應的推斷資料，現在支援的 IP 數量是過去的四倍。
+網站上的大多數交談都是與匿名訪客進行的。 您仍然可以透過推斷資料將這類訪客設為目標，而這些資料是以訪客的 IP 為依據。 我們已更新 IP 資料庫和相應的推斷資料，現在支援的 IP 數量是過去的四倍。
 
 ### 代理人瀏覽器通知中加入音效 {#sound-added-to-agent-browser-notification}
 
@@ -452,9 +442,9 @@ Demandbase 使用者可以使用自己的 Demandbase 授權，並啟動整合。
 
 ![](assets/dynamic-chat-aug-2024-release-6.png)
 
-### 能夠在即時聊天期間更新商機輪廓 {#update-lead-profile-during-live-chat}
+### 能夠在即時聊天期間更新銷售線索輪廓 {#update-lead-profile-during-live-chat}
 
-在即時聊天期間，代理人想要獲取有關訪客的資訊，並更新相應的輪廓。 現在提供更新商機及公司對象屬性值的選項。
+在即時聊天期間，代理人想要獲取有關訪客的資訊，並更新相應的輪廓。 現在提供更新銷售線索及公司對象屬性值的選項。
 
 ![](assets/dynamic-chat-aug-2024-release-7.png)
 
@@ -474,7 +464,7 @@ Demandbase 使用者可以使用自己的 Demandbase 授權，並啟動整合。
 
 ### 使用量限制 {#usage-limits}
 
-使用量限制頁面會顯示重要資訊，例如封裝詳細資料和使用量限制狀態。
+使用量限制頁面會顯示重要資訊，例如套件詳細資料和使用量限制狀態。
 
 ![](assets/dynamic-chat-june-2024-release-2.png)
 
@@ -548,7 +538,7 @@ _&#42;先前為試用版功能，使用期限為 100 次。 現在，交談流�
 
 ### 交談流程的即時聊天 {#live-chat-for-conversational-flows}
 
-我們在 2023 年發行對話的即時聊天功能，您現在也可以將即時聊天參與新增至交談流程中。 如果您使用Marketo Engage表單的對話流程，現在可允許合格訪客在表單提交後立即與即時代理程式聊天！
+我們在 2023 年推出了對話的即時聊天功能，現在您也可以將即時聊天互動新增至交談流程中。 如果您使用Marketo Engage表單的對話流程，現在可允許合格訪客在表單提交後立即與即時代理程式聊天！
 
 ### 在代理人收件匣中顯示最近的 Marketo Engage 活動 {#recent-marketo-engage-activities-in-agent-inbox}
 
@@ -563,11 +553,11 @@ _&#42;先前為試用版功能，使用期限為 100 次。 現在，交談流�
 
 ### 代理人管理中的行事曆連線狀態 {#calendar-connection-status-in-agent-management}
 
-管理員現在可以輕鬆查看哪些具有會議預約權限的代理人已在 Dynamic Chat 中連接其行事曆。 這樣您便可以確保整個銷售團隊都相互連接，並準備好接受來自 Dynamic Chat 的會議請求。
+管理員現在可以輕鬆查看哪些具有會議預約權限的代理人已在 Dynamic Chat 中連接其行事曆。 這樣您便可以確保整個銷售團隊都已連接，並準備好接受來自 Dynamic Chat 的會議請求。
 
 ![](assets/dynamic-chat-release-4.png)
 
-### 代理人行事曆中的最短通知設定 {#minimum-notice-setting-in-agent-calendar-configuration}
+### 代理人行事曆設定中的最短通知設定 {#minimum-notice-setting-in-agent-calendar-configuration}
 
 使用者回報，網頁訪客在其行事曆上預定會議時，其事前通知最短可能僅有 10 分鐘，因此我們在代理人行事曆設定中引入最短通知設定，並將前置時間預設為 24 小時。
 
@@ -577,9 +567,9 @@ _&#42;先前為試用版功能，使用期限為 100 次。 現在，交談流�
 
 部分使用者表示他們在 Dynamic Chat 中新增和移除代理人時遇到問題，因此我們做了一些變更來解決這些問題。
 
-當具有即時聊天或會議預約權限的使用者新增至 Admin Console 時，這類使用者會立即顯示在代理人管理清單中，並可以新增至對話、交談流程、路由規則和團隊中。
+當具有即時聊天或會議預約權限的使用者被新增至 Admin Console 時，這類使用者會立即顯示在代理人管理清單中，並可以新增至對話、交談流程、路由規則和團隊中。
 
-當具有會議預約或即時聊天權限的使用者從 Admin Console 中移除時，這類使用者會立即從 Dynamic Chat 中移除，不再可供即時聊天或會議路由使用，而且不再計入授權限制數量內。
+當具有會議預約或即時聊天權限的使用者從 Admin Console 中被移除時，這類使用者會立即從 Dynamic Chat 中移除，不再可供即時聊天或會議路由使用，而且不再計入授權限制數量內。
 
 ### 改進交談級別報告績效 {#improved-conversation-level-report-performance}
 
@@ -593,7 +583,7 @@ _&#42;先前為試用版功能，使用期限為 100 次。 現在，交談流�
 
 * 「交談管理」類別現在名為「交談」
 * 「會議」類別現在名為「活動」
-* 「代理人設定」類別現在名為「代理人」
+* 「客服人員設定」類別現在名為「客服人員」
 * 「管理員設定」類別現在名為「設定」
 * 移除「即時聊天」類別，所有即時聊天權限均已移至「代理人」類別
 
@@ -605,7 +595,7 @@ _&#42;先前為試用版功能，使用期限為 100 次。 現在，交談流�
 
 ### 代理人收件匣的 Enter 鍵行為更新 {#enter-key-behavior-updated-in-agent-inbox}
 
-我們改變了代理人收件匣的 Return 鍵行為，因此按下 Return 鍵或 Enter 鍵會傳送您的訊息，而按下 Shift+Enter 會建立分行符號。
+我們改變了代理收件匣中的 Return 鍵行為，因此按下 Return 鍵或 Enter 鍵會傳送您的訊息，而按下 Shift+Enter 則會插入換行。
 
 ![](assets/dynamic-chat-release-8.png)
 
@@ -633,7 +623,7 @@ _&#42;先前為試用版功能，使用期限為 100 次。 現在，交談流�
 
 ### 對話中的條件式分支 {#conditional-branching-in-dialogues}
 
-條件式分支讓您能夠根據不同的條件在對話流程中建立分支。 現在，您可以根據 Marketo Engage 中的商機和公司屬性，在同一個對話中向不同的人員呈現不同的內容。
+條件式分支讓您能夠根據不同的條件在對話流程中建立分支。 現在，您可以根據 Marketo Engage 中的銷售線索和公司屬性，在同一個對話中向不同的人員呈現不同的內容。
 
 ## 2024 年 1 月發行版本 {#january-release}
 
