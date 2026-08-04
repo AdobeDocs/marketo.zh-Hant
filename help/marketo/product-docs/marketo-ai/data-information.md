@@ -1,9 +1,9 @@
 ---
 description: 檢閱Marketo AI跨主要工作流程的資料範圍、治理控制和PII考量事項，例如潛在客戶匯入、方案QA和資料標準化。
 title: Marketo AI資料資訊表
-source-git-commit: 0f58900f991bc288cbc6a4acc0ce882722b853ea
+source-git-commit: 03ad8c4d06e8dd011cd8fb0d49a7f7c436a18c16
 workflow-type: tm+mt
-source-wordcount: '1453'
+source-wordcount: '1382'
 ht-degree: 0%
 
 ---
@@ -28,25 +28,33 @@ Marketo AI是Adobe Marketo Engage中的原生代理功能，可讓行銷營運�
 
 **函式：**&#x200B;處理使用者提供的潛在客戶資料，以進行對應、標準化、重複資料刪除，以及匯入至Marketo Engage。
 
-### 程式QA
+### 驗證程式
 
 **功能：**&#x200B;根據使用者在Skill Markdown檔案中定義的組織規則（例如命名標準、核准狀態、電子郵件規範及流程邏輯），評估Marketo方案。
 
-### 從簡介建立計畫
+<!--
 
-**函式：**&#x200B;使用自然語言提示，直接在使用者的環境中產生Marketo方案結構，包括智慧行銷活動、流程步驟和內容預留位置。
+### Create program from brief
 
-### 可呼叫的代理程式
+**Function:** Uses natural-language prompts to generate Marketo program structures, including smart campaigns, flow steps, and content placeholders, directly within the user's environment.
 
-**函式：**&#x200B;針對使用案例（例如驗證、正規化和機器人偵測），在Smart Campaign流程步驟中執行流程動作觸發的AI動作。
+### Callable agents
 
-### 潛在客戶調查
+**Function:** Executes flow action-triggered AI actions within Smart Campaign flow steps for use cases such as validation, normalization, and bot detection.
+
+-->
+
+### 調查銷售機會
 
 **功能：**&#x200B;透過檢查流程步驟執行和智慧列示成員資格，提供對話式分析，說明某人為什麼會或沒有進入里程碑。
 
+<!--
+
 ### Measurement and analytics
 
-**功能：**&#x200B;介面行銷活動和方案效能分析，包括建議和根本原因深入分析。
+**Function:** Surfaces campaign and program performance analysis, including recommendations and root-cause insights.
+
+-->
 
 ### 產品知識
 
@@ -58,11 +66,9 @@ Marketo AI是Adobe Marketo Engage中的原生代理功能，可讓行銷營運�
 
 ## 可用性和轉出狀態
 
-**資格：**&#x200B;初始使用者啟用僅限於已接受Adobe Gen AI騎士的合格Marketo Engage使用者。
+**資格：**&#x200B;布建僅限於已同意[核心Gen-AI條款與補充條款](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}的Marketo Engage使用者。
 
-**布建：**&#x200B;存取權是透過Marketo Engage體驗中現有的產品啟用控制項和功能標幟布建來管理。
-
-**轉出模型：**&#x200B;部署會先透過Alpha和Private Beta進行，然後再進行更廣泛的公用Beta擴充。
+**轉出模型：**&#x200B;部署會先透過Alpha和Private Beta進行，然後再進行更廣泛的公用Beta擴充，最後是全面發佈。
 
 **地理範圍：**&#x200B;初始版本是針對全球Marketo Engage使用者，不包括中國大陸。
 
