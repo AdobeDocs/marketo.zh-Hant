@@ -1,8 +1,8 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: 使用 AI 助理
-description: 瞭解如何使用AI助理將文字和影像新增至電子郵件。 在Email Designer中使用Adobe generative AI來獲得內容創意。
+title: 在電子郵件Designer中產生內容
+description: 瞭解如何產生內容以將文字和影像新增至電子郵件。 在Email Designer中使用Adobe generative AI來獲得內容創意。
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
@@ -14,20 +14,20 @@ feature_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+source-git-commit: bf1ac405e4e4ce9a9d6ea3e93d8f46730957f435
 workflow-type: tm+mt
-source-wordcount: 936
+source-wordcount: 914
 ht-degree: 1%
 
 ---
 
-# 電子郵件Designer的AI助理 {#ai-assistant-email-designer}
+# 在電子郵件Designer中產生內容 {#generate-content}
 
-Marketo Engage Email Designer中的AI Assistant可幫助您建立當代、高效能且直覺式的電子郵件。 這是透過Adobe的創作AI技術和提示程式庫，以及Firefly來實現的，用於產生影像，協助為特定角色/購買群組、行銷歷程階段、溝通策略、音調等建立合適的內容。也可以使用特定品牌資產來建立內容。
+在Marketo Engage電子郵件Designer中產生內容，可協助您建立當代、高效能且直覺式的電子郵件。 這是透過Adobe的創作AI技術和提示程式庫，以及Firefly來實現的，用於產生影像，協助為特定角色/購買群組、行銷歷程階段、溝通策略、音調等建立合適的內容。也可以使用特定品牌資產來建立內容。
 
 >[!PREREQUISITES]
 >
->AI助理預設為未啟用。 您必須先同意[核心Gen-AI條款與補充條款](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}，才能在電子郵件Designer中使用Gen-AI功能。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
+>預設不會啟用此功能。 您必須先同意[核心Gen-AI條款與補充條款](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}，才能在電子郵件Designer中使用Gen-AI功能。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
 
 ## 設定權限 {#set-up-permissions}
 
@@ -59,15 +59,13 @@ _依照上述必要條件，_&#x200B;之後，Marketo管理員必須先套用存
 
 ## 使用案例 {#use-cases}
 
-AI Assistant有幾個主要使用案例：
-
 * [為您的電子郵件建立主旨列和/或前置標題](#create-a-subject-line-preheader)
 * [為電子郵件的特定區段](#create-content-for-a-specific-section)建立內容
 * [從選取的範本建立整封電子郵件](#create-an-entire-email)
 
 ## 建立主旨行/預告標題 {#create-a-subject-line-preheader}
 
-您可以使用AI助理建立主旨列、預覽文字或兩者。
+建立主旨列、預覽文字或兩者。
 
 ![](assets/use-the-ai-assistant-1.png)
 
@@ -75,11 +73,11 @@ AI Assistant有幾個主要使用案例：
 
 使用新電子郵件Designer建立電子郵件時，輸入暫時性主旨列。
 
-建立電子郵件之後，主旨列在右側的&#x200B;_詳細資料_&#x200B;欄中。 按一下旁邊的AI助理按鈕（ ![篩選圖示](assets/icon-ai-assistant.png) ）以取得協助，使用Gen AI功能建立新的主旨列。
+建立電子郵件之後，主旨列在右側的&#x200B;_詳細資料_&#x200B;欄中。 按一下旁邊的「產生內容」按鈕（ ![篩選圖示](assets/icon-ai-assistant.png) ）以取得協助，使用Gen AI功能建立新的主旨列。
 
 ![](assets/use-the-ai-assistant-2.png)
 
-啟用AI助理的&#x200B;**使用參考內容**&#x200B;選項，以根據選取的內容個人化新內容。
+啟用&#x200B;**使用參考內容**&#x200B;選項，以根據選取的內容個人化新內容。
 
 輸入提示來自訂主旨列。 輸入相關文字設定，然後上傳您要用來作為參照的任何品牌資產，以建立適當的主旨行。
 
@@ -135,7 +133,7 @@ AI Assistant有幾個主要使用案例：
 
 ![](assets/use-the-ai-assistant-7.png)
 
-在此範例中，我們使用財務範本。 如果一或多個現有影像不符合您的需求，您可以指示AI助理根據您的說明建立新影像。 選取所需的影像，然後按一下AI助理圖示。
+在此範例中，我們使用財務範本。 如果一或多個現有影像不符合您的需求，您可以根據您的說明建立新影像。 選取需要的影像，然後按一下「產生內容」圖示。
 
 ![](assets/use-the-ai-assistant-8.png)
 
@@ -161,7 +159,7 @@ AI Assistant有幾個主要使用案例：
 
 僅當使用現有範本建立電子郵件時，才可使用此選項。 可以是電子郵件Designer提供的標準範本、您已建立的已儲存範本，或使用「匯入HTML」選項匯入的範本。 如果您為電子郵件選擇[從草稿開始設計](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#design-from-scratch)，則無法使用此選項。
 
-選取範本，不選取範本中的任何元件，然後按一下「電子郵件Designer」中的AI助理按鈕。
+選取範本，而不選取範本中的任何元件，然後按一下「電子郵件Designer」中的「產生內容」按鈕。
 
 ![](assets/use-the-ai-assistant-12.png)
 

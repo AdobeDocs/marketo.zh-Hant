@@ -27,7 +27,7 @@ topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
   - id: bcc5edb5-84c3-4940-9f84-ed88b6c16274
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: f5228b97caf8301ca2a4360c02803d5749854b56
+source-git-commit: bf1ac405e4e4ce9a9d6ea3e93d8f46730957f435
 workflow-type: tm+mt
 source-wordcount: 833
 ht-degree: 13%
@@ -115,8 +115,8 @@ ht-degree: 13%
     <td>可用</td>
   </tr>
   <tr>
-    <td>AI 助理</td>
-    <td>能夠透過<a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md" target="_blank">Generative AI</a>模型產生主旨列、部分內容或整個電子郵件。</td>
+    <td>產生內容</td>
+    <td>能夠透過<a href="/help/marketo/product-docs/email-marketing/email-designer/generate-content.md" target="_blank">Generative AI</a>模型產生主旨列、部分內容或整個電子郵件。</td>
     <td>無法使用</td>
     <td>可用</td>
   </tr>
@@ -187,7 +187,7 @@ ht-degree: 13%
     <td>可用</td>
   </tr>
   <tr>
-    <td>與 Adobe Analytics 的整合</td>
+    <td>與 Adobe Express 的整合</td>
     <td>能夠使用<a href="/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md" target="_blank">Adobe Express</a>建立/修改影像。</td>
     <td>無法使用</td>
     <td>可用</td>
