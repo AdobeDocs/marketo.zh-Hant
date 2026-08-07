@@ -8,26 +8,13 @@ feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
 TQID: https://experienceleague.adobe.com/cs-7nueaGEFS1geKikrmqBOJAu5US4RX53yLqsnjoSM
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: bcc5edb5-84c3-4940-9f84-ed88b6c16274
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: f5228b97caf8301ca2a4360c02803d5749854b56
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: bcc5edb5-84c3-4940-9f84-ed88b6c16274id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: bf1ac405e4e4ce9a9d6ea3e93d8f46730957f435
 workflow-type: tm+mt
 source-wordcount: 833
 ht-degree: 13%
@@ -115,8 +102,8 @@ ht-degree: 13%
     <td>可用</td>
   </tr>
   <tr>
-    <td>AI 助理</td>
-    <td>能夠透過<a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md" target="_blank">Generative AI</a>模型產生主旨列、部分內容或整個電子郵件。</td>
+    <td>產生內容</td>
+    <td>能夠透過<a href="/help/marketo/product-docs/email-marketing/email-designer/generate-content.md" target="_blank">Generative AI</a>模型產生主旨列、部分內容或整個電子郵件。</td>
     <td>無法使用</td>
     <td>可用</td>
   </tr>
@@ -187,7 +174,7 @@ ht-degree: 13%
     <td>可用</td>
   </tr>
   <tr>
-    <td>與 Adobe Analytics 的整合</td>
+    <td>與 Adobe Express 的整合</td>
     <td>能夠使用<a href="/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md" target="_blank">Adobe Express</a>建立/修改影像。</td>
     <td>無法使用</td>
     <td>可用</td>

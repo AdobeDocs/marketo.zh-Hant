@@ -4,9 +4,9 @@ user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 3a01bc6f6d6ec2e07a95316a30be7a379152091d
+source-git-commit: 354c6285ff143a28b3057fa7d3b0ca528c3e51b6
 workflow-type: tm+mt
-source-wordcount: '8917'
+source-wordcount: '8918'
 ht-degree: 96%
 
 ---
@@ -1011,7 +1011,7 @@ ht-degree: 96%
       + [GenStudio 與 Marketo Engage 的整合](product-docs/email-marketing/email-designer/genstudio.md)
       + [內容鎖定](product-docs/email-marketing/email-designer/content-locking.md)
       + [電子郵件共同作業](product-docs/email-marketing/email-designer/email-collaboration.md)
-      + [電子郵件Designer的AI助理](product-docs/email-marketing/email-designer/ai-assistant.md)
+      + [在電子郵件Designer中產生內容](product-docs/email-marketing/email-designer/generate-content.md)
       + [使用 SpamAssassin 取得垃圾郵件報告](product-docs/email-marketing/email-designer/spam-report.md)
       + [CNIL開啟追蹤指引](product-docs/email-marketing/email-designer/cnil-guidance.md)
     + 電子郵件方案 {#email-programs}
@@ -1122,7 +1122,7 @@ ht-degree: 96%
       + [調查銷售機會](product-docs/marketo-ai/skills/investigate-leads.md)
       + [匯入銷售機會](product-docs/marketo-ai/skills/import-leads.md)
       + [驗證程式](product-docs/marketo-ai/skills/validate-programs.md)
-    + [MARKETO MCP](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/mcp-server)
+    + [MARKETO MCP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + Marketo 通知 {#marketo-notifications}
     + {hide-from-toc}[通知： Websocket連線](product-docs/marketo-notifications/websocket-connection.md)
   + Marketo Sales Connect {#marketo-sales-connect}
