@@ -16,9 +16,9 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: ebd911b99e1c4c8f8a76db3a14235ee0d4ee0485
+source-git-commit: 46d547255d27dfe7d176694cf68de0ec99a5773e
 workflow-type: tm+mt
-source-wordcount: 408
+source-wordcount: 406
 ht-degree: 28%
 
 ---
@@ -78,7 +78,6 @@ ht-degree: 28%
 
 * **REST API行銷活動執行ID**：對Marketo SOAP API的支援將於2026年7月31日結束。 使用 SOAP API 功能的服務應遷移至 [REST API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}。
 
-* **取得銷售機會活動與取得銷售機會變更的靜態清單大小限制**：在某些情況下，有時會在兩對引號（例如`"campaignRunId": ""102938""`）之間，以不正確的格式傳回活動的促銷活動執行ID值。<br/>
-從8月發行版本開始，此值一律會以正確的數值格式(`"campaignRunId": 102938`)傳回
+* **取得銷售機會活動與取得銷售機會變更的靜態清單大小限制**：在某些情況下，有時在兩對引號（例如`"campaignRunId": ""102938""`）之間，以不正確的格式傳回活動的促銷活動執行ID值。<br/>從8月發行版本開始，此值一律以正確的數字格式(`"campaignRunId": 102938`)傳回
 
 * **REST API合併潛在客戶限制**：自2026年7月31日起，在合併潛在客戶API呼叫的leadIds引數中包含超過25個ID的呼叫會產生1080錯誤碼，並略過該呼叫。 需要將超過25筆記錄合併成一筆的工作應分割成多個工作，以確保這些呼叫成功。
