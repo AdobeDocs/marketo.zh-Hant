@@ -1,20 +1,19 @@
 ---
 solution: Marketo Engage
 product: Marketo Engage
-title: 在電子郵件Designer中使用模組
+title: 在電子郵件設計工具中使用模組
 description: 瞭解如何存取、插入和自訂電子郵件Designer中預先建立的模組，包括標題、英雄和頁尾，以達成一致的電子郵件設計。
 level: Beginner, Intermediate
 feature: Email Designer
 role: User
-hide: true
-source-git-commit: 3a01bc6f6d6ec2e07a95316a30be7a379152091d
+source-git-commit: f80ac366b06d1bbd6ee165f5046f96d4d0174c59
 workflow-type: tm+mt
 source-wordcount: '460'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 在電子郵件Designer中使用模組 {#email-modules}
+# 在電子郵件設計工具中使用模組 {#email-modules}
 
 電子郵件Designer包含&#x200B;_模組_&#x200B;的程式庫：可立即使用的完整結構化內容區塊，設計用於加速電子郵件組合併提升通訊的設計一致性。
 
