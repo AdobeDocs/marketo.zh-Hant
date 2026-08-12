@@ -2,9 +2,9 @@
 description: 發行說明 — 2026年7月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2026年7月
 feature: Release Information
-source-git-commit: 354c6285ff143a28b3057fa7d3b0ca528c3e51b6
+source-git-commit: 093bb2edda0a9c70bf45462fc8a67c45bda9b4e1
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: '505'
 ht-degree: 20%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 20%
   <tr>
    <td><strong>Marketo AI技能 — 產品知識</strong>：產品知識可讓您隨選存取Marketo專業知識，而不需離開平台。 以簡單的語言提出問題，Marketo AI就會利用官方Adobe檔案提供答案。
 </td>
-   <td>開啟Beta版</td>
+   <td>已發行</td>
    <td><a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/marketo-ai/skills/product-knowledge" target="_blank">產品知識</a></td>
   </tr>
   <tr>
@@ -40,8 +40,19 @@ ht-degree: 20%
   <tr>
    <td><strong>Marketo AI技能 — 調查銷售機會</strong>：瞭解為什麼特定人員/銷售機會未達到里程碑（例如MQL、方案資格或促銷活動），並取得所發生情況的直白語言說明。
 </td>
-   <td>開啟Beta版</td>
+   <td>已發行</td>
    <td><a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/marketo-ai/skills/investigate-leads" target="_blank">調查銷售機會</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>電子郵件Designer — 模組</strong>：您現在可以存取現成可用的完整結構化內容區塊，以加速電子郵件組合。</td>
+   <td>已發行</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/email-modules.md" target="_blank">在電子郵件設計工具中使用模組</a></td>
+  </tr>
   </tr>
   <tr>
    <td> </td>
@@ -51,12 +62,14 @@ ht-degree: 20%
   <tr>
    <td><strong>電子郵件Designer — 產生內容內容功能表</strong>：現在可以從內容功能表（黑色列）存取電子郵件Designer的「產生內容」功能。 例如，當您選取文字內容時，「產生內容」圖示會出現在內容功能表上，可讓您從該處執行快速動作。</td>
    <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+<td><i>即將推出</i></td>
   </tr>
   </tr>
   </tbody>
 </table>
 <br/>
+
+
 
 ## 公告 {#announcements}
 
