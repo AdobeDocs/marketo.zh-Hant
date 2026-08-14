@@ -3,10 +3,10 @@ description: AWS移轉 — Marketo Engage檔案 — 產品檔案
 title: AWS移轉
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 78940c808e61be8a702b50df253071182d176942
+source-git-commit: 86ea4c057d6a02526083a14105ea036f835aad89
 workflow-type: tm+mt
-source-wordcount: '834'
-ht-degree: 5%
+source-wordcount: '827'
+ht-degree: 4%
 
 ---
 
@@ -149,7 +149,7 @@ ht-degree: 5%
   <td>2026年8月13日</td>
    <td>AB68</td>
    <td>下午4點PDT</td>
-   <td>準時發行</td>
+   <td>已完成</td>
   </tr>
   <tr>
   <td>2026年8月18日</td>
@@ -195,12 +195,9 @@ ht-degree: 5%
   </tr>
   <tr>
    <td>2026年9月10日</td>
-   <td>AB03<br>
-   AB04</td>
-   <td>下午5點PDT<br>
-   下午6點PDT</td>
-   <td>準時發行<br>
-   依排程</td>
+   <td>AB03</td>
+   <td>下午5點PDT</td>
+   <td>準時發行</td>
   </tr>
   <tr>
    <td>2026年9月15日</td>
