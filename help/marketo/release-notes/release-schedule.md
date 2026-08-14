@@ -11,16 +11,16 @@ feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: eb36cf28856d8f889f39d69825bb2e0046e1b197
+source-git-commit: 7116fe4f2b7f909e023be05fdb5ad53f9d49cf15
 workflow-type: tm+mt
-source-wordcount: 152
+source-wordcount: 151
 ht-degree: 83%
 
 ---
 
 # 發行排程 {#release-schedule}
 
-**發行**：每次發行的月份/年份。 只要提供發行版本，下方表格的發行說明便會加入連結。
+**發行**：每次發行的月份/年份。 發行說明一旦可用，下方表格中便會加入連結。
 
 **發行日期**：轉出通常會在發行週的星期二開始，而升級則較常發生在星期五晚上。 所列出的日期為星期五更新的日期。
 
@@ -60,14 +60,14 @@ _發行日期/功能可能會有所變更_
    <td>完成</td>
   </tr>
   <tr>
-  <td><a href="/help/marketo/release-notes/current.md">2026年7月</a></td>
+  <td><a href="/help/marketo/release-notes/previous-releases/2026/release-notes-july-26.md">2026年7月</a></td>
    <td>2026年7月10日</td>
-   <td>進行中</td>
+   <td>完成</td>
   </tr>
   <tr>
-  <td>2026年8月</td>
+  <td><a href="/help/marketo/release-notes/current.md">2026年8月</a></td>
    <td>2026年8月14日</td>
-   <td>準時發行</td>
+   <td>進行中</td>
   </tr>
   <tr>
   <td>2026年9月</td>
