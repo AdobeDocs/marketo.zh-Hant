@@ -8,9 +8,9 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b85314d3e3117a0a4ddd45fa6ebf15963566e716
 workflow-type: tm+mt
-source-wordcount: 281
+source-wordcount: 306
 ht-degree: 1%
 
 ---
@@ -65,7 +65,9 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >條件邏輯設為「全部」表示必須符合每個屬性才能符合資格。 條件邏輯設為「任何」表示任一個屬性皆已足夠。
+   >* 條件邏輯設為「全部」表示必須符合每個屬性才能符合資格。 條件邏輯設為「任何」表示任一個屬性皆已足夠。
+   >
+   >* 對於「智慧列示成員」，下拉式清單中的值代表屬於任何程式的所有智慧列示。 它們顯示為`<program name>.<smart list name>`。
 
    **選擇性步驟**：如果您新增兩個或多個選項，可以按一下它們的上/下箭頭來重新排序。
 

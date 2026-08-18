@@ -2,7 +2,7 @@
 description: 發行說明 — 2026年7月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2026年7月
 feature: Release Information
-source-git-commit: 093bb2edda0a9c70bf45462fc8a67c45bda9b4e1
+source-git-commit: bd433a683cab2437f6c32a5f52454d8ac4d9293a
 workflow-type: tm+mt
 source-wordcount: '505'
 ht-degree: 20%
@@ -68,8 +68,6 @@ ht-degree: 20%
   </tbody>
 </table>
 <br/>
-
-
 
 ## 公告 {#announcements}
 
