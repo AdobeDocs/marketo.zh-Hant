@@ -2,9 +2,9 @@
 description: 發行說明 — 2026年7月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2026年7月
 feature: Release Information
-source-git-commit: bd433a683cab2437f6c32a5f52454d8ac4d9293a
+source-git-commit: 37ef6b0f6c89b8ec8cd098beb5cf4d321fdac401
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '503'
 ht-degree: 20%
 
 ---
@@ -60,7 +60,7 @@ ht-degree: 20%
    <td> </td>
   </tr>
   <tr>
-   <td><strong>電子郵件Designer — 產生內容內容功能表</strong>：現在可以從內容功能表（黑色列）存取電子郵件Designer的「產生內容」功能。 例如，當您選取文字內容時，「產生內容」圖示會出現在內容功能表上，可讓您從該處執行快速動作。</td>
+   <td><strong>電子郵件Designer — 產生內容內容功能表</strong>：現在可以從內容功能表（黑色列）存取電子郵件Designer的「產生內容」功能。 例如，當您選取文字內容時，「產生內容」圖示會出現在內容功能表上，可讓您執行快速動作。</td>
    <td><i>即將推出</i></td>
 <td><i>即將推出</i></td>
   </tr>
