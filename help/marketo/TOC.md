@@ -765,7 +765,7 @@ ht-degree: 96%
       + {hide-from-toc}[新增影像檔案](product-docs/demand-generation/images-and-files/new-add-images-doc.md)
       + [新增影像和檔案至 Marketo](product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
       + {hide-from-toc}[使用Adobe Express編輯Assets](product-docs/demand-generation/images-and-files/edit-assets-with-adobe-express.md)
-      + Marketo Engage中的{hide-from-toc}[C2PA中繼資料](product-docs/demand-generation/images-and-files/c2pa-metadata.md)
+      + {hide-from-toc}[Marketo Engage中的C2PA中繼資料](product-docs/demand-generation/images-and-files/c2pa-metadata.md)
       + [刪除已上傳的影像或檔案](product-docs/demand-generation/images-and-files/delete-an-uploaded-image-or-file.md)
       + [尋找已上傳影像或檔案的 URL](product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
       + [從網頁抓取影像](product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)
