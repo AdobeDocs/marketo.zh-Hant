@@ -3,9 +3,9 @@ description: 瞭解C2PA中繼資料如何自動附加至Marketo Engage中AI產�
 title: Marketo Engage中的C2PA中繼資料
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: 2746d9d016a6119411bb1fe29c4be2e16f3610e8
+source-git-commit: 77c4c0b6438f8a5070fd33412b7037b79f7fded1
 workflow-type: tm+mt
-source-wordcount: '697'
+source-wordcount: '698'
 ht-degree: 2%
 
 ---
@@ -30,7 +30,7 @@ C2PA中繼資料是持久且隱藏的中繼資料，會記錄內容的建立或�
 
 | 動作 | 說明 | 要附加C2PA中繼資料嗎？ | 使用案例範例 |
 |---|---|---|---|
-| **產生影像** | 從文字提示、參照影像建立新影像，或產生類似影像。 | 一律。 影像是由產生式AI產生，因此一律會攜帶最新的C2PA中繼資料。 | 電子郵件促銷活動的橫幅影像是從描述所需視覺效果的文字提示中產生。 |
+| **使用[產生影像]工具** | 從文字提示、參照影像建立新影像，或產生類似影像。 | 一律。 影像是由產生式AI產生，因此一律會攜帶最新的C2PA中繼資料。 | 電子郵件促銷活動的橫幅影像是從描述所需視覺效果的文字提示中產生。 |
 | **裁切影像** | 將影像調整至要求的尺寸。 | 僅當來源影像已具有C2PA中繼資料時。 裁切會重新建立影像的畫素，通常會擦除C2PA中繼資料，因此Marketo Engage會在裁切前從來源影像讀取該影像，然後重新建置該影像，並將其重新附加至裁切的結果。 裁切本身不會新增創作AI動作，而是保留現有動作。 | 產生的橫幅影像會裁切成適合網頁：透過裁切會保留C2PA中繼資料。 用作推播通知背景的上傳庫存像片會被裁切以適合熒幕：由於庫存像片不執行產生式AI動作，因此不會建立任何C2PA中繼資料。 |
 | **新增文字覆蓋** | 在背景影像上方演算產生的文字。 | 僅當背景影像已具有C2PA中繼資料時。 演算覆蓋圖時，會從背景加上文字產生新影像，這通常會清除該C2PA中繼資料，因此Marketo Engage會預先從背景影像讀取該中繼資料，然後重新建置並重新附加至結果。 覆蓋步驟不會新增新產生的AI動作。 | 促銷標題會在登陸頁面產生的背景影像上呈現為文字重疊：背景影像的C2PA中繼資料會保留。 |
 
@@ -47,4 +47,4 @@ Marketo Engage會保留與支援的影像資產相關聯的C2PA中繼資料。 �
 ## 其他資源
 
 * [Adobe Experience Cloud Generative AI使用者指南](https://www.adobe.com/tw/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html)
-* [護欄與限制](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/content-management/generate-content/gs-generative#generative-guardrails)
+* [護欄與限制](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/generate-content/gs-generative#generative-guardrails)
