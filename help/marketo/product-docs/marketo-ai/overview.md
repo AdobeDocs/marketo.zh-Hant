@@ -2,7 +2,7 @@
 description: 探索旨在自動化行銷工作（例如方案QA、潛在客戶匯入、資料標準化等）的Marketo AI代理程式套件。
 title: Marketo AI總覽
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: 0f58900f991bc288cbc6a4acc0ce882722b853ea
+source-git-commit: 13a4d86a8f99417431a834bcddf52bbdd42b303f
 workflow-type: tm+mt
 source-wordcount: '379'
 ht-degree: 1%
@@ -29,7 +29,7 @@ Marketo AI提供的代理程式技能，可讓耗時但重要的行銷功能自�
 
 ![](assets/overview-1.png)
 
-在提示欄位中輸入您的要求，或選取下列其中一個代理程式。
+在提示欄位中輸入您的請求，或選取下列其中一項技能。
 
 ![](assets/overview-2.png)
 
