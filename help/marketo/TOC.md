@@ -4,7 +4,7 @@ user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 9976bffe8ac2fac804cc1e1e5a95088622334bdf
+source-git-commit: 10781cbfd51019a2e4af346803a2e35ef40855d0
 workflow-type: tm+mt
 source-wordcount: '8927'
 ht-degree: 96%
@@ -765,7 +765,7 @@ ht-degree: 96%
       + {hide-from-toc}[新增影像檔案](product-docs/demand-generation/images-and-files/new-add-images-doc.md)
       + [新增影像和檔案至 Marketo](product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
       + {hide-from-toc}[使用Adobe Express編輯Assets](product-docs/demand-generation/images-and-files/edit-assets-with-adobe-express.md)
-      + {hide-from-toc}[Marketo Engage中的C2PA中繼資料](product-docs/demand-generation/images-and-files/c2pa-metadata.md)
+      + [Marketo Engage中的C2PA中繼資料](product-docs/demand-generation/images-and-files/c2pa-metadata.md)
       + [刪除已上傳的影像或檔案](product-docs/demand-generation/images-and-files/delete-an-uploaded-image-or-file.md)
       + [尋找已上傳影像或檔案的 URL](product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
       + [從網頁抓取影像](product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)
@@ -1123,7 +1123,7 @@ ht-degree: 96%
       + [調查銷售機會](product-docs/marketo-ai/skills/investigate-leads.md)
       + [匯入銷售機會](product-docs/marketo-ai/skills/import-leads.md)
       + [驗證程式](product-docs/marketo-ai/skills/validate-programs.md)
-    + [MARKETO MCP](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/mcp-server)
+    + [MARKETO MCP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + Marketo 通知 {#marketo-notifications}
     + {hide-from-toc}[通知： Websocket連線](product-docs/marketo-notifications/websocket-connection.md)
   + Marketo Sales Connect {#marketo-sales-connect}
