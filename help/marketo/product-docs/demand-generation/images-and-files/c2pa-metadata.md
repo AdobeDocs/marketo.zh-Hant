@@ -3,9 +3,9 @@ description: 瞭解C2PA中繼資料如何自動附加至Marketo Engage中AI產�
 title: Marketo Engage中的C2PA中繼資料
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: 77c4c0b6438f8a5070fd33412b7037b79f7fded1
+source-git-commit: 10781cbfd51019a2e4af346803a2e35ef40855d0
 workflow-type: tm+mt
-source-wordcount: '698'
+source-wordcount: '715'
 ht-degree: 2%
 
 ---
@@ -46,5 +46,6 @@ Marketo Engage會保留與支援的影像資產相關聯的C2PA中繼資料。 �
 
 ## 其他資源
 
-* [Adobe Experience Cloud Generative AI使用者指南](https://www.adobe.com/tw/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html)
-* [護欄與限制](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/content-management/generate-content/gs-generative#generative-guardrails)
+* [Generative AI內容透明度](https://experienceleague.adobe.com/zh-hant/docs/cx-enterprise-ai/experience-cloud-ai/overview/content-transparency){target="_blank"}
+* [Adobe Experience Cloud Generative AI使用者指南](https://www.adobe.com/tw/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html){target="_blank"}
+* [護欄與限制](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/content-management/generate-content/gs-generative#generative-guardrails){target="_blank"}
