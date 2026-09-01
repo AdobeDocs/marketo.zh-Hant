@@ -3,7 +3,7 @@ description: AWS移轉 — Marketo Engage檔案 — 產品檔案
 title: AWS移轉
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: b045a92925884a5124727f0a51dc8f09a3942aec
+source-git-commit: 90726ce1010f75690587936f3c4019846bdbb0fa
 workflow-type: tm+mt
 source-wordcount: '855'
 ht-degree: 5%
@@ -128,6 +128,8 @@ ht-degree: 5%
 
 +++
 
++++8月排程
+
 <table>
  <tbody>
   <tr>
@@ -153,12 +155,9 @@ ht-degree: 5%
   </tr>
   <tr>
    <td>2026年8月20日</td>
-   <td>AB42<br>
-   <i>AB44</i></td>
-   <td>下午5點PDT<br>
-   下午<i>6 PDT</i></td>
-   <td>已完成<br>
-   <i>已延遲（日期待定）</i></td>
+   <td>AB42</td>
+   <td>下午5點PDT</td>
+   <td>已完成</td>
   </tr>
   <tr>
    <td>2026年8月26日</td>
@@ -176,7 +175,20 @@ ht-degree: 5%
    <td>下午<i>3 PDT</i><br>
    下午4點PDT</td>
    <td><i>已延遲（日期待定）</i><br>
-   準時發行</td>
+   已完成</td>
+  </tr>
+  </body>
+</table>
+
++++
+
+<table>
+ <tbody>
+  <tr>
+   <th style="width:25%">日期</th>
+   <th style="width:25%">資料中心/Pod</th>
+   <th style="width:25%">時間</th>
+   <th style="width:25%">狀態</th>
   </tr>
   <tr>
    <td>2026年9月8日</td>
