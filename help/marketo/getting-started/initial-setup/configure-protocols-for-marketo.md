@@ -5,26 +5,13 @@ title: 設定 Marketo Engage 的通訊協定
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
 TQID: https://experienceleague.adobe.com/n72OlCpE-aAbj1MCQumumk-sh9TUZe-bNpreVmVl2q8
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
-subfeature_v2:
-  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
-  - id: fc9b09fe-b844-4544-887b-e420c3b82065
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: e2290edd-b061-4880-9d79-dee306cf5aa9id: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+subfeature_v2: id: d5c7388a-594e-4d15-9b39-98d6ce479e8bid: fc9b09fe-b844-4544-887b-e420c3b82065
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: d095671a-1355-40aa-8b5f-06c33c68080bid: eddd9b14-83bd-4ff4-9072-54a4a484abb7id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 4feed2fefe2180d5a123684eaa33be21ce93da68
 workflow-type: tm+mt
-source-wordcount: 2203
+source-wordcount: 2192
 ht-degree: 83%
 
 ---
@@ -45,7 +32,7 @@ ht-degree: 83%
 
 **追蹤連結 CNAME**
 
-您的行銷團隊應傳送兩個新 CNAME 記錄的要求給您。 第一個是用於登陸頁面 URL，讓登陸頁面以反映您網域的 URL 顯示，而非以 Marketo Engage (實際主機) 顯示。 第二個用於追蹤從 Marketo Engage 傳送的電子郵件中所包含的連結。
+您的行銷團隊應傳送給您兩個新 CNAME 記錄的要求。 第一個是用於登陸頁面 URL，讓登陸頁面以反映您網域的 URL 顯示，而非以 Marketo Engage (實際主機) 顯示。 第二個用於追蹤從 Marketo Engage 傳送的電子郵件中所包含的連結。
 
 `1` **為登陸頁面新增 CNAME**
 
@@ -104,15 +91,15 @@ ht-degree: 83%
 
 ## 步驟 3：設定 SPF 和 DKIM {#step-set-up-spf-and-dkim}
 
-您的行銷團隊應該已經傳送給您 DKIM (Domain Keys Identified Mail) 資訊，以便新增至您的 DNS 資源記錄 (如下所列)。 依照下列步驟即可成功地設定 DKIM 和 SPF (寄件者原則框架)，然後在完成更新時會通知您的行銷團隊。
+您的行銷團隊應該已經傳送給您 DKIM (Domain Keys Identified Mail) 資訊，以便新增至您的 DNS 資源記錄 (如下所列)。 依照下列步驟即可成功地設定 DKIM 和 SPF (寄件者原則框架)，然後通知您的行銷團隊此項目已更新。
 
 1. 若要設定 SPF，請將下面一行新增至我們的 DNS 項目：
 
    `[CompanyDomain]` IN TXT v=spf1 mx ip4：`[CorpIP]`
-包含： mktomail.com ~all
+   包含： mktomail.com ~all
 
    如果在我們的 DNS 項目中已經有現有的 SPF 記錄，則只要新增以下內容即可：
-包含： mktomail.com
+   包含： mktomail.com
 
    將 CompanyDomain 以您的網站主網域 (例如 `(company.com/)`) 取代，並將 CorpIP 替換成您公司電子郵件伺服器的 IP 位址 (例如， &quot;255.255.255.255&quot;). 如果您要透過 Marketo Engage 從多個網域傳送電子郵件，請要求 IT 人員為每個網域新增此行 (在同一行)。
 
@@ -133,7 +120,7 @@ DMARC (Domain-based Message Authentication, Reporting &amp; Conformance) 是一�
 * 有效的 SPF
 * 為您的寄件者: 網域設定有效的 DKIM 記錄 (建議用於 Marketo Engage)。
 
-此外，您必須為您的寄件者: 網域設定 DMARC 特定 DNS TXT 記錄。 您可選擇定義您選擇的電子郵件地址，以指定組織內接收 DMARC 報告的位置，以便您監視報告。
+此外，您必須為您的寄件者: 網域設定 DMARC 特定 DNS TXT 記錄。 您可定義一個自由選擇的電子郵件地址，以指定組織內接收 DMARC 報告的位置，以便您監視報告。
 
 建議您逐步推出DMARC實作，將DMARC政策從p=none提升至p=quarantine、至p=reject，因為您已經瞭解DMARC的潛在影響，並將DMARC政策設定為放鬆SPF和DKIM的一致性。
 
@@ -153,7 +140,7 @@ DMARC (Domain-based Message Authentication, Reporting &amp; Conformance) 是一�
 
    I. 檢閱報告以確保結果符合您的預期。
 
-1. 如果您對p=隔離層級的訊息行為感到滿意，您可以將原則調整為（p=拒絕）。 p=reject 原則會告知接收者，對於驗證失敗的網域中的任何電子郵件，可完全拒絕 (退回)。 啟用此原則後，只有確認為已經過網域 100% 驗證的電子郵件才有機會進入收件匣。
+1. 如果您對p=隔離層級的訊息行為感到滿意，您可以將原則調整為（p=拒絕）。 p=reject 原則會告知接收者，完全拒絕 (退回) 來自驗證失敗網域的任何電子郵件。 啟用此原則後，只有確認為已經過網域 100% 驗證的電子郵件才有機會進入收件匣。
 
 >[!CAUTION]
 >
@@ -167,7 +154,7 @@ DMARC 可以接收未通過 SPF/DKIM 驗證的電子郵件之報告。 在驗證
 
 * 鑑識報告 (RUF)：包含屬於 GDPR 敏感資訊的電子郵件地址。 在使用之前，最好是在內部檢查如何處理需要符合GDPR的資訊。
 
-這些報告的主要用途是讓您大致了解有哪些偽冒的電子郵件。 這些報告含有大量技術知識，因此最好透過第三方工具來消化。
+這些報告的主要用途是讓您大致了解哪些電子郵件正遭到偽冒嘗試。 這些報告含有大量技術知識，因此最好透過第三方工具來消化。
 
 ### DMARC 記錄範例 {#example-dmarc-records}
 
@@ -245,7 +232,7 @@ DMARC 記錄有多個組成部分，稱為 DMARC 標記。 每個標記都有一
   <tr>
     <td>adkim</td>
     <td>選用</td>
-    <td>可以是嚴格 (s) 或寬鬆 ®。 寬鬆比對表示該網域用於 DKIM 簽章，並且可以是「寄件者」地址的子網域。 嚴格比對表示用於 DKIM 簽章的網域必須和用於寄件者地址的網域完全相符。</td>
+    <td>可以是 Strict (s) 或 Relaxed ®。 寬鬆比對表示用於 DKIM 簽章的網域可以是「寄件者」地址的子網域。 嚴格比對表示用於 DKIM 簽章的網域必須和用於寄件者地址的網域完全相符。</td>
     <td>adkim=r </td>
     <td>r</td>
   </tr>
@@ -263,30 +250,30 @@ DMARC 記錄有多個組成部分，稱為 DMARC 標記。 每個標記都有一
 
 ### DMARC 和 Marketo Engage {#dmarc-and-marketo-engage}
 
-DMARC 有兩種比對類型：DMARC—DKIM 比對和 SPF 比對。
+DMARC 有兩種比對類型：DKIM 比對和 SPF 比對。
 
 >[!NOTE]
 >
 >建議在DKIM上與Marketo Engage的SPF上進行DMARC校準。
 
-* 與 DKIM 比對的 DMARC - 若要設定與 DKIM 比對的 DMARC，您必須：
+* DKIM 對齊的 DMARC—若要設定 DKIM 對齊的 DMARC，您必須：
 
-   * 為您的郵件的寄件者: 網域設定 DKIM。 使用[&#128279;](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}本文中的指示。
-   * 為先前已設定的寄件者:/DKIM 網域設定 DMARC
+  * 為您的郵件的寄件者: 網域設定 DKIM。 使用](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}本文中[的指示。
+  * 為先前已設定的寄件者:/DKIM 網域設定 DMARC
 
 * 與 DMARC 比對的 SPF - 若要透過具品牌識別的 return-path 來設定與 DMARC 比對的 SPF，您必須：
 
-   * 設定具品牌識別的 Return-Path 網域
-      * 設定適當的 SPF 記錄
-      * 將 MX 記錄變更為指向傳送出您的郵件之資料中心的預設 MX
+  * 設定具品牌識別的 Return-Path 網域
+    * 設定適當的 SPF 記錄
+    * 將 MX 記錄變更為指向傳送出您的郵件之資料中心的預設 MX
 
-   * 設定具品牌識別的 Return-Path 網域之 DMARC
+  * 設定具品牌識別的 Return-Path 網域之 DMARC
 
 * 如果您透過專用IP從Marketo Engage傳送郵件，但尚未實作品牌傳迴路徑，或不確定您是否有，請開啟[Adobe支援](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}的票證。
 
 * 如果您是透過共用IP集區從Marketo Engage傳送郵件，您可以透過[在此套用](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html){target="_blank"}來檢視您是否符合信任的IP資格。 具品牌識別的 return-path 會免費提供給從 Marketo Engage 受信任的 IP 傳送的使用者。 如果此方案獲得核准，請聯繫 Adobe 支援部門來設定具品牌識別的 return-path。
 
-   * 受信任的 IP：IP 的共用集區，保留給每月寄送量低於 75,000 封、且不符合專用 IP 資格的少量使用者。 這些使用者也必須滿足最佳做法的需求。
+  * 受信任的 IP：IP 的共用集區，保留給每月寄送量低於 75,000 封、且不符合專用 IP 資格的少量使用者。 這些使用者也必須滿足最佳做法的需求。
 
 * 如果您透過共用IP從Marketo Engage傳送郵件，但不符合信任的IP資格，且每月傳送的郵件超過100,000封，您將需要聯絡Adobe客戶團隊（您的客戶經理）以購買專用IP。
 
@@ -300,102 +287,78 @@ MX記錄可讓您接收寄送電子郵件至之網域的郵件，以處理回覆
 
 傳出連線是 Marketo Engage 代表您與網際網路上的伺服器所建立的連線。 與您合作的部分合作夥伴/廠商或者您自己的 IT 組織可能會使用允許清單來限制對伺服器的存取。 如果是這樣，您必須把 Marketo Engage 的傳出 IP 位址區塊提供給他們，以便新增至允許清單中。
 
-**Webhook**
+### Webhooks
 
 Marketo Engage [Webhook](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target="_blank"} 為傳出整合機制。 在智慧行銷活動中，執行[呼叫 Webhook](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md){target="_blank"} 流程動作時，會向外部 Web 服務發出 HTTP 要求。 如果 Web 服務發佈者使用外部 Web 服務所在網路的防火牆上的允許清單，則發佈者必須將下列 IP 位址區塊新增至其允許清單。
 
-**CRM 同步**
+### CRM 同步
 
 Marketo Engage [Salesforce CRM Sync](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"} 和 [Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"} 為整合機制，會向您的 CRM 廠商所發佈的 API 發送傳出 HTTP 要求。 您必須確保您的 IT 組織不會封鎖下列任何 IP 位址區塊，而使其無法存取您的 CRM 廠商 API。
 
-**Marketo Engage 傳出 IP 位址區塊**
+### Marketo Engage傳出IP位址區塊
 
 下列表格會涵蓋所有發出傳出呼叫的 Marketo Engage 伺服器。 如果您正在設定任何IP允許清單、伺服器、防火牆、存取控制清單、安全性群組或協力廠商服務，以接收來自Marketo Engage的傳出連線，請使用下列清單。
 
+**IP區塊（CIDR標籤法）**
 <table>
  <tbody>
-  <tr>
-   <th>IP 區塊 (CIDR 標記法)</th>
-  </tr>
    <tr>
    <td>130.248.172.0/24</td>
-  </tr>
-   <tr>
    <td>130.248.173.0/24</td>
   </tr>
-  <tr>
+   <tr>
    <td>130.248.244.88/29</td>
-  </tr>
-  <tr>
    <td>185.28.196.0/22</td>
   </tr>
   <tr>
    <td>192.28.144.0/20</td>
-  </tr>
-  <tr>
    <td>192.28.160.0/19</td>
   </tr>
   <tr>
    <td>199.15.212.0/22</td>
+   <td> </td>
   </tr>
- </tbody>
+  </tbody>
 </table>
 
+<br>
+**個別IP位址**
 <table>
- <tbody>
-  <tr>
-   <th>個人 IP 地址</th>
-  </tr>
-  <tr>
-   <td>13.237.155.207</td>
-  </tr>
-   <tr>
-   <td>13.55.192.247</td>
-  </tr>
-  <tr>
-   <td>18.200.201.81</td>
-  </tr>
-  <tr>
-   <td>34.247.24.245</td>
-  </tr>
-  <tr>
-   <td>35.165.244.220</td>
-  </tr>
-  <tr>
-   <td>44.235.171.179</td>
-  </tr>
-  <tr>
-   <td>52.20.211.99</td>
-  </tr>
-  <tr>
-   <td>52.64.109.86</td>
-  </tr>
-  <tr>
-   <td>54.160.246.246</td>
-  </tr>
-  <tr>
-   <td>54.212.167.17</td>
-  </tr>
-  <tr>
-   <td>54.220.138.65</td>
-  </tr>
-   <tr>
-   <td>54.237.141.197</td>
-  </tr>
-  <tr>
-   <td>124.47.174.193</td>
-  </tr>
-  <tr>
-   <td>130.248.168.16</td>
-  </tr>
-   <tr>
-   <td>130.248.168.17</td>
-  </tr>
-  <tr>
-   <td>199.15.213.245</td>
-  </tr>
-  <tr>
-   <td>199.15.215.245</td>
-  </tr>
- </tbody>
+  <tbody>
+    <tr>
+      <td>13.237.155.207</td>
+      <td>13.55.192.247</td>
+      <td>18.200.201.81</td>
+    </tr>
+    <tr>
+      <td>34.247.24.245</td>
+      <td>35.165.244.220</td>
+      <td>44.235.171.179</td>
+    </tr>
+    <tr>
+      <td>52.20.211.99</td>
+      <td>52.64.109.86</td>
+      <td>54.160.246.246</td>
+    </tr>
+    <tr>
+      <td>54.212.167.17</td>
+      <td>54.220.138.65</td>
+      <td>54.237.141.197</td>
+    </tr>
+    <tr>
+      <td>66.235.146.130</td>
+      <td>66.235.146.131</td>
+      <td>124.47.174.193</td>
+    </tr>
+    <tr>
+      <td>130.248.168.16</td>
+      <td>130.248.168.17</td>
+      <td>199.15.213.245</td>
+    </tr>
+    <tr>
+      <td>199.15.215.245</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+  </tbody>
 </table>
