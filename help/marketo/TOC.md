@@ -4,9 +4,9 @@ user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 10781cbfd51019a2e4af346803a2e35ef40855d0
+source-git-commit: 224dff93cda319bb6bb59fcbec4edb13cc940f4a
 workflow-type: tm+mt
-source-wordcount: '8927'
+source-wordcount: '8968'
 ht-degree: 96%
 
 ---
@@ -486,6 +486,19 @@ ht-degree: 96%
       + [預測客群快速入門](product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences.md)
       + [模型和洞察](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
       + [預測篩選器](product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md)
+  + Marketo Engage的同事 {#coworker-for-marketo}
+    + {hide-from-toc}[概觀](product-docs/coworker-for-marketo/overview.md)
+    + {hide-from-toc}[設定和設定](product-docs/coworker-for-marketo/settings-setup.md)
+    + {hide-from-toc}[Marketo Engage的同事資料資訊表](product-docs/coworker-for-marketo/data-information.md)
+    + 技能 {#skills}
+      + {hide-from-toc}[產品知識](product-docs/coworker-for-marketo/skills/product-knowledge.md)
+      + {hide-from-toc}[表面分析](product-docs/coworker-for-marketo/skills/surface-insights.md)
+      + {hide-from-toc}[建置計畫](product-docs/coworker-for-marketo/skills/build-programs.md)
+      + {hide-from-toc}[復製程式](product-docs/coworker-for-marketo/skills/clone-program.md)
+      + {hide-from-toc}[調查潛在客戶](product-docs/coworker-for-marketo/skills/investigate-leads.md)
+      + {hide-from-toc}[匯入銷售機會](product-docs/coworker-for-marketo/skills/import-leads.md)
+      + {hide-from-toc}[驗證程式](product-docs/coworker-for-marketo/skills/validate-programs.md)
+    + {hide-from-toc}[Marketo MCP](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/mcp-server)
   + CRM 同步 {#crm-sync}
     + Microsoft Dynamics 同步 {#microsoft-dynamics}
       + [了解 Microsoft Dynamics 同步](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
