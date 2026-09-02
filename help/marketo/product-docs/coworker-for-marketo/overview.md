@@ -62,4 +62,4 @@ Marketo Engage的同事提供專門設計的代理程式技能，將耗時但重
 
 >[!MORELIKETHIS]
 >
->[Marketo Engage MCP伺服器](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html){target="_blank"}可做為您AI助理與Marketo Engage之間的橋樑。
+>[Marketo Engage MCP伺服器](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=zh-Hant){target="_blank"}可做為您AI助理與Marketo Engage之間的橋樑。
