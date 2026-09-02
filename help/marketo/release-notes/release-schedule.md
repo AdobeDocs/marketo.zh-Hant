@@ -5,13 +5,10 @@ title: 發行排程
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
 TQID: https://experienceleague.adobe.com/qWeyxsBXYxKLSJvq6SfpXsBsocY3eLGROIO8EcZlkMw
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-topic_v2:
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 3b6dbef83c5ac1f764d573f96d88dd0dfb388acc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: b40977d6745fdf31a48c6e08a7b070cd164408c8
 workflow-type: tm+mt
 source-wordcount: 166
 ht-degree: 75%
@@ -60,7 +57,7 @@ _發行日期/功能可能會有所變更_
    <td>完成</td>
   </tr>
   <tr>
-  <td><a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/release-notes/previous-releases/2026/release-notes-july-26">2026年7月</a></td>
+  <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/previous-releases/2026/release-notes-july-26">2026年7月</a></td>
    <td>2026年7月10日</td>
    <td>完成</td>
   </tr>
@@ -76,7 +73,7 @@ _發行日期/功能可能會有所變更_
   </tr>
   <tr>
   <td>2026年10月</td>
-   <td>2026年10月30日</td>
+   <td>2026年10月23日</td>
    <td>準時發行</td>
   </tr>
  </tbody>
