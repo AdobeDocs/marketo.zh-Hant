@@ -4,9 +4,9 @@ user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 714e57ba66fb5bab0a871f70950b88e474d1b818
+source-git-commit: 8a3959f6edd01d28e6377a3a39a23b63a1d6475e
 workflow-type: tm+mt
-source-wordcount: '8957'
+source-wordcount: '8931'
 ht-degree: 96%
 
 ---
@@ -498,7 +498,7 @@ ht-degree: 96%
       + [調查銷售機會](product-docs/coworker-for-marketo/skills/investigate-leads.md)
       + [匯入銷售機會](product-docs/coworker-for-marketo/skills/import-leads.md)
       + [驗證程式](product-docs/coworker-for-marketo/skills/validate-programs.md)
-    + [MARKETO MCP](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/mcp-server)
+    + [MARKETO MCP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + CRM 同步 {#crm-sync}
     + Microsoft Dynamics 同步 {#microsoft-dynamics}
       + [了解 Microsoft Dynamics 同步](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
@@ -1124,18 +1124,6 @@ ht-degree: 96%
         + [使用傳送警報資訊權杖](product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md)
         + [在我的權杖中使用 URL](product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
       + [電子郵件副本](product-docs/email-marketing/general/email-cc.md)
-  + Marketo AI {#marketo-ai}
-    + {hide-from-toc}[概觀](product-docs/marketo-ai/overview.md)
-    + {hide-from-toc}[設定和設定](product-docs/marketo-ai/settings-setup.md)
-    + {hide-from-toc}[Marketo AI資料資訊表](product-docs/marketo-ai/data-information.md)
-    + 技能 {#skills}
-      + {hide-from-toc}[產品知識](product-docs/marketo-ai/skills/product-knowledge.md)
-      + {hide-from-toc}[表面分析](product-docs/marketo-ai/skills/surface-insights.md)
-      + {hide-from-toc}[建置計畫](product-docs/marketo-ai/skills/build-programs.md)
-      + {hide-from-toc}[復製程式](product-docs/marketo-ai/skills/clone-program.md)
-      + {hide-from-toc}[調查潛在客戶](product-docs/marketo-ai/skills/investigate-leads.md)
-      + {hide-from-toc}[匯入銷售機會](product-docs/marketo-ai/skills/import-leads.md)
-      + {hide-from-toc}[驗證程式](product-docs/marketo-ai/skills/validate-programs.md)
   + Marketo 通知 {#marketo-notifications}
     + {hide-from-toc}[通知： Websocket連線](product-docs/marketo-notifications/websocket-connection.md)
   + Marketo Sales Connect {#marketo-sales-connect}
