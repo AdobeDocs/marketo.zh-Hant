@@ -1,16 +1,16 @@
 ---
 description: 探索Co-worker for Marketo Engage代理程式套件，其設計旨在自動化行銷工作，例如方案QA、潛在客戶匯入、資料標準化等。
 title: Marketo Engage的同事概覽
-source-git-commit: b40977d6745fdf31a48c6e08a7b070cd164408c8
+source-git-commit: b981719a196b7b6ef74c2d048b21f0324fd51859
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '408'
 ht-degree: 1%
 
 ---
 
 # Marketo Engage的同事概覽 {#overview}
 
-Marketo Engage的同事提供專門設計的代理程式技能，將耗時但重要的行銷功能自動化。
+Marketo Engage （先前稱為Marketo AI）的同事可提供代理程式技能，將耗時但重要的行銷功能自動化。
 
 >[!AVAILABILITY]
 >
@@ -62,4 +62,4 @@ Marketo Engage的同事提供專門設計的代理程式技能，將耗時但重
 
 >[!MORELIKETHIS]
 >
->[Marketo Engage MCP伺服器](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=zh-Hant){target="_blank"}可做為您AI助理與Marketo Engage之間的橋樑。
+>[Marketo Engage MCP伺服器](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html){target="_blank"}可做為您AI助理與Marketo Engage之間的橋樑。
