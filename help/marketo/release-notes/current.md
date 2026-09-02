@@ -16,10 +16,10 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 618fe38fae7621ecf72aab8ec09fc345aba23358
+source-git-commit: b40977d6745fdf31a48c6e08a7b070cd164408c8
 workflow-type: tm+mt
-source-wordcount: 434
-ht-degree: 21%
+source-wordcount: 477
+ht-degree: 19%
 
 ---
 
@@ -52,18 +52,18 @@ ht-degree: 21%
    <td> </td>
   </tr>
   <tr>
-   <td><strong>電子郵件Designer — 指令碼產生器</strong>：指令碼產生器是AI支援的助理，可幫助您更快地建立個人化指令碼。
-</td>
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
    <td><strong>停用封存的行銷活動</strong>：封存資料夾現在會停用並取消排程該資料夾樹狀結構中的所有行銷活動，防止未預期地執行封存的智慧行銷活動。
+</td>
+   <td>已發行</td>
+   <td>不適用</td>
+  </tr>
+    <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>電子郵件Designer — 指令碼產生器</strong>：指令碼產生器是AI支援的助理，可幫助您更快地建立個人化指令碼。
 </td>
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
@@ -73,6 +73,8 @@ ht-degree: 21%
 <br/>
 
 ## 公告 {#announcements}
+
+* **Marketo AI現在是Marketo Engage的同事了**： Marketo Engage的同事提供了代理程式技能，可自動執行耗時的行銷功能。 新名稱、相同功能，可供所有使用者使用。 [了解更多](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/coworker-for-marketo/overview){target="_blank"}
 
 * **Rest API &#39;access_token&#39;引數淘汰**：用於驗證Marketo REST API呼叫的`access_token`查詢引數已淘汰，並將於2026年8月31日後無法使用。 所有新的和現有的整合都應使用「Authorization」標頭來驗證 REST API 呼叫，方法[如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 

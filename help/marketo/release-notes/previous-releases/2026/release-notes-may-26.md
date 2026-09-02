@@ -2,10 +2,10 @@
 description: 發行說明 — 2026年5月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2026年5月
 feature: Release Information
-source-git-commit: e8663ada66948bc30ff7ad90b26f6ba75d670ae8
+source-git-commit: b40977d6745fdf31a48c6e08a7b070cd164408c8
 workflow-type: tm+mt
-source-wordcount: '760'
-ht-degree: 15%
+source-wordcount: '805'
+ht-degree: 14%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 15%
 
 ## 標準發行週期功能 {#standard-release-cycle-features}
 
-下列功能屬於標準發行週期，並將於&#x200B;**2026年5月22日**&#x200B;開始發行，在接下來的幾週內分階段推出剩餘功能。 發行的功能和日期可能有所變更。 如需了解各項功能的狀態，請查看其旁邊欄位。
+下列功能屬於標準發行週期，並將於&#x200B;**2026年5月22日**&#x200B;開始發行，在接下來的幾週內分階段推出剩餘功能。 發行的功能和日期可能有所變更。 請查看各項功能旁邊的狀態。
 
 <table style="table-layout:auto">
  <tbody>
@@ -27,10 +27,10 @@ ht-degree: 15%
    <th style="width:25%">文件</th>
   </tr>
   <tr>
-   <td><strong>Marketo AI</strong>：利用一套代理程式，將耗時但重要的行銷功能自動化（現在提供兩個代理程式，即將推出更多代理程式）。
+   <td><strong>Marketo AI</strong>：運用一套代理程式技能，將耗時但重要的行銷功能自動化（現在提供兩種代理程式技能，即將推出更多技能）。
 </td>
    <td>開啟Beta版</td>
-   <td><a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/marketo-ai/overview" target="_blank">Marketo AI總覽</a></td>
+   <td><a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/coworker-for-marketo/overview" target="_blank">Marketo AI總覽</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -69,7 +69,7 @@ ht-degree: 15%
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat — 正在輸入</strong>：現在訪客和代理程式在另一方輸入時都會看到「正在輸入……」通知，以防止一方中斷另一方。
+   <td><strong>Dynamic Chat — 正在輸入</strong>：現在訪客和代理程式都會看到「正在輸入……」 輸入時通知，防止一方打斷另一方。
    </td>
    <td>已發行</td>
    <td>不適用</td>
@@ -102,7 +102,7 @@ ht-degree: 15%
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat — 新屬性同步處理行為</strong>：之前，新增新屬性會在同步處理完成時最多封鎖環境24小時的變更，以防止對話方塊編輯和發佈。現在，雖然新增屬性仍需要完全資料同步（這最多可能需要24小時），在此過程中環境不再封鎖。
+   <td><strong>Dynamic Chat — 新屬性同步處理行為</strong>：之前，新增新屬性會在同步處理完成時最多封鎖環境24小時的變更，以防止對話方塊編輯和發佈。 現在，雖然新增屬性仍需要完全資料同步（這最多可能需要24小時），在此過程中環境不再封鎖。
    </td>
    <td>已發行</td>
    <td>不適用</td>

@@ -2,9 +2,9 @@
 description: 發行說明 — 2026年7月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2026年7月
 feature: Release Information
-source-git-commit: 37ef6b0f6c89b8ec8cd098beb5cf4d321fdac401
+source-git-commit: b40977d6745fdf31a48c6e08a7b070cd164408c8
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '505'
 ht-degree: 20%
 
 ---
@@ -30,7 +30,7 @@ ht-degree: 20%
    <td><strong>Marketo AI技能 — 產品知識</strong>：產品知識可讓您隨選存取Marketo專業知識，而不需離開平台。 以簡單的語言提出問題，Marketo AI就會利用官方Adobe檔案提供答案。
 </td>
    <td>已發行</td>
-   <td><a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/marketo-ai/skills/product-knowledge" target="_blank">產品知識</a></td>
+   <td><a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/coworker-for-marketo/skills/product-knowledge" target="_blank">產品知識</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -41,7 +41,7 @@ ht-degree: 20%
    <td><strong>Marketo AI技能 — 調查銷售機會</strong>：瞭解為什麼特定人員/銷售機會未達到里程碑（例如MQL、方案資格或促銷活動），並取得所發生情況的直白語言說明。
 </td>
    <td>已發行</td>
-   <td><a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/marketo-ai/skills/investigate-leads" target="_blank">調查銷售機會</a></td>
+   <td><a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/coworker-for-marketo/skills/investigate-leads" target="_blank">調查銷售機會</a></td>
   </tr>
   <tr>
    <td> </td>

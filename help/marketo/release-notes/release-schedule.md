@@ -11,7 +11,7 @@ feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 3b6dbef83c5ac1f764d573f96d88dd0dfb388acc
+source-git-commit: b40977d6745fdf31a48c6e08a7b070cd164408c8
 workflow-type: tm+mt
 source-wordcount: 166
 ht-degree: 75%
@@ -76,7 +76,7 @@ _發行日期/功能可能會有所變更_
   </tr>
   <tr>
   <td>2026年10月</td>
-   <td>2026年10月30日</td>
+   <td>2026年10月23日</td>
    <td>準時發行</td>
   </tr>
  </tbody>
