@@ -10,9 +10,9 @@ feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 88949407423d12a95bf39470e3c29835d934e2f6
 workflow-type: tm+mt
-source-wordcount: 130
+source-wordcount: 238
 ht-degree: 3%
 
 ---
@@ -22,6 +22,17 @@ ht-degree: 3%
 在「安全性」設定中，您可以將網域新增至封鎖或允許的清單。
 
 ![](assets/security-settings-1.png)
+
+>[!IMPORTANT]
+>
+>封鎖和允許電子郵件網域篩選僅適用於訪客直接在Dynamic Chat中（在聊天機器人或對話流程中）輸入其電子郵件地址時。 它不適用於Dynamic Chat從整合產品（例如Marketo Engage）收到的電子郵件地址。 如需詳細資訊，請參閱下表。
+
+| 狀況 | 篩選是否適用？ |
+|---|---|
+| 訪客直接在Dynamic Chat聊天機器人中輸入電子郵件 | 是 |
+| 訪客直接在Dynamic Chat對話流程中輸入電子郵件 | 是 |
+| 電子郵件是從Marketo表單提交預先填入（對話流程會在表單填寫後顯示） | 無 |
+| 電子郵件會從任何其他整合系統傳遞至Dynamic Chat | 無 |
 
 ## 封鎖的電子郵件網域 {#blocked-email-domains}
 
