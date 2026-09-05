@@ -1,9 +1,9 @@
 ---
 description: 瞭解如何為Marketo Engage啟用同事、設定組織規則及管理整合和通知等設定。
 title: 設定與設定
-source-git-commit: 73a09b315526dda5bd4d53646a17141a16943218
+source-git-commit: 01cad5c7d14083c0ef7127850f2488dbfd71f57b
 workflow-type: tm+mt
-source-wordcount: '589'
+source-wordcount: '581'
 ht-degree: 1%
 
 ---
@@ -16,17 +16,13 @@ ht-degree: 1%
 >
 >此功能適用於所有訂閱。 如果您在「我的Marketo」畫面上看不到「Marketo Engage同事」圖磚，請聯絡您的客戶經理。 您也必須同意[核心Gen-AI條款與補充條款](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}。
 
->[!IMPORTANT]
->
->此功能先前稱為Marketo AI。 許可權和使用者角色名稱尚未更新，將在未來版本中變更。 在此之前，您仍會在管理員區段中看到先前名稱。
-
 ## 許可權和角色 {#permission-and-role}
 
-有&#x200B;_存取Marketo AI_&#x200B;許可權和&#x200B;_Marketo AI使用者_&#x200B;角色，可讓系統管理員更能掌控哪些使用者可以存取&#x200B;**Marketo AI**&#x200B;功能。 許可權是在角色層級指派。 _Marketo AI使用者_&#x200B;角色附帶&#x200B;_存取Marketo AI_&#x200B;許可權，預設為啟用。
+有Marketo Engage _許可權的_&#x200B;存取共同背景工作，以及Marketo Engage使用者&#x200B;_角色的_&#x200B;共同背景工作，可讓系統管理員更能掌控哪些使用者可以存取Marketo Engage **的**&#x200B;共同背景工作。 許可權是在角色層級指派。 適用於Marketo Engage User _角色的_ Co-worker附帶&#x200B;_適用於Marketo Engage的Access Co-worker_&#x200B;許可權，預設為啟用。
 
 >[!NOTE]
 >
->預設不會為所有角色啟用&#x200B;_存取Marketo AI_&#x200B;許可權。 如需詳細資訊，請參閱下表。
+>依預設，並非所有角色都啟用Marketo Engage的&#x200B;_存取同事_&#x200B;許可權。 如需詳細資訊，請參閱下表。
 
 | 角色 | 預設狀態 |
 | --- | --- |
@@ -34,12 +30,12 @@ ht-degree: 1%
 | Adobe產品管理員 | 啟用 |
 | 行銷使用者 | 停用 |
 | 標準使用者 | 無法使用 |
-| Marketo AI使用者 | 啟用 |
+| Marketo Engage使用者的同事 | 啟用 |
 | 自訂角色 | 停用 |
 
-### 存取Marketo AI許可權 {#access-marketo-ai-permission}
+### 存取Marketo Engage的同事許可權 {#access-coworker-marketo-permission}
 
-請依照下列步驟，為尚未啟用的合格角色啟用&#x200B;_存取Marketo AI_。
+請依照下列步驟，針對尚未啟用&#x200B;_Access Co-worker for Marketo Engage_&#x200B;的合格角色，啟用它。
 
 1. 在「我的Marketo」中，按一下&#x200B;**管理員**，然後按一下&#x200B;**使用者和角色**。
 
@@ -49,21 +45,21 @@ ht-degree: 1%
 
    ![](assets/settings-setup-2.png)
 
-1. 向下捲動並勾選&#x200B;_存取Marketo AI_&#x200B;核取方塊，然後按一下&#x200B;**儲存**。
+1. 向下捲動並勾選「_Access Co-worker for Marketo Engage_」核取方塊，然後按一下「**儲存**」。
 
    ![](assets/settings-setup-3.png)
 
    >[!NOTE]
    >
-   >您可以使用這些相同的步驟，透過&#x200B;**取消**&#x200B;核取&#x200B;_存取Marketo AI_&#x200B;核取方塊來移除許可權。
+   >您可以使用這些相同的步驟，透過&#x200B;**取消**&#x200B;核取&#x200B;_存取Marketo Engage的同事_&#x200B;核取方塊來移除許可權。
 
-### Marketo AI使用者角色 {#marketo-ai-user-role}
+### Marketo Engage使用者角色的同事 {#coworker-marketo-user-role}
 
-依照下列步驟將特定使用者指派給&#x200B;_Marketo AI使用者_&#x200B;角色。
+請依照下列步驟，將特定使用者指派給&#x200B;_Marketo Engage使用者的同事_&#x200B;角色。
 
 >[!NOTE]
 >
->此角色&#x200B;**僅**&#x200B;包含&#x200B;_存取Marketo AI_&#x200B;許可權。
+>此角色&#x200B;**僅**&#x200B;包含&#x200B;_Marketo Engage的存取共同背景工作_&#x200B;許可權。
 
 1. 在「我的Marketo」中，按一下&#x200B;**管理員**，然後按一下&#x200B;**使用者和角色**。
 
@@ -73,13 +69,13 @@ ht-degree: 1%
 
    ![](assets/settings-setup-5.png)
 
-1. 在&#x200B;_角色和工作區_&#x200B;中，選取&#x200B;_Marketo AI使用者_&#x200B;核取方塊。 如果您有多個工作區，您可以在&#x200B;**+**&#x200B;登入下拉式清單中指定哪些工作區可以取得存取權。 完成時，按一下&#x200B;**儲存**。
+1. 在&#x200B;_角色和工作區_&#x200B;中，選取「_Marketo Engage使用者的同事_」核取方塊。 如果您有多個工作區，您可以在&#x200B;**+**&#x200B;登入下拉式清單中指定哪些工作區可以取得存取權。 完成時，按一下&#x200B;**儲存**。
 
    ![](assets/settings-setup-6.png)
 
 ### 自訂角色 {#custom-role}
 
-您也可選擇[建立新角色](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"}並自訂其許可權、新增&#x200B;_存取Marketo AI_&#x200B;以及您想要的任何其他專案，並[將該角色](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}指派給特定使用者。
+您也可選擇[建立新角色](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"}並自訂其許可權、新增&#x200B;_Access Co-worker for Marketo Engage_&#x200B;以及您想要的其他專案，以及[將該角色](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}指派給特定使用者。
 
 ## 設定 {#settings}
 
@@ -93,7 +89,7 @@ ht-degree: 1%
 
 ### 連線 {#connection}
 
-此索引標籤不包含可編輯的欄位。 它會顯示您的Munchkin ID和IMS組織等帳戶資訊。
+此索引標籤不包含可編輯的欄位。 它會顯示如您的Munchkin ID和IMS組織的帳戶資訊。
 
 ![](assets/settings-setup-9.png)
 
