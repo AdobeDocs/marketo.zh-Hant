@@ -4,8 +4,13 @@ description: 瞭解用於組織Smart Campaigns和資產的方案內的資料夾�
 title: 了解資料夾
 exl-id: 2ea914f6-ca64-4e87-806c-93beba075ab2
 TQID: https://experienceleague.adobe.com/wAE129LK3Pk-CB5SSQqqSV50ng085soYsm4JHfh0CuI
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
 source-git-commit: b77e1a1e72b89e7cdef5733dbb2de4405ebf3b07
 workflow-type: tm+mt
 source-wordcount: 412
