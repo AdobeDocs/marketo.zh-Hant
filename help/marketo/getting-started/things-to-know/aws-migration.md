@@ -3,9 +3,9 @@ description: AWS移轉 — Marketo Engage檔案 — 產品檔案
 title: AWS移轉
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: a314dd062a500c96d1bb5eab141adec5180a2c91
+source-git-commit: 2f5b6f31959e542b149e10bf42e4ab4ee763fbcd
 workflow-type: tm+mt
-source-wordcount: '901'
+source-wordcount: '918'
 ht-degree: 5%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 5%
 
 在接下來的幾個月中，所有Marketo Engage訂閱都將從私人資料中心移轉至AWS公用雲端，以提升可靠性、擴充性和速度。
 
-您將在移轉前約30天收到電子郵件和應用程式內通知。 使用本指南進行準備。
+您將會在[移轉](#identify)前約30天收到電子郵件和應用程式內通知。 使用本指南進行準備。
 
 ## 建議的動作 {#actions}
 
@@ -30,22 +30,24 @@ ht-degree: 5%
 
 * **檢閱並更新IP允許清單**，以取得登入、API存取、電子郵件傳送、網頁追蹤和整合。
 
-* **新增IP位址**&#x200B;並保留您目前的IP不變。 檢視要透過下方[&#128279;](#ip-addresses)的表格新增的IP位址。
+* **新增IP位址**&#x200B;並保留您目前的IP不變。 檢視要透過下方](#ip-addresses)的[表格新增的IP位址。
 
 ## 預期的服務影響 {#impacts}
 
 您無需對下列影響執行任何動作。
 
 * **CRM整合和LaunchPoint服務**&#x200B;將會停用，但之後應該會自動繼續。
-* **登陸頁面、表單和資料彙集**&#x200B;將無法使用，而將會顯示維護訊息。
+* **登陸頁面、表單和資料彙集**&#x200B;將無法使用，且會顯示維護訊息（請參閱下文）。
 
->[!NOTE]
+  ![當您的客戶在停機期間存取您的Marketo Engage登入頁面時看到的訊息](assets/maintenance-in-progress.png)
+
+>[!IMPORTANT]
 >
->如果您使用[外部表單](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}，並且想要避免在移轉期間無法使用Marketo Engage時收集而遺失表單提交資料，請事先聯絡[Adobe支援](https://experienceleague.adobe.com/zh-hant/support){target="_blank"} **至少兩個工作日**，並提供表單ID和您訂閱的Munchkin ID。
+>如果您使用[外部表單](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}，並且想要避免在移轉期間無法使用Marketo Engage時收集而遺失表單提交資料，請事先聯絡[Adobe支援](https://experienceleague.adobe.com/en/support){target="_blank"} **至少兩個工作日**，並提供表單ID和您訂閱的Munchkin ID。
 
 ## 識別您的資料中心/Pod {#identify}
 
-在檢閱下清單格之前，[請先瞭解如何識別](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify)您的訂閱所在的資料中心和pod/伺服器。
+在檢閱下列排程之前，[請先瞭解如何識別](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify)您的訂閱所在的資料中心和pod/伺服器。
 
 ## 排程 {#schedule}
 
@@ -304,7 +306,7 @@ ht-degree: 5%
 
 ## 更新與支援 {#support}
 
-如需最新更新，請將此頁面加入書籤。 如果您有任何問題，請透過Admin Console的支援入口網站或[Experience League](https://experienceleague.adobe.com/zh-hant/support){target="_blank"}聯絡Adobe支援。
+如需最新更新，請將此頁面加入書籤。 如果您有任何問題，請透過Admin Console的支援入口網站或[Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}聯絡Adobe支援。
 
 ## 常見問題集 {#faq}
 
