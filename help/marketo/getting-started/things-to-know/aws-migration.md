@@ -3,9 +3,9 @@ description: AWS移轉 — Marketo Engage檔案 — 產品檔案
 title: AWS移轉
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 45994b2296473529f7c8ea9e34dd76c6c1c1e897
+source-git-commit: b631ea9780168beb763bc912f3e2f9f98d4e7fbe
 workflow-type: tm+mt
-source-wordcount: '990'
+source-wordcount: '991'
 ht-degree: 5%
 
 ---
@@ -30,7 +30,7 @@ ht-degree: 5%
 
 * **檢閱並更新IP允許清單**，以取得登入、API存取、電子郵件傳送、網頁追蹤和整合。
 
-* **新增IP位址**&#x200B;並保留您目前的IP不變。 檢視要透過下方[&#128279;](#ip-addresses)的表格新增的IP位址。
+* **新增IP位址**&#x200B;並保留您目前的IP不變。 檢視要透過下方](#ip-addresses)的[表格新增的IP位址。
 
 ## 預期的服務影響 {#impacts}
 
@@ -43,7 +43,7 @@ ht-degree: 5%
 
 >[!IMPORTANT]
 >
->如果您使用[外部表單](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}，並且想要避免在移轉期間無法使用Marketo Engage時收集而遺失表單提交資料，請事先聯絡[Adobe支援](https://experienceleague.adobe.com/zh-hant/support){target="_blank"} **至少兩個工作日**，並提供表單ID和您訂閱的Munchkin ID。
+>如果您使用[外部表單](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}，並且想要避免在移轉期間無法使用Marketo Engage時收集而遺失表單提交資料，請事先聯絡[Adobe支援](https://experienceleague.adobe.com/en/support){target="_blank"} **至少兩個工作日**，並提供表單ID和您訂閱的Munchkin ID。
 
 ## 識別您的資料中心/Pod {#identify}
 
@@ -308,9 +308,9 @@ ht-degree: 5%
 
 ## 更新與支援 {#support}
 
-如需最新資訊，請將此頁面加入書籤。 若要在移轉開始和完成時接收狀態更新，但[您必須訂閱](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"}才能接收這些更新。 您也可以造訪https://status.adobe.com/。
+如需最新資訊，請將此頁面加入書籤。 若要在移轉開始和完成時接收狀態更新，請[訂閱](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"}以接收更新。 您也可以在移轉期間造訪https://status.adobe.com/ 。
 
-如果您有任何問題，請透過Admin Console的支援入口網站或[Experience League](https://experienceleague.adobe.com/zh-hant/support){target="_blank"}聯絡Adobe支援。
+如果您有任何問題，請透過Admin Console的支援入口網站或[Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}聯絡Adobe支援。
 
 ## 常見問題集 {#faq}
 
