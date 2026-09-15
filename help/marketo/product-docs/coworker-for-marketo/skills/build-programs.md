@@ -1,15 +1,11 @@
 ---
 description: 使用Co-worker for Marketo Engage ，從簡單的語言簡介建立Marketo計畫。 讓智慧型行銷活動、排程和資產預留位置準備好進行稽核和調整。
 title: 建置計畫
-badge: Beta
-hide: true
-source-git-commit: 224dff93cda319bb6bb59fcbec4edb13cc940f4a
+source-git-commit: f812c2f442c39883e028735ce51efe607968142b
 workflow-type: tm+mt
-source-wordcount: '596'
+source-wordcount: '582'
 ht-degree: 0%
-
 ---
-
 # 建置計畫 {#build-programs}
 
 以簡單的語言說明行銷活動，讓Marketo Engage的同事建立方案結構，並完成資產預留位置及排程。
@@ -19,10 +15,6 @@ ht-degree: 0%
 >* 若要使用此功能，您必須先同意[核心Gen-AI條款與補充條款](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}。 如需詳細資訊，請聯絡Adobe客戶團隊（您的客戶經理）。
 >
 >* 您必須有權在Marketo帳戶中建立程式。
-
->[!AVAILABILITY]
->
->此功能目前處於封閉測試階段。 請勿散佈此檔案。
 
 ## 使用方式 {#how-to-use}
 
