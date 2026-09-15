@@ -4,13 +4,11 @@ user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 8a3959f6edd01d28e6377a3a39a23b63a1d6475e
+source-git-commit: df650f93bedc7202ad82f8f725616cd25e4a99ef
 workflow-type: tm+mt
-source-wordcount: '8931'
+source-wordcount: '8930'
 ht-degree: 96%
-
 ---
-
 
 # Marketo 指南 {#using}
 
@@ -498,7 +496,7 @@ ht-degree: 96%
       + [調查銷售機會](product-docs/coworker-for-marketo/skills/investigate-leads.md)
       + [匯入銷售機會](product-docs/coworker-for-marketo/skills/import-leads.md)
       + [驗證程式](product-docs/coworker-for-marketo/skills/validate-programs.md)
-    + [MARKETO MCP](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/mcp-server)
+    + [MARKETO MCP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + CRM 同步 {#crm-sync}
     + Microsoft Dynamics 同步 {#microsoft-dynamics}
       + [了解 Microsoft Dynamics 同步](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
@@ -1027,7 +1025,7 @@ ht-degree: 96%
       + [電子郵件共同作業](product-docs/email-marketing/email-designer/email-collaboration.md)
       + [在電子郵件Designer中產生內容](product-docs/email-marketing/email-designer/generate-content.md)
       + [使用 SpamAssassin 取得垃圾郵件報告](product-docs/email-marketing/email-designer/spam-report.md)
-      + [CNIL開啟追蹤指引](product-docs/email-marketing/email-designer/cnil-guidance.md)
+      + [條件式開啟追蹤](product-docs/email-marketing/email-designer/conditional-open-tracking.md)
     + 電子郵件方案 {#email-programs}
       + 建立電子郵件方案 {#creating-an-email-program}
         + [建立電子郵件方案](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
