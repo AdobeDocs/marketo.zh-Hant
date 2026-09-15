@@ -1,40 +1,38 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: CNIL指南 — 條件式電子郵件開啟追蹤
-description: 瞭解如何使用自訂布林值欄位設定Marketo Engage以符合CNIL規範，以根據每個人的同意狀態路由電子郵件開啟追蹤。
+title: 條件式電子郵件開啟追蹤
+description: 瞭解如何使用自訂布林值欄位設定條件式電子郵件開啟追蹤，以根據每個人的同意狀態路由電子郵件開啟追蹤。
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: b8d1872fc697e42a82675a2b45ce01f21bb83edd
+source-git-commit: df650f93bedc7202ad82f8f725616cd25e4a99ef
 workflow-type: tm+mt
-source-wordcount: '433'
+source-wordcount: '426'
 ht-degree: 0%
-
 ---
+# 條件式電子郵件開啟追蹤 {#conditional-open-tracking}
 
-# CNIL指南：條件式電子郵件開啟追蹤 {#cnil}
-
-瞭解如何根據[CNIL准則](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/understanding-cnil-s-updated-guidance-on-email-open-tracking-251632?profile.language=zh-Hant){target="_blank"}，設定Marketo Engage以遵循電子郵件開啟（畫素）追蹤的一般使用者同意。 方法使用自訂布林值欄位來判斷某人收到哪個電子郵件變體，一個啟用開啟追蹤，另一個停用開啟追蹤。
+瞭解如何依照[各種准則](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-general-27/understanding-guidance-on-email-tracking-pixels-251632?profile.language=zh-Hant){target="_blank"}，設定Marketo Engage以遵循電子郵件開啟（畫素）追蹤的一般使用者同意。 方法使用自訂布林值欄位來判斷某人收到哪個電子郵件變體，一個啟用開啟追蹤，另一個停用開啟追蹤。
 
 ## 步驟1：建立自訂布林值欄位 {#custom-field}
 
 1. 在&#x200B;**管理員**&#x200B;區域中，按一下&#x200B;**欄位管理**&#x200B;並選取&#x200B;**新增自訂欄位**。
 
-   ![](assets/cnil-1.png)
+   ![](assets/open-tracking-1.png)
 
 1. 針對&#x200B;_物件_，請選擇&#x200B;**人員**。 針對&#x200B;_型別_，請選擇&#x200B;**布林值**。 針對&#x200B;_名稱_，輸入「電子郵件畫素追蹤」（API名稱會自動填入）。 按一下&#x200B;**建立**。
 
-   ![](assets/cnil-2.png)
+   ![](assets/open-tracking-2.png)
 
 ## 步驟2：填入同意欄位 {#populate}
 
 1. 透過資料匯入（API同步或[CSV上傳](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people){target="_blank"}）設定每個人的電子郵件畫素追蹤欄位值。
 
-   ![](assets/cnil-3.png)
+   ![](assets/open-tracking-3.png)
 
 1. 確保自訂欄位已正確對應。
 
-   ![](assets/cnil-4.png)
+   ![](assets/open-tracking-4.png)
 
 >[!NOTE]
 >
@@ -48,17 +46,17 @@ ht-degree: 0%
 
 * **電子郵件二（開啟追蹤已停用）**：複製電子郵件一併停用開啟追蹤。
 
-  ![](assets/cnil-5.png)
+  ![](assets/open-tracking-5.png)
 
 在電子郵件Designer中，您可在電子郵件右側&#x200B;_摘要_&#x200B;窗格的&#x200B;_詳細資料_&#x200B;索引標籤中找到&#x200B;**停用開啟追蹤**&#x200B;核取方塊。 在舊版電子郵件編輯器中，_電子郵件設定_&#x200B;功能表中會顯示&#x200B;**停用開啟追蹤**&#x200B;核取方塊。
 
 **電子郵件設計工具**
 
-![](assets/cnil-6.png){width="800" zoomable="yes"}
+![](assets/open-tracking-6.png){width="800" zoomable="yes"}
 
 **舊版電子郵件編輯器**
 
-![](assets/cnil-7.png){width="800" zoomable="yes"}
+![](assets/open-tracking-7.png){width="800" zoomable="yes"}
 
 ## 步驟4：設定Smart Campaign {#smart-campaign}
 
@@ -66,12 +64,12 @@ ht-degree: 0%
 
 1. 在Smart Campaign的&#x200B;_流量_&#x200B;索引標籤中，插入&#x200B;**傳送電子郵件**&#x200B;流量步驟。
 
-   ![](assets/cnil-8.png){width="800" zoomable="yes"}
+   ![](assets/open-tracking-8.png){width="800" zoomable="yes"}
 
 1. 在流程步驟中，按一下&#x200B;**新增選擇**。 在Choice 1中，將&#x200B;**if**&#x200B;設為&#x200B;_電子郵件畫素追蹤_，將運運算元設為&#x200B;_is_，並將值設為&#x200B;_false_。 針對&#x200B;**電子郵件**，選取&#x200B;_電子郵件二_。
 
 1. 在預設選擇中，將&#x200B;**電子郵件**&#x200B;設定為&#x200B;_電子郵件One_。
 
-   ![](assets/cnil-9.png)
+   ![](assets/open-tracking-9.png)
 
 這可確保未同意開啟追蹤的人員會收到未追蹤的電子郵件，而同意的人員會收到標準追蹤的電子郵件。

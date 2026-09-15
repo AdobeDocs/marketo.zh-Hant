@@ -2,13 +2,11 @@
 description: 發行說明 — 2026年7月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2026年7月
 feature: Release Information
-source-git-commit: b40977d6745fdf31a48c6e08a7b070cd164408c8
+source-git-commit: df650f93bedc7202ad82f8f725616cd25e4a99ef
 workflow-type: tm+mt
-source-wordcount: '505'
-ht-degree: 20%
-
+source-wordcount: '454'
+ht-degree: 22%
 ---
-
 # 發行說明： 2026年7月 {#release-notes-july-26}
 
 以下是2026年7月發行版本包含的所有功能。 請查看您的 Adobe Marketo Engage 版本是否提供這些功能。
@@ -52,17 +50,6 @@ ht-degree: 20%
    <td><strong>電子郵件Designer — 模組</strong>：您現在可以存取現成可用的完整結構化內容區塊，以加速電子郵件組合。</td>
    <td>已發行</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/email-modules.md" target="_blank">在電子郵件設計工具中使用模組</a></td>
-  </tr>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>電子郵件Designer — 產生內容內容功能表</strong>：現在可以從內容功能表（黑色列）存取電子郵件Designer的「產生內容」功能。 例如，當您選取文字內容時，「產生內容」圖示會出現在內容功能表上，可讓您執行快速動作。</td>
-   <td><i>即將推出</i></td>
-<td><i>即將推出</i></td>
   </tr>
   </tr>
   </tbody>
