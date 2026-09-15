@@ -1,14 +1,14 @@
 ---
-description: 此處提供說明。
+description: 瞭解組織規則如何定義治理標準，並在方案建立、行銷活動規劃和驗證期間為Marketo Engage的同事提供指導。
 title: 組織規則
-source-git-commit: 0949e5193333d56943a5c9a52c1715ecbcb274f3
+source-git-commit: 60ab04f79b2b24ca659676f5847d6f87b867e2f4
 workflow-type: tm+mt
-source-wordcount: '760'
+source-wordcount: '828'
 ht-degree: 0%
 ---
 # 組織規則 {#organizational-rules}
 
-組織規則會以單一檔案定義您的行銷作業標準和治理要求，指導同事完成方案建立、行銷活動規劃和驗證工作流程。
+組織規則會以單一檔案定義您的行銷作業標準和治理要求，引導Marketo Engage的同事完成方案建立、行銷活動規劃和驗證工作流程。
 
 ## 什麼是組織規則？ {#what-are-organizational-rules}
 
@@ -23,13 +23,13 @@ ht-degree: 0%
 
 ## 使用組織規則的位置 {#where-organizational-rules-are-used}
 
-組織規則指南跨三種技能的同事：
+組織規則指南Marketo Engage同事的三項技能：
 
 | 技能 | 規則的套用方式 |
 | --- | --- |
-| 建置計畫 | 規則可指導程式結構的建立、命名和初始設定。 同事在建立方案之前，會在您的簡報中標示任何法規遵循問題。 |
-| 計畫行銷活動 | 規則會告知同事如何根據您的標準來建構智慧行銷活動、篩選器和流程步驟。 |
-| 驗證程式 | 規則會定義在啟動前驗證程式時，Co-worker要檢查哪些專案。 |
+| 建置計畫 | 規則可指導程式結構的建立、命名和初始設定。 Marketo Engage的同事會在建立方案之前，在您的簡報中標示任何法規遵循問題。 |
+| 計畫行銷活動 | 規則會通知Marketo Engage的同事如何根據您的標準來建構智慧行銷活動、篩選器和流程步驟。 |
+| 驗證程式 | 規則會定義在啟動前驗證程式時，Marketo Engage的同事要檢查哪些專案。 |
 
 ## 如何存取及自訂組織規則 {#how-to-access-and-customize-organizational-rules}
 
@@ -45,7 +45,7 @@ ht-degree: 0%
    * 法規遵循與排除標準
 
 1. 進行變更時請更新版本號碼。
-1. 儲存您的變更。 所有同事技能都將立即使用您的自訂規則。
+1. 儲存您的變更。 所有Marketo Engage技能的同事將立即使用您的自訂規則。
 
 ## 組織規則結構 {#organizational-rules-structure}
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 ```markdown
 ---
-name: Your Organization Name — Marketo Campaign Governance
+name: Your Organization Name - Marketo Campaign Governance
 version: 1.0
 enabled: true
 customized: true
@@ -83,7 +83,7 @@ customized: true
 
 # Email Compliance
 
-## ⚠️ REQUIRED Elements
+## Required Elements
 - Unsubscribe link in footer
 - Company name and physical address
 - All external links include UTM parameters
@@ -99,16 +99,16 @@ customized: true
 * **讓規則重點突出**：僅包含對貴組織重要的需求。 不必要的規則會產生雜訊，且會不必要地降低相容分數。
 * **同時使用自動和手動檢查**：
 
-  * 自動檢查 — 命名慣例、必要資料夾、權杖使用方式（Co-worker可加以驗證）
-  * 手動檢查 — 電子郵件視覺化設計、品牌法規遵循、行銷活動邏輯（同事會將這些標幟為手動檢閱步驟）
+  * 自動檢查：命名慣例、必要資料夾、權杖使用方式（Marketo Engage的同事可以確認）
+  * 手動檢查：電子郵件視覺化設計、品牌法規遵循、行銷活動邏輯（Marketo Engage的同事會將這些標幟為手動檢閱步驟）
 
 * **平衡嚴格性與彈性**：過於嚴格的規則可能會減慢程式建立的速度。 規則太鬆散，無法攔截重要的規範遵循問題。
 * **將規則版本化**：進行重大變更時請更新版本號碼，讓您的團隊知道已更新治理標準。
 * **溝通變更**：更新組織規則時，請讓您的行銷營運團隊知道變更內容及原因。
 
-## 同事可以和無法驗證的內容 {#what-coworker-can-and-cannot-validate}
+## 什麼是Marketo Engage的同事可以驗證和無法驗證 {#what-coworker-can-and-cannot-validate}
 
-同事CAN驗證（自動檢查）：
+Marketo Engage CAN的同事驗證（自動檢查）：
 
 * 命名慣例符合您的模式
 * 必要的檔案夾結構已存在
@@ -117,25 +117,25 @@ customized: true
 * 外部連結包含UTM引數
 * 智慧型行銷活動名稱遵循慣例
 
-同事無法驗證（需要手動檢閱）：
+Marketo Engage的同事無法驗證（需要手動檢閱）：
 
-* 智慧清單篩選器邏輯（API限制 — 您必須手動設定篩選器）
-* 智慧型行銷活動流程步驟邏輯（API限制 — 您必須手動設定流程）
+* 智慧清單篩選器邏輯（API限制：您必須手動設定篩選器）
+* Smart Campaign流程步驟邏輯（API限制：您必須手動設定流程）
 * 電子郵件視覺化呈現和回應能力（需要視覺化檢查）
 * 品牌法規遵循與傳訊基調（需要人為判斷）
 * 動態內容分段規則（API限制）
 
-當同事遇到無法驗證的內容時，會在工作流程中將其標示為手動稽核步驟。
+當Marketo Engage的同事遇到無法驗證的問題時，會在工作流程中將其標示為手動檢閱步驟。
 
 ## 合規性評分 {#compliance-scoring}
 
-當您使用「驗證程式」時，「同事」會根據下列專案計算相容分數：
+當您使用「驗證程式」時，適用於Marketo Engage的Co-worker會根據下列專案計算相容分數：
 
-* **通過檢查** — 同事已驗證合規性，未發現任何問題
-* **失敗的檢查** — 同事發現違反您的組織規則
-* **手動檢閱步驟** — 需要人為驗證的專案（這些不會計入您的分數）
+* **通過檢查**： Marketo Engage的同事已驗證合規性，未發現任何問題
+* **失敗的檢查**： Marketo Engage的同事發現違反您的組織規則
+* **手動檢閱步驟**：需要人為驗證的專案（這些不會計入您的分數）
 
-一個計畫可以有100%的合規性，但仍需要手動審查步驟 — 這些步驟被排除在分數計算之外。
+一個計畫可以有100%的相容性，但仍需要手動複查步驟；這些步驟會排除在分數計算之外。
 
 ## 組織規則自訂範例 {#examples-of-organizational-rules-customization}
 
@@ -161,7 +161,7 @@ Example: AMER_Q2_Product_Launch_Webinar_2025
 **範例3：最小規則（著重於規範）**
 
 ```markdown
-# Email Compliance — REQUIRED
+# Email Compliance - REQUIRED
 
 - Unsubscribe link present
 - CAN-SPAM physical address in footer
@@ -172,9 +172,9 @@ Example: AMER_Q2_Product_Launch_Webinar_2025
 
 ## 疑難排解 {#troubleshooting}
 
-**問：我已更新組織規則，但同事仍在使用舊規則。**
+**問：我已更新組織規則，但Marketo Engage的同事仍在使用舊規則。**
 
-答：新程式和驗證的變更會立即生效。 如果您正在使用現有的程式，請重新整理瀏覽器或啟動新的同事工作流程以檢視更新的規則。
+答：新程式和驗證的變更會立即生效。 如果您正在使用現有的程式，請重新整理瀏覽器或為Marketo Engage工作流程開始新的同事，以檢視更新的規則。
 
 **問：我可以還原為預設規則嗎？**
 
