@@ -68,4 +68,4 @@ Describe a marketing campaign in plain language and Coworker for Marketo Engage 
 
 >[!MORELIKETHIS]
 >
->[Marketo Engage MCP伺服器](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html){target="_blank"}可做為您AI助理與Marketo Engage之間的橋樑。
+>[Marketo Engage MCP伺服器](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=zh-Hant){target="_blank"}可做為您AI助理與Marketo Engage之間的橋樑。
