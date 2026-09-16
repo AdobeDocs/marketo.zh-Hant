@@ -7,18 +7,18 @@ feature: Landing Pages, Guided Landing Page Templates
 TQID: https://experienceleague.adobe.com/3t6UQHzDLEjXwHbAV-axDYgAyIHGKoShx2PMDdeFN0o
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+source-git-commit: 5c0e06eafd047db8a64255351e09d1533cc82d0a
 workflow-type: tm+mt
-source-wordcount: 74
+source-wordcount: '74'
 ht-degree: 5%
-
 ---
-
 # 範本 20A {#template-20a}
 
-按一下滑鼠右鍵以[下載範本20A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20a.html?lang=zh-Hant)
+按一下滑鼠右鍵以[下載範本20A](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-20a.html)
 
 ![](assets/image2015-9-18-9-3a1-3a49.png)
 
@@ -26,11 +26,11 @@ ht-degree: 5%
 
 * 主要區段
 
-   * 包含主圖示題和主圖文字
+  * 包含主圖示題和主圖文字
 
 * 四個主體區段（選擇性）
 * 頁尾（選擇性）
 
 **在下方按一下滑鼠右鍵以下載此範本：**
 
-[範本20A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20a.html?lang=zh-Hant)
+[範本20A.html](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-20a.html)
