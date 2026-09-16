@@ -7,18 +7,20 @@ feature: Landing Pages, Guided Landing Page Templates
 TQID: https://experienceleague.adobe.com/aHSN4jaUa-1FI8CRLUo1h-UmxjwWCB0ZDt3vbvoEVa0
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Troubleshooting
+source-git-commit: 39f87db3b9437e82aeec1a860592654acaf8e0ca
 workflow-type: tm+mt
-source-wordcount: 348
-ht-degree: 62%
-
+source-wordcount: '394'
+ht-degree: 55%
 ---
-
 # 引導式登陸頁面範本清單 {#guided-landing-page-template-list}
 
 瀏覽範例範本集合，以搭配[引導式登陸頁面編輯器](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)使用。 每個範本都能完全回應，並以Bootstrap架構為基礎。
@@ -27,15 +29,35 @@ ht-degree: 62%
 >
 >Marketo支援未設定為協助疑難排解HTML。 如果您需要修改這些範本的協助，請洽詢網頁開發人員。
 
-若要將範本匯入Marketo：
+## 如何將範本匯入Marketo Engage{#how-to-import}
 
-1. 按一下範本名稱即可檢視大圖。
-1. 下載所選的範本。
-1. 在Marketo中導覽至&#x200B;**[!UICONTROL Design Studio]**。
-1. 按一下左側樹狀結構中的&#x200B;**[!UICONTROL Landing Pages]**，然後選取&#x200B;**[!UICONTROL Templates]**。
+1. 按一下](#all-templates)底下所需[範本的名稱，以帶至其專屬頁面。
 
-1. 在功能表列中，按一下&#x200B;**[!UICONTROL Import Template]**。
-1. 選擇下載的檔案，輸入範本名稱，然後按一下&#x200B;**[!UICONTROL Import]** （請確定選取描述性名稱並指示編輯模式為&#x200B;**[!UICONTROL Guided]**）。
+1. 以滑鼠右鍵按一下「下載範本」並選取&#x200B;**另存連結……**。將檔案儲存到電腦上所需的位置。
+
+1. 在Marketo Engage中導覽至&#x200B;**[!UICONTROL Design Studio]**。
+
+1. 選取「**[!UICONTROL Landing Page Templates]**」。
+
+   ![](assets/guided-landing-page-template-list-3.png)
+
+1. 在&#x200B;**[!UICONTROL Landing page template actions]**&#x200B;下拉式清單中，選取&#x200B;**[!UICONTROL New landing page template]**。
+
+   ![](assets/guided-landing-page-template-list-4.png)
+
+1. 為範本命名。 在編輯模式下拉式清單中，選取&#x200B;**[!UICONTROL Guided]**。 選取&#x200B;**[!UICONTROL Import template]**&#x200B;核取方塊。
+
+   ![](assets/guided-landing-page-template-list-5.png)
+
+1. 選擇您下載的範本檔案，然後按一下&#x200B;**[!UICONTROL Create]** （選擇是否選取&#x200B;**以這個名稱取代任何現有的範本**）。
+
+   ![](assets/guided-landing-page-template-list-6.png)
+
+1. 您的範本現在已匯入並準備好進行編輯。
+
+## 所有可用範本 {#all-templates}
+
+瀏覽自由範本程式庫。
 
 <table>
 <tr>
