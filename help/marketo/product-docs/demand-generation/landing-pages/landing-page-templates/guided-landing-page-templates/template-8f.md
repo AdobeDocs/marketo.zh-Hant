@@ -11,14 +11,18 @@ product_v2:
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
     internal-label: Templates
-source-git-commit: 5c0e06eafd047db8a64255351e09d1533cc82d0a
+source-git-commit: 043d09315fec24d58897c362e9e28008df7d4aa9
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 4%
+source-wordcount: '104'
+ht-degree: 3%
 ---
 # 範本 8F {#template-8f}
 
-按一下滑鼠右鍵以[下載範本8F](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-8f.html)
+用滑鼠右鍵按一下[下載範本8F](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-8f.html)並選取&#x200B;**另存連結……**
+
+>[!NOTE]
+>
+>如需有關如何下載及匯入範本[的完整步驟，請參閱此處](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md#how-to-import){target="_blank"}。
 
 ![](assets/image2015-7-29-14-3a45-3a45.png)
 
@@ -32,6 +36,6 @@ ht-degree: 4%
 * 五個內文區段（選擇性）
 * 頁尾（選填）
 
-**在下方按一下滑鼠右鍵以下載此範本：**
+**在下方按一下滑鼠右鍵（並選取&#x200B;_另存連結……_） 若要下載此範本：**
 
 [範本8F.html](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-8f.html)

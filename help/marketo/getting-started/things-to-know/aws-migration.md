@@ -3,9 +3,9 @@ description: AWS移轉 — Marketo Engage檔案 — 產品檔案
 title: AWS移轉
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 577eb59d80224137833c30979dda2c183c04af70
+source-git-commit: f162e96cb2706942d51f10be6d85f700ee4b9d49
 workflow-type: tm+mt
-source-wordcount: '993'
+source-wordcount: '997'
 ht-degree: 5%
 ---
 # AWS移轉 {#aws-migration}
@@ -216,17 +216,17 @@ ht-degree: 5%
    <i>AB06</i></td>
    <td>下午5點PDT<br>
    下午<i>6 PDT</i></td>
-   <td>準時發行<br>
+   <td>已完成<br>
    <i>已延遲（日期待定）</i></td>
   </tr>
   <tr>
    <td>2026年9月17日</td>
    <td>AB07<br>
-   AB08</td>
+   <i>AB08</i></td>
    <td>下午5點PDT<br>
-   下午6點PDT</td>
+   下午<i>6 PDT</i></td>
    <td>準時發行<br>
-   依排程</td>
+   <i>已延遲（日期待定）</i></td>
   </tr>
   <tr>
    <td>2026年9月22日</td>
@@ -262,12 +262,6 @@ ht-degree: 5%
    依排程</td>
   </tr>
   <tr>
-   <td>2026年10月6日</td>
-   <td>AB18</td>
-   <td>下午5點PDT</td>
-   <td>準時發行</td>
-  </tr>
-  <tr>
    <td>2026年10月9日</td>
    <td>AB19<br>
    AB22</td>
@@ -275,6 +269,13 @@ ht-degree: 5%
    下午5點PDT</td>
    <td>準時發行<br>
    依排程</td>
+  </tr>
+   <tr>
+   <td>2026年10月30日<br> 
+   （已於10月6日重新排程）</td>
+   <td>AB18</td>
+   <td>下午5點PDT</td>
+   <td>準時發行</td>
   </tr>
   </body>
 </table>

@@ -1,9 +1,9 @@
 ---
 description: 瞭解組織規則如何定義治理標準，並在方案建立、行銷活動規劃和驗證期間為Marketo Engage的同事提供指導。
 title: 組織規則
-source-git-commit: 60ab04f79b2b24ca659676f5847d6f87b867e2f4
+source-git-commit: c1581e2b692dd50bf472756e4e6222ff75ae091c
 workflow-type: tm+mt
-source-wordcount: '828'
+source-wordcount: '829'
 ht-degree: 0%
 ---
 # 組織規則 {#organizational-rules}
@@ -19,7 +19,7 @@ ht-degree: 0%
 * 合規性要求（取消訂閱連結、UTM引數、排除篩選器）
 * 最佳實務（電子郵件設計、智慧清單設定）
 
-每個Marketo例項都包含預設的組織規則。 您可以自訂這些規則，以反映組織的特定治理需求。
+每個Marketo Engage環境都包含預設的組織規則。 您可以自訂這些規則，以反映組織的特定治理需求。
 
 ## 使用組織規則的位置 {#where-organizational-rules-are-used}
 
