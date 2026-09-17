@@ -24,9 +24,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 3a4c5d6f8aa299111ff8c09836246e9e0c7f93b1
+source-git-commit: ba06d7ce62da1ceb3f696527532975622e06fa70
 workflow-type: tm+mt
-source-wordcount: '546'
+source-wordcount: '524'
 ht-degree: 17%
 ---
 # 發行說明： 2026年8月 {#release-notes-aug-26}
@@ -61,19 +61,7 @@ ht-degree: 17%
    <td><strong>停用封存的行銷活動</strong>：封存資料夾現在會停用並取消排程該資料夾樹狀結構中的所有行銷活動，防止未預期地執行封存的智慧行銷活動。
 </td>
    <td>已發行</td>
-   <td><a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders#disable-campaigns-archive" target="_blank">在封存上停用行銷活動</a></td>
-  </tr>
-    <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>電子郵件Designer — 指令碼產生器</strong>：指令碼產生器是AI支援的助理，可幫助您更快地建立個人化指令碼。
-</td>
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
-  </tr>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders#disable-campaigns-archive" target="_blank">在封存上停用行銷活動</a></td>
   </tr>
     <tr>
    <td> </td>
@@ -92,12 +80,12 @@ ht-degree: 17%
 
 ## 公告 {#announcements}
 
-* **Marketo AI現在是Marketo Engage的同事了**： Marketo Engage的同事提供了代理程式技能，可自動執行耗時的行銷功能。 新名稱、相同功能，可供所有使用者使用。 [了解更多](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/coworker-for-marketo/overview){target="_blank"}
+* **Marketo AI現在是Marketo Engage的同事了**： Marketo Engage的同事提供了代理程式技能，可自動執行耗時的行銷功能。 新名稱、相同功能，可供所有使用者使用。 [了解更多](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/coworker-for-marketo/overview){target="_blank"}
 
 * **REST API &#39;access_token&#39;引數淘汰**：用於驗證Marketo REST API呼叫的`access_token`查詢引數已淘汰，並將於2026年8月31日後無法使用。 所有新的和現有的整合都應使用「Authorization」標頭來驗證 REST API 呼叫，方法[如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
 * **REST API行銷活動執行ID**：在某些情況下，活動的行銷活動執行ID值有時會在兩對引號（例如`"campaignRunId": ""102938""`）之間，以不正確的格式傳回。<br/>從8月發行版本開始，此值一律會以正確的數字格式(`"campaignRunId": 102938`)傳回
 
-* **取得潛在客戶活動與取得潛在客戶變更的靜態清單大小限制**：自2026年9月30日起，如果目標清單包含10,000個或更多潛在客戶，呼叫Get Lead活動或包含`listId`引數的Get Lead Changes端點會失敗，並產生1003錯誤碼（表示目標靜態清單有太多記錄）。 如需詳細資訊，請參閱[移轉指南](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}。
+* **取得潛在客戶活動與取得潛在客戶變更的靜態清單大小限制**：自2026年9月30日起，如果目標清單包含10,000個或更多潛在客戶，呼叫Get Lead活動或包含`listId`引數的Get Lead Changes端點會失敗，並產生1003錯誤碼（表示目標靜態清單有太多記錄）。 如需詳細資訊，請參閱[移轉指南](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}。
 
 * **REST API合併潛在客戶限制**：自2026年7月31日起，在合併潛在客戶API呼叫的leadIds引數中包含超過25個ID的呼叫會產生1080錯誤碼，並略過該呼叫。 需要將超過25筆記錄合併成一筆的工作應分割成多個工作，以確保這些呼叫成功。

@@ -25,9 +25,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: df650f93bedc7202ad82f8f725616cd25e4a99ef
+source-git-commit: ba06d7ce62da1ceb3f696527532975622e06fa70
 workflow-type: tm+mt
-source-wordcount: '521'
+source-wordcount: '552'
 ht-degree: 18%
 ---
 # 發行說明： 2026年9月 {#release-notes-sep-26}
@@ -83,6 +83,16 @@ ht-degree: 18%
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
   </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>電子郵件Designer — 表格</strong>：您現在可以將內容型別「表格」拖放到電子郵件中，並可設定欄和列數。</td>
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
+  </tr>
   </tbody>
 </table>
 <br/>
@@ -91,10 +101,10 @@ ht-degree: 18%
 
 * **自訂活動屬性的API名稱限制**：透過API或UI建立的自訂活動屬性的API名稱現在只能包含英數字元和底線，而且必須以英數字元開頭。
 
-* **取得潛在客戶活動與取得潛在客戶變更的靜態清單大小限制**：自2026年9月30日起，如果目標清單包含10,000個或更多潛在客戶，呼叫Get Lead活動或包含`listId`引數的Get Lead Changes端點會失敗，並產生1003錯誤碼（表示目標靜態清單有太多記錄）。 如需詳細資訊，請參閱[移轉指南](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}。
+* **取得潛在客戶活動與取得潛在客戶變更的靜態清單大小限制**：自2026年9月30日起，如果目標清單包含10,000個或更多潛在客戶，呼叫Get Lead活動或包含`listId`引數的Get Lead Changes端點會失敗，並產生1003錯誤碼（表示目標靜態清單有太多記錄）。 如需詳細資訊，請參閱[移轉指南](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}。
 
 * **REST API &#39;access_token&#39;引數淘汰**：用於驗證Marketo REST API呼叫的`access_token`查詢引數自2026年8月31日起已淘汰。 所有新的和現有的整合都應使用「Authorization」標頭來驗證 REST API 呼叫，方法[如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
 * **REST API行銷活動執行ID**：在某些情況下，活動的行銷活動執行ID值有時會在兩對引號（例如`"campaignRunId": ""102938""`）之間以不正確的格式傳回。<br/>自8月發行版本起，此值一律會以正確的數字格式(`"campaignRunId": 102938`)傳回。
 
-* **棄用從網頁抓取影像**：為了符合現代安全性和隱私權的最佳實務，從10月發行版本起，[從網頁抓取影像](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"}功能將被棄用。
+* **棄用從網頁抓取影像**：為了符合現代安全性和隱私權的最佳實務，從10月發行版本起，[從網頁抓取影像](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"}功能將被棄用。
