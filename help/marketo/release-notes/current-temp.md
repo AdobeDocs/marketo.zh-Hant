@@ -25,9 +25,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: df650f93bedc7202ad82f8f725616cd25e4a99ef
+source-git-commit: ba06d7ce62da1ceb3f696527532975622e06fa70
 workflow-type: tm+mt
-source-wordcount: '521'
+source-wordcount: '552'
 ht-degree: 18%
 ---
 # 發行說明： 2026年9月 {#release-notes-sep-26}
@@ -80,6 +80,16 @@ ht-degree: 18%
   </tr>
   <tr>
    <td><strong>自助流程步驟 — 回呼逾時增加</strong>：自助流程步驟的回呼逾時期間正從1小時增加到4小時。 您這端不需要執行任何動作。</td>
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>電子郵件Designer — 表格</strong>：您現在可以將內容型別「表格」拖放到電子郵件中，並可設定欄和列數。</td>
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
   </tr>
