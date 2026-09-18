@@ -3,9 +3,9 @@ description: AWS移轉 — Marketo Engage檔案 — 產品檔案
 title: AWS移轉
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: b8cddedba80a44080443f17587b350954a4b2ec8
+source-git-commit: 58db91f621e88382bb0c44524e59a43abfaa49d3
 workflow-type: tm+mt
-source-wordcount: '1021'
+source-wordcount: '1020'
 ht-degree: 5%
 ---
 # AWS移轉 {#aws-migration}
@@ -28,7 +28,7 @@ ht-degree: 5%
 
 * **檢閱並更新IP允許清單**，以取得登入、API存取、電子郵件傳送、網頁追蹤和整合。
 
-* **新增IP位址**&#x200B;並保留您目前的IP不變。 檢視要透過下方[&#128279;](#ip-addresses)的表格新增的IP位址。
+* **新增IP位址**&#x200B;並保留您目前的IP不變。 檢視要透過下方](#ip-addresses)的[表格新增的IP位址。
 
 ## 預期的服務影響 {#impacts}
 
@@ -41,7 +41,7 @@ ht-degree: 5%
 
 >[!IMPORTANT]
 >
->如果您使用[外部表單](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}，並且想要避免在移轉期間無法使用Marketo Engage時收集而遺失表單提交資料，請事先聯絡[Adobe支援](https://experienceleague.adobe.com/zh-hant/support){target="_blank"} **至少兩個工作日**，並提供表單ID和您訂閱的Munchkin ID。
+>如果您使用[外部表單](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}，並且想要避免在移轉期間無法使用Marketo Engage時收集而遺失表單提交資料，請事先聯絡[Adobe支援](https://experienceleague.adobe.com/en/support){target="_blank"} **至少兩個工作日**，並提供表單ID和您訂閱的Munchkin ID。
 
 ## 識別您的資料中心/Pod {#identify}
 
@@ -225,7 +225,7 @@ ht-degree: 5%
    <i>AB08</i></td>
    <td>下午5點PDT<br>
    下午<i>6 PDT</i></td>
-   <td>準時發行<br>
+   <td>已完成<br>
    <i>已延遲（日期待定）</i></td>
   </tr>
   <tr>
@@ -324,9 +324,9 @@ ht-degree: 5%
 
 如需最新資訊，請將此頁面加入書籤。
 
-若要取得狀態更新，您可以[訂閱以在移轉開始和完成時收到這些更新](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"}。 您也可以在移轉期間造訪[status.adobe.com](https://status.adobe.com/zh-tw/){target="_blank"}。
+若要取得狀態更新，您可以[訂閱以在移轉開始和完成時收到這些更新](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"}。 您也可以在移轉期間造訪[status.adobe.com](https://status.adobe.com/){target="_blank"}。
 
-如果您有任何問題，請透過Admin Console的支援入口網站或[Experience League](https://experienceleague.adobe.com/zh-hant/support){target="_blank"}聯絡Adobe支援。
+如果您有任何問題，請透過Admin Console的支援入口網站或[Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}聯絡Adobe支援。
 
 ## 常見問題集 {#faq}
 
