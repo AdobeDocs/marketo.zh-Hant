@@ -7,17 +7,18 @@ feature: Release Information
 TQID: https://experienceleague.adobe.com/qWeyxsBXYxKLSJvq6SfpXsBsocY3eLGROIO8EcZlkMw
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: b40977d6745fdf31a48c6e08a7b070cd164408c8
+    internal-label: Personalization
+source-git-commit: edeb795f12082fab9c72b0ff4305f3db90aa4c46
 workflow-type: tm+mt
-source-wordcount: 166
-ht-degree: 75%
-
+source-wordcount: '180'
+ht-degree: 69%
 ---
-
 # 發行排程 {#release-schedule}
 
 **發行**：每次發行的月份/年份。 發行說明一旦可用，下方表格中便會加入連結。
@@ -60,19 +61,19 @@ _發行日期/功能可能會有所變更_
    <td>完成</td>
   </tr>
   <tr>
-  <td><a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/release-notes/previous-releases/2026/release-notes-july-26">2026年7月</a></td>
+  <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/previous-releases/2026/release-notes-july-26">2026年7月</a></td>
    <td>2026年7月10日</td>
    <td>完成</td>
   </tr>
   <tr>
-  <td><a href="/help/marketo/release-notes/current.md">2026年8月</a></td>
+  <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/previous-releases/2026/release-notes-aug-26">2026年8月</a></td>
    <td>2026年8月14日</td>
-   <td>進行中</td>
+   <td>完成</td>
   </tr>
   <tr>
-  <td>2026年9月</td>
+  <td><a href="/help/marketo/release-notes/current.md">2026年9月</a></td>
    <td>2026年9月25日</td>
-   <td>準時發行</td>
+   <td>進行中</td>
   </tr>
   <tr>
   <td>2026年10月</td>
