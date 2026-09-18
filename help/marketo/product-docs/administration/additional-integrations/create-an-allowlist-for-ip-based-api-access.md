@@ -7,18 +7,20 @@ feature: Administration
 TQID: https://experienceleague.adobe.com/MIuDfjHpqBC2Z-hMEgtk0BvK-W2DEL25M-j6GNQK9zI
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: aa0494716e0deb2a2d04be5b2e6fdd1c13483f45
 workflow-type: tm+mt
-source-wordcount: 161
-ht-degree: 15%
-
+source-wordcount: '125'
+ht-degree: 20%
 ---
-
 # 建立 IP 型 API 存取的允許清單 {#create-an-allowlist-for-ip-based-api-access}
 
 有時候，您只想將API存取權授與特定IP位址或某個位址範圍。 若要這麼做，請先啟用限制，然後指定允許使用API的IP位址。
@@ -26,10 +28,6 @@ ht-degree: 15%
 >[!NOTE]
 >
 >**需要管理員權限**
-
->[!CAUTION]
->
->啟用此功能會使您目前無法存取[Marketo MCP伺服器](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/mcp-server){target="_blank"}。 預計此問題將在即將發行的版本中解決。
 
 1. 前往「**[!UICONTROL Admin]**」區域。
 
