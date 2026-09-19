@@ -2,13 +2,12 @@
 description: 瞭解如何建立、編輯、合併重複專案及刪除Marketo Sales Connect範本類別，讓您的電子郵件範本維持井然有序，並且易於找到。
 title: 管理範本類別
 feature: Marketo Sales Connect
-source-git-commit: e085e6b7554f8532a1c73f8c386325aa7f4e1ab6
+exl-id: 60836705-1e9a-422b-86c5-e8be1d58380a
+source-git-commit: 2b48226095a13f2e8323db4b13217f733cc7ea7f
 workflow-type: tm+mt
 source-wordcount: '230'
 ht-degree: 11%
-
 ---
-
 # 管理範本類別 {#manage-template-categories}
 
 ## 建立新類別 {#create-a-new-category}

@@ -4,7 +4,7 @@ user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 60ab04f79b2b24ca659676f5847d6f87b867e2f4
+source-git-commit: fc1bcbdaa543e39127945852a6f89e69f2966c21
 workflow-type: tm+mt
 source-wordcount: '8932'
 ht-degree: 96%
@@ -487,12 +487,12 @@ ht-degree: 96%
   + Marketo Engage的同事 {#coworker-for-marketo}
     + [概觀](product-docs/coworker-for-marketo/overview.md)
     + [設定與設定](product-docs/coworker-for-marketo/settings-setup.md)
-    + {hide-from-toc}[組織規則](product-docs/coworker-for-marketo/organizational-rules.md)
+    + [組織規則](product-docs/coworker-for-marketo/organizational-rules.md)
     + [Marketo Engage同事資料資訊表](product-docs/coworker-for-marketo/data-information.md)
     + 技能 {#skills}
       + [產品知識](product-docs/coworker-for-marketo/skills/product-knowledge.md)
       + {hide-from-toc}[表面分析](product-docs/coworker-for-marketo/skills/surface-insights.md)
-      + {hide-from-toc}[建置計畫](product-docs/coworker-for-marketo/skills/build-programs.md)
+      + [建置計畫](product-docs/coworker-for-marketo/skills/build-programs.md)
       + {hide-from-toc}[復製程式](product-docs/coworker-for-marketo/skills/clone-program.md)
       + [調查銷售機會](product-docs/coworker-for-marketo/skills/investigate-leads.md)
       + [匯入銷售機會](product-docs/coworker-for-marketo/skills/import-leads.md)

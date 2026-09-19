@@ -1,14 +1,16 @@
 ---
 description: 使用Co-worker for Marketo Engage ，調整現有範本以建置Marketo程式。 讓智慧型行銷活動、排程和資產預留位置準備好檢閱和調整。
 title: 建置計畫
-source-git-commit: 0949e5193333d56943a5c9a52c1715ecbcb274f3
+source-git-commit: fc1bcbdaa543e39127945852a6f89e69f2966c21
 workflow-type: tm+mt
-source-wordcount: '769'
+source-wordcount: '804'
 ht-degree: 0%
 ---
 # 建置計畫 {#build-programs}
 
 以淺顯的語言描述行銷活動，而Marketo Engage的同事會改寫現有的方案範本以符合您的需求、自動更新電子郵件內容，並透過複製您的範本結構來建立其他資產。
+
+您組織的[組織規則](/help/marketo/product-docs/coworker-for-marketo/organizational-rules.md){target="_blank"}將指導Marketo Engage的同事如何在建立期間建構並驗證方案。 這些規則會確保新程式符合您的命名慣例、必要權杖、資料夾結構和法規遵循標準。
 
 >[!PREREQUISITES]
 >
