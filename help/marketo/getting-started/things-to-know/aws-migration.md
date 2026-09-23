@@ -41,7 +41,7 @@ ht-degree: 5%
 
 >[!IMPORTANT]
 >
->如果您使用[外部表單](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}，並且想要避免在移轉期間無法使用Marketo Engage時收集而遺失表單提交資料，請事先聯絡[Adobe支援](https://experienceleague.adobe.com/en/support){target="_blank"} **至少兩個工作日**，並提供表單ID和您訂閱的Munchkin ID。
+>如果您使用[外部表單](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}，並且想要避免在移轉期間無法使用Marketo Engage時收集而遺失表單提交資料，請事先聯絡[Adobe支援](https://experienceleague.adobe.com/zh-hant/support){target="_blank"} **至少兩個工作日**，並提供表單ID和您訂閱的Munchkin ID。
 
 ## 識別您的資料中心/Pod {#identify}
 
@@ -318,9 +318,9 @@ ht-degree: 5%
 
 如需最新資訊，請將此頁面加入書籤。
 
-若要取得狀態更新，您可以[訂閱以在移轉開始和完成時收到這些更新](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"}。 您也可以在移轉期間造訪[status.adobe.com](https://status.adobe.com/){target="_blank"}。
+若要取得狀態更新，您可以[訂閱以在移轉開始和完成時收到這些更新](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"}。 您也可以在移轉期間造訪[status.adobe.com](https://status.adobe.com/zh-tw/){target="_blank"}。
 
-如果您有任何問題，請透過Admin Console的支援入口網站或[Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}聯絡Adobe支援。
+如果您有任何問題，請透過Admin Console的支援入口網站或[Experience League](https://experienceleague.adobe.com/zh-hant/support){target="_blank"}聯絡Adobe支援。
 
 ## 常見問題集 {#faq}
 
