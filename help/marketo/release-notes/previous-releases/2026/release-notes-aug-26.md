@@ -2,10 +2,10 @@
 description: 發行說明 — 2026年7月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2026年7月
 feature: Release Information
-source-git-commit: edeb795f12082fab9c72b0ff4305f3db90aa4c46
+source-git-commit: a1b00f94acf0fe9cd354a48bf40f17c3ad9b8ae6
 workflow-type: tm+mt
-source-wordcount: '526'
-ht-degree: 15%
+source-wordcount: '578'
+ht-degree: 13%
 ---
 # 發行說明： 2026年8月 {#release-notes-aug-26}
 
@@ -36,6 +36,16 @@ ht-degree: 15%
    <td> </td>
   </tr>
   <tr>
+   <td><strong>Marketo Engage MCP伺服器</strong>： Marketo Engage MCP伺服器可做為您AI助理與Marketo Engage之間的橋樑。 它會公開超過100項操作，涵蓋表單、方案、智慧行銷活動、人員/銷售機會、電子郵件、代碼片段、清單和資料夾。</td>
+   <td>現已正式推出</td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=zh-Hant" target="_blank">Marketo MCP伺服器</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
    <td><strong>停用封存的行銷活動</strong>：封存資料夾現在會停用並取消排程該資料夾樹狀結構中的所有行銷活動，防止未預期地執行封存的智慧行銷活動。
 </td>
    <td>已發行</td>
@@ -50,7 +60,6 @@ ht-degree: 15%
    <td><strong>電子郵件Designer — 產生內容內容功能表</strong>：現在可以從內容功能表（黑色列）存取電子郵件Designer的「產生內容」功能。 例如，當您選取文字內容時，「產生內容」圖示會出現在內容功能表上，可讓您執行快速動作。</td>
    <td><i>即將推出</i></td>
    <td><i>即將推出</i></td>
-  </tr>
   </tr>
   </tbody>
 </table>
