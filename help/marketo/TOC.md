@@ -4,9 +4,9 @@ user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: fc1bcbdaa543e39127945852a6f89e69f2966c21
+source-git-commit: 15308a78867253ae6c54faa8e77c2cf7eb68b9a5
 workflow-type: tm+mt
-source-wordcount: '8932'
+source-wordcount: '8936'
 ht-degree: 96%
 ---
 
@@ -1929,6 +1929,7 @@ ht-degree: 96%
       + [發行說明： 2026年3月](release-notes/previous-releases/2026/release-notes-mar-26.md)
       + [發行說明： 2026年5月](release-notes/previous-releases/2026/release-notes-may-26.md)
       + [發行說明： 2026年7月](release-notes/previous-releases/2026/release-notes-july-26.md)
+      + [發行說明： 2026年8月](release-notes/previous-releases/2026/release-notes-aug-26.md)
     + 2025 {#2025}
       + [發行說明：2025 年 1 月](release-notes/previous-releases/2025/release-notes-jan-25.md)
       + [發行說明：2025 年 3 月](release-notes/previous-releases/2025/release-notes-mar-25.md)

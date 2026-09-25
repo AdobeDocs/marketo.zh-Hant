@@ -2,9 +2,9 @@
 description: 發行說明 — 2026年7月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2026年7月
 feature: Release Information
-source-git-commit: a1b00f94acf0fe9cd354a48bf40f17c3ad9b8ae6
+source-git-commit: 15308a78867253ae6c54faa8e77c2cf7eb68b9a5
 workflow-type: tm+mt
-source-wordcount: '578'
+source-wordcount: '577'
 ht-degree: 13%
 ---
 # 發行說明： 2026年8月 {#release-notes-aug-26}
@@ -37,7 +37,7 @@ ht-degree: 13%
   </tr>
   <tr>
    <td><strong>Marketo Engage MCP伺服器</strong>： Marketo Engage MCP伺服器可做為您AI助理與Marketo Engage之間的橋樑。 它會公開超過100項操作，涵蓋表單、方案、智慧行銷活動、人員/銷售機會、電子郵件、代碼片段、清單和資料夾。</td>
-   <td>現已正式推出</td>
+   <td>一般可用</td>
    <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=zh-Hant" target="_blank">Marketo MCP伺服器</a></td>
   </tr>
   <tr>
