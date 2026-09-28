@@ -4,7 +4,7 @@ user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 15308a78867253ae6c54faa8e77c2cf7eb68b9a5
+source-git-commit: b6799a351d9256e96a6db644c840f061a88198b4
 workflow-type: tm+mt
 source-wordcount: '8936'
 ht-degree: 96%
@@ -30,7 +30,7 @@ ht-degree: 96%
   + 應知事項 {#things-to-know}
     + [Marketo Engage字彙表](getting-started/things-to-know/marketo-engage-glossary.md)
     + [圖示字彙表](getting-started/things-to-know/icon-glossary.md)
-    + [傳統圖示字彙表](getting-started/things-to-know/classic-icon-glossary.md)
+    + {hide-from-toc}[傳統圖示字彙表](getting-started/things-to-know/classic-icon-glossary.md)
     + [說明中心](getting-started/things-to-know/help-center.md)
     + [訂閱系統狀態通知](getting-started/things-to-know/system-status-notifications.md)
     + [AWS移轉](getting-started/things-to-know/aws-migration.md)
@@ -497,7 +497,7 @@ ht-degree: 96%
       + [調查銷售機會](product-docs/coworker-for-marketo/skills/investigate-leads.md)
       + [匯入銷售機會](product-docs/coworker-for-marketo/skills/import-leads.md)
       + [驗證程式](product-docs/coworker-for-marketo/skills/validate-programs.md)
-    + [MARKETO MCP](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/mcp-server)
+    + [MARKETO MCP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + CRM 同步 {#crm-sync}
     + Microsoft Dynamics 同步 {#microsoft-dynamics}
       + [了解 Microsoft Dynamics 同步](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
