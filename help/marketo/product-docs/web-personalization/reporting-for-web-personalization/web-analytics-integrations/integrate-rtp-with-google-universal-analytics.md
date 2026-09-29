@@ -48,7 +48,7 @@ ht-degree: 4%
 >* RTP維度是在[!DNL Google Universal Analytics]中建立
 >* 已在Google Tag Manager中正確安裝[RTP標籤](https://docs.marketo.com/display/public/DOCS/Implementing+RTP+using+Google+Tag+Manager)
 >* RTP的帳戶設定已啟用[!DNL Google Universal Analytics]整合
->* 已在Google Tag Manager](https://support.google.com/tagmanager/answer/6107124?hl=en)中正確設定[[!DNL Google Universal Analytics] 標籤
+>* 已在Google Tag Manager[&#128279;](https://support.google.com/tagmanager/answer/6107124?hl=en)中正確設定[!DNL Google Universal Analytics] 標籤
 >* [Google Tag Manager標籤已正確安裝您的網站](https://developers.google.com/tag-manager/quickstart)
 
 ## 在GUA中設定自訂維度 {#set-up-custom-dimensions-in-gua}
