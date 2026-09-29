@@ -30,7 +30,7 @@ Dynamic Chat可讓您運用直覺式介面，鎖定造訪您網站的訪客和�
 
 >[!TIP]
 >
->請造訪[此頁面](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html){target="_blank"}，以檢視 Dynamic Chat 的教學課程影片。
+>請造訪[此頁面](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html?lang=zh-Hant){target="_blank"}，以檢視 Dynamic Chat 的教學課程影片。
 
 ## 整合 {#integrations}
 
