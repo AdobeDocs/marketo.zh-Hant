@@ -6,18 +6,18 @@ exl-id: bc700abd-cb89-475a-bcaf-3eac46c3ffab
 TQID: https://experienceleague.adobe.com/JzvT5UwsTTmvs-QCBwiDr-C9hipDM-VMLGioDLQhJb0
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+source-git-commit: dc8457cac3da6d128b39590ff6d54958f1622ee8
 workflow-type: tm+mt
-source-wordcount: 245
+source-wordcount: '231'
 ht-degree: 100%
-
 ---
-
 # Marketo Engage 圖示字彙表 {#icon-glossary}
 
-以下為目前 Adobe Marketo Engage 介面所使用的圖示。 若您需要參考 Marketo Classic 圖示，請參閱[這裡](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md)。
+以下為目前 Adobe Marketo Engage 介面所使用的圖示。
 
 ## 一般圖示 {#general-icons}
 
@@ -146,7 +146,7 @@ ht-degree: 100%
   <tr>
    <td><img src="assets/classic-revenue-cycle-model-unapproved.png"></td>
    <td><img src="assets/model.png"></td>
-   <td>模式</td>
+   <td>模型</td>
   </tr>
   <tr>
    <td><img src="assets/classic-poll.png"></td>
@@ -300,7 +300,7 @@ ht-degree: 100%
   <tr>
    <td><img src="assets/classic-trigger.png"></td>
    <td><img src="assets/active.png"></td>
-   <td>作用中</td>
+   <td>使用中</td>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-is-requested.png"></td>
@@ -401,7 +401,7 @@ ht-degree: 100%
   <tr>
    <td><strong>不適用</strong></td>
    <td><img src="assets/inapp-scheduled.png"></td>
-   <td>已排程</td>
+   <td>已安排</td>
   </tr>
   <tr>
    <td><img src="assets/classic-in-app-program-stopped.png"></td>
