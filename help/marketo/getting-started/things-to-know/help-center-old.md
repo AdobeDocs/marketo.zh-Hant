@@ -3,14 +3,12 @@ description: 說明中心 - Marketo Engage 文件 - 產品文件
 title: 說明中心
 feature: Getting Started
 hide: true
-hidefromtoc: true
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+hidefromtoc: yes
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 85%
-
 ---
-
 # 說明中心 {#help-center}
 
 Adobe Marketo Engage 內的說明中心是取得協助的集中位置。 除了能向外連結至各種資源 (例如[產品文件](/help/marketo/home.md){target="_blank"}、[版本資訊](/help/marketo/release-notes/current.md){target="_blank"}、[Marketing Nation 社群](https://nation.marketo.com/){target="_blank"}) 之外，還可以存取按照經驗級別分類的實用產品內逐步說明。

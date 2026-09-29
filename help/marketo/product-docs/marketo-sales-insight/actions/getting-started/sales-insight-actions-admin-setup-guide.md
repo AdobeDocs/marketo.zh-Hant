@@ -6,16 +6,17 @@ feature: Sales Insight Actions
 TQID: https://experienceleague.adobe.com/OSNakPU4zEu-ORacv80glsvfhIeC-XfwtAcvuE3Iacw
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 627
+source-wordcount: '627'
 ht-degree: 4%
-
 ---
-
 # 銷售洞察動作管理員設定指南 {#sales-insight-actions-admin-setup-guide}
 
 >[!NOTE]
@@ -144,11 +145,11 @@ Sales Insight Actions的資料統一欄位同步可讓系統從Marketo Engage資
 
    ![](assets/msi-actions-admin-guide-13.png)
 
-Marketo和[!DNL Salesforce]中存在的個人記錄將同步至您的Marketo銷售應用程式帳戶。
+   Marketo和[!DNL Salesforce]中存在的個人記錄將同步至您的Marketo銷售應用程式帳戶。
 
->[!NOTE]
->
->若要進一步瞭解人員與活動資料如何在Sales Insight Actions、Marketo和Salesforce之間同步，[請按一下這裡](/help/marketo/product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md){target="_blank"}。
+   >[!NOTE]
+   >
+   >若要進一步瞭解人員與活動資料如何在Sales Insight Actions、Marketo和Salesforce之間同步，[請按一下這裡](/help/marketo/product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md){target="_blank"}。
 
 ## 邀請個別使用者加入MSI動作 {#invite-individual-users-to-msi-actions}
 

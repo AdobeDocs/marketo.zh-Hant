@@ -7,13 +7,12 @@ feature: Sales Insight Actions
 TQID: https://experienceleague.adobe.com/AFuURPjAaLkL4MB0qILuGUZZJBuFLv-gfKOmVcQriMY
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 180
+source-wordcount: '180'
 ht-degree: 5%
-
 ---
-
 # 設定您的 Marketo 連線 {#set-up-your-marketo-connection}
 
 >[!NOTE]

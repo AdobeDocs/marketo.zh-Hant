@@ -7,15 +7,15 @@ feature: Smart Lists
 TQID: https://experienceleague.adobe.com/wB-xUIHId0Hio0JwB1-yQK-nv52I3oH6NbvZX2FTZ6s
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 162
+source-wordcount: '162'
 ht-degree: 9%
-
 ---
-
 # 將人員新增至封鎖清單 {#add-person-to-blocklist}
 
 將人員新增至您的封鎖清單會防止他們收到您的信件。

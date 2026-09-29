@@ -7,18 +7,20 @@ feature: Forms
 TQID: https://experienceleague.adobe.com/yaIgInfZtfAz2Zie2zRar9JI-KdlCRAxsk9BfYNQKy8
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 4cdacd070daedd0ecc8f619c994f343b14c00adb
+    internal-label: Administration
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 207
+source-wordcount: '207'
 ht-degree: 7%
-
 ---
-
 # 在您的網站上嵌入表單 {#embed-a-form-on-your-website}
 
 存取表單的內嵌程式碼，以便在您自己的網站上託管。
@@ -53,4 +55,4 @@ ht-degree: 7%
 
    >[!TIP]
    >
-   >如果您的開發人員想要自訂外觀或存取進階API函式，請向他們顯示[Forms 2.0開發人員頁面](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)。
+   >如果您的開發人員想要自訂外觀或存取進階API函式，請向他們顯示[Forms 2.0開發人員頁面](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)。

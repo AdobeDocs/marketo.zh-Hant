@@ -7,43 +7,45 @@ feature: Email Programs
 TQID: https://experienceleague.adobe.com/90WK5ODp6PnSFAyWFvEc4DFR1oiRn97gsqlP1lXj7-M
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 501
+source-wordcount: '501'
 ht-degree: 95%
-
 ---
-
 # 電子郵件績效報告 {#email-performance-report}
 
 若要查看您的電子郵件在傳遞、開啟、點擊等統計資料方面的表現，請建立電子郵件績效報告。
 
 1. [在方案中建立報告](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)並選取&#x200B;**[!UICONTROL Email Performance]** [報告類型](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)。
 1. [變更報告時間範圍](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)，然後按一下 **[!UICONTROL Report]** 索引標籤。
-1. 您到了！ 現在探索報告，查看電子郵件的執行方式。
+1. 您到了！ 現在探索報告，查看電子郵件的成效。
 
-   >[!NOTE]
-   >
-   >「寄件日期」篩選器的根據為傳送電子郵件的第一個日期。
+>[!NOTE]
+>
+>「寄件日期」篩選器是以電子郵件首次傳送的日期為依據。
 
-   ![](assets/email-performance-report.png)
+![](assets/email-performance-report.png)
 
-   >[!TIP]
-   >
-   >按一下電子郵件的名稱，即可在電子郵件預覽器中將其開啟。
+>[!TIP]
+>
+>按一下電子郵件的名稱，即可在電子郵件預覽器中將其開啟。
 
-   >[!NOTE]
-   >
-   >電子郵件績效報告包含適用於所有人員的活動，包括傳送電子郵件後即已刪除的活動。 有時候，您可能只想查看活躍人員的活動。 在這種情況下，您需要從報告中篩選已刪除的人員。 使用 **[!UICONTROL Smart List]** 索引標籤來為報告[建立智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)。 如果您並未篩選任何特定欄位，則請將電子郵件地址篩選器設為：**[!UICONTROL is not empty]**。
+>[!NOTE]
+>
+>電子郵件績效報告包含適用於所有人員的活動，包括傳送電子郵件後即已刪除的活動。 有時候，您可能只想查看活躍人員的活動。 在這種情況下，您需要從報告中篩選已刪除的人員。 使用 **[!UICONTROL Smart List]** 索引標籤來為報告[建立智慧清單](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)。 如果您並未篩選任何特定欄位，則請將電子郵件地址篩選器設為：**[!UICONTROL is not empty]**。
 
-   電子郵件績效報告的[選取報告欄](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)，包含：
+電子郵件績效報告的[選取報告欄](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)，包含：
 
-   <table><thead>
+<table><thead>
 
 <tr>
     <th>欄</th>
@@ -78,7 +80,7 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->在電子郵件中按一下取消訂閱連結和電子郵件地址，這些連結即不會計入報告中的「已點按連結」。
+>在電子郵件中按一下取消訂閱連結和電子郵件地址，不會計入報告中的「已點按連結」。
 
 一般而言，我們會設法運用常識來記錄這些統計資料。 例如，如果有人點按了電子郵件中的連結，他們顯然已經先開啟了電子郵件。 我們會遵循電子郵件績效報告的下列特定規則：
 
@@ -86,7 +88,7 @@ ht-degree: 95%
 
 * **規則 2**：如果電子郵件記錄顯示 _[!UICONTROL Opened]_，則計為_&#x200B;已傳遞&#x200B;_。
 
-* **規則 3**：如果電子郵件記錄顯示 _[!UICONTROL Clicked Email]_&#x200B;或_[!UICONTROL Unsubscribed]_，則計為&#x200B;_已傳遞_&#x200B;及&#x200B;_已開啟_。
+* **規則 3**：如果電子郵件記錄顯示 _[!UICONTROL Clicked Email]_或_[!UICONTROL Unsubscribed]_，則計為&#x200B;_已傳遞_&#x200B;及&#x200B;_已開啟_。
 
 * **規則 4**：如果電子郵件為 _[!UICONTROL Opened]_，則會忽略退回。 如果電子郵件還未開啟，_&#x200B;已硬退回&#x200B;_會優先於_&#x200B;已軟退回&#x200B;_和_&#x200B;已傳遞&#x200B;_。
 

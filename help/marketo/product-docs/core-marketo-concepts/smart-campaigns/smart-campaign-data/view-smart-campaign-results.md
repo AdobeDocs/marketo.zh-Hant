@@ -7,17 +7,18 @@ feature: Smart Campaigns
 TQID: https://experienceleague.adobe.com/5yRRPiKZAZ1ip1BsoOi2JG9jzQfRKW1T8vCKix7wKnw
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
 subfeature_v2:
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Smart Lists
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 118
+source-wordcount: '118'
 ht-degree: 6%
-
 ---
-
 # 檢視智慧行銷活動結果 {#view-smart-campaign-results}
 
 瞭解如何檢視Smart Campaign的結果。

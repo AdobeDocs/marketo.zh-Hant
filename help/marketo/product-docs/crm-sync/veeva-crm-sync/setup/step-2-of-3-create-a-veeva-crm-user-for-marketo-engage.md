@@ -6,16 +6,17 @@ feature: Veeva CRM
 TQID: https://experienceleague.adobe.com/xBrDKmj-kFlbwaisJkDElcAI8GFlNp7EjWyISrvVJ3g
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+    internal-label: Accessibility
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 546
+source-wordcount: '546'
 ht-degree: 7%
-
 ---
-
 # 步驟2之3：建立Marketo Engage的[!DNL Veeva] CRM使用者 {#step-2-of-3-create-a-veeva-crm-user-for-marketo-engage}
 
 >[!NOTE]
@@ -148,13 +149,13 @@ ht-degree: 7%
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-18.png)
 
-找出不必要的欄位，確定[!UICONTROL Read Access]和[!UICONTROL Edit Access]已&#x200B;**取消勾選**。 完成後請按一下 **[!UICONTROL Save]**。
+   找出不必要的欄位，確定[!UICONTROL Read Access]和[!UICONTROL Edit Access]已&#x200B;**取消勾選**。 完成後請按一下 **[!UICONTROL Save]**。
 
-![](assets/step-2-of-3-create-a-veeva-crm-user-19.png)
+   ![](assets/step-2-of-3-create-a-veeva-crm-user-19.png)
 
->[!NOTE]
->
->僅編輯自訂欄位的協助工具。
+   >[!NOTE]
+   >
+   >僅編輯自訂欄位的協助工具。
 
 1. 在您停用完所有不必要的欄位後，請檢查[!UICONTROL Read Access]和[!UICONTROL Edit Access]下列物件欄位。 完成後請按一下 **[!UICONTROL Save]**。
 

@@ -7,17 +7,18 @@ feature: Custom Objects
 TQID: https://experienceleague.adobe.com/OqNwCGa7EmcpU8PziRWd7rHBevtH7OhUbdiT41FhbDQ
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 120
+source-wordcount: '120'
 ht-degree: 12%
-
 ---
-
 # 編輯和刪除 Marketo 自訂物件欄位 {#edit-and-delete-marketo-custom-object-fields}
 
 ## 編輯欄位 {#edit-a-field}

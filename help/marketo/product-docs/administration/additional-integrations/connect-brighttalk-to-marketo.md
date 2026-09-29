@@ -1,24 +1,26 @@
 ---
 unique-page-id: 15695874
-description: 使用僅限API的使用者認證，透過LaunchPoint將您的 [!DNL BrightTALK] 頻道連線至Marketo。
-title: 連線 [!DNL BrightTALK] 至Marketo
+description: 使用僅限API的使用者認證，透過LaunchPoint將您的[!DNL BrightTALK]頻道連線至Marketo。
+title: 將[!DNL BrightTALK]連線至Marketo
 exl-id: 5c6a12ec-301b-4dec-975c-24ec759ebb37
 feature: Administration, Integrations
 TQID: https://experienceleague.adobe.com/aTG1YcMaRTQSijLFHYKAjEQGo6ZrQTQ9-QVe7-ZZy6w
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 285
+source-wordcount: '287'
 ht-degree: 3%
-
 ---
-
 # 將[!DNL BrightTALK]連線至Marketo {#connect-brighttalk-to-marketo}
 
 瞭解如何將您的[!DNL BrightTALK]管道連線至您的Marketo執行個體。 若要這麼做，您必須同時是兩者的管理員。

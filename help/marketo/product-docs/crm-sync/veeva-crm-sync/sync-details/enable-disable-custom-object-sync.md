@@ -6,17 +6,18 @@ feature: Veeva CRM
 TQID: https://experienceleague.adobe.com/nsmRk-zf-I5r0hfLxsOnGsTf66X-bYZ7OAUXHrPc-t0
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
 subfeature_v2:
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Smart Lists
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 201
+source-wordcount: '201'
 ht-degree: 5%
-
 ---
-
 # 啟用/停用自訂物件同步 {#enable-disable-custom-object-sync}
 
 在您的[!DNL Veeva] CRM執行個體中建立的自訂物件也可以是Marketo Engage的一部分。 以下說明設定方法。
@@ -47,13 +48,13 @@ ht-degree: 5%
 
    ![](assets/enable-disable-custom-object-sync-4.png)
 
-選取您要同步的物件，然後按一下&#x200B;**[!UICONTROL Enable Sync]**。
+   選取您要同步的物件，然後按一下&#x200B;**[!UICONTROL Enable Sync]**。
 
-![](assets/enable-disable-custom-object-sync-5.png)
+   ![](assets/enable-disable-custom-object-sync-5.png)
 
->[!TIP]
->
->Marketo只有在[!DNL Veeva] CRM中與連絡人或帳戶物件有直接關係時，才能同步處理自訂物件。
+   >[!TIP]
+   >
+   >Marketo只有在[!DNL Veeva] CRM中與連絡人或帳戶物件有直接關係時，才能同步處理自訂物件。
 
 1. 再按一下&#x200B;**[!UICONTROL Enable Sync]**。
 

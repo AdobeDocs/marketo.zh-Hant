@@ -7,20 +7,23 @@ exl-id: 5f37da48-b2ed-4e48-a5a2-429149745085
 TQID: https://experienceleague.adobe.com/RkW-U6fZa-sLIdAWdbLET8S2f8yEFYaELRktRXCrCho
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
 subfeature_v2:
   - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: 3b41a127ca8ff73849ccf27b1fe903169f464a02
 workflow-type: tm+mt
-source-wordcount: 1681
-ht-degree: 85%
-
+source-wordcount: '1679'
+ht-degree: 84%
 ---
-
 # 設定步驟 {#setup-steps}
 
 **歡迎使用 Adobe Marketo Engage！**
@@ -32,7 +35,7 @@ ht-degree: 85%
 * 將您的登陸頁面 URL 和電子郵件連結品牌化，以提升信任度和傳遞能力
 * 設定 Marketo Engage 的通訊協定
 * 同步處理您的 CRM
-* 將追蹤代碼新增至您的公司網站
+* 將追蹤程式碼新增至您的公司網站
 
 >[!NOTE]
 >
@@ -48,7 +51,7 @@ ht-degree: 85%
 
 您可以採取幾項措施來確保電子郵件盡可能觸及更多人。
 
-* **讓您的追蹤連結具品牌識別**。 您可以選擇 CNAME，以便在在 Marketo 電子郵件中所包含的連結中使用您自己的網域 (而不是 Marketo 的網域)。 這可加強您的網域品牌化，並增加與收件者的信任度及傳遞能力。
+* **讓您的追蹤連結具品牌識別**。 您可以選擇 CNAME，以便在 Marketo 電子郵件中所包含的連結中使用您自己的網域 (而不是 Marketo 的網域)。 這可加強您的網域品牌化，並增加與收件者的信任度及傳遞能力。
 * **將 Marketo 新增至您的公司電子郵件允許清單**。 常見的最佳做法是在傳送電子郵件給實際人員之前，先將測試電子郵件傳送給您的測試帳戶。 透過將 Marketo 加入允許清單，您可以防止這些測試電子郵件遭到封鎖或被加上垃圾郵件的旗標。
 * **設定 SPF 和 DKIM**。 這些技術可確保您的收件者知道您的 Marketo 電子郵件並非垃圾郵件。 若要防止收件者的垃圾郵件篩選器拒絕您的 Marketo 電子郵件，請依照下列步驟[設定 SPF 和 DKIM 以提升電子郵件傳遞能力](/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md)。
 * **為您的網域設定MX記錄。** MX記錄可讓您接收寄送電子郵件至之網域的郵件，以處理回覆及自動回應。 如果您從公司網域傳送，您可能已設定此專案。 如果沒有，您通常可將其設定為對應至您的公司網域 MX 記錄。
@@ -62,7 +65,7 @@ ht-degree: 85%
 * em.[公司網域].com
 * wow.[CompanyDomain].com
 
-第一部分是電子郵件追蹤 CNAME，`[EmailTrackingCNAME]`。 您需要將這個資料給 IT。
+第一部分是電子郵件追蹤 CNAME，`[EmailTrackingCNAME]`。 您需要將它交給 IT。
 
 >[!CAUTION]
 >
@@ -102,9 +105,9 @@ ht-degree: 85%
 
 為您的登陸頁面選擇 CNAME。 部分範例：
 
-    * **go**.[CompanyDomain].com
-    * **www2**.[CompanyDomain].com
-    * **lp**.[CompanyDomain].com
+* **go**.[CompanyDomain].com
+* **www2**.[CompanyDomain].com
+* **lp**.[CompanyDomain].com
 
 >[!TIP]
 >
@@ -156,26 +159,26 @@ IT 管理員您好：
 
 `3)`允許清單 Marketo。
 
-    *如果我們在電子郵件允許清單中使用 IP 位址，請將下列 IP 新增至清單：
-    199.15.212.0/22
-    
-    192.28.144.0/20
-    
-    192.28.160.0/19
-    
-    185.28.196.0/22
-    
-    130.248.172.0/24
-    
-    130.248.173.0/24
-    
-    94.236.119.0/26
+* 如果在電子郵件允許清單中使用IP位址，請新增下列的IP：
+199.15.212.0/22
+
+192.28.144.0/20
+
+192.28.160.0/19
+
+185.28.196.0/22
+
+130.248.172.0/24
+
+130.248.173.0/24
+
+94.236.119.0/26
 
 >[!NOTE]
 >
 >如果您想要取得特定環境的允許清單（IP的縮寫），請聯絡Adobe支援。
 
-    * 如果我們的反垃圾郵件系統使用寄件者網域，請新增這些：
+* 如果我們的反垃圾郵件系統使用來自網域，請新增以下內容：
 
 **`[FromDomain1]`**
 **`[FromDomain2]`**
@@ -201,7 +204,7 @@ include:mktomail.com
 
 `[`請依照[此處的指示](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md)為您已設定的每個 **DKIMDomain** 複製 **HostRecord** 和 **TXTValue**。 IT 人員完成此步驟後，別忘了在&#x200B;**「管理員 > 電子郵件 > DKIM」**&#x200B;中驗證每個網域。`]`
 
-`5)`我們需要確保我們的FROM網域&#x200B;**`[FromDomain1]`**、**`[FromDomain2]`**&#x200B;等有有效的MX記錄。您能確認嗎？ 如果不可以，請設定以對應至我們的公司網域 MX 記錄。 這會確保我們可以處理 Marketo 郵件的回覆/自動回覆者。
+`5)`我們需要確保我們的FROM網域&#x200B;**`[FromDomain1]`**、**`[FromDomain2]`**&#x200B;等有有效的MX記錄。您能確認嗎？ 如果沒有，請設定為對應至我們的公司網域 MX 記錄。 這會確保我們可以處理 Marketo 郵件的回覆/自動回覆。
 
 完成上述步驟後請通知我，以便我可以使用 Marketo 完成設定流程。
 
@@ -274,7 +277,7 @@ Marketo Engage 具有自訂的追蹤 JavaScript (稱為 [!DNL Munchkin])，您�
 
 >[!NOTE]
 >
->若要新增追蹤代碼，需要具備 HTML 使用經驗。
+>若要新增追蹤程式碼，需要具備 HTML 使用經驗。
 
 ## 效能期望 {#performance-expectations}
 

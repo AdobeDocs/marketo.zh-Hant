@@ -7,22 +7,27 @@ feature: Email Editor
 TQID: https://experienceleague.adobe.com/TIBs0w7HaCEdQfctJj7L48APmhsSp22DfNdqGDN0RmM
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
 subfeature_v2:
   - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+    internal-label: Snippets
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 679
-ht-degree: 3%
-
+source-wordcount: '920'
+ht-degree: 28%
 ---
-
 # 使用 RTF 編輯器 {#using-the-rich-text-editor}
 
 RTF編輯器(RTE)會顯示在整個Marketo中，您只要想要新增或編輯內容，都可使用此編輯器。 您會在登陸頁面、程式、電子郵件、表單和程式碼片段上看到版本。 只需按一下「**[!UICONTROL Edit Draft]**」，它就會彈現出來，為您服務。

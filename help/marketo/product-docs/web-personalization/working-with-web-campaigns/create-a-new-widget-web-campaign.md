@@ -7,21 +7,23 @@ feature: Web Personalization
 TQID: https://experienceleague.adobe.com/N5fOUcDPWM9bxW225YElTMZi6qkoqNEoGHHW3QXj8dw
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 636
+source-wordcount: '636'
 ht-degree: 4%
-
 ---
-
 # 建立新的小工具網頁行銷活動 {#create-a-new-widget-web-campaign}
 
-網路行銷活動是與特定區段關聯的自訂反應，可以是您網站上的[對話方塊](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)、區域取代[&#128279;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)中的、Widget功能或電子郵件警示。 Widget網路促銷活動是出現在網頁垂直側的文字或橫幅，能夠展開和收縮，同時在整個造訪期間都固定在網站頁面上。
+網路行銷活動是與特定區段關聯的自訂反應，可以是您網站上的[對話方塊](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)、區域取代](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)中的[、Widget功能或電子郵件警示。 Widget網路促銷活動是出現在網頁垂直側的文字或橫幅，能夠展開和收縮，同時在整個造訪期間都固定在網站頁面上。
 
 ## 建立Widget Web行銷活動 {#create-a-widget-web-campaign}
 
@@ -115,7 +117,7 @@ ht-degree: 4%
 >
 >若要更輕鬆地尋找您想要的行銷活動，請使用[篩選功能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)。
 
-## 原地複製網頁行銷活動 {#clone-a-web-campaign}
+## 複製網頁行銷活動 {#clone-a-web-campaign}
 
 請參閱[複製網站行銷活動](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md)。
 
