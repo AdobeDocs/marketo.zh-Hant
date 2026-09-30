@@ -8,7 +8,7 @@ TQID: https://experienceleague.adobe.com/RUXVwNEVQ7kaqc5QZvAOErO5B--hgyGLhx3TzlJ
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
+source-git-commit: 7480399d10794264471d53430c733147060664e0
 workflow-type: tm+mt
 source-wordcount: '729'
 ht-degree: 8%
@@ -98,15 +98,15 @@ Marketo使用一組欄位來擷取特定型別的行銷相關資訊。 若您想
    </tbody>
    </table>
 
-   >[!NOTE]
-   >
-   >[!DNL Salesforce]使用欄位名稱建立API名稱時，會將__c附加至欄位名稱。
+>[!NOTE]
+>
+>[!DNL Salesforce]使用欄位名稱建立API名稱時，會將__c附加至欄位名稱。
 
-   ![](assets/image2016-5-26-14-3a55-3a33.png)
+![](assets/image2016-5-26-14-3a55-3a33.png)
 
-   >[!NOTE]
-   >
-   >文字和數字欄位需要長度，但日期/時間欄位不需要。 說明為選用。
+>[!NOTE]
+>
+>文字和數字欄位需要長度，但日期/時間欄位不需要。 說明為選用。
 
 1. 按一下「**[!UICONTROL Next]**」。
 

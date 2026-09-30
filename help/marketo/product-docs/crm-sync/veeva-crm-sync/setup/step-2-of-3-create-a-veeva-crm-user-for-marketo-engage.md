@@ -12,7 +12,7 @@ topic_v2:
     internal-label: Accessibility
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
+source-git-commit: 7480399d10794264471d53430c733147060664e0
 workflow-type: tm+mt
 source-wordcount: '546'
 ht-degree: 7%
@@ -149,7 +149,7 @@ ht-degree: 7%
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-18.png)
 
-   找出不必要的欄位，確定[!UICONTROL Read Access]和[!UICONTROL Edit Access]已&#x200B;**取消勾選**。 完成後請按一下 **[!UICONTROL Save]**。
+1. 找出不必要的欄位，確定[!UICONTROL Read Access]和[!UICONTROL Edit Access]已&#x200B;**取消勾選**。 完成後請按一下 **[!UICONTROL Save]**。
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-19.png)
 

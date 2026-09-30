@@ -19,7 +19,7 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 3b41a127ca8ff73849ccf27b1fe903169f464a02
+source-git-commit: 7480399d10794264471d53430c733147060664e0
 workflow-type: tm+mt
 source-wordcount: '1679'
 ht-degree: 84%
@@ -69,7 +69,7 @@ ht-degree: 84%
 
 >[!CAUTION]
 >
->電子郵件和登陸頁面 CNAME 必須不一樣。 此外，請避免使用「追蹤」或「連結」之類的CNAME。 它經常被標籤為垃圾訊息
+>電子郵件和登陸頁面 CNAME 必須不一樣。 此外，請避免使用「追蹤」或「連結」之類的CNAME。 它經常被標籤為垃圾訊息。
 
 若要尋找您的 Marketo 追蹤連結，請前往 **[!UICONTROL Admin]** 區域。
 

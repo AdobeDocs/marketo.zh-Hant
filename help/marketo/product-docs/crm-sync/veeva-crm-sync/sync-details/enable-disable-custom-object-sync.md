@@ -13,7 +13,7 @@ feature_v2:
 subfeature_v2:
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
     internal-label: Smart Lists
-source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
+source-git-commit: 7480399d10794264471d53430c733147060664e0
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 5%
@@ -48,7 +48,7 @@ ht-degree: 5%
 
    ![](assets/enable-disable-custom-object-sync-4.png)
 
-   選取您要同步的物件，然後按一下&#x200B;**[!UICONTROL Enable Sync]**。
+1. 選取您要同步的物件，然後按一下&#x200B;**[!UICONTROL Enable Sync]**。
 
    ![](assets/enable-disable-custom-object-sync-5.png)
 

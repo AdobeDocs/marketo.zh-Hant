@@ -17,9 +17,9 @@ feature_v2:
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
     internal-label: Reporting
-source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
+source-git-commit: 7480399d10794264471d53430c733147060664e0
 workflow-type: tm+mt
-source-wordcount: '1155'
+source-wordcount: '1153'
 ht-degree: 1%
 ---
 # Salesforce 同步待辦項目量度  {#salesforce-sync-backlog-metrics}
@@ -103,7 +103,7 @@ ht-degree: 1%
 
 ## 管理同步積壓的最佳作法 {#best-practices}
 
-**同步處理使用者可見的欄位**：請確定同步處理使用者可見的欄位只是需要同步處理的欄位，且對行銷工作有價值。 如果更新Salesforce中的記錄以更新上次修改的時間戳記，會將記錄排入同步待處理專案的佇列，且不必要的欄位同步可能會減慢同步下更重要的欄位的速度。 如果同步使用者看不到不必要的欄位，則更新這些欄位將會導致略過，其速度會比更新快得多。 與您的Salesforce管理員合作檢閱[這裡](https://nation.marketo.com/t5/marketo-whisperer-blogs/best-practices-for-determining-which-fields-to-sync-with-marketo/ba-p/247449){target="_blank"}的最佳實務，並更新Marketo同步使用者可看到的欄位。
+**同步處理使用者可見的欄位**：請確定同步處理使用者可見的欄位只是需要同步處理的欄位，且對行銷工作有價值。 如果更新Salesforce中的記錄以更新上次修改的時間戳記，會將記錄排入同步待處理專案的佇列，且不必要的欄位同步可能會減慢同步下更重要的欄位的速度。 如果同步使用者看不到不必要的欄位，則更新這些欄位將會導致略過，其速度會比更新快得多。 請與您的Salesforce管理員合作以[檢閱最佳實務](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-general-27/best-practices-for-determining-which-fields-to-sync-with-marketo-161224){target="_blank"}，並更新Marketo同步使用者可看到的欄位。
 
 **隱藏或篩選不必要的記錄**：如果記錄無法銷售，則可能是浪費同步資源。 如果同步使用者看不到，則不會浪費資源嘗試同步處理。 [Marketo Engage支援](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"}可協助設定同步篩選器，以根據其他條件禁止記錄同步。 如需設定自訂同步篩選器[的詳細資訊，請參閱此處](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"}。 強烈建議在Salesforce中使用索引欄位（如需進一步資訊，請聯絡Salesforce）。
 
@@ -111,9 +111,9 @@ ht-degree: 1%
 
 **經常更新的欄位**：有些欄位很容易經常更新。 例如，貨幣欄位可能會發生貨幣變更。 檢閱這些欄位是否需要同步，或欄位是否應以不同方式設計。 如果您有其他經常更新且不需要的欄位，請向同步使用者隱藏它們。 與您的SFDC管理員討論可能會更新欄位的整合。
 
-**自訂物件**：定期檢閱[啟用同步的自訂物件](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"}，並停用不再需要同步的自訂物件。
+**自訂物件**：定期檢閱[啟用同步的自訂物件](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"}，並停用不再需要同步的自訂物件。
 
-**活動**： [檢閱是否有任何活動](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"}已啟用從同步中移除的同步。  每個潛在客戶每天只能同步處理一次這些活動。
+**活動**： [檢閱是否有任何活動](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"}已啟用從同步中移除的同步。  每個潛在客戶每天只能同步處理一次這些活動。
 
 **檢閱同步處理錯誤**：例外狀況處理可能會減慢同步處理的速度。 檢閱使用者通知並解決錯誤可以改善同步處理健康情況。
 
