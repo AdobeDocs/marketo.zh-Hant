@@ -7,13 +7,12 @@ feature: Sales Insight Actions
 TQID: https://experienceleague.adobe.com/wL4DvH6WwopQbqXlYcvSQJLPYyJbnmDENqvb7qCJo8w
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 314
+source-wordcount: '314'
 ht-degree: 5%
-
 ---
-
 # 新增至行銷活動 {#add-to-marketing-campaign}
 
 >[!PREREQUISITES]
@@ -52,11 +51,11 @@ PICC
 
 1. 按一下「工作區」下拉式清單，然後選擇包含要將群組新增至之行銷活動的工作區。
 
-PICC
+   PICC
 
->[!NOTE]
->
->如果您沒有看見您想要的工作區，請確定您的管理員透過您的Marketo [!UICONTROL Team Access]頁面進行布建。
+   >[!NOTE]
+   >
+   >如果您沒有看見您想要的工作區，請確定您的管理員透過您的Marketo [!UICONTROL Team Access]頁面進行布建。
 
 1. 選取所需的行銷活動，然後按一下&#x200B;**[!UICONTROL Next]**。
 
@@ -86,19 +85,19 @@ PICC
 
 1. 選取「**[!UICONTROL Marketing Campaign]**」。
 
-PICC
+   PICC
 
->[!NOTE]
->
->若要將人員從[!DNL Sales Connect]新增至Marketo行銷活動，[!DNL Sales Connect]必須有人員的Marketo銷售機會ID。
+   >[!NOTE]
+   >
+   >若要將人員從[!DNL Sales Connect]新增至Marketo行銷活動，[!DNL Sales Connect]必須有人員的Marketo銷售機會ID。
 
 1. 按一下「工作區」下拉式清單，然後選擇包含要將群組新增至之行銷活動的工作區。
 
-PICC
+   PICC
 
->[!NOTE]
->
->如果您沒有看見想要的工作區，請向管理員確認是否透過您的Marketo團隊存取頁面提供該工作區。
+   >[!NOTE]
+   >
+   >如果您沒有看見想要的工作區，請向管理員確認是否透過您的Marketo團隊存取頁面提供該工作區。
 
 1. 選取所需的行銷活動，然後按一下&#x200B;**[!UICONTROL Next]**。
 

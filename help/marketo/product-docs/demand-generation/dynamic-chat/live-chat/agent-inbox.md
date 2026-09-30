@@ -6,16 +6,17 @@ exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
 TQID: https://experienceleague.adobe.com/v3wmO0EodV-ENjE5dOnLg1x5HscxFneVQx0pdEEuMAM
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 596
+source-wordcount: '596'
 ht-degree: 1%
-
 ---
-
 # 代理人收件匣 {#agent-inbox}
 
 代理程式將會在「代理程式收件匣」中欄位即時聊天。 除了使用中的交談之外，他們可以看到過去的交談、訪客資訊等。

@@ -6,19 +6,22 @@ exl-id: 6b58eb50-ff0d-4774-a232-3ae929948e2a
 TQID: https://experienceleague.adobe.com/RSYhWjNNh7gQiyEw1ImnHr6q23UpaVWhBll6aziHkJk
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: 7480399d10794264471d53430c733147060664e0
 workflow-type: tm+mt
-source-wordcount: 1155
+source-wordcount: '1153'
 ht-degree: 1%
-
 ---
-
 # Salesforce 同步待辦項目量度  {#salesforce-sync-backlog-metrics}
 
 同步處理待處理專案是用於擱置同步處理之記錄的名稱。 它會將擱置從Salesforce同步至Marketo Engage的記錄計算在內，反之亦然。 確保待處理專案維持在可控範圍內，可順利進行時間同步。 待處理專案涵蓋兩側擱置同步發佈更新的數量，而非同步流程步驟（例如Sync Lead to SFDC流程步驟）所執行的數量。
@@ -89,7 +92,8 @@ ht-degree: 1%
     <td>待處理專案狀態</td>
     <td>這會顯示未處理專案在過去6小時內是否有所增加。 如果目前的待處理專案大於6小時前記錄的待處理專案，則推斷為「成長」。 否則，會顯示為「正常」。 這是為了顯示同步處理輸送量是否趕上待處理專案。</td>
   </tr>
-</tbody></table>
+</tbody>
+</table>
 
 ## 導致同步積壓的原因 {#what-causes-sync-backlogs}
 
@@ -99,7 +103,7 @@ ht-degree: 1%
 
 ## 管理同步積壓的最佳作法 {#best-practices}
 
-**同步處理使用者可見的欄位**：請確定同步處理使用者可見的欄位只是需要同步處理的欄位，且對行銷工作有價值。 如果更新Salesforce中的記錄以更新上次修改的時間戳記，會將記錄排入同步待處理專案的佇列，且不必要的欄位同步可能會減慢同步下更重要的欄位的速度。 如果同步使用者看不到不必要的欄位，則更新這些欄位將會導致略過，其速度會比更新快得多。 與您的Salesforce管理員合作檢閱[這裡](https://nation.marketo.com/t5/marketo-whisperer-blogs/best-practices-for-determining-which-fields-to-sync-with-marketo/ba-p/247449){target="_blank"}的最佳實務，並更新Marketo同步使用者可看到的欄位。
+**同步處理使用者可見的欄位**：請確定同步處理使用者可見的欄位只是需要同步處理的欄位，且對行銷工作有價值。 如果更新Salesforce中的記錄以更新上次修改的時間戳記，會將記錄排入同步待處理專案的佇列，且不必要的欄位同步可能會減慢同步下更重要的欄位的速度。 如果同步使用者看不到不必要的欄位，則更新這些欄位將會導致略過，其速度會比更新快得多。 請與您的Salesforce管理員合作以[檢閱最佳實務](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-general-27/best-practices-for-determining-which-fields-to-sync-with-marketo-161224?profile.language=zh-Hant){target="_blank"}，並更新Marketo同步使用者可看到的欄位。
 
 **隱藏或篩選不必要的記錄**：如果記錄無法銷售，則可能是浪費同步資源。 如果同步使用者看不到，則不會浪費資源嘗試同步處理。 [Marketo Engage支援](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"}可協助設定同步篩選器，以根據其他條件禁止記錄同步。 如需設定自訂同步篩選器[的詳細資訊，請參閱此處](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"}。 強烈建議在Salesforce中使用索引欄位（如需進一步資訊，請聯絡Salesforce）。
 

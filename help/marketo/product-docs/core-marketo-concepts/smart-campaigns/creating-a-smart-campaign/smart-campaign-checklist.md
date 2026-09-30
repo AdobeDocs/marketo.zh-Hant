@@ -7,15 +7,15 @@ feature: Smart Campaigns
 TQID: https://experienceleague.adobe.com/R94BEUOHsfCoIwAvl7QKDRvBw5mU3szqH6n27qd3yk0
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Smart Campaigns
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 245
+source-wordcount: '245'
 ht-degree: 2%
-
 ---
-
 # 智慧行銷活動檢查清單 {#smart-campaign-checklist}
 
 請依照下列步驟操作，確保Smart Campaign順利執行，並儘可能避免錯誤。

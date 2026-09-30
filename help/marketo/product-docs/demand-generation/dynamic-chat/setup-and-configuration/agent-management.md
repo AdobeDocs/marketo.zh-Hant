@@ -6,17 +6,18 @@ exl-id: 151d8cf2-a5b7-43c4-8418-cc22252108b2
 TQID: https://experienceleague.adobe.com/WZgOsCc5-8oEKLPhj6ziYMIhrYKHxHjrqhLp73mirSU
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 362
-ht-degree: 3%
-
+source-wordcount: '362'
+ht-degree: 4%
 ---
-
 # 代理人管理 {#agent-management}
 
 在「代理程式管理」中，檢視您Dynamic Chat執行個體中的代理程式清單、管理團隊並設定遞補規則。

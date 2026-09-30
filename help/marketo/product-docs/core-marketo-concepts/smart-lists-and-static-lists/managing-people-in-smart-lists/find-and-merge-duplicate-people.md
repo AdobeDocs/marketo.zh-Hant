@@ -7,15 +7,15 @@ feature: Smart Lists
 TQID: https://experienceleague.adobe.com/QHBmdsH5bm0NdYi4SVhrDJBvO5ku0yaev36lX0b-Vp0
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 428
+source-wordcount: '428'
 ht-degree: 3%
-
 ---
-
 # 找到重複人員並將其合併 {#find-and-merge-duplicate-people}
 
 當有新人員進入系統時，Marketo Engage會自動刪除重複專案。 不過，您的CRM可能一開始是透過重複專案傳送。

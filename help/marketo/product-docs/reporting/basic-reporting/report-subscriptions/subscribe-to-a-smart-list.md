@@ -7,18 +7,20 @@ feature: Reporting
 TQID: https://experienceleague.adobe.com/MAk0qz-cUIw2v620gv-QyU6tZbdmNmwNC54Bu5vmJAA
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 418
+source-wordcount: '418'
 ht-degree: 2%
-
 ---
-
 # 訂閱智慧清單 {#subscribe-to-a-smart-list}
 
 訂閱智慧列示是追蹤人員的好方法，報表會直接傳送到您的收件匣。

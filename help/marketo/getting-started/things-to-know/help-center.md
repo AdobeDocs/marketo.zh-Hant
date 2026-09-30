@@ -6,22 +6,27 @@ exl-id: 3dd7c005-a416-4808-9418-9114df76d963
 TQID: https://experienceleague.adobe.com/DVB94vkw55tMkQ9LKvASESXHdcjiuKHYHbQCM2UDIFM
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
   - id: d1956f52-ecfd-4e01-8941-47af238acb0d
+    internal-label: Help center
   - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+    internal-label: Adobe Identity Management
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 319
+source-wordcount: '319'
 ht-degree: 100%
-
 ---
-
 # 說明中心 {#help-center}
 
 Adobe Marketo Engage 內的說明中心是取得協助的集中位置。 除了能向外連結至各種資源 (例如[產品文件](/help/marketo/home.md){target="_blank"}、[版本資訊](/help/marketo/release-notes/current.md){target="_blank"}、[Marketing Nation 社群](https://nation.marketo.com/){target="_blank"}) 之外，還可以存取按照經驗級別分類的實用產品內逐步說明。

@@ -6,15 +6,15 @@ feature: Marketo Sales Insights
 TQID: https://experienceleague.adobe.com/SqRcW7-vBInte7Qbxdt-C6acYyqyA0KrBLY4TidCabQ
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 157
+source-wordcount: '157'
 ht-degree: 8%
-
 ---
-
 # 傳送測試電子郵件 {#send-a-test-email}
 
 在傳送電子郵件之前，您可以透過使用任何電子郵件地址向自己傳送測試電子郵件，以測試電子郵件格式和Token。

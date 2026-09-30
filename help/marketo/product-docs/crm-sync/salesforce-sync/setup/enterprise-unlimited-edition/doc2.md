@@ -2,15 +2,13 @@
 description: 瞭解如何使用Enterprise或Unlimited版本為Marketo建立Salesforce使用者。 建立設定檔、設定許可權，並建立Marketo-Salesforce同步處理使用者。
 title: 步驟3之2 — 建立Marketo的Salesforce使用者(Enterprise/Unlimited)
 hide: true
-hidefromtoc: true
+hidefromtoc: yes
 feature: Salesforce Integration
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
 source-wordcount: '436'
 ht-degree: 4%
-
 ---
-
 # 第 2 步 (共 3 步)：建立 Marketo 的 Salesforce 使用者 (企業版/無限版) {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
 
 >[!NOTE]
