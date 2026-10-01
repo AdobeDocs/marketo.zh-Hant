@@ -37,7 +37,7 @@ ht-degree: 26%
 
    ![](assets/campaign-email-performance-report-2.png)
 
-1. 在&#x200B;_型別_&#x200B;下拉式清單中，選取&#x200B;**行銷活動電子郵件效能**。 提供報表名稱，然後按一下[建立]。****
+1. 在&#x200B;_型別_&#x200B;下拉式清單中，選取&#x200B;**行銷活動電子郵件效能**。 提供報表名稱，然後按一下[建立]。**&#x200B;**
 
    ![](assets/campaign-email-performance-report-3.png)
 
