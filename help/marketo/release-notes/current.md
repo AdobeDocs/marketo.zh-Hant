@@ -24,9 +24,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: edeb795f12082fab9c72b0ff4305f3db90aa4c46
+source-git-commit: 69974d549dd4d82628ae5481f942e42394967728
 workflow-type: tm+mt
-source-wordcount: '552'
+source-wordcount: '550'
 ht-degree: 18%
 ---
 # 發行說明： 2026年9月 {#release-notes-sep-26}
@@ -49,7 +49,7 @@ ht-degree: 18%
   <tr>
    <td><strong>Marketo Engage全新UI</strong>： Marketo Engage介面具有重新整理的外觀，包括更新的功能表、圖示和版面，可提供更乾淨、更現代的體驗。 這僅是視覺化更新；不影響現有功能或工作流程。 <i>在2027年1月發行版本中將提供選取傳統UI的功能</i>。
 </td>
-   <td>9月底全面發佈</td>
+   <td>於10月中旬全面發佈</td>
    <td><i>不適用</i></td>
   </tr>
   <tr>
@@ -100,10 +100,10 @@ ht-degree: 18%
 
 * **自訂活動屬性的API名稱限制**：透過API或UI建立的自訂活動屬性的API名稱現在只能包含英數字元和底線，而且必須以英數字元開頭。
 
-* **取得潛在客戶活動與取得潛在客戶變更的靜態清單大小限制**：自2026年9月30日起，如果目標清單包含10,000個或更多潛在客戶，呼叫Get Lead活動或包含`listId`引數的Get Lead Changes端點會失敗，並產生1003錯誤碼（表示目標靜態清單有太多記錄）。 如需詳細資訊，請參閱[移轉指南](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}。
+* **取得潛在客戶活動與取得潛在客戶變更的靜態清單大小限制**：自2026年9月30日起，如果目標清單包含10,000個或更多潛在客戶，呼叫Get Lead活動或包含`listId`引數的Get Lead Changes端點會失敗，並產生1003錯誤碼（表示目標靜態清單有太多記錄）。 如需詳細資訊，請參閱[移轉指南](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}。
 
 * **REST API &#39;access_token&#39;引數淘汰**：用於驗證Marketo REST API呼叫的`access_token`查詢引數自2026年8月31日起已淘汰。 所有新的和現有的整合都應使用「Authorization」標頭來驗證 REST API 呼叫，方法[如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
 * **REST API行銷活動執行ID**：在某些情況下，活動的行銷活動執行ID值有時會在兩對引號（例如`"campaignRunId": ""102938""`）之間以不正確的格式傳回。<br/>自8月發行版本起，此值一律會以正確的數字格式(`"campaignRunId": 102938`)傳回。
 
-* **棄用從網頁抓取影像**：為了符合現代安全性和隱私權的最佳實務，從10月發行版本起，[從網頁抓取影像](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"}功能將被棄用。
+* **棄用從網頁抓取影像**：為了符合現代安全性和隱私權的最佳實務，從10月發行版本起，[從網頁抓取影像](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"}功能將被棄用。
