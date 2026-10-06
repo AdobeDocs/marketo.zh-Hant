@@ -24,9 +24,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: edeb795f12082fab9c72b0ff4305f3db90aa4c46
+source-git-commit: 69974d549dd4d82628ae5481f942e42394967728
 workflow-type: tm+mt
-source-wordcount: '552'
+source-wordcount: '550'
 ht-degree: 18%
 ---
 # 發行說明： 2026年9月 {#release-notes-sep-26}
@@ -49,7 +49,7 @@ ht-degree: 18%
   <tr>
    <td><strong>Marketo Engage全新UI</strong>： Marketo Engage介面具有重新整理的外觀，包括更新的功能表、圖示和版面，可提供更乾淨、更現代的體驗。 這僅是視覺化更新；不影響現有功能或工作流程。 <i>在2027年1月發行版本中將提供選取傳統UI的功能</i>。
 </td>
-   <td>9月底全面發佈</td>
+   <td>於10月中旬全面發佈</td>
    <td><i>不適用</i></td>
   </tr>
   <tr>
