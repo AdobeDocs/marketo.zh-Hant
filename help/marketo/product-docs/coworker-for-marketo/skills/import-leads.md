@@ -1,30 +1,28 @@
 ---
 description: 瞭解如何使用匯入銷售機會代理程式上傳CSV、套用商業規則、對應欄位，以及將銷售機會直接匯入您的Marketo Engage資料庫。
 title: 匯入銷售機會
-source-git-commit: 224dff93cda319bb6bb59fcbec4edb13cc940f4a
+source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '229'
 ht-degree: 0%
-
 ---
-
 # 匯入銷售機會 {#import-leads}
 
 透過欄位對應協助，將潛在客戶清單匯入並刪除重複專案至Marketo Engage資料庫。
 
 ## 使用方式 {#how-to-use}
 
-1. 在「我的Marketo」中，按一下「**Marketo Engage同事**」圖磚。
+1. 在「我的Marketo」中，按一下「適用於Marketo Engage的&#x200B;**CX Enterprise Coworker」**&#x200B;圖磚。
 
-   ![](assets/import-leads-1.png)
+   ![](assets/cx-import-leads-1.png)
 
 1. 輸入「匯入潛在客戶清單並標準化資料」（如果資料列為範例提示，則選取資料），然後按一下向上箭頭圖示。
 
-   ![](assets/import-leads-2.png)
+   ![](assets/cx-import-leads-2.png)
 
 1. 系統會提示您上傳CSV檔案，並顯示即將推出的步驟。
 
-   ![](assets/import-leads-3.png)
+   ![](assets/cx-import-leads-3.png)
 
 1. 按一下&#x200B;**+**&#x200B;圖示並選取&#x200B;**上傳檔案**。 尋找並上傳您的CSV檔案。
 
