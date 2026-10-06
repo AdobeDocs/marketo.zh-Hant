@@ -3,10 +3,10 @@ description: AWS移轉 — Marketo Engage檔案 — 產品檔案
 title: AWS移轉
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 78cbf2bc22a769e1b1013ddf7293e1a49ccd77e4
+source-git-commit: a02e4782a1c320ec1baa8c304d50c7e1807ab445
 workflow-type: tm+mt
-source-wordcount: '1020'
-ht-degree: 5%
+source-wordcount: '1227'
+ht-degree: 4%
 ---
 # AWS移轉 {#aws-migration}
 
@@ -20,7 +20,7 @@ ht-degree: 5%
 
 * **避免建立或更新銷售機會/人員**，或執行修改人員記錄的程式。
 
-* **不要觸發後續程式**，因為排程的行銷活動將會暫停。
+* **不要觸發後續程式**，因為所有排程的行銷活動都將暫停。
 
 * **暫時停用所有傳送資料給Marketo Engage或從接收資料的整合**。
 
@@ -28,7 +28,7 @@ ht-degree: 5%
 
 * **檢閱並更新IP允許清單**，以取得登入、API存取、電子郵件傳送、網頁追蹤和整合。
 
-* **新增IP位址**&#x200B;並保留您目前的IP不變。 檢視要透過下方[&#128279;](#ip-addresses)的表格新增的IP位址。
+* **新增IP位址**&#x200B;並保留您目前的IP不變。 檢視要透過下方](#ip-addresses)的[表格新增的IP位址。
 
 ## 預期的服務影響 {#impacts}
 
@@ -41,11 +41,11 @@ ht-degree: 5%
 
 >[!IMPORTANT]
 >
->如果您使用[外部表單](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}，並且想要避免在移轉期間無法使用Marketo Engage時收集而遺失表單提交資料，請事先聯絡[Adobe支援](https://experienceleague.adobe.com/zh-hant/support){target="_blank"} **至少兩個工作日**，並提供表單ID和您訂閱的Munchkin ID。
+>如果您使用[外部表單](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}，並且想要避免在移轉期間無法使用Marketo Engage時收集而遺失表單提交資料，請事先聯絡[Adobe支援](https://experienceleague.adobe.com/en/support){target="_blank"} **至少兩個工作日**，並提供表單ID和您訂閱的Munchkin ID。
 
 ## 識別您的資料中心/Pod {#identify}
 
-在檢閱下列排程之前，[請先瞭解如何識別](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify)您的訂閱所在的資料中心和pod/伺服器。
+在檢閱下列排程之前，[請先瞭解如何識別](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify){target="_blank"}您的訂閱所在的資料中心和pod/伺服器。
 
 ## 排程 {#schedule}
 
@@ -341,9 +341,9 @@ ht-degree: 5%
 
 如需最新資訊，請將此頁面加入書籤。
 
-若要取得狀態更新，您可以[訂閱以在移轉開始和完成時收到這些更新](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"}。 您也可以在移轉期間造訪[status.adobe.com](https://status.adobe.com/zh-tw/){target="_blank"}。
+若要取得狀態更新，您可以[訂閱以在移轉開始和完成時收到這些更新](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"}。 您也可以在移轉期間造訪[status.adobe.com](https://status.adobe.com/){target="_blank"}。
 
-如果您有任何問題，請透過Admin Console的支援入口網站或[Experience League](https://experienceleague.adobe.com/zh-hant/support){target="_blank"}聯絡Adobe支援。
+如果您有任何問題，請透過Admin Console的支援入口網站或[Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}聯絡Adobe支援。
 
 ## 常見問題集 {#faq}
 
@@ -362,3 +362,13 @@ Marketo使用Amazon Aurora （完全由AWS管理的雲端原生關聯式資料�
 Aurora也會即時執行持續自動備份至Amazon S3，以便在設定的保留期間內，隨時進行時間點復原(PITR)。
 
 目前，Marketo的Aurora部署可在單一AWS區域運作，無需跨區域復寫。 生產資料會保留在指定的區域基礎架構中，而災難回覆是透過Aurora的多可用區儲存備援和持續備份來提供，而不是透過地理容錯移轉至次要區域。 隨著Marketo的AWS基礎建設日漸成熟，可進一步評估這項作業。
+
+**在停機期間如何處理取消訂閱？**
+系統仍會收到標準和清單取消訂閱（來自電子郵件使用者端），移轉後不久便會處理這些訂閱。
+
+**暫停行銷活動是否有任何其他選擇？**
+是的。 如果您想防止人員前進但不想遺失傳入的資料，請考慮以下選項：
+
+* 新增選擇步驟：不要停用您的行銷活動，讓行銷活動保持作用中，但在流程最上方新增[等待流程步驟](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/wait-overview){target="_blank"}或立即的「不做任何事」步驟。 設定[選擇規則](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step){target="_blank"}，將您的人員導向此暫停狀態，然後在您準備好時更新選擇規則。
+* 從流量移除：如果人員已進入行銷活動，但您需要停止其進度，請使用[從流量移除](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow){target="_blank"}動作將其拉出，而不永久停用行銷活動的觸發器。
+* 替代批次：如果您不需要立即路由或回應，而且只想隔夜或依排程間隔處理人員，請考慮將觸發行銷活動轉換為批次行銷活動。
