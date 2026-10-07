@@ -600,7 +600,7 @@ ht-degree: 96%
       + [啟用/停用 Salesforce 同步](product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)
       + [隱含的 Salesforce 動作](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
       + [使用 OAuth 2.0 登入](product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md)
-      + {hide-from-toc}[使用OAuth 2.0 NEW](product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0-new.md)登入
+      + {hide-from-toc}[使用OAuth 2.0 NEW登入](product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0-new.md)
       + [Salesforce 同步待辦項目量度](product-docs/crm-sync/salesforce-sync/salesforce-sync-backlog-metrics.md)
       + [Salesforce 同步錯誤](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
       + [Salesforce 同步狀態](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
