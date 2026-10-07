@@ -17,7 +17,7 @@ subfeature_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: c10fdf63f8e3efb61fb391139a0468afc1df3420
+source-git-commit: d0b7c02dffdc1c358ab7d4b4e5018389c0d44bf3
 workflow-type: tm+mt
 source-wordcount: '665'
 ht-degree: 1%
@@ -60,11 +60,11 @@ Salesforce使用OAuth通訊協定，讓應用程式的使用者能夠安全存�
 
    ![](assets/log-in-using-oauth-6.png)
 
-1. 在&#x200B;_安全性_&#x200B;下，確定只選取&#x200B;**Web伺服器流程需要密碼**、**重新整理權杖流程需要密碼**&#x200B;以及&#x200B;***Code Exchange (PKCE)需要校訂金鑰……**。
+1. 在&#x200B;_安全性_&#x200B;下，確定只選取&#x200B;**Web伺服器流程需要密碼**、**重新整理權杖流程需要密碼**&#x200B;以及&#x200B;**Code Exchange (PKCE)需要校訂金鑰……**。
 
    ![](assets/log-in-using-oauth-7-new.png)
 
-1. 略過最後四個區段，然後按一下[建立]。**&#x200B;**
+1. 略過最後四個區段，然後按一下[建立]。****
 
    ![](assets/log-in-using-oauth-8-new.png)
 
@@ -84,7 +84,7 @@ Salesforce使用OAuth通訊協定，讓應用程式的使用者能夠安全存�
 >* 必須在Salesforce中建立Marketo Sync使用者。
 >* 快顯封鎖程式已停用。
 >* 已建立連線應用程式，[!UICONTROL Consumer Key]和[!UICONTROL Consumer Secret]可供使用。
->* 聯絡[Marketo支援](https://experienceleague.adobe.com/zh-hant/support)以啟用下列功能：啟用SFDC同步的OAuth、需要重新整理權杖流程的密碼，以及程式碼交換的校訂金鑰(PKCE)。
+>* 聯絡[Marketo支援](https://experienceleague.adobe.com/en/support)以啟用下列功能：啟用SFDC同步的OAuth、需要重新整理權杖流程的密碼，以及程式碼交換的校訂金鑰(PKCE)。
 
 >[!CAUTION]
 >
