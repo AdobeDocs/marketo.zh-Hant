@@ -1,34 +1,34 @@
 ---
-description: 探索Co-worker for Marketo Engage代理程式套件，其設計旨在自動化行銷工作，例如方案QA、潛在客戶匯入、資料標準化等。
-title: Marketo Engage的同事概覽
-source-git-commit: fc1bcbdaa543e39127945852a6f89e69f2966c21
+description: 探索適用於Marketo Engage代理程式的CX Enterprise Coworker套件，這些代理程式旨在自動化行銷工作，例如方案QA、潛在客戶匯入、資料標準化等。
+title: 適用於Marketo Engage的CX Enterprise Coworker概觀
+source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '454'
 ht-degree: 1%
 ---
-# Marketo Engage的同事概覽 {#overview}
+# 適用於Marketo Engage的CX Enterprise Coworker概觀 {#overview}
 
-Marketo Engage （先前稱為Marketo AI）的同事可提供代理程式技能，將耗時但重要的行銷功能自動化。
+Marketo Engage適用的CX Enterprise Coworker提供專門設計的代理程式技能，將耗時但重要的行銷功能自動化。
 
 >[!AVAILABILITY]
 >
->此功能適用於所有訂閱。 如果您在「我的Marketo」畫面上看不到「Marketo Engage同事」圖磚，請聯絡您的客戶經理。 您也必須同意[核心Gen-AI條款與補充條款](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}。
+>此功能適用於所有訂閱。 如果您在我的Marketo Engage畫面上找不到CX Enterprise Coworker的Marketo動態磚，請聯絡您的客戶經理。 您也必須同意[核心Gen-AI條款與補充條款](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}。
 
 >[!IMPORTANT]
 >
->* 為您的訂閱啟用Marketo Engage的同事後，您必須執行一些[設定步驟](/help/marketo/product-docs/coworker-for-marketo/settings-setup.md){target="_blank"}，以確保想要的使用者擁有存取權。
+>* 為您的訂閱啟用適用於Marketo Engage的CX Enterprise Coworker後，您必須執行一些[設定步驟](/help/marketo/product-docs/coworker-for-marketo/settings-setup.md){target="_blank"}，以確保想要的使用者擁有存取權。
 >
->* 檢閱Marketo Engage [資料資訊表](/help/marketo/product-docs/coworker-for-marketo/data-information.md){target="_blank"}之協力程式中的資料範圍、治理控制和PII考量事項。
+>* 檢閱Marketo Engage [資料資訊表](/help/marketo/product-docs/coworker-for-marketo/data-information.md){target="_blank"}中CX Enterprise Coworker的資料範圍、治理控制和PII考量事項。
 
 ## 如何存取 {#access}
 
-在「我的Marketo」畫面上，按一下「**Marketo Engage同事**」圖磚。
+在「我的Marketo」畫面上，按一下「適用於Marketo Engage的&#x200B;**CX Enterprise Coworker」**&#x200B;圖磚。
 
-![](assets/overview-1.png)
+![](assets/cx-overview-1.png)
 
 在提示欄位中輸入您的請求、選取其中一個代理程式技能，或嘗試其中一個範例提示。
 
-![](assets/overview-2.png)
+![](assets/cx-overview-2.png)
 
 ## 技能 {#skills}
 
@@ -36,7 +36,7 @@ Marketo Engage （先前稱為Marketo AI）的同事可提供代理程式技能�
 
 ### 建置計畫 {#build-programs}
 
-以簡單的語言說明行銷活動，讓Marketo Engage的同事建立方案結構，並完成資產預留位置及排程。 深入瞭解[建置計畫技能](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md){target="_blank"}。
+以淺顯語言說明行銷活動，並以CX Enterprise Coworker為Marketo Engage建置方案結構、使用資產預留位置及排程。 深入瞭解[建置計畫技能](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md){target="_blank"}。
 
 ### 調查銷售機會 {#investigate-leads}
 
@@ -44,7 +44,7 @@ Marketo Engage （先前稱為Marketo AI）的同事可提供代理程式技能�
 
 ### 產品知識 {#product-knowledge}
 
-產品知識可讓您隨選存取Marketo專業知識，而不需離開平台。 以直白語言提出問題，而Marketo Engage的同事會利用官方Adobe檔案來回答。 進一步瞭解[產品知識技能](/help/marketo/product-docs/coworker-for-marketo/skills/product-knowledge.md){target="_blank"}。
+產品知識可讓您隨選存取Marketo專業知識，而不需離開平台。 以直白語言提出問題，Marketo Engage的CX Enterprise Coworker會利用官方Adobe檔案來回答。 進一步瞭解[產品知識技能](/help/marketo/product-docs/coworker-for-marketo/skills/product-knowledge.md){target="_blank"}。
 
 ### 驗證程式 {#validate-programs}
 

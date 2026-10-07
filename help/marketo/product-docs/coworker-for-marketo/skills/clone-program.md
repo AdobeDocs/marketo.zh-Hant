@@ -3,13 +3,11 @@ description: 原地復製程式會將現有的Marketo程式複製到具有新名
 title: 復製程式
 badge: Beta
 hide: true
-source-git-commit: 224dff93cda319bb6bb59fcbec4edb13cc940f4a
+source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '487'
 ht-degree: 0%
-
 ---
-
 # 復製程式 {#clone-program}
 
 複製方案代理程式會將工作方案（包括其智慧行銷活動、流程步驟、電子郵件資產和設定）複製到您Marketo環境中的新位置。
@@ -28,16 +26,16 @@ ht-degree: 0%
 
 ## 使用方式 {#how-to-use}
 
-1. 在「我的Marketo」中，按一下「**Marketo Engage同事**」圖磚。
+1. 在「我的Marketo」中，按一下「適用於Marketo Engage的&#x200B;**CX Enterprise Coworker」**&#x200B;圖磚。
 1. 在提示視窗中，輸入您的指示。 例如，「將我的第2季網路研討會程式原地複製至Q3 Campaigns資料夾，並將其稱為第3季產品示範網路研討會。」
-1. Marketo Engage的同事會確認來源程式、目的地資料夾和新名稱。 檢閱並確認。
-1. 複製已建立。 Marketo Engage的同事會在作業完成後確認，並告訴您應在何處尋找該工具。
+1. 適用於Marketo Engage的CX Enterprise Coworker會確認來源程式、目的地資料夾和新名稱。 檢閱並確認。
+1. 複製已建立。 適用於Marketo Engage的CX Enterprise Coworker會確認作業何時完成，並告訴您到何處尋找。
 1. 在Marketo中開啟新程式並更新不同專案：電子郵件內容、日期、對象篩選器、代號等。
 1. 在啟動之前執行[程式QA](/help/marketo/product-docs/coworker-for-marketo/skills/validate-programs.md)代理程式。
 
 ## 使用案例 {#use-cases}
 
-**每季行銷活動重複使用**：行銷活動經理每季會執行相同的網路研討會系列。 他們要求Marketo Engage的同事將上季的網路研討會程式複製到新季度的資料夾中，並提供更新的名稱。 然後他們會更新電子郵件復本、網路研討會日期權杖和註冊連結，節省數小時的設定時間。
+**每季行銷活動重複使用**：行銷活動經理每季會執行相同的網路研討會系列。 他們要求CX Enterprise Coworker for Marketo Engage將上季的網路研討會程式複製到新季度的資料夾中，並提供更新的名稱。 然後他們會更新電子郵件復本、網路研討會日期權杖和註冊連結，節省數小時的設定時間。
 
 **從經過驗證的方案建立範本**：行銷作業專員會將高績效的產品上市方案複製至「範本」資料夾，作為未來上市的起點。 原地複製會保持停用狀態，並作為參考副本使用。
 

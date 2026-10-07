@@ -1,16 +1,16 @@
 ---
-description: 使用Co-worker for Marketo Engage ，調整現有範本以建置Marketo程式。 讓智慧型行銷活動、排程和資產預留位置準備好檢閱和調整。
+description: 使用適用於Marketo Engage的CX Enterprise Coworker ，調整現有範本以建置Marketo程式。 讓智慧型行銷活動、排程和資產預留位置準備好檢閱和調整。
 title: 建置計畫
-source-git-commit: fc1bcbdaa543e39127945852a6f89e69f2966c21
+source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
 workflow-type: tm+mt
-source-wordcount: '804'
+source-wordcount: '828'
 ht-degree: 0%
 ---
 # 建置計畫 {#build-programs}
 
-以淺顯的語言描述行銷活動，而Marketo Engage的同事會改寫現有的方案範本以符合您的需求、自動更新電子郵件內容，並透過複製您的範本結構來建立其他資產。
+以淺白語言說明行銷活動，而Marketo Engage的CX Enterprise Coworker會調整現有的方案範本以符合您的需求、自動更新電子郵件內容，並透過複製您的範本結構來建立其他資產。
 
-您組織的[組織規則](/help/marketo/product-docs/coworker-for-marketo/organizational-rules.md){target="_blank"}將指導Marketo Engage的同事如何在建立期間建構並驗證方案。 這些規則會確保新程式符合您的命名慣例、必要權杖、資料夾結構和法規遵循標準。
+您組織的[組織規則](/help/marketo/product-docs/coworker-for-marketo/organizational-rules.md){target="_blank"}將指導適用於Marketo Engage的CX Enterprise Coworker如何在建立期間建構並驗證方案。 這些規則會確保新程式符合您的命名慣例、必要權杖、資料夾結構和法規遵循標準。
 
 >[!PREREQUISITES]
 >
@@ -20,15 +20,15 @@ ht-degree: 0%
 
 ## 使用方式 {#how-to-use}
 
-1. 在「我的Marketo」中，按一下「**Marketo Engage同事**」圖磚。
+1. 在「我的Marketo」中，按一下「適用於Marketo Engage的&#x200B;**CX Enterprise Coworker」**&#x200B;圖磚。
 
 1. 選取範本方案。 選擇符合您的行銷活動型別的現有方案（例如，電子郵件、網路研討會、Nurture）。
 
 1. 在提示視窗中，輸入您要建立之行銷活動的說明。 視需要儘可能明確或一般（您可以隨時調整）。
 
-1. Marketo Engage的同事會確認其對您簡介的解讀，並列出其計畫建立的內容。 建置前請先檢閱此內容。
+1. 適用於Marketo Engage的CX Enterprise Coworker會確認其對您簡介的解讀，並列出其計畫建立的內容。 建置前請先檢閱此內容。
 
-1. 確認，然後Marketo Engage的同事會在您的環境中建立方案。
+1. 確認，然後適用於Marketo Engage的CX Enterprise Coworker會在您的環境中建立方案。
 
 1. 在Marketo中開啟新建立的計畫並檢閱結構。
 
@@ -40,13 +40,13 @@ ht-degree: 0%
 
 ## 使用案例 {#use-cases}
 
-**網路研討會註冊計畫**：行銷活動經理輸入「為我們8月份的產品示範建立網路研討會註冊計畫」。 傳送邀請電子郵件、前一天提醒，以及後續的錄製連結。」 Marketo Engage的同事會建立包含三個Smart Campaigns （邀請、提醒、跟進）、每個專案的預留位置電子郵件，以及根據事件日期進行排程的方案。
+**網路研討會註冊計畫**：行銷活動經理輸入「為我們8月份的產品示範建立網路研討會註冊計畫」。 傳送邀請電子郵件、前一天提醒，以及後續的錄製連結。」 適用於Marketo Engage的CX Enterprise Coworker會建立包含三個Smart Campaigns （邀請、提醒、跟進）、每個的預留位置電子郵件，以及根據事件日期排程的方案。
 
-**潛在客戶評分觸發行銷活動**：行銷作業專家輸入，「建立當潛在客戶達到50分時觸發的計畫，並將其傳送至MQL智慧清單。」 Marketo Engage的同事會建立方案，其中包含聆聽分數變更的觸發促銷活動，以及將銷售機會新增至MQL清單的流程步驟。
+**潛在客戶評分觸發行銷活動**：行銷作業專家輸入，「建立當潛在客戶達到50分時觸發的計畫，並將其傳送至MQL智慧清單。」 適用於Marketo Engage的CX Enterprise Coworker會建立程式，其中包含監聽分數變更的觸發促銷活動以及將銷售機會新增到MQL清單的流程步驟。
 
-**重新參與nurture**：需求一般管理員會要求3封電子郵件重新參與系列，鎖定未參與90天的潛在客戶。 Marketo Engage的同事會建立具有非使用狀態篩選器的批次行銷活動、三個電子郵件傳送步驟（含適當的等待步驟），以及一個流程步驟（若有人重新參與，便會更新銷售機會狀態）。
+**重新參與nurture**：需求一般管理員會要求3封電子郵件重新參與系列，鎖定未參與90天的潛在客戶。 適用於Marketo Engage的CX Enterprise Coworker會建立具有非活動篩選器的批次行銷活動、三個具有適當等待步驟的電子郵件傳送步驟，以及一個在有人重新參與時更新潛在客戶狀態的流程步驟。
 
-**活動後續追蹤計畫**：在交易會之後，經理要求Marketo Engage的同事建立活動後後續追蹤計畫，以傳送感謝電子郵件給與會者，並傳送遺漏電子郵件給未顯示的註冊者。 Marketo Engage的同事會建立兩個智慧型行銷活動，每個區段一個，並使用正確的篩選器和電子郵件預留位置。
+**活動後續追蹤計畫**：在交易會後，經理要求CX Enterprise Coworker的Marketo Engage建立活動後後續追蹤計畫，以傳送感謝電子郵件給與會者，並傳送遺漏電子郵件給未顯示的註冊者。 適用於Marketo Engage的CX Enterprise Coworker會建立兩個智慧型行銷活動，每個區段一個，並使用正確的篩選器和電子郵件預留位置。
 
 >[!NOTE]
 >
@@ -58,6 +58,6 @@ ht-degree: 0%
 * 需要範本選取。 選擇包含至少一個電子郵件和一個Smart Campaign的範本。 此工具無法搭配空白範本使用。
 * 電子郵件內容是自動產生的，但Smart Campaign篩選器和流量步驟仍維持手動狀態。 您必須在建立後設定邏輯，以符合行銷活動的預期行為。
 * 額外的資產會透過複製建立。 如果您的簡短呼叫了4封電子郵件，但範本有1封，則工具會建立3個重複專案。 檢閱所有範本的一致性；它們繼承範本的設計和結構。
-* Marketo Engage的同事無法自動存取您現有的對象清單。 您必須手動設定「智慧列示」篩選器，以便在建立程式後鎖定實際區段。
+* 適用於Marketo Engage的CX Enterprise Coworker無法自動存取您現有的對象清單。 您必須手動設定「智慧列示」篩選器，以便在建立程式後鎖定實際區段。
 * 具有進階分支邏輯的複雜多步驟程式在建立後可能需要手動細分。
 * 如果您的Marketo環境使用命名慣例或資料夾結構，請在您的簡介中指定它們，以便在正確位置建立程式。

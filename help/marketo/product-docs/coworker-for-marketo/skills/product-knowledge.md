@@ -1,34 +1,32 @@
 ---
-description: 運用產品知識，向Marketo Engage的同事詢問功能、最佳實務和操作說明。 答案以Adobe的官方檔案為依據。
+description: 運用產品知識，向CX Enterprise Coworker for Marketo Engage詢問功能、最佳實務和操作說明。 答案以Adobe的官方檔案為依據。
 title: 產品知識
-source-git-commit: 224dff93cda319bb6bb59fcbec4edb13cc940f4a
+source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '442'
 ht-degree: 0%
-
 ---
-
 # 產品知識 {#product-knowledge}
 
-產品知識可讓您隨選存取Marketo專業知識，而不需離開平台。 以直白語言提出問題，而Marketo Engage的同事會利用官方Adobe檔案來回答。
+產品知識可讓您隨選存取Marketo專業知識，而不需離開平台。 以直白語言提出問題，Marketo Engage的CX Enterprise Coworker會利用官方Adobe檔案來回答。
 
 ## 使用方式 {#how-to-use}
 
-1. 在「我的Marketo」中，按一下「**Marketo Engage同事**」圖磚。
+1. 在「我的Marketo」中，按一下「適用於Marketo Engage的&#x200B;**CX Enterprise Coworker」**&#x200B;圖磚。
 1. 在提示視窗中，以自然語言輸入您的問題；不需要特殊語法。
 1. 已提供答案。 如果您需要更多細節或不同的角度，請要求後續處理。
 
 ## 使用案例 {#use-cases}
 
-**疑難排解智慧型行銷活動**：行銷作業專員無法找出為什麼使用者沒有流過智慧型行銷活動觸發程式。 他們問：「為什麼即使人們符合篩選條件，觸發行銷活動還是沒有觸發？」 Marketo Engage的同事會逐步說明最常見的原因：促銷活動未啟用、觸發事件未發生、人員已執行促銷活動，且資格規則封鎖重新進入。
+**疑難排解智慧型行銷活動**：行銷作業專員無法找出為什麼使用者沒有流過智慧型行銷活動觸發程式。 他們問：「為什麼即使人們符合篩選條件，觸發行銷活動還是沒有觸發？」 適用於Marketo Engage的CX Enterprise Coworker會逐步說明最常見的原因：促銷活動未啟用、未發生觸發事件、人員已執行促銷活動，且資格規則封鎖重新進入。
 
-**在批次和觸發行銷活動之間選擇**：需求一般管理員不確定用於時效性警示的智慧行銷活動型別。 他們問：「批次行銷活動與觸發行銷活動之間有何差異，以及何時應使用各行銷活動？」 Marketo Engage的同事會說明區別，並針對排程傳送至已定義清單的即時、事件導向動作（例如MQL警報）和批次行銷活動，建議觸發程式。
+**在批次和觸發行銷活動之間選擇**：需求一般管理員不確定用於時效性警示的智慧行銷活動型別。 他們問：「批次行銷活動與觸發行銷活動之間有何差異，以及何時應使用各行銷活動？」 適用於Marketo Engage的CX Enterprise Coworker說明這項區別，並建議針對排程傳送至已定義清單的即時、事件導向動作（例如MQL警報）和批次促銷活動，觸發此事件。
 
-**瞭解方案成員狀態**：行銷活動經理在網路研討會後通知方案成員狀態不符合其期望。 他們問：「Marketo活動方案中的『已註冊』與『已參加』狀態有何不同，如何設定？」 Marketo Engage的同事說明每個狀態的設定方式、網路研討會程式的典型流程，以及在整合未自動設定狀態時，如何手動更新狀態。
+**瞭解方案成員狀態**：行銷活動經理在網路研討會後通知方案成員狀態不符合其期望。 他們問：「Marketo活動方案中的『已註冊』與『已參加』狀態有何不同，如何設定？」 適用於Marketo Engage的CX Enterprise Coworker說明每個狀態的設定方式、網路研討會程式的典型流程，以及當整合未自動設定狀態時如何手動更新狀態。
 
 ## 注意事項 {#things-to-note}
 
 * 產品知識最適合一般Marketo問題和最佳實務。 無法存取您的特定訂閱資料。
 * 可用時使用特定代理程式。 若要瞭解個人/銷售機會或行銷活動為何有特定行為，請改用&#x200B;_銷售機會調查_&#x200B;或&#x200B;_方案QA_。
-* Marketo Engage同事知識庫反映Adobe的紀錄指引和最佳作法。 如需最新功能發行資訊，請直接參閱Adobe Marketo Engage發行說明。
+* 適用於Marketo Engage的CX Enterprise Coworker知識庫反映了Adobe的紀錄式指引和最佳作法。 如需最新功能發行資訊，請直接參閱Adobe Marketo Engage發行說明。
 * 問題越具體，答案就越有用。 「人員/潛在客戶評分如何運作？」 會得到比「我應該以10或15分的成績對一次定價頁面瀏覽打分？」更廣泛的答案，

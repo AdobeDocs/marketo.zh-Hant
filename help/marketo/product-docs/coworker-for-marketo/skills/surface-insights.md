@@ -1,15 +1,13 @@
 ---
-description: 與Marketo Engage的同事討論您的效能資料。 以淺顯的語言提出問題，並在Marketo Engage環境中獲得解答。
+description: 與適用於Marketo Engage的CX Enterprise Coworker討論您的效能資料。 以淺顯的語言提出問題，並在Marketo Engage環境中獲得解答。
 title: 表面分析
 badge: Beta
 hide: true
-source-git-commit: 224dff93cda319bb6bb59fcbec4edb13cc940f4a
+source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
 workflow-type: tm+mt
-source-wordcount: '519'
+source-wordcount: '537'
 ht-degree: 0%
-
 ---
-
 # 表面分析 {#surface-insights}
 
 Surface Insights可讓您就Marketo效能資料進行交談。 以淺顯的語言提出問題，並在Marketo環境中獲得解答。
@@ -26,26 +24,26 @@ Surface Insights可讓您就Marketo效能資料進行交談。 以淺顯的語�
 
 ## 使用方式 {#how-to-use}
 
-1. 在「我的Marketo」中，按一下「**Marketo Engage同事**」圖磚。
+1. 在「我的Marketo」中，按一下「適用於Marketo Engage的&#x200B;**CX Enterprise Coworker」**&#x200B;圖磚。
 
 1. 在提示視窗中，詢問效能問題。 如果您有時間範圍或計畫，請具體說明。
 
-1. 檢閱Marketo Engage同事退貨摘要。 它會包含關鍵量度，例如開放率、點按率、轉換率和銷售機會計數，具體取決於您詢問的內容。
+1. 檢閱CX Enterprise Coworker摘要，以瞭解Marketo Engage傳回。 它會包含關鍵量度，例如開放率、點按率、轉換率和銷售機會計數，具體取決於您詢問的內容。
 
 1. 提出後續問題以探索特定區域(例如，「該計畫中的哪個電子郵件的點按率最高？」 或「和上一季相比如何？」)。
 
 ## 使用案例 {#use-cases}
 
-**每季方案審查**：需求一般管理員正在準備行銷活動審查會議。 他們問：「我的第二季培養計畫整體表現如何？」 Marketo Engage的同事會傳回開放率、點進開放率、取消訂閱率，以及所有第二季培養方案中進階至MQL的人員/潛在客戶數量，並附上哪些方案的表現優於群組平均值的備註。
+**每季方案審查**：需求一般管理員正在準備行銷活動審查會議。 他們問：「我的第二季培養計畫整體表現如何？」 適用於Marketo Engage的CX Enterprise Coworker會傳回開放率、點按開放率、取消訂閱率，以及所有第二季培養方案中進階至MQL的人員/潛在客戶數量，並附上哪些方案的表現優於群組平均值的說明。
 
-**比較兩個行銷活動**：行銷活動經理執行了兩個版本的具有不同主旨行的網路研討會邀請系列。 他們問：「就報名率而言，四月的網路研討會課程與三月的相比如何？」 Marketo Engage的同事會傳回每個人的註冊編號，並醒目提示差異，這樣他們就能看到哪個方法效果更好。
+**比較兩個行銷活動**：行銷活動經理執行了兩個版本的具有不同主旨行的網路研討會邀請系列。 他們問：「就報名率而言，四月的網路研討會課程與三月的相比如何？」 適用於Marketo Engage的CX Enterprise Coworker會傳回每個人的註冊號碼，並突顯差異，方便他們檢視哪個方法效果更好。
 
-**尋找表現最佳的內容**：行銷作業專員想知道上個月哪些電子郵件資產吸引最多人參與。 他們問：「5月哪些電子郵件的點按率最高？」 Marketo Engage的同事會傳回具有點按率的電子郵件資產排名清單，以便識別引起共鳴的內容，並告知未來的內容決策。
+**尋找表現最佳的內容**：行銷作業專員想知道上個月哪些電子郵件資產吸引最多人參與。 他們問：「5月哪些電子郵件的點按率最高？」 適用於Marketo Engage的CX Enterprise Coworker會傳回具有點按率的電子郵件資產排名清單，以便識別引起共鳴的內容，並告知未來的內容決策。
 
 ## 注意事項 {#things-to-note}
 
-* 表面深入分析是以您的Marketo例項中可用的資料為基礎。 如果未追蹤計畫或未擷取量度，Marketo Engage的同事將無法針對該計畫製作報表。
+* 表面深入分析是以您的Marketo例項中可用的資料為基礎。 如果沒有追蹤計畫或擷取量度，適用於Marketo Engage的CX Enterprise Coworker將無法針對該量度製作報表。
 * 非常大的日期範圍或廣泛的問題可能會傳回高階摘要，而不是精細的細節。 例如，「我所有的程式在過去兩年中表現如何？」
-* Marketo Engage的同事可以呈現資料，但無法根據他們找到的內容變更您的方案或報告。
+* 適用於Marketo Engage的CX Enterprise Coworker可以顯示資料，但無法根據它找到的內容變更您的計畫或報表。
 * 若要使用特定篩選器和劃分的詳細自訂報表，Marketo內建報告工具或BI整合可能更合適。
-* 跨多重接觸式行銷活動的歸因需要正確的方案設定。 Marketo Engage的同事會報告已追蹤的專案，而非推斷未設定的歸因。
+* 跨多重接觸式行銷活動的歸因需要正確的方案設定。 適用於Marketo Engage的CX Enterprise Coworker會報告哪些專案受到追蹤，而非推斷未設定的歸因。
