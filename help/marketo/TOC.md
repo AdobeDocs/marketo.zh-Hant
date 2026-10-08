@@ -4,9 +4,9 @@ user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 2bf1305a6dd7f26b4a96309e858c32e101f5b41c
+source-git-commit: bf54ef2e3651759827fa6d040a94512f694d8f9a
 workflow-type: tm+mt
-source-wordcount: '8942'
+source-wordcount: '8936'
 ht-degree: 96%
 ---
 
@@ -497,7 +497,7 @@ ht-degree: 96%
       + [調查銷售機會](product-docs/coworker-for-marketo/skills/investigate-leads.md)
       + [匯入銷售機會](product-docs/coworker-for-marketo/skills/import-leads.md)
       + [驗證程式](product-docs/coworker-for-marketo/skills/validate-programs.md)
-    + [MARKETO MCP](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/mcp-server)
+    + [MARKETO MCP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + CRM 同步 {#crm-sync}
     + Microsoft Dynamics 同步 {#microsoft-dynamics}
       + [了解 Microsoft Dynamics 同步](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
@@ -600,7 +600,6 @@ ht-degree: 96%
       + [啟用/停用 Salesforce 同步](product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)
       + [隱含的 Salesforce 動作](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
       + [使用 OAuth 2.0 登入](product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md)
-      + {hide-from-toc}[使用OAuth 2.0 NEW登入](product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0-new.md)
       + [Salesforce 同步待辦項目量度](product-docs/crm-sync/salesforce-sync/salesforce-sync-backlog-metrics.md)
       + [Salesforce 同步錯誤](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
       + [Salesforce 同步狀態](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)

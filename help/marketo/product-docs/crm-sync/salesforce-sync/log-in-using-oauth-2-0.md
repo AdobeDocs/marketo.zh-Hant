@@ -3,20 +3,26 @@ description: 瞭解如何使用OAuth 2.0連結Marketo和Salesforce。 在Salesfo
 title: 使用 OAuth 2.0 登入
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/DG57bnPnHcwgMX16fmboe5t0W3anVkVt4BNba3ltgqI
+TQID: 'https://experienceleague.adobe.com/DG57bnPnHcwgMX16fmboe5t0W3anVkVt4BNba3ltgqI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: 115ae737bd08722278cb207b24827e109bb259bf
 workflow-type: tm+mt
-source-wordcount: 641
+source-wordcount: '663'
 ht-degree: 3%
-
 ---
-
 # 使用 OAuth 2.0 登入 {#log-in-using-oauth-2-0}
 
 Salesforce使用OAuth通訊協定，讓應用程式的使用者能夠安全存取（使用OAuth 2.0驗證應用程式）資料，不必揭露登入認證。 以下是將Marketo Engage安全地連線並與Salesforce同步要執行的步驟。
@@ -55,11 +61,11 @@ Salesforce使用OAuth通訊協定，讓應用程式的使用者能夠安全存�
 
    ![](assets/log-in-using-oauth-6.png)
 
-1. 在&#x200B;_安全性_&#x200B;下，確定只選取&#x200B;**Web伺服器流程需要密碼**&#x200B;和&#x200B;**重新整理權杖流程需要密碼**。
+1. 在&#x200B;_安全性_&#x200B;下，確定只選取&#x200B;**Web伺服器流程需要密碼**、**重新整理權杖流程需要密碼**&#x200B;以及&#x200B;**Code Exchange (PKCE)需要校訂金鑰……**。
 
    ![](assets/log-in-using-oauth-7.png)
 
-1. 略過最後四個區段，然後按一下[建立]。**&#x200B;**
+1. 略過最後四個區段，然後按一下[建立]。****
 
    ![](assets/log-in-using-oauth-8.png)
 
@@ -77,9 +83,9 @@ Salesforce使用OAuth通訊協定，讓應用程式的使用者能夠安全存�
 >
 >* 必須為Salesforce Sync使用者啟用API存取權（如果您是Salesforce Professional Edition使用者，預設將無法使用該存取權 — 請聯絡您的Salesforce帳戶主管）。
 >* 必須在Salesforce中建立Marketo Sync使用者。
->* 針對現有客戶，系統會在客戶的訂閱上啟用「為SFDC同步啟用OAuth」功能。
 >* 快顯封鎖程式已停用。
 >* 已建立連線應用程式，[!UICONTROL Consumer Key]和[!UICONTROL Consumer Secret]可供使用。
+>* 聯絡[Marketo支援](https://experienceleague.adobe.com/en/support)以啟用下列功能：啟用SFDC同步的OAuth、需要重新整理權杖流程的密碼，以及程式碼交換的校訂金鑰(PKCE)。
 
 >[!CAUTION]
 >
