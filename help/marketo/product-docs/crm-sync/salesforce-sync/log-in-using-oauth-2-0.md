@@ -85,7 +85,7 @@ Salesforce使用OAuth通訊協定，讓應用程式的使用者能夠安全存�
 >* 必須在Salesforce中建立Marketo Sync使用者。
 >* 快顯封鎖程式已停用。
 >* 已建立連線應用程式，[!UICONTROL Consumer Key]和[!UICONTROL Consumer Secret]可供使用。
->* 聯絡[Marketo支援](https://experienceleague.adobe.com/en/support)以啟用下列功能：啟用SFDC同步的OAuth、需要重新整理權杖流程的密碼，以及程式碼交換的校訂金鑰(PKCE)。
+>* 聯絡[Marketo支援](https://experienceleague.adobe.com/zh-hant/support)以啟用下列功能：啟用SFDC同步的OAuth、需要重新整理權杖流程的密碼，以及程式碼交換的校訂金鑰(PKCE)。
 
 >[!CAUTION]
 >
