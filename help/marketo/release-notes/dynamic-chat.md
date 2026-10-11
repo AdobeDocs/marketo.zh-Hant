@@ -51,11 +51,11 @@ Adobe Dynamic Chat 的版本發行採用持續傳遞的模式，提供擴充性�
 
 ### 訪客等待時間限制 {#visitor-wait-time}
 
-設定訪客在收到遞補訊息之前，等候連線至即時代理的最長時間（10至500秒之間）。 [了解更多](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management#visitor-wait-time){target="_blank"}
+設定訪客在收到遞補訊息之前，等候連線至即時代理的最長時間（10至500秒之間）。 [了解更多](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management#visitor-wait-time){target="_blank"}
 
 ### 下載逐字稿 {#download-transcript}
 
-您現在可以在即時聊天結束後下載聊天記錄的.txt檔案。 [了解更多](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
+您現在可以在即時聊天結束後下載聊天記錄的.txt檔案。 [了解更多](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
 
 ## 2025 年 6 月發行版本 {#june-2025-release}
 

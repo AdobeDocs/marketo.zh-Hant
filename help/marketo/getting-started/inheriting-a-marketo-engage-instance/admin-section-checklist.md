@@ -340,7 +340,7 @@ Adobe Professional Services已將以下核對清單（連結至每篇文章底�
   </tr>
   <tr>
    <td>Adobe Dynamic Chat （如果適用）</td>
-<td>若要遵循下列步驟，必須存取<a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a>。 如果您尚未設定Adobe ID，請<a href="https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html" target="_blank">在這裡瞭解如何設定</a>。
+<td>若要遵循下列步驟，必須存取<a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a>。 如果您尚未設定Adobe ID，請<a href="https://helpx.adobe.com/tw/manage-account/using/create-update-adobe-id.html" target="_blank">在這裡瞭解如何設定</a>。
 <br/>
 <li>您是否接受<a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">Dynamic Chat產品管理員</a>邀請？ 電子郵件會在您的Marketo Engage執行個體中啟用Dynamic Chat時傳送，而且您會指定為系統管理員。
 <br/>如果沒有，請在收件匣中尋找歡迎電子郵件，並接受邀請以設定您的Adobe ID。</li>

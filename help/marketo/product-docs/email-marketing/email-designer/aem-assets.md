@@ -41,11 +41,11 @@ Adobe Experience Manager _Assets as a Cloud Service_&#x200B;提供簡單易用�
 
 >[!PREREQUISITES]
 >
->* 整合需要&#x200B;_Assets as a Cloud Service_&#x200B;和Dynamic Media的授權。 確定已啟用[Dynamic Media with Open API](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/dynamic-media-open-apis-overview#enable-dynamic-media-open-apis)。 根據您的合約和設定，在設計視覺內容時，可以直接從Marketo Engage存取Adobe Experience Manager _Assets as a Cloud Service_。
+>* 整合需要&#x200B;_Assets as a Cloud Service_&#x200B;和Dynamic Media的授權。 確定已啟用[Dynamic Media with Open API](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/dynamic-media-open-apis-overview#enable-dynamic-media-open-apis)。 根據您的合約和設定，在設計視覺內容時，可以直接從Marketo Engage存取Adobe Experience Manager _Assets as a Cloud Service_。
 
 >[!NOTE]
 >
->目前，Marketo Engage僅支援來自&#x200B;_Adobe Experience Manager Assets_&#x200B;的影像資產。 必須從Adobe Experience Manager Assets中央存放庫變更資產。 [了解更多](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
+>目前，Marketo Engage僅支援來自&#x200B;_Adobe Experience Manager Assets_&#x200B;的影像資產。 必須從Adobe Experience Manager Assets中央存放庫變更資產。 [了解更多](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
 
 ## 連結至您的AEM雲端服務 {#link-to-your-aem-cloud-services}
 
@@ -73,7 +73,7 @@ Adobe Experience Manager _Assets as a Cloud Service_&#x200B;提供簡單易用�
    >
    >* 系統只會列出與您的Marketo Engage訂閱在同一IMS組織中關聯的存放庫。
    >
-   >* Marketo Engage僅支援來自傳遞層的存放庫。 如果您使用作者層級且想要轉換它，請聯絡[Adobe Experience Manager支援](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/overview/help-resources)。
+   >* Marketo Engage僅支援來自傳遞層的存放庫。 如果您使用作者層級且想要轉換它，請聯絡[Adobe Experience Manager支援](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-manager/content/overview/help-resources)。
 
 1. 您必須新增[服務認證憑證](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials)才能設定存放庫。 按一下&#x200B;**+新增憑證**&#x200B;按鈕。
 
@@ -111,7 +111,7 @@ Adobe Experience Manager _Assets as a Cloud Service_&#x200B;提供簡單易用�
 
 >[!IMPORTANT]
 >
->管理員必須將需要存取資產的使用者新增至Assets消費者使用者和/或Assets使用者產品設定檔。 [了解更多](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
+>管理員必須將需要存取資產的使用者新增至Assets消費者使用者和/或Assets使用者產品設定檔。 [了解更多](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
 
 在視覺內容編輯器中，按一下左側邊欄中的&#x200B;_Experience Manager資產選擇器_&#x200B;圖示。 這會將工具面板變更為所選存放庫中的可用資產清單。
 

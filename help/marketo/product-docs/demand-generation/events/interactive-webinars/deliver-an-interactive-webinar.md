@@ -114,7 +114,7 @@ Chat Pod中的討論會一律記錄下來。 因此，如果聊天討論可增�
 
 ![](assets/deliver-an-interactive-webinar-9.png)
 
-深入瞭解[聊天面板](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}。
+深入瞭解[聊天面板](https://helpx.adobe.com/tw/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}。
 
 ### 準備模式 {#prepare-mode}
 
@@ -137,22 +137,22 @@ Chat Pod中的討論會一律記錄下來。 因此，如果聊天討論可增�
 >[!NOTE]
 >
 >* 對即時Pod所做的任何變更都會立即反映給參與者。
->* [聊天面板](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}不是準備模式的一部分，對它的任何變更都會立即反映給參與者。
+>* [聊天面板](https://helpx.adobe.com/tw/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}不是準備模式的一部分，對它的任何變更都會立即反映給參與者。
 
 ### 協助工具 {#accessibility}
 
 Adobe致力改善互動式網路研討會的無障礙環境，以吸引身心障礙的簡報者和參與者。 本軟體持續強化，以符合各類使用者的需求，並符合全球標準，包括視覺、聽覺、行動力或其他殘疾人士。
 
-瞭解Adobe Connect如何針對[視覺、聽覺和行動力需求](https://helpx.adobe.com/adobe-connect/using/accessibility-features.html){target="_blank"}提供協助。
+瞭解Adobe Connect如何針對[視覺、聽覺和行動力需求](https://helpx.adobe.com/tw/adobe-connect/using/accessibility-features.html){target="_blank"}提供協助。
 
 ### 隱藏式字幕 {#closed-captions}
 
 隱藏式字幕是Adobe Connect會議室中音訊的文字表示，可協助耳聾或聽力缺佳的參與者參與活動。 您可以將音訊內容的即時字幕整合到事件中，並在「隱藏式字幕」顯示中呈現這些字幕。
 
-瞭解如何[啟用隱藏式字幕](https://helpx.adobe.com/adobe-connect/using/closed-captioning-html-client.html){target="_blank"}。
+瞭解如何[啟用隱藏式字幕](https://helpx.adobe.com/tw/adobe-connect/using/closed-captioning-html-client.html){target="_blank"}。
 
 ### 模擬的即時網路研討會 {#simulated-live-webinars}
 
 呈現預先錄製的網路研討會，就像使用模擬即時網路研討會格式直播一樣。 與會者可在排程時間加入並即時體驗工作階段，享受聊天、投票和問答等互動功能。模擬的即時網路研討會結合已錄製內容的可靠性與即時事件的互動式體驗。
 
-深入瞭解[模擬即時網路研討會](https://helpx.adobe.com/adobe-connect/using/webinar/overview-of-simulated-live-webinars.html){target="_blank"}。
+深入瞭解[模擬即時網路研討會](https://helpx.adobe.com/tw/adobe-connect/using/webinar/overview-of-simulated-live-webinars.html){target="_blank"}。
