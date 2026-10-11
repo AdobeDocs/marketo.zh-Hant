@@ -4,13 +4,19 @@ description: 瞭解如何在Marketo Engage中的收入總管和分析器中提�
 title: 讓營收總管及分析工具可以包含沒有期間成本的方案
 exl-id: 45a24b9f-d92f-4f48-a7d1-0be14cd128b1
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 11%
-
 ---
-
 # 讓營收總管及分析工具可以包含沒有期間成本的方案 {#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
 
 方案期間成本可讓您定義方案的「金額」和「時間」。 這會顯示在Revenue Cycle Explorer和[分析器](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)中。

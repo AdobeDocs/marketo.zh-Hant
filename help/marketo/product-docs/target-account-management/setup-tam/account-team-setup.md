@@ -4,16 +4,21 @@ description: 瞭解如何設定帳戶團隊並將CRM帳戶角色對應至TAM。 
 title: 帳戶團隊設定
 exl-id: a4aee37f-5e39-4296-b720-b1c73c98df9e
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/UyREfPyH-7ICes5S0VhIcu-3MsS5TlNG40TcZ9z5w94
+TQID: 'https://experienceleague.adobe.com/UyREfPyH-7ICes5S0VhIcu-3MsS5TlNG40TcZ9z5w94'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 187
+source-wordcount: '187'
 ht-degree: 5%
-
 ---
-
 # 帳戶團隊設定 {#account-team-setup}
 
 帳戶團隊是在指定帳戶中共同作業的利害關係人群組。 請依照下列步驟，選擇應新增的CRM帳戶角色。

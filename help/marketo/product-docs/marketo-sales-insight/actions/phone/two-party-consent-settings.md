@@ -3,16 +3,18 @@ description: 瞭解如何設定通話錄製的雙方同意設定。 遵守州和
 title: 雙方同意設定
 exl-id: 47634441-c396-4f0c-a9ea-d4f6872b6bf5
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/2KKg-cF-O7M5XAexsGVewdSbddMuCjFD3EwwSoZgfQ4
+TQID: 'https://experienceleague.adobe.com/2KKg-cF-O7M5XAexsGVewdSbddMuCjFD3EwwSoZgfQ4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 151
+source-wordcount: '151'
 ht-degree: 7%
-
 ---
-
 # 雙方同意設定 {#two-party-consent-settings}
 
 為了確保錄音電話時符合美國兩黨同意法，身為管理員，您可以啟用您選擇的預先錄製的訊息，在錄音電話開始時播放。

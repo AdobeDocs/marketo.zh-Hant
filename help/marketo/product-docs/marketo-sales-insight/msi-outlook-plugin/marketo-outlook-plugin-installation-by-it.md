@@ -1,22 +1,26 @@
 ---
 unique-page-id: 11382815
 description: 瞭解IT人員如何為組織安裝Marketo Outlook外掛程式。 為Outlook使用者大規模部署增益集。
-title: 由IT安裝Marketo [!DNL Outlook] 外掛程式
+title: 由IT安裝Marketo [!DNL Outlook]外掛程式
 exl-id: c1ae1fb8-d1ad-4c1b-899b-29629fcb166b
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/7Gq4FJlVf9jvqL2Bz34oQVL8HtBNYCjEHl32g-0RXYk
+TQID: 'https://experienceleague.adobe.com/7Gq4FJlVf9jvqL2Bz34oQVL8HtBNYCjEHl32g-0RXYk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 195
+source-wordcount: '196'
 ht-degree: 1%
-
 ---
-
 # 由IT安裝Marketo [!DNL Outlook]外掛程式 {#marketo-outlook-plugin-installation-by-it}
 
 有時公司政策會要求其IT團隊在員工的電腦上安裝所有軟體。 在這些情況下，IT通常會使用自己的部署軟體從遠端執行這項作業。 此檔案提供您在部署程式期間用來作為輸入以遠端安裝Outlook外掛程式的命令列。

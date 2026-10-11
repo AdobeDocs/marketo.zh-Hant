@@ -4,20 +4,26 @@ description: 瞭解如何為Dynamics 2015內部部署設定Marketo同步使用�
 title: 安裝適用於Microsoft Dynamics 2015內部部署的Marketo步驟3之2
 exl-id: 39f00749-4ba3-47f1-b2e3-72cbaa7caf2e
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/hCthtzbLl9lqBmn2Ges10eu7UM-fzDt-0UyT8Je-bbY
+TQID: 'https://experienceleague.adobe.com/hCthtzbLl9lqBmn2Ges10eu7UM-fzDt-0UyT8Je-bbY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 358
+source-wordcount: '358'
 ht-degree: 1%
-
 ---
-
 # 步驟3之2：為[!DNL Dynamics]設定Marketo （2015年內部部署）{#step-of-set-up-for-marketo-on-premises-2015}
 
 先前&#39;b5&#39;7b驟已完成。
@@ -64,7 +70,7 @@ ht-degree: 1%
 
    >[!TIP]
    >
-   >如果您沒有看到角色，請返回3[&#128279;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2015.md){target="_blank"}的步驟1並匯入解決方案。
+   >如果您沒有看到角色，請返回3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2015.md){target="_blank"}的[步驟1並匯入解決方案。
 
    >[!NOTE]
    >

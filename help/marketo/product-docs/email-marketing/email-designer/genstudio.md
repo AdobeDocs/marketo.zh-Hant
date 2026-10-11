@@ -6,24 +6,33 @@ product: marketo
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: bb15b18e-9a17-4dee-87f4-12f216dd3545
-TQID: https://experienceleague.adobe.com/opg2aUcpf3QCiu5TazxPMfihsp6DPrRtekX3RicGg-M
+TQID: 'https://experienceleague.adobe.com/opg2aUcpf3QCiu5TazxPMfihsp6DPrRtekX3RicGg-M'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 449
+source-wordcount: '449'
 ht-degree: 5%
-
 ---
-
 # GenStudio 與 Marketo Engage 的整合 {#genstudio-integration-for-marketo-engage}
 
 Adobe GenStudio for Performance Marketing是創作AI優先的應用程式，可讓您建立自己的廣告和電子郵件，以推動具影響力的個人化行銷活動，符合您的品牌標準並符合您的企業政策。 它提供許多工具，可簡化內容建立的複雜性。
@@ -53,9 +62,9 @@ Adobe GenStudio for Performance Marketing是創作AI優先的應用程式，可�
 
    ![匯出您的HTML](assets/genstudio-integration-1.png)
 
-1. [將HTML](https://experienceleague.adobe.com/zh-hant/docs/genstudio-for-performance-marketing/user-guide/content/templates/use-templates#templates-from-ajo-and-marketo){target="_blank"}匯出的範本上傳至GenStudio for Performance Marketing。
+1. [將HTML](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/content/templates/use-templates#templates-from-ajo-and-marketo){target="_blank"}匯出的範本上傳至GenStudio for Performance Marketing。
 
-1. 在GenStudio中，使用此範本來[建立多個包含AI提示的電子郵件變數](https://experienceleague.adobe.com/zh-hant/docs/genstudio-for-performance-marketing/user-guide/create/create-email-experience){target="_blank"}並儲存。
+1. 在GenStudio中，使用此範本來[建立多個包含AI提示的電子郵件變數](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/create-email-experience){target="_blank"}並儲存。
 
 ## 在Marketo Engage中善用GenStudio體驗 {#leverage-genstudio-experiences}
 

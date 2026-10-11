@@ -4,18 +4,20 @@ description: 瞭解如何在Sales Connect中自訂取消訂閱連結訊息。 �
 title: 自訂取消訂閱連結訊息
 exl-id: 565754ce-644c-4ba7-bb67-cd0b4dc0f7e1
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/kv6F3guF1MHkS25cr-yr3QF-DtAsoRqNaCVrCUpMiEY
+TQID: 'https://experienceleague.adobe.com/kv6F3guF1MHkS25cr-yr3QF-DtAsoRqNaCVrCUpMiEY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 200
+source-wordcount: '200'
 ht-degree: 4%
-
 ---
-
 # 自訂取消訂閱連結訊息 {#customize-unsubscribe-link-message}
 
 我們一律允許團隊自訂其取消訂閱連結訊息，但現在，管理員可以為其整個團隊設定取消訂閱連結訊息，以確保一致的訊息。

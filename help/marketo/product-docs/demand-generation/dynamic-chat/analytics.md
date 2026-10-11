@@ -3,20 +3,26 @@ description: 瞭解關於Dynamic Chat Analytics儀表板的參與度和效能。
 title: 分析
 feature: Dynamic Chat
 exl-id: 8130a970-4cf1-4bf6-9403-998460269843
-TQID: https://experienceleague.adobe.com/50vtNoN8ZR9w062QfNp3Y3Fh21R-XH8oQr17JO3pJOw
+TQID: 'https://experienceleague.adobe.com/50vtNoN8ZR9w062QfNp3Y3Fh21R-XH8oQr17JO3pJOw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 276
+source-wordcount: '278'
 ht-degree: 3%
-
 ---
-
 # 分析 {#analytics}
 
 雖然報表可在對話方塊層級使用，但使用以下三個儀表板檢查整體參與。

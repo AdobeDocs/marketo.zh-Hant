@@ -4,30 +4,39 @@ description: 瞭解Marketo中的匿名活動和人員。 瞭解在轉換前如�
 title: 了解匿名活動和人員
 exl-id: 1676e8f3-9138-42ed-8bb4-40e195391fc4
 feature: Smart Lists
-TQID: https://experienceleague.adobe.com/avWmJKBGktOEseVl3uIYB9Bp19Rq3HQgo98gKJFDtIc
+TQID: 'https://experienceleague.adobe.com/avWmJKBGktOEseVl3uIYB9Bp19Rq3HQgo98gKJFDtIc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 271
+source-wordcount: '271'
 ht-degree: 3%
-
 ---
-
 # 了解匿名活動和人員 {#understanding-anonymous-activity-and-people}
 
 第一次有人造訪Marketo登陸頁面（或您的網站上具有[Munchkin追蹤代碼](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}的頁面）時，Marketo會建立&#x200B;*匿名活動*&#x200B;並使用瀏覽器Cookie進行追蹤。 在識別之後，它會變成人員，而且與其瀏覽器Cookie相關的歷史記錄會合併到中。
 
 >[!IMPORTANT]
 >
->在已知&#x200B;**上啟用Beta功能**&#x200B;[!DNL Munchkin] V2匿名重播活動，可確保在匿名潛在客戶成功合併至已知記錄後，由匿名潛在客戶促銷活動觸發的行銷活動將一律重播。 因此，在任何重播的行銷活動中，由變更資料值步驟變更的自訂欄位將保留在已知記錄中。
+>在已知&#x200B;**上啟用Beta功能**[!DNL Munchkin] V2匿名重播活動，可確保在匿名潛在客戶成功合併至已知記錄後，由匿名潛在客戶促銷活動觸發的行銷活動將一律重播。 因此，在任何重播的行銷活動中，由變更資料值步驟變更的自訂欄位將保留在已知記錄中。
 
 **在下列情況下會建立匿名**&#x200B;活動：
 
@@ -41,7 +50,7 @@ ht-degree: 3%
 
 在下列情況下，匿名活動會合併至新的或現有人員：
 
-* 按一下Marketo電子郵件[&#128279;](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md){target="_blank"}中的連結。
+* 按一下Marketo電子郵件](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md){target="_blank"}中的[連結。
 * 填寫Marketo [表單](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}。
 * 使用Marketo的[SOAP](/help/marketo/product-docs/administration/additional-integrations/configuring-your-soap-api-settings.md){target="_blank"}或[Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} API （適用於開發人員），將匿名人員與已知記錄建立關聯。
 

@@ -3,16 +3,18 @@ description: 瞭解如何在Sales Insight動作中管理連絡人群組。 建�
 title: 管理群組
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/yN7o-BB4oNeM-x78M5-CH3WDctyqoO-mlZriZGGRn8A
+TQID: 'https://experienceleague.adobe.com/yN7o-BB4oNeM-x78M5-CH3WDctyqoO-mlZriZGGRn8A'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 324
+source-wordcount: '324'
 ht-degree: 3%
-
 ---
-
 # 管理群組 {#manage-groups}
 
 瞭解如何在[!DNL Sales Insight Actions]中管理您的群組。
@@ -76,7 +78,7 @@ ht-degree: 3%
 
    ![](assets/manage-groups-6.png)
 
-1. 選取您要新增它們的群組，然後按一下[新增]。**&#x200B;**
+1. 選取您要新增它們的群組，然後按一下[新增]。****
 
    ![](assets/manage-groups-7.png)
 

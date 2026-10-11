@@ -3,21 +3,25 @@ description: 瞭解如何在Marketo中自訂互動式網路研討會。 設定�
 title: 互動式網路研討會自訂
 feature: Interactive Webinars
 exl-id: 52933cb6-7bce-4c81-ba3f-68eaf211e8eb
-TQID: https://experienceleague.adobe.com/WV5faY8xCe28CjNG18u-fXeLb2LtkhQp68bVQF9sk-Q
+TQID: 'https://experienceleague.adobe.com/WV5faY8xCe28CjNG18u-fXeLb2LtkhQp68bVQF9sk-Q'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Accessibility
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 782
+source-wordcount: '782'
 ht-degree: 0%
-
 ---
-
 # 互動式網路研討會自訂 {#interactive-webinars-customization}
 
 自訂您的網路研討會對於為參與者建立更吸引人且更有效的體驗至關重要。
@@ -149,4 +153,4 @@ Adobe Connect提供九種預設背景可供使用。 您可以在「預覽」中
 
 * 主人在建立房間時可以選擇主題，或稍後從房間資訊頁更新主題（**房間頂列** > **更多功能表** > **檢視房間資訊**）。
 
-深入瞭解[主題](https://helpx.adobe.com/tw/adobe-connect/connect-central-admin/connect-central-ui-customization-basics.html){target="_blank"}。
+深入瞭解[主題](https://helpx.adobe.com/adobe-connect/connect-central-admin/connect-central-ui-customization-basics.html){target="_blank"}。

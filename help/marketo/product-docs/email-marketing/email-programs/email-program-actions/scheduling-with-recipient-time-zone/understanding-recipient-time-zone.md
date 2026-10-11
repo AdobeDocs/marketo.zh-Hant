@@ -4,18 +4,23 @@ description: 瞭解電子郵件方案的收件者時區排程。 在每個收件
 title: 了解收件者時區
 exl-id: 8895241e-94c9-43a2-9158-11c1994df09b
 feature: Email Programs
-TQID: https://experienceleague.adobe.com/KAj3dO4Md7Zel5SqR4m2OrTjp93ZD735gNWWRinNV5k
+TQID: 'https://experienceleague.adobe.com/KAj3dO4Md7Zel5SqR4m2OrTjp93ZD735gNWWRinNV5k'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 394
+source-wordcount: '399'
 ht-degree: 3%
-
 ---
-
 # 了解收件者時區 {#understanding-recipient-time-zone}
 
 電子郵件和參與計畫可設定為根據收件者的時區傳送，因此無需建立多個計畫，只需傳送一次，Marketo會自動保留電子郵件，直到正確的當地時間為止。
@@ -35,7 +40,7 @@ ht-degree: 3%
 
 ## 參與方案 {#engagement-programs}
 
-當您[排程參與方案資料流](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)且[!UICONTROL Recipient Time Zone]作用中時，方案轉換會在UTC +14:00的午夜開始執行。 我們要求您至少將未來的25小時（24小時+開始行銷活動的時間）排程為第一個演員，因為全球每個時區的人可能有資格參加演員。 目前以UTC +14:00開始處理，可確保每個符合此轉換資格的人在排程的日期和時間傳送電子郵件。
+當您[排程參與方案資料流](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)且[!UICONTROL Recipient Time Zone]作用中時，方案轉換會在UTC +14:00的午夜開始執行。 我們要求您至少將未來的25小時（24小時+開始行銷活動的時間）排程為第一個演員，因為全球每個時區的人可能有資格參加演員。 此時以UTC +14:00開始處理，可保證每個符合此轉換資格的人在排程的日期和時間傳送電子郵件。
 
 ## 正在計算時區 {#calculating-time-zone}
 
@@ -46,7 +51,7 @@ Marketo會根據人員的城市、州、國家/地區或郵遞區號計算時區
 * 對於時區少於三個的國家/地區，我們選取中間時區。
 * 對於具有兩個時區的狀態，我們選取兩個時區中較早的一個。
 
-如果我們仍然無法從這些欄位的任意組合中判斷某人的時區，我們&#x200B;**不會**&#x200B;指派時區，並將根據您的Marketo訂閱時區傳送電子郵件。 因此，如果您的方案排程為9:00am PDT，則未指派時區的人員將會在9:00am PDT收到電子郵件。
+如果我們仍然無法從這些欄位的任意組合中判斷某人的時區，我們&#x200B;**不會**&#x200B;指派時區，並將根據您的Marketo訂閱時區傳送電子郵件。 因此，如果您的方案排程為太平洋夏季時間上午9:00，則未指派時區的人員將在太平洋夏季時間上午9:00收到電子郵件。
 
 >[!NOTE]
 >

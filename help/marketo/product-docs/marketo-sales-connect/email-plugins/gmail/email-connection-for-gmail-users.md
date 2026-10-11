@@ -4,16 +4,18 @@ description: 瞭解Sales Connect中Gmail使用者的電子郵件連線。 連線
 title: Gmail 使用者的電子郵件連線
 exl-id: 024461f1-b1c0-40ff-bb1c-49846c57dabe
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/gLjTc3K51lnsosWQHH7V02ObiNdi2sGCigPZLybmS-4
+TQID: 'https://experienceleague.adobe.com/gLjTc3K51lnsosWQHH7V02ObiNdi2sGCigPZLybmS-4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 190
+source-wordcount: '190'
 ht-degree: 11%
-
 ---
-
 # Gmail 使用者的電子郵件連線 {#email-connection-for-gmail-users}
 
 連線至Gmail表示您將會收到回覆追蹤、存取Gmail傳遞頻道、在Gmail中排程電子郵件以及傳送合規性。

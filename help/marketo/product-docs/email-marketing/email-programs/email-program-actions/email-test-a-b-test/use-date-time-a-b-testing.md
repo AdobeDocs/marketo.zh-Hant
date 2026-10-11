@@ -4,18 +4,25 @@ description: 瞭解如何執行電子郵件程式的日期/時間A/B測試。 �
 title: 使用「日期/時間」A/B 測試
 exl-id: ee686d46-9427-4f8b-a16f-858c5109cabd
 feature: Email Programs, A/B Testing
-TQID: https://experienceleague.adobe.com/V3lRJlUSegVZJbrhyPJRAKopziqMdmpseC16EFLGzrU
+TQID: 'https://experienceleague.adobe.com/V3lRJlUSegVZJbrhyPJRAKopziqMdmpseC16EFLGzrU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: 69a7f8d6-582c-5b66-841e-32cf07fd164c
+    internal-label: A/B Testing
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 263
+source-wordcount: '263'
 ht-degree: 4%
-
 ---
-
 # 使用「日期/時間」A/B 測試 {#use-date-time-a-b-testing}
 
 您可以輕鬆對電子郵件進行A/B測試。 一個測試是&#x200B;**[!UICONTROL Date/Time]**&#x200B;測試。 這會測試一天中的哪個時間或星期幾最適合傳送電子郵件。 以下說明設定方法。

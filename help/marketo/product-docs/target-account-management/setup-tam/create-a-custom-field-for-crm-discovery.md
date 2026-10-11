@@ -4,16 +4,21 @@ description: 瞭解如何建立自訂具名帳戶欄位，將其對應至您的C
 title: 針對 CRM 探索建立自訂欄位
 exl-id: 16e03f6f-e3c2-443c-803e-bf35a346693a
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/sZsRCayMv2-B3mq0bm7uj5jExDKSTTx6-HB-ALBVuB0
+TQID: 'https://experienceleague.adobe.com/sZsRCayMv2-B3mq0bm7uj5jExDKSTTx6-HB-ALBVuB0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 136
+source-wordcount: '136'
 ht-degree: 19%
-
 ---
-
 # 針對 CRM 探索建立自訂欄位 {#create-a-custom-field-for-crm-discovery}
 
 新增自訂欄位到帳戶，將它們對應到您的CRM，並使用它們在Marketo中進行CRM帳戶探索。

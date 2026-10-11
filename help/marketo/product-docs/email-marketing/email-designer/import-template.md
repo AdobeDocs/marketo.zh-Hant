@@ -7,29 +7,41 @@ level: Beginner, Intermediate
 feature: Email Designer
 badge: Beta
 exl-id: a4755e1c-01a0-40d5-91d1-514ec3d138f5
-TQID: https://experienceleague.adobe.com/3DdGJZ9VW-RHragnelCpYisUYUjnqQePiEGn1TOU3Fk
+TQID: 'https://experienceleague.adobe.com/3DdGJZ9VW-RHragnelCpYisUYUjnqQePiEGn1TOU3Fk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
 subfeature_v2:
   - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+    internal-label: Snippets
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 758
+source-wordcount: '758'
 ht-degree: 1%
-
 ---
-
 # 範本匯入 {#template-import}
 
 從傳統編輯器輕鬆將您現有的電子郵件範本匯入新的電子郵件Designer，保留您的設計，並使用熟悉且可重複使用的結構加快範本建立。 檢閱[最佳實務](#best-practices)並瞭解[限制和補救措施](#limitations-and-remedies)。
@@ -80,7 +92,7 @@ ht-degree: 1%
 
    ![](assets/import-template-7.png)
 
-1. 選取元件或結構，然後按一下[建立]。**&#x200B;**
+1. 選取元件或結構，然後按一下[建立]。****
 
    ![](assets/import-template-8.png)
 

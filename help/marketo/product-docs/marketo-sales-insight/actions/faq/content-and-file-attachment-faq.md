@@ -3,18 +3,20 @@ description: 取得銷售電子郵件中有關內容和檔案附件的常見問�
 title: 內容和檔案附件常見問題集
 exl-id: 53374ab8-c41e-4cf3-91ed-8ce47f06fbc8
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/DKhdAtReVxF8YxQD5USDAFCR-ET6hZoq80-oeZ6F5hk
+TQID: 'https://experienceleague.adobe.com/DKhdAtReVxF8YxQD5USDAFCR-ET6hZoq80-oeZ6F5hk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 274
+source-wordcount: '274'
 ht-degree: 3%
-
 ---
-
 # 內容和檔案附件常見問題集 {#content-and-file-attachment-faq}
 
 ## 內容和檔案附件之間有何差異？ {#what-is-the-difference-between-content-and-a-file-attachment}

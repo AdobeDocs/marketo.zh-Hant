@@ -3,16 +3,18 @@ description: 瞭解Sales Connect提醒工作如何與Salesforce同步。 瞭解�
 title: 提醒工作與 Salesforce 同步
 exl-id: 4de933db-4626-4845-be70-8ad55d03a18e
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/gxQs0GlZN5Bp262OW4wa0Rk4-txe0tC3MBL0V-2mTeo
+TQID: 'https://experienceleague.adobe.com/gxQs0GlZN5Bp262OW4wa0Rk4-txe0tC3MBL0V-2mTeo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 493
+source-wordcount: '493'
 ht-degree: 1%
-
 ---
-
 # 與[!DNL Salesforce]同步處理提醒工作 {#reminder-task-sync-with-salesforce}
 
 >[!NOTE]

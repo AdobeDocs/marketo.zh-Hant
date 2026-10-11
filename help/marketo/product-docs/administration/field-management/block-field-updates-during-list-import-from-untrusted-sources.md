@@ -4,20 +4,26 @@ description: 在從不受信任的來源匯入清單期間，封鎖金鑰欄位�
 title: 清單匯入期間封鎖來自不信任來源的欄位更新
 exl-id: 0fd59f0c-6cb9-442c-937b-da18a4466873
 feature: Field Management
-TQID: https://experienceleague.adobe.com/cT1pOoWjR-UdHLqNJwhwgR9R12ciIa95q1xHPTf7rBY
+TQID: 'https://experienceleague.adobe.com/cT1pOoWjR-UdHLqNJwhwgR9R12ciIa95q1xHPTf7rBY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+    internal-label: Field management
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 187
+source-wordcount: '187'
 ht-degree: 13%
-
 ---
-
 # 清單匯入期間封鎖來自不信任來源的欄位更新 {#block-field-updates-during-list-import-from-untrusted-sources}
 
 某些清單中的資料比其他清單中的資料更可信。 有時候，您會有可疑的資料，而如果欄位為空白，您會想要接受資料，但如果有現有值則不然。 您可以封鎖主要欄位的欄位更新來完成此操作。

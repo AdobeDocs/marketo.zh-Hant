@@ -4,23 +4,30 @@ description: 瞭解如何在Marketo中篩選登入頁面效能報表。 依日�
 title: 篩選登陸頁面效能報告
 exl-id: 825bcdc9-67cc-4a06-b7c3-8a95ad74e30c
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/Wbd0ZqQ5sBiNjSc6iWtbVW17iqkEePCK8POru39u7xA
+TQID: 'https://experienceleague.adobe.com/Wbd0ZqQ5sBiNjSc6iWtbVW17iqkEePCK8POru39u7xA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
 subfeature_v2:
   - id: ea6641cb-8461-4151-a8a9-9faaa44a928a
+    internal-label: Global Assets
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Metadata
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 135
+source-wordcount: '135'
 ht-degree: 8%
-
 ---
-
 # 篩選登陸頁面效能報告 {#filter-a-landing-page-performance-report}
 
 將[登陸頁面效能報告](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)的焦點放在方案（本機資產）中的登陸頁面、[!UICONTROL Design Studio] （全域資產）中的登陸頁面，或已封存的登陸頁面。

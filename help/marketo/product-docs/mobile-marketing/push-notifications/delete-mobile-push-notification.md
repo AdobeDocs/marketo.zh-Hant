@@ -4,16 +4,18 @@ description: 瞭解如何刪除行動推播通知，並在其他資產未使用�
 title: 刪除行動推播通知
 exl-id: 1f9d523e-b7aa-4880-8249-48cce92751aa
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/xxppdk2knxCEkS--l7LyrgoDPl-i5RUvFMZPDmB8boc
+TQID: 'https://experienceleague.adobe.com/xxppdk2knxCEkS--l7LyrgoDPl-i5RUvFMZPDmB8boc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 71
+source-wordcount: '71'
 ht-degree: 16%
-
 ---
-
 # 刪除行動推播通知 {#delete-mobile-push-notification}
 
 1. 前往「**[!UICONTROL Marketing Activities]**」區域。

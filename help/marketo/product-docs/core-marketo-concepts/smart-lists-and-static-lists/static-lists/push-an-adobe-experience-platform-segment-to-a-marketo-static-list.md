@@ -3,21 +3,25 @@ description: 瞭解如何將Adobe Experience Platform區段推送至Marketo靜�
 title: 將 Adobe Experience Platform 區段推送至 Marketo 靜態清單
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
 feature: Static Lists
-TQID: https://experienceleague.adobe.com/Kw9zkzk0FWNOyZ66vEcqzq-4zQSPVz-4P4KQau5mP60
+TQID: 'https://experienceleague.adobe.com/Kw9zkzk0FWNOyZ66vEcqzq-4zQSPVz-4P4KQau5mP60'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: c56e5f8f-221f-55c2-8170-b1a9e10687cb
+    internal-label: Static Lists
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 626
+source-wordcount: '626'
 ht-degree: 4%
-
 ---
-
 # 將 Adobe Experience Platform 區段推送至 Marketo 靜態清單 {#push-an-adobe-experience-platform-segment-to-a-marketo-static-list}
 
 此功能可讓您以靜態清單的形式，將Adobe Experience Platform中的區段推送至Marketo Engage。
@@ -107,7 +111,7 @@ ht-degree: 4%
 
    >[!NOTE]
    >
-   >您可以將屬性從Experience Platform對應至貴組織在Marketo Engage中可存取的任何屬性。 使用[Describe API要求](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"}來擷取貴組織有權存取的屬性欄位。
+   >您可以將屬性從Experience Platform對應至貴組織在Marketo Engage中可存取的任何屬性。 使用[Describe API要求](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"}來擷取貴組織有權存取的屬性欄位。
 
 1. 再次按一下&#x200B;**[!UICONTROL Add New Mapping]**&#x200B;並重複步驟15兩次，選擇&#x200B;**[!UICONTROL lastName]**&#x200B;再選擇&#x200B;**[!UICONTROL companyName]**，以對應姓氏和公司名稱。
 

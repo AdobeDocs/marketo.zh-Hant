@@ -3,16 +3,18 @@ description: 瞭解如何存取新的Sales Connect執行個體。 取得布建�
 title: 存取您的新 Sales Connect 執行個體
 exl-id: 0add0841-8909-4cb2-9db7-08a5e79b0ed8
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/zCpfluTnZK8pf7rYpuHEIKC97SkSoIQ-5Apq1KZv00Y
+TQID: 'https://experienceleague.adobe.com/zCpfluTnZK8pf7rYpuHEIKC97SkSoIQ-5Apq1KZv00Y'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 125
+source-wordcount: '125'
 ht-degree: 10%
-
 ---
-
 # 存取您的新 Sales Connect 執行個體 {#accessing-your-new-sales-connect-instance}
 
 >[!NOTE]

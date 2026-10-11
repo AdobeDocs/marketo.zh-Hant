@@ -4,16 +4,18 @@ description: 瞭解如何定義URL模式，以便預測內容可自動探索HTML
 title: 建立內容模式
 exl-id: 963529fb-1b30-486c-b97d-3ff697f91258
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/-RyicC-MZyiCh9huVBFDrCbuFwDybV1ulUzDNjurkZQ
+TQID: 'https://experienceleague.adobe.com/-RyicC-MZyiCh9huVBFDrCbuFwDybV1ulUzDNjurkZQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 395
+source-wordcount: '395'
 ht-degree: 2%
-
 ---
-
 # 建立內容模式 {#create-content-patterns}
 
 當您設定內容模式時，當網站訪客點按與內容模式相關的HTML網頁時，就會自動探索內容。 它可用來將HTML頁面（部落格、新聞稿、新聞文章）以內容片段的方式新增至「所有內容」頁面。 當自動探索是根據內容模式時，它會在Web訪客檢視或按一下頁面的連結時，探索並追蹤與已定義URL模式相關的HTML頁面。 此內容片段（URL、頁面名稱和中繼資料，包括影像URL和說明）會新增至「所有內容」頁面，以準備預測性內容。 若要自動探索其他內容，例如PDF和內嵌視訊，您需要[啟用內容探索](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md)。

@@ -3,23 +3,29 @@ description: 瞭解Marketo中的互動式網路研討會，以進行即時和隨
 title: 互動式網路研討會概觀
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-TQID: https://experienceleague.adobe.com/dKuuIF7FSqYxAY6eYFrXA11f6wdpfIqH7maLniM01JY
+TQID: 'https://experienceleague.adobe.com/dKuuIF7FSqYxAY6eYFrXA11f6wdpfIqH7maLniM01JY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
 subfeature_v2:
   - id: ffdd6159-0e10-4a57-8021-94e93bab8183
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Event programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 555
+source-wordcount: '555'
 ht-degree: 87%
-
 ---
-
 # 互動式網路研討會概觀 {#interactive-webinars-overview}
 
 互動式網路研討會功能是Marketo Engage中的內建網路研討會平台。 不需要其他任何工具或整合。
@@ -48,11 +54,11 @@ ht-degree: 87%
 
 **我的互動網路研討會數目已使用完畢。 如何才能取得更多工作階段或更大容量？**
 
-您需要和 Adobe 客戶團隊 (您的客戶經理) 聯絡，以尋求協助。
+您需要和 Adobe 帳戶團隊 (您的客戶經理) 聯絡，以尋求協助。
 
 **身為 Marketo 管理員，我是否可控制哪些 Marketo 使用者可以建立互動式網路研討會？**
 
-是的，您可以控制哪些 Marketo 使用者有權建立和傳遞互動式網路研討會。 您可以透過 Adob&#x200B;&#x200B;e Marketo Engage 執行個體管理員區域的「互動式網路研討會」區段來存取此功能。
+是的，您可以控制哪些 Marketo 使用者取得建立和舉辦互動式網路研討會的權限。 您可以透過 Adob&#x200B;&#x200B;e Marketo Engage 執行個體管理員區域的「互動式網路研討會」區段來存取此功能。
 
 **我是否需要將 Adobe Connect 所支援的網路研討會與互動式網路研討會事件方案建立關聯，例如，和 Launchpoint 事件方案建立關聯？**
 
@@ -60,7 +66,7 @@ ht-degree: 87%
 
 **為什麼我的部分銷售線索為「註冊錯誤」狀態而非「已註冊」？**
 
-如果銷售線索的「名字」欄位空白，他們即無法註冊參加網路研討會。 您只要輸入有效的名字即可解決此問題。
+如果銷售線索的「名字」欄位為空，他們即無法註冊參加網路研討會。 您只要輸入有效的名字即可解決此問題。
 
 **我在使用公司 VPN 進行網路研討會時遇到音訊/視訊問題。 我該如何處理？**
 

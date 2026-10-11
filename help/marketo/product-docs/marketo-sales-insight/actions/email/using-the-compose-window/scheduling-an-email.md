@@ -1,13 +1,14 @@
 ---
 description: 瞭解如何排程銷售電子郵件以供稍後傳送。 在Sales Insight Actions或您的收件匣中撰寫時設定日期和時間。
 title: 安排電子郵件傳送時間
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 4%
-
 ---
-
 # 安排電子郵件傳送時間 {#scheduling-an-email}
 
 請依照這些簡單的步驟排程電子郵件。
@@ -28,7 +29,7 @@ ht-degree: 4%
 
    ![](assets/scheduling-an-email-3.png)
 
-1. 輸入您要電子郵件發出的時間。 選取想要的時區，然後按一下[儲存]。**&#x200B;** 完成時關閉排程器。
+1. 輸入您要電子郵件發出的時間。 選取想要的時區，然後按一下[儲存]。**** 完成時關閉排程器。
 
    ![](assets/scheduling-an-email-4.png)
 

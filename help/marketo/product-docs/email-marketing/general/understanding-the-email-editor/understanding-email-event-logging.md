@@ -4,18 +4,23 @@ description: 瞭解Marketo中的電子郵件事件記錄。 瞭解如何追蹤�
 title: 了解電子郵件事件記錄
 exl-id: 107d7f4a-ad38-44e4-95d8-760539aacede
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/7ldlXmnupXohvFUDiniYCV9Idn1zOMUuynPneV5ovLY
+TQID: 'https://experienceleague.adobe.com/7ldlXmnupXohvFUDiniYCV9Idn1zOMUuynPneV5ovLY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 306
+source-wordcount: '306'
 ht-degree: 3%
-
 ---
-
 # 了解電子郵件事件記錄 {#understanding-email-event-logging}
 
 傳送電子郵件時，Marketo會將不同的資料點記錄到個人的活動記錄中。 以下是基本內容。

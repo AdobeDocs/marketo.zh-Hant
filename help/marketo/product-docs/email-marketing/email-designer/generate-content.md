@@ -6,21 +6,28 @@ description: 瞭解如何產生內容以將文字和影像新增至電子郵件�
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
-TQID: https://experienceleague.adobe.com/iqJs2yG5ip5vNlwtjvIEjLXp0o0P3-mHVEZmOLcAqBE
+TQID: 'https://experienceleague.adobe.com/iqJs2yG5ip5vNlwtjvIEjLXp0o0P3-mHVEZmOLcAqBE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: bf1ac405e4e4ce9a9d6ea3e93d8f46730957f435
+    internal-label: Beginner
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 914
+source-wordcount: '914'
 ht-degree: 1%
-
 ---
-
 # 在電子郵件Designer中產生內容 {#generate-content}
 
 在Marketo Engage電子郵件Designer中產生內容，可協助您建立當代、高效能且直覺式的電子郵件。 這是透過Adobe的創作AI技術和提示程式庫，以及Firefly來實現的，用於產生影像，協助為特定角色/購買群組、行銷歷程階段、溝通策略、音調等建立合適的內容。也可以使用特定品牌資產來建立內容。
@@ -121,7 +128,7 @@ _依照上述必要條件，_&#x200B;之後，Marketo管理員必須先套用存
 
 ![](assets/use-the-ai-assistant-5.png)
 
-若要選擇變數，請選取其核取方塊，然後按一下&#x200B;**選取**。 您也可以按一下「調整&#x200B;**&#x200B;**」來調整它。 此外，您可以按一下向上或向下拇指圖示，讓Gen-AI技術學習您的偏好設定，藉此提供意見回饋。
+若要選擇變數，請選取其核取方塊，然後按一下&#x200B;**選取**。 您也可以按一下「調整&#x200B;****」來調整它。 此外，您可以按一下向上或向下拇指圖示，讓Gen-AI技術學習您的偏好設定，藉此提供意見回饋。
 
 做出選擇後，主旨列會填入您的電子郵件詳細資訊中。
 

@@ -4,16 +4,18 @@ description: 瞭解如何檢視推播通知儀表板。 檢視您推送行銷活
 title: 檢視推播通知儀表板
 exl-id: c898d02e-9587-495e-bd86-c50343cacf8c
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/KXMLSV-xX5YhIwocSxAtnz534ecP1ahOH0nk0N-i2SA
+TQID: 'https://experienceleague.adobe.com/KXMLSV-xX5YhIwocSxAtnz534ecP1ahOH0nk0N-i2SA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 132
+source-wordcount: '132'
 ht-degree: 10%
-
 ---
-
 # 檢視推播通知儀表板 {#view-the-push-notification-dashboard}
 
 您可輕鬆瞭解推播通知的運作方式。

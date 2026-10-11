@@ -4,16 +4,18 @@ description: 瞭解如何從「所有內容」頁面或「編輯內容」快顯�
 title: 核准預測內容的標題
 exl-id: 158ab21d-f5d6-452d-976e-8b50b2670b1a
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/3-hDzblZeRwe-GfwFAqz3dx7BVrJAl0rI0iS8moK8J4
+TQID: 'https://experienceleague.adobe.com/3-hDzblZeRwe-GfwFAqz3dx7BVrJAl0rI0iS8moK8J4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 140
+source-wordcount: '140'
 ht-degree: 12%
-
 ---
-
 # 核准預測內容的標題 {#approve-a-title-for-predictive-content}
 
 您可以在[!UICONTROL All Content]頁面或[!UICONTROL Edit Content]快顯視窗中核准，藉此將[!UICONTROL All Content]頁面上的任何標題新增至預測性內容。

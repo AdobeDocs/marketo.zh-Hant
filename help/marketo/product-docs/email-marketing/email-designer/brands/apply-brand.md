@@ -8,13 +8,28 @@ role: User
 level: Beginner, Intermediate
 hide: true
 exl-id: 349ee021-7341-40e0-8d8c-d041f1a8f343
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '725'
 ht-degree: 5%
-
 ---
-
 # 對您的電子郵件內容套用主題 {#apply-email-themes}
 
 >[!AVAILABILITY]
@@ -68,7 +83,7 @@ If you apply a theme to a content using a [fragment](../content-management/fragm
 
 1. 若要開始，請建立新的[電子郵件範本](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template)。
 
-1. 選取&#x200B;**[!UICONTROL Create or edit themes]**&#x200B;選項。
+1. 選取 **[!UICONTROL Create or edit themes]** 選項。
 
    `![](assets/theme-create.png)`
 

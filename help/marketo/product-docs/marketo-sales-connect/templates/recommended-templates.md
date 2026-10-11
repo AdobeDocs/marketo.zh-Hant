@@ -4,25 +4,27 @@ description: 瞭解Sales Connect中的建議範本。 檢視哪些範本獲得�
 title: 推薦的範本
 exl-id: 77356b26-ac9d-47c3-8547-1ab1009f6ca6
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/TxLC97egMJj4jLyy-mnucWb2kV3vDbq0zqVK37jN3tM
+TQID: 'https://experienceleague.adobe.com/TxLC97egMJj4jLyy-mnucWb2kV3vDbq0zqVK37jN3tM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 320
+source-wordcount: '320'
 ht-degree: 1%
-
 ---
-
 # 推薦的範本 {#recommended-templates}
 
 [!DNL Sales Connect]的建議範本可幫助您取得正確的訊息，同時節省您的時間。 這樣可讓您在傳送電子郵件時獲得更大的流程，並在嘗試為合適的人尋找合適電子郵件時減少不確定性。
 
 1. 前往您的[!UICONTROL Templates]標籤。
 
-1. 選取您要建議的範本，然後按一下[編輯]。**&#x200B;**
+1. 選取您要建議的範本，然後按一下[編輯]。****
 
 1. 若要在範本上啟用建議的範本功能，請核取&#x200B;**[!UICONTROL Auto-Suggest this template when]**。
 

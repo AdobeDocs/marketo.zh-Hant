@@ -4,18 +4,20 @@ description: 瞭解Sales Connect如何處理電子郵件重複資料刪除。 �
 title: Sales Connect 如何處理刪除重複電子郵件的作業
 exl-id: 1f57d943-8439-4653-a4e7-6dac65b3312d
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/gO6I2rCotAEDOGQNdRleeJbqMIix1wQizZe84JZSLPs
+TQID: 'https://experienceleague.adobe.com/gO6I2rCotAEDOGQNdRleeJbqMIix1wQizZe84JZSLPs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 107
+source-wordcount: '107'
 ht-degree: 6%
-
 ---
-
 # [!DNL Sales Connect]如何處理電子郵件重複資料刪除 {#how-sales-connect-handles-email-de-duping}
 
 當您[將CSV](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)檔案上傳到[!DNL Sales Connect]時，我們會在匯入發生之前合併CSV中的所有類似聯絡人。

@@ -3,16 +3,18 @@ description: 瞭解如何設定Sales Campaign設定，包括略過週末、在�
 title: 銷售行銷活動設定
 exl-id: 30674296-4a29-4349-afa8-4307be355d07
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/tbl9d2EB2zRstu4eR0skifWv5CaIpd5-6lPR6fImkQ0
+TQID: 'https://experienceleague.adobe.com/tbl9d2EB2zRstu4eR0skifWv5CaIpd5-6lPR6fImkQ0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 219
+source-wordcount: '219'
 ht-degree: 9%
-
 ---
-
 # 銷售行銷活動設定 {#sales-campaign-settings}
 
 「銷售促銷活動設定」區段可讓您設定特定的銷售促銷活動，使其最符合您團隊對該銷售促銷活動的使用案例。

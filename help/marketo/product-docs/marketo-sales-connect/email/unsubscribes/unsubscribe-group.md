@@ -4,18 +4,20 @@ description: 瞭解Sales Connect中的取消訂閱群組。 依群組組織取�
 title: 取消訂閱群組
 exl-id: 43e7dc75-1a78-4f87-8054-7ed4b5a883db
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/s83rfoP72RV7-4EtYt9hvlZcqTUAmWi5SQ0Lh9NaXXk
+TQID: 'https://experienceleague.adobe.com/s83rfoP72RV7-4EtYt9hvlZcqTUAmWi5SQ0Lh9NaXXk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 72
+source-wordcount: '72'
 ht-degree: 5%
-
 ---
-
 # 取消訂閱群組 {#unsubscribe-group}
 
 在一個位置檢視和管理所有已取消訂閱的朋友。

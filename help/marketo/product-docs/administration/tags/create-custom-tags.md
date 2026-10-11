@@ -4,23 +4,30 @@ description: 如何使用值建立新的標籤型別、選擇套用到的程式�
 title: 建立自訂標記
 exl-id: f8efcbf5-7557-4cdf-b4e6-29d25b2fdd75
 feature: Tags
-TQID: https://experienceleague.adobe.com/ORu7E1aGAIyNwmVIZG8O7-2O2ZFodLFPWTM8eIuic8g
+TQID: 'https://experienceleague.adobe.com/ORu7E1aGAIyNwmVIZG8O7-2O2ZFodLFPWTM8eIuic8g'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+subfeature_v2:
+  - id: eabd8318-c438-41ef-8756-bedd6f38b8fc
+    internal-label: Tag administration
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 222
+source-wordcount: '222'
 ht-degree: 4%
-
 ---
-
 # 建立自訂標記 {#create-custom-tags}
 
 標籤將幫助您組織計畫，而頻道將協助收集資料以供報告之用。

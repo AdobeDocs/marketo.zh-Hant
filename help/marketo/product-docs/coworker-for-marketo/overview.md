@@ -1,7 +1,10 @@
 ---
 description: 探索適用於Marketo Engage代理程式的CX Enterprise Coworker套件，這些代理程式旨在自動化行銷工作，例如方案QA、潛在客戶匯入、資料標準化等。
 title: 適用於Marketo Engage的CX Enterprise Coworker概觀
-source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '454'
 ht-degree: 1%
@@ -64,4 +67,4 @@ Marketo Engage適用的CX Enterprise Coworker提供專門設計的代理程式�
 
 >[!MORELIKETHIS]
 >
->[Marketo Engage MCP伺服器](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=zh-Hant){target="_blank"}可做為您AI助理與Marketo Engage之間的橋樑。
+>[Marketo Engage MCP伺服器](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html){target="_blank"}可做為您AI助理與Marketo Engage之間的橋樑。

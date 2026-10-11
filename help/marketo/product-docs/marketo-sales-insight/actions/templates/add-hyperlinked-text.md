@@ -3,18 +3,20 @@ description: 瞭解如何在電子郵件範本中新增超連結文字。 在範
 title: 新增附有超連結的文字
 exl-id: c79f4aa7-e1bf-479a-a4bb-493c26337ae7
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/AG9YYnDYtvwKIRym4Rc5vyK0O3UQBz-er4ongNk-dCE
+TQID: 'https://experienceleague.adobe.com/AG9YYnDYtvwKIRym4Rc5vyK0O3UQBz-er4ongNk-dCE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 131
+source-wordcount: '131'
 ht-degree: 5%
-
 ---
-
 # 新增附有超連結的文字 {#add-hyperlinked-text}
 
 請依照下列步驟，瞭解如何將超連結新增至您的電子郵件範本。
@@ -31,7 +33,7 @@ ht-degree: 5%
 
    ![](assets/add-hyperlinked-text-3.png)
 
-1. 輸入您希望連結的URL （亦即`https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hant`）。 選擇您要在相同或新視窗中開啟URL，然後按一下&#x200B;**[!UICONTROL Save]**。
+1. 輸入您希望連結的URL （亦即`https://experienceleague.adobe.com/docs/marketo/using/home.html`）。 選擇您要在相同或新視窗中開啟URL，然後按一下&#x200B;**[!UICONTROL Save]**。
 
    ![](assets/add-hyperlinked-text-4.png)
 

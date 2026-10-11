@@ -1,36 +1,41 @@
 ---
 unique-page-id: 2359412
 description: 含有表單的登陸頁面 — Marketo檔案 — 產品檔案
-title: 含有表單的登陸頁面
+title: 附有表單的登陸頁面
 exl-id: 4ae6df7c-96d0-4bfe-962c-e14ecb877a6a
 feature: Getting Started
-TQID: https://experienceleague.adobe.com/MBsrEtb2jtCdO2g2GBjyaYjNAa54eq4hxi10isJxHgo
+TQID: 'https://experienceleague.adobe.com/MBsrEtb2jtCdO2g2GBjyaYjNAa54eq4hxi10isJxHgo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 505
-ht-degree: 0%
-
+source-wordcount: '505'
+ht-degree: 6%
 ---
-
-# 含有表單的登陸頁面 {#landing-page-with-a-form}
+# 附有表單的登陸頁面 {#landing-page-with-a-form}
 
 ## 任務：建立具有表單的登陸頁面，以贏取新人員。 {#mission-create-a-landing-page-with-a-form-to-acquire-new-people}
 
 >[!PREREQUISITES]
 >
->[設定並新增人員](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>[完成設定與新增人員](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
 ## 步驟1：建立方案 {#step-create-a-program}
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**&#x200B;區域。
+1. 前往「**[!UICONTROL Marketing Activities]**」區域。
 
    ![](assets/landing-page-with-a-form-1.png)
 
@@ -58,7 +63,7 @@ ht-degree: 0%
 
    ![](assets/landing-page-with-a-form-4.png)
 
-1. 選取&#x200B;**[!UICONTROL Form]**。
+1. 選取「**[!UICONTROL Form]**」。
 
    ![](assets/landing-page-with-a-form-5.png)
 
@@ -78,7 +83,7 @@ ht-degree: 0%
 
    ![](assets/landing-page-with-a-form-7.png)
 
-1. 按一下&#x200B;**[!UICONTROL Next]**。
+1. 按一下「**[!UICONTROL Next]**」。
 
    ![](assets/landing-page-with-a-form-8.png)
 
@@ -86,7 +91,7 @@ ht-degree: 0%
 
    ![](assets/landing-page-with-a-form-9.png)
 
-1. 按一下&#x200B;**[!UICONTROL Next]**。
+1. 按一下「**[!UICONTROL Next]**」。
 
    ![](assets/landing-page-with-a-form-10.png)
 
@@ -102,11 +107,11 @@ ht-degree: 0%
    >
    >「後續追蹤頁面」是填寫表單後重新導向訪客的位置。 外部URL是一個選項，但還有更多選項。 請參閱[設定表單感謝頁面](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md){target="_blank"}。
 
-1. 按一下&#x200B;**[!UICONTROL Finish]**。
+1. 按一下「**[!UICONTROL Finish]**」。
 
    ![](assets/landing-page-with-a-form-13.png)
 
-1. 按一下&#x200B;**[!UICONTROL Approve and Close]**。
+1. 按一下「**[!UICONTROL Approve and Close]**」。
 
    ![](assets/landing-page-with-a-form-14.png)
 
@@ -118,7 +123,7 @@ ht-degree: 0%
 
    ![](assets/landing-page-with-a-form-15.png)
 
-1. 選取&#x200B;**[!UICONTROL Landing Page]**。
+1. 選取「**[!UICONTROL Landing Page]**」。
 
    ![](assets/landing-page-with-a-form-16.png)
 
@@ -172,7 +177,7 @@ ht-degree: 0%
 
    ![](assets/landing-page-with-a-form-25.png)
 
-1. 移至&#x200B;**[!UICONTROL Database]**&#x200B;區域。
+1. 前往「**[!UICONTROL Database]**」區域。
 
    ![](assets/landing-page-with-a-form-26.png)
 

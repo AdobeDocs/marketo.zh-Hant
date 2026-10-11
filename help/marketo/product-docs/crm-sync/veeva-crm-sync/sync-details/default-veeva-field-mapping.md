@@ -1,18 +1,23 @@
 ---
 description: 瞭解Veeva CRM和Marketo Engage之間的預設Veeva欄位對應。 瞭解聯絡人欄位和帳戶欄位如何對應，以及哪些自訂欄位同步。
-title: 預設 [!DNL Veeva] 欄位對應
+title: 預設[!DNL Veeva]欄位對應
 exl-id: 3bf36d50-daea-431f-9537-b3007ad75945
 feature: Veeva CRM
-TQID: https://experienceleague.adobe.com/ilvA8-VMso0GUsszVRlK20lGSYmPNHRK-N4pEdJWfEY
+TQID: 'https://experienceleague.adobe.com/ilvA8-VMso0GUsszVRlK20lGSYmPNHRK-N4pEdJWfEY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+subfeature_v2:
+  - id: f141b8e0-5812-4581-b47d-7322a93e7f28
+    internal-label: Veeva CRM
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 272
+source-wordcount: '273'
 ht-degree: 37%
-
 ---
-
 # 預設[!DNL Veeva]欄位對應 {#default-veeva-field-mapping}
 
 當您初次將Marketo Engage帳戶與[!DNL Veeva]同步時，Marketo會自動在內建[!DNL Veeva]與Marketo欄位之間建立這些關聯。 Marketo也會同步處理帳戶和連絡人上的自訂欄位。

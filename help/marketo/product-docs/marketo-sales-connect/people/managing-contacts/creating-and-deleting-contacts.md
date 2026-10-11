@@ -4,16 +4,18 @@ description: 瞭解如何在Sales Connect中建立及刪除連絡人。 手動�
 title: 建立和刪除聯絡人
 exl-id: 04e2887b-8515-4d48-8a94-ccff00805210
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/UXdE5MWxchftyKvPznHtJQrbKgSCccQcZ3qrD-nfgqQ
+TQID: 'https://experienceleague.adobe.com/UXdE5MWxchftyKvPznHtJQrbKgSCccQcZ3qrD-nfgqQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 119
+source-wordcount: '119'
 ht-degree: 9%
-
 ---
-
 # 建立和刪除聯絡人 {#creating-and-deleting-contacts}
 
 ## 建立連絡人 {#creating-contacts}

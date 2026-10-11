@@ -4,22 +4,27 @@ description: 瞭解如何使用登入和使用者管理登入和Marketo Engage�
 title: 登入及使用者管理
 exl-id: 3cf5a50a-1926-4fb6-a1fe-39ba5eb2560f
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/YDr1WsoffJR07q6pyCNZt2zU1dtgYUueaIae-aW2qj4
+TQID: 'https://experienceleague.adobe.com/YDr1WsoffJR07q6pyCNZt2zU1dtgYUueaIae-aW2qj4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 288
+source-wordcount: '288'
 ht-degree: 4%
-
 ---
-
 # 登入及使用者管理 {#login-and-user-management}
 
 ## 建立[!UICONTROL Web Personalization]使用者角色 {#create-a-web-personalization-user-role}

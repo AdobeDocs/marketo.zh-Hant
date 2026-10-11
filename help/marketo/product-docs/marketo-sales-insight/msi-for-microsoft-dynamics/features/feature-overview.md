@@ -4,18 +4,21 @@ description: 瞭解適用於Microsoft Dynamics的Marketo Sales Insight功能。 
 title: 功能概觀
 exl-id: 3e6f21bf-3383-4e2d-952f-9b4e67896a58
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/gV7k6wiAobeWNTmCtX0-Ob6U-EOQJi5Hko8Q7AC3nzk
+TQID: 'https://experienceleague.adobe.com/gV7k6wiAobeWNTmCtX0-Ob6U-EOQJi5Hko8Q7AC3nzk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 181
+source-wordcount: '181'
 ht-degree: 13%
-
 ---
-
 # 功能概觀 {#feature-overview}
 
 以下功能可在新的MSI MSD解決方案中使用。

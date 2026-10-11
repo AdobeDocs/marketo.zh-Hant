@@ -3,18 +3,20 @@ description: 瞭解如何設定共用設定，以控制誰可以將範本共用�
 title: 共用設定
 exl-id: 151d64da-7a36-4da2-8041-ebcdcd016a50
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/7GUHuw4nyquxM79bCIj9CNq8yiTCDXQiBqeJdDXvO78
+TQID: 'https://experienceleague.adobe.com/7GUHuw4nyquxM79bCIj9CNq8yiTCDXQiBqeJdDXvO78'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 227
+source-wordcount: '227'
 ht-degree: 2%
-
 ---
-
 # 共用設定 {#sharing-settings}
 
 透過限制使用者可以分享的內容以及與哪些類別來更好地管理您的範本。

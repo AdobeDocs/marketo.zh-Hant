@@ -4,18 +4,23 @@ description: 瞭解永續性取消訂閱以及主要電子郵件狀態如何跨�
 title: 持久性取消訂閱
 exl-id: e03a5a01-7395-45b3-8351-7931ec413236
 feature: Deliverability
-TQID: https://experienceleague.adobe.com/Zr7XyDDSHtWW4lp4ATAM6xlPrNnTJlqoOOjjln-YuqI
+TQID: 'https://experienceleague.adobe.com/Zr7XyDDSHtWW4lp4ATAM6xlPrNnTJlqoOOjjln-YuqI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Database
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: be80ef53-082b-4612-a88f-dfce57d36b02
+    internal-label: Deliverability
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 301
+source-wordcount: '301'
 ht-degree: 1%
-
 ---
-
 # 持久性取消訂閱 {#durable-unsubscribe}
 
 Marketo已增強取消訂閱功能的行為，讓其「經久耐用」。 已新增主要電子郵件狀態，與人員詳細資料記錄上顯示的取消訂閱旗標不同。

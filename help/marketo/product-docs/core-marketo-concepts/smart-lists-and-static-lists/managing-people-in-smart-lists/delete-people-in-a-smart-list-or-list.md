@@ -4,18 +4,23 @@ description: 瞭解如何從智慧清單或靜態清單刪除人員。 從清單
 title: 刪除智慧清單或清單中的人員
 exl-id: 192e79e6-d816-44e3-84c4-212cd73eb3ce
 feature: Smart Lists
-TQID: https://experienceleague.adobe.com/2a609g-CTuuL0QjXpzFPhNRqcl87LhCcILbtp2cjA4I
+TQID: 'https://experienceleague.adobe.com/2a609g-CTuuL0QjXpzFPhNRqcl87LhCcILbtp2cjA4I'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 274
+source-wordcount: '274'
 ht-degree: 7%
-
 ---
-
 # 刪除智慧清單或清單中的人員 {#delete-people-in-a-smart-list-or-list}
 
 您可以刪除清單或智慧清單中的部分或全部人員。

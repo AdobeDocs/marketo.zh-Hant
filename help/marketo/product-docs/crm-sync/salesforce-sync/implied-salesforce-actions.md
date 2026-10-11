@@ -4,16 +4,21 @@ description: 瞭解哪些Salesforce流程步驟會觸發自動將人員同步到
 title: 隱含的 Salesforce 動作
 exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/lI3sRqk1if-UZ7DARSrGXXM485ZjZnlqDGb4si2wvi0
+TQID: 'https://experienceleague.adobe.com/lI3sRqk1if-UZ7DARSrGXXM485ZjZnlqDGb4si2wvi0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 158
+source-wordcount: '158'
 ht-degree: 23%
-
 ---
-
 # 隱含的 Salesforce 動作 {#implied-salesforce-actions}
 
 當[!DNL Salesforce]特定的流程步驟執行時，有時會自動執行額外的步驟。 規則如下，您知道：

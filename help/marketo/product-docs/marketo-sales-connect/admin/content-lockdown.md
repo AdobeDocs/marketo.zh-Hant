@@ -4,18 +4,20 @@ description: 瞭解如何啟用內容鎖定，以限制非管理員使用者編�
 title: 內容鎖定
 exl-id: 9f47a6e9-5dad-4934-ba9b-70235c958a31
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/WgP-o-qMEGv78EVaeoxQxuwJA3aoCffF13r-XqECB1s
+TQID: 'https://experienceleague.adobe.com/WgP-o-qMEGv78EVaeoxQxuwJA3aoCffF13r-XqECB1s'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 106
+source-wordcount: '106'
 ht-degree: 6%
-
 ---
-
 # 內容鎖定 {#content-lockdown}
 
 透過啟用內容鎖定，限制非管理員使用者編輯範本和/或行銷活動。 使用者將無法：共用、複製、編輯或刪除內容。 他們也無法選擇封存範本。

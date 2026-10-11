@@ -4,13 +4,19 @@ description: 瞭解在Marketo Engage中的收入模式成功路徑，包括瞭�
 title: 了解收入模型成功路徑
 exl-id: aeb85e5e-0377-40b5-a7c9-ee9c1322ee66
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d2f1f0d664576a1ac8f5640dc20ebf50bec58501
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 5%
-
 ---
-
 # 了解收入模型成功路徑 {#understanding-revenue-model-success-path}
 
 ## 成功路徑 {#success-path}

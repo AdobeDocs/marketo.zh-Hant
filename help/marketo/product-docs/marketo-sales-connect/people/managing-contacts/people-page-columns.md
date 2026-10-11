@@ -4,16 +4,18 @@ description: 瞭解Sales Connect中的People頁面欄。 自訂要顯示哪些�
 title: 人物頁面欄
 exl-id: e7d7bae5-dca9-435b-80b8-262b969135af
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/dFBARNGsQ7x-3gilAkQY-vVfQZ-spiRIAGgvzcqiDvk
+TQID: 'https://experienceleague.adobe.com/dFBARNGsQ7x-3gilAkQY-vVfQZ-spiRIAGgvzcqiDvk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 244
+source-wordcount: '244'
 ht-degree: 8%
-
 ---
-
 # 人物頁面欄 {#people-page-columns}
 
 您可以選擇顯示哪些欄，以自訂您看到的連絡資訊。

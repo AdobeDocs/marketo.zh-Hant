@@ -4,18 +4,23 @@ description: 瞭解如何導覽行銷行事曆，包括3週和月份模式。 �
 title: 導覽行銷行事曆
 exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
 feature: Marketing Calendar
-TQID: https://experienceleague.adobe.com/4FJUMYHjMDUvig-R-HBt7x4wvizISoq2eZJ1u45-oXU
+TQID: 'https://experienceleague.adobe.com/4FJUMYHjMDUvig-R-HBt7x4wvizISoq2eZJ1u45-oXU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Smart Campaigns
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+subfeature_v2:
+  - id: a572083b-9238-40c5-8a10-cf294c415aab
+    internal-label: marketing calendar
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 174
+source-wordcount: '174'
 ht-degree: 5%
-
 ---
-
 # 導覽行銷行事曆 {#navigating-the-marketing-calendar}
 
 瞭解如何導覽行銷行事曆。

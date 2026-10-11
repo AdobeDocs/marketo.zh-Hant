@@ -3,16 +3,18 @@ description: 瞭解銷售Insight動作中的大量電子郵件選項。 使用�
 title: 大量寄送電子郵件選項
 exl-id: 08cc60d5-0db1-4dfa-9441-4c5e5a021d73
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/o4PzEJ3Rh1p-8ixAC5fOg3XzUg4GM6tBjBnt6F7QEm4
+TQID: 'https://experienceleague.adobe.com/o4PzEJ3Rh1p-8ixAC5fOg3XzUg4GM6tBjBnt6F7QEm4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 266
+source-wordcount: '266'
 ht-degree: 5%
-
 ---
-
 # 大量寄送電子郵件選項 {#bulk-emailing-options}
 
 大量傳送電子郵件是加速潛在客戶參與的絕佳方式。 [!DNL Marketo Sales]提供兩種大量傳送電子郵件的方式：**群組電子郵件**&#x200B;和&#x200B;**選取並傳送**。 群組電子郵件是快速傳送數百封電子郵件至目標群組的絕佳方式。 使用選取並傳送表示電子郵件限制較低，但為使用者提供更多的自訂機會。

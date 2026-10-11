@@ -4,16 +4,18 @@ description: 瞭解如何從Gmail解除安裝Sales Connect外掛程式。 視需
 title: 如何從 Gmail 解除安裝 Sales Connect
 exl-id: 36032005-651f-43c8-a92a-0968b52ccb86
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/HIwYaMn9Az0jbDWOG9Af-Af-xfgYUtblkFrb6hH-VIk
+TQID: 'https://experienceleague.adobe.com/HIwYaMn9Az0jbDWOG9Af-Af-xfgYUtblkFrb6hH-VIk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 75
+source-wordcount: '75'
 ht-degree: 12%
-
 ---
-
 # 如何從Gmail解除安裝[!DNL Sales Connect] {#how-to-uninstall-sales-connect-from-gmail}
 
 適用於Gmail的[!DNL Sales Connect]外掛程式會透過瀏覽器延伸模組執行。 您必須移除該專案，才能刪除Gmail中的[!DNL Sales Connect]。

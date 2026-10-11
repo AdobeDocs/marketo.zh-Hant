@@ -4,16 +4,18 @@ description: 瞭解如何從「所有內容」頁面或「編輯內容」快顯�
 title: 取消核准預測內容的標題
 exl-id: 63540339-fbed-436b-8cb3-abf2e181e010
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/qYunPafNSSAeWKtT5CTFKbJIkv7I6CIgCsFqhCf5Ikw
+TQID: 'https://experienceleague.adobe.com/qYunPafNSSAeWKtT5CTFKbJIkv7I6CIgCsFqhCf5Ikw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 132
+source-wordcount: '132'
 ht-degree: 9%
-
 ---
-
 # 取消核准[!UICONTROL Predictive Content]的標題 {#unapprove-a-title-for-predictive-content}
 
 您可以在[!UICONTROL All Content]頁面或[!UICONTROL Edit Content]快顯視窗中，取消核准預測性內容的任何標題。

@@ -3,13 +3,17 @@ description: 瞭解如何啟用「封存時停用智慧行銷活動」功能，�
 title: 在封存上停用智慧行銷活動
 feature: Administration
 hide: true
-source-git-commit: 526d10bb96e059d251a76ca720ff81ab42ee9516
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '349'
 ht-degree: 0%
-
 ---
-
 # 在封存上停用智慧行銷活動 {#disable-smart-campaigns-on-archive}
 
 啟用此功能後，封存資料夾或方案會自動停用其行銷活動，以防止非預期的活動。

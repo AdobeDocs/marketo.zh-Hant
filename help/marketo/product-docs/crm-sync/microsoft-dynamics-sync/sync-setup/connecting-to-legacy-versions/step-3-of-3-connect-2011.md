@@ -1,19 +1,24 @@
 ---
 unique-page-id: 3571809
 description: 在最後一步瞭解如何將Microsoft Dynamics 2011內部部署與Marketo連線。 在Marketo Admin中輸入同步使用者資訊，並啟用同步。
-title: 步驟3之3 — 使用Marketo連線 [!DNL Microsoft Dynamics]  （2011內部部署）
+title: 步驟3之3 — 將[!DNL Microsoft Dynamics]與Marketo連線（2011內部部署）
 exl-id: e6a5d49d-025a-4899-9e92-7a4c32086c67
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/lXIts5epOGhGJLKvIKTOAdOABz15rNAfuSmvHuSC0SI
+TQID: 'https://experienceleague.adobe.com/lXIts5epOGhGJLKvIKTOAdOABz15rNAfuSmvHuSC0SI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 344
+source-wordcount: '345'
 ht-degree: 1%
-
 ---
-
 # 步驟3之3：連線[!DNL Microsoft Dynamics]與Marketo （2011內部部署） {#step-of-connect-microsoft-dynamics-with-marketo-on-premises}
 
 已安裝解決方案並設定同步使用者。 接下來，連線Marketo和[!DNL Dynamics]。

@@ -3,18 +3,20 @@ description: 瞭解銷售Insight動作範本中的動態欄位。 使用合併�
 title: 動態欄位
 exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/TSha6oGJPKxA0HNM0H-IDRC3rUE-Ld40VHWPzu6DHY4
+TQID: 'https://experienceleague.adobe.com/TSha6oGJPKxA0HNM0H-IDRC3rUE-Ld40VHWPzu6DHY4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 544
+source-wordcount: '544'
 ht-degree: 2%
-
 ---
-
 # 動態欄位 {#dynamic-fields}
 
 我們允許您使用`{{first_name}}`或`{{company}}`等預先定義的屬性，個人化您的電子郵件範本。 這些欄位可讓您以電子郵件傳送多個連絡人，並自動完成這些欄位，而不需為每個連絡人分別輸入這些欄位。

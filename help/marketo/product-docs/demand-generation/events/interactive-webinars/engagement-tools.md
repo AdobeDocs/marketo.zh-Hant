@@ -2,15 +2,19 @@
 description: 瞭解互動式網路研討會中的參與工具。 使用投票、問答和其他功能，促進與會者於網路研討會期間的互動。
 title: 互動式網路研討會中的參與工具
 hide: true
-hidefromtoc: true
+hidefromtoc: 'yes'
 feature: Interactive Webinars
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '1285'
 ht-degree: 0%
-
 ---
-
 # 互動式網路研討會中的參與工具 {#engagement-tools-in-interactive-webinars}
 
 Adobe Connect聊天室中的Pod傳送功能。 若要將Pod新增至版面，請按一下Pod功能表，然後選取您要新增的Pod。

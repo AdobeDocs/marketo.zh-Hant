@@ -1,13 +1,14 @@
 ---
 description: 瞭解如何為Marketo Engage啟用同事、設定組織規則及管理整合和通知等設定。
 title: 設定與設定
-source-git-commit: 01cad5c7d14083c0ef7127850f2488dbfd71f57b
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '581'
 ht-degree: 1%
-
 ---
-
 # 設定和設定 {#settings-setup}
 
 瞭解如何啟用許可權並使用「設定」區域來檢視連線詳細資料、定義組織規則以及設定整合和通知。
@@ -75,7 +76,7 @@ ht-degree: 1%
 
 ### 自訂角色 {#custom-role}
 
-您也可選擇[建立新角色](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"}並自訂其許可權、新增&#x200B;_Access Co-worker for Marketo Engage_&#x200B;以及您想要的其他專案，以及[將該角色](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}指派給特定使用者。
+您也可選擇[建立新角色](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"}並自訂其許可權、新增&#x200B;_Access Co-worker for Marketo Engage_&#x200B;以及您想要的其他專案，以及[將該角色](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}指派給特定使用者。
 
 ## 設定 {#settings}
 

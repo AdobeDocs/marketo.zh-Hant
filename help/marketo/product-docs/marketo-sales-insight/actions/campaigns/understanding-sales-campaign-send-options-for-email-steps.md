@@ -3,16 +3,18 @@ description: 瞭解銷售活動電子郵件步驟的傳送選項。 選擇何時
 title: 了解電子郵件步驟的銷售行銷活動傳送選項
 feature: Sales Insight Actions
 exl-id: 775c6401-efb2-4940-a81c-be5d2759c7bd
-TQID: https://experienceleague.adobe.com/dd4l3DH5i6E-zpjJk-cpQTMgZy-3a90JcrkeAFGl4PM
+TQID: 'https://experienceleague.adobe.com/dd4l3DH5i6E-zpjJk-cpQTMgZy-3a90JcrkeAFGl4PM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 758
-ht-degree: 3%
-
+source-wordcount: '772'
+ht-degree: 2%
 ---
-
 # 了解電子郵件步驟的銷售行銷活動傳送選項 {#understanding-sales-campaign-send-options-for-email-steps}
 
 當您建立促銷活動時，您有幾個選項可讓您決定如何在[!DNL Sales Insight Actions]中建立電子郵件步驟。 此外，視您的電子郵件在促銷活動中的位置而定，您的選項也會有所不同。
@@ -37,8 +39,8 @@ ht-degree: 3%
 * 此選項將建立您可方便傳送的電子郵件工作（並同步至[!DNL Salesforce]）。
 * 當您完成此選取後，當您開始促銷活動時，我們會在指揮中心和即時摘要為您佇列這些工作。 接著，您就可以個人化，並在電子郵件傳送前傳送（或排程）每封電子郵件。
 
-   * 如果您在Web應用程式中開啟此工作，則會開啟撰寫視窗，其中包含連絡人的電子郵件地址、電子郵件的主旨行以及您選擇的範本。
-   * 如果您在Gmail或[!DNL Outlook]中開啟此工作，則會開啟原生撰寫視窗，並動態填入連絡人的電子郵件地址、電子郵件的主旨行以及您選擇的範本。
+  * 如果您在Web應用程式中開啟此工作，則會開啟撰寫視窗，其中包含連絡人的電子郵件地址、電子郵件的主旨行以及您選擇的範本。
+  * 如果您在Gmail或[!DNL Outlook]中開啟此工作，則會開啟原生撰寫視窗，並動態填入連絡人的電子郵件地址、電子郵件的主旨行以及您選擇的範本。
 
 ## 後續步驟傳送選項 {#subsequent-step-send-options}
 
@@ -63,8 +65,8 @@ ht-degree: 3%
 * 此選項將建立您可方便傳送的電子郵件工作（並同步至[!DNL Salesforce]）。
 * 完成此選取後，當您開始銷售行銷活動時，[!DNL Sales Insight Actions]會在指揮中心和即時摘要中為您佇列這些任務。 接著，您就可以個人化，並在電子郵件傳送前傳送（或排程）每封電子郵件。
 
-   * 如果您在Web應用程式中開啟此工作，則會開啟撰寫視窗，其中包含連絡人的電子郵件地址、電子郵件的主旨行以及您選擇的範本。
-   * 如果您在Gmail或[!DNL Outlook]中開啟此工作，則會開啟原生撰寫視窗，並動態填入連絡人的電子郵件地址、電子郵件的主旨行以及您選擇的範本。
+  * 如果您在Web應用程式中開啟此工作，則會開啟撰寫視窗，其中包含連絡人的電子郵件地址、電子郵件的主旨行以及您選擇的範本。
+  * 如果您在Gmail或[!DNL Outlook]中開啟此工作，則會開啟原生撰寫視窗，並動態填入連絡人的電子郵件地址、電子郵件的主旨行以及您選擇的範本。
 
 ### 建立此電子郵件，作為此行銷活動中前一封電子郵件的後續追蹤 {#subsequent-create-this-email}
 

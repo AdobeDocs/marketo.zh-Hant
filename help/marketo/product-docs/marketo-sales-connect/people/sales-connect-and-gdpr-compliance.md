@@ -4,23 +4,29 @@ description: 瞭解Sales Connect和GDPR法規遵循。 瞭解Sales Connect如何
 title: Sales Connect 和 GDPR 合規性
 exl-id: f5822085-0372-42f9-b6d6-9f6ce58559ea
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/7LgLCoMIcJI-0o3Cw8BYnLUH-0QJTVsMwLi-aeWkwtw
+TQID: 'https://experienceleague.adobe.com/7LgLCoMIcJI-0o3Cw8BYnLUH-0QJTVsMwLi-aeWkwtw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: d3cdead0-685a-4489-9250-4bb709942f66
+    internal-label: Data collection
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Privacy
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1337
+source-wordcount: '1343'
 ht-degree: 1%
-
 ---
-
 # [!DNL Sales Connect]與GDPR法規遵循 {#sales-connect-and-gdpr-compliance}
 
 一般資料保護規範(GDPR)是歐盟法律，於2018年5月25日生效。
@@ -192,7 +198,7 @@ GDPR的一個普遍誤解領域涉及從組織資料庫取消訂閱的聯絡人�
 
 **取消訂閱連結：**&#x200B;取消訂閱連結會自動附加至從[!DNL Sales Connect]網頁應用程式傳送的所有電子郵件，以確保連絡人有可存取的方式選擇退出。
 **取消訂閱同步處理：**&#x200B;使用者可以同步處理其CRM ([!DNL Salesforce])的取消訂閱與取消訂閱，以確保選擇退出為最新狀態。
-**取消訂閱歷史記錄：**&#x200B;使用者可在人員詳細資料檢視中檢視歷史選擇退出和選擇加入。
+**取消訂閱歷史記錄：**使用者可在人員詳細資料檢視中檢視歷史選擇退出和選擇加入。
 **取消訂閱移除：**&#x200B;選擇取消訂閱的連絡人重新加入，需要使用者具有管理員許可權，並證明連絡人已同意重新連絡他們。
 
 ## 未來的更新 {#future-updates}

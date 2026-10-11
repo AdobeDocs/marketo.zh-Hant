@@ -7,25 +7,34 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 3e0232c7-13bd-49e2-b7c7-cd389b5f0704
-TQID: https://experienceleague.adobe.com/SCmyn9QUECmvQgVltKknlvLuvL15Tz3LYorBFYB1hqI
+TQID: 'https://experienceleague.adobe.com/SCmyn9QUECmvQgVltKknlvLuvL15Tz3LYorBFYB1hqI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: fdc003d7aed05d85687427d9455bb806eb33d0b2
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1398
+source-wordcount: '1398'
 ht-degree: 0%
-
 ---
-
 # 可自訂的片段 {#customizable-fragments}
 
 在電子郵件或電子郵件範本中使用片段時，依預設會因繼承而鎖定，這表示對片段所做的任何變更都會自動傳播至使用它的所有資產。 有了可自訂的片段，當片段新增到電子郵件或電子郵件範本時，片段中的特定欄位可以定義為可編輯。 例如，如果您的片段具有橫幅、某些文字和按鈕，您可以將某些欄位（例如影像或按鈕目標URL）指定為可編輯。

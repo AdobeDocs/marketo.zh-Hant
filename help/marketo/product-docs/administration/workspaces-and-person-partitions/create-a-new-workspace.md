@@ -4,20 +4,23 @@ description: 建立新工作區的步驟，包括命名、選取人員分割、�
 title: 建立新的工作區
 exl-id: 04245a92-55e0-4b18-9506-aa060cc62dc6
 feature: Workspaces
-TQID: https://experienceleague.adobe.com/sGqhyPt1HtQUKELmXx-4rqLC551Xhb69BvB048xX8HQ
+TQID: 'https://experienceleague.adobe.com/sGqhyPt1HtQUKELmXx-4rqLC551Xhb69BvB048xX8HQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: fffc2f21-ba05-5d98-924c-16da987a5b69
+    internal-label: Workspaces
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 209
+source-wordcount: '209'
 ht-degree: 8%
-
 ---
-
 # 建立新的工作區 {#create-a-new-workspace}
 
 工作區可用來將您的公司細分。 設定工作區的理由包括：
@@ -35,7 +38,7 @@ ht-degree: 8%
 
 >[!TIP]
 >
->若要進一步瞭解Workspace最佳實務，請連絡[Marketo Professional Services](https://business.adobe.com/tw/products/marketo/services-support.html){target="_blank"}。
+>若要進一步瞭解Workspace最佳實務，請連絡[Marketo Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}。
 
 1. 前往「**[!UICONTROL Admin]**」區域。
 

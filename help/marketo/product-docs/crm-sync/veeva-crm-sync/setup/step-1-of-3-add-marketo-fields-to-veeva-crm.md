@@ -1,18 +1,23 @@
 ---
 description: 瞭解如何在連線前將Marketo欄位新增到Veeva CRM。 在Veeva中的連絡人物件上建立「分數」欄位和選用行銷欄位。
-title: 步驟3之1 — 將Marketo欄位新增至 [!DNL Veeva] CRM
+title: 步驟3之1 — 新增Marketo欄位至[!DNL Veeva] CRM
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
 feature: Veeva CRM
-TQID: https://experienceleague.adobe.com/ZRKsO6ysIvvGNApNPAMd17fWAbr9M-meujmMRL51xPU
+TQID: 'https://experienceleague.adobe.com/ZRKsO6ysIvvGNApNPAMd17fWAbr9M-meujmMRL51xPU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+subfeature_v2:
+  - id: f141b8e0-5812-4581-b47d-7322a93e7f28
+    internal-label: Veeva CRM
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 495
+source-wordcount: '496'
 ht-degree: 8%
-
 ---
-
 # 步驟3之1：將Marketo欄位新增至[!DNL Veeva] CRM {#step-1-of-3-add-marketo-fields-to-veeva-crm}
 
 >[!PREREQUISITES]

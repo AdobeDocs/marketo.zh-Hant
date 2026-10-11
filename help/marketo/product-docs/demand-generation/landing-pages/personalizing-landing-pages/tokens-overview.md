@@ -4,18 +4,23 @@ description: 瞭解用於個人化Marketo登陸頁面的權杖。 使用權杖�
 title: 權杖概觀
 exl-id: d60816ce-33fb-4e18-8acd-71d4e90f47de
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/nwWdqv-I5E0SfUIDAwMGnQHlx3kJ3crT4uwT0HEvaA8
+TQID: 'https://experienceleague.adobe.com/nwWdqv-I5E0SfUIDAwMGnQHlx3kJ3crT4uwT0HEvaA8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 310
+source-wordcount: '310'
 ht-degree: 79%
-
 ---
-
 # 權杖概觀 {#tokens-overview}
 
 權杖是可用於 Marketo 智慧行銷活動流程步驟、電子郵件、登陸頁面、程式碼片段和網頁行銷活動的變數。

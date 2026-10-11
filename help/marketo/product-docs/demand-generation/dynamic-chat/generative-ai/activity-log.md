@@ -3,16 +3,21 @@ description: 瞭解Dynamic Chat中的Generative AI活動記錄檔。 在一個�
 title: 活動記錄
 feature: Dynamic Chat
 exl-id: cddeccc3-3093-48b4-9b8a-13269b5b51e5
-TQID: https://experienceleague.adobe.com/U37pw5bR2HNvl-ZhnvZ65dTLm3nhASdA6NP-umDFUhQ
+TQID: 'https://experienceleague.adobe.com/U37pw5bR2HNvl-ZhnvZ65dTLm3nhASdA6NP-umDFUhQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 62
+source-wordcount: '62'
 ht-degree: 11%
-
 ---
-
 # 活動記錄 {#activity-log}
 
 檢視所有任務及其隨附詳細資訊的清單，包括名稱、所有者、型別、編輯者及編輯時間。

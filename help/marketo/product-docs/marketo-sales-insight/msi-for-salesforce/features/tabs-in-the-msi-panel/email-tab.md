@@ -3,18 +3,21 @@ description: 瞭解Marketo Sales Insight面板中的「電子郵件」索引標�
 title: 電子郵件索引標籤
 exl-id: 2fbc966a-6409-4eca-8730-83843b03d19c
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/uG8cRVMM-ZAnS8qZgtvVIDeLJINBEeGS92pkaYmk3ns
+TQID: 'https://experienceleague.adobe.com/uG8cRVMM-ZAnS8qZgtvVIDeLJINBEeGS92pkaYmk3ns'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 171
+source-wordcount: '171'
 ht-degree: 4%
-
 ---
-
 # 電子郵件索引標籤 {#email-tab}
 
 電子郵件索引標籤會顯示傳送給聯絡人或潛在客戶的所有電子郵件清單。 其包含下列欄：

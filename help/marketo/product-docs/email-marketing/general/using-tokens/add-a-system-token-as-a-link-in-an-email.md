@@ -4,16 +4,18 @@ description: 瞭解如何將系統權杖新增為電子郵件中的連結。 在
 title: 在電子郵件中新增系統權杖做為連結
 exl-id: 9156be24-18ae-44ea-96e5-a6257ff29b46
 feature: Tokens
-TQID: https://experienceleague.adobe.com/UjNwoeeRWyGrPUCMV--3StSZcbY-fxSj3a5wrm60oL4
+TQID: 'https://experienceleague.adobe.com/UjNwoeeRWyGrPUCMV--3StSZcbY-fxSj3a5wrm60oL4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a6d52c76-712f-5f64-a879-9c65c1499322
+    internal-label: Tokens
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 217
+source-wordcount: '217'
 ht-degree: 9%
-
 ---
-
 # 在電子郵件中新增系統權杖做為連結 {#add-a-system-token-as-a-link-in-an-email}
 
 您可以使用這些系統代號來自訂電子郵件中特殊連結的位置。

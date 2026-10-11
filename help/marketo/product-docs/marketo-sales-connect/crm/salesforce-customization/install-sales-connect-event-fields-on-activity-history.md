@@ -4,16 +4,18 @@ description: 瞭解如何在Salesforce活動歷程記錄上安裝Sales Connect�
 title: 在活動歷史記錄上安裝 Sales Connect 事件欄位
 exl-id: c1bdb5a6-04f0-4579-84b6-33f4a301128f
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/NznzQHvZw0KyF2r83AwkegZIAPdWi0dVYJ7xwyTTy0s
+TQID: 'https://experienceleague.adobe.com/NznzQHvZw0KyF2r83AwkegZIAPdWi0dVYJ7xwyTTy0s'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 247
+source-wordcount: '247'
 ht-degree: 8%
-
 ---
-
 # 在活動歷史記錄上安裝 Sales Connect 事件欄位 {#install-sales-connect-event-fields-on-activity-history}
 
 將Enterprise套件安裝到[!DNL Salesforce]之後，您就可以將[!UICONTROL Sales Connect]事件欄位安裝到活動歷程記錄區段中。 [!UICONTROL Sales Connect]事件欄位包含檢視、點按和促銷活動等資訊。 這可讓您擁有直接匯入[!DNL Salesforce]之電子郵件的相關資訊。

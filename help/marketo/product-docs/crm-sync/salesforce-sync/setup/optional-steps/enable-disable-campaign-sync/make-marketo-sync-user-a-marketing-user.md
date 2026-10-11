@@ -4,16 +4,21 @@ description: 瞭解如何在Salesforce中讓Marketo同步使用者成為行銷�
 title: 讓 Marketo 同步使用者成為行銷使用者
 exl-id: 2bbaf4d3-0bcf-4917-afe1-da9ae9b06a28
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/42ACB3EIyob3z4J9OAXmejZCHIxQ6nmoTayn67kw4-8
+TQID: 'https://experienceleague.adobe.com/42ACB3EIyob3z4J9OAXmejZCHIxQ6nmoTayn67kw4-8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 110
+source-wordcount: '110'
 ht-degree: 16%
-
 ---
-
 # 讓 Marketo 同步使用者成為行銷使用者 {#make-marketo-sync-user-a-marketing-user}
 
 [Marketo同步處理使用者](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}必須是Salesforce行銷活動同步處理的行銷使用者，才能正常運作。 以下說明如何在Salesforce中將使用者設為行銷使用者。

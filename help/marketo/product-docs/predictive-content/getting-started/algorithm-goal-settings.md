@@ -4,18 +4,21 @@ description: 瞭解如何將預測性內容演演算法目標設定為「內容�
 title: 演算法目標設定
 exl-id: b07a5b71-c6f3-47e8-bc31-10ba64483ad0
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/AWWzwAwRxqy6w-NDGCJX4X-KNAGFWGCQnawyRGpKjG8
+TQID: 'https://experienceleague.adobe.com/AWWzwAwRxqy6w-NDGCJX4X-KNAGFWGCQnawyRGpKjG8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
 topic_v2:
   - id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8c
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Artificial intelligence
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 120
+source-wordcount: '120'
 ht-degree: 7%
-
 ---
-
 # 演算法目標設定 {#algorithm-goal-settings}
 
 「演演算法目標設定」可讓您設定Predictive Content人工智慧演演算法的最終目標，以符合您的業務目標。

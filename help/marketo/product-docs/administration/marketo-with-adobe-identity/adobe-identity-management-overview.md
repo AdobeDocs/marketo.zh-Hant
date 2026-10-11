@@ -3,22 +3,26 @@ description: 適用於Marketo Engage的Adobe Identity Management概觀，包括�
 title: Adobe Identity Management 概觀
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity
-TQID: https://experienceleague.adobe.com/6af3WC1QOameThPvZTRmanxHl8nkFZaHquHJytngGmI
+TQID: 'https://experienceleague.adobe.com/6af3WC1QOameThPvZTRmanxHl8nkFZaHquHJytngGmI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b73410f7-454c-5670-baa7-a84eae014e94
+    internal-label: Marketo with Adobe Identity
 subfeature_v2:
   - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+    internal-label: Adobe Identity Management
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 366
+source-wordcount: '366'
 ht-degree: 6%
-
 ---
-
 # Adobe Identity Management 概觀 {#adobe-identity-management-overview}
 
 所有新Adobe Marketo Engage訂閱（2023年7月31日或之後版本）都會與Adobe Identity Management系統整合。
@@ -26,7 +30,7 @@ ht-degree: 6%
 對於加入Adobe身分識別的訂閱，Adobe Admin Console會用於使用者管理。 與身分識別相關的概念（例如單一登入）也可在Admin Console中管理。
 
 * 尋找有關[Adobe Admin Console](https://helpx.adobe.com/tw/enterprise/using/admin-console.html){target="_blank"}的詳細資訊。
-* 尋找與Marketo訂閱[&#128279;](https://helpx.adobe.com/tw/enterprise/using/set-up-identity.html){target="_blank"}相關的設定Adobe組織的詳細資訊。
+* 尋找與Marketo訂閱](https://helpx.adobe.com/tw/enterprise/using/set-up-identity.html){target="_blank"}相關的[設定Adobe組織的詳細資訊。
 
 >[!NOTE]
 >

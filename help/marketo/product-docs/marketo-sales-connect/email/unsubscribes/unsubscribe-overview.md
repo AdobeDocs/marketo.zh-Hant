@@ -4,18 +4,21 @@ description: 瞭解Sales Connect中的取消訂閱。 使用Salesforce管理選�
 title: 取消訂閱概觀
 exl-id: 3212d5be-07ea-47bd-874e-25d02513c23b
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/oWYNQUFMIteRhrg21CLG62MZq-p9MM7x59nG8IvXmN8
+TQID: 'https://experienceleague.adobe.com/oWYNQUFMIteRhrg21CLG62MZq-p9MM7x59nG8IvXmN8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 topic_v2:
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Privacy
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 100
+source-wordcount: '100'
 ht-degree: 4%
-
 ---
-
 # 取消訂閱概觀 {#unsubscribe-overview}
 
 遵守電子郵件隱私權法規對組織而言越來越重要。 為了協助解決此問題，我們對取消訂閱體驗進行了一些增強功能。

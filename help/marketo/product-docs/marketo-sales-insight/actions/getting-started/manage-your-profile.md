@@ -1,13 +1,14 @@
 ---
 description: 瞭解如何管理您的銷售Insight動作設定檔。 更新「設定」中的名稱、電子郵件、簽名和通知偏好設定。
 title: 管理您的設定檔
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 4%
-
 ---
-
 # 管理您的設定檔 {#manage-your-profile}
 
 在「我的設定檔」頁面中，您可以更新您的名稱、帳戶的語言/地區設定/時區，以及變更密碼。
@@ -20,7 +21,7 @@ ht-degree: 4%
 
    ![](assets/manage-your-profile-1.png)
 
-1. 您的「我的設定檔」頁面預設會開啟。 若要更新您的名稱，只要輸入變更並按一下[儲存]。**&#x200B;**
+1. 您的「我的設定檔」頁面預設會開啟。 若要更新您的名稱，只要輸入變更並按一下[儲存]。****
 
    ![](assets/manage-your-profile-2.png)
 

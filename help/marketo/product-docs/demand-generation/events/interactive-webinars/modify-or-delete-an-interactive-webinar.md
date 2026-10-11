@@ -3,16 +3,18 @@ description: 瞭解如何在Marketo中修改或刪除互動式網路研討會。
 title: 修改或移除互動式網路研討會
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
 feature: Interactive Webinars
-TQID: https://experienceleague.adobe.com/drQyVdmCEcipyzmbkrhLV-VCKsHzSrceZVMRn5d5NKc
+TQID: 'https://experienceleague.adobe.com/drQyVdmCEcipyzmbkrhLV-VCKsHzSrceZVMRn5d5NKc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 330
+source-wordcount: '330'
 ht-degree: 4%
-
 ---
-
 # 修改或移除互動式網路研討會 {#modify-or-delete-an-interactive-webinar}
 
 瞭解如何變更您的互動式網路研討會。
@@ -23,7 +25,7 @@ ht-degree: 4%
 
    ![](assets/modify-or-delete-an-interactive-webinar-1.png)
 
-1. 房間將會載入。 如果要變更會議室，請從「會議室」下拉式清單中選取一個會議室。 若要更新您的範本，請按一下[使用聊天室]。**&#x200B;**
+1. 房間將會載入。 如果要變更會議室，請從「會議室」下拉式清單中選取一個會議室。 若要更新您的範本，請按一下[使用聊天室]。****
 
    ![](assets/modify-or-delete-an-interactive-webinar-2.png)
 
@@ -67,7 +69,7 @@ ht-degree: 4%
    >
    >您也可以在樹狀結構中的Event Program上按一下滑鼠右鍵，然後選取&#x200B;**複製**。
 
-1. 為複製的程式命名，設定Workspace和目的地（如果您希望程式存放在其他地方），然後按一下[儲存]。**&#x200B;**
+1. 為複製的程式命名，設定Workspace和目的地（如果您希望程式存放在其他地方），然後按一下[儲存]。****
 
    ![](assets/modify-or-delete-an-interactive-webinar-10.png)
 

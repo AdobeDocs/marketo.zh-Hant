@@ -4,29 +4,41 @@ title: 電子郵件範本
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
-TQID: https://experienceleague.adobe.com/En79ezOIpQCGnmPv9HasACkYY4ssfpsFOI-7IOj5Y4s
+TQID: 'https://experienceleague.adobe.com/En79ezOIpQCGnmPv9HasACkYY4ssfpsFOI-7IOj5Y4s'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
 subfeature_v2:
   - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+    internal-label: Adobe Identity Management
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1787
-ht-degree: 1%
-
+source-wordcount: '1788'
+ht-degree: 2%
 ---
-
 # 電子郵件範本編寫 {#email-template-authoring}
 
 為了加速並改善設計流程，您可以建立獨立的電子郵件範本，以輕鬆重複使用自訂內容。
@@ -173,7 +185,7 @@ ht-degree: 1%
 >
 >如果您希望片段佔據電子郵件內的整個水準版面，請新增1:1欄結構，然後將片段拖放至其中。
 
-儲存電子郵件後，它會顯示在片段詳細資訊頁面的&#x200B;_[!UICONTROL Used By]_&#x200B;標籤中。 新增到電子郵件範本的片段在範本中無法編輯；來源片段會定義內容。
+儲存電子郵件後，它會顯示在片段詳細資訊頁面的&#x200B;_[!UICONTROL Used By]_標籤中。 新增到電子郵件範本的片段在範本中無法編輯；來源片段會定義內容。
 
 ### 新增資產 {#add-assets}
 
@@ -205,13 +217,13 @@ ht-degree: 1%
 
 1. 直接在畫布中選取結構元件中的欄，或使用左側顯示的&#x200B;_導覽樹狀結構_。
 
-1. 從欄工具列中，按一下&#x200B;_[!UICONTROL Select a column]_&#x200B;工具並選擇您要編輯的工具。
+1. 從欄工具列中，按一下&#x200B;_[!UICONTROL Select a column]_工具並選擇您要編輯的工具。
 
-   您也可以從結構樹中選取它。 該欄的可編輯引數會顯示在右側的&#x200B;_[!UICONTROL Settings]_&#x200B;和_[!UICONTROL Styles]_&#x200B;索引標籤中。
+   您也可以從結構樹中選取它。 該欄的可編輯引數會顯示在右側的&#x200B;_[!UICONTROL Settings]_和_[!UICONTROL Styles]_&#x200B;索引標籤中。
 
    ![](assets/layers-settings-styles-2.png)
 
-1. 若要編輯欄屬性，請按一下右側的&#x200B;_[!UICONTROL Styles]_&#x200B;標籤，並根據您的需求加以變更：
+1. 若要編輯欄屬性，請按一下右側的&#x200B;_[!UICONTROL Styles]_標籤，並根據您的需求加以變更：
 
    * 針對&#x200B;**[!UICONTROL Background]**，視需要變更背景顏色。
 
@@ -250,7 +262,7 @@ ht-degree: 1%
    >
    >「遞補文字」是電子郵件Designer的預設值術語。 範例：``{{lead.First Name:default=Friend}}``。 如果您選擇的欄位中沒有該人員的值，建議您這麼做。
 
-1. 設定您的遞補文字，然後按一下[新增]。**&#x200B;**
+1. 設定您的遞補文字，然後按一下[新增]。****
 
    ![](assets/personalize-content-4.png)
 
@@ -298,9 +310,9 @@ ht-degree: 1%
 
 * 檢視案頭、行動裝置或純文字/純文字的內容。
 
-   * 按一下即時檢視（眼睛）圖示，即可跨裝置預覽內容。
+  * 按一下即時檢視（眼睛）圖示，即可跨裝置預覽內容。
 
-   * 選取其中一個現成可用的裝置，或輸入自訂維度來預覽您的內容。
+  * 選取其中一個現成可用的裝置，或輸入自訂維度來預覽您的內容。
 
 ### 更多選項 {#more-options}
 
@@ -352,7 +364,7 @@ ht-degree: 1%
 
   ![](assets/duplicate-email-templates-1.png)
 
-* 在&#x200B;_電子郵件範本_&#x200B;清單頁面中，按一下所需電子郵件範本的[更多動作]圖示（三個點），然後選擇[複製]。**&#x200B;**
+* 在&#x200B;_電子郵件範本_&#x200B;清單頁面中，按一下所需電子郵件範本的[更多動作]圖示（三個點），然後選擇[複製]。****
 
 在對話方塊中，輸入唯一名稱與選擇性說明。 完成時，按一下&#x200B;**複製**。
 

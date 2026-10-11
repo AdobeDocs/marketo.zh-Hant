@@ -4,23 +4,32 @@ description: 追蹤業務特定量度的自訂物件概觀，包括一對多和�
 title: 了解 Marketo 自訂物件
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
 feature: Custom Objects
-TQID: https://experienceleague.adobe.com/XYlpKUB0bDiuVIYU3-Cjw97zQU3ZBD5myE13beaYNrs
+TQID: 'https://experienceleague.adobe.com/XYlpKUB0bDiuVIYU3-Cjw97zQU3ZBD5myE13beaYNrs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
+    internal-label: Custom objects
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 726
+source-wordcount: '726'
 ht-degree: 2%
-
 ---
-
 # 了解 Marketo 自訂物件 {#understanding-marketo-custom-objects}
 
 使用自訂物件來追蹤您企業的特定量度。

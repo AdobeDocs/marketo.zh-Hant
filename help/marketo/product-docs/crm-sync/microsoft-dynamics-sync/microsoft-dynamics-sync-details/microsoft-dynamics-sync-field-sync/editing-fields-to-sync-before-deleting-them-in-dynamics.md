@@ -3,16 +3,21 @@ description: 瞭解在Dynamics中刪除欄位之前，如何在Marketo中編輯�
 title: 在 Dynamics 中刪除欄位之前先編輯要同步的欄位
 exl-id: 6fa9f6c0-c69d-478f-b333-13a5c910f577
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/vM7JJUlegPvtRlqgPJSIjDeq9jMMUr2PA6OAC-CopJI
+TQID: 'https://experienceleague.adobe.com/vM7JJUlegPvtRlqgPJSIjDeq9jMMUr2PA6OAC-CopJI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 194
+source-wordcount: '194'
 ht-degree: 5%
-
 ---
-
 # 在[!DNL Dynamics]中刪除欄位之前，請先編輯要同步的欄位 {#editing-fields-to-sync-before-deleting-them-in-dynamics}
 
 有時您可能會想要刪除[!DNL Dynamics]中的欄位。 Marketo會保留欄位清單，作為同步作業基礎的參考。 如果在同步處理開啟時在[!DNL Dynamics]中刪除欄位，同步處理可能會發生錯誤。 在刪除任何欄位之前，請遵循下列步驟。

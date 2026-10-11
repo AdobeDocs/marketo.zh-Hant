@@ -1,21 +1,24 @@
 ---
 unique-page-id: 37355600
 description: 瞭解如何從MS Dynamics執行個體解除安裝Marketo Sales Insight。 移除解決方案，並在需要時進行清理。
-title: 從您的MS [!DNL Dynamics] 執行個體解除安裝MSI
+title: 從您的MS [!DNL Dynamics]執行個體解除安裝MSI
 exl-id: 86e8dbc9-236f-42ad-96e8-cdb1b4c3bed2
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/tv5uoDyp6czOdjx3D1RDZUtoDTaaZniVF5fZDWnxPPk
+TQID: 'https://experienceleague.adobe.com/tv5uoDyp6czOdjx3D1RDZUtoDTaaZniVF5fZDWnxPPk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 139
+source-wordcount: '140'
 ht-degree: 2%
-
 ---
-
 # 從您的MS [!DNL Dynamics]執行個體解除安裝MSI {#uninstall-msi-from-your-ms-dynamics-instance}
 
 若要從MS [!DNL Dynamics]執行個體解除安裝MSI，您必須同時在Marketo和MS [!DNL Dynamics]中執行步驟。

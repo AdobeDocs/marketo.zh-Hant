@@ -3,18 +3,20 @@ description: 瞭解如何管理您的Sales Connect設定檔。 在網頁應用�
 title: 管理您的設定檔
 exl-id: 5f5c7f66-2220-49d9-89c9-ba3cb6979b85
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/4Fa3ONM7mXvFBp4cJF5Y4aHlm-4RQX9bJ-CtS1T8Kbo
+TQID: 'https://experienceleague.adobe.com/4Fa3ONM7mXvFBp4cJF5Y4aHlm-4RQX9bJ-CtS1T8Kbo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Integrations
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 254
+source-wordcount: '254'
 ht-degree: 6%
-
 ---
-
 # 管理您的設定檔 {#manage-your-profile}
 
 在您的[!UICONTROL My Profile]頁面中，您可以更新您的名稱、帳戶的語言/地區設定/時區，也可以變更您的密碼。

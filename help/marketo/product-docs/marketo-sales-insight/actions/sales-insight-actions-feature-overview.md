@@ -3,23 +3,29 @@ description: 瞭解銷售Insight動作和行銷支援的銷售情報和參與工
 title: 銷售洞察動作功能概觀
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/oklz4OlxLxWqtqQ4oBv3wMamrGKdfKKHppZ-P9CL23A
+TQID: 'https://experienceleague.adobe.com/oklz4OlxLxWqtqQ4oBv3wMamrGKdfKKHppZ-P9CL23A'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1334
+source-wordcount: '1334'
 ht-degree: 1%
-
 ---
-
 # 銷售洞察動作功能概觀 {#msi-actions-feature-overview}
 
 透過行銷支援的智慧和參與工具，使用Sales Insight Actions在單一工作流程中加速潛在客戶搜尋工作。
@@ -28,7 +34,7 @@ ht-degree: 1%
 >
 >Marketo Sales Insight Actions是網頁式應用程式，透過[Marketo Sales Insight套件](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}專門與Salesforce CRM整合。 有時稱為「Marketo銷售」，或簡稱為「動作」。
 
-如需銷售Insight動作的影片概觀，[請按一下這裡](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html?lang=zh-Hant){target="_blank"}。
+如需銷售Insight動作的影片概觀，[請按一下這裡](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target="_blank"}。
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
 
@@ -37,31 +43,31 @@ ht-degree: 1%
 頂端導覽列的「選擇動作」下拉式清單中有下列動作：
 
 * 傳送銷售電子郵件
-   * 銷售電子郵件具有檢視、點選和回覆追蹤（當設定傳遞管道時）
-   * 包括電子郵件Personalization、自訂簽名和附件
-   * 範本共用與報告
-   * 團隊共用、群組電子郵件和副本/密件副本功能
-   * 銷售電子郵件活動將記錄在Marketo個人記錄中
-   * Marketo Smart Campaigns中的對應篩選器和觸發器（詳細資訊如下）
+  * 銷售電子郵件具有檢視、點選和回覆追蹤（當設定傳遞管道時）
+  * 包括電子郵件Personalization、自訂簽名和附件
+  * 範本共用與報告
+  * 團隊共用、群組電子郵件和副本/密件副本功能
+  * 銷售電子郵件活動將記錄在Marketo個人記錄中
+  * Marketo Smart Campaigns中的對應篩選器和觸發器（詳細資訊如下）
 
 * 新增至銷售行銷活動
-   * 將潛在客戶新增至銷售教戰手冊，這是一系列電子郵件和任務
-   * 包括團隊存取和共用、產生任務、略過週末、忽略回覆的OOO電子郵件以及自動結束
-   * 行銷活動將記錄在Marketo人員記錄中
-   * Marketo Smart Campaigns中的對應篩選器和觸發器（詳細資訊如下）
+  * 將潛在客戶新增至銷售教戰手冊，這是一系列電子郵件和任務
+  * 包括團隊存取和共用、產生任務、略過週末、忽略回覆的OOO電子郵件以及自動結束
+  * 行銷活動將記錄在Marketo人員記錄中
+  * Marketo Smart Campaigns中的對應篩選器和觸發器（詳細資訊如下）
 
 * 銷售電話
-   * 在CRM內使用撥號器進行銷售通話
-   * 包括本機狀態，預先錄製
-   * 記錄通話結果、面板中的通話記錄和活動歷史記錄
-   * 通話活動將記錄在Marketo人員記錄中
-   * Marketo Smart Campaigns中的篩選器和觸發器
+  * 在CRM內使用撥號器進行銷售通話
+  * 包括本機狀態，預先錄製
+  * 記錄通話結果、面板中的通話記錄和活動歷史記錄
+  * 通話活動將記錄在Marketo人員記錄中
+  * Marketo Smart Campaigns中的篩選器和觸發器
 
 * 新增任務
-   * 為您的潛在客戶建立電子郵件、通話、InMail和自訂工作
-   * 使用Sales Campaigns自動建立任務
-   * 與[!DNL Salesforce]同步處理工作
-   * 在[!DNL Salesforce] Activity History區段中記錄任務
+  * 為您的潛在客戶建立電子郵件、通話、InMail和自訂工作
+  * 使用Sales Campaigns自動建立任務
+  * 與[!DNL Salesforce]同步處理工作
+  * 在[!DNL Salesforce] Activity History區段中記錄任務
 
 您可以按一下頂端導覽的((0))圖示來存取即時摘要。 包括檢視銷售活動即時更新的能力，以及熒幕停駐功能。
 
@@ -70,56 +76,56 @@ ht-degree: 1%
 以下資料可在MSI面板內的標籤中使用：
 
 * 見解控制面板
-   * 參與Velocity格線將包括來自銷售電子郵件、銷售促銷活動動作和銷售電話的活動
-   * 即將推出的銷售行銷活動 — 當潛在客戶屬於正在進行的行銷活動時，此資訊將顯示在即將推出的銷售行銷活動標籤中
-   * 近期任務 — 當有與潛在客戶相關的近期任務時，此資訊將在近期任務標籤中提供
+  * 參與Velocity格線將包括來自銷售電子郵件、銷售促銷活動動作和銷售電話的活動
+  * 即將推出的銷售行銷活動 — 當潛在客戶屬於正在進行的行銷活動時，此資訊將顯示在即將推出的銷售行銷活動標籤中
+  * 近期任務 — 當有與潛在客戶相關的近期任務時，此資訊將在近期任務標籤中提供
 
 * 電子郵件索引標籤
-   * 所有傳送的銷售電子郵件都會記錄在這裡。 活動也會記錄在Marketo人員記錄中
-   * 欄包括主旨、開啟、按一下、已回覆（僅適用於已設定傳送管道的銷售電子郵件）、寄件者、日期
-   * 包含投影片輸出卡片，以及寄件者、範本、促銷活動和預覽電子郵件等其他詳細資訊
+  * 所有傳送的銷售電子郵件都會記錄在這裡。 活動也會記錄在Marketo人員記錄中
+  * 欄包括主旨、開啟、按一下、已回覆（僅適用於已設定傳送管道的銷售電子郵件）、寄件者、日期
+  * 包含投影片輸出卡片，以及寄件者、範本、促銷活動和預覽電子郵件等其他詳細資訊
 
 * 呼叫標籤
-   * 使用銷售撥號器功能撥打的所有電話都會記錄在這裡。 活動也會記錄在Marketo人員記錄中
-   * 欄包括「名稱」、「結果」、「附註」、「呼叫時間」、「持續時間」和錄製連結
-   * 包含投影卡片，以及其他詳細資料，例如來電者、接聽者、電話號碼和狀態
+  * 使用銷售撥號器功能撥打的所有電話都會記錄在這裡。 活動也會記錄在Marketo人員記錄中
+  * 欄包括「名稱」、「結果」、「附註」、「呼叫時間」、「持續時間」和錄製連結
+  * 包含投影卡片，以及其他詳細資料，例如來電者、接聽者、電話號碼和狀態
 
 ## 帳戶和機會配置 {#account-and-opportunity-layout}
 
 可從頂端導覽取得下列動作：
 
 * 傳送銷售電子郵件 — 能夠傳送個人化或範本化的群組電子郵件，其中包含針對與帳戶/商機相關聯之所有連絡人的檢視、點按及回覆追蹤
-   * 銷售電子郵件具有檢視、點選和回覆追蹤（當設定傳遞管道時）
-   * 包括電子郵件Personalization、自訂簽名和附件
-   * 範本共用與報告
-   * 團隊共用、群組電子郵件和副本/密件副本功能
-   * 銷售電子郵件活動將記錄在Marketo個人記錄中
-   * Marketo Smart Campaigns中的對應篩選器和觸發器（詳細資訊如下）
+  * 銷售電子郵件具有檢視、點選和回覆追蹤（當設定傳遞管道時）
+  * 包括電子郵件Personalization、自訂簽名和附件
+  * 範本共用與報告
+  * 團隊共用、群組電子郵件和副本/密件副本功能
+  * 銷售電子郵件活動將記錄在Marketo個人記錄中
+  * Marketo Smart Campaigns中的對應篩選器和觸發器（詳細資訊如下）
 
 * 新增至銷售行銷活動 — 將所有與帳戶/機會關聯的連絡人新增至銷售教戰手冊，這是一系列電子郵件和工作
-   * 將潛在客戶新增至銷售教戰手冊，這是一系列電子郵件和任務
-   * 包括團隊存取和共用、產生任務、略過週末、忽略回覆的OOO電子郵件以及自動結束
-   * 行銷活動將記錄在Marketo人員記錄中
-   * Marketo Smart Campaigns中的對應篩選器和觸發器（詳細資訊如下）
+  * 將潛在客戶新增至銷售教戰手冊，這是一系列電子郵件和任務
+  * 包括團隊存取和共用、產生任務、略過週末、忽略回覆的OOO電子郵件以及自動結束
+  * 行銷活動將記錄在Marketo人員記錄中
+  * Marketo Smart Campaigns中的對應篩選器和觸發器（詳細資訊如下）
 
 您可以按一下頂端導覽列中的((0))圖示來存取即時摘要。 包括檢視銷售活動即時更新的能力，以及熒幕停駐功能。
 
 以下資料可在標籤中使用：
 
 * 見解控制面板
-   * 參與Velocity格線將包括來自銷售電子郵件、銷售促銷活動動作和銷售電話的活動
-   * 即將推出的銷售行銷活動 — 當客戶/商機的連絡人加入進行中的行銷活動時，此資訊將顯示在即將推出的銷售行銷活動標籤中
-   * 近期任務 — 當存在與來自帳戶/機會的聯絡人相關的近期任務時，此資訊將可在近期任務標籤中獲得
+  * 參與Velocity格線將包括來自銷售電子郵件、銷售促銷活動動作和銷售電話的活動
+  * 即將推出的銷售行銷活動 — 當客戶/商機的連絡人加入進行中的行銷活動時，此資訊將顯示在即將推出的銷售行銷活動標籤中
+  * 近期任務 — 當存在與來自帳戶/機會的聯絡人相關的近期任務時，此資訊將可在近期任務標籤中獲得
 
 * 電子郵件索引標籤
-   * 所有從帳戶/商機傳送給連絡人的銷售電子郵件都會記錄在這裡。 活動也會記錄在Marketo人員記錄中
-   * 欄包括主旨、開啟、按一下、已回覆（僅適用於已設定傳送管道的銷售電子郵件）、寄件者和日期
-   * 包含投影片輸出卡片，以及寄件者、範本、促銷活動和預覽電子郵件等其他詳細資訊
+  * 所有從帳戶/商機傳送給連絡人的銷售電子郵件都會記錄在這裡。 活動也會記錄在Marketo人員記錄中
+  * 欄包括主旨、開啟、按一下、已回覆（僅適用於已設定傳送管道的銷售電子郵件）、寄件者和日期
+  * 包含投影片輸出卡片，以及寄件者、範本、促銷活動和預覽電子郵件等其他詳細資訊
 
 * 呼叫標籤
-   * 所有使用銷售撥號器功能從客戶/商機撥打給連絡人的電話都會記錄在這裡。 活動也會記錄在Marketo人員記錄中
-   * 欄包括名稱、結果、附註、呼叫時間、持續時間和錄製連結
-   * 包含投影卡片，以及其他詳細資料，例如來電者、接聽者、電話號碼和狀態
+  * 所有使用銷售撥號器功能從客戶/商機撥打給連絡人的電話都會記錄在這裡。 活動也會記錄在Marketo人員記錄中
+  * 欄包括名稱、結果、附註、呼叫時間、持續時間和錄製連結
+  * 包含投影卡片，以及其他詳細資料，例如來電者、接聽者、電話號碼和狀態
 
 ## 潛在客戶與聯絡人清單檢視（大量動作） {#lead-and-contact-list-view}
 

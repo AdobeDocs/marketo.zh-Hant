@@ -4,24 +4,31 @@ description: 瞭解如何使用與Adobe Analytics整合來與Marketo Engage中�
 title: 與 Adobe Analytics 整合
 exl-id: 6ea35811-6f3d-4dc8-91aa-877d613f8e93
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/W9eAiWXh-XyeFqxP-BQHNdOQN5zYNuZ7ziRxXQQMZnw
+TQID: 'https://experienceleague.adobe.com/W9eAiWXh-XyeFqxP-BQHNdOQN5zYNuZ7ziRxXQQMZnw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1054
+source-wordcount: '1055'
 ht-degree: 1%
-
 ---
-
 # 與 Adobe Analytics 整合 {#integrate-with-adobe-analytics}
 
 ## 簡介 {#intro}

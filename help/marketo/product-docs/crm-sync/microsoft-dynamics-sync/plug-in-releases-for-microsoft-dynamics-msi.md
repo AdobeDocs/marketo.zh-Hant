@@ -1,21 +1,27 @@
 ---
 unique-page-id: 10099102
 description: 瞭解Microsoft Dynamics MSI的外掛程式版本。 尋找版本歷程記錄並下載您Dynamics版本的最新Marketo解決方案。
-title: ' [!DNL Microsoft Dynamics] MSI的外掛程式發行版本'
+title: '[!DNL Microsoft Dynamics] MSI的外掛程式版本'
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/egQszdONMhYChmpRBz40TUuYH0k-UYHLuPxAakLzjsM
+TQID: 'https://experienceleague.adobe.com/egQszdONMhYChmpRBz40TUuYH0k-UYHLuPxAakLzjsM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 486
+source-wordcount: '487'
 ht-degree: 12%
-
 ---
-
 # [!DNL Microsoft Dynamics] MSI的外掛程式版本 {#plug-in-releases-for-microsoft-dynamics-msi}
 
 當您首次同步至[!DNL Microsoft Dynamics]時，請下載並安裝Marketo Sales Insight (MSI)適用的最新版外掛程式。 Marketo會定期更新這些外掛程式，方便您回到相同位置下載新版本。

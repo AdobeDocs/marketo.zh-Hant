@@ -4,18 +4,20 @@ description: 瞭解如何在Sales Connect撰寫視窗中使用範本。 在傳�
 title: 在撰寫視窗中使用範本
 exl-id: 585254fc-54f6-4902-a3aa-6e415195c96d
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/CD5ZdQWvHyM8-FbEHKKk4pI4d0sqEWovHWBzZxXR-ao
+TQID: 'https://experienceleague.adobe.com/CD5ZdQWvHyM8-FbEHKKk4pI4d0sqEWovHWBzZxXR-ao'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 235
+source-wordcount: '235'
 ht-degree: 5%
-
 ---
-
 # 在撰寫視窗中使用範本 {#using-a-template-in-the-compose-window}
 
 ## 尋找及使用範本 {#finding-and-using-templates}

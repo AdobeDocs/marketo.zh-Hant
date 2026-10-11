@@ -4,16 +4,18 @@ description: 瞭解Marketo Sales Connect以及它如何在整個銷售週期推�
 title: Sales Connect 概觀
 exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/e9-WD7YGig59MLzMMrBidiGIZ0XAqFKCnUhRvs20q8k
+TQID: 'https://experienceleague.adobe.com/e9-WD7YGig59MLzMMrBidiGIZ0XAqFKCnUhRvs20q8k'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 256
+source-wordcount: '256'
 ht-degree: 8%
-
 ---
-
 # Sales Connect 概觀 {#sales-connect-overview}
 
 Marketo Sales Connect是多方面的銷售支援解決方案，具備多種功能，可協助您在整個銷售週期中提高參與度。

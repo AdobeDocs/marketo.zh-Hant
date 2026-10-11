@@ -4,16 +4,18 @@ description: 瞭解如何將Sales Connect按鈕新增至Salesforce。 將「連�
 title: 新增 Sales Connect 按鈕至 Salesforce
 exl-id: cd6b5314-5ac5-4854-a595-97c68aa7e9ba
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/m4Qn3b3J8l0y6Qoedfo5-Mc6FCeEKcy01k87KCNr3YY
+TQID: 'https://experienceleague.adobe.com/m4Qn3b3J8l0y6Qoedfo5-Mc6FCeEKcy01k87KCNr3YY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 139
+source-wordcount: '139'
 ht-degree: 4%
-
 ---
-
 # 將Sales Connect按鈕新增至[!DNL Salesforce] {#add-sales-connect-buttons-to-salesforce}
 
 ## 推送至Marketo Sales Connect {#push-to-marketo-sales-connect}

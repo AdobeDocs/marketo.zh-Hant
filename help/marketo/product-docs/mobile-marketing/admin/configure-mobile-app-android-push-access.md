@@ -4,16 +4,18 @@ description: 瞭解如何設定行動應用程式的Android推送存取權。 �
 title: 設定行動應用程式 Android 推播存取權
 exl-id: 1204f36a-d960-4af6-a5d0-ee6b6720026a
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/b810nQX3dwtz2EqjOrPcFsbaJNb5Ti0MLaYHVQ5hqN0
+TQID: 'https://experienceleague.adobe.com/b810nQX3dwtz2EqjOrPcFsbaJNb5Ti0MLaYHVQ5hqN0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 91
+source-wordcount: '91'
 ht-degree: 20%
-
 ---
-
 # 設定行動應用程式 Android 推播存取權 {#configure-mobile-app-android-push-access}
 
 1. 按一下「**[!UICONTROL Admin]**」。

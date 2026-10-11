@@ -4,25 +4,27 @@ description: 瞭解如何設定包含說明、sRGB影像和類別的豐富媒體
 title: 編輯豐富媒體的預測內容
 exl-id: 6c1161dd-cefe-4b0f-8942-396d4b7db701
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/XHMDPgftozNUSvcOrKdFcilATEmARQiBQd55jyulAyc
+TQID: 'https://experienceleague.adobe.com/XHMDPgftozNUSvcOrKdFcilATEmARQiBQd55jyulAyc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 220
+source-wordcount: '220'
 ht-degree: 6%
-
 ---
-
 # 編輯豐富媒體的預測內容 {#edit-predictive-content-for-rich-media}
 
 以下說明如何設定多媒體預測性內容。
 
 >[!PREREQUISITES]
 >
->在[!UICONTROL All Content]頁面上的預測性內容[&#128279;](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)的內容必須是已核准。
+>在[!UICONTROL All Content]頁面上的預測性內容](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)的內容必須是[已核准。
 
 1. 在&#x200B;**[!UICONTROL Predictive Content]**&#x200B;頁面上，按一下標題以開啟編輯器。
 

@@ -4,19 +4,22 @@ description: 瞭解如何使用事件簽入為您的活動做好準備。 設定
 title: 為您的事件做好準備
 exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/bqaLAyN4ltIiO-S6DcBmmhiC09N1ZRPDOgSPYMnMjjM
+TQID: 'https://experienceleague.adobe.com/bqaLAyN4ltIiO-S6DcBmmhiC09N1ZRPDOgSPYMnMjjM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 417
+source-wordcount: '417'
 ht-degree: 2%
-
 ---
-
 # 為您的事件做好準備 {#prepare-for-your-event}
 
 您需執行幾項作業，為活動做好準備。

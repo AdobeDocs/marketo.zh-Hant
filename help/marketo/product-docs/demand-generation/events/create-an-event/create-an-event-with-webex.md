@@ -1,26 +1,32 @@
 ---
 unique-page-id: 2949863
 description: 瞭解如何在Marketo中使用Webex建立活動。 設定Webex整合，並與Marketo同步事件或會議資料。
-title: 建立具有 [!DNL Webex]的事件
+title: 建立具有[!DNL Webex]的事件
 exl-id: 25266a6b-3951-46d1-8700-b36d7086ad2c
 feature: Events
-TQID: https://experienceleague.adobe.com/TDiOAkdoh-06ZZwY0uvTUCnSKJBzr3-Ht2Rqty--EIc
+TQID: 'https://experienceleague.adobe.com/TDiOAkdoh-06ZZwY0uvTUCnSKJBzr3-Ht2Rqty--EIc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 647
+source-wordcount: '647'
 ht-degree: 0%
-
 ---
-
 # 建立具有[!DNL Webex]的事件 {#create-an-event-with-webex}
 
 在Webex中建立網路研討會後，您需要將活動與Marketo Engage同步。

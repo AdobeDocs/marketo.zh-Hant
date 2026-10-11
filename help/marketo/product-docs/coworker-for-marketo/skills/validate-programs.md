@@ -1,7 +1,10 @@
 ---
 description: 瞭解如何稽核您的方案以取得所有元件（例如電子郵件、登陸頁面、行銷活動等）的最佳實務。
 title: 驗證程式
-source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%
@@ -26,7 +29,7 @@ ht-degree: 0%
 
    所選方案的摘要會顯示在中央窗格中。
 
-1. 在提示視窗中，輸入[驗證程式]並按一下[傳送]。**&#x200B;**
+1. 在提示視窗中，輸入[驗證程式]並按一下[傳送]。****
 
    適用於Marketo Engage的CX Enterprise Coworker提供所選程式的QA，顯示通過和未通過的專案。
 

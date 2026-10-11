@@ -1,17 +1,23 @@
 ---
 unique-page-id: 4718683
 description: 瞭解如何在Marketo Engage中核准階段和指派銷售機會至收入模型，包括核准階段和。 放心地執行下一個步驟。
-title: 核准階段並將商機指派至收入模型
+title: 核准階段並將銷售線索指派至收入模型
 exl-id: 0c93dfe4-8950-444c-a65b-080620816ba2
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '315'
 ht-degree: 7%
-
 ---
-
-# 核准階段並將商機指派至收入模型 {#approving-stages-and-assigning-leads-to-a-revenue-model}
+# 核准階段並將銷售線索指派至收入模型 {#approving-stages-and-assigning-leads-to-a-revenue-model}
 
 新增現有的銷售機會，並為任何新的銷售機會建立指派規則，以啟動並執行您的&#x200B;**收入模型**。
 

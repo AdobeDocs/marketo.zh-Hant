@@ -3,13 +3,20 @@ description: 瞭解如何為欄位定義一組固定的值，以簡化資料和�
 title: 挑選清單管理
 feature: Field Management
 exl-id: 2b75edbb-0ce3-495b-a245-dac2db9c0126
-source-git-commit: db3d673399917ad24559a88931972beaf4ea40a5
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+    internal-label: Field management
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '522'
 ht-degree: 0%
-
 ---
-
 # 挑選清單管理 {#picklist-management}
 
 挑選清單管理可讓您為欄位定義一組固定的值，以簡化Marketo Engage中的資料和工作流程管理。 在Marketo中，只能管理未對應到具有已定義選擇清單的CRM欄位的非文字欄位。 如果欄位對應到具有已定義挑選清單的CRM欄位，則必須在CRM中定義該欄位的值。

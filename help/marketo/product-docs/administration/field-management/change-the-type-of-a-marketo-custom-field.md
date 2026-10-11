@@ -4,20 +4,26 @@ description: 如何變更欄位管理中自訂欄位的資料型別（無法變�
 title: 變更 Marketo 自訂欄位的類型
 exl-id: b9b3dfc5-cb5f-4233-9fe6-f8fdf111d48c
 feature: Field Management
-TQID: https://experienceleague.adobe.com/Tnjq8vp7l6MpqGMlpwHXJXLz2Mi6GkJF8FgmWNQMhU8
+TQID: 'https://experienceleague.adobe.com/Tnjq8vp7l6MpqGMlpwHXJXLz2Mi6GkJF8FgmWNQMhU8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+    internal-label: Field management
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 105
+source-wordcount: '105'
 ht-degree: 20%
-
 ---
-
 # 變更 Marketo 自訂欄位的類型 {#change-the-type-of-a-marketo-custom-field}
 
 瞭解如何變更自訂欄位的欄位型別。

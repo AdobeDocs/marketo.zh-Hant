@@ -4,20 +4,26 @@ description: 瞭解帳戶設定如何依您的ICP將公司排名，並將指標�
 title: 帳戶剖析排名和調整
 exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/nuRK415J6iR46j8ft0lShUapom3GzqWiuNf-k2-Ca5w
+TQID: 'https://experienceleague.adobe.com/nuRK415J6iR46j8ft0lShUapom3GzqWiuNf-k2-Ca5w'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Customer experience
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 405
+source-wordcount: '405'
 ht-degree: 4%
-
 ---
-
 # 帳戶剖析排名和調整 {#account-profiling-ranking-and-tuning}
 
 帳戶設定檔會識別您的理想客戶設定檔(ICP)、根據ICP對資料庫中的公司進行排名，並將ICP指標資料新增至升級為[!UICONTROL Named Accounts]的帳戶。

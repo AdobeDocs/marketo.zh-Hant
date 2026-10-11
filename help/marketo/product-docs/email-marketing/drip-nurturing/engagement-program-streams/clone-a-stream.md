@@ -4,18 +4,23 @@ description: 瞭解如何複製參與計畫資料流以進行測試。 從串流
 title: 原地複製資料流
 exl-id: 9e1b83c0-38ce-4729-a922-80b927673717
 feature: Engagement Programs
-TQID: https://experienceleague.adobe.com/Z-U9iTTV04OrhnjcfU00R1n9lZ9XB27TIGDhHkzE96M
+TQID: 'https://experienceleague.adobe.com/Z-U9iTTV04OrhnjcfU00R1n9lZ9XB27TIGDhHkzE96M'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: fc5011cf-5b46-40b1-a5de-d7f042f85633
+    internal-label: Engagement programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 83
+source-wordcount: '83'
 ht-degree: 7%
-
 ---
-
 # 原地複製資料流 {#clone-a-stream}
 
 基於各種原因複製資料流，包括測試不同的訂單和不同的步調。

@@ -4,16 +4,21 @@ description: 瞭解如何使用帳戶觸發程式來監聽帳戶層級的行為�
 title: 帳戶觸發程序
 exl-id: cf8d49ed-58c4-49d0-95e2-e5df8c9bef50
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/iGJv8QygBcX0NAU-0rjiuPOW3mAyS3xMS98JQqv-Qw0
+TQID: 'https://experienceleague.adobe.com/iGJv8QygBcX0NAU-0rjiuPOW3mAyS3xMS98JQqv-Qw0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 109
+source-wordcount: '109'
 ht-degree: 3%
-
 ---
-
 # 帳戶觸發程序 {#account-triggers}
 
 使用帳戶層級觸發程式，跨不同管道（例如電子郵件、網路、廣告）監聽重要帳戶層級行為活動並採取行動。

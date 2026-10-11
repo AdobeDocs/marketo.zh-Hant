@@ -1,32 +1,46 @@
 ---
 description: 發行說明 — 2025年10月 — Marketo檔案 — 產品檔案
-title: 版本注意事項 - 2025 年 10 月
+title: 發行說明 - 2025 年 10 月
 feature: Release Information
 exl-id: 9c668de0-14d0-4d2e-8ea6-dc7db5be3ea7
-TQID: https://experienceleague.adobe.com/bCslBGq8zMAc2YNUunF7dhpPaq-kUfuOLHP6GaL0KO8
+TQID: 'https://experienceleague.adobe.com/bCslBGq8zMAc2YNUunF7dhpPaq-kUfuOLHP6GaL0KO8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
   - id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
+    internal-label: Dynamic content
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 877
+source-wordcount: '877'
 ht-degree: 94%
-
 ---
-
 # 發行說明：2025 年 10 月 {#release-notes-oct-25}
 
 以下為 2025 年 10 月發行版本中包含的所有功能。 請查看您的 Adobe Marketo Engage 版本是否提供這些功能。
@@ -39,7 +53,7 @@ ht-degree: 94%
 
 ## 標準發行週期功能 {#standard-release-cycle-features}
 
-以下功能屬於標準發行週期，並且將於 **2025 年 10 月 31 日**&#x200B;開始發行，其餘功能則會在接下來數週內分階段推出。 發行的功能和日期可能有所變更。 如需了解各項功能的狀態，請查看其旁邊欄位。
+以下功能屬於標準發行週期，並且將於 **2025 年 10 月 31 日**&#x200B;開始發行，其餘功能則會在接下來數週內分階段推出。 發行的功能和日期可能有所變更。 請查看各項功能旁邊的狀態。
 
 <table style="table-layout:auto">
  <tbody>
@@ -113,13 +127,13 @@ ht-degree: 94%
 
 * **REST API 雙斜線棄用**：在 2025 年 9 月 16 日，Adobe 已轉換至更現代化的 REST API URL 託管基礎結構，採用更新的技術，增加安全性和擴充性。 如果您的訂閱在URL中使用帶有雙正斜線(//)的API，請閱讀[此社群貼文](https://nation.marketo.com/t5/product-blogs/rest-api-double-slash-deprecation/ba-p/358616){target="_blank"}以瞭解後續步驟。
 
-* **在新的電子郵件設計工具中切換回 Velocity 指令碼**：Adobe Marketo Engage 於今年 6 月針對新的電子郵件設計工具發布了一項稱為&#x200B;_條件式內容_&#x200B;的功能。 此功能之前是由 Handlebar 指令碼而不是 Velocity 指令碼提供支援，以在您的動態內容中提供更多靈活度。 但是，當我們發現它導致部分權杖發生錯誤解析時，我們就決定暫時停用。 [了解更多](https://nation.marketo.com/t5/product-blogs/update-on-email-scripting-in-the-new-email-designer/ba-p/358179){target="_blank"}
+* **在新的電子郵件設計工具中切換回 Velocity 指令碼**：Adobe Marketo Engage 於今年 6 月針對新的電子郵件設計工具發布了一項稱為&#x200B;_條件式內容_&#x200B;的功能。 此功能之前是由 Handlebar 指令碼而不是 Velocity 指令碼提供支援，以在您的動態內容中提供更多靈活度。 但是，當我們發現它導致部分權杖遭到錯誤解析時，我們就決定暫時停用。 [了解更多](https://nation.marketo.com/t5/product-blogs/update-on-email-scripting-in-the-new-email-designer/ba-p/358179){target="_blank"}
 
 * **Marketo Engage Identity 終止服務**：2025 年 8 月，Adobe 已開始逐步停止對於 Marketo Engage Identity (透過 `login.marketo.com` 登入) 的支援。 為避免 Marketo Engage 的存取中斷，您最晚必須在 2025 年 9 月 30 日轉換至 [Adobe Identity](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}。
 
-   * _IP 限制棄用_：已於 2025 年 7 月 30 日停止支援「[根據 IP 限制 Marketo 登入](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"}」的功能。 此功能將保持正常運作，直到轉換至 Adobe Identity 的作業完成為止。 Adobe Admin Console 中即將推出適用於 Adobe Identity 的全新位置型存取控制功能。
+  * _IP 限制棄用_：已於 2025 年 7 月 30 日停止支援「[根據 IP 限制 Marketo 登入](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"}」的功能。 此功能將保持正常運作，直到轉換至 Adobe Identity 的作業完成為止。 Adobe Admin Console 中即將推出適用於 Adobe Identity 的全新位置型存取控制功能。
 
-   * _單一登入 (SSO) 棄用_：已於 2025 年 7 月 30 日停止支援 [Marketo Identity SSO](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"}。 該功能將保持正常運作，直到轉換至 Adobe Identity 的過程完成為止。 在 Adobe Admin Console 中，Adobe Identity 單一登入必須個別設定。 關於設定步驟，請參閱[設定身分識別和單一登入](https://helpx.adobe.com/tw/enterprise/using/set-up-identity.html){target="_blank"}。
+  * _單一登入 (SSO) 棄用_：已於 2025 年 7 月 30 日停止支援 [Marketo Identity SSO](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"}。 該功能將保持正常運作，直到轉換至 Adobe Identity 的過程完成為止。 在 Adobe Admin Console 中，Adobe Identity 單一登入必須個別設定。 關於設定步驟，請參閱[設定身分識別和單一登入](https://helpx.adobe.com/tw/enterprise/using/set-up-identity.html){target="_blank"}。
 
 * **棄用「_轉寄給好友_」功能**：自 2025 年 9 月 29 日起，Marketo Engage 2.0 電子郵件 (舊版電子郵件編輯器) 中的「_轉寄給好友_」功能在所有訂閱中已全面棄用。 此變更影響已寄出或即將寄出，且使用「轉寄給好友」權杖的電子郵件中的「轉寄給好友」權杖和連結。 [了解更多](https://nation.marketo.com/t5/product-blogs/deprecation-of-forward-to-a-friend/ba-p/358045#M2889){target="_blank"}
 

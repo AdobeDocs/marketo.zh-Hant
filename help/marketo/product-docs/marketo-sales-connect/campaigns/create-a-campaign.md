@@ -4,16 +4,18 @@ description: 瞭解如何使用電子郵件、通話、InMail和自訂工作步�
 title: 建立行銷活動
 exl-id: 17952187-4d7e-469e-9ac8-c2611dfeac1f
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/ljAuq-M-VyM-2PBuMSEfZykqjC1j-Dkctk3kQl-byII
+TQID: 'https://experienceleague.adobe.com/ljAuq-M-VyM-2PBuMSEfZykqjC1j-Dkctk3kQl-byII'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 306
+source-wordcount: '306'
 ht-degree: 3%
-
 ---
-
 # 建立行銷活動 {#create-a-campaign}
 
 行銷活動是一系列多管道步驟，包括：電子郵件、電話、InMail和自訂任務。 它們可讓您簡化與潛在客戶及現有客戶的通訊。
@@ -39,7 +41,7 @@ ht-degree: 3%
    >
    >按一下&#x200B;**[!UICONTROL Categories]**&#x200B;旁的&#x200B;**+**&#x200B;以建立新類別。
 
-1. 將會選取您選擇的類別。 如果您改變心意，請按一下下拉式清單並選取其他選項。 完成後，按一下「**[!UICONTROL &#x200B; Continue]**」。
+1. 將會選取您選擇的類別。 如果您改變心意，請按一下下拉式清單並選取其他選項。 完成後，按一下「**[!UICONTROL  Continue]**」。
 
    ![](assets/three-1.png)
 

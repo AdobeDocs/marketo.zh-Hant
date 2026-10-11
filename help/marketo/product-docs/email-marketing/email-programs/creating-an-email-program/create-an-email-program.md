@@ -4,18 +4,23 @@ description: 瞭解如何在Marketo中建立電子郵件計畫。 在一個位�
 title: 建立電子郵件方案
 exl-id: b2efaddb-cc7a-4ae3-8c1c-b70d189dd290
 feature: Email Programs
-TQID: https://experienceleague.adobe.com/tYpOfWjozk1q9NI4cFWZ38ymvC4mDgXYUm-XkLkKvhs
+TQID: 'https://experienceleague.adobe.com/tYpOfWjozk1q9NI4cFWZ38ymvC4mDgXYUm-XkLkKvhs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 129
+source-wordcount: '129'
 ht-degree: 7%
-
 ---
-
 # 建立電子郵件方案 {#create-an-email-program}
 
 使用電子郵件程式，快速輕鬆地傳送電子郵件給群組。

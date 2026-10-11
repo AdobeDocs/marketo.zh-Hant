@@ -4,18 +4,20 @@ description: 瞭解方案成員自訂欄位權杖。 使用權杖將成員資料
 title: 方案成員自訂欄位權杖
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 feature: Tokens
-TQID: https://experienceleague.adobe.com/B2oY6BKJdd92AAsMPHZV8Ffyc-9jKGRpATqles6TUos
+TQID: 'https://experienceleague.adobe.com/B2oY6BKJdd92AAsMPHZV8Ffyc-9jKGRpATqles6TUos'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: a6d52c76-712f-5f64-a879-9c65c1499322
+    internal-label: Tokens
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 423
+source-wordcount: '423'
 ht-degree: 5%
-
 ---
-
 # 方案成員自訂欄位權杖 {#program-member-custom-field-tokens}
 
 ## 程式成員自訂欄位的權杖支援 {#token-support-for-program-member-custom-fields}

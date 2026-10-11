@@ -4,20 +4,26 @@ description: 編輯或刪除自訂物件的步驟。
 title: 編輯和刪除 Marketo 自訂物件
 exl-id: 97bae63e-f679-490b-bfa2-51d88355b29c
 feature: Custom Objects
-TQID: https://experienceleague.adobe.com/1MI35ybGTBpp1ncAhEg-PzHibm6OOcphxXDdt1JlGmU
+TQID: 'https://experienceleague.adobe.com/1MI35ybGTBpp1ncAhEg-PzHibm6OOcphxXDdt1JlGmU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
+    internal-label: Custom objects
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 236
+source-wordcount: '236'
 ht-degree: 10%
-
 ---
-
 # 編輯和刪除 Marketo 自訂物件 {#edit-and-delete-a-marketo-custom-object}
 
 >[!NOTE]

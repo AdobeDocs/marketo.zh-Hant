@@ -3,16 +3,18 @@ description: 瞭解Sales Insight動作支援哪些瀏覽器。 使用支援的�
 title: 銷售洞察動作支援哪些瀏覽器？
 exl-id: 44610377-e3c3-435e-beb0-85e39c83f6fc
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/OYjJ1Kk-RFCIob4Ffpfxbffk0qh5VjnY9iiM-5Lg-Fw
+TQID: 'https://experienceleague.adobe.com/OYjJ1Kk-RFCIob4Ffpfxbffk0qh5VjnY9iiM-5Lg-Fw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 81
+source-wordcount: '81'
 ht-degree: 25%
-
 ---
-
 # 銷售洞察動作支援哪些瀏覽器？ {#which-browsers-does-sales-insight-actions-support}
 
 Marketo銷售Insight動作目前支援下列瀏覽器。

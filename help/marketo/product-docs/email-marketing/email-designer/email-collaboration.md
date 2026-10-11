@@ -4,19 +4,26 @@ title: 電子郵件共同作業
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 686a6950-6ca0-412f-8f47-24974c6428af
-TQID: https://experienceleague.adobe.com/6reAug0ptdiT2k0wzEez9HmH3vEksrA8FCXXxfLQi9s
+TQID: 'https://experienceleague.adobe.com/6reAug0ptdiT2k0wzEez9HmH3vEksrA8FCXXxfLQi9s'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Beginner
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 316
+source-wordcount: '316'
 ht-degree: 2%
-
 ---
-
 # 電子郵件共同作業 {#email-collaboration}
 
 電子郵件共同作業和註解可讓行銷團隊在Adobe Marketo Engage Email Designer中順暢地檢閱、討論及完成電子郵件資產。 您可以評論、建議編輯和即時解決意見反應，而不是透過外部工具（例如聊天、電子郵件對話、試算表等）分享草稿。 這能簡化工作流程、減少錯誤，並確保利害關係人在傳送電子郵件行銷活動之前保持一致。

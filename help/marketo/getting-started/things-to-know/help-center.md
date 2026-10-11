@@ -3,7 +3,7 @@ description: 說明中心 - Marketo Engage 文件 - 產品文件
 title: 說明中心
 feature: Getting Started
 exl-id: 3dd7c005-a416-4808-9418-9114df76d963
-TQID: https://experienceleague.adobe.com/DVB94vkw55tMkQ9LKvASESXHdcjiuKHYHbQCM2UDIFM
+TQID: 'https://experienceleague.adobe.com/DVB94vkw55tMkQ9LKvASESXHdcjiuKHYHbQCM2UDIFM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -12,6 +12,8 @@ feature_v2:
     internal-label: Administration
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
     internal-label: Resources
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
 subfeature_v2:
   - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
     internal-label: Release information
@@ -22,7 +24,7 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '319'
 ht-degree: 100%

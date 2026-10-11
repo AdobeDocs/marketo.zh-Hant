@@ -4,21 +4,25 @@ description: 傳送電子郵件 - Marketo 文件 - 產品文件
 title: 傳送電子郵件
 exl-id: 1f80fc08-3587-41f0-9c51-2feea10dff0d
 feature: Getting Started
-TQID: https://experienceleague.adobe.com/78USVL0xo4UiD5eQX4A3fKBZanhP7HcH0J90sD3CZi4
+TQID: 'https://experienceleague.adobe.com/78USVL0xo4UiD5eQX4A3fKBZanhP7HcH0J90sD3CZi4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 363
+source-wordcount: '363'
 ht-degree: 95%
-
 ---
-
 # 傳送電子郵件 {#send-an-email}
 
 這是每個人都想做的第一件事。 從 Marketo 傳送電子郵件！
@@ -139,7 +143,7 @@ ht-degree: 95%
 
    ![](assets/send-an-email-18.png)
 
-您應該很快便會在排定的日期/時間後收到電子郵件。
+您應該會在排定的日期/時間過後不久收到電子郵件。
 
 ## 任務完成！ {#mission-complete}
 

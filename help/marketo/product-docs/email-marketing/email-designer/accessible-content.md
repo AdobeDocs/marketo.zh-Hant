@@ -6,26 +6,36 @@ role: User
 level: Beginner, Intermediate
 keywords: 電子郵件、設計、協助工具
 exl-id: 6768d304-54c5-4eea-b3a7-b3a4eb3b4955
-TQID: https://experienceleague.adobe.com/kqwxM0mBZnchTEISiowpQOy7AZlKmmryK0GGkENiFdI
+TQID: 'https://experienceleague.adobe.com/kqwxM0mBZnchTEISiowpQOy7AZlKmmryK0GGkENiFdI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Accessibility
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1423
+source-wordcount: '1425'
 ht-degree: 1%
-
 ---
-
 # 設計無障礙內容 {#accessible-content}
 
 [歐洲無障礙法](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32019L0882){target="_blank"}是一項指令，旨在透過消除因各成員國的不同國家規則所造成的障礙，來增強無障礙產品和服務的內部市場。
@@ -59,8 +69,8 @@ Marketo Engage電子郵件Designer可讓您根據網頁內容可及性指引(WCA
 
 **色彩對比**
 
-* 維持文字與背景之間的對比率至少為4.5:1。
-* 對於大型文字（≥24px或粗體18px），請確定至少3:1對比度。
+* 文字和背景之間的對比率至少維持在4.5:1。
+* 對於大型文字（≥24px或粗體18px），請確定至少3:1的對比。
 * 避免白色背景上的淺灰色或淡色文字。
 * 不要只依賴顏色來傳達意義。 使用底線、圖示等
 

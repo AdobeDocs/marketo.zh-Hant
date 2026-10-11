@@ -4,20 +4,26 @@ description: 如何在自訂活動上新增、編輯或刪除欄位。
 title: 新增、編輯或刪除Marketo自訂活動欄位
 exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
 feature: Custom Activities
-TQID: https://experienceleague.adobe.com/fWMze2TPvq7qjS0UgRCst1cu-Jcn9rU89r6P8aalQU8
+TQID: 'https://experienceleague.adobe.com/fWMze2TPvq7qjS0UgRCst1cu-Jcn9rU89r6P8aalQU8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: a8c137b3-8aa5-433e-bdc9-0a216c2a11c1
+    internal-label: Custom activities
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 246
+source-wordcount: '246'
 ht-degree: 7%
-
 ---
-
 # 新增、編輯或刪除Marketo自訂活動欄位 {#add-edit-delete-marketo-custom-activity-fields}
 
 瞭解如何新增、變更或移除自訂活動欄位。

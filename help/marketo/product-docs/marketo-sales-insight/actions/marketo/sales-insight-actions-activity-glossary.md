@@ -3,18 +3,20 @@ description: 瞭解銷售Insight動作活動型別和術語。 使用辭彙表�
 title: 銷售洞察動作活動字彙表
 exl-id: fd0f632c-6f0d-49f9-a805-0730595c81fd
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/9Nc4yNxQWVptT5g1kszd7Q59AhT-eurDt4-gVRWT3qs
+TQID: 'https://experienceleague.adobe.com/9Nc4yNxQWVptT5g1kszd7Q59AhT-eurDt4-gVRWT3qs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 319
+source-wordcount: '319'
 ht-degree: 6%
-
 ---
-
 # [!DNL Sales Insight Actions]活動字彙表 {#sales-insight-actions-activity-glossary}
 
 在[!DNL Sales Insight Actions]中，當賣家：將銷售機會新增至銷售促銷活動、傳送銷售電子郵件給他們，或進行出站銷售通話時，將會記錄在該銷售機會的Marketo活動歷史記錄下。 此外，當銷售機會與電子郵件、開啟、點按和回覆互動時，也會記錄下來。

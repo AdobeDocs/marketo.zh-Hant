@@ -4,16 +4,21 @@ description: 瞭解如何將文字和權杖新增至Marketo登陸頁面。 插�
 title: 新增文字和權杖至登陸頁面
 exl-id: df6f17dc-50a0-4ee0-9a6e-96b0ebde46c7
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/-WO74fBXUqqawkC75M5bH2pFdWk3jcVhZghU2o5vEmk
+TQID: 'https://experienceleague.adobe.com/-WO74fBXUqqawkC75M5bH2pFdWk3jcVhZghU2o5vEmk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 191
+source-wordcount: '191'
 ht-degree: 8%
-
 ---
-
 # 新增文字和權杖至登陸頁面 {#add-text-and-tokens-to-a-landing-page}
 
 >[!NOTE]

@@ -4,16 +4,18 @@ description: 瞭解當Sales Connect連線至Salesforce時，回覆記錄如何�
 title: 回覆記錄(SFDC)
 exl-id: 11f84157-55b7-42a7-81d0-f5848adbb9f4
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/f0d-5xccuVhooEcbh-7TU8fw68iazo1Ird1I8VZJYU4
+TQID: 'https://experienceleague.adobe.com/f0d-5xccuVhooEcbh-7TU8fw68iazo1Ird1I8VZJYU4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 265
+source-wordcount: '265'
 ht-degree: 0%
-
 ---
-
 # 回覆記錄(SFDC) {#reply-logging-sfdc}
 
 Sales Connect可協助您自動將潛在客戶的回覆記錄到Salesforce。 允許您執行此動作的結構是根據我們的電子郵件回覆追蹤。 如果我們可以追蹤潛在客戶的回覆，我們就能將該回覆記錄到Salesforce。

@@ -4,16 +4,18 @@ description: 瞭解如何將Sales Connect取消訂閱與Salesforce同步。 保�
 title: 與 Salesforce 同步取消訂閱
 exl-id: 1694d7bf-d2f6-4950-8a3e-c7d89c37b276
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/fiicWWuy3BXErVlY0s3u5kte59u8U2YFq2-rTnpuq-g
+TQID: 'https://experienceleague.adobe.com/fiicWWuy3BXErVlY0s3u5kte59u8U2YFq2-rTnpuq-g'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 406
+source-wordcount: '407'
 ht-degree: 2%
-
 ---
-
 # 正在與[!DNL Salesforce]同步取消訂閱 {#syncing-unsubscribes-with-salesforce}
 
 ## 取消訂閱同步處理至[!DNL Salesforce]的需求 {#requirements-for-unsubscribes-to-sync-to-salesforce}
@@ -28,7 +30,7 @@ ht-degree: 2%
 
 **取消訂閱同步處理**
 
-當您啟用取消訂閱同步時（下面的步驟3），您將開啟夜間同步。 每天大約在PST下午8:00時進行同步處理。 它會將Marketo Sales中的所有取消訂閱與Salesforce中的選擇退出欄位進行雙向同步。
+當您啟用取消訂閱同步時（下面的步驟3），您將開啟夜間同步。 同步會在太平洋標準時間晚上8:00左右每日執行一次。 它會將Marketo Sales中的所有取消訂閱與Salesforce中的選擇退出欄位進行雙向同步。
 
 ## 設定取消訂閱同步處理至[!DNL Salesforce] {#configure-unsubscribe-sync-to-salesforce}
 

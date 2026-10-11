@@ -3,27 +3,30 @@ description: 產品管理員在受到系統管理員邀請後完成設定的步�
 title: 產品管理員設定
 exl-id: ed628075-69b8-44b5-b60d-b121cd5a3dbe
 feature: Marketo with Adobe Identity
-TQID: https://experienceleague.adobe.com/c9TsFVJi0e0G-qKL8R36UHKSbAPe5y1fKmUSNApO108
+TQID: 'https://experienceleague.adobe.com/c9TsFVJi0e0G-qKL8R36UHKSbAPe5y1fKmUSNApO108'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b73410f7-454c-5670-baa7-a84eae014e94
+    internal-label: Marketo with Adobe Identity
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 98
+source-wordcount: '98'
 ht-degree: 6%
-
 ---
-
 # 產品管理員設定 {#product-admin-setup}
 
 1. 系統管理員邀請您之後，您將會收到歡迎電子郵件。 在該電子郵件中，按一下&#x200B;**[!UICONTROL Get Started]**。
 
    ![](assets/admin-setup-7.png)
 
-1. 如果您先前曾透過Adobe ID存取應用程式，您將會直接進入Adobe Admin Console。 如果沒有，[請設定您的Adobe ID](https://helpx.adobe.com/tw/manage-account/using/create-update-adobe-id.html){target="_blank"}。
+1. 如果您先前曾透過Adobe ID存取應用程式，您將會直接進入Adobe Admin Console。 如果沒有，[請設定您的Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}。
 
    ![](assets/admin-setup-8.png)
 

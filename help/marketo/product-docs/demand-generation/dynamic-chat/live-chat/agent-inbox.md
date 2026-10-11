@@ -3,7 +3,7 @@ description: 瞭解即時聊天代理程式欄位對話所在的「代理程式�
 title: 代理人收件匣
 feature: Dynamic Chat
 exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
-TQID: https://experienceleague.adobe.com/v3wmO0EodV-ENjE5dOnLg1x5HscxFneVQx0pdEEuMAM
+TQID: 'https://experienceleague.adobe.com/v3wmO0EodV-ENjE5dOnLg1x5HscxFneVQx0pdEEuMAM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -12,7 +12,12 @@ feature_v2:
     internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
     internal-label: Database
-source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '596'
 ht-degree: 1%

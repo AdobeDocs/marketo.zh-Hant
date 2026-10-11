@@ -4,16 +4,21 @@ description: 瞭解如何複製清單或智慧清單。 建立副本以用作新
 title: 原地複製清單或智慧清單
 exl-id: e802fa74-5884-4201-9b55-d6cd7e2a7d9f
 feature: Smart Lists
-TQID: https://experienceleague.adobe.com/hHo0TWwP-GQ2DbHbiFKG9Bcx3RS-FR4GT1rSXPn5UzE
+TQID: 'https://experienceleague.adobe.com/hHo0TWwP-GQ2DbHbiFKG9Bcx3RS-FR4GT1rSXPn5UzE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 79
+source-wordcount: '79'
 ht-degree: 17%
-
 ---
-
 # 原地複製清單或智慧清單 {#clone-a-list-or-smart-list}
 
 您不必從頭開始建立「智慧列示」，只要複製類似的清單並進行變更即可節省時間。

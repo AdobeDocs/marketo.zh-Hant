@@ -4,21 +4,28 @@ description: Marketo中自訂欄位型別的參考，包括布林值、貨幣、
 title: 自訂欄位類型字彙表
 exl-id: 495d4deb-28f1-4044-98d3-27c20756fe73
 feature: Field Management
-TQID: https://experienceleague.adobe.com/Dh25WBFjkhrFODNcn6DpWNC9F2F-3D7C24Nwkv8fbOM
+TQID: 'https://experienceleague.adobe.com/Dh25WBFjkhrFODNcn6DpWNC9F2F-3D7C24Nwkv8fbOM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+    internal-label: Field management
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 601
+source-wordcount: '602'
 ht-degree: 3%
-
 ---
-
 # 自訂欄位類型字彙表 {#custom-field-type-glossary}
 
 在Marketo中建立自訂欄位時，您有一份型別清單可供選擇。

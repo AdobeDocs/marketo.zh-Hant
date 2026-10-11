@@ -3,16 +3,18 @@ description: 瞭解如何設定自訂網域追蹤，讓可追蹤連結使用您�
 title: 如何設定自訂網域追蹤
 exl-id: 6dea7f3d-d44d-4f67-af44-a8963c95c378
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/gn3uC4uxpwp35IVYcUs-cZJFqbmPc-7vTmgbIPm8lTk
+TQID: 'https://experienceleague.adobe.com/gn3uC4uxpwp35IVYcUs-cZJFqbmPc-7vTmgbIPm8lTk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 186
+source-wordcount: '186'
 ht-degree: 7%
-
 ---
-
 # 如何設定自訂網域追蹤 {#how-to-set-up-custom-domain-tracking}
 
 自訂網域追蹤可讓您的團隊在新增至銷售電子郵件的所有可追蹤連結中，使用您自己的公司名稱。 完成此設定後，我們將允許列出您在電子郵件中的所有連結，以顯示為go.yourcompany.com，這樣當有人將滑鼠游標停留在連結上時，將會顯示go.yourcompany.com而非go.toutapp.com。

@@ -4,13 +4,17 @@ short-description: 了解 Marketo Engage 術語及其定義，幫助您快速上
 title: Marketo Engage 字彙表
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
-source-git-commit: 7b8f503aae712d9d5e468c6218207514b43d634b
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '4132'
 ht-degree: 91%
-
 ---
-
 # Marketo Engage 字彙表 {#marketo-engage-glossary}
 
 以下是您在使用 Marketo Engage 時可能遇到的許多術語的定義。 若想要新增某個術語，請[寄送電子郵件給我們](mailto:GRP-Marketo-articlefeedback@adobe.com)。
@@ -205,7 +209,7 @@ ht-degree: 91%
   </tr>
   <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md" rel="nofollow">自訂物件</a></strong></td>
-   <td colspan="1">自訂物件能協助您追蹤您業務特定的量度。</td>
+   <td colspan="1">自訂物件能協助您追蹤業務專屬的量度。</td>
   </tr>
   <tr>
    <td colspan="1">
@@ -234,7 +238,7 @@ ht-degree: 91%
   </tr>
   <tr>
    <td><strong>去除重複</strong></td>
-   <td>也稱為去除重複內容。 識別並統合資訊 (例如人員)，以便消除重複內容的過程。 例如，當新的人員輸入您的執行個體時，Marketo 會自動去除重複。</td>
+   <td>也稱為去除重複內容。 識別並統合資訊 (例如人員)，以便消除重複內容的過程。 例如，當新的人員進入您的執行個體時，Marketo 會自動去除重複。</td>
   </tr>
   <tr>
    <td colspan="1">
@@ -345,7 +349,7 @@ ht-degree: 91%
   </tr>
   <tr>
    <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" rel="nofollow"><strong>已用盡</strong></a></td>
-   <td colspan="1">人員已經接收到參與資料流中每項內容的狀態。 被標記為已用盡的人員會保持這種狀態，直到新增額外的<strong>內容</strong>。</td>
+   <td colspan="1">人員已經接收到參與資料流中每項內容的時候。 被標記為已用盡的人員會保持這種狀態，直到新增額外的<strong>內容</strong>。</td>
   </tr>
  </tbody>
 </table>
@@ -504,10 +508,10 @@ ht-degree: 91%
   </tr>
   <tr>
    <td colspan="1"><a href="https://www.marketo.com/marketing-automation/" rel="nofollow"><strong>行銷自動化</strong></a></td>
-   <td colspan="1">一種技術類別，能讓公司簡化、自動化及衡量行銷工作和工作流程，進而提高營運效率並加速營收成長。</td>
+   <td colspan="1">一種技術類別，能讓公司簡化、自動化及衡量行銷工作和工作流程，進而提高營運效率並加速收入成長。</td>
   </tr>
   <tr>
-   <td colspan="1"><strong>行銷合格商機 (MQL)</strong></td>
+   <td colspan="1"><strong>行銷合格銷售線索 (MQL)</strong></td>
    <td colspan="1">在培養一部分客群之後，有些個體可能會成為行銷合格商機，代表其所展現出的行為和特徵符合您的成功準則，能轉交給您的銷售組織進行後續追蹤。</td>
   </tr>
   <tr>
@@ -515,7 +519,7 @@ ht-degree: 91%
    <td colspan="1">這是由<strong>使用者</strong>手動設定的欄位，可以使其 Marketo <strong>資料庫</strong>中的某位人員暫時變成無法寄信的狀態。</td>
   </tr>
   <tr>
-   <td colspan="1"><strong>Marketo 商機管理 (MLM)</strong></td>
+   <td colspan="1"><strong>Marketo 銷售線索管理 (MLM)</strong></td>
    <td colspan="1">用於描述 Marketo Classic 核心應用程式介面的口語化術語。</td>
   </tr>
   <tr>
@@ -590,7 +594,7 @@ ht-degree: 91%
   </tr>
   <tr>
    <td><strong>選擇加入</strong></td>
-   <td>人員給予權限開始接收行銷電子郵件。</td>
+   <td>當人員同意開始接收行銷電子郵件時。</td>
   </tr>
   <tr>
    <td><strong>選擇退出</strong></td>
@@ -620,7 +624,7 @@ ht-degree: 91%
     <div>
      <p><a href="/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md" rel="nofollow"><strong> 效能洞察</strong></a></p>
     </div></td>
-   <td colspan="1">過去稱為 Marketo 績效洞察 (MPI)。 附加元件分析功能，會使用各種工具協助您探索趨勢並識別一致的勝利策略。</td>
+   <td colspan="1">過去稱為 Marketo 績效洞察 (MPI)。 附加元件分析功能，會使用各種工具協助您探索趨勢並找出持續奏效的策略。</td>
   </tr>
   <tr>
    <td><strong>人員</strong></td>
@@ -628,7 +632,7 @@ ht-degree: 91%
   </tr>
   <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md#person-partitions" rel="nofollow">人員分割</a></strong></td>
-   <td colspan="1">人員分割的功用類似於獨立的<strong>資料庫</strong>。 每個分割都有自己的人員，不會去除重複或與其他分割混合。</td>
+   <td colspan="1">人員分割的功用類似於獨立的<strong>資料庫</strong>。 每個分割都有自己的人員，不會與其他分割進行重複資料刪除或混合。</td>
   </tr>
   <tr>
    <td colspan="1"><a href="/help/marketo/product-docs/target-account-management/using-personas.md" rel="nofollow"><strong>人物誌</strong></a></td>
@@ -651,7 +655,7 @@ ht-degree: 91%
   </tr>
   <tr>
    <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md" rel="nofollow"><strong>方案效能報告</strong></a></td>
-   <td colspan="1">Marketo 中的一種報告類型。 透過報告可深入了解方案的運作情況。 依照<strong>標記</strong>、<strong>期間成本</strong>等篩選器進行篩選。</td>
+   <td colspan="1">Marketo 中的一種報告類型。 它可讓您查看方案的執行情況。 依照<strong>標記</strong>、<strong>期間成本</strong>等篩選器進行篩選。</td>
   </tr>
  </tbody>
 </table>
@@ -752,11 +756,11 @@ ht-degree: 91%
   </tr>
   <tr>
    <td colspan="1"><strong>垃圾郵件陷阱</strong></td>
-   <td colspan="1">ISP 和電子郵件安全性供應商專門監控以捕獲垃圾郵件寄送者的電子郵件地址。 可能包括從未使用過的地址、拼字錯誤的網域和過期的網域。 不同類型的垃圾郵件陷阱可以反映出不同的獲取資料問題，包括表單問題 (拼字錯誤垃圾郵件陷阱)、未正確維護資料庫或移除無效地址 (過期網域垃圾郵件陷阱)，或經常透過購買清單未經許可而取得地址 (原始垃圾郵件陷阱) 。 寄送到這些地址的任何郵件都會被標記為<strong>垃圾郵件</strong>。</td>
+   <td colspan="1">ISP 和電子郵件安全性供應商專門監視以捕獲垃圾郵件寄送者的電子郵件地址。 可能包括從未使用過的地址、拼字錯誤的網域和過期的網域。 不同類型的垃圾郵件陷阱可以反映出不同的獲取資料問題，包括表單問題 (拼字錯誤垃圾郵件陷阱)、未正確維護資料庫或移除無效地址 (過期網域垃圾郵件陷阱)，或經常透過購買清單未經許可而取得地址 (原始垃圾郵件陷阱) 。 寄送到這些地址的任何郵件都會被標記為<strong>垃圾郵件</strong>。</td>
   </tr>
   <tr>
    <td><strong>分割測試</strong></td>
-   <td>使用兩個或多個變數進行的測試實驗，用於測量結果的差異。 目標為識別網頁上哪些變更能夠讓興趣的結果增加或最大化。</td>
+   <td>使用兩個或多個變體進行的測試實驗，用於測量結果的差異。 目標為識別網頁上哪些變更能夠讓興趣的結果增加或最大化。</td>
   </tr>
   <tr>
    <td><strong>靜態清單</strong></td>
@@ -870,7 +874,7 @@ ht-degree: 91%
   </tr>
   <tr>
    <td><strong>所見即所得 (WYSIWYG)</strong></td>
-   <td>這是一個常用術語，指讓您在建立<strong>內容</strong>時，可以即時看到其最終結果的應用程式或編輯器。 Marketo 有一個 WYSIWYG 編輯器。</td>
+   <td>這是一個常用術語，指讓您在建立<strong>內容</strong>時，可以即時看到其最終結果的應用程式或編輯器。 Marketo 有一個所見即所得編輯器。</td>
   </tr>
   <tr>
    <td><strong>小工具</strong></td>
@@ -882,7 +886,7 @@ ht-degree: 91%
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">工作區</a></strong></td>
-   <td>Marketo 中的獨立區域，用於保存行銷<strong>資產</strong>。 例如，您可以擁有一個名為「北美」的工作區，僅限用於該區域的行銷。 歐洲、亞洲等。</td>
+   <td>Marketo 中的獨立區域，用於保存行銷<strong>資產</strong>。 例如，您可以擁有一個名為「北美」的工作區，專門用於向該區域進行行銷。 歐洲、亞洲等。</td>
   </tr>
  </tbody>
 </table>

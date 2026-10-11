@@ -3,20 +3,26 @@ description: 瞭解如何使用封鎖或允許的網域來設定Dynamic Chat安�
 title: 安全性設定
 feature: Dynamic Chat
 exl-id: 68a53986-6f42-4aa2-86f6-0b2097f94963
-TQID: https://experienceleague.adobe.com/7ans6J5WCXbTalK7ubMCrWBLWaJm3prPCoxsrCWEKtg
+TQID: 'https://experienceleague.adobe.com/7ans6J5WCXbTalK7ubMCrWBLWaJm3prPCoxsrCWEKtg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: 88949407423d12a95bf39470e3c29835d934e2f6
+    internal-label: Security
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 238
+source-wordcount: '238'
 ht-degree: 3%
-
 ---
-
 # 安全性設定 {#security-settings}
 
 在「安全性」設定中，您可以將網域新增至封鎖或允許的清單。

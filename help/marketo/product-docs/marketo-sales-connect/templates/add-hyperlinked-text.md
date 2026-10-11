@@ -4,18 +4,20 @@ description: 瞭解如何將超連結文字新增至Sales Connect範本。 插�
 title: 新增附有超連結的文字
 exl-id: 29df5688-d6f5-4a75-9a3e-fc68f0f2b45a
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/Y7qye77OG2UNv4iKP-w-4Z8xSeqzMmii283-gNGGG-I
+TQID: 'https://experienceleague.adobe.com/Y7qye77OG2UNv4iKP-w-4Z8xSeqzMmii283-gNGGG-I'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 59
+source-wordcount: '59'
 ht-degree: 11%
-
 ---
-
 # 新增附有超連結的文字 {#add-hyperlinked-text}
 
 1. 輸入您要超連結的文字（亦即「按一下這裡」）。

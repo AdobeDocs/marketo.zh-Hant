@@ -4,16 +4,18 @@ description: 瞭解如何將電子郵件指令碼Token新增至您的電子郵�
 title: 新增電子郵件指令碼權杖至您的電子郵件
 exl-id: 41ef7c21-06af-4950-a19e-017e2417044e
 feature: Tokens
-TQID: https://experienceleague.adobe.com/IdBf2VW0db6TyqQvthXGcYsz5MaigEBI2c7MsJVhwSM
+TQID: 'https://experienceleague.adobe.com/IdBf2VW0db6TyqQvthXGcYsz5MaigEBI2c7MsJVhwSM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a6d52c76-712f-5f64-a879-9c65c1499322
+    internal-label: Tokens
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 166
+source-wordcount: '166'
 ht-degree: 14%
-
 ---
-
 # 新增電子郵件指令碼權杖至您的電子郵件 {#add-an-email-script-token-to-your-email}
 
 在您[建立您的電子郵件指令碼](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)後，您會想要將它新增至電子郵件以檢視其運作情況。 方法如下。

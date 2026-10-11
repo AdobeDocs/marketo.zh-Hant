@@ -4,16 +4,18 @@ description: 瞭解如何傳送行動推播通知。 使用包含「智慧清單
 title: 傳送行動推播通知
 exl-id: b462857e-c63d-419d-9e28-aafc778e217e
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/ktMtQUJT2YaXM2BzF4yTIBLfXoR0Wrm5aQLb3WalZoc
+TQID: 'https://experienceleague.adobe.com/ktMtQUJT2YaXM2BzF4yTIBLfXoR0Wrm5aQLb3WalZoc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 105
+source-wordcount: '105'
 ht-degree: 20%
-
 ---
-
 # 傳送行動推播通知 {#send-a-mobile-push-notification}
 
 使用您的行動應用程式傳送推播通知給使用者。

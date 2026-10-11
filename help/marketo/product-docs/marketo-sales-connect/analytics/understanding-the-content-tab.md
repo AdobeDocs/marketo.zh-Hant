@@ -4,18 +4,20 @@ description: 瞭解Sales Connect中的「內容」索引標籤和範本參與量
 title: 了解內容索引標籤
 exl-id: dd3af0c5-72d7-4ced-a8c7-1900dd30ef3e
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/A5yokcC9qmjpy4SnbB4zrcCNRZJNl8LAdDQrQH2fA0c
+TQID: 'https://experienceleague.adobe.com/A5yokcC9qmjpy4SnbB4zrcCNRZJNl8LAdDQrQH2fA0c'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 196
+source-wordcount: '196'
 ht-degree: 2%
-
 ---
-
 # 瞭解[!UICONTROL Content]標籤 {#understanding-the-content-tab}
 
 [!UICONTROL Content]索引標籤與使用範本時您團隊的電子郵件參與有關。 我們會自動向上反升至我們認為重要的三個量度。

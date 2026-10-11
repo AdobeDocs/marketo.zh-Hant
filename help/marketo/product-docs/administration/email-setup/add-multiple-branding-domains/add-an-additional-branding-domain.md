@@ -4,21 +4,26 @@ description: 在一個例項中為多個品牌新增額外品牌網域，以便�
 title: 新增其他品牌化網域
 exl-id: df6e5afe-dbb0-4fbe-bf06-79d92a91b986
 feature: Email Setup
-TQID: https://experienceleague.adobe.com/sPW8Gy4nhaxQ3kx7VPMaPG1ZrmE8ZnAN65qas0Idwqw
+TQID: 'https://experienceleague.adobe.com/sPW8Gy4nhaxQ3kx7VPMaPG1ZrmE8ZnAN65qas0Idwqw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: a03c57fb-0705-4a0d-b463-bbc931d4cefa
+    internal-label: Email setup
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 697
+source-wordcount: '697'
 ht-degree: 19%
-
 ---
-
 # 新增其他品牌化網域 {#add-an-additional-branding-domain}
 
 當您從單一Marketo例項執行多個品牌，並希望每個品牌都有自己的品牌追蹤連結時，請新增一個品牌網域。
@@ -53,9 +58,9 @@ ht-degree: 19%
 
 請依照下列步驟，為您現有的網域啟用SSL。
 
-1. 從&#x200B;_[!UICONTROL Admin]_&#x200B;區域，選取&#x200B;**[!UICONTROL Email]**。
+1. 從&#x200B;_[!UICONTROL Admin]_區域，選取&#x200B;**[!UICONTROL Email]**。
 
-1. 在&#x200B;_[!UICONTROL Domain]_&#x200B;索引標籤上，選取網域列並按一下&#x200B;**[!UICONTROL Add SSL]**。
+1. 在&#x200B;_[!UICONTROL Domain]_索引標籤上，選取網域列並按一下&#x200B;**[!UICONTROL Add SSL]**。
 
    ![管理員 — 電子郵件 — 網域 — 新增SSL](./assets/admin-email-branding-domain-add-ssl.png){width="600"}
 
@@ -99,7 +104,7 @@ ht-degree: 19%
 
 ## 注意事項 {#things-to-note}
 
-* **網域與Marketo Engage的DNS對應**：在UI中新增網域之前，您必須[將CNAME對應到Marketo提供的網域](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}。
+* **網域與Marketo Engage的DNS對應**：在UI中新增網域之前，您必須[將CNAME對應到Marketo提供的網域](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}。
 
 * **自訂SSL**：如果您需要自訂SSL，請提交[支援票證](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。 請勿使用自助核取方塊來建立SSL。
 

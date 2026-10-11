@@ -4,16 +4,21 @@ description: 瞭解如何在不使用CRM時手動建立具名帳戶階層。 使
 title: 建立階層
 exl-id: ea56145b-f8c2-4b18-a50c-b547ac1102a1
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/kjE-3RzO0RBub-PJeySgJzc3mW6QAJ9PmGqMtL6hdjc
+TQID: 'https://experienceleague.adobe.com/kjE-3RzO0RBub-PJeySgJzc3mW6QAJ9PmGqMtL6hdjc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 154
+source-wordcount: '154'
 ht-degree: 7%
-
 ---
-
 # 建立階層 {#create-a-hierarchy}
 
 階層是指在CRM中建立。 不過，如果您沒有CRM，請依照下列步驟手動建立階層。

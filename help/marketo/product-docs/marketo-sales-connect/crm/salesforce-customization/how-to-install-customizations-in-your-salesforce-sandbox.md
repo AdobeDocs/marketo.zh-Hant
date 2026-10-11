@@ -4,16 +4,18 @@ description: 瞭解如何在您的Salesforce沙箱中安裝Sales Connect自訂�
 title: 如何在 Salesforce 沙箱中安裝自訂功能
 exl-id: a3996a86-2a95-456c-96c2-b91b08fb9bc8
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/lNjuNMNvreP-tfE8rFh8vjPcG8A-ISDmA-0v6X3t9lQ
+TQID: 'https://experienceleague.adobe.com/lNjuNMNvreP-tfE8rFh8vjPcG8A-ISDmA-0v6X3t9lQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 76
+source-wordcount: '76'
 ht-degree: 26%
-
 ---
-
 # 如何在 Salesforce 沙箱中安裝自訂功能 {#how-to-install-customizations-in-your-salesforce-sandbox}
 
 >[!NOTE]

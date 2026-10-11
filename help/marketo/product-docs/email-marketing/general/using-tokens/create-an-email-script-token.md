@@ -4,18 +4,20 @@ description: 瞭解如何建立電子郵件指令碼Token。 定義在電子郵�
 title: 建立電子郵件指令碼權杖
 exl-id: c7f8c3e0-6d64-4115-b9b6-261576360ba1
 feature: Tokens
-TQID: https://experienceleague.adobe.com/3FbkNKaOjEX--zXCOC1EHLEVr5ChimEOJTROMY0bHmc
+TQID: 'https://experienceleague.adobe.com/3FbkNKaOjEX--zXCOC1EHLEVr5ChimEOJTROMY0bHmc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Resources
+  - id: a6d52c76-712f-5f64-a879-9c65c1499322
+    internal-label: Tokens
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 243
+source-wordcount: '243'
 ht-degree: 4%
-
 ---
-
 # 建立電子郵件指令碼權杖 {#create-an-email-script-token}
 
 對於進階開發人員，您可以在電子郵件中使用[Velocity指令碼](https://velocity.apache.org/engine/1.7/user-guide.html)。 以下是其操作方式。
@@ -54,7 +56,7 @@ ht-degree: 4%
 
 1. 在Velocity中撰寫指令碼。 以下是一些實用的資源：
 
-   * [Marketo開發人員電子郵件指令碼檔案](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/email-scripting)
+   * [Marketo開發人員電子郵件指令碼檔案](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)
    * [Velocity使用手冊](https://velocity.apache.org/engine/devel/user-guide.html)
    * [Velocity參考指南](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [Velocity Tools Javadoc](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)

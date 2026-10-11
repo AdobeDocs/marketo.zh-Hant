@@ -4,16 +4,18 @@ description: 瞭解Sales Connect中促銷活動電子郵件步驟的傳送選項
 title: 了解傳送選項
 exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/XmaPgOoq2mNfYveMwrVxL3SnTkTU-gbl5jIORKfOuZE
+TQID: 'https://experienceleague.adobe.com/XmaPgOoq2mNfYveMwrVxL3SnTkTU-gbl5jIORKfOuZE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 617
+source-wordcount: '617'
 ht-degree: 0%
-
 ---
-
 # 了解傳送選項 {#understanding-send-options}
 
 建立行銷活動時，您有幾個選項可讓您決定如何在[!DNL Sales Connect]中建立電子郵件步驟。 此外，根據電子郵件在Campaign中的所在位置，您的選項也會有所不同。
@@ -36,8 +38,8 @@ ht-degree: 0%
 * 此選項將建立您方便傳送的[!UICONTROL Email Task] （並同步至[!DNL Salesforce]）。
 * 當您完成此選取專案後，當您啟動行銷活動時，我們會在指揮中心和即時摘要中為您佇列這些任務。 接著，您就可以個人化，並在電子郵件傳送前傳送（或排程）每封電子郵件。
 
-   * 如果您在Web應用程式中開啟此工作，則會開啟撰寫視窗，其中包含連絡人的電子郵件地址、電子郵件的主旨行以及您選擇的範本。
-   * 如果您在[!DNL Gmail]或[!DNL Outlook]中開啟此工作，將會開啟原生撰寫視窗，並動態填入連絡人的電子郵件地址、電子郵件的主旨行以及您選擇的範本。
+  * 如果您在Web應用程式中開啟此工作，則會開啟撰寫視窗，其中包含連絡人的電子郵件地址、電子郵件的主旨行以及您選擇的範本。
+  * 如果您在[!DNL Gmail]或[!DNL Outlook]中開啟此工作，將會開啟原生撰寫視窗，並動態填入連絡人的電子郵件地址、電子郵件的主旨行以及您選擇的範本。
 
 對於Campaign中的任何後續日/步驟，您將有下列選項：
 
@@ -60,8 +62,8 @@ ht-degree: 0%
 * 此選項將建立您方便傳送的[!UICONTROL Email Task] （並同步至[!DNL Salesforce]）。
 * 完成此選取後，當您啟動行銷活動時， Tout會在指揮中心和即時摘要中為您佇列這些任務。 接著，您就可以個人化，並在電子郵件傳送前傳送（或排程）每封電子郵件。
 
-   * 如果您在Web應用程式中開啟此工作，則會開啟撰寫視窗，其中包含連絡人的電子郵件地址、電子郵件的主旨行以及您選擇的範本。
-   * 如果您在[!DNL Gmail]或[!DNL Outlook]中開啟此工作，將會開啟原生撰寫視窗，並動態填入連絡人的電子郵件地址、電子郵件的主旨行以及您選擇的範本。
+  * 如果您在Web應用程式中開啟此工作，則會開啟撰寫視窗，其中包含連絡人的電子郵件地址、電子郵件的主旨行以及您選擇的範本。
+  * 如果您在[!DNL Gmail]或[!DNL Outlook]中開啟此工作，將會開啟原生撰寫視窗，並動態填入連絡人的電子郵件地址、電子郵件的主旨行以及您選擇的範本。
 
 **將此電子郵件繫結至前一個電子郵件**
 

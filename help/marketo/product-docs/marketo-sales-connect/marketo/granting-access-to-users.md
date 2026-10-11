@@ -3,16 +3,18 @@ description: 瞭解如何從Marketo授予Sales Connect存取權給使用者。 �
 title: 授予使用者存取權
 exl-id: d9577401-7aa2-4ce1-bc4d-c0514d01d953
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/gV1fv8YXDoAZujgAfYTW54J69clrjN-p2CAKWOxsPNA
+TQID: 'https://experienceleague.adobe.com/gV1fv8YXDoAZujgAfYTW54J69clrjN-p2CAKWOxsPNA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 201
+source-wordcount: '201'
 ht-degree: 3%
-
 ---
-
 # 授予使用者存取權 {#granting-access-to-users}
 
 請依照本文的步驟操作，授與您的[!DNL Sales Connect]使用者存取Marketo連線的許可權。 這將可解鎖「即時摘要」中「有趣時刻」等功能以及行銷活動的存取權。

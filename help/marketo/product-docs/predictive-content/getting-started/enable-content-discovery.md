@@ -4,16 +4,18 @@ description: 瞭解如何啟用內容探索，以便預測性內容自動探索�
 title: 啟用內容探索
 exl-id: cb103a90-e4f8-4145-a477-e522d945df03
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/9MTP4S-1LzNBwVBp1SvsfxtGCmj-eat8j-6niXHYK3w
+TQID: 'https://experienceleague.adobe.com/9MTP4S-1LzNBwVBp1SvsfxtGCmj-eat8j-6niXHYK3w'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 168
+source-wordcount: '168'
 ht-degree: 4%
-
 ---
-
 # 啟用內容探索 {#enable-content-discovery}
 
 內容探索功能會自動探索並標籤您現有的內容（包括個案研究、部落格、影片、新聞稿等） 並追蹤對這些資料的檢視次數。  「預測性內容」會使用探索到的內容、運用預測性分析來判斷哪些是您表現最好的內容，並向適當的人員建議最佳內容。

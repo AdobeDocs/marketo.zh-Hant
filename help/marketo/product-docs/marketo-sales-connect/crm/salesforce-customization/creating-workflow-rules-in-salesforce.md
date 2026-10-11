@@ -4,23 +4,25 @@ description: 瞭解如何在Salesforce中為Sales Connect活動建立工作流�
 title: 在 Salesforce 中建立工作流程規則
 exl-id: 0cfce178-453b-4949-96aa-c327278a267d
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/NmHKAzpBUKL4-vpcpxNpXv9TPamdy5iFCxdYTfCC1S0
+TQID: 'https://experienceleague.adobe.com/NmHKAzpBUKL4-vpcpxNpXv9TPamdy5iFCxdYTfCC1S0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 407
+source-wordcount: '407'
 ht-degree: 3%
-
 ---
-
 # 在 Salesforce 中建立工作流程規則 {#creating-workflow-rules-in-salesforce}
 
 並行使用Marketo Sales Insight (MSI)和Marketo Sales Connect (MSC)時，[!DNL Salesforce]中的MSI首選功能將不會更新。 所有其他MSI功能都照常運作（在iFrame中檢視有趣的時刻、傳送電子郵件、新增促銷活動等）。 本文提供讓最佳賭注再次運作的因應措施。
 
 >[!NOTE]
 >
->這只會影響同時使用&#x200B;**1&rbrace; MSI和MSE以及想要在MSI中使用Best Bets功能的客戶。**&#x200B;如果您不需要/使用「首選」，可以忽略。
+>這只會影響同時使用&#x200B;**1} MSI和MSE以及想要在MSI中使用Best Bets功能的客戶。**&#x200B;如果您不需要/使用「首選」，可以忽略。
 
 ## 快速入門 {#getting-started}
 

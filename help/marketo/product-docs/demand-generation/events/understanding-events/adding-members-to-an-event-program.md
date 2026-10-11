@@ -4,16 +4,18 @@ description: 瞭解如何在Marketo中將成員新增至活動方案。 新增�
 title: 新增成員至事件方案
 exl-id: 05bd4807-3ab8-452d-a389-b22477cf7445
 feature: Events
-TQID: https://experienceleague.adobe.com/dazVH2bQ--OqwAYWwyT4mBM-hVd4CamYMBMGnPvqO2c
+TQID: 'https://experienceleague.adobe.com/dazVH2bQ--OqwAYWwyT4mBM-hVd4CamYMBMGnPvqO2c'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 176
+source-wordcount: '176'
 ht-degree: 8%
-
 ---
-
 # 新增成員至事件方案 {#adding-members-to-an-event-program}
 
 本文僅適用於使用事件上限或事件目標的使用者。

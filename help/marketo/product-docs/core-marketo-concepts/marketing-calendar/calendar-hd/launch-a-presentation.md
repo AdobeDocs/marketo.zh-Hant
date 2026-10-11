@@ -4,16 +4,21 @@ description: 瞭解如何在設定檢視和輪換後啟動行銷行事曆簡報�
 title: 啟動簡報
 exl-id: 2726e185-c28a-44bb-b7a6-46698efcd1b4
 feature: Marketing Calendar
-TQID: https://experienceleague.adobe.com/NlP4JyoKtroa4OS7wLQkjpMsY1P4U1QOx6eozYTuB1Q
+TQID: 'https://experienceleague.adobe.com/NlP4JyoKtroa4OS7wLQkjpMsY1P4U1QOx6eozYTuB1Q'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+subfeature_v2:
+  - id: a572083b-9238-40c5-8a10-cf294c415aab
+    internal-label: marketing calendar
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 113
+source-wordcount: '113'
 ht-degree: 6%
-
 ---
-
 # 啟動簡報 {#launch-a-presentation}
 
 設定好檢視和旋轉頻率後，即可啟動簡報。

@@ -1,19 +1,21 @@
 ---
 unique-page-id: 27656223
 description: 瞭解如何安裝Professional Edition的Sales Connect Salesforce自訂功能。 設定使用Salesforce PE時的自訂專案。
-title: 安裝Professional Edition客戶的 [!DNL Salesforce] 自訂
+title: 安裝Professional Edition客戶的[!DNL Salesforce]自訂
 exl-id: dc004a28-b580-4449-9fde-e744681ac53a
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/-u-VxODTzqp8V86ulyItc3J90xNZRV9grChJyR6rcSg
+TQID: 'https://experienceleague.adobe.com/-u-VxODTzqp8V86ulyItc3J90xNZRV9grChJyR6rcSg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 252
+source-wordcount: '253'
 ht-degree: 0%
-
 ---
-
 # 安裝Professional Edition客戶的[!DNL Salesforce]自訂 {#install-salesforce-customization-for-professional-edition-customers}
 
 擁有[!DNL Salesforce] Professional Edition的客戶必須依照下列步驟安裝自訂。

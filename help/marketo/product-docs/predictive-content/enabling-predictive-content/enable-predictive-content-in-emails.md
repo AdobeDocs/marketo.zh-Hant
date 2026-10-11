@@ -4,16 +4,18 @@ description: 瞭解如何在標題核准和編輯後，使用ContentAI預測電�
 title: 在電子郵件中啟用預測內容
 exl-id: 7eaefee1-23e8-47ee-afff-adcf49096aa7
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/8SS9vHyFpf7kDWcDSf90qhX2g9dqMyTwTzYZhHf9bwY
+TQID: 'https://experienceleague.adobe.com/8SS9vHyFpf7kDWcDSf90qhX2g9dqMyTwTzYZhHf9bwY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 400
+source-wordcount: '400'
 ht-degree: 3%
-
 ---
-
 # 在電子郵件中啟用預測內容 {#enable-predictive-content-in-emails}
 
 為您的電子郵件中的一個或多個影像提供預測性，為每個收件者量身打造體驗。
@@ -70,7 +72,7 @@ ht-degree: 3%
 
    >[!NOTE]
    >
-   >在收件者開啟電子郵件&#x200B;_&#x200B;**之前，不會選取影像**&#x200B;_。 所以您在預覽中看到的只是一個範例，不一定是收件者看到的影像。
+   >在收件者開啟電子郵件&#x200B;_**之前，不會選取影像**_。 所以您在預覽中看到的只是一個範例，不一定是收件者看到的影像。
 
 1. 預覽完電子郵件後，請按一下&#x200B;**[!UICONTROL Preview Actions]**&#x200B;下拉式清單，然後選取&#x200B;**[!UICONTROL Approve and Close]**。 或者，如果您仍然需要編輯，請按一下右側的&#x200B;**[!UICONTROL Edit Draft]**。
 

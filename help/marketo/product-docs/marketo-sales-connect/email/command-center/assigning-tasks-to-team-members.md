@@ -4,16 +4,18 @@ description: 瞭解如何在Sales Connect中將任務指派給團隊成員。 �
 title: 指派工作予團隊成員
 exl-id: 9f7126eb-076e-47b8-ade0-979e46675d5c
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/9PbXW9Fq81PW-UtAB21b09OUhf-kW3dBF1cOe9TrG0I
+TQID: 'https://experienceleague.adobe.com/9PbXW9Fq81PW-UtAB21b09OUhf-kW3dBF1cOe9TrG0I'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 121
+source-wordcount: '121'
 ht-degree: 10%
-
 ---
-
 # 指派工作予團隊成員 {#assigning-tasks-to-team-members}
 
 如果您想要與其他團隊成員合作，指派任務可能是協調您的潛在客戶工作的好方法。

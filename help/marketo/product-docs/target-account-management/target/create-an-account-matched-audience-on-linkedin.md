@@ -1,22 +1,28 @@
 ---
 unique-page-id: 26837421
 description: 瞭解如何從您的TAM帳戶清單建立LinkedIn帳戶相符的對象。 跨LinkedIn頻道啟用對象以進行廣告目標定位。
-title: 在 [!DNL LinkedIn]上建立符合對象的帳戶
+title: 在[!DNL LinkedIn]上建立符合對象的帳戶
 exl-id: 55f2106d-6078-4a47-ab00-6b6dc950a206
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/CuHgQC78cd6GTUfnGfpufvkY4cM2zMZPKaqft35LKsk
+TQID: 'https://experienceleague.adobe.com/CuHgQC78cd6GTUfnGfpufvkY4cM2zMZPKaqft35LKsk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 184
+source-wordcount: '184'
 ht-degree: 3%
-
 ---
-
 # 在[!DNL LinkedIn]上建立符合對象的帳戶 {#create-an-account-matched-audience-on-linkedin}
 
 從您的TAM帳戶清單為[[!DNL LinkedIn] 廣告鎖定目標](https://business.linkedin.com/marketing-solutions/ad-targeting/account-targeting)建立帳戶相符的對象。 [!DNL LinkedIn]會將清單與其系統中的帳戶進行比對，您可以根據該帳戶清單建立[!DNL LinkedIn]對象，以在[!DNL LinkedIn]個管道中啟用。 這可讓行銷人員鎖定資料庫內或資料庫外的使用者。

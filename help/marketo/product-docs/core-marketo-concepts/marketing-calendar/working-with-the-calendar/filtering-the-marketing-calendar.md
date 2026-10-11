@@ -4,19 +4,25 @@ description: 瞭解如何依專案型別、方案標籤或工作區來篩選行�
 title: 篩選行銷行事曆
 exl-id: 94cbe35b-2b87-4c8f-86c6-11a0d12b2a12
 feature: Marketing Calendar
-TQID: https://experienceleague.adobe.com/kMQU58oZslkR2iLG6vy9yLcaN%2D%2D%2D%2D3rjAIZ5ln3QtMg
+TQID: 'https://experienceleague.adobe.com/kMQU58oZslkR2iLG6vy9yLcaN%2D%2D%2D%2D3rjAIZ5ln3QtMg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: 0e20d3cd1d58a098d8419c4b10572fe85e672aa2
+    internal-label: Programs
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+subfeature_v2:
+  - id: a572083b-9238-40c5-8a10-cf294c415aab
+    internal-label: marketing calendar
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 109
+source-wordcount: '109'
 ht-degree: 7%
-
 ---
-
 # 篩選行銷行事曆 {#filtering-the-marketing-calendar}
 
 使用專案型別、程式標籤或工作區來篩選行事曆上顯示的資訊。

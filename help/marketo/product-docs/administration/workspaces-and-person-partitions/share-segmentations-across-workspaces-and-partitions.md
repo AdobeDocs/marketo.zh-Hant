@@ -4,28 +4,40 @@ description: 跨工作區和分割區共用分割區的規則和步驟，包括�
 title: 跨工作區和分割共用細分
 exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
 feature: Partitions, Workspaces
-TQID: https://experienceleague.adobe.com/fzHumE5x1Y5tSVjUUlHabe-cZgPC5jmqwtl4aLYhjDA
+TQID: 'https://experienceleague.adobe.com/fzHumE5x1Y5tSVjUUlHabe-cZgPC5jmqwtl4aLYhjDA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: b4e49ca2-9149-5443-90e6-11978bb87c2f
+    internal-label: Partitions
+  - id: fffc2f21-ba05-5d98-924c-16da987a5b69
+    internal-label: Workspaces
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
   - id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
+    internal-label: Dynamic content
   - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+    internal-label: Snippets
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 463
+source-wordcount: '463'
 ht-degree: 4%
-
 ---
-
 # 跨工作區和分割共用細分 {#share-segmentations-across-workspaces-and-partitions}
 
 >[!PREREQUISITES]
@@ -50,14 +62,14 @@ Marketo可識別適合方案或智慧型行銷活動的人員。 不過，對於
 
 * 區段處理只會在建立區段的工作區中的人員上執行。
 
-   * 建立您要在預設Workspace內共用的區段。
-      * 核准分段
-      * 共用工作區會看到鎖定的資料夾，且區段為唯讀。
-      * 無法編輯共用版本。 您只能編輯建立分段的原始分段。
+  * 建立您要在預設Workspace內共用的區段。
+    * 核准分段
+    * 共用工作區會看到鎖定的資料夾，且區段為唯讀。
+    * 無法編輯共用版本。 您只能編輯建立分段的原始分段。
 
-   * 當您按一下共用區段內的區段（例如Healthcare）時，您看到的人將只會是資料分割中與您檢視的工作區相關聯的人。
-      * 如果您在Workspace 1 (WS1)中建立分割並與WS2共用，而WS1沒有WS2之分割的存取權，則不會重新計算分割。
-      * 如果您在分割區有限的工作區中建立分段，然後與其他工作區共用，則收到共用分段的工作區將只會看到重疊的人員。
+  * 當您按一下共用區段內的區段（例如Healthcare）時，您看到的人將只會是資料分割中與您檢視的工作區相關聯的人。
+    * 如果您在Workspace 1 (WS1)中建立分割並與WS2共用，而WS1沒有WS2之分割的存取權，則不會重新計算分割。
+    * 如果您在分割區有限的工作區中建立分段，然後與其他工作區共用，則收到共用分段的工作區將只會看到重疊的人員。
 
 >[!NOTE]
 >

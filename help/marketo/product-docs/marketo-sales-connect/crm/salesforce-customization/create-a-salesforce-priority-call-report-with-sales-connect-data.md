@@ -4,16 +4,18 @@ description: 瞭解如何使用Sales Connect資料建立Salesforce優先通話�
 title: 使用 Sales Connect 資料建立 Salesforce 優先順序呼叫報告
 exl-id: eede4c34-d570-4dbc-beaf-6960cf80af89
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/qaJJwwTnXS5Jtqal0SPYVOJhjPPZlXngl4NzWcijbJ4
+TQID: 'https://experienceleague.adobe.com/qaJJwwTnXS5Jtqal0SPYVOJhjPPZlXngl4NzWcijbJ4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 164
+source-wordcount: '164'
 ht-degree: 12%
-
 ---
-
 # 使用 Sales Connect 資料建立 Salesforce 優先順序呼叫報告 {#create-a-salesforce-priority-call-report-with-sales-connect-data}
 
 瞭解如何使用[!DNL Sales Connect]電子郵件參與資料建立[!DNL Salesforce]報告/通話清單，以聚焦於具有動力的人員或機會。

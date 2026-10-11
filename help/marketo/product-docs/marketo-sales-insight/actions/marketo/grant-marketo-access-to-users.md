@@ -3,18 +3,20 @@ description: 瞭解如何在Sales Insight Actions中授予Marketo存取權給使
 title: 授予使用者 Marketo 存取權
 exl-id: 0efb3e85-cc75-4810-bc67-05127f44e012
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/H5SelzlqZyQE6oq5Okvpq-v-B5km2cBBu2cUH7GhC2A
+TQID: 'https://experienceleague.adobe.com/H5SelzlqZyQE6oq5Okvpq-v-B5km2cBBu2cUH7GhC2A'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Integrations
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 215
+source-wordcount: '215'
 ht-degree: 6%
-
 ---
-
 # 授予使用者 Marketo 存取權 {#grant-marketo-access-to-users}
 
 請依照本文的步驟操作，授與您的[!DNL Sales Insight Actions]使用者存取Marketo連線的許可權。 這將可解鎖「即時摘要」中「有趣時刻」等功能以及行銷活動的存取權。

@@ -4,16 +4,18 @@ description: 瞭解Sales Connect和Marketo中有趣的時刻。 瞭解銷售活�
 title: Sales Connect 中的關鍵時刻
 exl-id: 210f31d1-606a-479d-8a2b-351b2b1a7678
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/KgwnG6Rpi3BJy-Vboy7MuPkjhz-O-BOzmncdgpbrNVU
+TQID: 'https://experienceleague.adobe.com/KgwnG6Rpi3BJy-Vboy7MuPkjhz-O-BOzmncdgpbrNVU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 280
+source-wordcount: '280'
 ht-degree: 1%
-
 ---
-
 # [!DNL Sales Connect]中的有趣時刻 {#interesting-moments-in-sales-connect}
 
 有趣的時刻是透過[!DNL Marketo Sales Connect]與您的銷售團隊溝通的關鍵。
@@ -24,7 +26,7 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->* 您必須有Salesforce CRM[&#128279;](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md){target="_blank"}的連線
+>* 您必須有Salesforce CRM](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md){target="_blank"}的[連線
 >* 您必須是Salesforce中的銷售機會或聯絡人擁有者
 >* 您必須擁有[授與Marketo Engage連線存取權](/help/marketo/product-docs/marketo-sales-connect/marketo/granting-access-to-users.md){target="_blank"}的存取權
 

@@ -5,18 +5,21 @@ title: SEO - 使用競爭者關鍵字趨勢報告
 exl-id: c36e84d0-ca8d-4618-a1ad-9b903f317792
 hide: true
 feature: SEO
-TQID: https://experienceleague.adobe.com/VOBeArgGNBHrgFwn-1sT3-paIGwxDYF9yEIHD7JDHwE
+TQID: 'https://experienceleague.adobe.com/VOBeArgGNBHrgFwn-1sT3-paIGwxDYF9yEIHD7JDHwE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e7f165cf-33cc-5c68-9025-558e655fec14
+    internal-label: SEO
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Optimization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 285
+source-wordcount: '285'
 ht-degree: 7%
-
 ---
-
 # SEO - 使用競爭者關鍵字趨勢報告 {#seo-use-the-competitor-kw-trends-report}
 
 在此報表中，瞭解您和您的競爭者在一段時間內如何依關鍵字排名。
@@ -25,10 +28,10 @@ ht-degree: 7%
 >
 >在2026年3月31日，Marketo Engage [已棄用搜尋引擎最佳化](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}功能。 [seo.marketo.com](https://seo.marketo.com/)仍在限定時間內可用。 請依照下列文章中的步驟匯出任何資料。
 >
->* [匯出問題](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
->* [匯出關鍵字結果](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
->* [匯出關鍵字趨勢](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
->* [匯出競爭者關鍵字趨勢](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
+>* [匯出問題](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [匯出關鍵字結果](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [匯出關鍵字趨勢](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [匯出競爭者關鍵字趨勢](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 ## 尋找報表 {#find-reports}
 

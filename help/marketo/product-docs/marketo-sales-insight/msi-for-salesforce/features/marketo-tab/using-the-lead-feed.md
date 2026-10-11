@@ -1,24 +1,27 @@
 ---
 unique-page-id: 7512979
 description: 瞭解如何使用Salesforce中Marketo標籤的銷售機會摘要。 請參閱資訊源中的即時潛在客戶活動和參與。
-title: 使用商機動態消息
+title: 使用銷售線索摘要
 exl-id: cdb10fe4-3006-4bae-b485-f7bfa95f1226
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/J0UVkCJE1b00Z0rj5Uuh-72NcReV0voMyH7-5-T-tcI
+TQID: 'https://experienceleague.adobe.com/J0UVkCJE1b00Z0rj5Uuh-72NcReV0voMyH7-5-T-tcI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 351
+source-wordcount: '351'
 ht-degree: 3%
-
 ---
-
-# 使用商機動態消息 {#using-the-lead-feed}
+# 使用銷售線索摘要 {#using-the-lead-feed}
 
 潛在客戶摘要是潛在客戶所進行有趣事件的最新清單。 按一下Marketo標籤後，您會在右側找到它。 這類似於RSS或[!DNL Twitter]摘要 — 最近的更新在清單頂端。 當你還沒想清楚潛在客戶時，就利用這個功能跳躍他們。
 

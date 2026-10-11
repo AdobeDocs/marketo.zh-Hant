@@ -4,18 +4,23 @@ description: 瞭解如何透過匯入清單來定義電子郵件方案對象。 
 title: 透過匯入清單定義客群
 exl-id: 9a63f4a5-1d76-4671-9622-19eb368d196f
 feature: Email Programs
-TQID: https://experienceleague.adobe.com/Q5z9emcEDyLDUB2ZDF9LIMZTX1jvEQ8W5-bKFgMMFuc
+TQID: 'https://experienceleague.adobe.com/Q5z9emcEDyLDUB2ZDF9LIMZTX1jvEQ8W5-bKFgMMFuc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 376
+source-wordcount: '376'
 ht-degree: 15%
-
 ---
-
 # 透過匯入清單定義客群 {#define-an-audience-by-importing-a-list}
 
 >[!PREREQUISITES]

@@ -4,18 +4,24 @@ description: 瞭解帳戶清單儀表板和來自指定帳戶的彙總見解。 
 title: 帳戶清單洞察
 exl-id: 27a4020b-b1e0-4f19-b676-2e6dc5fe9611
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/izizFMysvg2jawj-424w0n6AIsNT5dwJG3cw0iwo6cg
+TQID: 'https://experienceleague.adobe.com/izizFMysvg2jawj-424w0n6AIsNT5dwJG3cw0iwo6cg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 174
+source-wordcount: '174'
 ht-degree: 4%
-
 ---
-
 # 帳戶清單洞察 {#account-list-insights}
 
 帳戶清單儀表板提供該清單中所有已命名帳戶的彙總見解檢視。

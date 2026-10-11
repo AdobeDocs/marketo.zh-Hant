@@ -1,34 +1,56 @@
 ---
-title: "2017"
+title: '2017'
 description: 2017 - Marketo檔案 — 產品檔案
 feature: Release Information
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
+    internal-label: Dynamic content
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: df401a2a-327d-468c-a5e4-b7b7ccd071a0
+    internal-label: Data integration
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: ca5ce3f901525a7ad1d08a7c4a4d8d5f61786cf4
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 2377
+source-wordcount: '2377'
 ht-degree: 0%
-
 ---
-
 # 2017
 
 ## 2017年冬季 {#winter}
@@ -193,7 +215,7 @@ ABM具名帳戶上的&#x200B;**[百分位數評分](https://docs.marketo.com/dis
 
 在訪客關閉您的頁面之前吸引訪客的注意。 設定您的個人化[!UICONTROL Web Campaigns]，使其僅在滑鼠手勢指出訪客正在離開頁面時顯示。
 
-[!UICONTROL Web Campaigns][&#128279;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**的**&#x200B;動畫效果
+[!UICONTROL Web Campaigns]](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**的**[&#x200B;動畫效果
 
 設定對話方塊網路促銷活動的動畫效果，以自訂進入或退出網頁時促銷活動的顯示方式。 您可以從6種不同的效果中選取，並控制對話方塊的時機和方向。
 
@@ -370,11 +392,11 @@ Token現在可用於網頁行銷活動。 運用代號來提供個人化訊息�
 
 ## 整合  {#integration}
 
-**[電子郵件預覽API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/email-scripting)**
+**[電子郵件預覽API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 您現在可以在Marketo外部遠端預覽電子郵件，簡化電子郵件內容本地化的程式，並減少錯誤。
 
-**[取代HTML API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/email-scripting)**
+**[取代HTML API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 開發人員可從遠端更新電子郵件資產的HTML內容，讓他們能在單一系統中工作，以維護資產。
 

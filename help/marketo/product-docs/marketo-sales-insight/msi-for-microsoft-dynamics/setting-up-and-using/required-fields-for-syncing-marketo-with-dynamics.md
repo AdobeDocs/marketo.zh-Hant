@@ -4,18 +4,21 @@ description: 瞭解將Marketo與Dynamics同步所需的欄位。 請確定正確
 title: 將 Marketo 與 Dynamics 同步的必要欄位
 exl-id: c1b9d208-bdc0-4718-b3e5-e9e915b8ae0f
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/2MpYFkohrwAJ20pKL9zISg2b0jTqougMaRLYJFYHbQs
+TQID: 'https://experienceleague.adobe.com/2MpYFkohrwAJ20pKL9zISg2b0jTqougMaRLYJFYHbQs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 159
+source-wordcount: '159'
 ht-degree: 6%
-
 ---
-
 # 與[!DNL Dynamics]同步Marketo的必要欄位 {#required-fields-for-syncing-marketo-with-dynamics}
 
 這些欄位&#x200B;*必須*&#x200B;與Marketo同步，以便[!UICONTROL Lead]和[!UICONTROL Contact]都能夠運作[!DNL Sales Insight]：

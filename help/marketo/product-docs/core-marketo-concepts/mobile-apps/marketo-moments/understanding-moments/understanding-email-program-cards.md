@@ -4,18 +4,20 @@ description: 瞭解Marketo時刻中的電子郵件程式卡片。 檢視電子�
 title: 了解電子郵件方案卡片
 exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/XPs-4g0b45bHz-q6txLvTV1vajoxfl-nS-K3Qg8e2qA
+TQID: 'https://experienceleague.adobe.com/XPs-4g0b45bHz-q6txLvTV1vajoxfl-nS-K3Qg8e2qA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 372
+source-wordcount: '372'
 ht-degree: 4%
-
 ---
-
 # 了解電子郵件方案卡片 {#understanding-email-program-cards}
 
 使用Marketo時刻，從您的手機或iPad檢視您的電子郵件程式。

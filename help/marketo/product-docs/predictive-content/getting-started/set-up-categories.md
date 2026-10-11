@@ -4,16 +4,18 @@ description: 在「預測性內容」中設定類別，將您的預測性結果�
 title: 設定類別
 exl-id: 4756e821-d90d-4148-b9c4-4912a48d26b4
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/cb3IokK14sZ9aRjm6FcQFPrSk3X9y3l-M0v4130EcQo
+TQID: 'https://experienceleague.adobe.com/cb3IokK14sZ9aRjm6FcQFPrSk3X9y3l-M0v4130EcQo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 161
+source-wordcount: '161'
 ht-degree: 5%
-
 ---
-
 # 設定類別 {#set-up-categories}
 
 在預測性內容中建立類別，將您的預測性結果群組在網頁或電子郵件上。 例如，您只能使用部落格，或使用特定語言的內容。 也可讓您搜尋及篩選頁面檢視。  類別會顯示在[!UICONTROL All Content]和[!UICONTROL Predictive Content]頁面上，以方便參考。

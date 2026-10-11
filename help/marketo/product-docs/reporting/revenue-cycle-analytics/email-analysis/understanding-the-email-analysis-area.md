@@ -4,13 +4,19 @@ description: 瞭解如何瞭解Marketo Engage中的電子郵件分析區域，�
 title: 了解電子郵件分析區域
 exl-id: a8219a4d-d240-432d-a7ef-bcfa0b4a82fa
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '383'
 ht-degree: 2%
-
 ---
-
 # 了解電子郵件分析區域 {#understanding-the-email-analysis-area}
 
 電子郵件分析區域的重點是電子郵件量度。 本文簡介其中可用的所有報表。

@@ -4,16 +4,21 @@ description: 瞭解如何在內部部署安裝適用於Dynamics 2015的Marketo�
 title: 安裝適用於Microsoft Dynamics 2015內部部署的Marketo步驟3之1
 exl-id: c9b6d365-15c1-4eff-938c-8433b1fe7f24
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/i6ILYEtzZ2vJnyELO-Zb8T-hRh0b2yVzbHaOzIEkF-k
+TQID: 'https://experienceleague.adobe.com/i6ILYEtzZ2vJnyELO-Zb8T-hRh0b2yVzbHaOzIEkF-k'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 287
+source-wordcount: '287'
 ht-degree: 1%
-
 ---
-
 # 步驟3之1：設定Marketo的同步使用者（2015年內部部署） {#step-of-configure-sync-user-for-marketo-on-premises-2015}
 
 您必須先在[!DNL Dynamics]中安裝Marketo解決方案，才能與Marketo同步[!DNL Microsoft Dynamics] 2015內部部署。

@@ -3,8 +3,14 @@ description: 說明中心 - Marketo Engage 文件 - 產品文件
 title: 說明中心
 feature: Getting Started
 hide: true
-hidefromtoc: yes
-source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
+hidefromtoc: 'yes'
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 85%

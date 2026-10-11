@@ -1,25 +1,30 @@
 ---
 unique-page-id: 17728023
 description: 瞭解如何在Marketo中使用縮放功能建立事件。 設定Zoom整合，並將會議或網路研討會與您的活動程式同步。
-title: 建立具有 [!DNL Zoom]的事件
+title: 建立具有[!DNL Zoom]的事件
 exl-id: 6a2aec58-902c-4e40-ab59-9cc33ec83cea
 feature: Events
-TQID: https://experienceleague.adobe.com/U5xsTJ-TgiTymlWAOWIuACLSeGE9iuPVjym-z3-VlvA
+TQID: 'https://experienceleague.adobe.com/U5xsTJ-TgiTymlWAOWIuACLSeGE9iuPVjym-z3-VlvA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 555
+source-wordcount: '555'
 ht-degree: 0%
-
 ---
-
 # 建立具有[!DNL Zoom]的事件 {#create-an-event-with-zoom}
 
 >[!PREREQUISITES]
@@ -112,4 +117,4 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >資料可能需要48小時才會出現在Marketo中。 如果等了這麼久，您還是看不到任何內容，請從您事件的&#x200B;**摘要**&#x200B;索引標籤中的[事件動作]功能表，選取[網路研討會提供者]中的[重新整理]&#x200B;**&#x200B;**，然後按一下畫面右下方的重新整理圖示。
+   >資料可能需要48小時才會出現在Marketo中。 如果等了這麼久，您還是看不到任何內容，請從您事件的&#x200B;**摘要**&#x200B;索引標籤中的[事件動作]功能表，選取[網路研討會提供者]中的[重新整理]****，然後按一下畫面右下方的重新整理圖示。

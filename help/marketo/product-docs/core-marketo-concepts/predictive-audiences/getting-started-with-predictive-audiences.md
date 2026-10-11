@@ -3,23 +3,28 @@ description: 瞭解Marketo中的預測受眾和AI驅動的目標定位。 使用
 title: 預測客群快速入門
 exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
 feature: Predictive Audiences
-TQID: https://experienceleague.adobe.com/Vr4R6W1EAk2p2gsKuwpncTLMOicOkUemtEkFOTujeZg
+TQID: 'https://experienceleague.adobe.com/Vr4R6W1EAk2p2gsKuwpncTLMOicOkUemtEkFOTujeZg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: 60e4be0b-b3ea-5f4e-8b8c-da0f5a08dacd
+    internal-label: Predictive Audiences
 subfeature_v2:
   - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+    internal-label: Event programs
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Machine learning
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 230
+source-wordcount: '230'
 ht-degree: 5%
-
 ---
-
 # 預測客群快速入門 {#getting-started-with-predictive-audiences}
 
 預測對象(PA)利用AI和機器學習，讓您更有效地鎖定對象，並採取主動步驟以達成您的行銷目標。

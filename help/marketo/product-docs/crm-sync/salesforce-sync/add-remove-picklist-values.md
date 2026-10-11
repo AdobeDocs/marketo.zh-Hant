@@ -4,18 +4,23 @@ description: 瞭解如何新增和移除Salesforce挑選清單值，以及這些
 title: 新增/移除選項清單值
 exl-id: f1230c43-10cb-47ff-89d7-9f835b034db0
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/dKioXsrR-JTWPgJdoLx70Dw4M56G1X6kMLL1HEO5ZTM
+TQID: 'https://experienceleague.adobe.com/dKioXsrR-JTWPgJdoLx70Dw4M56G1X6kMLL1HEO5ZTM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Forms
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 244
+source-wordcount: '244'
 ht-degree: 3%
-
 ---
-
 # 新增/移除選項清單值 {#add-remove-picklist-values}
 
 以下是在[!DNL Salesforce]中新增和移除挑選清單值的一些須知事項。

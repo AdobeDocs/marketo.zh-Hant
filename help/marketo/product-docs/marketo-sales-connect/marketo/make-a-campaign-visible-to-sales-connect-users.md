@@ -4,16 +4,18 @@ description: 瞭解如何讓Sales Connect使用者看到Marketo行銷活動。 �
 title: 讓 Sales Connect 使用者可以看到行銷活動
 exl-id: 1fde53e3-2764-4e4b-897f-635b78534133
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/WdSLwrvoXF6L4jID6HThIn2JST-aDvtPtXAoWqJO7ZI
+TQID: 'https://experienceleague.adobe.com/WdSLwrvoXF6L4jID6HThIn2JST-aDvtPtXAoWqJO7ZI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 107
+source-wordcount: '107'
 ht-degree: 14%
-
 ---
-
 # 讓[!DNL Sales Connect]個使用者看到行銷活動 {#make-a-campaign-visible-to-sales-connect-users}
 
 行銷活動只有在顯示後才可共用。 以下說明該怎麼做。

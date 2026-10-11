@@ -1,24 +1,31 @@
 ---
 unique-page-id: 3571807
 description: 瞭解如何在Dynamics 2011內部部署中設定Marketo同步使用者。 在Dynamics中建立使用者並指派Marketo同步使用者角色。
-title: 步驟3之2 — 在 [!DNL Dynamics] 中設定Marketo同步使用者（2011內部部署）
+title: 步驟3之2 — 在[!DNL Dynamics]中設定Marketo Sync使用者（2011內部部署）
 exl-id: 807c8902-24a6-48b6-a5c9-96a72764fdef
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/g-yRCQWbdVo-5rBF--v8tmevwRkrQdiCQ3M0BB42nfE
+TQID: 'https://experienceleague.adobe.com/g-yRCQWbdVo-5rBF--v8tmevwRkrQdiCQ3M0BB42nfE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 377
+source-wordcount: '377'
 ht-degree: 1%
-
 ---
-
 # 步驟2之3：在[!DNL Dynamics]中設定Marketo同步使用者（2011內部部署） {#step-of-set-up-marketo-sync-user-in-dynamics-on-premises}
 
 先前&#39;b5&#39;7b驟已完成。
@@ -61,7 +68,7 @@ ht-degree: 1%
 
    >[!TIP]
    >
-   >如果您沒有看到角色，請返回3[&#128279;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md){target="_blank"}的步驟1並匯入解決方案。
+   >如果您沒有看到角色，請返回3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md){target="_blank"}的[步驟1並匯入解決方案。
 
    >[!NOTE]
    >

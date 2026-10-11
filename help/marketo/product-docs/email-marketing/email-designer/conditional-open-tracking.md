@@ -5,14 +5,28 @@ title: 條件式電子郵件開啟追蹤
 description: 瞭解如何使用自訂布林值欄位設定條件式電子郵件開啟追蹤，以根據每個人的同意狀態路由電子郵件開啟追蹤。
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: df650f93bedc7202ad82f8f725616cd25e4a99ef
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '426'
 ht-degree: 0%
 ---
 # 條件式電子郵件開啟追蹤 {#conditional-open-tracking}
 
-瞭解如何依照[各種准則](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-general-27/understanding-guidance-on-email-tracking-pixels-251632?profile.language=zh-Hant){target="_blank"}，設定Marketo Engage以遵循電子郵件開啟（畫素）追蹤的一般使用者同意。 方法使用自訂布林值欄位來判斷某人收到哪個電子郵件變體，一個啟用開啟追蹤，另一個停用開啟追蹤。
+瞭解如何依照[各種准則](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-general-27/understanding-guidance-on-email-tracking-pixels-251632){target="_blank"}，設定Marketo Engage以遵循電子郵件開啟（畫素）追蹤的一般使用者同意。 方法使用自訂布林值欄位來判斷某人收到哪個電子郵件變體，一個啟用開啟追蹤，另一個停用開啟追蹤。
 
 ## 步驟1：建立自訂布林值欄位 {#custom-field}
 
@@ -26,7 +40,7 @@ ht-degree: 0%
 
 ## 步驟2：填入同意欄位 {#populate}
 
-1. 透過資料匯入（API同步或[CSV上傳](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people){target="_blank"}）設定每個人的電子郵件畫素追蹤欄位值。
+1. 透過資料匯入（API同步或[CSV上傳](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people){target="_blank"}）設定每個人的電子郵件畫素追蹤欄位值。
 
    ![](assets/open-tracking-3.png)
 
@@ -60,7 +74,7 @@ ht-degree: 0%
 
 ## 步驟4：設定Smart Campaign {#smart-campaign}
 
-[建立Smart Campaign](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign){target="_blank"}，以決定每個人收到的電子郵件。
+[建立Smart Campaign](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign){target="_blank"}，以決定每個人收到的電子郵件。
 
 1. 在Smart Campaign的&#x200B;_流量_&#x200B;索引標籤中，插入&#x200B;**傳送電子郵件**&#x200B;流量步驟。
 

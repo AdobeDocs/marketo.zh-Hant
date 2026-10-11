@@ -4,18 +4,20 @@ description: 瞭解Gmail中的Sales Connect工具列。 使用外掛程式工具
 title: Sales Connect 工具列
 exl-id: bff92e49-7dd2-4008-8f92-fee03a552fdf
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/uyMayrrsE08aS-MqWc5bJ10ZUjSy5lMVw18Iq8o2r-Y
+TQID: 'https://experienceleague.adobe.com/uyMayrrsE08aS-MqWc5bJ10ZUjSy5lMVw18Iq8o2r-Y'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 109
+source-wordcount: '109'
 ht-degree: 6%
-
 ---
-
 # [!DNL Sales Connect]工具列 {#the-sales-connect-tool-bar}
 
 當您登入時，五個[!DNL Sales Connect]按鈕將會新增到您的Gmail頁面頂端。

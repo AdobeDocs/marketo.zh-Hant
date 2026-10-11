@@ -3,20 +3,23 @@ description: 瞭解如何在Microsoft Dynamics中設定MSI檢視。 設定要向
 title: 設定 MSI 視圖
 exl-id: 8a45c006-73d4-4af8-ad62-b084056d1f7d
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/PylFEW3pRnOwoIVF8hG2pKcFix5DO7ynWomXOfvy1e0
+TQID: 'https://experienceleague.adobe.com/PylFEW3pRnOwoIVF8hG2pKcFix5DO7ynWomXOfvy1e0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 252
+source-wordcount: '252'
 ht-degree: 4%
-
 ---
-
 # 設定 MSI 視圖 {#setting-up-msi-views}
 
 在Dynamics中安裝[!DNL Sales Insight]外掛程式會自動在網站地圖上新增[!DNL Best Bets]和相關儀表板。 如果由於某種原因沒有新增儀表板，以下說明如何手動新增儀表板。
@@ -38,27 +41,27 @@ ht-degree: 4%
 1. 按一下控制面板以選取它。 在右側的欄中，為每個欄輸入下方的個別資訊。 您可以忽略任何未列出的類別。
 
    **個首選**</br>
-URL： MainviewBestbets.html</br>
-圖示：/WebResources/mkt_/_MainView/_imgs/icons/bestbets.svg</br>
-識別碼： marketo_bestbets</br>
-標題：首選
+   URL： MainviewBestbets.html</br>
+   圖示：/WebResources/mkt_/_MainView/_imgs/icons/bestbets.svg</br>
+   識別碼： marketo_bestbets</br>
+   標題：首選
 
    **我的電子郵件**</br>
-URL： mkt_/MainViewMyEmail.html</br>
-圖示：/WebResources/mkt_/_MainView/_imgs/icons/email.svg</br>
-識別碼： marketo_myemail</br>
-標題：我的電子郵件
+   URL： mkt_/MainViewMyEmail.html</br>
+   圖示：/WebResources/mkt_/_MainView/_imgs/icons/email.svg</br>
+   識別碼： marketo_myemail</br>
+   標題：我的電子郵件
 
    **網頁活動**</br>
-URL： mkt_/MainViewWebActivity.html</br>
-圖示：/WebResources/mkt_/_MainView/_imgs/icons/web_activity.svg</br>
-識別碼： marketo_webactivity</br>
-標題：網頁活動
+   URL： mkt_/MainViewWebActivity.html</br>
+   圖示：/WebResources/mkt_/_MainView/_imgs/icons/web_activity.svg</br>
+   識別碼： marketo_webactivity</br>
+   標題：網頁活動
 
    **匿名網路活動**</br>
-URL： mkt_/MainViewWebActivity.html</br>
-圖示：/WebResources/mkt_/_MainView/_imgs/icons/anonymous_web_activity.svg</br>
-ID： marketo_anonymous_webactivity</br>
-標題：匿名網路活動
+   URL： mkt_/MainViewWebActivity.html</br>
+   圖示：/WebResources/mkt_/_MainView/_imgs/icons/anonymous_web_activity.svg</br>
+   ID： marketo_anonymous_webactivity</br>
+   標題：匿名網路活動
 
 1. 完成後請按一下 **[!UICONTROL Save]**。

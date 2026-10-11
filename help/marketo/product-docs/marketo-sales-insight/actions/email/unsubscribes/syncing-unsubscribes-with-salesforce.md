@@ -3,19 +3,22 @@ description: 瞭解如何同步銷售Insight動作和Salesforce之間的取消�
 title: 與 Salesforce 同步取消訂閱
 exl-id: b5b0f625-e38c-4a03-81e7-010082001636
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/ra-Nezm1zXZTZ5EZoCdCdYm0DRkCb5sZ0M5TKNt6nxM
+TQID: 'https://experienceleague.adobe.com/ra-Nezm1zXZTZ5EZoCdCdYm0DRkCb5sZ0M5TKNt6nxM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 471
+source-wordcount: '472'
 ht-degree: 2%
-
 ---
-
 # 正在與[!DNL Salesforce]同步取消訂閱 {#syncing-unsubscribes-with-salesforce}
 
 如果您想要在Salesforce中將取消訂閱與選擇退出欄位同步，則可以使用Salesforce取消訂閱同步。
@@ -32,7 +35,7 @@ ht-degree: 2%
 
 **取消訂閱同步處理**
 
-當您啟用取消訂閱同步時（下面的步驟3），您將開啟夜間同步。 每天大約在PST下午8:00時進行同步處理。 它會將Marketo Sales中的所有取消訂閱與Salesforce中的選擇退出欄位進行雙向同步。
+當您啟用取消訂閱同步時（下面的步驟3），您將開啟夜間同步。 同步會在太平洋標準時間晚上8:00左右每日執行一次。 它會將Marketo Sales中的所有取消訂閱與Salesforce中的選擇退出欄位進行雙向同步。
 
 >[!NOTE]
 >
@@ -103,6 +106,6 @@ ht-degree: 2%
 
 ## Marketo銷售人員選擇退出 {#marketo-sales-opt-out}
 
-Marketo銷售選擇退出欄位是自訂欄位，適用於已從AppExchange[&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}安裝Marketo銷售Insight套件的使用者。
+Marketo銷售選擇退出欄位是自訂欄位，適用於已從AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}安裝Marketo銷售Insight套件[的使用者。
 
 成功從AppExchange將Marketo Sales Insight套件安裝到Salesforce後，您會看到可用的Marketo Sales Opt Out欄位。

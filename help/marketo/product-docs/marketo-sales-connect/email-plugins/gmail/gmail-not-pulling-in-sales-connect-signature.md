@@ -4,16 +4,18 @@ description: 當Gmail未提取您的Sales Connect簽名時，請取得協助。 
 title: Gmail 並未提取 Sales Connect 簽名
 exl-id: 33edf360-58bf-4d5a-a7a5-4912b717865f
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/dgQ47h5FhmIxUf6l9PuUnN1IsKNuAtdqOovqL0YpsCU
+TQID: 'https://experienceleague.adobe.com/dgQ47h5FhmIxUf6l9PuUnN1IsKNuAtdqOovqL0YpsCU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 69
+source-wordcount: '69'
 ht-degree: 20%
-
 ---
-
 # Gmail 並未提取 Sales Connect 簽名 {#gmail-not-pulling-in-sales-connect-signature}
 
 我們實際上會在Gmail中使用您的Gmail簽章，而非插入您的[[!DNL Sales Connect] 簽章](https://toutapp.com/next#settings)。

@@ -3,20 +3,23 @@ description: 瞭解如何在Marketo中舉辦互動式網路研討會。 執行�
 title: 舉辦互動式網路研討會
 feature: Interactive Webinars
 exl-id: 7d01fa6a-6fb0-4f30-bdc4-e357d037c995
-TQID: https://experienceleague.adobe.com/R0-Vh7H3Yk7tNJe0S9CQdSvn3mAdOYXNj-9RRUSdGdo
+TQID: 'https://experienceleague.adobe.com/R0-Vh7H3Yk7tNJe0S9CQdSvn3mAdOYXNj-9RRUSdGdo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Accessibility
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1198
+source-wordcount: '1198'
 ht-degree: 0%
-
 ---
-
 # 舉辦互動式網路研討會 {#deliver-an-interactive-webinar}
 
 您的互動式網路研討會已準備就緒。 瞭解簡報所需的一切。
@@ -99,7 +102,7 @@ Broadcast Control為您的互動式網路研討會新增虛擬的綠色空間。
 
 您可以設定「廣播控制項」，在您離開綠色房間後自動開始錄製。 這可確保主機不必記得手動啟動和停止錄製。 暫停或停止廣播也會暫停或停止錄製。 一切都是自動的。
 
-在此影片[&#128279;](https://www.youtube.com/watch?v=TcoCeEJoyjg){target="_blank"}中進一步瞭解廣播控制項。
+在此影片](https://www.youtube.com/watch?v=TcoCeEJoyjg){target="_blank"}中進一步瞭解廣播控制項[。
 
 ### 在錄製中聊天 {#chats-in-recordings}
 
@@ -111,7 +114,7 @@ Chat Pod中的討論會一律記錄下來。 因此，如果聊天討論可增�
 
 ![](assets/deliver-an-interactive-webinar-9.png)
 
-深入瞭解[聊天面板](https://helpx.adobe.com/tw/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}。
+深入瞭解[聊天面板](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}。
 
 ### 準備模式 {#prepare-mode}
 
@@ -129,27 +132,27 @@ Chat Pod中的討論會一律記錄下來。 因此，如果聊天討論可增�
 
 這會關閉「準備模式」並返回使用中的配置。
 
-在此影片[&#128279;](https://www.youtube.com/watch?v=kUya84sx-E4){target="_blank"}中進一步瞭解準備模式。
+在此影片](https://www.youtube.com/watch?v=kUya84sx-E4){target="_blank"}中進一步瞭解準備模式[。
 
 >[!NOTE]
 >
 >* 對即時Pod所做的任何變更都會立即反映給參與者。
->* [聊天面板](https://helpx.adobe.com/tw/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}不是準備模式的一部分，對它的任何變更都會立即反映給參與者。
+>* [聊天面板](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}不是準備模式的一部分，對它的任何變更都會立即反映給參與者。
 
 ### 協助工具 {#accessibility}
 
 Adobe致力改善互動式網路研討會的無障礙環境，以吸引身心障礙的簡報者和參與者。 本軟體持續強化，以符合各類使用者的需求，並符合全球標準，包括視覺、聽覺、行動力或其他殘疾人士。
 
-瞭解Adobe Connect如何針對[視覺、聽覺和行動力需求](https://helpx.adobe.com/tw/adobe-connect/using/accessibility-features.html){target="_blank"}提供協助。
+瞭解Adobe Connect如何針對[視覺、聽覺和行動力需求](https://helpx.adobe.com/adobe-connect/using/accessibility-features.html){target="_blank"}提供協助。
 
 ### 隱藏式字幕 {#closed-captions}
 
 隱藏式字幕是Adobe Connect會議室中音訊的文字表示，可協助耳聾或聽力缺佳的參與者參與活動。 您可以將音訊內容的即時字幕整合到事件中，並在「隱藏式字幕」顯示中呈現這些字幕。
 
-瞭解如何[啟用隱藏式字幕](https://helpx.adobe.com/tw/adobe-connect/using/closed-captioning-html-client.html){target="_blank"}。
+瞭解如何[啟用隱藏式字幕](https://helpx.adobe.com/adobe-connect/using/closed-captioning-html-client.html){target="_blank"}。
 
 ### 模擬的即時網路研討會 {#simulated-live-webinars}
 
 呈現預先錄製的網路研討會，就像使用模擬即時網路研討會格式直播一樣。 與會者可在排程時間加入並即時體驗工作階段，享受聊天、投票和問答等互動功能。模擬的即時網路研討會結合已錄製內容的可靠性與即時事件的互動式體驗。
 
-深入瞭解[模擬即時網路研討會](https://helpx.adobe.com/tw/adobe-connect/using/webinar/overview-of-simulated-live-webinars.html){target="_blank"}。
+深入瞭解[模擬即時網路研討會](https://helpx.adobe.com/adobe-connect/using/webinar/overview-of-simulated-live-webinars.html){target="_blank"}。

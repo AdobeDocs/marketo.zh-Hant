@@ -4,18 +4,20 @@ description: 瞭解Sales Connect中的人員詳細資料檢視。 從「人物�
 title: 人員詳細資料視圖
 exl-id: 3f5ee34d-a21b-4862-80cc-cad921ca479e
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/6RcguZewLXP8hurJWjmW0-mEqxgA5Zd5DwfPXWF1UeU
+TQID: 'https://experienceleague.adobe.com/6RcguZewLXP8hurJWjmW0-mEqxgA5Zd5DwfPXWF1UeU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 284
+source-wordcount: '284'
 ht-degree: 3%
-
 ---
-
 # 人員詳細資料視圖 {#person-detail-view}
 
 人員明細檢視表會提供MSC帳戶中每個人員的詳細設定檔。

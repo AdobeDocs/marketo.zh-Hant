@@ -4,18 +4,21 @@ description: 瞭解如何安裝適用於Google Chrome的Marketo Insights。 新�
 title: 安裝 Google Chrome 適用的 Marketo Insights
 exl-id: 358b2737-52de-4d3b-a6e8-3254a8123359
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/bfFWPwz73ef8582KYOQ-JNQPz02H3aC7vPpp0EAIJlY
+TQID: 'https://experienceleague.adobe.com/bfFWPwz73ef8582KYOQ-JNQPz02H3aC7vPpp0EAIJlY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 210
+source-wordcount: '210'
 ht-degree: 3%
-
 ---
-
 # 為[!DNL Google Chrome]安裝Marketo Insights {#install-marketo-insights-for-google-chrome}
 
 請依照下列步驟，開始使用功能強大的Chrome增益集。 您不需要是Marketo管理員就能安裝擴充功能。
@@ -24,7 +27,7 @@ ht-degree: 3%
 >
 >Sales Insight的Gmail和Outlook電子郵件外掛程式中不提供「銷售Insight動作」功能，包括「傳送銷售電子郵件」、「新增至銷售促銷活動」和「工作」。 目前，使用者只有在使用銷售Marketo電子郵件外掛程式時，才能從電子郵件使用者端傳送包含或不包含Insight電子郵件範本的可追蹤電子郵件。
 
-1. 從Marketo網站商店安裝Google Chrome Add擴充功能[&#128279;](https://chrome.google.com/webstore/detail/marketo-for-google-mail/jjkfbhajlmoeegbjgjipliamplidmbjb){target="_blank"}的Chrome Insights。
+1. 從Marketo網站商店安裝Google Chrome Add擴充功能](https://chrome.google.com/webstore/detail/marketo-for-google-mail/jjkfbhajlmoeegbjgjipliamplidmbjb){target="_blank"}的[Chrome Insights。
 
    ![](assets/image2015-10-5-10-3a24-3a7.png)
 

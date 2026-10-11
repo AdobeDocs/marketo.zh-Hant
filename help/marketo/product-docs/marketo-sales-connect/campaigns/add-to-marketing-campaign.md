@@ -4,16 +4,18 @@ description: 瞭解如何從Sales Connect將個人或群組新增至Marketo行�
 title: 新增至行銷活動
 exl-id: d520d681-8415-4d48-896f-f213a8fabd11
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/jQ4j-SNPZo1rEQhFXNX-7Y8Uu2moL8v9O0g-dbtiyGM
+TQID: 'https://experienceleague.adobe.com/jQ4j-SNPZo1rEQhFXNX-7Y8Uu2moL8v9O0g-dbtiyGM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 303
+source-wordcount: '303'
 ht-degree: 5%
-
 ---
-
 # 新增至行銷活動 {#add-to-marketing-campaign}
 
 >[!PREREQUISITES]

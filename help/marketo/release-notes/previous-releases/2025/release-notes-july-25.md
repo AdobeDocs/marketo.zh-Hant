@@ -3,26 +3,36 @@ description: 發行說明 — 2025年7月 — Marketo檔案 — 產品檔案
 title: 發行說明 - 2025 年 7 月
 feature: Release Information
 exl-id: 86776722-c640-4e55-9551-38ff34de566b
-TQID: https://experienceleague.adobe.com/wIsDclvCMFe7vmLbXB6gk5P1gL1hq-8IBePO5LJaddc
+TQID: 'https://experienceleague.adobe.com/wIsDclvCMFe7vmLbXB6gk5P1gL1hq-8IBePO5LJaddc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
   - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+    internal-label: Field management
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 830
+source-wordcount: '830'
 ht-degree: 97%
-
 ---
-
 # 發行說明：2025 年 7 月 {#release-notes-july-25}
 
 以下為 2025 年 7 月發行版本中包含的所有功能。 請查看您的 Adobe Marketo Engage 版本是否提供這些功能。
@@ -35,7 +45,7 @@ ht-degree: 97%
 
 ## 標準發行週期功能 {#standard-release-cycle-features}
 
-以下功能屬於標準發行週期，將於 **2025 年 7 月 11 日**&#x200B;開始發行，其餘功能則會在接下來數週內分階段推出。 發行的功能和日期可能有所變更。 如需了解各項功能的狀態，請查看其旁邊欄位。
+以下功能屬於標準發行週期，將於 **2025 年 7 月 11 日**&#x200B;開始發行，其餘功能則會在接下來數週內分階段推出。 發行的功能和日期可能有所變更。 請查看各項功能旁邊的狀態。
 
 <table style="table-layout:auto">
  <tbody>
@@ -177,9 +187,9 @@ ht-degree: 97%
 
 * **Marketo Engage Identity 終止服務**：2025 年 8 月，Adobe 將開始逐步停止對於 Marketo Engage Identity (透過 `login.marketo.com` 登入) 的支援。 為避免 Marketo Engage 的存取中斷，您最晚必須在 2025 年 9 月 30 日轉換至 [Adobe Identity](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}。
 
-   * _IP 限制棄用_：將於 2025 年 7 月 30 日停止支援「[根據 IP 對 Marketo 登入進行限制](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"}」的功能。 此功能將保持正常運作，直到轉換至 Adobe Identity 的作業完成為止。 Adobe Admin Console 將為 Adobe Identity 提供全新的位置型存取控制功能，預定於 2025 年 8 月發行。
+  * _IP 限制棄用_：將於 2025 年 7 月 30 日停止支援「[根據 IP 對 Marketo 登入進行限制](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"}」的功能。 此功能將保持正常運作，直到轉換至 Adobe Identity 的作業完成為止。 Adobe Admin Console 將為 Adobe Identity 提供全新的位置型存取控制功能，預定於 2025 年 8 月發行。
 
-   * _單一登入 (SSO) 棄用_：將於 2025 年 7 月 30 日停止支援 [Marketo Identity SSO](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"}。 該功能將保持正常運作，直到轉換至 Adobe Identity 的過程完成為止。 在 Adobe Admin Console 中，Adobe Identity 單一登入必須個別設定。 關於設定步驟，請參閱[設定身分識別和單一登入](https://helpx.adobe.com/tw/enterprise/using/set-up-identity.html){target="_blank"}。
+  * _單一登入 (SSO) 棄用_：將於 2025 年 7 月 30 日停止支援 [Marketo Identity SSO](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"}。 該功能將保持正常運作，直到轉換至 Adobe Identity 的過程完成為止。 在 Adobe Admin Console 中，Adobe Identity 單一登入必須個別設定。 關於設定步驟，請參閱[設定身分識別和單一登入](https://helpx.adobe.com/tw/enterprise/using/set-up-identity.html){target="_blank"}。
 
 * **REST API「access_token」參數棄用**：用於驗證 Marketo REST API 呼叫的 `access_token` 查詢參數將棄用，且於 2026 年 3 月 31 日之後即不再提供。 所有新的和現有的整合都應使用「Authorization」標頭來驗證 REST API 呼叫，方法[如此處所述](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 

@@ -4,20 +4,23 @@ description: 瞭解如何將行動應用程式新增至Marketo以傳送推播通
 title: 新增行動應用程式
 exl-id: 79edf8cb-4d8b-440a-aa8a-6ead1a93b95a
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/z7Q-HWW5iv0zEEEAsdl0TGkgKrDRdCJur7E0SFEnuqk
+TQID: 'https://experienceleague.adobe.com/z7Q-HWW5iv0zEEEAsdl0TGkgKrDRdCJur7E0SFEnuqk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
 subfeature_v2:
   - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 201
+source-wordcount: '201'
 ht-degree: 5%
-
 ---
-
 # 新增行動應用程式 {#add-a-mobile-app}
 
 將您的行動應用程式與Marketo連線，以傳送推播通知給您的客戶群。

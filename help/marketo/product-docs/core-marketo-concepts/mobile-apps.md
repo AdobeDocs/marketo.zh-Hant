@@ -2,13 +2,14 @@
 unique-page-id: 7516612
 description: 瞭解Marketo行動應用程式，包括事件簽入和Marketo時刻。 登記活動出席者，並在他們最重要時檢視重要深入分析。
 title: 行動應用程式
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 5%
-
 ---
-
 
 # 行動應用程式 {#mobile-apps}
 

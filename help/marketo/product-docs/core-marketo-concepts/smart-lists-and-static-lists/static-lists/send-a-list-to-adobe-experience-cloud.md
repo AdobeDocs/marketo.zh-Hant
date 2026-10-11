@@ -4,22 +4,27 @@ description: 瞭解如何將清單傳送至Adobe Experience Cloud。 與Marketo�
 title: 將清單傳送至 Adobe Experience Cloud
 exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
 feature: Static Lists
-TQID: https://experienceleague.adobe.com/bu62GzoQCaBSkoAbX1tU90mzPYiRnnlUkpT4TLmoN0c
+TQID: 'https://experienceleague.adobe.com/bu62GzoQCaBSkoAbX1tU90mzPYiRnnlUkpT4TLmoN0c'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: c56e5f8f-221f-55c2-8170-b1a9e10687cb
+    internal-label: Static Lists
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 819
+source-wordcount: '819'
 ht-degree: 3%
-
 ---
-
 # 將清單傳送至 Adobe Experience Cloud {#send-a-list-to-adobe-experience-cloud}
 
 >[!NOTE]
@@ -41,7 +46,7 @@ ht-degree: 3%
 
 ## 如何傳送靜態清單 {#how-to-send-a-static-list}
 
-靜態清單是靜態的。 除非您手動變更，否則Adobe Experience Cloud中的清單不會發生任何變更。
+靜態清單是靜態的。 除非您手動進行，否則Adobe Experience Cloud中的清單不會有任何變更。
 
 1. 在Marketo中，找到您要匯出的清單。 用滑鼠右鍵按一下並選取&#x200B;**[!UICONTROL Send to Experience Cloud]**。
 
@@ -65,7 +70,7 @@ ht-degree: 3%
 
 ## 如何傳送同步清單 {#how-to-send-a-synced-list}
 
-同步清單表示只要您更新Marketo中的清單，該變更就會自動同步至其在Adobe Experience Cloud中的對象。
+同步清單表示您只要更新Marketo中的清單，該變更就會自動同步至Adobe Experience Cloud中的對象。
 
 1. 在Marketo中，找到您要匯出的清單。 用滑鼠右鍵按一下並選取&#x200B;**[!UICONTROL Send to Experience Cloud]**。
 
@@ -103,9 +108,9 @@ ht-degree: 3%
 
 ### 共用至Adobe Analytics {#sharing-to-adobe-analytics}
 
-* 對於同時擁有Adobe Audience Manager和Adobe Analytics的使用者，此整合可讓對象從Marketo分享至您的Adobe Analytics報表套裝，不過您需要在Adobe Audience Manager中執行一些額外的設定步驟才能啟用此功能。 請參閱[Adobe Audience Manager的檔案](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=zh-Hant){target="_blank"}，以取得如何設定此專案的詳細資訊。
+* 對於同時擁有Adobe Audience Manager和Adobe Analytics的使用者，此整合可讓對象從Marketo分享至您的Adobe Analytics報表套裝，不過您需要在Adobe Audience Manager中執行一些額外的設定步驟才能啟用此功能。 請參閱[Adobe Audience Manager的檔案](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html){target="_blank"}，以取得如何設定此專案的詳細資訊。
 
-* 清單從Marketo上傳至Adobe Audience Manager後，Adobe Target也可加以存取。 必須在Adobe Target[&#128279;](https://experienceleague.adobe.com/zh-hant/docs/target/using/integrate/audience-manager-target-integration){target="_blank"}中啟用該組態。
+* 清單從Marketo上傳至Adobe Audience Manager後，Adobe Target也可加以存取。 必須在Adobe Target](https://experienceleague.adobe.com/en/docs/target/using/integrate/audience-manager-target-integration){target="_blank"}中啟用該組態[。
 
 * 如果清單為空白，或沒有具有ECID值的使用者，系統不會推送清單名稱以在Marketo外部參照。
 

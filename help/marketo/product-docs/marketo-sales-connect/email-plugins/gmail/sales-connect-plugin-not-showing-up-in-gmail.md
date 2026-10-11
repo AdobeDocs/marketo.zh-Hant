@@ -4,16 +4,18 @@ description: 當Sales Connect外掛程式未顯示在Gmail中時，取得協助�
 title: Sales Connect 外掛程式未顯示在 Gmail 中
 exl-id: 6cfe0100-5b5c-4f0e-99af-2f54bbd5623c
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/UkapxaHCL5UbWjOLoFl21XNUXkx-WkbEdl--VjMOEOU
+TQID: 'https://experienceleague.adobe.com/UkapxaHCL5UbWjOLoFl21XNUXkx-WkbEdl--VjMOEOU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 156
+source-wordcount: '156'
 ht-degree: 5%
-
 ---
-
 # [!DNL Sales Connect]外掛程式未顯示在Gmail中 {#sales-connect-plugin-not-showing-up-in-gmail}
 
 根據我們的經驗，如果工具列未出現，請嘗試以下操作。

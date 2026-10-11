@@ -4,16 +4,21 @@ description: 瞭解如何在行銷行事曆中儲存篩選器定義。 儲存篩
 title: 在行銷行事曆中儲存篩選器定義
 exl-id: 66346207-6e8d-472d-971c-31417bd5210b
 feature: Marketing Calendar
-TQID: https://experienceleague.adobe.com/W3KwfZv1of5jaqdiocNPIQlbc-7ccaelEw-L-VU17lI
+TQID: 'https://experienceleague.adobe.com/W3KwfZv1of5jaqdiocNPIQlbc-7ccaelEw-L-VU17lI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+subfeature_v2:
+  - id: a572083b-9238-40c5-8a10-cf294c415aab
+    internal-label: marketing calendar
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 88
+source-wordcount: '88'
 ht-degree: 19%
-
 ---
-
 # 在行銷行事曆中儲存篩選器定義 {#saving-a-filter-definition-in-the-marketing-calendar}
 
 儲存篩選器可讓您在不同的篩選器定義之間來回切換。

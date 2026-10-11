@@ -4,16 +4,21 @@ description: 瞭解如何使用自訂邏輯尋找重複的人員。 建立智慧
 title: 使用自訂邏輯找到重複人員
 exl-id: e268ca34-03a3-403a-8869-4e2b60bba05c
 feature: Smart Lists
-TQID: https://experienceleague.adobe.com/-NvWt-eEzngL0QY7Kyl6lfjd75WcoQmcq3IiN7Uc6-w
+TQID: 'https://experienceleague.adobe.com/-NvWt-eEzngL0QY7Kyl6lfjd75WcoQmcq3IiN7Uc6-w'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 135
+source-wordcount: '135'
 ht-degree: 17%
-
 ---
-
 # 使用自訂邏輯找到重複人員 {#find-duplicate-people-with-custom-logic}
 
 Marketo Engage具有系統智慧清單，可透過比對重複人員的電子郵件地址來尋找重複人員。 如果您想使用其他欄位來尋找與有關的重複專案，請遵循下列步驟。

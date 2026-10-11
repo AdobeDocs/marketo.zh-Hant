@@ -4,7 +4,7 @@ description: 瞭解Marketo中的引導式登入頁面範本清單。 瀏覽並�
 title: 引導式登陸頁面範本清單
 exl-id: 93893c9c-dda2-4d18-b74c-e47388ed552c
 feature: Landing Pages, Guided Landing Page Templates
-TQID: https://experienceleague.adobe.com/aHSN4jaUa-1FI8CRLUo1h-UmxjwWCB0ZDt3vbvoEVa0
+TQID: 'https://experienceleague.adobe.com/aHSN4jaUa-1FI8CRLUo1h-UmxjwWCB0ZDt3vbvoEVa0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -13,10 +13,17 @@ feature_v2:
     internal-label: Design Studio
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
     internal-label: Templates
+  - id: 11bda06c-811f-5d65-9586-64a90ab2d502
+    internal-label: Guided Landing Page Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: 39f87db3b9437e82aeec1a860592654acaf8e0ca
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '394'
 ht-degree: 55%
@@ -31,7 +38,7 @@ ht-degree: 55%
 
 ## 如何將範本匯入Marketo Engage{#how-to-import}
 
-1. 按一下[&#128279;](#all-templates)底下所需範本的名稱，以帶至其專屬頁面。
+1. 按一下](#all-templates)底下所需[範本的名稱，以帶至其專屬頁面。
 
 1. 以滑鼠右鍵按一下「下載範本」並選取&#x200B;**另存連結……**。將檔案儲存到電腦上所需的位置。
 

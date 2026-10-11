@@ -2,15 +2,16 @@
 unique-page-id: 11387674
 description: Marketo 術語更新 - Marketo 文件 - 產品文件
 hide: true
-hidefromtoc: true
+hidefromtoc: 'yes'
 title: Marketo 術語更新
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '359'
 ht-degree: 100%
-
 ---
-
 # Marketo 術語更新 {#updates-to-marketo-terminology}
 
 我們正在對平台進行變更，而這會影響某些項目的名稱。 若您在 2016 年 3 月前有新的 Marketo 執行個體，或者您的公司在 2016 年 7 月之後續約，則您現在所看到的應該是新術語。
@@ -19,7 +20,7 @@ ht-degree: 100%
 
 變更的內容有哪些？
 
-## 「商機」現在為「人員」 {#lead-is-now-person}
+## 「銷售線索」現在為「人員」 {#lead-is-now-person}
 
 最大的變更是將「商機」重新命名為「人員」。
 
@@ -75,7 +76,7 @@ ht-degree: 100%
 
 ## 權杖 {#tokens}
 
-含有「lead」一詞的權杖&#x200B;**沒有變更**。 對於所造成的任何混淆，我們深表歉意；但是，若為了符合新術語而變更所有權杖，會大量破壞目前正在使用的權杖。 因此您仍然會看到諸如「`{{lead.First Name}}`」的權杖。 沒有任何人員特定的權杖。
+含有「lead」一詞的權杖&#x200B;**沒有變更**。 對於所造成的任何混淆，我們深表歉意；但是，若為了符合新術語而變更所有權杖，會導致目前正在使用的大量權杖失效。 因此您仍然會看到諸如「`{{lead.First Name}}`」的權杖。 沒有任何人員特定的權杖。
 
 >[!NOTE]
 >
@@ -83,7 +84,7 @@ ht-degree: 100%
 
 ## 欄位管理 {#field-management}
 
-含有術語「商機」的欄位已經替換為「人員」，或者刪除「商機」一詞。 然而，有一個值得注意的例外是「商機所有者」欄位。 其現在名為「銷售所有者」。
+含有術語「商機」的欄位已經替換為「人員」，或者刪除「商機」一詞。 然而，有一個值得注意的例外是「銷售線索所有者」欄位。 其現在名為「銷售所有者」。
 
 <table>
  <colgroup>

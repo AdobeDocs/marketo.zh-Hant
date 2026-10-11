@@ -4,16 +4,18 @@ description: 瞭解Salesforce的Sales Connect自訂版本。 瞭解版本歷程�
 title: 自訂版本
 exl-id: 4ca3e330-0d3f-428b-a2a4-19bce63ca08c
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/-F9r5sTkTh8-MzNPar6fpT1q2zxeIPp-q3LtR16ML5I
+TQID: 'https://experienceleague.adobe.com/-F9r5sTkTh8-MzNPar6fpT1q2zxeIPp-q3LtR16ML5I'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 76
+source-wordcount: '76'
 ht-degree: 5%
-
 ---
-
 # 自訂版本 {#customization-versions}
 
 以下是[!DNL Salesforce]的Marketo Sales Connect自訂更新詳細資料。

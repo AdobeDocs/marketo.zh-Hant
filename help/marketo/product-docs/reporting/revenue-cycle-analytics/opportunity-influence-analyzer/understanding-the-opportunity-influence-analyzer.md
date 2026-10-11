@@ -4,13 +4,19 @@ description: 瞭解如何瞭解Marketo Engage中的Opportunity Influence Analyze
 title: 了解機會影響分析工具
 exl-id: 87f85fed-1fb5-4906-bfdb-a9fda7ddd295
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 3%
-
 ---
-
 # 了解機會影響分析工具 {#understanding-the-opportunity-influence-analyzer}
 
 每個機會都是一個故事。 您在哪裡與潛在客戶見面？ 哪些行銷機會在行銷/銷售程式期間影響了他們？

@@ -3,18 +3,20 @@ description: 瞭解Marketo互動式網路研討會中的隨選網路研討會。
 title: 隨選網路研討會
 feature: Interactive Webinars
 exl-id: 65bfc1d2-6382-4cfa-9560-69cbb0c37c42
-TQID: https://experienceleague.adobe.com/Ir415cX42hhJyB3Nxg0RFt3nNyXvO155ZHH3LxVzu1E
+TQID: 'https://experienceleague.adobe.com/Ir415cX42hhJyB3Nxg0RFt3nNyXvO155ZHH3LxVzu1E'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Smart Campaigns
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 490
+source-wordcount: '490'
 ht-degree: 1%
-
 ---
-
 # 隨選網路研討會 {#on-demand-webinars}
 
 隨選網路研討會會擷取並調整已註冊但未參加活動的潛在客戶，但您想要透過觀看錄影來取得與活動相關的資訊。 名稱、電子郵件ID和觀看日期/持續時間等資訊可在Marketo Engage中擷取，並用於鎖定這些不顯示的潛在客戶。
@@ -28,9 +30,9 @@ Marketo Engage在以下Widget的協助下，提供「儀表板」標籤上隨選
 * 隨選摘要：提供在指定日期事件後觀看錄影的訪客計數（不顯示）摘要
 
 * 隨選統計：此Widget提供下列資訊：
-   * 隨選錄製可供檢視的天數：協助行銷人員執行動作，例如執行接近錄製30天可用性持續時間結束的電子郵件行銷活動。
-   * 至今為止的隨選網路研討會訪客總數：至今為止觀看隨選錄製的所有不顯示註冊者人數。
-   * 所有訪客的平均觀看持續時間（以分鐘為單位）：讓行銷人員瞭解已檢視的錄製內容量，以及可以使用哪些「智慧行銷活動」來鎖定超過特定觀看持續時間的銷售機會。
+  * 隨選錄製可供檢視的天數：協助行銷人員執行動作，例如執行接近錄製30天可用性持續時間結束的電子郵件行銷活動。
+  * 至今為止的隨選網路研討會訪客總數：至今為止觀看隨選錄製的所有不顯示註冊者人數。
+  * 所有訪客的平均觀看持續時間（以分鐘為單位）：讓行銷人員瞭解已檢視的錄製內容量，以及可以使用哪些「智慧行銷活動」來鎖定超過特定觀看持續時間的銷售機會。
 
 ![](assets/on-demand-webinars-1.png)
 

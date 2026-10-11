@@ -4,18 +4,25 @@ description: 瞭解如何定義A/B測試獲勝者條件。 設定判斷哪個變
 title: 定義 A/B 測試勝出條件
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
 feature: Email Programs, A/B Testing
-TQID: https://experienceleague.adobe.com/CCAarjClLyHDUn3-PQ-0cQ2Ef5NKedjIwdHh0dgnXJE
+TQID: 'https://experienceleague.adobe.com/CCAarjClLyHDUn3-PQ-0cQ2Ef5NKedjIwdHh0dgnXJE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: 69a7f8d6-582c-5b66-841e-32cf07fd164c
+    internal-label: A/B Testing
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 443
+source-wordcount: '443'
 ht-degree: 23%
-
 ---
-
 # 定義 A/B 測試勝出條件 {#define-the-a-b-test-winner-criteria}
 
 當[將A/B測試](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"}新增至您的電子郵件程式時，您必須挑選測試型別，[排程A/B測試](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"}，然後定義獲勝者條件。 以下說明如何決定哪封電子郵件入選。
@@ -45,7 +52,7 @@ ht-degree: 23%
    </tr>
    <tr>
    <td><b>[!UICONTROL Engagement Score]</b></td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html?lang=zh-Hant" target="_blank">參與分數</a>可協助您判斷內容的有效性。</td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html" target="_blank">參與分數</a>可協助您判斷內容的有效性。</td>
    </tr>
    </table>
 

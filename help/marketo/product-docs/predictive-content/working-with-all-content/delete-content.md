@@ -4,16 +4,18 @@ description: 瞭解如何在您不再需要追蹤內容時，從所有內容頁�
 title: 刪除內容
 exl-id: b4463baf-689f-432e-bf5b-375fe218a407
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/sV45l1U1foBNaxzunMOoqRsyPCGXuOf29qQfR38xs5I
+TQID: 'https://experienceleague.adobe.com/sV45l1U1foBNaxzunMOoqRsyPCGXuOf29qQfR38xs5I'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 68
+source-wordcount: '68'
 ht-degree: 14%
-
 ---
-
 # 刪除內容 {#delete-content}
 
 當您不再需要某段內容時，便可輕鬆移除該內容。

@@ -4,19 +4,22 @@ description: 了解熱門檢視、轉換率、趨勢內容和建議的預測Cont
 title: 預測 Content Analytics 概觀
 exl-id: 0f975baa-b17b-411a-bae0-64b67eea2b34
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/dsTO6zxeynglOg3JAs-2k0Balx-bRNc3ikPpxhR5x4E
+TQID: 'https://experienceleague.adobe.com/dsTO6zxeynglOg3JAs-2k0Balx-bRNc3ikPpxhR5x4E'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 338
+source-wordcount: '338'
 ht-degree: 2%
-
 ---
-
-# 預測 Content Analytics 概觀 {#predictive-content-analytics-overview}
+# Predictive Content Analytics 概觀 {#predictive-content-analytics-overview}
 
 使用內容分析進一步深入瞭解您的現有內容、（根據AI和預測演演算法）瞭解哪些內容適合您的對象，並提高行銷工作的ROI。
 

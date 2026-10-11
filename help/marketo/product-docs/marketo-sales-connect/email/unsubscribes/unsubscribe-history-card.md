@@ -4,16 +4,18 @@ description: 瞭解Sales Connect中的取消訂閱歷程記錄卡。 檢視連�
 title: 取消訂閱歷史記錄卡片
 exl-id: ae44552d-7f9e-4f5c-bb22-62c55b63f3e6
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/AogYVGru2hgF-2rVus2wl96P7DqQ4MeN0Ib6jsvTgYI
+TQID: 'https://experienceleague.adobe.com/AogYVGru2hgF-2rVus2wl96P7DqQ4MeN0Ib6jsvTgYI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 154
+source-wordcount: '154'
 ht-degree: 3%
-
 ---
-
 # 取消訂閱歷史記錄卡片 {#unsubscribe-history-card}
 
 [!UICONTROL Unsubscribe History]卡片可協助管理員和使用者取得有關其連絡人取消訂閱歷程記錄的內容資訊。

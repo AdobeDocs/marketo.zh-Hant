@@ -4,16 +4,21 @@ description: 瞭解如何在Marketo中預覽具有動態內容的登入頁面。
 title: 預覽包含動態內容的登陸頁面
 exl-id: 638db767-bb20-4eef-8edd-8a7be4178d28
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/NXUXGYSgviIdw-W1yVRAfTpW82mWvZA9SZExRQVSvko
+TQID: 'https://experienceleague.adobe.com/NXUXGYSgviIdw-W1yVRAfTpW82mWvZA9SZExRQVSvko'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 94
+source-wordcount: '94'
 ht-degree: 14%
-
 ---
-
 # 預覽包含動態內容的登陸頁面 {#preview-a-landing-page-with-dynamic-content}
 
 新增動態內容後預覽您的登入頁面，確保一切如預期所示。

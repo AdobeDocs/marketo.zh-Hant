@@ -7,13 +7,28 @@ feature: Email Designer
 role: User
 level: Beginner, Intermediate
 exl-id: 719686f7-16f5-423f-a4b1-f0a35005d222
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: '521'
-ht-degree: 3%
-
+source-wordcount: '527'
+ht-degree: 4%
 ---
-
 # 品牌分數 {#brand-score}
 
 檢閱您的品牌分數可確保您的電子郵件行銷活動的語調、訊息和視覺身分的一致性，並作為內容上線之前的品質檢查。
@@ -47,15 +62,15 @@ ht-degree: 3%
 1. 選取任何已標幟的指引以檢視特定意見和建議。 品牌一致性會評估以下類別：
 
    * **[!UICONTROL Writing style]**:
-      * **[!UICONTROL Brand communication style]**：定義個性與情緒基調，以確保所有管道的品牌語調一致。
-      * **[!UICONTROL Brand messaging standards]**：有效行銷和促銷文字的結構化和格式化規則。
-      * **[!UICONTROL Legal compliance standards]**：確保所有通訊符合法律要求，包括文字放置和法規遵循檢查清單。
+     * **[!UICONTROL Brand communication style]**：定義個性與情緒基調，以確保所有管道的品牌語調一致。
+     * **[!UICONTROL Brand messaging standards]**：有效行銷和促銷文字的結構化和格式化規則。
+     * **[!UICONTROL Legal compliance standards]**：確保所有通訊符合法律要求，包括文字放置和法規遵循檢查清單。
 
    * **[!UICONTROL Visual content]**:
-      * **[!UICONTROL Photography standards]**：像片內容的需求，包括解析度、構成、光線和檔案格式。
-      * **[!UICONTROL Illustration standards]**：插圖的樣式引數、線條寬度、色彩使用方式及檔案格式需求。
-      * **[!UICONTROL Icon standards]**：圖示設計的規格，包括格線系統、線條粗細，以及調整大小以保持一致性。
-      * **[!UICONTROL Usage guidelines]**：影像選擇、放置和內容的最佳實務，以維護品牌識別。
+     * **[!UICONTROL Photography standards]**：像片內容的需求，包括解析度、構成、光線和檔案格式。
+     * **[!UICONTROL Illustration standards]**：插圖的樣式引數、線條寬度、色彩使用方式及檔案格式需求。
+     * **[!UICONTROL Icon standards]**：圖示設計的規格，包括格線系統、線條粗細，以及調整大小以保持一致性。
+     * **[!UICONTROL Usage guidelines]**：影像選擇、放置和內容的最佳實務，以維護品牌識別。
 
    ![](assets/brand-score-4.png){width="800" zoomable="yes"}
 

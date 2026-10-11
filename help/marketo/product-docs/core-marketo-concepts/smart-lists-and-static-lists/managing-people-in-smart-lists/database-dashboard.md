@@ -4,21 +4,28 @@ description: 瞭解Marketo中的資料庫控制面板。 檢視資料庫和人�
 title: 資料庫儀表板
 exl-id: 44b00d28-a224-4f09-8307-468c14ddb0df
 feature: Smart Lists
-TQID: https://experienceleague.adobe.com/gXWqzor3o5EL0r7FVnCE6eGlFggLxEttJs9IHIfQgWg
+TQID: 'https://experienceleague.adobe.com/gXWqzor3o5EL0r7FVnCE6eGlFggLxEttJs9IHIfQgWg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 182
+source-wordcount: '182'
 ht-degree: 2%
-
 ---
-
 # 資料庫儀表板 {#database-dashboard}
 
 「資料庫儀表板」可作為快照，協助您快速判斷工作區中人員的關鍵屬性。

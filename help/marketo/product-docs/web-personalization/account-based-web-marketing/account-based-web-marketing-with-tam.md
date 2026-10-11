@@ -4,22 +4,26 @@ description: 瞭解在Marketo Engage中使用團隊的帳戶型網路行銷，�
 title: 透過 TAM 進行帳戶型網路行銷
 exl-id: fa81e979-123a-4f60-95d0-dde3918b2ef3
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/BSlDYlNvFm1mZs9UP58HxZ2HLiLYjFrbt7WyCHzT1c4
+TQID: 'https://experienceleague.adobe.com/BSlDYlNvFm1mZs9UP58HxZ2HLiLYjFrbt7WyCHzT1c4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 186
+source-wordcount: '186'
 ht-degree: 6%
-
 ---
-
 # 透過 TAM 進行帳戶型網路行銷 {#account-based-web-marketing-with-TAM}
 
 Marketo提供[[!UICONTROL Target Account Management]](/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md) (TAM)應用程式。
@@ -30,9 +34,9 @@ Marketo提供[[!UICONTROL Target Account Management]](/help/marketo/product-docs
 * 在TAM中管理（建立、編輯和刪除）[!UICONTROL Account Lists]
 * [!UICONTROL Account Lists]已同步至[!UICONTROL Web Personalization]以用於分段。 從下拉式清單中選取它們
 
-   * **注意**：同步處理最多可能需要5分鐘
+  * **注意**：同步處理最多可能需要5分鐘
 
-* 在[!UICONTROL Web Personalization]中，您可以從您在TAM中建立的帳戶清單[&#128279;](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)建立以帳戶為目標的區段，並個人化這些帳戶的內容
+* 在[!UICONTROL Web Personalization]中，您可以從您在TAM中建立的帳戶清單](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)建立[以帳戶為目標的區段，並個人化這些帳戶的內容
 
 ## 針對現有ABWM客戶 {#for-existing-abwm-customers}
 
@@ -42,7 +46,7 @@ Marketo提供[[!UICONTROL Target Account Management]](/help/marketo/product-docs
 * 您可以在TAM _和ABWM_&#x200B;中建立、編輯和刪除[!UICONTROL Account Lists]
 * [!UICONTROL Account Lists] （來自ABWM和TAM）已同步至[!UICONTROL Web Personalization]以用於分段
 
-   * **注意**：同步處理最多可能需要5分鐘
+  * **注意**：同步處理最多可能需要5分鐘
 
 * 在[!UICONTROL Web Personalization]中，您可以從&#x200B;_ABWM和TAM中同時建立的[!UICONTROL Account Lists]建立目標定位帳戶的區段，並為這些帳戶個人化內容_
 * 您可以在[!UICONTROL Web Personalization]帳戶清單頁面上上傳CSV檔案

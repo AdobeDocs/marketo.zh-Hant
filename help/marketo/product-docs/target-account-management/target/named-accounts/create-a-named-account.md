@@ -4,16 +4,21 @@ description: 瞭解如何在TAM中手動建立具名帳戶。 使用「新增」
 title: 建立已命名帳戶
 exl-id: 191ca1d2-8825-41ad-b8a0-53cf21526a91
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/XiXUFrF-AC59VQ9AQJGHkAfoTLqx9RTUWeNtyX-oy6E
+TQID: 'https://experienceleague.adobe.com/XiXUFrF-AC59VQ9AQJGHkAfoTLqx9RTUWeNtyX-oy6E'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 67
+source-wordcount: '67'
 ht-degree: 5%
-
 ---
-
 # 建立[!UICONTROL Named Account] {#create-a-named-account}
 
 請依照下列步驟，手動建立具名帳戶。

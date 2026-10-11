@@ -4,16 +4,21 @@ description: 取得智慧清單篩選器運運算元的說明。 瞭解用於建
 title: 智慧清單篩選器運算子字彙表
 exl-id: 5a370482-f214-4909-bb49-801c1a36b153
 feature: Smart Lists
-TQID: https://experienceleague.adobe.com/srdWBb-dHYhiCNam-GPG6tTIHo3k53IH687LF-UiFg4
+TQID: 'https://experienceleague.adobe.com/srdWBb-dHYhiCNam-GPG6tTIHo3k53IH687LF-UiFg4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 601
+source-wordcount: '601'
 ht-degree: 15%
-
 ---
-
 # 智慧清單篩選器運算子字彙表 {#smart-list-filter-operators-glossary}
 
 運運算元是智慧清單的一部分，可協助您取得特定的。 它可讓您以直截了當的語言描述您的篩選器或觸發器。 每種欄位型別的可用運運算元都不同。

@@ -4,20 +4,26 @@ description: 瞭解如何檢視Champion/Challenger分析和設定報告警報。
 title: 冠軍/挑戰者 — 設定報表警示
 exl-id: 09e17279-c9f5-4a12-ab07-9fce8a0e77ee
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/idG-mOrJdcShh-sv41sQUVXykShdhnEyxMpg2znKLrU
+TQID: 'https://experienceleague.adobe.com/idG-mOrJdcShh-sv41sQUVXykShdhnEyxMpg2znKLrU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
 topic_v2:
   - id: bcc5edb5-84c3-4940-9f84-ed88b6c16274
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Experimentation
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 231
+source-wordcount: '231'
 ht-degree: 2%
-
 ---
-
 # 衛冕者/挑戰者：分析 {#champion-challenger-analytics}
 
 接收報表警報和/或檢閱冠軍/挑戰者儀表板，以取得有用的分析。

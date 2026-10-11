@@ -3,16 +3,21 @@ description: 瞭解Dynamics和Marketo之間的預設Microsoft Dynamics欄位對�
 title: 預設 Dynamics 欄位對應
 exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/WhNHtInFZH6GDkKSCjfGpZyfuZfVB23zL80WdT-pkI0
+TQID: 'https://experienceleague.adobe.com/WhNHtInFZH6GDkKSCjfGpZyfuZfVB23zL80WdT-pkI0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 348
+source-wordcount: '348'
 ht-degree: 5%
-
 ---
-
 # 預設 Dynamics 欄位對應 {#default-dynamics-field-mapping}
 
 當您初次將Marketo Engage帳戶與Microsoft同步時，Marketo會自動在內建的Dynamics和Marketo欄位之間建立這些關聯。  Marketo也會同步處理潛在客戶、帳戶、商機和聯絡人上的自訂欄位。

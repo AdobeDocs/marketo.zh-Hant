@@ -4,18 +4,23 @@ description: 瞭解電子郵件編輯器2.0中的電子郵件範本語法。 使
 title: 電子郵件範本語法
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/-evGqvMqkaIP3CDAe5bKvGchxRhIoOkUPTpnlQlb-40
+TQID: 'https://experienceleague.adobe.com/-evGqvMqkaIP3CDAe5bKvGchxRhIoOkUPTpnlQlb-40'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 2464
+source-wordcount: '2464'
 ht-degree: 83%
-
 ---
-
 # 電子郵件範本語法 {#email-template-syntax}
 
 在 Marketo 的全新電子郵件 2.0 體驗中，電子郵件範本可由元素、變數、模組或容器的任何組合組成。 每個都可透過將 Marketo 特定語法新增至您的 HTML 來加以定義。 電子郵件編輯器 2.0 可支援舊版 (v1.0) 電子郵件範本；但是，這些範本卻不包含新編輯器的所有功能。
@@ -24,7 +29,7 @@ Marketo 電子郵件語法僅適用於範本和個別電子郵件；如果內嵌
 
 >[!NOTE]
 >
->Marketo 支援未設定為協助 CSS/HTML。 如果您不熟悉 CSS/HTML，請詢問開發人員。
+>Marketo 支援不提供 CSS/HTML 相關協助。 如果您不熟悉 CSS/HTML，請詢問開發人員。
 
 >[!CAUTION]
 >
@@ -41,11 +46,11 @@ Marketo 電子郵件語法僅適用於範本和個別電子郵件；如果內嵌
 
 ## RTF 文字 {#rich-text}
 
-如果您將區域定義為 RTF 文字，則使用者即可[&#128279;](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)使用 Marketo 的 RTF 文字編輯器編輯其內容。 在電子郵件範本內定義 RTF 文字元素的方法有兩種：mktEditable 和 mktoText。 請謹記，RTF 文字一律可以在電子郵件編輯器中轉換為程式碼片段。
+如果您將區域定義為 RTF 文字，則使用者即可](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)使用 Marketo 的 RTF 文字編輯器[編輯其內容。 在電子郵件範本內定義 Rich Text 元素的方法有兩種：mktEditable 和 mktoText。 請謹記，Rich Text 元素一律可以在電子郵件編輯器中轉換為程式碼片段。
 
 ### 選項 1 - mktEditable {#option-mkteditable}
 
-由於電子郵件編輯器 2.0 可向後相容，因此某些舊版電子郵件範本可能會藉由在任何 HTML 元素上新增 class=&quot;mktEditable&quot; 來指定 RTF 文字元素。 此功能仍受支援，且元素的識別碼會用於在電子郵件編輯器內作為顯示名稱。
+由於電子郵件編輯器 2.0 可向後相容，因此某些舊版電子郵件範本可能會藉由在任何 HTML 元素上新增 class=&quot;mktEditable&quot; 來指定 Rich Text 元素。 此功能仍受支援，且元素的識別碼會用於在電子郵件編輯器內作為顯示名稱。
 
 必要屬性
 
@@ -58,7 +63,7 @@ Marketo 電子郵件語法僅適用於範本和個別電子郵件；如果內嵌
 
 預設值
 
-HTML 元素 (如果提供) 中具有 class=&quot;mktEditable&quot; 的內容會用作 RTF 文字元素的預設值。
+HTML 元素 (如果提供) 中具有 class=&quot;mktEditable&quot; 的內容會用作 Rich Text 元素的預設值。
 
 範例：
 
@@ -133,7 +138,7 @@ HTML 元素 (如果提供) 中具有 class=&quot;mktoText&quot; 的內容會用�
 
 ## 程式碼片段 {#snippets}
 
-如果您將地區定義為代碼片段，一般使用者將可以選擇他們要在此地區插入哪個核准的[代碼片段](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)。 雖然 RTF 文字元素可以從電子郵件編輯器內轉換為程式碼片段，但如果您明確地將區域定義為程式碼片段，則無法將其轉換為 RTF 文字。 您可以使用具有 class=&quot;mktoSnippet&quot; 的 `<div>` 來指定程式碼片段區域
+如果您將地區定義為代碼片段，一般使用者將可以選擇他們要在此地區插入哪個核准的[代碼片段](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)。 雖然「Rich Text」元素可以從電子郵件編輯器內轉換為程式碼片段，但如果您明確地將區域定義為程式碼片段，則無法將其轉換為「Rich Text」。 您可以使用具有 class=&quot;mktoSnippet&quot; 的 `<div>` 來指定程式碼片段區域
 
 必要屬性
 
@@ -167,7 +172,7 @@ HTML 元素 (如果提供) 中具有 class=&quot;mktoText&quot; 的內容會用�
 
 ## 變數 {#variables}
 
-變數就像權杖。 您可先使用 `<meta>` 標記在電子郵件範本的 `<head>` 區段中定義它們，然後就可以在整個範本中依您的需要多次使用。 由於已在範本中定義，終端使用者即可根據其規則修改其值。 請注意，您可以在範圍中將變數定義為區域或全域。 如果您在「模組」中使用變數 (請參閱下文)，而終端使用者重複該模組，則區域變數會具有獨立的值，而全域變數則同時適用於兩個模組。
+變數就像代號。 您可先使用 `<meta>` 標記在電子郵件範本的 `<head>` 區段中定義它們，然後就可以在整個範本中依您的需要多次使用。 由於已在範本中定義，終端使用者即可根據其規則修改其值。 請注意，您可以將變數的範圍定義為區域或全域。 如果您在「模組」中使用變數 (請參閱下文)，而終端使用者重複該模組，則區域變數會具有獨立的值，而全域變數則同時適用於兩個模組。
 
 ## 字串 {#string}
 
@@ -180,7 +185,7 @@ HTML 元素 (如果提供) 中具有 class=&quot;mktoText&quot; 的內容會用�
 
 選擇性屬性
 
-* **allowHTML：**&#x200B;布林值。 控制變數的值是否為 HTML 逸出。 若省略，則預設為 False。
+* **allowHTML：**&#x200B;布林值。 控制變數的值是否經過 HTML 逸出處理。 若省略，則預設為 False。
 * **default**：字串的預設值。 若省略，則為空白。
 * **mktoModuleScope**：布林值。 控制變數用於模組中時為區域 (true) 或全域 (false)。 若省略，則預設為 False。
 
@@ -291,7 +296,7 @@ HTML 元素 (如果提供) 中具有 class=&quot;mktoText&quot; 的內容會用�
 
 ## HTML 區塊 {#html-block}
 
-如果您將變數指定為 HTML 區塊，則終端使用者即可從電子郵件編輯器中輸入逐字 HTML。 您可使用具有 class=&quot;mktoHTML&quot; 的 `<meta>` 來指定 HTML 區塊變數
+如果您將變數指定為 HTML 區塊，則終端使用者即可從電子郵件編輯器中輸入原始 HTML。 您可使用具有 class=&quot;mktoHTML&quot; 的 `<meta>` 來指定 HTML 區塊變數
 
 必要屬性
 
@@ -365,7 +370,7 @@ HTML 元素 (如果提供) 中具有 class=&quot;mktoText&quot; 的內容會用�
 
 ## 容器 {#containers}
 
-容器會保存模組，並定義可放置模組的位置。 終端使用者重新排序並將模組插入其電子郵件時，容器會控制可放置的位置。
+容器會包含模組，並定義可放置模組的位置。 終端使用者重新排序並將模組插入其電子郵件時，容器會控制可放置的位置。
 
 **已使用具有 class=&quot;mktoContainer&quot; 的 `<table>`、`<tbody>`、`<thead>`、`<tfoot>` 或 `<td>` 來指定**
 

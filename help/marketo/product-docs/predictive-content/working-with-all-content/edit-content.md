@@ -4,16 +4,18 @@ description: 瞭解如何編輯標題、URL、類別和預測核准的所有內�
 title: 編輯內容
 exl-id: 138b620e-4435-4a81-b4c8-132c2d6e25f5
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/oD18RRwL0cNaf-2SfsnlYD7DoxtjG9R5bzfS2JUpjh0
+TQID: 'https://experienceleague.adobe.com/oD18RRwL0cNaf-2SfsnlYD7DoxtjG9R5bzfS2JUpjh0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 96
+source-wordcount: '96'
 ht-degree: 7%
-
 ---
-
 # 編輯內容 {#edit-content}
 
 您可以對[!UICONTROL All Content]頁面上的清單進行一些編輯。

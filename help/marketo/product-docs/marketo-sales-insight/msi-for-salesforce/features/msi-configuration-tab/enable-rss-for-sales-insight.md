@@ -4,20 +4,23 @@ description: 瞭解如何為Marketo Sales Insight啟用RSS。 允許使用者透
 title: 針對銷售洞察啟用 RSS
 exl-id: 1b6c0dc7-6f24-4931-ae99-6a2cf00db99d
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/ecSaEkTZtA64X6P4lwAZn2z3DAqpW2w4Jn8u1VQAvsM
+TQID: 'https://experienceleague.adobe.com/ecSaEkTZtA64X6P4lwAZn2z3DAqpW2w4Jn8u1VQAvsM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 94
+source-wordcount: '94'
 ht-degree: 8%
-
 ---
-
 # 為[!DNL Sales Insight]啟用RSS {#enable-rss-for-sales-insight}
 
 >[!NOTE]

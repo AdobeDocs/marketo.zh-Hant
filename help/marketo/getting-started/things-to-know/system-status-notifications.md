@@ -3,13 +3,17 @@ description: 訂閱系統狀態通知 — Marketo Engage檔案 — 產品檔案
 title: 訂閱系統狀態通知
 feature: Getting Started
 exl-id: f4404a26-3b86-4dc7-8ecb-52a24fdb09b4
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '360'
 ht-degree: 1%
-
 ---
-
 # 訂閱系統狀態通知 {#subscribe-to-system-status-notifications}
 
 瞭解如何訂閱不同的狀態通知，以掌握目前問題的最新消息。
@@ -48,11 +52,11 @@ ht-degree: 1%
 
 在[識別您的資料中心和pod/伺服器](#identify)之後，請依照下列步驟建立訂閱。
 
-1. 在[status.adobe.com](https://status.adobe.com/zh-tw)上，按一下&#x200B;**管理訂閱**。
+1. 在[status.adobe.com](https://status.adobe.com)上，按一下&#x200B;**管理訂閱**。
 
    ![](assets/subscribe-to-system-status-notifications-3.png)
 
-1. 使用您的Adobe認證登入（如果尚未登入），或如果沒有帳戶，請按一下[建立帳戶]。**&#x200B;**
+1. 使用您的Adobe認證登入（如果尚未登入），或如果沒有帳戶，請按一下[建立帳戶]。****
 
    ![](assets/subscribe-to-system-status-notifications-4.png)
 
@@ -64,7 +68,7 @@ ht-degree: 1%
 
    ![](assets/subscribe-to-system-status-notifications-6.png){width="800"}
 
-1. 選取您要接收相關通知的產品方案/服務，然後按一下[繼續]。**&#x200B;**
+1. 選取您要接收相關通知的產品方案/服務，然後按一下[繼續]。****
 
    >[!TIP]
    >

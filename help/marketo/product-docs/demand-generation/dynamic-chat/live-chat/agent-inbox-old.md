@@ -2,15 +2,22 @@
 description: 瞭解即時聊天代理程式欄位對話所在的「代理程式收件匣」。 檢視使用中和過去的聊天、訪客資訊，並設定可用性狀態。
 title: 代理人收件匣
 hide: true
-hidefromtoc: true
+hidefromtoc: 'yes'
 feature: Dynamic Chat
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 1%
-
 ---
-
 # 代理人收件匣 {#agent-inbox}
 
 代理程式將會在「代理程式收件匣」中欄位即時聊天。 除了使用中的交談之外，他們可以看到過去的交談、訪客資訊等。

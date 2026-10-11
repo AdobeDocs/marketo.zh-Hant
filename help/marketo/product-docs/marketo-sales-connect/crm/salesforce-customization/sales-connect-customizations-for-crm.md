@@ -4,21 +4,25 @@ description: 瞭解CRM和Salesforce的Sales Connect自訂。 瞭解可用的自�
 title: CRM的[!DNL Sales Connect]個自訂
 exl-id: c7344ec2-a16b-48a1-8e39-1bbd2818db80
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/rBfS1XRSdxIS5lQtn7wuPbW8ZqpKKqwAl7z5OnH0wmA
+TQID: 'https://experienceleague.adobe.com/rBfS1XRSdxIS5lQtn7wuPbW8ZqpKKqwAl7z5OnH0wmA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 674
+source-wordcount: '674'
 ht-degree: 2%
-
 ---
-
 # CRM的[!DNL Sales Connect]個自訂 {#sales-connect-customizations-for-crm}
 
 下列欄位和按鈕是由Salesforce CRM中的中繼資料API所建立。 建立欄位後，管理員必須在其CRM中設定頁面配置以公開。 指示[可在此找到](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/assets/mse-for-sf-classic.pdf)。

@@ -4,18 +4,21 @@ description: 瞭解如何使用每個URL的預測性分析來啟用內容建議�
 title: 啟用內容推薦列
 exl-id: f2244db1-51a9-4e26-9bf7-b2c79df25552
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/mrCYs8-z6i2GbrfgeySrm-a6-vPC--yVr4yf9UhbH4s
+TQID: 'https://experienceleague.adobe.com/mrCYs8-z6i2GbrfgeySrm-a6-vPC--yVr4yf9UhbH4s'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
 topic_v2:
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Machine learning
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 333
+source-wordcount: '333'
 ht-degree: 4%
-
 ---
-
 # 啟用內容推薦列 {#enable-the-content-recommendation-bar}
 
 內容推薦引擎會使用預測性分析和機器學習演演算法，將相關內容傳送給每位網頁訪客。 建議引擎會預測哪些內容對每位訪客的表現最好。 引擎的內容會在Recommendations頁面底下受到監控和控制，協助您最佳化內容ROI。
