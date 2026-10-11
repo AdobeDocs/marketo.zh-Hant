@@ -4,21 +4,25 @@ description: 瞭解如何使用複製網路行銷活動來複製Marketo Engage�
 title: 原地複製網頁行銷活動
 exl-id: c87440fb-694f-4a51-ad73-317f4d7f4314
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/9wIc75Vpzg3vQcQhssfBeee-VdOeVub3lK5o-LMKLB0
+TQID: 'https://experienceleague.adobe.com/9wIc75Vpzg3vQcQhssfBeee-VdOeVub3lK5o-LMKLB0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 181
+source-wordcount: '181'
 ht-degree: 5%
-
 ---
-
 # 原地複製網頁行銷活動 {#clone-a-web-campaign}
 
 使用「[!UICONTROL Web Campaigns]」頁面上的複製功能來複製行銷活動設定，並變更內容以進行分割測試最佳化，或複製具有相同內容的行銷活動，並將其鎖定到不同的區段。 數秒內建立網站行銷活動！

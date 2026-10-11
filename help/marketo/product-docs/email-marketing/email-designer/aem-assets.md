@@ -4,25 +4,35 @@ description: 瞭解如何在Marketo Engage電子郵件中使用AEM Assets影像�
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
-TQID: https://experienceleague.adobe.com/kCDv70SM0B5fZjQ9-FTlVYZGkVbAbpJ1qmRm-YXOJf8
+TQID: 'https://experienceleague.adobe.com/kCDv70SM0B5fZjQ9-FTlVYZGkVbAbpJ1qmRm-YXOJf8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: da3860b0-d637-47df-bef0-273751180266
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Digital asset management
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 987
+source-wordcount: '987'
 ht-degree: 4%
-
 ---
-
 # 使用Experience Manager資產 {#work-with-experience-manager-assets}
 
 使用 Adobe Experience Manager Assets 將行銷和創意工作流程相結合。 它與Marketo Engage原生整合，因此您可以輕鬆存取&#x200B;_Assets as a Cloud Service_，以探索並使用數位資產來填入您的訊息。

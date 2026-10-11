@@ -4,20 +4,23 @@ description: 瞭解如何在Marketo Engage中使用標籤來標示您的網頁�
 title: 將您的網頁行銷活動加上標籤
 exl-id: 891772c8-dc4d-46a4-b254-4baf0a74f9de
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/Z3CLproC1wMbR1-P-1AAwu8XOJxZVizfmTZvY8Koqds
+TQID: 'https://experienceleague.adobe.com/Z3CLproC1wMbR1-P-1AAwu8XOJxZVizfmTZvY8Koqds'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 171
+source-wordcount: '171'
 ht-degree: 4%
-
 ---
-
 # 將您的網頁行銷活動加上標籤 {#label-your-web-campaigns}
 
 您有這麼多行銷活動，導致捲動變得繁瑣嗎？ 使用標籤來標籤行銷活動，以便您可以排序並快速尋找。

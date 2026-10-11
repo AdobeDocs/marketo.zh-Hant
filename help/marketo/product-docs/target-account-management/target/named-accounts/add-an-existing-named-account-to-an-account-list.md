@@ -4,16 +4,21 @@ description: 瞭解如何將現有的具名帳戶新增至帳戶清單。 使用
 title: 將現有已命名帳戶新增至帳戶清單
 exl-id: 5c6c535c-05da-4d7e-b764-cdbbcc7ec415
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/12lp3121xP2hO8rb4oQSBb1noH6qsw3ZGMVMumabwPM
+TQID: 'https://experienceleague.adobe.com/12lp3121xP2hO8rb4oQSBb1noH6qsw3ZGMVMumabwPM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 93
+source-wordcount: '93'
 ht-degree: 16%
-
 ---
-
 # 新增現有的[!UICONTROL Named Account]至帳戶清單 {#add-an-existing-named-account-to-an-account-list}
 
 將具名帳戶新增至帳戶清單相當簡單。

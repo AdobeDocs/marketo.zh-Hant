@@ -3,16 +3,18 @@ description: 瞭解如何在銷售Insight動作中新增電子郵件身分識別
 title: 新增身分識別
 exl-id: a85937c3-aa15-4900-a42b-950ab2ae1776
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/Ks7LppvQ13D6463U27VN7UMbjS8lfx2WAxii9XCxAig
+TQID: 'https://experienceleague.adobe.com/Ks7LppvQ13D6463U27VN7UMbjS8lfx2WAxii9XCxAig'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 189
+source-wordcount: '189'
 ht-degree: 3%
-
 ---
-
 # 新增身分識別 {#add-identity}
 
 當您有多個要傳送的電子郵件地址時，請新增身分識別。

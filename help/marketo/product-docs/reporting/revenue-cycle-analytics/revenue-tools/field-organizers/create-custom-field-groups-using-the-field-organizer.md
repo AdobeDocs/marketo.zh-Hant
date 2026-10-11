@@ -4,13 +4,19 @@ description: 瞭解如何使用Marketo Engage中的欄位組織器，使用建�
 title: 使用欄位組織工具建立自訂欄位群組
 exl-id: 0425a446-2c92-4a2a-85c4-e05c22118035
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '984'
 ht-degree: 4%
-
 ---
-
 # 使用欄位組織工具建立自訂欄位群組 {#create-custom-field-groups-using-the-field-organizer}
 
 在啟用自訂欄位群組以在「收入週期總管」的「模型效能分析（銷售機會）」區域中報告之前，您必須透過「Marketo銷售機會管理」中的「欄位組織器」，將標準或自訂欄位分類為群組以便報告。 這僅適用於潛在客戶與公司屬性。

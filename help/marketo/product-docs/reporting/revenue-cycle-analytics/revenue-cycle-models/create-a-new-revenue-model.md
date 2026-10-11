@@ -4,13 +4,19 @@ description: 瞭解如何使用在Marketo Engage中建立新的收入模型（�
 title: 建立新的收入模型
 exl-id: 1c2e7d2b-35f6-4bd8-9a31-6bb857a63bbc
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 8%
-
 ---
-
 # 建立新的收入模型 {#create-a-new-revenue-model}
 
 1. 若要建立新的收入週期模型，請按一下[!UICONTROL My Marketo]首頁畫面中的&#x200B;**[!UICONTROL Analytics]**&#x200B;按鈕。

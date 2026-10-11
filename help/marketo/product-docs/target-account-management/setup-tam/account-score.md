@@ -4,16 +4,21 @@ description: 瞭解帳戶評分，以及它如何協助安排參與目標帳戶�
 title: 帳戶分數
 exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/l%2D%2D%2D8i0ay7ON1YhQQyl9AItu-nvqlycAgeh9-Uu4l2c
+TQID: 'https://experienceleague.adobe.com/l%2D%2D%2D8i0ay7ON1YhQQyl9AItu-nvqlycAgeh9-Uu4l2c'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: 0e20d3cd1d58a098d8419c4b10572fe85e672aa2
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 355
+source-wordcount: '355'
 ht-degree: 1%
-
 ---
-
 # [!UICONTROL Account Score] {#account-score}
 
 帳戶評分是[!UICONTROL Target Account Management]的重要部分。 它可協助您判斷帳戶的參與層級。
@@ -49,7 +54,10 @@ ht-degree: 1%
 >
 >若要計算帳戶分數，您必須先建立潛在客戶分數。 Marketo TAM會自動將潛在客戶分數彙總至帳戶分數。 舉例來說，我們舉兩個上述範例（_帳戶產品興趣分數_&#x200B;和&#x200B;_帳戶網頁參與分數_）。
 >
->首先，建立銷售機會分數欄位，從目標帳戶的每個銷售機會擷取相關詳細資訊。然後，將這些潛在客戶分數指派給其個別帳戶分數：帳戶產品利息分數= SUM （潛在客戶產品利息分數）帳戶網站參與分數= SUM （潛在客戶網站參與分數）
+>首先，建立銷售機會分數欄位，從目標帳戶的每個銷售機會擷取相關詳細資訊。
+>然後，將這些潛在客戶分數指派給其個別帳戶分數：
+>帳戶產品利息分數= SUM （潛在客戶產品利息分數）
+>帳戶網站參與分數= SUM （潛在客戶網站參與分數）
 
 >[!NOTE]
 >

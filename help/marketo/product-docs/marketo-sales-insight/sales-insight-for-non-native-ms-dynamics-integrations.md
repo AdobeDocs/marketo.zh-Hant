@@ -1,25 +1,30 @@
 ---
 description: 瞭解如何設定非原生MS Dynamics整合的Sales Insight。 設定Marketo透過自訂同步連線至Dynamics時的MSI。
-title: 非原生MS [!DNL Dynamics] 整合的[!DNL Sales Insight]
+title: 非原生MS [!DNL Dynamics]整合的[!DNL Sales Insight]
 exl-id: 07613ff8-b197-4a3d-88e9-720b68a6b8da
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/sfXpgdyyjCat01UktvV8p4SICKxQGot8-D2T5o11HkM
+TQID: 'https://experienceleague.adobe.com/sfXpgdyyjCat01UktvV8p4SICKxQGot8-D2T5o11HkM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 subfeature_v2:
   - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1532
+source-wordcount: '1533'
 ht-degree: 2%
-
 ---
-
 # 非原生MS [!DNL Dynamics]整合的[!DNL Sales Insight] {#sales-insight-for-non-native-ms-dynamics-integrations}
 
 如果您的Adobe Marketo Engage帳戶是透過自訂或非原生整合連線至MS [!DNL Dynamics]，請使用本文來設定[!DNL Sales Insight]。
@@ -210,7 +215,7 @@ ht-degree: 2%
 
    Marketo銷售機會的「上次有趣的時刻/評分」欄位需要使用REST API銷售機會端點定期同步至MS [!DNL Dynamics]。 使用&#x200B;_externalPersonId_&#x200B;作為filterType，並將MS [!DNL Dynamics]銷售機會GUID傳入filterValue，查詢此Marketo銷售機會的端點。
 
-   | GET /rest/v1/leads.json?filterType=externalPersonId&amp;filterValues=MS DynamicsLeadId1，MS DynamicsLeadId2 |
+   | 取得/rest/v1/leads.json?filterType=externalPersonId&amp;filterValues=MS DynamicsLeadId1，MS DynamicsLeadId2 |
    |---|
 
    然後，您可以使用這些欄位的值，同步至您的MS [!DNL Dynamics]銷售機會/連絡人物件。
@@ -271,4 +276,4 @@ ht-degree: 2%
    >
    >針對銷售機會/聯絡人和帳戶物件型別：使用Marketo Sales Insights時，Marketo支援使用您自己的自訂欄位作為外部ID欄位。 如果您需要此自訂的相關協助，請連絡[Marketo支援](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。
 
-   正確使用外部欄位是成功非原生同步化的關鍵。 如果您在某些檢視中看不到資料，可能是因為某個欄位未正確同步。 例如，如果在檢視「帳戶」底下的MSI Widget時，沒有顯示潛在客戶的活動和有趣的時刻，則可能是潛在客戶的公司或帳戶未正確同步。 在指定外部欄位時對此潛在客戶執行GET要求，將協助您驗證該潛在客戶是否已正確同步。 此外，Marketo中外部銷售人員的電子郵件必須與MS Dynamics中該使用者的電子郵件相符。 如果電子郵件不符，資料可能不會顯示在MS Dynamics的Marketo索引標籤中。
+   正確使用外部欄位是成功非原生同步化的關鍵。 如果您在某些檢視中看不到資料，可能是因為某個欄位未正確同步。 例如，如果在檢視「帳戶」底下的MSI Widget時，沒有顯示潛在客戶的活動和有趣的時刻，則可能是潛在客戶的公司或帳戶未正確同步。 在指定外部欄位時執行此銷售機會的GET要求，可協助您確認該銷售機會是否已正確同步。 此外，Marketo中外部銷售人員的電子郵件必須與MS Dynamics中該使用者的電子郵件相符。 如果電子郵件不符，資料可能不會顯示在MS Dynamics的Marketo索引標籤中。

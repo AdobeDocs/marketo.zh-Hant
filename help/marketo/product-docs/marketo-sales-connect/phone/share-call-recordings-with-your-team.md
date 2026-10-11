@@ -4,16 +4,18 @@ description: 瞭解如何與您的團隊共用Sales Connect通話錄製。 存�
 title: 與您的團隊共用通話錄音
 exl-id: fabd5fba-14a4-4885-93ba-9a3857e2a298
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/tXpUxHcMFEmJew6jNl3B-MlvqELIGcicj9bZ-A7ykiM
+TQID: 'https://experienceleague.adobe.com/tXpUxHcMFEmJew6jNl3B-MlvqELIGcicj9bZ-A7ykiM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 179
+source-wordcount: '179'
 ht-degree: 6%
-
 ---
-
 # 與您的團隊共用通話錄音 {#share-call-recordings-with-your-team}
 
 銷售電話可讓您錄製並儲存您的通話錄製。 如果您想要與團隊的其他成員共用通話錄製，可以從兩個地方複製連結。

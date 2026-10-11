@@ -4,16 +4,18 @@ description: 瞭解Sales Connect與Highspot整合。 將Highspot內容附加至�
 title: 什麼是 Sales Connect 與 Highspot 整合？
 exl-id: 30a7745e-169b-463e-8855-d1c9f14d7753
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/1U81JHYFajHjrVNSJE3i0ewItUVSLp8hUJUU1WFoP98
+TQID: 'https://experienceleague.adobe.com/1U81JHYFajHjrVNSJE3i0ewItUVSLp8hUJUU1WFoP98'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 191
+source-wordcount: '191'
 ht-degree: 5%
-
 ---
-
 # 什麼是[!DNL Sales Connect]與[!DNL Highspot]整合？ {#what-is-the-sales-connect-and-highspot-integration}
 
 [!DNL Sales Connect]支援與內容管理系統[Highspot](https://www.highspot.com/)整合。 同時是[!DNL Highspot]位客戶的[!DNL Sales Connect]位客戶可以從網頁應用程式記憶體取其[!DNL Highspot]內容。

@@ -3,20 +3,23 @@ description: 瞭解SMS訊息控制面板和報表。 檢視您SMS行銷活動的
 title: 簡訊報告
 feature: Mobile Marketing
 exl-id: c4429cb0-01e1-4176-ae14-b8ce38fa1baa
-TQID: https://experienceleague.adobe.com/WV6w9JEN2q3cdd00Wu5ACP1Gw5A4cDtq9FDslbdD1hE
+TQID: 'https://experienceleague.adobe.com/WV6w9JEN2q3cdd00Wu5ACP1Gw5A4cDtq9FDslbdD1hE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 150
+source-wordcount: '150'
 ht-degree: 3%
-
 ---
-
 # 簡訊報告 {#sms-reporting}
 
 SMS訊息控制面板會針對您的訊息提供實用分析。

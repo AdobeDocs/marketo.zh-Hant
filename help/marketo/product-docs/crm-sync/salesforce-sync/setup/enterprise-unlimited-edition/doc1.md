@@ -2,15 +2,22 @@
 description: 瞭解如何將Marketo欄位新增至Salesforce Enterprise或Unlimited版本。 針對潛在客戶和聯絡物件建立分數、贏取方案和贏取日期。
 title: 步驟3之1 — 將Marketo欄位新增至Salesforce (Enterprise/Unlimited)
 hide: true
-hidefromtoc: true
+hidefromtoc: 'yes'
 feature: Salesforce Integration
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '670'
 ht-degree: 1%
-
 ---
-
 # 第 1 步 (共 3 步)：新增 Marketo 欄位至 Salesforce (企業版/無限版) {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
 
 >[!PREREQUISITES]
@@ -84,7 +91,7 @@ Marketo使用一組欄位來擷取特定型別的行銷相關資訊。 如果您
    清除同步使用者設定檔的「唯讀」核取方塊：
 
    如果您的使用者具有系統管理員的設定檔作為同步使用者，請清除系統管理員設定檔的唯讀核取方塊（如下所示）
-如果您已建立同步處理使用者的自訂設定檔，請清除該自訂設定檔的「唯讀」核取方塊
+   如果您已建立同步處理使用者的自訂設定檔，請清除該自訂設定檔的「唯讀」核取方塊
 
    熒幕擷圖
 

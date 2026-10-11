@@ -4,21 +4,24 @@ description: 瞭解如何在Marketo中記錄潛在客戶的傳入郵件。 擷�
 title: 在 Marketo 中記錄來自商機的傳入郵件
 exl-id: 4fab5007-f6fb-432c-ae13-02da747a82ef
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/WVa6R88xfw8evzzfUpZuwG51xWNYMhUbM9csYTRN4TQ
+TQID: 'https://experienceleague.adobe.com/WVa6R88xfw8evzzfUpZuwG51xWNYMhUbM9csYTRN4TQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 141
+source-wordcount: '141'
 ht-degree: 11%
-
 ---
-
-# 在 Marketo 中記錄來自商機的傳入郵件 {#log-inbound-mail-from-your-leads-in-marketo}
+# 在 Marketo 中記錄來自銷售線索的傳入郵件 {#log-inbound-mail-from-your-leads-in-marketo}
 
 您可以使用Marketo電子郵件增益集，直接在[!DNL Outlook]中記錄潛在客戶的回覆。
 

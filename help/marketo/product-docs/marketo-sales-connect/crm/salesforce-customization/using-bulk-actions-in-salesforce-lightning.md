@@ -4,16 +4,18 @@ description: 瞭解如何透過Sales Connect在Salesforce Lightning中使用大�
 title: 在 Salesforce Lightning 中執行大量動作
 exl-id: 72022507-6568-4cc2-b3b5-c1703a1493ad
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/r5KxIMzKrnHOiFJ1QgQazTiflZJ5GDCbfxKwcX7bCuw
+TQID: 'https://experienceleague.adobe.com/r5KxIMzKrnHOiFJ1QgQazTiflZJ5GDCbfxKwcX7bCuw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 385
+source-wordcount: '385'
 ht-degree: 1%
-
 ---
-
 # 在[!DNL Salesforce Lightning]中使用大量動作 {#using-bulk-actions-in-salesforce-lightning}
 
 瞭解如何執行大量動作，例如將銷售機會新增至行銷活動、傳送大量電子郵件，或將銷售機會從[!DNL Salesforce]推播至[!DNL Sales Connect]。
@@ -46,9 +48,9 @@ ht-degree: 1%
 1. 將會出現MSC電子郵件。 它包含下列功能：
 
    答： 「[!UICONTROL To]」欄位顯示「所有回條」 — 這與您在「潛在客戶清單檢視」中選擇的潛在客戶清單相對應
-b. 此清單會顯示在名為「大量撰寫」的左側面板上 — 您可以在此處新增/移除收件者
-c. 您可以選擇範本或建立您自己的電子郵件
-d. 您可以立即傳送電子郵件，也可以排程在稍後傳送
+   b. 此清單會顯示在名為「大量撰寫」的左側面板上 — 您可以在此處新增/移除收件者
+   c. 您可以選擇範本或建立您自己的電子郵件
+   d. 您可以立即傳送電子郵件，也可以排程在稍後傳送
 
    ![](assets/three-5.png)
 

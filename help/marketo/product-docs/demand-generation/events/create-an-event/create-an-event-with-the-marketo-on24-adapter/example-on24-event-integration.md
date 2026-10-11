@@ -4,16 +4,18 @@ description: 從ON24事件與Marketo整合的範例學習。 檢視從網路研�
 title: ON24 事件整合範例
 exl-id: 9d34d1bf-1ff8-4b26-906e-4a6bb9d5f3f6
 feature: Events
-TQID: https://experienceleague.adobe.com/vFwmMz-JOZlu2yHJeDgaOyRue2WJ8MXtoyNuciY4UpY
+TQID: 'https://experienceleague.adobe.com/vFwmMz-JOZlu2yHJeDgaOyRue2WJ8MXtoyNuciY4UpY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 374
+source-wordcount: '374'
 ht-degree: 2%
-
 ---
-
 # ON24 事件整合範例 {#example-on-event-integration}
 
 以下是ON24網路研討會的範例事件（包括行銷活動）。 當您建立事件時，請先測試行銷活動，再開始執行。
@@ -49,8 +51,8 @@ ht-degree: 2%
 * **智慧清單** — 定義您要邀請哪些人參加活動。
 * **流量**
 
-   * 傳送電子郵件 — 如果這是本機資產電子郵件，則有下列命名慣例： EventName.EmailName。 您也可以使用全域電子郵件。
-   * 變更進度中的狀態 — 設定為網路研討會>已邀請。
+  * 傳送電子郵件 — 如果這是本機資產電子郵件，則有下列命名慣例： EventName.EmailName。 您也可以使用全域電子郵件。
+  * 變更進度中的狀態 — 設定為網路研討會>已邀請。
 
 * **排程** — 設定傳送邀請的日期。
 
@@ -58,7 +60,7 @@ ht-degree: 2%
 
 * **智慧清單**
 
-   * 根據&#x200B;**[!UICONTROL Fills Out Form]**&#x200B;觸發行銷活動。 使用&#x200B;**[!UICONTROL Add Constraint]**&#x200B;加入表單所在的登入頁面，尤其是表單用於多個登入頁面時。
+  * 根據&#x200B;**[!UICONTROL Fills Out Form]**&#x200B;觸發行銷活動。 使用&#x200B;**[!UICONTROL Add Constraint]**&#x200B;加入表單所在的登入頁面，尤其是表單用於多個登入頁面時。
 
 >[!CAUTION]
 >
@@ -68,9 +70,9 @@ ht-degree: 2%
 
 * **流量**
 
-   * **在Progression**&#x200B;中變更狀態 — 設定為[網路研討會] > [已註冊]。 **警告**：設定您的子行銷活動時，需要此流程步驟。 當個人的進度狀態變更為&#x200B;**已註冊**&#x200B;時，Marketo會將註冊資訊推送到ON24。
+  * **在Progression**&#x200B;中變更狀態 — 設定為[網路研討會] > [已註冊]。 **警告**：設定您的子行銷活動時，需要此流程步驟。 當個人的進度狀態變更為&#x200B;**已註冊**&#x200B;時，Marketo會將註冊資訊推送到ON24。
 
-   * **傳送電子郵件** — 確認電子郵件（設定為&#x200B;**營運**，讓已註冊的已取消訂閱人員仍可收到該電子郵件）。
+  * **傳送電子郵件** — 確認電子郵件（設定為&#x200B;**營運**，讓已註冊的已取消訂閱人員仍可收到該電子郵件）。
 
 ![](assets/image2015-12-22-15-3a52-3a9.png)
 

@@ -4,7 +4,7 @@ title: 最新發行說明
 hide: true
 feature: Release Information
 exl-id: 0ca5e844-c30b-4c86-a23d-d8f2c1bdddf5
-TQID: https://experienceleague.adobe.com/RZsCx9HAyJuDLO46WfshT30be-rMMDZjnygvU32NGfk
+TQID: 'https://experienceleague.adobe.com/RZsCx9HAyJuDLO46WfshT30be-rMMDZjnygvU32NGfk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -22,10 +22,12 @@ feature_v2:
 subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
     internal-label: Dynamic Chat
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: ba06d7ce62da1ceb3f696527532975622e06fa70
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '552'
 ht-degree: 18%

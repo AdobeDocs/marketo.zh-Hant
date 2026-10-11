@@ -4,16 +4,21 @@ description: 瞭解如何還原電子郵件編輯器中的變更。 在Marketo�
 title: 電子郵件編輯器中的還原
 exl-id: 5542defb-84cd-49a7-b2d0-5cd7e4df95d7
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/Qg0yTU0csD8z1EoDlCVfKCDWig82IQOHd5By3mpTrxQ
+TQID: 'https://experienceleague.adobe.com/Qg0yTU0csD8z1EoDlCVfKCDWig82IQOHd5By3mpTrxQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 78
+source-wordcount: '78'
 ht-degree: 12%
-
 ---
-
 # 電子郵件編輯器中的還原 {#undo-in-the-email-editor}
 
 1. 若要復原變更，請按一下向左鍵。

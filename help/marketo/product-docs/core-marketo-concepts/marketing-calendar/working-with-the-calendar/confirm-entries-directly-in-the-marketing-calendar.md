@@ -4,19 +4,25 @@ description: 瞭解如何在行銷行事曆中確認暫時性的Smart Campaign�
 title: 直接在行銷行事曆中確認條目
 exl-id: f0074982-0cdc-44b9-b6f9-eb47407aba58
 feature: Marketing Calendar
-TQID: https://experienceleague.adobe.com/fRh1emGZ3AzFAP-ZjUPHgtXAxpz1dtX-3FCpFmn55ng
+TQID: 'https://experienceleague.adobe.com/fRh1emGZ3AzFAP-ZjUPHgtXAxpz1dtX-3FCpFmn55ng'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+subfeature_v2:
+  - id: a572083b-9238-40c5-8a10-cf294c415aab
+    internal-label: marketing calendar
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 89
+source-wordcount: '89'
 ht-degree: 15%
-
 ---
-
 # 直接在行銷行事曆中確認條目 {#confirm-entries-directly-in-the-marketing-calendar}
 
 智慧型行銷活動和電子郵件方案可以建立為暫定專案，且必須確認才能實際發生任何事情。

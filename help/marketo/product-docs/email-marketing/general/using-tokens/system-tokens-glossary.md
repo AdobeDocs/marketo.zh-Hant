@@ -4,16 +4,18 @@ description: 瞭解Marketo電子郵件中可用的系統權杖。 使用字彙�
 title: 系統權杖字彙表
 exl-id: 8a7694af-4edb-4b32-b408-19d2e7bd596e
 feature: Tokens
-TQID: https://experienceleague.adobe.com/8D-EZy-i4xmdOY27HNHs9HF2mCjofhMM4dDbfgOM7-Q
+TQID: 'https://experienceleague.adobe.com/8D-EZy-i4xmdOY27HNHs9HF2mCjofhMM4dDbfgOM7-Q'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a6d52c76-712f-5f64-a879-9c65c1499322
+    internal-label: Tokens
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 229
+source-wordcount: '230'
 ht-degree: 2%
-
 ---
-
 # 系統權杖字彙表 {#system-tokens-glossary}
 
 除了人員代號之外，您也可以使用一些特別酷的系統代號。 這些區段在這裡。
@@ -35,7 +37,7 @@ ht-degree: 2%
 
 ## system.time {#system-time}
 
-`{{system.time}}`權杖將在執行階段呈現目前時間，例如： **04:34下午(GMT -0700)**
+`{{system.time}}`權杖將在執行階段呈現目前時間，如下所示： **下午4:34 (GMT -0700)**
 
 **工作位置：**
 

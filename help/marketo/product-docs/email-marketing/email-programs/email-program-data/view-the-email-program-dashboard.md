@@ -4,7 +4,7 @@ description: 瞭解如何檢視電子郵件計畫儀表板。 檢視績效量度
 title: 檢視電子郵件方案儀表板
 exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
 feature: Email Programs
-TQID: https://experienceleague.adobe.com/XFLGP-fP49QTNHdurvS6vs-ZFJu8SUIw3oFyC46ojcc
+TQID: 'https://experienceleague.adobe.com/XFLGP-fP49QTNHdurvS6vs-ZFJu8SUIw3oFyC46ojcc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -13,10 +13,15 @@ feature_v2:
     internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
     internal-label: Reporting
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
     internal-label: Reporting
-source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 5%

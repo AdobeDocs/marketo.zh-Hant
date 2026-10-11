@@ -4,19 +4,25 @@ description: 瞭解如何在Marketo中建立引導式登陸頁面。 選擇範�
 title: 建立引導式登陸頁面
 exl-id: 876735b7-1e71-4fd0-b5de-63e239bcfa30
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/-df5e1arC8TagrG3obrDjF9s4Ay-YcCI4wiLtgdHDFI
+TQID: 'https://experienceleague.adobe.com/-df5e1arC8TagrG3obrDjF9s4Ay-YcCI4wiLtgdHDFI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 190
+source-wordcount: '190'
 ht-degree: 15%
-
 ---
-
 # 建立引導式登陸頁面 {#create-a-guided-landing-page}
 
 >[!NOTE]

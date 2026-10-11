@@ -3,16 +3,18 @@ description: 瞭解如何在「銷售Insight動作」中變更Marketo銷售密�
 title: 變更您的 Marketo 銷售密碼
 exl-id: c63c007a-8f3e-433e-8f3a-9426da303cdb
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/e991PHN9bd3khp5eHLVybW1nXmWZV0fDHbX9IbUTrx8
+TQID: 'https://experienceleague.adobe.com/e991PHN9bd3khp5eHLVybW1nXmWZV0fDHbX9IbUTrx8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 176
+source-wordcount: '176'
 ht-degree: 11%
-
 ---
-
 # 變更您的 Marketo 銷售密碼 {#change-your-marketo-sales-password}
 
 需要變更您的密碼嗎？ 方法如下。

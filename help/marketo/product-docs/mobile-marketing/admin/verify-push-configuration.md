@@ -4,19 +4,22 @@ description: 瞭解如何驗證推送設定，以便同步您的行動應用程�
 title: 驗證推播設定
 exl-id: 5a391087-9d4a-4b06-bc0d-25cd8237e4df
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/xXzWA9POETR9p9g-siF2Azsw-bgwz987wg6-KL7JbBA
+TQID: 'https://experienceleague.adobe.com/xXzWA9POETR9p9g-siF2Azsw-bgwz987wg6-KL7JbBA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Configuration
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 82
+source-wordcount: '82'
 ht-degree: 8%
-
 ---
-
 # 驗證推播設定 {#verify-push-configuration}
 
 >[!PREREQUISITES]

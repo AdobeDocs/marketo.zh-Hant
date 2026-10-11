@@ -4,16 +4,21 @@ description: 瞭解如何將Marketo欄位新增至Salesforce Enterprise或Unlimi
 title: 步驟3之1 — 將Marketo欄位新增至Salesforce (Enterprise/Unlimited)
 exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/YYHZHerCNZ2xlShIBOz07jphJ15S5dGclIMMtb2HD0I
+TQID: 'https://experienceleague.adobe.com/YYHZHerCNZ2xlShIBOz07jphJ15S5dGclIMMtb2HD0I'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 726
+source-wordcount: '726'
 ht-degree: 8%
-
 ---
-
 # 步驟3之1：將Marketo欄位新增至[!DNL Salesforce] (Enterprise/Unlimited) {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
 
 >[!PREREQUISITES]
@@ -119,8 +124,8 @@ Marketo使用一組欄位來擷取特定型別的行銷相關資訊。 若您想
 
    * 清除同步處理使用者設定檔的&#x200B;**[!UICONTROL Read-Only]**&#x200B;核取方塊：
 
-      * 如果您的使用者具有&#x200B;_系統管理員_&#x200B;的設定檔作為同步使用者，請清除系統管理員設定檔的&#x200B;**[!UICONTROL Read-Only]**&#x200B;核取方塊（如下所示）
-      * 如果您已建立同步處理使用者的&#x200B;_自訂設定檔_，請清除該自訂設定檔的&#x200B;**[!UICONTROL Read-Only]**&#x200B;核取方塊
+     * 如果您的使用者具有&#x200B;_系統管理員_&#x200B;的設定檔作為同步使用者，請清除系統管理員設定檔的&#x200B;**[!UICONTROL Read-Only]**&#x200B;核取方塊（如下所示）
+     * 如果您已建立同步處理使用者的&#x200B;_自訂設定檔_，請清除該自訂設定檔的&#x200B;**[!UICONTROL Read-Only]**&#x200B;核取方塊
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 

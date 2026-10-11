@@ -4,18 +4,21 @@ description: 瞭解Marketo Sales Insight面板中的有趣時刻。 檢視Salesf
 title: 關鍵時刻概觀
 exl-id: 6611fb4b-fbc7-42ad-b26e-543a79798ff1
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/987o7hkp-WjgYBLBE7J8P-erbckKLALHxcOBP84Cc6Q
+TQID: 'https://experienceleague.adobe.com/987o7hkp-WjgYBLBE7J8P-erbckKLALHxcOBP84Cc6Q'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 76cacaf05738c6fe8836c5f2e9c64d9287c56bb7
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 117
+source-wordcount: '117'
 ht-degree: 5%
-
 ---
-
 # 關鍵時刻概觀 {#interesting-moments-overview}
 
 您可以使用有趣的時刻流程步驟，讓您的銷售團隊能夠瞭解潛在客戶在Smart Campaign中進行的炫酷行為。

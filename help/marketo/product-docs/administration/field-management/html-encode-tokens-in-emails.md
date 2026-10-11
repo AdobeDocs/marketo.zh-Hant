@@ -4,20 +4,26 @@ description: 啟用或停用電子郵件中使用之人員和公司權杖的HTML
 title: 電子郵件中的 HTML 編碼權杖
 exl-id: aeac6eec-0f43-4cf3-a850-d193e4fc194d
 feature: Field Management
-TQID: https://experienceleague.adobe.com/yQU9qqbvxSXiTHk0Yvm9lFiaZpyZ86NoIR3TIF6sowg
+TQID: 'https://experienceleague.adobe.com/yQU9qqbvxSXiTHk0Yvm9lFiaZpyZ86NoIR3TIF6sowg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+    internal-label: Field management
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 91
+source-wordcount: '91'
 ht-degree: 19%
-
 ---
-
 # 電子郵件中的 HTML 編碼權杖 {#html-encode-tokens-in-emails}
 
 啟用或停用電子郵件中使用的個人和公司權杖。

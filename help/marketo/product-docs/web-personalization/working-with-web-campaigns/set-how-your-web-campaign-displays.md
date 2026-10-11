@@ -4,20 +4,23 @@ description: 瞭解如何使用設定您的網站行銷活動的顯示方式，�
 title: 設定網頁行銷活動的顯示方式
 exl-id: fa0f2421-9536-4a3a-a28b-4f5b1b58ed56
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/HIEbtOzKJ0bSHfPY6W-LHBI-HStuLGqx7RFGqyWA8Co
+TQID: 'https://experienceleague.adobe.com/HIEbtOzKJ0bSHfPY6W-LHBI-HStuLGqx7RFGqyWA8Co'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 214
-ht-degree: 14%
-
+source-wordcount: '214'
+ht-degree: 15%
 ---
-
 # 設定網頁行銷活動的顯示方式 {#set-how-your-web-campaign-displays}
 
 網路行銷活動的顯示時機/方式有數種方法可供使用。

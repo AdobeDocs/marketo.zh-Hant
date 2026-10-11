@@ -3,21 +3,28 @@ description: 控制每個行銷活動要追蹤電子郵件開啟次數，還是�
 title: 行銷活動層級的電子郵件開啟追蹤
 feature: Email Setup
 exl-id: 23cd6ba8-5e3f-44f1-af8d-da03f4b038f2
-TQID: https://experienceleague.adobe.com/kF-5V-G6-xr3uV-NQBTmFNfhQnk-r-RYt-v0HvJ-4Go
+TQID: 'https://experienceleague.adobe.com/kF-5V-G6-xr3uV-NQBTmFNfhQnk-r-RYt-v0HvJ-4Go'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: a03c57fb-0705-4a0d-b463-bbc931d4cefa
+    internal-label: Email setup
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 105
+source-wordcount: '105'
 ht-degree: 20%
-
 ---
-
 # 行銷活動層級的電子郵件開啟追蹤 {#email-open-tracking-at-campaign-level}
 
 此功能可讓您控制電子郵件開啟追蹤，針對行銷活動中的每次開啟控制一次，或針對每封電子郵件控制一次，無論其用於不同行銷活動中的次數為何。

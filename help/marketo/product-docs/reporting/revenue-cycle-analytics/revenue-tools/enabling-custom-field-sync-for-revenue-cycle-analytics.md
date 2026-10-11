@@ -4,13 +4,19 @@ description: 瞭解如何在Marketo Engage中為收入週期分析啟用自訂�
 title: 針對收入週期分析啟用自訂欄位同步
 exl-id: 5656db8f-fce5-47c3-b35d-4faebbdcaa44
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 10%
-
 ---
-
 # 正在啟用[!UICONTROL Revenue Cycle Analytics]的自訂欄位同步 {#enabling-custom-field-sync-for-revenue-cycle-analytics}
 
 下列步驟可讓您利用RCA報告中的自訂欄位。

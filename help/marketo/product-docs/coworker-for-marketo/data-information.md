@@ -1,7 +1,10 @@
 ---
 description: 請檢閱CX Enterprise Coworker，以瞭解Marketo Engage資料範圍、控管控制，以及主要工作流程中的PII考量事項，例如銷售機會匯入、方案QA和資料標準化。
 title: 適用於Marketo Engage的CX Enterprise Coworker資料資訊表
-source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '1459'
 ht-degree: 0%

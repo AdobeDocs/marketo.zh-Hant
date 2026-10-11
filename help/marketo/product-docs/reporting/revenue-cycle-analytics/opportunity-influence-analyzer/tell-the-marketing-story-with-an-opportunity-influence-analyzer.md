@@ -4,13 +4,19 @@ description: 瞭解如何使用Marketo Engage中的機會影響分析器來訴�
 title: 利用機會影響分析工具講述行銷故事
 exl-id: 07a8fd25-b80e-4015-931f-f490bb5e48e5
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '336'
 ht-degree: 2%
-
 ---
-
 # 使用[!UICONTROL Opportunity Influence Analyzer]訴說行銷故事 {#tell-the-marketing-story-with-an-opportunity-influence-analyzer}
 
 使用[!UICONTROL Opportunity Influence Analyzer]說明行銷在重要機會中的角色。 顯示行銷如何影響商機，從首次接觸到商機建立與成功，乃至更遠。

@@ -3,16 +3,18 @@ description: 瞭解如何為團隊設定自訂傳遞管道。 設定銷售電子
 title: 為您的團隊設定自訂傳遞管道
 exl-id: e7ba524c-a0d2-4c2b-95ba-20b9d830f18c
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/IM33WTRE7TrMGcbBsiiMBpFrT-tZpvy8xXpXvt0RDsk
+TQID: 'https://experienceleague.adobe.com/IM33WTRE7TrMGcbBsiiMBpFrT-tZpvy8xXpXvt0RDsk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 164
+source-wordcount: '164'
 ht-degree: 14%
-
 ---
-
 # 為您的團隊設定自訂傳遞管道 {#set-up-a-custom-delivery-channel-for-your-team}
 
 >[!NOTE]

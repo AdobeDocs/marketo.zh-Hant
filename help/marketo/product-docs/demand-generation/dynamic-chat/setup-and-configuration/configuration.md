@@ -3,13 +3,18 @@ description: 瞭解如何自訂Dynamic Chat對話方塊視窗的外觀。 設定
 title: 設定
 feature: Dynamic Chat
 exl-id: 01ca6a38-4918-46b0-b0f6-1baffbb0bbaf
-TQID: https://experienceleague.adobe.com/RYL35cMTXpq9dpJp0S-1YhUL29J2sPALRP1Rz3V60vU
+TQID: 'https://experienceleague.adobe.com/RYL35cMTXpq9dpJp0S-1YhUL29J2sPALRP1Rz3V60vU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
     internal-label: Configuration
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
@@ -17,7 +22,7 @@ topic_v2:
     internal-label: Security
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
     internal-label: Privacy
-source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '414'
 ht-degree: 2%

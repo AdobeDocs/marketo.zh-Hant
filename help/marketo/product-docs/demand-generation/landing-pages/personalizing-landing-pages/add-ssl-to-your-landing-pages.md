@@ -4,18 +4,23 @@ description: 瞭解如何將SSL新增至您的Marketo登陸頁面。 啟用HTTPS
 title: 新增 SSL 至您的登陸頁面
 exl-id: 8271d9fe-0575-430c-97c7-407e4b78cf1d
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/BqMzRWEHpZjd1Ju-o0xCzNKIXpfUYyifWYGKHNqfs0o
+TQID: 'https://experienceleague.adobe.com/BqMzRWEHpZjd1Ju-o0xCzNKIXpfUYyifWYGKHNqfs0o'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Configuration
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 867
+source-wordcount: '867'
 ht-degree: 14%
-
 ---
-
 # 新增 SSL 至您的登陸頁面 {#add-ssl-to-your-landing-pages}
 
 SSL （安全通訊端層）加密可讓您保護Marketo Engage執行個體所有登陸頁面的安全。

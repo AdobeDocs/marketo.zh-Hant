@@ -1,24 +1,29 @@
 ---
 unique-page-id: 12982909
 description: 瞭解如何根據收件者時區排程參與方案投放。 設定全球傳送至少提前25小時的第一次轉換。
-title: 根據收件者時區安排參與方案的時間
+title: 根據收件者時區排程參與方案
 exl-id: 818615be-3c7e-4051-adc7-2341783484b9
 feature: Engagement Programs
-TQID: https://experienceleague.adobe.com/PkmvMBNzpWUNrJy9K-4TVrJMBWfKp5Vm2K-jiIeKBVg
+TQID: 'https://experienceleague.adobe.com/PkmvMBNzpWUNrJy9K-4TVrJMBWfKp5Vm2K-jiIeKBVg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: fc5011cf-5b46-40b1-a5de-d7f042f85633
+    internal-label: Engagement programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 200
-ht-degree: 9%
-
+source-wordcount: '201'
+ht-degree: 8%
 ---
+# 根據收件者時區排程參與方案 {#schedule-engagement-programs-with-recipient-time-zone}
 
-# 根據收件者時區安排參與方案的時間 {#schedule-engagement-programs-with-recipient-time-zone}
-
-當您排程參與方案串流且收件者時區處於作用中狀態時，方案轉換將在第一個時區的午夜開始執行(UTC +14:00)。 第一個演員必須排程在未來&#x200B;**至少25小時**，因為全球每個時區可能有符合演員資格的人。 在第一個時區的這個時間開始處理，可保證在每個收件者的排程日期和時間傳送電子郵件。
+當您排程參與方案串流並且收件者時區處於作用中狀態時，方案轉換將在第一個時區的午夜開始執行(UTC +14:00)。 第一個演員必須排程在未來&#x200B;**至少25小時**，因為全球每個時區可能有符合演員資格的人。 在第一個時區的這個時間開始處理，可保證在每個收件者的排程日期和時間傳送電子郵件。
 
 1. 在您的參與方案中，導覽至&#x200B;**[!UICONTROL Streams]**&#x200B;標籤，然後按一下資料流的步調排程以編輯它。
 

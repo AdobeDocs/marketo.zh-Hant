@@ -1,16 +1,22 @@
 ---
 unique-page-id: 7504923
-description: 瞭解如何透過Marketo Engage中的經理帳戶在收入模型中設定[！dnl google adwords]轉換。 使用本指南完成您的下一個步驟。
-title: 使用經理帳戶在收入模型中設定 [!DNL Google AdWords] 轉換
+description: 瞭解如何透過Marketo Engage中的經理帳戶在收入模型中設定[ !dnl google adwords]轉換。 使用本指南完成您的下一個步驟。
+title: 使用經理帳戶在收入模型中設定[!DNL Google AdWords]轉換
 exl-id: 8c9f50cf-0a8b-4f9a-a0bd-bb57eeac24cf
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '397'
 ht-degree: 1%
-
 ---
-
 # 使用經理帳戶在收入模型中設定[!DNL Google AdWords]轉換 {#set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account}
 
 將您的[!DNL Google AdWords]帳戶連結至Marketo，以自動將離線轉換資料從Marketo上傳至[!DNL Google AdWords]。 接著，在[!DNL AdWords]中[新增自訂欄](https://support.google.com/adwords/answer/3073556)後，您就可以從[!DNL AdWords] UI中輕鬆檢視哪些點按導致合格的銷售機會、商機及新客戶（或您要追蹤的任何收入階段）。

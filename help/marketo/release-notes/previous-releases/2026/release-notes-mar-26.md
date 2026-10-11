@@ -2,13 +2,20 @@
 description: 發行說明 — 2026年3月 — Marketo檔案 — 產品檔案
 title: 發行說明 — 2026年3月
 feature: Release Information
-source-git-commit: e8663ada66948bc30ff7ad90b26f6ba75d670ae8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
+subfeature_v2:
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: '468'
-ht-degree: 21%
-
+source-wordcount: '533'
+ht-degree: 18%
 ---
-
 # 發行說明： 2026年3月 {#release-notes-mar-26}
 
 下方提供2026年3月發行版本包含的所有功能。 請查看您的 Adobe Marketo Engage 版本是否提供這些功能。
@@ -17,7 +24,7 @@ ht-degree: 21%
 
 ## 標準發行週期功能 {#standard-release-cycle-features}
 
-下列功能屬於標準發行週期，並將於&#x200B;**2026年3月27日**&#x200B;開始發行，在接下來的幾週內分階段推出剩餘功能。 發行的功能和日期可能有所變更。 如需了解各項功能的狀態，請查看其旁邊欄位。
+下列功能屬於標準發行週期，並將於&#x200B;**2026年3月27日**&#x200B;開始發行，在接下來的幾週內分階段推出剩餘功能。 發行的功能和日期可能有所變更。 請查看各項功能旁邊的狀態。
 
 <table style="table-layout:auto">
  <tbody>
@@ -37,7 +44,7 @@ ht-degree: 21%
    <td> </td>
   </tr>
   <tr>
-   <td><strong>電子郵件Designer — 片段中的可編輯HTML元件</strong>：在視覺片段中，透過元件屬性面板的影像、文字和按鈕元件支援可編輯欄位。針對HTML元件，可編輯欄位的設定方式不同，在HTML元件本身的原始程式碼中使用以變數為基礎的語法。
+   <td><strong>電子郵件Designer — 片段中的可編輯HTML元件</strong>：在視覺片段中，透過元件屬性面板的影像、文字和按鈕元件支援可編輯欄位。 針對HTML元件，可編輯欄位的設定方式不同，在HTML元件本身的原始程式碼中使用以變數為基礎的語法。
    </td>
    <td>已發行</i></td>
    <td><a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments#editable-html" target="_blank">片段中的可編輯HTML元件</a></td>
@@ -48,7 +55,7 @@ ht-degree: 21%
    <td> </td>
   </tr>
   <tr>
-   <td><strong>電子郵件Designer — 快速動作</strong>： <i>與舊電子郵件編輯器的對等性</i>。快速動作現在可用於所有電子郵件Designer資產（電子郵件、電子郵件範本、片段）。支援的快速動作包括：複製、刪除、移動、建立/編輯草稿。
+   <td><strong>電子郵件Designer — 快速動作</strong>： <i>與舊電子郵件編輯器的對等性</i>。 快速動作現在可用於所有電子郵件Designer資產（電子郵件、電子郵件範本、片段）。 支援的快速動作包括：複製、刪除、移動、建立/編輯草稿。
    </td>
    <td>已發行</i></td>
    <td>不適用</td>
@@ -59,7 +66,7 @@ ht-degree: 21%
    <td> </td>
   </tr>
    <tr>
-   <td><strong>電子郵件Designer - Outlook轉譯修正</strong>：此更新修正轉譯問題，尤其是在MS Outlook中。進階HTML模式可讓您進行細微的HTML/CSS編輯，或新增指令碼標籤至您的電子郵件範本。
+   <td><strong>電子郵件Designer - Outlook轉譯修正</strong>：此更新修正轉譯問題，尤其是在MS Outlook中。 進階HTML模式可讓您進行細微的HTML/CSS編輯，或新增指令碼標籤至您的電子郵件範本。
    </td>
    <td>已發行</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/advanced-html-mode.md" target="_blank">使用進階HTML編輯器編輯電子郵件範本</a></td>

@@ -4,16 +4,18 @@ description: 瞭解Sales Connect中的「我」索引標籤和您的電子郵件
 title: 瞭解[!UICONTROL Me]標籤
 exl-id: 5ae0e091-e315-4182-81d3-134113c8288f
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/22Ov2Hv4pabAUb7O-6OSA85Xrigdh5SZwnbWwjYGNcs
+TQID: 'https://experienceleague.adobe.com/22Ov2Hv4pabAUb7O-6OSA85Xrigdh5SZwnbWwjYGNcs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 103
+source-wordcount: '103'
 ht-degree: 0%
-
 ---
-
 # 瞭解[!UICONTROL Me]標籤 {#understanding-the-me-tab}
 
 在[!UICONTROL Me]索引標籤中，我們會顯示已傳送的電子郵件數目，以及使用範本搭配電子郵件活動傳送的電子郵件數目。

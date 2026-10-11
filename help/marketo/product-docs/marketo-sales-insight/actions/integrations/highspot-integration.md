@@ -3,19 +3,22 @@ description: 瞭解Highspot與Sales Insight Actions的整合。 在銷售電子�
 title: Highspot 整合
 exl-id: d864fa56-5cab-409f-9256-9819204f8853
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/SMFTyAUudxHzxiE2q4IzlqYtbwzUSn77ncsM7WMIAfg
+TQID: 'https://experienceleague.adobe.com/SMFTyAUudxHzxiE2q4IzlqYtbwzUSn77ncsM7WMIAfg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 348
+source-wordcount: '348'
 ht-degree: 1%
-
 ---
-
 # Highspot 整合 {#highspot-integration}
 
 Sales可以利用Sales Insight Actions的絕佳功能，在整個銷售週期中獲得更高的可見度、效率和效能。 銷售Insight動作使用者可以選取儲存在Highspot的銷售啟用平台上的銷售內容，並將其直接插入電子郵件、電子郵件範本和銷售行銷活動中，同時在Highspot和Sales Insight動作中擷取內容追蹤和分析。

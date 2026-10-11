@@ -3,16 +3,21 @@ description: 瞭解如何啟用Microsoft Dynamics與Marketo之間的Campaign同�
 title: 啟用行銷活動同步
 exl-id: b33af554-b4c0-465c-a5a4-3ee3450af5e5
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/F7okawwlQD9FlU3vvp8bfy52I98aRXlbUlte0qd-V7Y
+TQID: 'https://experienceleague.adobe.com/F7okawwlQD9FlU3vvp8bfy52I98aRXlbUlte0qd-V7Y'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 97
+source-wordcount: '97'
 ht-degree: 10%
-
 ---
-
 # 啟用行銷活動同步 {#enable-campaign-sync}
 
 此選項可讓Marketo從[!DNL MS Dynamics]行銷活動新增及移除成員。

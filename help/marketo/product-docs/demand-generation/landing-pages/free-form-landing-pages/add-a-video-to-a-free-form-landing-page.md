@@ -5,18 +5,23 @@ title: 新增影片至自由格式登陸頁面
 exl-id: 3a3bbb56-1fd9-48dd-84e8-8750032bd984
 hide: true
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/JAniDUx7doRNOSnpsdkLIgNnyGO3tAwZGgtpQCKaqPc
+TQID: 'https://experienceleague.adobe.com/JAniDUx7doRNOSnpsdkLIgNnyGO3tAwZGgtpQCKaqPc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Design Studio
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 208
+source-wordcount: '208'
 ht-degree: 8%
-
 ---
-
 # 新增影片至自由格式登陸頁面 {#add-a-video-to-a-free-form-landing-page}
 
 將包含社交分享選項的影片放在您的登陸頁面上。

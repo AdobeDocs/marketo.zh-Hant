@@ -4,20 +4,23 @@ description: 瞭解如何在Marketo Engage中將目標URL新增至網站行銷�
 title: 新增目標 URL 至網頁行銷活動
 exl-id: 5fbb3f12-1474-46c3-8315-8d081422e154
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/IrYPeEwQnyczC1KUGtKvKfmQ-gKTOqCIEVtZr9usCgk
+TQID: 'https://experienceleague.adobe.com/IrYPeEwQnyczC1KUGtKvKfmQ-gKTOqCIEVtZr9usCgk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 246
+source-wordcount: '246'
 ht-degree: 9%
-
 ---
-
 # 新增目標 URL 至網頁行銷活動 {#adding-a-target-url-to-a-web-campaign}
 
 目標URL位於「設定行銷活動」頁面下方，並定義要顯示網頁行銷活動的特定URL。

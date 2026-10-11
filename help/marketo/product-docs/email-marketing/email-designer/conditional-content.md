@@ -6,28 +6,39 @@ description: 瞭解依收件者顯示不同內容的條件式內容。 使用電
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 979ef9db-920f-466f-8c7d-e9de1ee4cf00
-TQID: https://experienceleague.adobe.com/MKNaSOXiUYlnS2KNvH2rUQXqeNxvjiIr-OlbJQvtnaA
+TQID: 'https://experienceleague.adobe.com/MKNaSOXiUYlnS2KNvH2rUQXqeNxvjiIr-OlbJQvtnaA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
   - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+    internal-label: Snippets
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 309
+source-wordcount: '309'
 ht-degree: 2%
-
 ---
-
 # 條件式內容 {#conditional-content}
 
 條件式內容可讓您動態控制哪些對象可以看到哪些內容。 使用現有的區段，根據預先定義的條件來決定收件者看到的內容。

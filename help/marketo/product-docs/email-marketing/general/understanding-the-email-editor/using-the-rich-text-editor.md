@@ -4,7 +4,7 @@ description: 瞭解如何針對電子郵件內容使用RTF編輯器。 在電子
 title: 使用 RTF 編輯器
 exl-id: 9b2d6d41-f947-4859-aad9-a10c15eb013a
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/TIBs0w7HaCEdQfctJj7L48APmhsSp22DfNdqGDN0RmM
+TQID: 'https://experienceleague.adobe.com/TIBs0w7HaCEdQfctJj7L48APmhsSp22DfNdqGDN0RmM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -17,13 +17,17 @@ feature_v2:
     internal-label: Programs
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
     internal-label: Personalization
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
 subfeature_v2:
   - id: df8eb12b-4f82-491f-acbb-d74012ca5654
     internal-label: Snippets
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
-source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '920'
 ht-degree: 28%

@@ -5,33 +5,45 @@ description: 瞭解電子郵件Designer及其拖放編輯器。 在Marketo Engag
 title: 概觀
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-TQID: https://experienceleague.adobe.com/cw1syg5OvYwuB1v-MnQEmW7NB5-A5TnkBn-bnxEzFgw
+TQID: 'https://experienceleague.adobe.com/cw1syg5OvYwuB1v-MnQEmW7NB5-A5TnkBn-bnxEzFgw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
 subfeature_v2:
   - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+    internal-label: Adobe Identity Management
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 672
+source-wordcount: '672'
 ht-degree: 89%
-
 ---
-
 # 電子郵件設計工具概觀 {#overview}
 
 歡迎使用新的 Adobe Marketo Engage 電子郵件設計工具。
 
-電子郵件設計工具是 Marketo Engage 的最新創新，旨在提供改版後的電子郵件和電子郵件範本建立體驗，透過提供視覺化拖放編輯器和標準現成可用的範本來提高生產力和效率。 輕鬆地建立自訂的電子郵件範本，無需花錢向廠商購買。
+電子郵件設計工具是 Marketo Engage 的最新創新，旨在提供改版後的電子郵件和電子郵件範本建立體驗，透過提供視覺化拖放編輯器和標準現成可用的範本來提高生產力和效率。 輕鬆地建立自訂的電子郵件範本，無需花錢請廠商協助。
 
 ## 如何存取 {#how-to-access}
 
@@ -83,7 +95,7 @@ ht-degree: 89%
 
 **我可以在哪些方案中使用新的電子郵件設計工具電子郵件？**
 
-新的電子郵件設計工具電子郵件在所有方案中都可存取 (互動式網路研討會方案除外)。 原地複製功能也可供使用。
+新的電子郵件設計工具電子郵件可在所有方案中使用 (互動式網路研討會方案除外)。 原地複製功能也可供使用。
 
 **我們現有的電子郵件範本在新的設計工具中是否可以運作？**
 
@@ -107,7 +119,7 @@ ht-degree: 89%
 
 **電子郵件範本建立流程在新設計工具中如何運作？ 是 WYSIWYG，還是需要 HTML 知識？**
 
-是 WYSIWYG；不需要 HTML 知識。 您可以輕鬆地在設計工具中建立範本，減少對外部 Web 開發人員的需求。 不過，您仍可選擇透過 HTML 更新 CSS 及編輯個別區段。
+是所見即所得；不需要 HTML 知識。 您可以輕鬆地在設計工具中建立範本，減少對外部 Web 開發人員的需求。 不過，您仍可選擇透過 HTML 更新 CSS 及編輯個別區段。
 
 **新的電子郵件設計工具是否支援 AMP 語言？**
 

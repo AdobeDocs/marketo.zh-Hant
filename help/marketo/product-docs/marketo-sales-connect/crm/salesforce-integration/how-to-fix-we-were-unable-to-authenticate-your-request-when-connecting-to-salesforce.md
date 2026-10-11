@@ -4,16 +4,18 @@ description: 取得協助以修正連線Sales Connect至Salesforce時，「我�
 title: 如何修正連接至 Salesforce 時發生的「我們無法驗證您的請求」問題
 exl-id: ddd49064-f584-4490-8d45-29cf61ed3ebe
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/51pd-hGwspmp6ZuOShb3z3wRdQ0PZ-pCIY-BeV4Q5ho
+TQID: 'https://experienceleague.adobe.com/51pd-hGwspmp6ZuOShb3z3wRdQ0PZ-pCIY-BeV4Q5ho'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 157
+source-wordcount: '157'
 ht-degree: 12%
-
 ---
-
 # 如何修正連線到[!DNL Salesforce]時「我們無法驗證您的請求」 {#how-to-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce}
 
 如果您在嘗試將[!DNL Sales Connect]連線到[!DNL Salesforce]時收到錯誤訊息「我們無法驗證您的要求」，則您的存取[!DNL Salesforce]的API可能會受到限制。 請洽詢您的[!DNL Salesforce]管理員，確認下列專案已準備就緒。

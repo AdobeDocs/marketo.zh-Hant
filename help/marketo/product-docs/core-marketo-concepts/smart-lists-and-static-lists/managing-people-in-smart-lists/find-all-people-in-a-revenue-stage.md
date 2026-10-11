@@ -4,16 +4,21 @@ description: 瞭解如何在收入階段找到所有人。 使用收入階段篩
 title: 找到處於收入階段的所有人
 exl-id: aa5b30bf-96f1-4c1f-8170-86ba808e9705
 feature: Smart Lists
-TQID: https://experienceleague.adobe.com/-cODXA865GaIRdn34vnODbn7HCmp7Tf8J9OOOOOaswQ
+TQID: 'https://experienceleague.adobe.com/-cODXA865GaIRdn34vnODbn7HCmp7Tf8J9OOOOOaswQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 148
+source-wordcount: '148'
 ht-degree: 9%
-
 ---
-
 # 找到處於收入階段的所有人 {#find-all-people-in-a-revenue-stage}
 
 >[!PREREQUISITES]

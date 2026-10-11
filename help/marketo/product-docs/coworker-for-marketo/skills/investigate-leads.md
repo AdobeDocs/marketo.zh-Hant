@@ -1,7 +1,10 @@
 ---
 description: 「調查」銷售機會代理會回答行銷人員最常提出的問題。 它比手動挖掘活動記錄、智慧行銷活動記錄和評分記錄更快、更可靠。
 title: 調查銷售機會
-source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '530'
 ht-degree: 0%

@@ -4,20 +4,26 @@ description: 瞭解如何編輯您的電子郵件標題（從名稱、電子郵�
 title: 編輯您的電子郵件標頭
 exl-id: 21c529d1-55b0-4529-ac0a-4dfb9d149686
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/bhEcWw0qUWfZSg4imEOnVeGjZ0uukWgRC9QqeQuuhko
+TQID: 'https://experienceleague.adobe.com/bhEcWw0qUWfZSg4imEOnVeGjZ0uukWgRC9QqeQuuhko'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 202
+source-wordcount: '202'
 ht-degree: 3%
-
 ---
-
 # 編輯您的電子郵件標頭 {#edit-your-email-header}
 
 Marketo中的電子郵件標題是完全可自訂的。 它包含四個欄位：

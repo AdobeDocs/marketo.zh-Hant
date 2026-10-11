@@ -4,18 +4,23 @@ description: 瞭解如何在Marketo中一次核准多個登陸頁面。 大量�
 title: 一次核准多個登陸頁面
 exl-id: 0ce831fd-29e5-4bf9-96a9-c955e4a32ddb
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/UaNuf1ByD4EoI7naSn6XTXVzarlNyvFEL2r9R3DhvDQ
+TQID: 'https://experienceleague.adobe.com/UaNuf1ByD4EoI7naSn6XTXVzarlNyvFEL2r9R3DhvDQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Design Studio
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 86
+source-wordcount: '86'
 ht-degree: 18%
-
 ---
-
 # 一次核准多個登陸頁面 {#approve-multiple-landing-pages-at-once}
 
 1. 前往 **[!UICONTROL Design Studio]**。

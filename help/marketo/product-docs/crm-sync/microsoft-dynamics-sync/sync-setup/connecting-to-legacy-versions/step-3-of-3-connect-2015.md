@@ -4,16 +4,21 @@ description: 瞭解如何在最後一個步驟中將Marketo連線到內部部署
 title: 安裝適用於Microsoft Dynamics 2015內部部署的Marketo步驟3之3
 exl-id: 054bf725-7a80-4114-8360-2d86e2e33dd7
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/yOVhPjsnivOpFEkXYcVLy97Upm3yrBipP6NkSjsAw2Q
+TQID: 'https://experienceleague.adobe.com/yOVhPjsnivOpFEkXYcVLy97Upm3yrBipP6NkSjsAw2Q'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 367
+source-wordcount: '367'
 ht-degree: 2%
-
 ---
-
 # 步驟3之3：連線Marketo [!DNL Dynamics] （2015年內部部署） {#step-of-connect-marketo-dynamics-on-premises-2015}
 
 >[!PREREQUISITES]

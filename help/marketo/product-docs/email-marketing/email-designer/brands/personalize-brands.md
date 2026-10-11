@@ -7,13 +7,22 @@ role: User
 level: Beginner, Intermediate
 hide: true
 exl-id: 63d2e356-1a42-4cd2-b11f-3499f963c2dd
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '844'
 ht-degree: 1%
-
 ---
-
 # 個人化您的品牌 {#personalize}
 
 ## 關於品牌 {#about-brand}

@@ -4,16 +4,18 @@ description: 瞭解ON24事件註冊更新，以及如何與Marketo同步。 註�
 title: ON24 事件註冊更新
 exl-id: 1d194ef2-b6ca-4e2d-b476-beb5bccd3c5f
 feature: Events
-TQID: https://experienceleague.adobe.com/2G9BHBIeyQS6ID6nT8rjDbRfx1re3z4tUslY4QEki7Y
+TQID: 'https://experienceleague.adobe.com/2G9BHBIeyQS6ID6nT8rjDbRfx1re3z4tUslY4QEki7Y'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 264
+source-wordcount: '264'
 ht-degree: 3%
-
 ---
-
 # ON24 事件註冊更新 {#on-event-registration-updates}
 
 ## 手動核准註冊者 {#manually-approving-registrants}

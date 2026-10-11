@@ -2,15 +2,22 @@
 description: 瞭解如何將對話流程內嵌在Marketo登陸頁面中。 讓訪客透過Dynamic Chat排程會議，而不需填寫表單。
 title: 使用對話式流程登陸頁面
 hide: true
-hidefromtoc: true
+hidefromtoc: 'yes'
 feature: Dynamic Chat
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 2%
-
 ---
-
 # 使用對話式流程登陸頁面{#use-a-conversational-flow-landing-page}
 
 將Dynamic Chat對話流程直接內嵌至Marketo Engage登陸頁面，讓訪客可透過Dynamic Chat排程會議，無須填寫表單或與聊天機器人互動。

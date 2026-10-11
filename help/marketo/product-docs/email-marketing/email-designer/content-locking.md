@@ -6,24 +6,33 @@ description: 瞭解如何鎖定電子郵件範本中的內容，讓其他人無�
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 7ccff4f0-5db5-4dd7-91e0-d2081b74ad18
-TQID: https://experienceleague.adobe.com/riZ-B0-N9bYRCi6gu8ajpskmwcNri6YHnSjbe1xrIJo
+TQID: 'https://experienceleague.adobe.com/riZ-B0-N9bYRCi6gu8ajpskmwcNri6YHnSjbe1xrIJo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Governance
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 849
+source-wordcount: '849'
 ht-degree: 8%
-
 ---
-
 # 鎖定電子郵件範本中的內容 {#lock-content-email-templates}
 
 Marketo Engage可讓您透過鎖定整個範本或特定結構/元件，來鎖定電子郵件範本中的內容。 這樣做讓您可以防止無意間不小心編輯或刪除內容，讓您更能掌控範本自訂，進而提高電子郵件行銷活動的效率和可靠性。
@@ -36,15 +45,15 @@ Marketo Engage可讓您透過鎖定整個範本或特定結構/元件，來鎖�
 
 * 鎖定結構時：
 
-   * 該結構內的所有內容也會被鎖定。
-   * 無法新增任何內容至結構。
-   * 依預設，您無法刪除結構。 您可以啟用「允許刪除」選項來覆寫此限制。
-   * 可將鎖定結構內的個別內容元件設定為可編輯。
+  * 該結構內的所有內容也會被鎖定。
+  * 無法新增任何內容至結構。
+  * 依預設，您無法刪除結構。 您可以啟用「允許刪除」選項來覆寫此限制。
+  * 可將鎖定結構內的個別內容元件設定為可編輯。
 
 * 當結構可編輯（結構未鎖定）時：
 
-   * 個別內容元件可鎖定在該結構內。
-   * 依預設，如果元件已鎖定，或選取「僅可編輯的內容鎖定」，則無法刪除元件。 您可以啟用「允許刪除」選項來覆寫此限制。
+  * 個別內容元件可鎖定在該結構內。
+  * 依預設，如果元件已鎖定，或選取「僅可編輯的內容鎖定」，則無法刪除元件。 您可以啟用「允許刪除」選項來覆寫此限制。
 
 ## 鎖定電子郵件範本 {#lock-an-email-template}
 
@@ -92,7 +101,7 @@ Marketo Engage可讓您透過鎖定整個範本或特定結構/元件，來鎖�
 
    >[!NOTE]
    >
-   >依預設，使用者無法刪除已鎖定的結構。 您可以啟用&#x200B;**[!UICONTROL Allow delete]**&#x200B;選項來覆寫此限制。
+   >預設情況下，使用者無法刪除已鎖定的結構。 您可以啟用&#x200B;**[!UICONTROL Allow delete]**&#x200B;選項來覆寫此限制。
 
 鎖定結構後，無法複製或新增其他內容元件或片段。 依照預設，鎖定結構內的所有元件也會鎖定。 若要讓元件在鎖定的結構中可編輯：
 
@@ -135,7 +144,7 @@ Marketo Engage可讓您透過鎖定整個範本或特定結構/元件，來鎖�
 
 使用包含鎖定內容的範本時，**[!UICONTROL Governance enabled]**&#x200B;訊息會顯示在右窗格中。
 
-根據套用於範本的鎖定類型，您可以在範本的結構和元件執行不同的動作。 若要快速識別範本中的所有可編輯區域，請啟用&#x200B;**[!UICONTROL Highlight editable areas]**&#x200B;選項。
+根據套用於範本的鎖定類型，您可以在範本的結構和元件上執行不同的動作。 若要快速識別範本中的所有可編輯區域，請啟用&#x200B;**[!UICONTROL Highlight editable areas]**&#x200B;選項。
 
 例如，在下方的範本中，除了已鎖定的頂端影像之外，所有區域都是可編輯的，這表示您無法編輯或移除它。
 

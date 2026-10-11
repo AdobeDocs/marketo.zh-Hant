@@ -3,20 +3,26 @@ description: 篩選或記錄電子郵件機器人活動，以防止使用IAB清�
 title: 篩選電子郵件機器人活動
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
 feature: Email Setup
-TQID: https://experienceleague.adobe.com/b7H7jXcwtzD4UHkNkDoRWumbkR35U45VuDayeaWnXho
+TQID: 'https://experienceleague.adobe.com/b7H7jXcwtzD4UHkNkDoRWumbkR35U45VuDayeaWnXho'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: a03c57fb-0705-4a0d-b463-bbc931d4cefa
+    internal-label: Email setup
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 469
+source-wordcount: '469'
 ht-degree: 13%
-
 ---
-
 # 篩選電子郵件機器人活動 {#filtering-email-bot-activity}
 
 有時候，電子郵件機器人活動可能會讓您的電子郵件開啟和點按資料不實膨脹。 請依照下列步驟處理這個問題。
@@ -25,10 +31,10 @@ ht-degree: 13%
 
 * 與[互動式Advertising Bureau機器人清單](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}相符：與IAB UA/IP （使用者代理程式/IP位址）清單上的任何專案相符的活動將標示為機器人。
 * 符合近似程度模式：當兩個或多個活動同時發生（在一秒以內）時，則會將其識別為機器人。 比較期間考慮的屬性包括：
-   * 銷售機會ID （應相同）
-   * 電子郵件資產（應相同）
-   * 連結點選或電子郵件開啟
-   * 時間差異（應小於1秒）
+  * 銷售機會ID （應相同）
+  * 電子郵件資產（應相同）
+  * 連結點擊或電子郵件開啟
+  * 時間差異（應小於1秒）
 
 針對電子郵件連結點選和電子郵件開啟活動，新屬性將填入以下值：
 

@@ -4,16 +4,18 @@ description: 電子郵件個人化 - Marketo 文件 - 產品文件
 title: 電子郵件個人化
 exl-id: 1562796e-da47-4305-b950-3bed1d36d339
 feature: Getting Started
-TQID: https://experienceleague.adobe.com/T2rqqrkxA5tScMDEnJ4oEXSwuJKnb36bscUKg5aRXhc
+TQID: 'https://experienceleague.adobe.com/T2rqqrkxA5tScMDEnJ4oEXSwuJKnb36bscUKg5aRXhc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 320
+source-wordcount: '320'
 ht-degree: 100%
-
 ---
-
 # 電子郵件個人化 {#personalize-an-email}
 
 ## 任務：新增資料權杖，製作個人化的電子郵件 {#mission-make-your-emails-personal-by-adding-data-tokens}
@@ -66,7 +68,7 @@ ht-degree: 100%
 
    ![](assets/personalize-an-email-8.png)
 
-## 步驟 3：將商機的名稱新增至電子郵件中 {#step-add-the-leads-name-to-the-email}
+## 步驟 3：將銷售線索的名稱新增至電子郵件中 {#step-add-the-leads-name-to-the-email}
 
 1. 選取頂部可編輯的區段，按一下齒輪圖示並選取「**[!UICONTROL Edit]**」。
 

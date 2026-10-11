@@ -3,13 +3,17 @@ description: 繼承例項行銷活動檢查清單 — Marketo檔案 — 產品�
 title: 繼承例項行銷活動檢查清單
 feature: Getting Started
 exl-id: 653e8081-25cd-411c-a6b4-bba269e0dac3
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: '855'
+source-wordcount: '906'
 ht-degree: 2%
-
 ---
-
 # 繼承的執行個體：行銷活動檢查清單 {#inherited-instance-marketing-activities-checklist}
 
 正確組織您的「行銷活動」區段，以協助其他人在Marketo Engage執行個體中尋找和管理各種方案，並確保系統已處理好人員，將人員從行銷人員傳至銷售人員。 記得要[下載檢查清單](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx)並追蹤您的進度。

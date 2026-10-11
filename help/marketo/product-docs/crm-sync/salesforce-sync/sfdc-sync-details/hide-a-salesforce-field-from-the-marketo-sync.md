@@ -1,24 +1,31 @@
 ---
 unique-page-id: 4719306
 description: 瞭解如何從Salesforce同步中隱藏Marketo欄位，以將效能最佳化。 在同步使用者設定檔上使用欄位層級安全性來排除不需要的欄位。
-title: 對 Marketo 同步隱藏 Salesforce 欄位
+title: 從 Marketo 同步隱藏 Salesforce 欄位
 exl-id: 5d7229f0-43b0-4232-93ed-a9ca52ace401
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/dUOuEuS689QIwRxhrGKOOjZhG6LC-441ytwyqkPbkDo
+TQID: 'https://experienceleague.adobe.com/dUOuEuS689QIwRxhrGKOOjZhG6LC-441ytwyqkPbkDo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 166
+source-wordcount: '166'
 ht-degree: 10%
-
 ---
-
 # 隱藏Marketo同步中的[!DNL Salesforce]欄位 {#hide-a-salesforce-field-from-the-marketo-sync}
 
 >[!NOTE]

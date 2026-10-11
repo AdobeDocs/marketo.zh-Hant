@@ -4,20 +4,26 @@ description: 建立新自訂活動的步驟，包括名稱、API名稱、篩選�
 title: 建立自訂活動
 exl-id: 5b83663e-8578-4a45-b8f8-4db8c2346372
 feature: Custom Activities
-TQID: https://experienceleague.adobe.com/SMvwkJEZWaMbQHUSKrpeJvrnw-JGl6eY8mmj9ZzMqGk
+TQID: 'https://experienceleague.adobe.com/SMvwkJEZWaMbQHUSKrpeJvrnw-JGl6eY8mmj9ZzMqGk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: a8c137b3-8aa5-433e-bdc9-0a216c2a11c1
+    internal-label: Custom activities
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 108
+source-wordcount: '108'
 ht-degree: 12%
-
 ---
-
 # 建立自訂活動 {#create-a-custom-activity}
 
 請依照下列步驟建立新的自訂活動。

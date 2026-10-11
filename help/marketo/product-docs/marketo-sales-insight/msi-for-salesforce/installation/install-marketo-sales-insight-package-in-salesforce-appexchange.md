@@ -4,20 +4,23 @@ description: 瞭解如何從Salesforce AppExchange安裝Marketo Sales Insight套
 title: 在 Salesforce AppExchange 中安裝 Marketo 銷售洞察封裝
 exl-id: d0c54d6a-e9d5-4ddb-8679-873b61375a82
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/Avewt9joDG0k3TR0MF1jvqtQsS-GQeKKNnfARk8Xffk
+TQID: 'https://experienceleague.adobe.com/Avewt9joDG0k3TR0MF1jvqtQsS-GQeKKNnfARk8Xffk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 220
+source-wordcount: '220'
 ht-degree: 6%
-
 ---
-
 # 在[!DNL Salesforce] AppExchange中安裝[!DNL Marketo Sales Insight]套件 {#install-marketo-sales-insight-package-in-salesforce-appexchange}
 
 您必須先在您的[!DNL Salesforce]訂閱中安裝[!DNL Marketo Sales Insight]應用程式，才能享受[!DNL Sales Insight]提供的所有優點。 方法如下。
@@ -30,7 +33,7 @@ ht-degree: 6%
 >
 >[!DNL Marketo Sales Insight]與[!DNL Salesforce] Platform (Shield)加密相容。
 
-1. 移至 [!DNL Marketo Sales Insight][&#128279;](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)的AppExchange頁面，然後按一下&#x200B;**[!UICONTROL Get it Now]**。
+1. 移至 [!DNL Marketo Sales Insight]&#x200B;[&#128279;](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)的AppExchange頁面，然後按一下&#x200B;**[!UICONTROL Get it Now]**。
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-1.png)
 

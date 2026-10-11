@@ -4,18 +4,20 @@ description: 瞭解Sales Connect中的動態欄位。 使用此辭彙表尋找�
 title: 動態欄位字彙表
 exl-id: 28351ba9-53da-4408-9526-918200d9bd29
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/5cRospk9mWomxfUH-DWHLiWWT75TpolXq5sjHDknric
+TQID: 'https://experienceleague.adobe.com/5cRospk9mWomxfUH-DWHLiWWT75TpolXq5sjHDknric'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 253
+source-wordcount: '253'
 ht-degree: 3%
-
 ---
-
 # 動態欄位字彙表 {#dynamic-fields-glossary}
 
 在[!DNL Sales Connect]中建立範本時，我們一律建議使用&#x200B;**[!UICONTROL MSE Dynamic Fields]**&#x200B;按鈕整合動態欄位。

@@ -4,20 +4,23 @@ description: 瞭解Salesforce中的Marketo Sales Insight設定索引標籤。 �
 title: Salesforce 中的 Marketo 銷售洞察設定索引標籤
 exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/rFexi0KyOSWLU2b1pR4AeL71xtLNUGdWvuuf3R15WIQ
+TQID: 'https://experienceleague.adobe.com/rFexi0KyOSWLU2b1pR4AeL71xtLNUGdWvuuf3R15WIQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 626
+source-wordcount: '626'
 ht-degree: 1%
-
 ---
-
 # [!DNL Salesforce]中的[!DNL Marketo Sales Insight]設定索引標籤 {#marketo-sales-insight-configuration-tab-in-salesforce}
 
 ## 操作設定 {#operational-settings}
@@ -38,8 +41,8 @@ ht-degree: 1%
 **Visualforce頁面設定**
 
 * 啟用動作下拉式清單：
-   * 能夠隱藏潛在客戶與聯絡MSI配置中的下拉式清單中的「傳送Marketo電子郵件」
-   * 能夠隱藏潛在客戶與聯絡MSI配置中下拉式清單的「新增至Marketo促銷活動」選項
+  * 能夠隱藏潛在客戶與聯絡MSI配置中的下拉式清單中的「傳送Marketo電子郵件」
+  * 能夠隱藏潛在客戶與聯絡MSI配置中下拉式清單的「新增至Marketo促銷活動」選項
 * 即將到來的活動：向使用者顯示已邀請的活動、所有活動或完全隱藏此索引標籤的功能
 * 即將推出的行銷活動：顯示所有電子郵件行銷活動或完全隱藏此索引標籤的功能
 * 載入即將到來的行銷活動和事件：將事件和行銷活動索引標籤放置在隨選「載入即將到來的專案」按鈕後面，能夠減少使用者發出的Rest API呼叫數量

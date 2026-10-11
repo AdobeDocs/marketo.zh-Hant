@@ -4,21 +4,25 @@ description: 更新人員資料 — Marketo檔案 — 產品檔案
 title: 更新人員資料
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
 feature: Getting Started
-TQID: https://experienceleague.adobe.com/-8fM9lrZT-YHWzC08KAsM917s-QfP-j-NisIydqSG0o
+TQID: 'https://experienceleague.adobe.com/-8fM9lrZT-YHWzC08KAsM917s-QfP-j-NisIydqSG0o'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
 subfeature_v2:
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Smart lists
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 181
+source-wordcount: '181'
 ht-degree: 17%
-
 ---
-
 # 更新人員資料 {#update-person-data}
 
 ## 任務：更新個人的聯絡資訊或其他資料 {#mission-update-a-persons-contact-info-or-other-data}

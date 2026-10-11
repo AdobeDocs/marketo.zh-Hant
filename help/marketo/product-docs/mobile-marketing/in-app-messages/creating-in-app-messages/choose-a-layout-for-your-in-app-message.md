@@ -4,18 +4,20 @@ description: 瞭解六種應用程式內訊息配置。 選擇「快顯」或「
 title: 為應用程式內訊息選擇版面
 exl-id: e36507d1-df04-43ac-9da0-14116db3add6
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/tCjSUGgNukJcbWvyLnj2E-9GzKjbgiEa3ytBkmrzhT4
+TQID: 'https://experienceleague.adobe.com/tCjSUGgNukJcbWvyLnj2E-9GzKjbgiEa3ytBkmrzhT4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 498
+source-wordcount: '498'
 ht-degree: 3%
-
 ---
-
 # 為應用程式內訊息選擇版面 {#choose-a-layout-for-your-in-app-message}
 
 Marketo提供六種版面來建置應用程式內訊息。

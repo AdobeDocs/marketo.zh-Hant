@@ -2,15 +2,22 @@
 description: 新電子郵件Designer測試版的臨時檔案。 新增資產並使用設計工具進行測試版測試（在目錄中隱藏）。
 title: 臨時檔案
 hide: true
-hidefromtoc: true
+hidefromtoc: 'yes'
 feature: Email Editor
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 21%
-
 ---
-
 # 臨時檔案 {#temp-doc}
 
 ## 複製此部分下方 {#copy}

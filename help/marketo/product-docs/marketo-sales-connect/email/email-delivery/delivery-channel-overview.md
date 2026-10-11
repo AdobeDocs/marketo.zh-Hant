@@ -4,16 +4,18 @@ description: 瞭解Sales Connect中的傳遞管道。 瞭解電子郵件的傳�
 title: 傳遞管道概觀
 exl-id: 432bad1e-4eaf-4be8-b856-be364c44816e
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/LGZU-d2-ROfNUSyzeMY8L4qB22rqqU8r2Hq3h1dXbvA
+TQID: 'https://experienceleague.adobe.com/LGZU-d2-ROfNUSyzeMY8L4qB22rqqU8r2Hq3h1dXbvA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 568
+source-wordcount: '569'
 ht-degree: 1%
-
 ---
-
 # 傳遞管道概觀 {#delivery-channel-overview}
 
 Marketo [!DNL Sales Connect]提供您多個傳送電子郵件的選項。 本文將檢閱您可以運用的傳送管道、如何選取管道，以及何時應選取管道而不應選取管道。
@@ -52,7 +54,7 @@ MSC伺服器不支援DKIM和SPF驗證方法，這可能會降低傳遞率。 因
 
 ## Marketo伺服器 {#marketo-servers}
 
-Marketo電子郵件伺服器未與[!DNL Sales Connect]整合。 Marketo伺服器已針對大量傳送進行最佳化，可因應行銷人員的需求進行擴充。 不過，Gmail和[!DNL Exchange]在1:1銷售通訊的成功率較高，因此我們建議使用這些伺服器進行銷售通訊。
+Marketo電子郵件伺服器未與[!DNL Sales Connect]整合。 Marketo伺服器已針對大量傳送進行最佳化，可因應行銷人員的需求進行擴充。 不過，Gmail和[!DNL Exchange]的1:1銷售通訊成功率較高，因此我們建議使用這些伺服器進行銷售通訊。
 
 >[!MORELIKETHIS]
 >

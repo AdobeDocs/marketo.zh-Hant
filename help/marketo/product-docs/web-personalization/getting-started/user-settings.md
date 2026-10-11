@@ -4,7 +4,7 @@ description: 瞭解如何設定使用者設定，包括時區、電子郵件報�
 title: 使用者設定
 exl-id: 2d7d66fd-6240-4275-a14b-083b30802727
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/AecZiTRBR06f6-aRZR5-LbFIZCy0-WSHVKREbNJo9mE
+TQID: 'https://experienceleague.adobe.com/AecZiTRBR06f6-aRZR5-LbFIZCy0-WSHVKREbNJo9mE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -13,12 +13,14 @@ feature_v2:
     internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
     internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
     internal-label: Reporting
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
-source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 0%

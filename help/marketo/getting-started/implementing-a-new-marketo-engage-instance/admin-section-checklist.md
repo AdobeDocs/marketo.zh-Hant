@@ -3,36 +3,54 @@ description: 為您新的Marketo Engage執行個體設定「管理員」區段�
 title: 新執行個體最佳實務 — 管理員區段檢查清單
 feature: Getting Started
 exl-id: 4fa90a32-7e97-404c-90b1-90d05c2561d0
-TQID: https://experienceleague.adobe.com/9yNDZl4AGlgdf3FRLib3H7wVhKYTciLSXevJ0JTEFjQ
+TQID: 'https://experienceleague.adobe.com/9yNDZl4AGlgdf3FRLib3H7wVhKYTciLSXevJ0JTEFjQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
 subfeature_v2:
   - id: a572083b-9238-40c5-8a10-cf294c415aab
+    internal-label: marketing calendar
   - id: a8c137b3-8aa5-433e-bdc9-0a216c2a11c1
+    internal-label: Custom activities
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
   - id: cbccec41-b38b-4693-8acf-fed684dd06ba
+    internal-label: Sales Insight
   - id: de9e3aa9-f002-4fe1-897b-09ee3c55114b
+    internal-label: Sales Connect
   - id: e5d29014-8a81-4c0c-845b-2adc7a5d6258
+    internal-label: Campaign Inspector
   - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+    internal-label: Field management
   - id: fc9b09fe-b844-4544-887b-e420c3b82065
+    internal-label: Webhooks
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1125
+source-wordcount: '1125'
 ht-degree: 2%
-
 ---
-
 # 新執行個體最佳做法：管理員區段檢查清單 {#new-instance-best-practices-admin-section-checklist}
 
 身為新管理員，請套用以下檢查清單來協助引導您完成實作程式，以便瀏覽全新的Marketo Engage執行個體。 與所有這些指南一樣，您也可以[下載檢查清單](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx)並追蹤進度。

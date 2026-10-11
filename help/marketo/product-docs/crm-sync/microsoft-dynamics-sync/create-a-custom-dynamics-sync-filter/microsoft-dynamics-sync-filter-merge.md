@@ -4,16 +4,21 @@ description: 瞭解合併潛在客戶時Dynamics同步篩選器的運作方式�
 title: Microsoft Dynamics同步篩選器 — 合併
 exl-id: f8da9c3c-0f04-4f61-be03-7e7953d25afe
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/wxPBvOQk4SW8gocZOGfagAMAG4OH9ghTqhh0lVRGI-U
+TQID: 'https://experienceleague.adobe.com/wxPBvOQk4SW8gocZOGfagAMAG4OH9ghTqhh0lVRGI-U'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 176
+source-wordcount: '176'
 ht-degree: 0%
-
 ---
-
 # [!DNL Microsoft] Dynamics同步篩選器：合併 {#microsoft-dynamics-sync-filter-merge}
 
 在[!DNL Microsoft Dynamics]中合併銷售機會使用兩個選項型別 — 同步篩選器=是(TRUE)和同步篩選器=否(FALSE)。 合併兩個記錄時，結果會因記錄為True和記錄為False而有所不同。

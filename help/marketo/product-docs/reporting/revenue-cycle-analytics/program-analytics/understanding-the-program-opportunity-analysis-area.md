@@ -4,13 +4,19 @@ description: 瞭解如何瞭解Marketo Engage中的方案機會分析區域，�
 title: 了解方案機會分析區域
 exl-id: 6105df93-b3de-4929-85e3-fd328372bd24
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: e9ef2843fb7e700f1d9d1fd1f04a27fe2f6e516e
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '923'
 ht-degree: 1%
-
 ---
-
 # 了解方案機會分析區域 {#understanding-the-program-opportunity-analysis-area}
 
 ## 概觀 {#overview}

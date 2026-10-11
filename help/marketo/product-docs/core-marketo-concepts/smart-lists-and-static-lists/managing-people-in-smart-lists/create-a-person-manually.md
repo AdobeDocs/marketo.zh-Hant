@@ -4,14 +4,19 @@ description: 瞭解如何在資料庫中手動建立人員。 使用電子郵件
 title: 手動建立人員
 exl-id: 6fbbd240-239b-461e-a046-968e0f0d150e
 feature: Smart Lists
-TQID: https://experienceleague.adobe.com/MbEBE0fLA0Idw-vJUgaw5x9qZNN3hMsv2zSP2vAEIng
+TQID: 'https://experienceleague.adobe.com/MbEBE0fLA0Idw-vJUgaw5x9qZNN3hMsv2zSP2vAEIng'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
     internal-label: Database
-source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 11%

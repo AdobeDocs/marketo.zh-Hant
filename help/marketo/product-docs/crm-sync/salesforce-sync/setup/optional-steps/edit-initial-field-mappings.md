@@ -4,16 +4,21 @@ description: 瞭解如何在首次Salesforce同步之前編輯初始欄位對應
 title: 編輯初始欄位對應
 exl-id: 320613d1-3845-4e05-a704-0db0f8027dc8
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/wqBJIxz5JX1iHb-iE2NuhrbWcUypLEN3dndu36kJNXs
+TQID: 'https://experienceleague.adobe.com/wqBJIxz5JX1iHb-iE2NuhrbWcUypLEN3dndu36kJNXs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 278
+source-wordcount: '278'
 ht-degree: 3%
-
 ---
-
 # 編輯初始欄位對應 {#edit-initial-field-mappings}
 
 >[!NOTE]

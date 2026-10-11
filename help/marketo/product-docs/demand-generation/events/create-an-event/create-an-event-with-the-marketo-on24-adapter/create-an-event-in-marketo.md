@@ -4,20 +4,23 @@ description: 瞭解如何在Marketo中建立事件以進行ON24整合。 設定�
 title: 在 Marketo 中建立事件
 exl-id: c55116b7-dd65-439f-b7d4-63892fb940cb
 feature: Events
-TQID: https://experienceleague.adobe.com/oxdCpxlU0lzbWlmAysXgCZs8bA-p8ufu-gAmWs9uHC4
+TQID: 'https://experienceleague.adobe.com/oxdCpxlU0lzbWlmAysXgCZs8bA-p8ufu-gAmWs9uHC4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 151
+source-wordcount: '151'
 ht-degree: 6%
-
 ---
-
 # 在 Marketo 中建立事件 {#create-an-event-in-marketo}
 
 Marketo事件會追蹤您的人員透過方案的進度。 它會使用ON24介面卡推送註冊資訊和提取出勤資訊。 事件會擷取您人員在過程中進行處理的狀態。

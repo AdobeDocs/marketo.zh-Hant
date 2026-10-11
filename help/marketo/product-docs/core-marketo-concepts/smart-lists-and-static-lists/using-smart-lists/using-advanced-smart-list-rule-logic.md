@@ -4,16 +4,21 @@ description: 瞭解如何使用進階智慧清單規則邏輯。 針對複雜的
 title: 使用進階智慧清單規則邏輯
 exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
 feature: Smart Lists
-TQID: https://experienceleague.adobe.com/fApf1UB9N8aT8Eqi8oibEnWYiNjET-QcWYTvCfgJHgs
+TQID: 'https://experienceleague.adobe.com/fApf1UB9N8aT8Eqi8oibEnWYiNjET-QcWYTvCfgJHgs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 302
+source-wordcount: '302'
 ht-degree: 3%
-
 ---
-
 # 使用進階智慧清單規則邏輯 {#using-advanced-smart-list-rule-logic}
 
 您可以將「智慧列示」規則邏輯套用至智慧列示內的多個篩選器，以找到您所需的確切人員。

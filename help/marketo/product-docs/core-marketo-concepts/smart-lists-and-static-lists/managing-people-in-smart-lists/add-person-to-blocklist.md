@@ -4,14 +4,19 @@ description: 瞭解如何將個人新增至封鎖清單。 防止將電子郵件
 title: 將人員新增至封鎖清單
 exl-id: e4543bf9-11e9-42df-a31e-e2cebe24ad4a
 feature: Smart Lists
-TQID: https://experienceleague.adobe.com/wB-xUIHId0Hio0JwB1-yQK-nv52I3oH6NbvZX2FTZ6s
+TQID: 'https://experienceleague.adobe.com/wB-xUIHId0Hio0JwB1-yQK-nv52I3oH6NbvZX2FTZ6s'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
     internal-label: Programs
-source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 9%

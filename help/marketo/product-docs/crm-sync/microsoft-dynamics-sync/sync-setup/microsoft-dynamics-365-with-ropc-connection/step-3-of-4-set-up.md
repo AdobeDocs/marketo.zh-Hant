@@ -3,16 +3,21 @@ description: 瞭解如何在Microsoft Dynamics上設定使用者端應用程式�
 title: 步驟4之3 — 在MS [!DNL Dynamics]上設定使用者端應用程式
 exl-id: e7897174-3303-4c3b-8832-3e10f34fca96
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/-zVs1Dq2fO4u055kIx9i77YLTyhplheh6153JYZnmp4
+TQID: 'https://experienceleague.adobe.com/-zVs1Dq2fO4u055kIx9i77YLTyhplheh6153JYZnmp4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 374
+source-wordcount: '374'
 ht-degree: 0%
-
 ---
-
 # 步驟4之3：在MS [!DNL Dynamics]上設定使用者端應用程式 {#step-3-of-4-set-up-client-app-ms-dynamics-ropc}
 
 >[!PREREQUISITES]

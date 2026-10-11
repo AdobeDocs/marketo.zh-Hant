@@ -4,20 +4,23 @@ description: 瞭解如何使用預測性內容活動為豐富媒體、建議列�
 title: 針對預測內容活動定義智慧清單
 exl-id: 2c72b215-8c0b-48b4-8492-8e3fe832fae9
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/NX57nK4saXA9cBIvRvnmRneaCtcz45B4ta8ZcBp6F4k
+TQID: 'https://experienceleague.adobe.com/NX57nK4saXA9cBIvRvnmRneaCtcz45B4ta8ZcBp6F4k'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 306
+source-wordcount: '306'
 ht-degree: 5%
-
 ---
-
 # 針對預測內容活動定義智慧清單 {#define-a-smart-list-for-predictive-content-activities}
 
 當您在智慧行銷活動中定義智慧清單時，可以在觸發器和篩選器中使用預測性內容活動。 任何透過[Rich Media範本](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)、[內容建議列](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)或[電子郵件](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md)按一下預測性內容的人，都可以觸發動作。

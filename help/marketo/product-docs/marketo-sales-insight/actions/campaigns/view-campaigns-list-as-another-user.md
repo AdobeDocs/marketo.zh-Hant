@@ -3,16 +3,18 @@ description: 瞭解當您是管理員時，如何以其他使用者的身分檢�
 title: 以其他使用者的身分檢視行銷活動清單
 exl-id: 6a196618-fe34-4770-b405-289f886eb389
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/5QyodCKCmgH4o5-5yG9QPZ8N-m3tTozTjKEp7poGaUI
+TQID: 'https://experienceleague.adobe.com/5QyodCKCmgH4o5-5yG9QPZ8N-m3tTozTjKEp7poGaUI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 95
+source-wordcount: '95'
 ht-degree: 15%
-
 ---
-
 # 以其他使用者的身分檢視行銷活動清單 {#view-campaigns-list-as-another-user}
 
 身為管理員，您可以以任何使用者的身分檢視行銷活動。

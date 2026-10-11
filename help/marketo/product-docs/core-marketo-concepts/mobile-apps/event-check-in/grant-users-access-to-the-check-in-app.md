@@ -4,18 +4,20 @@ description: 瞭解如何授與使用者事件簽入應用程式的存取權。 
 title: 授予使用者存取簽到應用程式的權限
 exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/GKLCTK-Wc-rwTfbcNIEzferpYBJDvpKjelUm5-89WIU
+TQID: 'https://experienceleague.adobe.com/GKLCTK-Wc-rwTfbcNIEzferpYBJDvpKjelUm5-89WIU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 290
+source-wordcount: '290'
 ht-degree: 8%
-
 ---
-
 # 授予使用者存取簽到應用程式的權限 {#grant-users-access-to-the-check-in-app}
 
 Marketo Engage對事件簽入應用程式具有特殊使用者角色。 請依照下列步驟，建立具有使用應用程式許可權的新角色。

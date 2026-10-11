@@ -3,7 +3,7 @@ description: 瞭解Dynamic Chat中的Generative AI，瞭解代理程式生產力
 title: Dynamic Chat中的Generative AI
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-TQID: https://experienceleague.adobe.com/Q5f-5suH6XCiuGhqnyPEu1hjWbtIXBaLOoz5VX7gC6o
+TQID: 'https://experienceleague.adobe.com/Q5f-5suH6XCiuGhqnyPEu1hjWbtIXBaLOoz5VX7gC6o'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -12,10 +12,15 @@ feature_v2:
     internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
     internal-label: Database
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '472'
 ht-degree: 4%

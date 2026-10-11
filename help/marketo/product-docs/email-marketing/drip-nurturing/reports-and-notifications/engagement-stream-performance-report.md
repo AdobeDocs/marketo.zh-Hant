@@ -4,21 +4,28 @@ description: 瞭解如何建立和執行參與資料流績效報表。 依程式
 title: 參與資料流效能報告
 exl-id: e838fcd8-0fe3-4e96-b453-30b15b911ede
 feature: Engagement Programs, Reporting
-TQID: https://experienceleague.adobe.com/63c8ll4a9f8PleyGPDFDIKmXW9b9TsJ3pmqnorwKU2g
+TQID: 'https://experienceleague.adobe.com/63c8ll4a9f8PleyGPDFDIKmXW9b9TsJ3pmqnorwKU2g'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: fc5011cf-5b46-40b1-a5de-d7f042f85633
+    internal-label: Engagement programs
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Reporting
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 150
+source-wordcount: '150'
 ht-degree: 6%
-
 ---
-
 # 參與資料流效能報告 {#engagement-stream-performance-report}
 
 想要瞭解您的參與內容表現如何？ 嘗試參與串流績效報表。

@@ -4,26 +4,36 @@ description: 瞭解參與串流中的巢狀方案以及何時使用。 新增子
 title: 新增方案至參與方案資料流
 exl-id: 44c2ce45-439b-4b29-8130-8cc218e04bbf
 feature: Engagement Programs
-TQID: https://experienceleague.adobe.com/kI2v6drF78DnJhhEbgeVSi4TYbF5rExY2wgR0aAK-bI
+TQID: 'https://experienceleague.adobe.com/kI2v6drF78DnJhhEbgeVSi4TYbF5rExY2wgR0aAK-bI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
 subfeature_v2:
   - id: ad89fb33-8541-4339-afe7-bb13d1633714
+    internal-label: Flow Step
+  - id: fc5011cf-5b46-40b1-a5de-d7f042f85633
+    internal-label: Engagement programs
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Reporting
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 471
+source-wordcount: '471'
 ht-degree: 4%
-
 ---
-
 # 新增方案至參與方案資料流 {#adding-a-program-to-an-engagement-program-stream}
 
 ## 為什麼在參與方案流中使用巢狀方案？ {#why-use-a-nested-program-in-an-engagement-program-stream}

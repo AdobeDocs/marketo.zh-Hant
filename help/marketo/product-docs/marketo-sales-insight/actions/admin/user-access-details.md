@@ -3,19 +3,22 @@ description: 瞭解管理員與非管理員在銷售Insight動作中可以存取
 title: 使用者存取權詳細資料
 exl-id: 20e19848-fc46-4f12-af8a-3fa2b88e1af4
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/cW6bqn-RNZOKcqbcoKCsDVRUwrOIxeXTFrknaXBtGAc
+TQID: 'https://experienceleague.adobe.com/cW6bqn-RNZOKcqbcoKCsDVRUwrOIxeXTFrknaXBtGAc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 216
+source-wordcount: '216'
 ht-degree: 2%
-
 ---
-
 # 使用者存取權詳細資料 {#user-access-details}
 
 管理員與非管理員可以存取什麼？
@@ -48,24 +51,24 @@ ht-degree: 2%
 
 * Analytics：
 
-   * 使用者可以檢視團隊分析
-   * 使用者可以鑽研至他們所屬的團隊
-   * 使用者可以檢視自己的分析
+  * 使用者可以檢視團隊分析
+  * 使用者可以鑽研至他們所屬的團隊
+  * 使用者可以檢視自己的分析
 
 * [!UICONTROL People]頁：
 
-   * 使用者可與所有人共用群組
-   * 使用者可以只與他們所屬的團隊共用群組
-   * 使用者可以看到您的Actions資料庫中的所有人員
-   * 刪除使用者時，其共用連絡人會將擁有權轉移給刪除該使用者的主要管理員
+  * 使用者可與所有人共用群組
+  * 使用者可以只與他們所屬的團隊共用群組
+  * 使用者可以看到您的Actions資料庫中的所有人員
+  * 刪除使用者時，其共用連絡人會將擁有權轉移給刪除該使用者的主要管理員
 
 * [!UICONTROL Team]管理頁面：
 
-   * 無法檢視
+  * 無法檢視
 
 * [!UICONTROL Templates]頁：
 
-   * 使用者可與所有人共用範本
-   * 使用者可以共用其管理員允許的類別中的範本
-   * 將使用者從團隊中移除時，其範本將取消與該團隊共用
-   * 從團隊中刪除使用者時，其範本會將所有權轉移給刪除該使用者的主要管理員
+  * 使用者可與所有人共用範本
+  * 使用者可以共用其管理員允許的類別中的範本
+  * 將使用者從團隊中移除時，其範本將取消與該團隊共用
+  * 從團隊中刪除使用者時，其範本會將所有權轉移給刪除該使用者的主要管理員

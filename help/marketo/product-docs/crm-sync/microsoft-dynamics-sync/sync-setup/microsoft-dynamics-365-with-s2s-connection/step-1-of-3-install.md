@@ -3,16 +3,21 @@ description: 瞭解如何在Dynamics 365中透過伺服器對伺服器連線安�
 title: 步驟3之1 — 安裝具有伺服器對伺服器連線的Marketo解決方案
 exl-id: bf6f87c1-5ba5-490b-bcce-365120af3730
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/Zxz0uXhcLankhjuBt-n5T-kAuPxiSR--Jka2uybXqi4
+TQID: 'https://experienceleague.adobe.com/Zxz0uXhcLankhjuBt-n5T-kAuPxiSR--Jka2uybXqi4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 244
+source-wordcount: '244'
 ht-degree: 3%
-
 ---
-
 # 步驟3之1：安裝具有伺服器對伺服器連線的Marketo解決方案 {#step-1-of-3-install-the-marketo-solution-s2s}
 
 在同步處理[!DNL Microsoft Dynamics 365]與Marketo之前，您必須先在[!DNL Dynamics]中安裝Marketo解決方案。**[!DNL Dynamics]需要管理員許可權。**

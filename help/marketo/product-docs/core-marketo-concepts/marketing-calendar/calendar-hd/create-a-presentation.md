@@ -4,16 +4,21 @@ description: 瞭解如何在HDTV上建立專案檢視的行銷行事曆簡報。
 title: 建立簡報
 exl-id: 3a591c03-2604-44be-b335-2258151beaeb
 feature: Marketing Calendar
-TQID: https://experienceleague.adobe.com/r9VP69sXaGanXpwEJjzsWRcnAVz100cLCgzqSrvxwYw
+TQID: 'https://experienceleague.adobe.com/r9VP69sXaGanXpwEJjzsWRcnAVz100cLCgzqSrvxwYw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+subfeature_v2:
+  - id: a572083b-9238-40c5-8a10-cf294c415aab
+    internal-label: marketing calendar
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 94
+source-wordcount: '94'
 ht-degree: 7%
-
 ---
-
 # 建立簡報 {#create-a-presentation}
 
 建立簡報，在HDTV上投影您團隊的行事曆檢視和目標。 簡報是Workspace專屬的。

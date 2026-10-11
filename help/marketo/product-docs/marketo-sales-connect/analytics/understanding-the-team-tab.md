@@ -4,16 +4,18 @@ description: 瞭解Sales Connect中的「團隊」標籤和團隊範圍量度。
 title: 瞭解[!UICONTROL Team]標籤
 exl-id: 07084711-b387-4688-bcf0-fd054acb8366
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/Z3EoI8BoNSwmJKCKz-dP8ml8PaTFBTfWYgT8VqwYB0c
+TQID: 'https://experienceleague.adobe.com/Z3EoI8BoNSwmJKCKz-dP8ml8PaTFBTfWYgT8VqwYB0c'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 152
+source-wordcount: '152'
 ht-degree: 0%
-
 ---
-
 # 瞭解[!UICONTROL Team]標籤 {#understanding-the-team-tab}
 
 在[!UICONTROL Team]索引標籤中，我們會強調三個重要量度。

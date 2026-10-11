@@ -3,16 +3,18 @@ description: 瞭解銷售Insight動作中的來電原因。 設定進行呼叫�
 title: 通話原因
 exl-id: 82533d6b-a373-49c7-9cee-271e36916111
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/EYf6JhfnBf-Xk6JeRQs4ojd-F-H3C4iT8DbgFfuyrSk
+TQID: 'https://experienceleague.adobe.com/EYf6JhfnBf-Xk6JeRQs4ojd-F-H3C4iT8DbgFfuyrSk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 181
+source-wordcount: '181'
 ht-degree: 2%
-
 ---
-
 # 通話原因 {#call-reasons}
 
 讓您的銷售團隊在致電時選取致電原因，讓您的團隊瞭解致電的原因。

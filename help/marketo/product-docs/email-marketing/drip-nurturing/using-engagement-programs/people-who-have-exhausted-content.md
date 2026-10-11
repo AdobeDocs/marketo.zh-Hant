@@ -4,18 +4,23 @@ description: 瞭解如何尋找已用盡所有串流內容的人。
 title: 內容已用盡的人員
 exl-id: d32dfbc0-cac9-4df9-a8f6-45ebdd4a9f79
 feature: Engagement Programs
-TQID: https://experienceleague.adobe.com/jtRKV09Yhwtwadw3sPB7CI7pqdhEw42ANU9MjoeC1Qk
+TQID: 'https://experienceleague.adobe.com/jtRKV09Yhwtwadw3sPB7CI7pqdhEw42ANU9MjoeC1Qk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: fc5011cf-5b46-40b1-a5de-d7f042f85633
+    internal-label: Engagement programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 169
+source-wordcount: '169'
 ht-degree: 7%
-
 ---
-
 # 內容已用盡的人員 {#people-who-have-exhausted-content}
 
 當使用者已收到資料流中的每一項內容時，就會用盡所有可能性，並等候閒置直到新增更多內容。 您可以找到在多種方式中「筋疲力盡」的人。

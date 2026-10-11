@@ -6,23 +6,31 @@ description: 瞭解如何使用Adobe Express在電子郵件Designer中編輯影�
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-TQID: https://experienceleague.adobe.com/67dASITuTPfA7ZDovhR9WKzpSAL3gm3jO98RO8qyAqg
+TQID: 'https://experienceleague.adobe.com/67dASITuTPfA7ZDovhR9WKzpSAL3gm3jO98RO8qyAqg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: f5c2a4bb-71ca-4d7e-8efd-442250e6ba48
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Content reuse
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 823
+source-wordcount: '823'
 ht-degree: 2%
-
 ---
-
 # 使用 Adobe Express 編輯影像 {#edit-images-with-adobe-express}
 
 Adobe Marketo Engage與Adobe Express原生整合，可讓您存取多種影像編輯工具。 您可以使用這些工具在Marketo Engage Design Studio中修改影像。 整合提供下列主要優點：

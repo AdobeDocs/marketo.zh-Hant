@@ -4,18 +4,23 @@ description: 瞭解如何使用流程步驟將人員同步至Microsoft Dynamics�
 title: 將人員同步至 Microsoft
 exl-id: cc6f1c03-ba74-418c-95d5-fb073a248379
 feature: Smart Campaigns, Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/MsSuD-phRt8OzuNxiQ-jZPtcRBtmfq2nE4ajRHU0eGY
+TQID: 'https://experienceleague.adobe.com/MsSuD-phRt8OzuNxiQ-jZPtcRBtmfq2nE4ajRHU0eGY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Smart Campaigns
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 85
+source-wordcount: '85'
 ht-degree: 11%
-
 ---
-
 # 將人員同步至 Microsoft {#sync-person-to-microsoft}
 
 此功能僅適用於將Marketo Engage與[!DNL Microsoft Dynamics]整合的使用者。

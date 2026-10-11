@@ -4,11 +4,14 @@ description: 瞭解如何在Sales Connect中設定自訂傳遞管道。 使用�
 title: 設定自訂傳遞管道
 exl-id: a31f7bfd-a4ee-4948-9bdc-b49d47054d40
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/3AyKPoZ-rxPE-6cpQQ4flbL23aILwkVpmnMQAUjQLmI
+TQID: 'https://experienceleague.adobe.com/3AyKPoZ-rxPE-6cpQQ4flbL23aILwkVpmnMQAUjQLmI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '371'
 ht-degree: 4%

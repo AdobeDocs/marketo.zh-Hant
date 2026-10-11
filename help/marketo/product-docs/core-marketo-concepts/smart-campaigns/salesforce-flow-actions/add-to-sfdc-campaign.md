@@ -4,19 +4,25 @@ description: 瞭解如何使用流程步驟將人員新增至Salesforce行銷活
 title: 新增至 SFDC 行銷活動
 exl-id: a5e14cc7-fd83-4a2c-aacb-e515669c9d21
 feature: Smart Campaigns, Salesforce Integration
-TQID: https://experienceleague.adobe.com/7fp6JSlxwdg0Yoniw9E4VvmRNvyaVyhwyOc10veDvR4
+TQID: 'https://experienceleague.adobe.com/7fp6JSlxwdg0Yoniw9E4VvmRNvyaVyhwyOc10veDvR4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 183
+source-wordcount: '183'
 ht-degree: 4%
-
 ---
-
 # 新增至 SFDC 行銷活動 {#add-to-sfdc-campaign}
 
 此流程步驟可用於Marketo Engage行銷活動，或作為單一流程步驟，在Salesforce行銷活動中將人員新增為銷售機會。 如果Salesforce中尚未存在潛在客戶，則會自動將其同步並新增至具有指定狀態的促銷活動。

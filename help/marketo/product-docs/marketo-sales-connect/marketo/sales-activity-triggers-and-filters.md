@@ -3,20 +3,23 @@ description: 瞭解Marketo中的銷售活動觸發器和篩選器。 使用Sales
 title: 銷售活動觸發程序和篩選器
 exl-id: 750abb73-8217-4739-8a08-1eb0f6e2976c
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/jMGsG2PRWflwpMBYOy9ofq-6sBYxyuyl5eI3HJ6q0Cc
+TQID: 'https://experienceleague.adobe.com/jMGsG2PRWflwpMBYOy9ofq-6sBYxyuyl5eI3HJ6q0Cc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 125
+source-wordcount: '125'
 ht-degree: 8%
-
 ---
-
 # 銷售活動觸發程序和篩選器 {#sales-activity-triggers-and-filters}
 
 如果您想要更妥善地協調與銷售團隊的互動，或嘗試更清楚瞭解客戶在整個購買歷程中的互動情況，Marketo中的銷售活動深入分析將十分實用。

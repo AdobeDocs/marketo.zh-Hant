@@ -4,16 +4,21 @@ description: 瞭解如何建立電子郵件的行事曆事件(.ics)檔案。 新
 title: 建立行事曆事件 (.ics) 檔案
 exl-id: 17b5d99d-94ce-4122-8928-4290cc253d11
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/aFIknZh6lYrZKFnwmzk57wduoMMTly6xkNsysOWzahQ
+TQID: 'https://experienceleague.adobe.com/aFIknZh6lYrZKFnwmzk57wduoMMTly6xkNsysOWzahQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 99
+source-wordcount: '99'
 ht-degree: 12%
-
 ---
-
 # 建立行事曆事件 (.ics) 檔案 {#create-a-calendar-event-ics-file}
 
 行事曆檔案Token可讓您將行事曆事件(.ics)連結新增到您的Marketo電子郵件和登入頁面。

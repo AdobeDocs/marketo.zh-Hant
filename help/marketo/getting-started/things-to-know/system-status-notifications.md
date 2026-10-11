@@ -3,13 +3,17 @@ description: 訂閱系統狀態通知 — Marketo Engage檔案 — 產品檔案
 title: 訂閱系統狀態通知
 feature: Getting Started
 exl-id: f4404a26-3b86-4dc7-8ecb-52a24fdb09b4
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '360'
 ht-degree: 1%
-
 ---
-
 # 訂閱系統狀態通知 {#subscribe-to-system-status-notifications}
 
 瞭解如何訂閱不同的狀態通知，以掌握目前問題的最新消息。

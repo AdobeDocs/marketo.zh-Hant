@@ -3,18 +3,20 @@ description: 瞭解如何建立SMS訊息。 在編輯器中新增文字、代號
 title: 建立簡訊訊息
 feature: Mobile Marketing
 exl-id: 94749ea4-2fe3-4d90-9b31-35700ddd1670
-TQID: https://experienceleague.adobe.com/UOlEOmAlmr52sbQ3yz2Rmh-9HEHObY5D9ncB1CmD0ro
+TQID: 'https://experienceleague.adobe.com/UOlEOmAlmr52sbQ3yz2Rmh-9HEHObY5D9ncB1CmD0ro'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 497
-ht-degree: 0%
-
+source-wordcount: '497'
+ht-degree: 2%
 ---
-
 # 建立簡訊訊息 {#create-an-sms-message}
 
 以下說明如何建立SMS訊息。
@@ -27,7 +29,7 @@ ht-degree: 0%
 >
 >[將Vibes新增為LaunchPoint Service](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"}
 
-1. 移至&#x200B;**[!UICONTROL Marketing Activities]**。
+1. 前往 **[!UICONTROL Marketing Activities]**。
 
    ![](assets/create-an-sms-message-1.png)
 
@@ -71,7 +73,7 @@ ht-degree: 0%
 
    ![](assets/create-an-sms-message-8.png)
 
-1. 選取連結型別。 預設值為「Marketo登陸頁面」。 如果您這麼做，請按一下「著陸頁面」下拉式清單，然後選取所需頁面。 完成時，按一下&#x200B;**插入**。
+1. 選取連結類型。 預設值為「Marketo登陸頁面」。 如果您這麼做，請按一下「著陸頁面」下拉式清單，然後選取所需頁面。 完成時，按一下&#x200B;**插入**。
 
    ![](assets/create-an-sms-message-9.png)
 

@@ -4,21 +4,28 @@ description: 透過管理員使用者和角色檢視誰已登入您的訂閱以�
 title: 使用者登入歷史記錄
 exl-id: 4ae3f755-28af-48b5-abe1-377c6952d00a
 feature: Audit Trail
-TQID: https://experienceleague.adobe.com/2fMWo9jb03Tzv1k5T6nBSZ5T8DKJw8W4ED3Fv9k348w
+TQID: 'https://experienceleague.adobe.com/2fMWo9jb03Tzv1k5T6nBSZ5T8DKJw8W4ED3Fv9k348w'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: f7d2c504-7d5f-4a94-b77e-7fce7ef46c22
+    internal-label: Audit trail
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 181
+source-wordcount: '181'
 ht-degree: 8%
-
 ---
-
 # 使用者登入歷史記錄 {#user-login-history}
 
 「使用者登入歷史記錄」會向您顯示登入訂閱的確切人員，包括失敗的登入嘗試，協助您維護責任和安全性。

@@ -3,13 +3,17 @@ description: 繼承例項Design Studio檢查清單 — Marketo檔案 — 產品�
 title: 繼承的執行個體Design Studio檢查清單
 feature: Getting Started
 exl-id: 41e89120-4ac0-4e70-bed0-da4e5c5542ff
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: '602'
+source-wordcount: '656'
 ht-degree: 3%
-
 ---
-
 # 繼承的執行個體：Design Studio 檢查清單 {#inherited-instance-design-studio-checklist}
 
 建構範本和建立全域表單、代碼片段以及影像和檔案，有助於將資料錯誤降至最低，並簡化程式建置的工作流程。 記得要[下載檢查清單](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx)並追蹤您的進度。

@@ -4,16 +4,18 @@ description: 瞭解Sales Connect中的Command Center。 在一個地方管理您
 title: 指揮中心概觀
 exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/hzr8OOsBDYhff0UJ-DqyaG6GGnfMePWeagHF78RbF7E
+TQID: 'https://experienceleague.adobe.com/hzr8OOsBDYhff0UJ-DqyaG6GGnfMePWeagHF78RbF7E'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 575
+source-wordcount: '575'
 ht-degree: 1%
-
 ---
-
 # 指揮中心概觀 {#command-center-overview}
 
 Commend Center是單一、統一的檢視畫面，可協助您找出下一步驟，同時確保不會有任何東西漏掉。

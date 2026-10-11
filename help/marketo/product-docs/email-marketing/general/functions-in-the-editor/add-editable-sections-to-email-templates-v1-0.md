@@ -4,18 +4,23 @@ description: 瞭解如何在v1.0中新增可編輯的區段至電子郵件範本
 title: 新增可編輯區段至電子郵件範本 v1.0
 exl-id: f397aa8e-0d0b-4007-91e1-9b9158bd6432
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/j2rwpy7Bq-HH3-mva5FkDb3kKH8cvlH2hMUp0ic7sno
+TQID: 'https://experienceleague.adobe.com/j2rwpy7Bq-HH3-mva5FkDb3kKH8cvlH2hMUp0ic7sno'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 111
+source-wordcount: '111'
 ht-degree: 13%
-
 ---
-
 # 新增可編輯區段至電子郵件範本 v1.0 {#add-editable-sections-to-email-templates-v1.0}
 
 如果您在電子郵件範本編輯器v1.0中建立範本，您可以將特殊的`<div>`放在任何區段周圍，使其可編輯。

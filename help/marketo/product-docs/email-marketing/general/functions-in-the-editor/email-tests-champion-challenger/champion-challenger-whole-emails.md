@@ -4,16 +4,21 @@ description: 瞭解如何使用整封電子郵件執行冠軍/挑戰者測試。
 title: 冠軍/挑戰者 — 整封電子郵件
 exl-id: fb95b412-5766-44a8-b250-aa5103a604bc
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/-XoBeMYaVcDqM1CvAe9Kl4UzUa-HCxOs3jTO9C68zSk
+TQID: 'https://experienceleague.adobe.com/-XoBeMYaVcDqM1CvAe9Kl4UzUa-HCxOs3jTO9C68zSk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 254
+source-wordcount: '254'
 ht-degree: 2%
-
 ---
-
 # 衛冕者/挑戰者：整封電子郵件 {#champion-challenger-whole-emails}
 
 相互測試整個電子郵件。 測試結束後，請傳送最佳執行者。

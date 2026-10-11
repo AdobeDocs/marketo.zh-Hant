@@ -3,21 +3,28 @@ description: 將欄位標示為敏感欄位，如此一來絕不會預先填入�
 title: 將欄位標記為敏感
 exl-id: 23af8344-4808-4f91-95e8-9c246153c8b3
 feature: Field Management
-TQID: https://experienceleague.adobe.com/Ts3cjXZCG6-ft-f3FZg8pNtyojYkQWO9LencamtP7Ds
+TQID: 'https://experienceleague.adobe.com/Ts3cjXZCG6-ft-f3FZg8pNtyojYkQWO9LencamtP7Ds'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+    internal-label: Field management
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 64
+source-wordcount: '64'
 ht-degree: 18%
-
 ---
-
 # 將欄位標記為敏感 {#mark-a-field-as-sensitive}
 
 身為Marketo管理員，您可以將特定欄位標示為「敏感」，絕不會預先填入表單中的值，藉此保護使用者的敏感資料。

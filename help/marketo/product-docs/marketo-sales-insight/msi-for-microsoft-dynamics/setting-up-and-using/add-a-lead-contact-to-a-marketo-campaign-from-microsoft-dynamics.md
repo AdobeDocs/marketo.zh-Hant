@@ -4,20 +4,23 @@ description: 瞭解如何從Microsoft Dynamics將潛在客戶或聯絡人新增�
 title: 從 Microsoft Dynamics 將商機/聯絡人新增至 Marketo 行銷活動
 exl-id: f74b2ade-dd2c-4e04-a6cf-4bc80db12d42
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/-Koxk8vu7pdKpmATjaqEUuzdmCuG1WjBSy-exSHO8n8
+TQID: 'https://experienceleague.adobe.com/-Koxk8vu7pdKpmATjaqEUuzdmCuG1WjBSy-exSHO8n8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 137
+source-wordcount: '137'
 ht-degree: 9%
-
 ---
-
 # 從[!DNL Microsoft Dynamics]新增銷售機會/連絡人至Marketo行銷活動 {#add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics}
 
 您可以在[!DNL Microsoft Dynamics]內直接將銷售機會/聯絡人快速輕鬆地新增至Marketo智慧行銷活動。 方法如下。

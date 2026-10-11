@@ -4,16 +4,25 @@ title: Dynamic Chat 發行說明
 feature: Release Information, Dynamic Chat
 hide: true
 exl-id: 0a7e5cc9-f2a6-4721-bbdc-661249a2e2b6
-TQID: https://experienceleague.adobe.com/96IN5RB3KNwgTetW-pfioXkeOY3e7Uu7OiOSVncJ3ug
+TQID: 'https://experienceleague.adobe.com/96IN5RB3KNwgTetW-pfioXkeOY3e7Uu7OiOSVncJ3ug'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 933
+source-wordcount: '933'
 ht-degree: 66%
-
 ---
-
 # Dynamic Chat 發行說明 {#dynamic-chat-release}
 
 Adobe Dynamic Chat 的版本發行採用持續傳遞的模式，提供擴充性更好的功能部署方式。 有時一個月內會發行多個版本，請您定期查看以獲得最新資訊。
@@ -30,11 +39,11 @@ Adobe Dynamic Chat 的版本發行採用持續傳遞的模式，提供擴充性�
 
 * **每個工作階段最多嘗試聯繫兩次**
 
-   * 系統會嘗試連線最多兩個代理程式（最多），但須嚴格遵循主要路由規則。
+  * 系統會嘗試連線最多兩個代理程式（最多），但須嚴格遵循主要路由規則。
 
-   * 如果代理程式可用但未回應（例如，拒絕或錯過聊天），系統會嘗試從相同集區連線到不同的代理程式。
+  * 如果代理程式可用但未回應（例如，拒絕或錯過聊天），系統會嘗試從相同集區連線到不同的代理程式。
 
-   * 唯有在初次分配期間未能找到符合條件之代理人時才會啟動備用邏輯 (例如循環配置)，而非在參與失敗後進行重試。
+  * 唯有在初次分配期間未能找到符合條件之代理人時才會啟動備用邏輯 (例如循環配置)，而非在參與失敗後進行重試。
 
 * **路由規則特定行為**
 
@@ -51,7 +60,7 @@ _&#x200B;**帳戶路由**&#x200B;_
 相反地，它也會：
 
 * 顯示對應代理程式的會議行事曆（若已啟用），或：
-* 退回到預設訊息 (最糟情況)。
+* 改為顯示預設訊息 (最糟情況)。
 
 只有當帳戶路由不符合資格（沒有相符的網域或代理程式）時，才會考量卡片層級路由規則（例如，團隊、自訂）。
 
@@ -83,7 +92,7 @@ _&#x200B;**訪客體驗流程**&#x200B;_
 
 系統會確認帳戶路由是否適用。
 
-* 若適用而且代理人有空，便會立即連接。
+* 若是，而且代理人有空，便會立即連接。
 
 * 若代理人不符合條件或沒有空，則會繼續執行卡片層級路由規則。
 
@@ -95,9 +104,9 @@ _&#x200B;**訪客體驗流程**&#x200B;_
 
 * 如果沒有參與成功，則會套用遞補邏輯：
 
-   * 日曆遞補（若已啟用）、
- — 或 — 
-   * 預設訊息。
+  * 日曆遞補（若已啟用）、
+     — 或 — 
+  * 預設訊息。
 
 唯有從主要路由規則中找不到符合條件之代理人時，才會考慮循環配置備用機制，而不是在個別代理人無法回應時。
 

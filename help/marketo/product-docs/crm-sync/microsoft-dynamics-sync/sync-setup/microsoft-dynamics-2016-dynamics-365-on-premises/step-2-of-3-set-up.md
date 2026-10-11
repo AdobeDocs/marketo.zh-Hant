@@ -1,22 +1,28 @@
 ---
 description: 瞭解如何為Dynamics 2016或Dynamics 365內部部署設定Marketo同步使用者。 在Dynamics中建立使用者並指派Marketo同步使用者角色。
-title: 為 [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365內部部署步驟2之3安裝Marketo
+title: 為[!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365內部部署步驟2之3安裝Marketo
 exl-id: c789b977-7ada-4f5d-8488-e1b58963f7e3
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/A6gmYJUKmRW0Csy3F7RiWfLZylIi-bbApWYVT2J1rFk
+TQID: 'https://experienceleague.adobe.com/A6gmYJUKmRW0Csy3F7RiWfLZylIi-bbApWYVT2J1rFk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 493
+source-wordcount: '494'
 ht-degree: 1%
-
 ---
-
 # 步驟3之2為[!DNL Dynamics]設定Marketo （2016內部部署/[!DNL Dynamics] 365內部部署）{#step-of-set-up-for-marketo-on-premises-2016}
 
 先前&#39;b5&#39;7b驟已完成。

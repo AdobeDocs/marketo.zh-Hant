@@ -1,28 +1,31 @@
 ---
 unique-page-id: 2949716
 description: 瞭解如何使用適用於Outlook的Marketo電子郵件增益集來傳送及追蹤電子郵件。 從Outlook撰寫並檢視檢視、點按和回覆。
-title: 使用 [!DNL Outlook]的電子郵件增益集傳送及追蹤電子郵件
+title: 使用[!DNL Outlook]的電子郵件增益集傳送及追蹤電子郵件
 exl-id: 81c2ce86-1528-48ad-8848-ee5a828f9ff7
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/WvLQCUhBt1q0E8TzyMCIMYe7gv5z0kNhcKCjE-yTCyo
+TQID: 'https://experienceleague.adobe.com/WvLQCUhBt1q0E8TzyMCIMYe7gv5z0kNhcKCjE-yTCyo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 294
+source-wordcount: '294'
 ht-degree: 0%
-
 ---
-
 # 使用[!DNL Outlook]的電子郵件增益集傳送及追蹤電子郵件 {#send-and-track-an-email-with-the-email-add-in-for-outlook}
 
 您可以直接從[!DNL Outlook]使用Marketo傳送及追蹤電子郵件。
 
 >[!PREREQUISITES]
 >
->如果尚未安裝，請為 [!DNL Outlook][&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)安裝Marketo電子郵件增益集。
+>如果尚未安裝，請為 [!DNL Outlook]&#x200B;[&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)安裝Marketo電子郵件增益集。
 
 >[!NOTE]
 >

@@ -4,16 +4,18 @@ description: 瞭解如何在Marketo時刻預覽電子郵件。 從行動應用�
 title: 預覽電子郵件
 exl-id: 10bcedbd-553f-4ba1-b1bd-1aad2890dbd4
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/ysItaSy-PuYs-J-gxKZRL6zSZrxgK6YXzCn29sSZN0k
+TQID: 'https://experienceleague.adobe.com/ysItaSy-PuYs-J-gxKZRL6zSZrxgK6YXzCn29sSZN0k'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 158
+source-wordcount: '158'
 ht-degree: 5%
-
 ---
-
 # 預覽電子郵件 {#previewing-an-email}
 
 以滑鼠右鍵按一下電子郵件卡片，在傳送前進行預覽。

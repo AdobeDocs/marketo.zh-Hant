@@ -1,19 +1,21 @@
 ---
 unique-page-id: 42762794
 description: 瞭解如何搭配Sales Connect在Salesforce Classic中使用大量動作。 一次將多個潛在客戶或聯絡人推送到Sales Connect。
-title: 在 [!DNL Salesforce] 傳統版中使用大量動作
+title: 在[!DNL Salesforce] Classic中使用大量動作
 exl-id: f676ba65-6bc9-41e5-aa70-0f10bceedab7
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/R1scHZzjKz282-t69ioZN-3lk-feuCEtoJM3Q4zcB-M
+TQID: 'https://experienceleague.adobe.com/R1scHZzjKz282-t69ioZN-3lk-feuCEtoJM3Q4zcB-M'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 341
+source-wordcount: '342'
 ht-degree: 0%
-
 ---
-
 # 在[!DNL Salesforce] Classic中使用大量動作 {#using-bulk-actions-in-salesforce-classic}
 
 瞭解如何執行大量動作，例如將銷售機會新增至行銷活動、傳送大量電子郵件，或將銷售機會從[!DNL Salesforce]推播至[!DNL Sales Connect]。
@@ -39,10 +41,10 @@ ht-degree: 0%
 1. 將會出現MSC電子郵件。 它包含下列功能：
 
    答： 「[!UICONTROL To]」欄位顯示「[!UICONTROL All Recipients]」 — 這與您在「潛在客戶清單檢視」中選擇的潛在客戶清單相對應
-b. 此清單會顯示在名為&quot;[!UICONTROL Bulk Compose]&quot;的左側面板上 — 您可以在此處新增/移除收件者
-c. 您可以選擇範本或建立您自己的電子郵件
-d. 您可以預覽將填入電子郵件中的動態欄位
-e. 您可以立即傳送電子郵件，也可以排程在稍後傳送
+   b. 此清單會顯示在名為&quot;[!UICONTROL Bulk Compose]&quot;的左側面板上 — 您可以在此處新增/移除收件者
+   c. 您可以選擇範本或建立您自己的電子郵件
+   d. 您可以預覽將填入電子郵件中的動態欄位
+   e. 您可以立即傳送電子郵件，也可以排程在稍後傳送
 
    ![](assets/three-4.png)
 

@@ -4,16 +4,21 @@ description: 瞭解如何使用檢視和目標自訂行銷行事曆簡報。 設
 title: 自訂簡報
 exl-id: c871afb9-9762-498d-b168-cfce4ef05736
 feature: Marketing Calendar
-TQID: https://experienceleague.adobe.com/DDmFzhg3-yRx3ktlHa5TICBSOmG6hlrANlH6tb7FGIY
+TQID: 'https://experienceleague.adobe.com/DDmFzhg3-yRx3ktlHa5TICBSOmG6hlrANlH6tb7FGIY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+subfeature_v2:
+  - id: a572083b-9238-40c5-8a10-cf294c415aab
+    internal-label: marketing calendar
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 273
+source-wordcount: '273'
 ht-degree: 2%
-
 ---
-
 # 自訂簡報 {#customize-a-presentation}
 
 設定您的行事曆簡報，以反映對您的團隊最重要的目標和活動。

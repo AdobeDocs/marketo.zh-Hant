@@ -1,19 +1,24 @@
 ---
 unique-page-id: 6849029
 description: 瞭解如何更新適用於Microsoft Dynamics的Marketo解決方案。 從「管理員」下載最新的解決方案，並從Dynamics中的現有版本匯入該解決方案。
-title: 更新 [!DNL Microsoft Dynamics]的Marketo解決方案
+title: 更新[!DNL Microsoft Dynamics]的Marketo解決方案
 exl-id: 76bd722a-f2bf-46df-84e2-827fbbee4ab2
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/Ki3gY009SRNEcyvy-J8EWxDxScI0q8mnkcSxycwuUSc
+TQID: 'https://experienceleague.adobe.com/Ki3gY009SRNEcyvy-J8EWxDxScI0q8mnkcSxycwuUSc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 169
+source-wordcount: '169'
 ht-degree: 5%
-
 ---
-
 # 更新[!DNL Microsoft Dynamics]的Marketo解決方案 {#update-the-marketo-solution-for-microsoft-dynamics}
 
 新的[!DNL Microsoft Dynamics]解決方案發行後，您可以從帳戶的[管理]區域下載更新。

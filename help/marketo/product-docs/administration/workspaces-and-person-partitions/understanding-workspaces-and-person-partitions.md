@@ -4,28 +4,40 @@ description: 瞭解工作區如何組織行銷資產，以及人員分割區如�
 title: 了解工作區和人員分割
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
 feature: Partitions, Workspaces
-TQID: https://experienceleague.adobe.com/Ex-WBSNYTFvevcwryuO4CzUsg79nOmjkVx4WMUx9nqA
+TQID: 'https://experienceleague.adobe.com/Ex-WBSNYTFvevcwryuO4CzUsg79nOmjkVx4WMUx9nqA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: b4e49ca2-9149-5443-90e6-11978bb87c2f
+    internal-label: Partitions
+  - id: fffc2f21-ba05-5d98-924c-16da987a5b69
+    internal-label: Workspaces
 subfeature_v2:
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 544
-ht-degree: 78%
-
+source-wordcount: '546'
+ht-degree: 75%
 ---
-
 # 了解工作區和人員分割 {#understanding-workspaces-and-person-partitions}
 
 ## 工作區 {#workspaces}
@@ -128,9 +140,9 @@ ht-degree: 78%
 
 您可以指派人員分割至下列設定中的[工作區](create-a-new-workspace.md)：
 
-* 一個工作區對一個人員分割 (1:1)
+* 一個工作區對一個人分割(1:1)
 * 一個工作區對多個人員分割 (1:x)
-* 多個工作區對一個人員分割 (x:1)
+* 將多個工作區分割為單一人員分割(x：1)
 
 >[!NOTE]
 >

@@ -1,13 +1,14 @@
 ---
 description: 當銷售電子郵件標示為垃圾訊息時，取得協助。 瞭解改善傳遞能力及避免垃圾郵件篩選器的原因和步驟。
 title: 電子郵件被標記為垃圾郵件
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 3%
-
 ---
-
 # 電子郵件被標記為垃圾郵件 {#email-marked-as-spam}
 
 作為一家公司，我們努力確保傳遞率維持在高水準。 儘管如此，還是有一些使用者行為和設定可能會觸發您傳送的電子郵件被路由到垃圾郵件資料夾。

@@ -4,13 +4,17 @@ title: 人員詳細資料視圖
 hide: true
 exl-id: 3d172daa-745d-44f9-8460-40866d0247a1
 feature: Sales Insight Actions
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '298'
-ht-degree: 3%
-
+ht-degree: 4%
 ---
-
 # 人員詳細資料視圖 {#person-detail-view}
 
 個人詳細資料檢視會提供您[!DNL Marketo Sales]帳戶中每個人的詳細個人檔案。
@@ -52,7 +56,7 @@ ht-degree: 3%
 
 * 新增或移除可在範本和行銷活動中當作動態欄位使用的自訂欄位
 
-**法規遵循**
+**合規性**
 
 * 文字
 

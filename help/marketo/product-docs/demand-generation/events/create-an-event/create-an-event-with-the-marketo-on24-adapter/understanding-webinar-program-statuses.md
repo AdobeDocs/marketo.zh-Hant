@@ -4,16 +4,18 @@ description: 瞭解ON24和Marketo整合中的網路研討會計畫狀態。 瞭�
 title: 了解網路研討會方案狀態
 exl-id: ef0b1b94-a612-4aa8-9b4a-aa7ef0e2abaa
 feature: Events
-TQID: https://experienceleague.adobe.com/7TgAEyZElmSgML0nz-FWdw-nTB9WJZMcM-X4PzFJLq4
+TQID: 'https://experienceleague.adobe.com/7TgAEyZElmSgML0nz-FWdw-nTB9WJZMcM-X4PzFJLq4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 426
+source-wordcount: '426'
 ht-degree: 1%
-
 ---
-
 # 了解網路研討會方案狀態 {#understanding-webinar-program-statuses}
 
 方案狀態代表個人作為事件成員所處理的不同事件狀態。 它們與管道型別相關聯。 Marketo有一個名為&#x200B;**網路研討會**&#x200B;的內建頻道型別。 狀態可用於批次和觸發行銷活動。

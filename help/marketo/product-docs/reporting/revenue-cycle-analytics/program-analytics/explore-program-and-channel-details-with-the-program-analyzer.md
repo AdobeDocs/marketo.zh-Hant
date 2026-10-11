@@ -4,13 +4,19 @@ description: 瞭解如何使用Marketo Engage中的計劃分析器探索計畫�
 title: 使用方案分析工具探索方案和管道詳細資料
 exl-id: 0d7133b6-648f-4549-ba8d-7f7abeb89a16
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 4%
-
 ---
-
 # 透過[!UICONTROL Program Analyzer]探索方案和管道詳細資料 {#explore-program-channel-details-with-the-program-analyzer}
 
 您可以在[!UICONTROL Program Analyzer]中檢視詳細的節目和頻道統計資料。 您也可以在Revenue Cycle Explorer中開啟它們。

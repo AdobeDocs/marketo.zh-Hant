@@ -3,13 +3,25 @@ description: 瞭解C2PA中繼資料如何自動附加至Marketo Engage中AI產�
 title: Marketo Engage中的C2PA中繼資料
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: 10781cbfd51019a2e4af346803a2e35ef40855d0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '715'
 ht-degree: 2%
-
 ---
-
 # Marketo Engage中的C2PA中繼資料
 
 圍繞創作AI透明度的新法律不斷湧現，Adobe正在努力滿足各個司法轄區的適用要求。 C2PA中繼資料是Adobe用來符合這些法律要求的來源工具。

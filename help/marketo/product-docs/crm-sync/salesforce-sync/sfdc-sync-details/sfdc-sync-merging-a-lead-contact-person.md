@@ -4,11 +4,17 @@ description: 瞭解Salesforce和Marketo中合併銷售機會、聯絡人和人�
 title: SFDC同步 — 合併銷售機會/聯絡人/人員
 exl-id: 0e755c80-27cd-4ba3-b540-d7918264c5f6
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/alPa6YMG0tgo08ruZAZlWhujV54iVcUMAAejXJbEQFw
+TQID: 'https://experienceleague.adobe.com/alPa6YMG0tgo08ruZAZlWhujV54iVcUMAAejXJbEQFw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: c8f30157ca645b020191f85a414cf66407b421bb
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 3%

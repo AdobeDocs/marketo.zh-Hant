@@ -3,16 +3,18 @@ description: 瞭解如何在命令中心使用進階搜尋來尋找電子郵件�
 title: 進階搜尋概觀
 exl-id: a7cf5078-1d24-4fc0-a82d-02f46f93893d
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/J-LNmjNNqY98t8gHi9-nRTds113phlyIb66MWyvJagk
+TQID: 'https://experienceleague.adobe.com/J-LNmjNNqY98t8gHi9-nRTds113phlyIb66MWyvJagk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 398
+source-wordcount: '398'
 ht-degree: 4%
-
 ---
-
 # 進階搜尋概觀 {#advanced-search-overview}
 
 透過使用進階搜尋來鎖定已檢視、按一下或回覆電子郵件的潛在客戶，您可以建立最常參與潛在客戶的目標清單。

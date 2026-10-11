@@ -4,16 +4,21 @@ description: 瞭解如何從清單或智慧清單將人員匯出至Excel。 下�
 title: 從清單或智慧清單將人員匯出至 Excel
 exl-id: d2a184e2-fb22-47f7-8368-747fa803233e
 feature: Smart Lists
-TQID: https://experienceleague.adobe.com/gr2GJ22r0Kf7RCRHLsW04WYHXrsqcGAC0itjkFScKOE
+TQID: 'https://experienceleague.adobe.com/gr2GJ22r0Kf7RCRHLsW04WYHXrsqcGAC0itjkFScKOE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 173
+source-wordcount: '173'
 ht-degree: 14%
-
 ---
-
 # 從清單或智慧清單將人員匯出至 Excel {#export-people-to-excel-from-a-list-or-smart-list}
 
 如果您需要Marketo外部的清單或智慧清單結果，可以匯出至Excel。

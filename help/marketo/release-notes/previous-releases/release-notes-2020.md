@@ -1,45 +1,76 @@
 ---
-title: "2020"
+title: '2020'
 description: 2020 - Marketo檔案 — 產品檔案
 feature: Release Information
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 subfeature_v2:
   - id: a8c137b3-8aa5-433e-bdc9-0a216c2a11c1
+    internal-label: Custom activities
   - id: d1956f52-ecfd-4e01-8941-47af238acb0d
+    internal-label: Help center
   - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
   - id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
+    internal-label: Custom objects
   - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+    internal-label: Field management
   - id: f7d2c504-7d5f-4a94-b77e-7fce7ef46c22
+    internal-label: Audit trail
   - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
   - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+    internal-label: Event programs
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: beb7a3c1-66ab-4786-b879-7621375b3c40
+    internal-label: Email marketing
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 4148
+source-wordcount: '4152'
 ht-degree: 1%
-
 ---
-
 # 2020
 
 ## 2020 年 1 月 {#january}
@@ -107,7 +138,7 @@ ht-degree: 1%
 >
 >* **ITP 2.1+ [!DNL Munchkin]更新**：由於[!DNL Safari]的Cookie原則有所變更，[!DNL Munchkin]在同一個網域上跨工作階段追蹤使用者的能力，將由ITP根據訪客使用的瀏覽器和瀏覽器版本，限製為1或7天。 為了解決這個問題，我們正在實作新的網站服務，以允許透過HTTP回應以Set-Cookie標頭設定Munchkin Cookie。 如需有關如何實作此新服務的詳細資訊，請參閱[這裡](https://nation.marketo.com/docs/DOC-7351)。
 
-**_產品發行網路研討會_** [於3月3日11:00AM PT / 2:00PM ET加入我們](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html)，參加我們產品團隊舉辦的即時網路研討會，並深入瞭解此發行版本包含的功能。
+**_產品發行網路研討會_** [於3月3日上午11:00點/下午2:00點（東部時間）加入我們](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html)，參加我們產品團隊舉辦的即時網路研討會，並深入瞭解此發行版本包含的功能。
 
 ## 2020 年 2 月 {#february}
 
@@ -157,7 +188,7 @@ ht-degree: 1%
 * **資產API「_method」引數**： 2020年9月後，資產API端點將不再接受於POST主體中使用「_method」傳遞查詢引數，以略過URI長度限制。 為因應需要此引數的請求，資產API的URI限制將從6KiB增加到65KiB，以便提交較長的請求URI。
 * **Internet Explorer支援淘汰**：從2020年7月31日推出的七月版開始，Internet Explorer將不再支援Marketo Engage使用者介面。
 
-**_產品發行網路研討會_** [於3月3日11:00AM PT / 2:00PM ET加入我們](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html)，參加我們產品團隊舉辦的即時網路研討會，並深入瞭解此發行版本包含的功能。
+**_產品發行網路研討會_** [於3月3日上午11:00點/下午2:00點（東部時間）加入我們](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html)，參加我們產品團隊舉辦的即時網路研討會，並深入瞭解此發行版本包含的功能。
 
 ## 2020 年 6 月 {#june}
 
@@ -187,7 +218,7 @@ ht-degree: 1%
 
 * **一般可用的新帳戶探索**
 
-   * 新帳戶探索是我們的帳戶設定檔功能的增強功能，可讓您根據由AI支援的理想客戶設定檔模型，為ABM策略探索全新目標帳戶。 檢視、選取和匯入建議的新帳戶，以及其以AI為基礎的配合和意圖資料指標。
+  * 新帳戶探索是我們的帳戶設定檔功能的增強功能，可讓您根據由AI支援的理想客戶設定檔模型，為ABM策略探索全新目標帳戶。 檢視、選取和匯入建議的新帳戶，以及其以AI為基礎的配合和意圖資料指標。
 
 <br> 
 

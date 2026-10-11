@@ -4,18 +4,23 @@ description: 瞭解如何在Marketo中建立參與計畫，用於電子郵件培
 title: 建立參與方案
 exl-id: 90f76d04-79cf-4fa1-999b-54d4ae34223f
 feature: Engagement Programs
-TQID: https://experienceleague.adobe.com/GpU-1BhLyA-LWGaSJZl6cHOzZsFyzylKkoxAuQefE78
+TQID: 'https://experienceleague.adobe.com/GpU-1BhLyA-LWGaSJZl6cHOzZsFyzylKkoxAuQefE78'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: fc5011cf-5b46-40b1-a5de-d7f042f85633
+    internal-label: Engagement programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 74
+source-wordcount: '74'
 ht-degree: 68%
-
 ---
-
 # 建立參與方案 {#create-an-engagement-program}
 
 您可以使用 Marketo 中的參與計畫，輕鬆完成電子郵件培養。

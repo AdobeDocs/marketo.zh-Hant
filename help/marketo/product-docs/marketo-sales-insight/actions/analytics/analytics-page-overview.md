@@ -3,18 +3,20 @@ description: 瞭解銷售Insight動作的Analytics標籤和電子郵件參與資
 title: 分析頁面概觀
 exl-id: b9f6210b-ac66-47c4-970a-31a0ff6fc216
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/vOLcxsTdvayDUx4kCRQmXZ-V-Kir-lR6ECPKeuiplJ0
+TQID: 'https://experienceleague.adobe.com/vOLcxsTdvayDUx4kCRQmXZ-V-Kir-lR6ECPKeuiplJ0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 392
+source-wordcount: '392'
 ht-degree: 1%
-
 ---
-
 # 分析頁面概觀 {#analytics-page-overview}
 
 Analytics索引標籤是您檢視有關電子郵件參與度資料的位置。 個別和團隊資料都會顯示。 管理員也可以在[!UICONTROL Me]標籤上依使用者篩選。

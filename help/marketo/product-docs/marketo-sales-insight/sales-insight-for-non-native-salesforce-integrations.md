@@ -1,27 +1,33 @@
 ---
 unique-page-id: 45417125
 description: 瞭解如何設定銷售Insight以進行非原生Salesforce整合。 設定Marketo透過自訂同步連線至Salesforce時的MSI。
-title: '[!DNL Sales Insight]非原生整合 [!DNL Salesforce] 整合'
+title: 非原生[!DNL Salesforce]整合的[!DNL Sales Insight]
 exl-id: a771ecdf-c610-44e4-9e93-7fdcc9d79f4b
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/RoXhGAxqBvub-s-QWYh3Vw0oy-WEv-MCoUL8QyI3otY
+TQID: 'https://experienceleague.adobe.com/RoXhGAxqBvub-s-QWYh3Vw0oy-WEv-MCoUL8QyI3otY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 subfeature_v2:
   - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1480
+source-wordcount: '1481'
 ht-degree: 1%
-
 ---
-
 # 非原生[!DNL Salesforce]整合的[!DNL Sales Insight] {#sales-insight-for-non-native-salesforce-integrations}
 
 如果您的Adobe Marketo Engage帳戶是透過自訂或非原生整合連線至[!DNL Salesforce]，請使用本文來設定[!DNL Sales Insight]。
@@ -273,4 +279,4 @@ ht-degree: 1%
 
    Lead REST API的檔案： [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/getLeadByIdUsingGET](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/getLeadByIdUsingGET){target="_blank"}。
 
-   正確使用外部欄位是成功非原生同步化的關鍵。 如果您在某些檢視中看不到資料，可能是因為某個欄位未正確同步。 例如，如果在檢視「帳戶」底下的MSI Widget時，沒有顯示潛在客戶的活動和有趣的時刻，則可能是潛在客戶的公司或帳戶未正確同步。 在指定外部欄位時對此潛在客戶執行GET要求，將協助您驗證該潛在客戶是否已正確同步。 此外，Marketo中外部銷售人員的電子郵件必須與Salesforce中該使用者的電子郵件相符。 如果電子郵件不符，資料可能不會顯示在Salesforce的Marketo標籤中。
+   正確使用外部欄位是成功非原生同步化的關鍵。 如果您在某些檢視中看不到資料，可能是因為某個欄位未正確同步。 例如，如果在檢視「帳戶」底下的MSI Widget時，沒有顯示潛在客戶的活動和有趣的時刻，則可能是潛在客戶的公司或帳戶未正確同步。 在指定外部欄位時執行此銷售機會的GET要求，可協助您確認該銷售機會是否已正確同步。 此外，Marketo中外部銷售人員的電子郵件必須與Salesforce中該使用者的電子郵件相符。 如果電子郵件不符，資料可能不會顯示在Salesforce的Marketo標籤中。

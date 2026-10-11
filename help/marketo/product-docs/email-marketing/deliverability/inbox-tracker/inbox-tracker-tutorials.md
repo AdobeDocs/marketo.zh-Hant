@@ -3,16 +3,21 @@ description: 瞭解用於測試和監控電子郵件傳遞能力的收件匣追�
 title: 收件匣追蹤器教學課程
 feature: Deliverability
 exl-id: 23e2875d-e0ee-45a7-a79a-caa0b7310e55
-TQID: https://experienceleague.adobe.com/OOmWMW8Fw1r8NsYMp2-GBIThxu-cLtk6WJk1GbVUwWc
+TQID: 'https://experienceleague.adobe.com/OOmWMW8Fw1r8NsYMp2-GBIThxu-cLtk6WJk1GbVUwWc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: be80ef53-082b-4612-a88f-dfce57d36b02
+    internal-label: Deliverability
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 309
+source-wordcount: '309'
 ht-degree: 2%
-
 ---
-
 # 收件匣追蹤器教學課程 {#inbox-tracker-tutorials}
 
 測試、監視和瞭解由Bird&#39;s （前身為MessageBird） Inbox Tracker平台提供支援的電子郵件傳遞工具的可傳遞性問題。 「收件匣追蹤器」是單一應用程式，結合您程式的智慧與電子郵件轉譯/收件匣測試的遠見，將您的電子郵件效能發揮到極致。

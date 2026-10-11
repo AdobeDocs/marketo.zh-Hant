@@ -4,20 +4,23 @@ description: 瞭解Marketo中的活動計畫。 瞭解結構、管道，以及�
 title: 了解事件方案
 exl-id: 7d62accd-ab2f-46f7-998e-9145c4c11cbc
 feature: Events
-TQID: https://experienceleague.adobe.com/-cuP1Bk1cjHUMnUM1ztxOgmmMgCLTCNW9JY9j17qVbE
+TQID: 'https://experienceleague.adobe.com/-cuP1Bk1cjHUMnUM1ztxOgmmMgCLTCNW9JY9j17qVbE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
 subfeature_v2:
   - id: ffdd6159-0e10-4a57-8021-94e93bab8183
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Event programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 109
+source-wordcount: '109'
 ht-degree: 8%
-
 ---
-
 # 了解事件方案 {#understanding-event-programs}
 
 >[!AVAILABILITY]

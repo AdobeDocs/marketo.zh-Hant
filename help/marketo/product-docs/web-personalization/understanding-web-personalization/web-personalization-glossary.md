@@ -4,21 +4,25 @@ description: 瞭解Marketo Engage中的網頁個人化字彙表，包括dnl網�
 title: 網頁個人化字彙表
 exl-id: 82f7aa62-0b5a-4d34-865c-aa77c1b0b0e7
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/dpI1btj5vzxsJzPdBgej7QwFJedLGu8125uj6kKn5Jg
+TQID: 'https://experienceleague.adobe.com/dpI1btj5vzxsJzPdBgej7QwFJedLGu8125uj6kKn5Jg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 268
+source-wordcount: '268'
 ht-degree: 22%
-
 ---
-
 # [!DNL Web Personalization]字彙表 {#web-personalization-glossary}
 
 對[!DNL Marketo Web Personalization]的世界和語言有一些深入分析。

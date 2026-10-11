@@ -4,16 +4,18 @@ description: 瞭解如何在Sales Connect中驗證您的電子郵件。 完成�
 title: 驗證您的電子郵件
 exl-id: 43aa286c-c7af-40c6-a9ea-7ab3c6544733
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/6dX26M2k3ZoRa7KLiopasn5Mb-7fqM-hVGtWb-hPvAg
+TQID: 'https://experienceleague.adobe.com/6dX26M2k3ZoRa7KLiopasn5Mb-7fqM-hVGtWb-hPvAg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 85
+source-wordcount: '85'
 ht-degree: 8%
-
 ---
-
 # 驗證您的電子郵件 {#verify-your-email}
 
 如果您有未驗證的電子郵件身分，請遵循以下步驟。

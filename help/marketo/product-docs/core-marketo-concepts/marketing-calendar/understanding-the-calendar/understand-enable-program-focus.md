@@ -4,18 +4,23 @@ description: 瞭解方案焦點讓您與行銷行事曆專案互動的方式。 
 title: 瞭解並啟用方案焦點
 exl-id: 90de3d93-d243-451d-8df3-5e2732919615
 feature: Marketing Calendar
-TQID: https://experienceleague.adobe.com/esiXCtVAOCkiFVxsuNhuJG6aYVkE0xdFIE5uHdNzGj0
+TQID: 'https://experienceleague.adobe.com/esiXCtVAOCkiFVxsuNhuJG6aYVkE0xdFIE5uHdNzGj0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+subfeature_v2:
+  - id: a572083b-9238-40c5-8a10-cf294c415aab
+    internal-label: marketing calendar
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 166
+source-wordcount: '166'
 ht-degree: 0%
-
 ---
-
 # 瞭解並啟用方案焦點 {#understand-enable-program-focus}
 
 「行銷行事曆」可讓您以鳥瞰的方式檢視事物，但也可進行一些互動。 您可以[建立](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"}、[編輯](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}、[刪除](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md){target="_blank"}和[確認](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md){target="_blank"}專案。 為了與專案互動，您必須先專注於方案。

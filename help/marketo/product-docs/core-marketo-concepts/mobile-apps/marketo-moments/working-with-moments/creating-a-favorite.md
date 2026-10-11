@@ -4,16 +4,18 @@ description: 瞭解如何在Marketo時刻中建立我的最愛。 在行動應�
 title: 建立我的最愛
 exl-id: 017ae477-02e2-42de-a1b0-1f9a215ef73b
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/UnLXdxg-sd0tgf02Ix-E9GfRE22gYulKcpabRJ79CqU
+TQID: 'https://experienceleague.adobe.com/UnLXdxg-sd0tgf02Ix-E9GfRE22gYulKcpabRJ79CqU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 119
+source-wordcount: '119'
 ht-degree: 6%
-
 ---
-
 # 建立我的最愛 {#creating-a-favorite}
 
 最愛一張卡片，方便日後參考。

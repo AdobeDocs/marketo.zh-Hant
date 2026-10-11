@@ -4,13 +4,19 @@ description: 瞭解Marketo Engage中的歸因範例1，包括歸因範例1歸因
 title: 歸因範例 1
 exl-id: 851cbad3-0f6d-4ea0-857f-8b15337c7540
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 4%
-
 ---
-
 # 歸因範例 1 {#attribution-example}
 
 請閱讀下列情境，並嘗試決定網格中應該包含的數字。

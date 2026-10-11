@@ -3,18 +3,21 @@ description: 瞭解如何設定ON24與Marketo的整合。 連線您的ON24帳戶
 title: 設定 ON24 與 Marketo 的整合
 exl-id: 395ffa37-b87d-4eb4-bf9f-72aa96dc819c
 feature: Events
-TQID: https://experienceleague.adobe.com/qIKnrBwavLmy7tBqPTLvz72AJNIiVRzoEKQtH0OVgWg
+TQID: 'https://experienceleague.adobe.com/qIKnrBwavLmy7tBqPTLvz72AJNIiVRzoEKQtH0OVgWg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 238
+source-wordcount: '238'
 ht-degree: 10%
-
 ---
-
 # 設定 ON24 與 Marketo 的整合{#set-up-the-on24-integration-with-marketo}
 
 請依照下列步驟設定您的ON24事件整合。

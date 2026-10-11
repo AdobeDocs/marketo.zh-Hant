@@ -4,18 +4,21 @@ description: 瞭解如何將Vibes新增為LaunchPoint服務。 在「管理員�
 title: 將 Vibes 新增為 LaunchPoint 服務
 exl-id: 13f153c1-609e-4bee-a588-eb4665755acc
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/gEjUFyBWpi3na2ipKGw51TStNkZauQyhrRipUov1Fng
+TQID: 'https://experienceleague.adobe.com/gEjUFyBWpi3na2ipKGw51TStNkZauQyhrRipUov1Fng'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 176
+source-wordcount: '176'
 ht-degree: 9%
-
 ---
-
 # 將 Vibes 新增為 LaunchPoint 服務 {#add-vibes-as-a-launchpoint-service}
 
 您可以傳送SMS訊息給選擇加入您的Vibes SMS行銷活動的人員，利用SMS活動在Marketo Engage執行個體中原生觸發和篩選行銷活動。 首先，您需要將Vibes新增為LaunchPoint服務。

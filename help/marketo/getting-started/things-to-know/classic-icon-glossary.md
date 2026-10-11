@@ -3,23 +3,29 @@ description: 傳統圖示字彙表 — Marketo檔案 — 產品檔案
 title: Classic 圖示字彙表
 feature: Getting Started
 exl-id: 05706dc2-9e8b-4f10-89cf-996a69bc4816
-TQID: https://experienceleague.adobe.com/ILFVjCHYiyZvNKoI29b4Ahz9ypY0v1mWvLHhM5QbdkY
+TQID: 'https://experienceleague.adobe.com/ILFVjCHYiyZvNKoI29b4Ahz9ypY0v1mWvLHhM5QbdkY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 566
+source-wordcount: '566'
 ht-degree: 15%
-
 ---
-
 # Classic 圖示字彙表 {#classic-icon-glossary}
 
 以下是Marketo Classic介面的舊圖示。 目前的圖示字彙表可在[此處](/help/marketo/getting-started/things-to-know/icon-glossary.md){target="_blank"}找到。
@@ -361,7 +367,7 @@ ht-degree: 15%
   <tr>
    <td><img src="assets/image2015-1-9-14-3a42-3a29.png">
     </td>
-   <td>社群</td>
+   <td>社交</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-9-14-3a43-3a17.png">
@@ -627,7 +633,7 @@ ht-degree: 15%
   <tr>
    <td><img src="assets/image2015-1-14-13-3a8-3a40.png">
     </td>
-   <td>最新</td>
+   <td>新版</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-14-13-3a8-3a47.png">
@@ -744,7 +750,7 @@ ht-degree: 15%
   <tr>
    <td><img src="assets/image2015-1-5-14-3a27-3a2.png">
     </td>
-   <td>數量</td>
+   <td>數字</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-5-14-3a31-3a7.png">
@@ -881,7 +887,7 @@ ht-degree: 15%
   <tr>
    <td><img src="assets/image2015-1-14-13-3a9-3a33.png">
     </td>
-   <td>最新</td>
+   <td>新版</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-14-13-3a9-3a39.png">

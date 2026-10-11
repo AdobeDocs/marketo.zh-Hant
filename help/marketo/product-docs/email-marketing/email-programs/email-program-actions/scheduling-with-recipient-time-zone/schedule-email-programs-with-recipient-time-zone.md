@@ -4,21 +4,28 @@ description: 瞭解如何使用收件者時區排程電子郵件計畫。 設定
 title: 根據收件者時區安排電子郵件方案的時間
 exl-id: d0c3f3c1-9f21-4081-818d-7c5cb1766915
 feature: Email Programs
-TQID: https://experienceleague.adobe.com/1a1J6tugq8LVGm48lzdQ2YR7TSr8BbTQ1-oSXGUMtGo
+TQID: 'https://experienceleague.adobe.com/1a1J6tugq8LVGm48lzdQ2YR7TSr8BbTQ1-oSXGUMtGo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 807
+source-wordcount: '823'
 ht-degree: 1%
-
 ---
-
 # 根據收件者時區安排電子郵件方案的時間 {#schedule-email-programs-with-recipient-time-zone}
 
 在啟用收件者時區的情況下，排程電子郵件程式時有兩種可能的情況：
@@ -42,15 +49,15 @@ ht-degree: 1%
 >
 >**定義**
 >
->* **[!UICONTROL Deliver the following day in the recipient's time zone]**：如果電子郵件排定在星期二的9:00am發出，則已超過排定時間的時區的合格人員將在&#x200B;*星期三*&#x200B;的9:00am收到電子郵件。
+>* **[!UICONTROL Deliver the following day in the recipient's time zone]**：如果電子郵件排定在星期二上午9:00送出，則已超過排定時間的時區的合格人員將在&#x200B;*星期三*&#x200B;上午9:00收到電子郵件。
 >
->* **[!UICONTROL Deliver using the program's default set time]**：如果電子郵件排定在星期二9:00am發出，則已超過排定時間的時區的合格人員將會根據您的訂閱時區設定&#x200B;*收到電子郵件*。 因此，如果您的[訂閱時區設定](/help/marketo/product-docs/administration/settings/change-time-zone.md)設為PDT America/Los Angeles，這些收件者仍會在星期二的9:00am PDT收到電子郵件（無論時間是在他們自己的時區）。
+>* **[!UICONTROL Deliver using the program's default set time]**：如果電子郵件排定在星期二上午9:00送出，則位於排定時間已過的時區的合格人員將會根據您的訂閱時區設定&#x200B;*收到電子郵件*。 因此，如果您的[訂閱時區設定](/help/marketo/product-docs/administration/settings/change-time-zone.md)設為PDT美洲/洛杉磯，這些收件者仍會在星期二上午9:00收到電子郵件（無論時間是在他們自己的時區）。
 
 >[!NOTE]
 >
 >[深入瞭解](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md#calculating-time-zone)Marketo如何計算收件者的時區。
 
-讓我們更詳細地考慮此情境。 假設您住在舊金山，排程在7:00am傳送電子郵件給&#x200B;**9:00am**。 您的智慧清單中有來自下列區域的人員：
+讓我們更詳細地考慮此情境。 如果您在舊金山，排程在早上7:00傳送&#x200B;**早上9:00**&#x200B;的電子郵件。 您的智慧清單中有來自下列區域的人員：
 
 * 舊金山
 * 德克薩斯州
@@ -59,11 +66,11 @@ ht-degree: 1%
 
 ![](assets/image2017-12-6-10-3a52-3a41.png)
 
-9:00am已在紐約和義大利通過，因此這兩個時區的合格人員會根據&#x200B;**時區設定**&#x200B;接收電子郵件：
+紐約和義大利已經過了上午9:00，因此這兩個時區的合格人員會根據&#x200B;**時區設定**&#x200B;收到電子郵件：
 
-* **[!UICONTROL Deliver the following day in the recipient's time zone]：**&#x200B;星期三的9:00am （在各自的時區，**或**）
+* **[!UICONTROL Deliver the following day in the recipient's time zone]：**&#x200B;星期三上午9:00在各自的時區，**或**
 
-* **[!UICONTROL Deliver using the program's default set time]**：星期二的9:00am PDT （紐約 — 12:00pm EDT和義大利 — 6:00pm CET）。
+* **[!UICONTROL Deliver using the program's default set time]**：星期二上午9:00 PDT （紐約 — 下午12:00 EDT和義大利 — 下午6:00 CET）。
 
 核准程式後，它就會在15分鐘內開始執行。
 

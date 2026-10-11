@@ -4,20 +4,23 @@ description: 瞭解如何準備Marketo Sales Insight以在Salesforce中獲得多
 title: 讓銷售洞察在 Salesforce 中能夠提供多語言支援
 exl-id: b808fa91-accd-4e0c-8223-0717faccab10
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/OyeA8IbYicPJp56c6epuyFqr619J8sMQA4hmT--kry8
+TQID: 'https://experienceleague.adobe.com/OyeA8IbYicPJp56c6epuyFqr619J8sMQA4hmT--kry8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 216
+source-wordcount: '216'
 ht-degree: 12%
-
 ---
-
 # 讓銷售洞察在 Salesforce 中能夠提供多語言支援 {#prepare-sales-insight-for-multi-lingual-support-in-salesforce}
 
 >[!NOTE]

@@ -1,20 +1,25 @@
 ---
 description: 瞭解如何在最後的設定步驟中將Marketo Engage連結至Veeva CRM。 設定OAuth、確認認證及同步欄位以完成連線。
-title: 步驟3之3 — 連線Marketo Engage和 [!DNL Veeva] CRM
+title: 步驟3之3 — 連線Marketo Engage和[!DNL Veeva] CRM
 exl-id: aff91540-1d9d-448c-aae9-e6fa92a8ae01
 feature: Veeva CRM
-TQID: https://experienceleague.adobe.com/nIEl6amGFVi-n6BruezuUFDxAQj5f-BnKCQFPHGJsRw
+TQID: 'https://experienceleague.adobe.com/nIEl6amGFVi-n6BruezuUFDxAQj5f-BnKCQFPHGJsRw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+subfeature_v2:
+  - id: f141b8e0-5812-4581-b47d-7322a93e7f28
+    internal-label: Veeva CRM
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 319
+source-wordcount: '320'
 ht-degree: 2%
-
 ---
-
 # 步驟3之3：連線Marketo Engage和[!DNL Veeva] CRM {#step-3-of-3-connect-marketo-engage-and-veeva-crm}
 
 在本文中，您將設定Marketo Engage以與您設定的[!DNL Veeva] CRM執行個體同步。 **您會在部分快顯視窗中看到[!DNL Salesforce]**，因為[!DNL Veeva] CRM是建置在[!DNL Salesforce]平台上。

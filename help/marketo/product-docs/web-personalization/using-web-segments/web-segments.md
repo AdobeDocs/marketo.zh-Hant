@@ -4,23 +4,28 @@ description: 瞭解Marketo Engage中的Web區段，包括顯示所有自訂內�
 title: 網頁區段
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/rMjE1DOlcGdvg8QQkXcth5kJtO074hoZqAsoD-lmBFQ
+TQID: 'https://experienceleague.adobe.com/rMjE1DOlcGdvg8QQkXcth5kJtO074hoZqAsoD-lmBFQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 2041
+source-wordcount: '2041'
 ht-degree: 0%
-
 ---
-
 # 網頁區段 {#web-segments}
 
 ## 檢視區段 {#view-segment}
@@ -106,8 +111,8 @@ ht-degree: 0%
 * **區段規則邏輯：**&#x200B;選取AND / OR邏輯以建置每個區段屬性
 * **時間：**&#x200B;定義您要在行銷活動中進行的訪客參與層級
 
-   * **登入點**：來自訪客進入網站的參與
-   * **第1次到第9次點按後**：在網站上進行特定次數的點按後，與訪客互動
+  * **登入點**：來自訪客進入網站的參與
+  * **第1次到第9次點按後**：在網站上進行特定次數的點按後，與訪客互動
 
 >[!TIP]
 >
@@ -148,8 +153,8 @@ ht-degree: 0%
 
 * 從下列引數中選取：
 
-   * **[!UICONTROL Include]** — 選取您要讓行銷活動包含或排除位置。
-   * **[!UICONTROL Select country to add]** — 從下拉式方塊中，選取要納入區段的國家/地區。 國家/地區名稱會顯示在右側。 您可以選擇多個國家/地區。
+  * **[!UICONTROL Include]** — 選取您要讓行銷活動包含或排除位置。
+  * **[!UICONTROL Select country to add]** — 從下拉式方塊中，選取要納入區段的國家/地區。 國家/地區名稱會顯示在右側。 您可以選擇多個國家/地區。
 
 新增國家/地區後，您就可以指定區段的州、城市和郵遞區號。
 
@@ -165,8 +170,8 @@ ht-degree: 0%
 
 * 從下列引數中選取：
 
-   * **[!UICONTROL Includes]** — 選取您要讓區段包含或排除某個產業。
-   * **[!UICONTROL Select Industries to add]** — 選取您要納入此區段的產業。 產業會出現在下拉式方塊下方。 您可以選擇多個產業。
+  * **[!UICONTROL Includes]** — 選取您要讓區段包含或排除某個產業。
+  * **[!UICONTROL Select Industries to add]** — 選取您要納入此區段的產業。 產業會出現在下拉式方塊下方。 您可以選擇多個產業。
 
 **組織群組**
 
@@ -174,11 +179,11 @@ ht-degree: 0%
 
 * 從下拉式方塊中，選取下列選項：
 
-   * 《財富》500強 — 此區段僅包含《財富》500強公司
-   * Fortune 1000 — 在此區段中僅包括Fortune 1000公司
-   * Global 2000 — 在此區段中包含Global 2000公司
-   * 企業 — 包含員工超過1,000人且收入超過2.5億美元的組織
-   * 中小型企業 — 僅包括此區段中的中小型企業
+  * 《財富》500強 — 此區段僅包含《財富》500強公司
+  * Fortune 1000 — 在此區段中僅包括Fortune 1000公司
+  * Global 2000 — 在此區段中包含Global 2000公司
+  * 企業 — 包含員工超過1,000人且收入超過2.5億美元的組織
+  * 中小型企業 — 僅包括此區段中的中小型企業
 
 **具名帳戶 —**
 
@@ -186,8 +191,8 @@ ht-degree: 0%
 
 * **來自這些公司（特定名稱）**
 
-   * 從「選取要新增的公司」下拉式清單中選取要定位的公司。
-   * 您可以輸入想要鎖定的確切組織名稱。 *建議*&#x200B;一律*使用具名帳戶清單，而非手動輸入名稱以取得更符合的專案（請參閱下文）。
+  * 從「選取要新增的公司」下拉式清單中選取要定位的公司。
+  * 您可以輸入想要鎖定的確切組織名稱。 *建議*&#x200B;一律*使用具名帳戶清單，而非手動輸入名稱以取得更符合的專案（請參閱下文）。
 
 **具名帳戶清單**
 
@@ -240,11 +245,11 @@ ht-degree: 0%
 
 * 造訪次數 — 從下拉式方塊中選取此選項，以指定潛在客戶在網站上的造訪次數。
 
-   * 從下拉式方塊中選取「等於」、「等於」或「大於」或「等於」或「小於」。
+  * 從下拉式方塊中選取「等於」、「等於」或「大於」或「等於」或「小於」。
 
 * 特定造訪 — 從下拉式方塊中選取此選項，以指定特定訪客。
 
-   * 在右側的文字方塊中，輸入您要追蹤的訪客編號。 按一下訪客（在訪客頁面中）和右側面板的「設定行銷活動」時，可找到唯一的[!DNL Web Personalization]訪客識別碼。 訪客ID位於進階設定區段中。 訪客ID也可在URL中找到（例如VISITOR=JZZJIFJNUI60PZ8Y97BHTY9BL8PKWS）。
+  * 在右側的文字方塊中，輸入您要追蹤的訪客編號。 按一下訪客（在訪客頁面中）和右側面板的「設定行銷活動」時，可找到唯一的[!DNL Web Personalization]訪客識別碼。 訪客ID位於進階設定區段中。 訪客ID也可在URL中找到（例如VISITOR=JZZJIFJNUI60PZ8Y97BHTY9BL8PKWS）。
 
 **搜尋詞** — 根據潛在客戶的搜尋詞定義區段。
 
@@ -275,9 +280,9 @@ ht-degree: 0%
 * **訪客型別**<br />
   **[!UICONTROL Mobile OS]** — 從下拉式方塊中，選取一或多個列出的行動作業系統。 選取的行動作業系統會顯示於下方。
 
-   * 訪客使用任何行動裝置
-   * 訪客使用此特定裝置/作業系統
-   * 訪客未使用任何行動裝置
+  * 訪客使用任何行動裝置
+  * 訪客使用此特定裝置/作業系統
+  * 訪客未使用任何行動裝置
 
 * **[!UICONTROL Device]** — 從下拉式清單中選取一或多個裝置（Apple、Samsung、LG、HTC、Nexus、Blackberry等……）。 選取的裝置會顯示在下方。
 

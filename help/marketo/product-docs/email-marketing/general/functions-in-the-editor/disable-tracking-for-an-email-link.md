@@ -4,18 +4,23 @@ description: 瞭解如何停用特定電子郵件連結的追蹤。 需要隱私
 title: 停用電子郵件連結追蹤
 exl-id: 841ef605-1664-4457-bc83-50bbe5d44853
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/q3ADow5Tqt-k37k-joN6qGPAPiS8KRkFNUyeR8osJ8Y
+TQID: 'https://experienceleague.adobe.com/q3ADow5Tqt-k37k-joN6qGPAPiS8KRkFNUyeR8osJ8Y'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 294
+source-wordcount: '294'
 ht-degree: 4%
-
 ---
-
 # 停用電子郵件連結追蹤 {#disable-tracking-for-an-email-link}
 
 有時您並不想在電子郵件中的連結上啟用&#x200B;**Marketo追蹤URL**。 當目的地頁面不支援URL引數並且可能導致連結中斷時，這項功能會很有用。

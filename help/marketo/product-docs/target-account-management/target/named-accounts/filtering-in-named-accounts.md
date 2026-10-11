@@ -4,16 +4,21 @@ description: 瞭解如何篩選具名帳戶以快速縮小資料。 在篩選器
 title: 已命名帳戶的篩選功能
 exl-id: 4592ff5e-e2bf-408c-b213-e582110b83e4
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/S0l1fS12Faz-kO3--iP743L4CHGlz0WPdjreuTTMzfw
+TQID: 'https://experienceleague.adobe.com/S0l1fS12Faz-kO3--iP743L4CHGlz0WPdjreuTTMzfw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 131
+source-wordcount: '131'
 ht-degree: 12%
-
 ---
-
 # 在[!UICONTROL Named Accounts]中篩選 {#filtering-in-named-accounts}
 
 篩選是快速縮減資料的絕佳方法。

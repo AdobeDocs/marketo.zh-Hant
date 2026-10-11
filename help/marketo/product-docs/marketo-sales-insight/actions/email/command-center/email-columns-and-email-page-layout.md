@@ -3,18 +3,20 @@ description: 瞭解命令中心的電子郵件欄和頁面配置。 自訂要顯
 title: 電子郵件欄和電子郵件頁面版面
 exl-id: 004c9cdf-7ab1-4476-ba72-9074d978b887
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/q4hsk3YYlVl0fYfWyO4vLW9myJdRghZFm9NR9wS4ZSw
+TQID: 'https://experienceleague.adobe.com/q4hsk3YYlVl0fYfWyO4vLW9myJdRghZFm9NR9wS4ZSw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Configuration
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 479
+source-wordcount: '479'
 ht-degree: 2%
-
 ---
-
 # 電子郵件欄和電子郵件頁面版面 {#email-columns-and-email-page-layout}
 
 您可以設定任何可在[命令中心](/help/marketo/product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md)的電子郵件區段中顯示的可用欄。 您的組態設定會針對每個電子郵件子資料夾儲存（例如：已傳遞、失敗、已排程等）。

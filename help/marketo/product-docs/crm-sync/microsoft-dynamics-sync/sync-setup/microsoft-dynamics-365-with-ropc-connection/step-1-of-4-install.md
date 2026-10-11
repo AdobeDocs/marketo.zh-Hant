@@ -3,16 +3,21 @@ description: 瞭解如何在Dynamics 365中使用ROPC連線安裝Marketo解決�
 title: 步驟4之1 — 安裝具有資源擁有者密碼控制連線的Marketo解決方案
 exl-id: aab3bbb8-4e52-4c40-94d1-631af1d63f9f
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/n6k54dW0WmIUFt7ErxsR1K6Ld-aEjhGSFLgVAZzTqL0
+TQID: 'https://experienceleague.adobe.com/n6k54dW0WmIUFt7ErxsR1K6Ld-aEjhGSFLgVAZzTqL0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 290
+source-wordcount: '290'
 ht-degree: 5%
-
 ---
-
 # 步驟4之1：安裝具有資源擁有者密碼控制連線的Marketo解決方案 {#step-1-of-4-install-the-marketo-solution-ropc}
 
 在同步處理[!DNL Microsoft Dynamics] 365與Marketo之前，您必須先在[!DNL Dynamics]中安裝Marketo解決方案。**[!DNL Dynamics]需要管理員許可權。**

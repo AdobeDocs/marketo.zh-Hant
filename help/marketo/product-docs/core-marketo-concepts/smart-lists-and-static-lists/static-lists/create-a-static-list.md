@@ -4,18 +4,20 @@ description: 瞭解如何在Marketo中建立靜態清單。 新增清單至資�
 title: 建立靜態清單
 exl-id: 93560d2a-6b36-4660-99b3-dd6209032fb0
 feature: Static Lists
-TQID: https://experienceleague.adobe.com/UdROW8dxInfiSUH8SvY93hN1SQ1SdJXwLqb57l9TIjI
+TQID: 'https://experienceleague.adobe.com/UdROW8dxInfiSUH8SvY93hN1SQ1SdJXwLqb57l9TIjI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: c56e5f8f-221f-55c2-8170-b1a9e10687cb
+    internal-label: Static Lists
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 106
+source-wordcount: '106'
 ht-degree: 15%
-
 ---
-
 # 建立靜態清單 {#create-a-static-list}
 
 靜態清單是資料庫中已有的一組人員。

@@ -4,19 +4,22 @@ description: 瞭解如何在Marketo中建立新的活動計畫。 設定您的�
 title: 建立新的事件方案
 exl-id: 095d59d7-a4d7-4e0a-b34b-7d25074e6959
 feature: Events
-TQID: https://experienceleague.adobe.com/IcnjJtUembK4odgMFbRHwfbkG4-TkQdqL6NJLAqDW8Q
+TQID: 'https://experienceleague.adobe.com/IcnjJtUembK4odgMFbRHwfbkG4-TkQdqL6NJLAqDW8Q'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 183
+source-wordcount: '183'
 ht-degree: 8%
-
 ---
-
 # 建立新的事件方案 {#create-a-new-event-program}
 
 事件可讓您自動執行線上和離線事件。 擷取您的人員在不同階段進行中的狀態，並取得行銷方案ROI的準確測量。

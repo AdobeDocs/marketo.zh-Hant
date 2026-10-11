@@ -4,16 +4,21 @@ description: 瞭解如何在電子郵件中包含行事曆事件(.ics)。 新增
 title: 在電子郵件中加入行事曆事件 (.ics)
 exl-id: 077181ec-73e7-4b58-a473-46b0764d6b32
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/ZJ9XMMLrtdu%2D%2D%2Dij5DISsdhUTvJ6hjJl07STUdEgWfw
+TQID: 'https://experienceleague.adobe.com/ZJ9XMMLrtdu%2D%2D%2Dij5DISsdhUTvJ6hjJl07STUdEgWfw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: 0e20d3cd1d58a098d8419c4b10572fe85e672aa2
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 101
+source-wordcount: '101'
 ht-degree: 16%
-
 ---
-
 # 在電子郵件中加入行事曆事件 (.ics) {#include-a-calendar-event-ics-in-an-email}
 
 行事曆檔案Token可讓您將行事曆事件(.ics)連結新增到您的Marketo電子郵件。

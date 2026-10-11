@@ -4,18 +4,20 @@ description: 瞭解如何將動態欄位插入Sales Connect範本。 在範本�
 title: 如何插入動態欄位
 exl-id: e4989350-872d-47a1-84b0-210e631ae23a
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/WwKaorfXBu5Ah9wD6pXf5U4YzlpP9MoUMg-TtDzXDRo
+TQID: 'https://experienceleague.adobe.com/WwKaorfXBu5Ah9wD6pXf5U4YzlpP9MoUMg-TtDzXDRo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 239
+source-wordcount: '239'
 ht-degree: 4%
-
 ---
-
 # 如何插入動態欄位 {#how-to-insert-dynamic-fields}
 
 我們允許您使用`{{first_name}}`或`{{company}}`等預先定義的屬性，個人化您的電子郵件範本。 這些欄位可讓您以電子郵件傳送多個連絡人，並自動完成這些欄位，而不需為每個連絡人分別輸入這些欄位。

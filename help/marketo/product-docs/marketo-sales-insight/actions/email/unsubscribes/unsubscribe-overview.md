@@ -3,20 +3,23 @@ description: 瞭解銷售Insight動作中的取消訂閱處理。 瞭解取消�
 title: 取消訂閱概觀
 exl-id: 7598efa9-9686-4dd0-840b-f8b6de4ab2be
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/cY3Vm4hAQvzV4ABOqhjFELHzaGyf0Rt7UKg-5JF-PvQ
+TQID: 'https://experienceleague.adobe.com/cY3Vm4hAQvzV4ABOqhjFELHzaGyf0Rt7UKg-5JF-PvQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
 topic_v2:
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Privacy
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 343
+source-wordcount: '343'
 ht-degree: 3%
-
 ---
-
 # 取消訂閱概觀 {#unsubscribe-overview}
 
 遵守電子郵件隱私權法規對組織而言越來越重要。 為了協助解決此問題，我們對取消訂閱體驗進行了一些增強功能。

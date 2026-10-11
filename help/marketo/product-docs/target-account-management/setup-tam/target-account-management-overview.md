@@ -4,23 +4,32 @@ description: 瞭解Marketo Target帳戶管理，以及它如何整合銷售和�
 title: '[!UICONTROL Target Account Management]'
 exl-id: ff0c37ac-7206-4346-bfb8-15c734b2a272
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/WJmgK-FMQg2-PPCOfJloQIt0spUlqqQ7QHTtI9bgdu0
+TQID: 'https://experienceleague.adobe.com/WJmgK-FMQg2-PPCOfJloQIt0spUlqqQ7QHTtI9bgdu0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 246
+source-wordcount: '246'
 ht-degree: 0%
-
 ---
-
 # [!UICONTROL Target Account Management] {#target-account-management-overview}
 
 行銷人員，認識[!UICONTROL Target Account Management]。 [!UICONTROL Target Account Management]，認識行銷人員。

@@ -4,21 +4,28 @@ description: 瞭解人員詳細資料頁面上的不可編輯的系統管理欄�
 title: 了解系統管理欄位
 exl-id: 4a58d41f-c2f5-4bcc-93ef-10a31e5475fd
 feature: Field Management
-TQID: https://experienceleague.adobe.com/sOznYUfM093OkRnq1071agybVC-JktkMBOQNsbeDA7g
+TQID: 'https://experienceleague.adobe.com/sOznYUfM093OkRnq1071agybVC-JktkMBOQNsbeDA7g'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+    internal-label: Field management
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 537
+source-wordcount: '537'
 ht-degree: 10%
-
 ---
-
 # 了解系統管理欄位 {#understanding-system-managed-fields}
 
 您可能已注意到[個人詳細資料頁面](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"}有一連串由Marketo建立的不可編輯欄位。 這些資料來自各種來源，而且可以顯示無數值。

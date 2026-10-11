@@ -4,24 +4,32 @@ description: 瞭解如何在Marketo的自由形式登陸頁面中使用動態內
 title: 在自由格式登陸頁面中使用動態內容
 exl-id: 76441566-96be-43fb-91da-4c0c520cc9e1
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/O80z2EtTU2E-1yf6ng-5n6FOWNXzVG2-Oq8xbXapvhI
+TQID: 'https://experienceleague.adobe.com/O80z2EtTU2E-1yf6ng-5n6FOWNXzVG2-Oq8xbXapvhI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
   - id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
+    internal-label: Dynamic content
   - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+    internal-label: Snippets
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 205
+source-wordcount: '205'
 ht-degree: 10%
-
 ---
-
 # 在自由格式登陸頁面中使用動態內容 {#use-dynamic-content-in-a-free-form-landing-page}
 
 在登入頁面中使用動態內容，可讓您的對象獲得鎖定目標的資訊。

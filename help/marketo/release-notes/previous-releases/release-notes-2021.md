@@ -1,47 +1,80 @@
 ---
-title: "2021"
+title: '2021'
 description: 2021 - Marketo檔案 — 產品檔案
 feature: Release Information
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 subfeature_v2:
   - id: ad89fb33-8541-4339-afe7-bb13d1633714
+    internal-label: Flow Step
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
   - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
   - id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
+    internal-label: Custom objects
   - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+    internal-label: Adobe Identity Management
   - id: fc9b09fe-b844-4544-887b-e420c3b82065
+    internal-label: Webhooks
   - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
   - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+    internal-label: Event programs
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: beb7a3c1-66ab-4786-b879-7621375b3c40
+    internal-label: Email marketing
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+    internal-label: Accessibility
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
+    internal-label: Data management
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+    internal-label: Privacy
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 4732
+source-wordcount: '4735'
 ht-degree: 1%
-
 ---
-
 # 2021
 
 ## 2021 年 1 月 {#january}
@@ -103,7 +136,7 @@ ht-degree: 1%
 
 ![（星形）](assets/yellow-star.png)
 
-* **電子郵件連線節流(BETA)**：改善您的電子郵件傳遞能力，並針對[!DNL Sales Connect]調整電子郵件連線節流，以擴展1:1銷售通訊。 我們新的節流技術會自動管理電子郵件傳送時間，為[!DNL Exchange]和Gmail使用者建立順暢的體驗。 減少或避免使用協力廠商大量電子郵件傳送應用程式。
+* **電子郵件連線節流(BETA)**：改善您的電子郵件傳遞能力，並針對[!DNL Sales Connect]調整電子郵件連線節流，以調整1:1銷售通訊。 我們新的節流技術會自動管理電子郵件傳送時間，為[!DNL Exchange]和Gmail使用者建立順暢的體驗。 減少或避免使用協力廠商大量電子郵件傳送應用程式。
 * **電子郵件連線跳出追蹤**：透過新的電子郵件跳出報告，讓insight瞭解潛在客戶品質和電子郵件範本效能。 [!DNL Exchange]和Gmail使用者可以選擇接收將彙總至即時摘要、電子郵件資料夾、範本分析和行銷活動分析的退回通知。
 * **設定檔頁面組態**：在新設定檔頁面中輕鬆管理使用者偏好設定。 在一個位置變更密碼、編輯地理位置和語言設定，以及檢閱整合狀態。
 * **範本管理**：使用新的拖放功能，將銷售電子郵件範本組織成不同類別，以確保能夠快速存取相關範本，並減少搜尋時間。

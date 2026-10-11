@@ -1,24 +1,29 @@
 ---
 unique-page-id: 6848922
 description: 瞭解如何下載適用於Microsoft Dynamics的Marketo銷售機會管理解決方案。
-title: 下載Marketo銷售機會管理解決方案
+title: 下載 Marketo 商機管理解決方案
 exl-id: 2deafcfc-19f4-4cbf-8764-402a7f69c7d2
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/fxE18va6cOwHd6rMyPBcvme0dpBe2htCV4TkoJsEKZM
+TQID: 'https://experienceleague.adobe.com/fxE18va6cOwHd6rMyPBcvme0dpBe2htCV4TkoJsEKZM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 100
-ht-degree: 0%
-
+source-wordcount: '100'
+ht-degree: 21%
 ---
-
-# 下載Marketo銷售機會管理解決方案 {#download-the-marketo-lead-management-solution}
+# 下載 Marketo 商機管理解決方案 {#download-the-marketo-lead-management-solution}
 
 >[!NOTE]
 >
->**需要管理員許可權**
+>**需要管理員權限**
 
 您必須下載並安裝Marketo解決方案至您的[!DNL Microsoft Dynamics]帳戶，才能開始同步。
 
@@ -30,7 +35,7 @@ ht-degree: 0%
 >
 >Marketo目前僅支援與Java 7相容的SSL憑證。
 
-1. 移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
+1. 前往「**[!UICONTROL Admin]**」區域。
 
    ![](assets/download-the-marketo-lead-management-solution-1.png)
 
@@ -38,11 +43,11 @@ ht-degree: 0%
 
    ![](assets/download-the-marketo-lead-management-solution-2.png)
 
-1. 選取&#x200B;**[!DNL Microsoft]**。
+1. 選取「**[!DNL Microsoft]**」。
 
    ![](assets/download-the-marketo-lead-management-solution-3.png)
 
-1. 選取&#x200B;**[!UICONTROL Download Marketo Solution]**。
+1. 選取「**[!UICONTROL Download Marketo Solution]**」。
 
    ![](assets/download-the-marketo-lead-management-solution-4.png)
 

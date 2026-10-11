@@ -3,18 +3,20 @@ description: 瞭解Sales Connect銷售活動條款。 將此辭彙表用於同�
 title: 銷售活動字彙表
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/g4y3kjwpavHDfQmjlzw-uaBEVJsCafpldUBHQKdjaLo
+TQID: 'https://experienceleague.adobe.com/g4y3kjwpavHDfQmjlzw-uaBEVJsCafpldUBHQKdjaLo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 339
+source-wordcount: '339'
 ht-degree: 8%
-
 ---
-
 # 銷售活動字彙表 {#sales-activity-glossary}
 
 在Sales Connect中，當賣家：將銷售機會新增至銷售步調、傳送電子郵件給他們，或使通話成為活動時，其將記錄在Marketo活動歷史記錄下。 此外，當銷售機會與電子郵件、開啟、點按和回覆互動時，也會記錄下來。

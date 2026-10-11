@@ -4,21 +4,25 @@ description: 瞭解如何在銷售Insight中設定星星和火焰的分數欄位
 title: 設定銷售洞察中用於標示星星和火焰的分數欄位
 exl-id: 640f6d53-71ee-4a6d-b28a-82f3825b8f8e
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/ShowS2zjGEHvU9BRJNIlX6XdY127funYi-sjsE9YTNU
+TQID: 'https://experienceleague.adobe.com/ShowS2zjGEHvU9BRJNIlX6XdY127funYi-sjsE9YTNU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 153
+source-wordcount: '153'
 ht-degree: 11%
-
 ---
-
 # 設定要在[!DNL Sales Insight]中用於[!UICONTROL Stars]和[!UICONTROL Flames]的分數欄位 {#set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight}
 
 >[!NOTE]

@@ -4,16 +4,18 @@ description: 瞭解Sales Connect是否相容於Salesforce Lightning。 取得有
 title: Sales Connect 與 Salesforce Lightning 相容嗎？
 exl-id: e1543b92-8175-41d2-b56a-ec60253a87d8
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/8nSnWVQPx7SnwWMz-lDfBIBV-lSsrMwo5vXkTBO-AmE
+TQID: 'https://experienceleague.adobe.com/8nSnWVQPx7SnwWMz-lDfBIBV-lSsrMwo5vXkTBO-AmE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 68
+source-wordcount: '68'
 ht-degree: 10%
-
 ---
-
 # [!DNL Sales Connect]是否與[!DNL Salesforce]閃電相容？ {#is-sales-connect-compatible-with-salesforce-lightning}
 
 是，[!DNL Sales Connect]與[!DNL Salesforce] Lightning相容。

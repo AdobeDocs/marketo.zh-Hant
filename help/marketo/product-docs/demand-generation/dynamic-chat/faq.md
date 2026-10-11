@@ -3,21 +3,28 @@ description: 取得Dynamic Chat存取、安裝、資料保留和語言支援的�
 title: Dynamic Chat常見問題集
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
-TQID: https://experienceleague.adobe.com/IpAD0KUETdl3o4UTUS-PBWhtCTY1N7k83qeyGkKnan8
+TQID: 'https://experienceleague.adobe.com/IpAD0KUETdl3o4UTUS-PBWhtCTY1N7k83qeyGkKnan8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: cc2b43cd0e963803d1998bd8438f066d74303e67
+    internal-label: Reporting
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 963
+source-wordcount: '963'
 ht-degree: 1%
-
 ---
-
 # Dynamic Chat常見問題集 {#dynamic-chat-faq}
 
 請參閱下方的Dynamic Chat相關常見問題解答。

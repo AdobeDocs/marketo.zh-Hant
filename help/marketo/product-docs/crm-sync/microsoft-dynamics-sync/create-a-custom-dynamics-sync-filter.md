@@ -1,24 +1,31 @@
 ---
 unique-page-id: 9437903
 description: 瞭解如何建立自訂Dynamics同步篩選器，以便僅將選取的記錄同步至Marketo。
-title: 建立自訂 [!DNL Dynamics] 同步篩選器
+title: 建立自訂[!DNL Dynamics]同步篩選器
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/XXCfjVD8zv3PdzniEs-eu6SYk6p74rW3jb2s5jbk6YE
+TQID: 'https://experienceleague.adobe.com/XXCfjVD8zv3PdzniEs-eu6SYk6p74rW3jb2s5jbk6YE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Implementation
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 746
+source-wordcount: '747'
 ht-degree: 1%
-
 ---
-
 # 建立自訂[!DNL Dynamics]同步篩選器 {#create-a-custom-dynamics-sync-filter}
 
 Marketo可讓您設定同步篩選器，並僅同步部分記錄。

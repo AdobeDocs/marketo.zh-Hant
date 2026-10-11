@@ -4,16 +4,21 @@ description: 瞭解如何使用以帳戶為中心的篩選器，識別並吸引�
 title: 帳戶篩選器
 exl-id: a359f53b-c0a0-4b46-bad0-2840ba668892
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/KOr4iyPEQZ5o35-iVAPWaYIbcqipcQX-NfiuoTB8zMI
+TQID: 'https://experienceleague.adobe.com/KOr4iyPEQZ5o35-iVAPWaYIbcqipcQX-NfiuoTB8zMI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 175
+source-wordcount: '175'
 ht-degree: 1%
-
 ---
-
 # [!UICONTROL Account Filters] {#account-filters}
 
 使用新的以帳戶為中心的篩選器，識別並吸引指定帳戶及其中的角色。

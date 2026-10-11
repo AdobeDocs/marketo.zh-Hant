@@ -4,22 +4,27 @@ description: 瞭解Sales Intelligence功能，這些功能提供有關Web訪客�
 title: 銷售情報
 exl-id: 118da902-8c02-413b-8959-2e970d3dd9a4
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/l7sXEzgBKCl6tMSn-MzFjF5eQ4GPXX-N6jZJq1A-700
+TQID: 'https://experienceleague.adobe.com/l7sXEzgBKCl6tMSn-MzFjF5eQ4GPXX-N6jZJq1A-700'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 214
+source-wordcount: '214'
 ht-degree: 1%
-
 ---
-
 # 銷售情報 {#sales-intelligence}
 
 Marketo Web Personalization針對造訪您網站的匿名與已知網頁訪客與組織，提供寶貴資訊。 銷售主管可以使用此功能，根據特定地區追蹤、監控及接收主要組織及帳戶的警示。

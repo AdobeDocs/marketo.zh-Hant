@@ -4,16 +4,21 @@ description: 瞭解Salesforce和Salesforce之間的預設Marketo Engage欄位對
 title: 預設 Salesforce 欄位對應
 exl-id: d6639733-f85d-4f4c-ac41-5d2a68a9c6b2
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/i7ducTSqHY1rBTOQ8qNHPRCuETASKkuVWNsQGOW3OPE
+TQID: 'https://experienceleague.adobe.com/i7ducTSqHY1rBTOQ8qNHPRCuETASKkuVWNsQGOW3OPE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 154
+source-wordcount: '154'
 ht-degree: 5%
-
 ---
-
 # 預設[!DNL Salesforce]欄位對應 {#default-salesforce-field-mapping}
 
 當您初次將Marketo Engage帳戶與Salesforce同步時，Marketo會自動在內建的Salesforce和Marketo欄位之間建立這些關聯。 Marketo也會同步處理潛在客戶、帳戶、商機和聯絡人上的自訂欄位。

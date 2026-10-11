@@ -4,31 +4,44 @@ description: 設定 Marketo Engage 的通訊協定 - Marketo Engage 文件 - 產
 title: 設定 Marketo Engage 的通訊協定
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-TQID: https://experienceleague.adobe.com/n72OlCpE-aAbj1MCQumumk-sh9TUZe-bNpreVmVl2q8
+TQID: 'https://experienceleague.adobe.com/n72OlCpE-aAbj1MCQumumk-sh9TUZe-bNpreVmVl2q8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
 subfeature_v2:
   - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
   - id: fc9b09fe-b844-4544-887b-e420c3b82065
+    internal-label: Webhooks
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 261033a2f7d8eb2fde0d3b6b17aff933528fc109
+    internal-label: Privacy
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 2192
+source-wordcount: '2192'
 ht-degree: 83%
-
 ---
-
 # 設定 Marketo Engage 的通訊協定{#configure-protocols-for-marketo-engage}
 
 如果您或您的組織使用限制性的防火牆或 Proxy 伺服器設定，您或您的網路管理員可能需要將特定網域與 IP 位址範圍加入允許清單，以確保 Adobe Marketo Engage 如預期般運作。

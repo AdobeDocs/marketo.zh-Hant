@@ -4,18 +4,23 @@ description: 瞭解如何在電子郵件編輯器2.0中編輯電子郵件中的�
 title: 編輯電子郵件中的元素
 exl-id: 915b4a45-f92e-40ff-9a4c-65c52f19f1ec
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/Y-VOyP0NKmLA5AqCjkGcYoJmQhJ-iovOyuOD-QdUJl8
+TQID: 'https://experienceleague.adobe.com/Y-VOyP0NKmLA5AqCjkGcYoJmQhJ-iovOyuOD-QdUJl8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Design Studio
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 490
+source-wordcount: '490'
 ht-degree: 2%
-
 ---
-
 # 編輯電子郵件中的元素 {#edit-elements-in-an-email}
 
 電子郵件可包含四種不同的元素：RTF文字、影像、代碼片段和視訊。 以下說明如何編輯每個。

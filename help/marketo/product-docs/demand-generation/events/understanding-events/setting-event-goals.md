@@ -4,16 +4,18 @@ title: 設定事件目標
 hide: true
 exl-id: 9690adc0-1136-4416-bb7b-f721789d408b
 feature: Events
-TQID: https://experienceleague.adobe.com/0tncwlUNBiELP1mR0GLJFstLZfvURtAsz6OohwpqxH4
+TQID: 'https://experienceleague.adobe.com/0tncwlUNBiELP1mR0GLJFstLZfvURtAsz6OohwpqxH4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 113
+source-wordcount: '113'
 ht-degree: 7%
-
 ---
-
 # 設定事件目標 {#setting-event-goals}
 
 為事件提供特定目標，並瞭解其執行情形。

@@ -4,16 +4,18 @@ description: 當Sales Connect中的收件者位置不正確時，取得協助。
 title: 收件者位置不正確
 exl-id: bb605522-367c-4a64-a547-e5b7b60e9a4c
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/WXaXEsRVgKATa1H9guhuLGgZk35IjK8Z5dZTbISfF5Q
+TQID: 'https://experienceleague.adobe.com/WXaXEsRVgKATa1H9guhuLGgZk35IjK8Z5dZTbISfF5Q'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 125
+source-wordcount: '125'
 ht-degree: 4%
-
 ---
-
 # 收件者位置不正確 {#incorrect-recipient-location}
 
 如果我們誤解收件者的位置，以下是可能發生事件的三種可能性：

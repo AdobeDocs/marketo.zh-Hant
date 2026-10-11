@@ -4,19 +4,22 @@ description: 瞭解如何將Sales Connect電子郵件記錄到Salesforce以外�
 title: 如何將電子郵件記錄至其他 CRM
 exl-id: 29b34be0-685f-4c80-920d-d33ff7d02f5d
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/n5lXuin4JrmOG0WHKpVd9MkumYCvjrEpzNun5RaZERw
+TQID: 'https://experienceleague.adobe.com/n5lXuin4JrmOG0WHKpVd9MkumYCvjrEpzNun5RaZERw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Configuration
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 163
-ht-degree: 9%
-
+source-wordcount: '165'
+ht-degree: 10%
 ---
-
 # 如何將電子郵件記錄至其他 CRM {#how-to-log-emails-to-other-crms}
 
 如果您的CRM提供密件副本地址，您可以使用「其他」 CRM區段來設定電子郵件記錄。 設定設定後，您傳送的電子郵件會自動記錄至您的CRM。

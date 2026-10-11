@@ -3,25 +3,34 @@ description: 發行說明 — 2025年3月 — Marketo檔案 — 產品檔案
 title: 發行說明 - 2025 年 3 月
 feature: Release Information
 exl-id: a0e45d8e-6b74-4ab0-a1ba-4dae3754bc8f
-TQID: https://experienceleague.adobe.com/-doC9SgyYBwcHdWEVf1O2DkSys8ni859Q1VN7x4BxnY
+TQID: 'https://experienceleague.adobe.com/-doC9SgyYBwcHdWEVf1O2DkSys8ni859Q1VN7x4BxnY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
   - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+    internal-label: Event programs
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 527
+source-wordcount: '527'
 ht-degree: 33%
-
 ---
-
 # 發行說明：2025 年 3 月 {#release-notes-mar-25}
 
 下方提供2025年3月發行版本包含的所有功能。 請查看您的 Adobe Marketo Engage 版本是否提供這些功能。
@@ -34,7 +43,7 @@ ht-degree: 33%
 
 ## 標準發行週期功能 {#standard-release-cycle-features}
 
-下列功能屬於標準發行週期，並將於&#x200B;**2025年3月28日**&#x200B;開始發行，在接下來的幾週內分階段推出剩餘功能。 發行的功能和日期可能有所變更。 如需了解各項功能的狀態，請查看其旁邊欄位。
+下列功能屬於標準發行週期，並將於&#x200B;**2025年3月28日**&#x200B;開始發行，在接下來的幾週內分階段推出剩餘功能。 發行的功能和日期可能有所變更。 請查看各項功能旁邊的狀態。
 
 <table style="table-layout:auto">
  <tbody>
@@ -76,11 +85,11 @@ ht-degree: 33%
 
 * **棄用社交功能**： 2024年7月31日星期三，Marketo Engage開始棄用產品中的下列社交功能：
 
-   * 投票
-   * 社交按鈕
-   * 推薦優惠方案
-   * 影片分享
-   * 抽獎
+  * 投票
+  * 社交按鈕
+  * 推薦優惠方案
+  * 影片分享
+  * 抽獎
 
 截至目前，使用者無法在Marketo Engage中建立、複製或嵌入任何這些Social功能。 現有的社交資產可持續使用至2025年1月31日。 2025年2月1日，社交資產停止運作。 登陸頁面中內嵌的任何社交功能都將需要移除。 [了解更多](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 

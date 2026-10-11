@@ -4,16 +4,21 @@ description: 瞭解如何在智慧清單篩選器中使用清單的成員。 包
 title: 使用智慧清單中的清單成員
 exl-id: ebd458c1-01f4-4d19-b5b2-d19ab2bad1af
 feature: Smart Lists
-TQID: https://experienceleague.adobe.com/jdDSap50wIaNp7YH9Z3vNA2tRFoPugU103HgmmMjFIM
+TQID: 'https://experienceleague.adobe.com/jdDSap50wIaNp7YH9Z3vNA2tRFoPugU103HgmmMjFIM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 139
+source-wordcount: '139'
 ht-degree: 11%
-
 ---
-
 # 使用智慧清單中的清單成員 {#use-members-of-list-in-a-smart-list}
 
 >[!TIP]

@@ -1,43 +1,74 @@
 ---
-title: "2019"
+title: '2019'
 description: 2019 - Marketo檔案 — 產品檔案
 feature: Release Information
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
   - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
   - id: de9e3aa9-f002-4fe1-897b-09ee3c55114b
+    internal-label: Sales Connect
   - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+    internal-label: Snippets
   - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+    internal-label: Event programs
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8c
+    internal-label: Artificial intelligence
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+    internal-label: Privacy
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 2528
+source-wordcount: '2530'
 ht-degree: 0%
-
 ---
-
 # 2019
 
 ## 2019年冬季 {#winter}
@@ -83,8 +114,8 @@ ht-degree: 0%
 * **電子郵件服務**：透過連線至[!DNL Microsoft Outlook] （透過Office365或透過[電子郵件連線]索引標籤在內部部署），享受更好的傳遞能力，並改善回覆追蹤、排程電子郵件功能和大量電子郵件功能。
 * **新的管理員設定**：已新增兩個管理員頁面，以最佳化您的Sales Engage執行個體
 
-   * *團隊管理*&#x200B;允許管理員編輯訂閱和團隊，支援順暢的帳戶設定程式。
-   * *Salesforce管理設定*&#x200B;可協助團隊更快且更輕鬆地設定SFDC同步處理。
+  * *團隊管理*&#x200B;允許管理員編輯訂閱和團隊，支援順暢的帳戶設定程式。
+  * *Salesforce管理設定*&#x200B;可協助團隊更快且更輕鬆地設定SFDC同步處理。
 
 * **適用於[!DNL Windows]**&#x200B;的OWA外掛程式：透過單一增益集，所有[!DNL Windows Office365]使用者端將可支援Sales Engage，因此能夠在Outlook中使用即時摘要。 新的外掛程式可在Microsoft商店中使用。
 * **活動推播程式**：將銷售參與同步處理至核心Marketo平台，以運用即時行銷深入分析。
@@ -226,8 +257,8 @@ Account-Based Marketing
 
 * **事件上限**&#x200B;和&#x200B;**事件目標**&#x200B;通常可在[!DNL Marketo Sky]中的Premium Events附加元件下取得。
 
-   * 事件上限：使用註冊上限、頁面重新導向和輪候表功能，最佳化您活動和網路研討會的客戶體驗。
-   * 活動目標：設定活動註冊和出席目標並即時追蹤進度。
+  * 事件上限：使用註冊上限、頁面重新導向和輪候表功能，最佳化您活動和網路研討會的客戶體驗。
+  * 活動目標：設定活動註冊和出席目標並即時追蹤進度。
 
 * **完整導覽連結**：我們已啟用導覽至所有授權的應用程式，例如Hootsuite、Calendar等。
 * **電子郵件、登陸頁面、程式碼片段、表單、影像和檔案清單檢視**：在Design Studio中檢視、搜尋您的任何資產，並對這些資產採取大量動作。
@@ -293,5 +324,5 @@ _&#x200B;**產品發行網路研討會**&#x200B;_&#x200B;在[這裡](https://eng
 >
 >**若要維持您的Marketo Engage存取權，請確定在2019年12月13日之前所有使用者端系統皆符合TLS 1.2規範**。 在[這裡](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq)可找到更多詳細資訊。
 
-**_產品發行網路研討會_** [於8月28日1:00PM PT / 4:00PM ET加入我們](https://engage.marketo.com/August_19_Release_Webinar.html)，參加我們產品團隊舉辦的即時網路研討會，並深入瞭解此發行版本包含的功能。
+**_產品發行網路研討會_** [於8月28日下午1:00 PT / 4:00 PM ET加入我們](https://engage.marketo.com/August_19_Release_Webinar.html)，參加我們產品團隊舉辦的即時網路研討會，並深入瞭解此發行版本包含的功能。
 

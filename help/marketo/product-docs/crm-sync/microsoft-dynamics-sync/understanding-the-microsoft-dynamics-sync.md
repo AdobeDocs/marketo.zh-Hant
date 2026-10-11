@@ -4,20 +4,26 @@ description: 瞭解Microsoft Dynamics同步如何讓Marketo和Dynamics資料保�
 title: 了解 Microsoft Dynamics 同步
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/-Fr-yRhPskeESDyxFULmD-GIXvY5uqVANkGiCX3PhTM
+TQID: 'https://experienceleague.adobe.com/-Fr-yRhPskeESDyxFULmD-GIXvY5uqVANkGiCX3PhTM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Customer experience
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 230
+source-wordcount: '230'
 ht-degree: 20%
-
 ---
-
 # 了解 [!DNL Microsoft Dynamics] 同步 {#understanding-the-microsoft-dynamics-sync}
 
 Marketo和[!DNL Microsoft Dynamics]一起執行。 我們會保持您的銷售和行銷資料同步處理。
@@ -46,7 +52,7 @@ Marketo一整天都在與[!DNL Microsoft Dynamics]持續同步資料。 這是�
 * [機會](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
 * [自訂實體](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md)
 
-您在Marketo中為 [!DNL Dynamics][&#128279;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)輸入的認證可用來同步資料。
+您在Marketo中為 [!DNL Dynamics]&#x200B;[&#128279;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)輸入的認證可用來同步資料。
 
 >[!NOTE]
 >

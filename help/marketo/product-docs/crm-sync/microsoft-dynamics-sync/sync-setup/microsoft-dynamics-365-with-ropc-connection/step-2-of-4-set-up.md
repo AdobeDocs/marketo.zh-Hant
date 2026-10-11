@@ -3,18 +3,24 @@ description: 瞭解如何使用ROPC連線設定Marketo解決方案。 在Dynamic
 title: 步驟4之2 — 使用資源擁有者密碼控制連線設定Marketo解決方案
 exl-id: 41c05910-d8e3-4fb7-8f68-17ee10294e57
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/-pefk892NFYV87CCTDrt28Yz-GUS66YZY74Q3-8z4YI
+TQID: 'https://experienceleague.adobe.com/-pefk892NFYV87CCTDrt28Yz-GUS66YZY74Q3-8z4YI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 409
-ht-degree: 0%
-
+source-wordcount: '409'
+ht-degree: 1%
 ---
-
 # 步驟4之2：使用資源擁有者密碼控制連線設定Marketo解決方案 {#step-2-of-4-set-up-the-marketo-solution-ropc}
 
 建立使用者帳戶。
@@ -33,11 +39,11 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. 按一下&#x200B;**[!UICONTROL Users]**。
+1. 按一下「**[!UICONTROL Users]**」。
 
    ![](assets/three.png)
 
-1. 按一下&#x200B;**[!UICONTROL New]**。
+1. 按一下「**[!UICONTROL New]**」。
 
    ![](assets/four.png)
 
@@ -49,7 +55,7 @@ ht-degree: 0%
 
    ![](assets/six.png)
 
-1. 另一個新標籤隨即開啟。 按一下&#x200B;**[!UICONTROL Add a user]**。
+1. 另一個新標籤隨即開啟。 按一下「**[!UICONTROL Add a user]**」。
 
    ![](assets/seven.png)
 
@@ -89,7 +95,7 @@ ht-degree: 0%
 
    ![](assets/eleven.png)
 
-1. 按一下&#x200B;**[!UICONTROL Manage Roles]**。
+1. 按一下「**[!UICONTROL Manage Roles]**」。
 
    ![](assets/twelve.png)
 
@@ -113,7 +119,7 @@ ht-degree: 0%
    >
    >如果您在[!UICONTROL Settings]功能表中看不到&#x200B;**[!UICONTROL Marketo Config]**，請重新整理頁面。 如果仍無法解決問題，請再試一次[發佈Marketo解決方案](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)，或登出再重新登入。
 
-1. 按一下&#x200B;**[!UICONTROL Default]**。
+1. 按一下「**[!UICONTROL Default]**」。
 
    ![](assets/fifteen.png)
 

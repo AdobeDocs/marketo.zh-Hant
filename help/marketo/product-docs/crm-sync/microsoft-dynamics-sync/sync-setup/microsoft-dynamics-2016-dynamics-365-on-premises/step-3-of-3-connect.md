@@ -1,18 +1,23 @@
 ---
 description: 瞭解如何在步驟3中將Marketo連線至Dynamics 2016或Dynamics 365內部部署。 在Marketo Admin中輸入同步使用者認證並啟用同步。
-title: 為 [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365內部部署步驟3之3安裝Marketo
+title: 為[!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365內部部署步驟3之3安裝Marketo
 exl-id: ae801a59-8e29-479c-84c5-a18c7511f21f
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/WYR9u4Mfq8SeuXPyuYxgA-9iZlez5oKYPpnvrl-RwqY
+TQID: 'https://experienceleague.adobe.com/WYR9u4Mfq8SeuXPyuYxgA-9iZlez5oKYPpnvrl-RwqY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 389
+source-wordcount: '390'
 ht-degree: 1%
-
 ---
-
 # 步驟3之3：連線Marketo [!DNL Dynamics] （2016年在現場/[!DNL Dynamics] 365內部部署） {#step-of-connect-marketo-dynamics-on-premises-2016}
 
 >[!PREREQUISITES]

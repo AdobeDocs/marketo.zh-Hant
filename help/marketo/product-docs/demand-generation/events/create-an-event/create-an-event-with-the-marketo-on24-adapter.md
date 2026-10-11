@@ -4,21 +4,25 @@ description: 瞭解如何使用Marketo ON24轉接器建立事件。 連線ON24�
 title: 使用 Marketo ON24 Adapter 建立事件
 exl-id: a240ff72-b12f-4e3a-8e14-94fddb02f944
 feature: Events
-TQID: https://experienceleague.adobe.com/LlMV9lfVxqvMh0E-6K3aStBiqOERGIKJOYSyJdaBvFw
+TQID: 'https://experienceleague.adobe.com/LlMV9lfVxqvMh0E-6K3aStBiqOERGIKJOYSyJdaBvFw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 303
+source-wordcount: '303'
 ht-degree: 22%
-
 ---
-
 # 使用 Marketo ON24 Adapter 建立事件 {#create-an-event-with-the-marketo-on-adapter}
 
 您應熟悉在Marketo中建立事件的建置區塊和建議順序。 您也應該具備下列Marketo概念的實務知識：

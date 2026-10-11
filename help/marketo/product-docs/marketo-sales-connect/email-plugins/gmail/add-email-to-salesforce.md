@@ -4,16 +4,18 @@ description: 瞭解如何從Gmail外掛程式新增電子郵件至Salesforce。 
 title: 新增電子郵件至 Salesforce
 exl-id: bb2e964d-e5f8-495f-969b-9f75822a6211
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/DXp9px46y3tWezlijSWiOqFPTDJJiZmMYi-881vauXc
+TQID: 'https://experienceleague.adobe.com/DXp9px46y3tWezlijSWiOqFPTDJJiZmMYi-881vauXc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 153
+source-wordcount: '153'
 ht-degree: 2%
-
 ---
-
 # 新增電子郵件至[!DNL Salesforce] {#add-email-to-salesforce}
 
 新增電子郵件至[!DNL Salesforce]可讓您將您在[!DNL Outlook]或Gmail中收到的任何電子郵件推播至您的[!DNL Salesforce]帳戶。 我們會根據電子郵件的寄件者進行查詢，因此我們目前只能將此按鈕用於您收到的電子郵件，而不是您傳送的電子郵件。

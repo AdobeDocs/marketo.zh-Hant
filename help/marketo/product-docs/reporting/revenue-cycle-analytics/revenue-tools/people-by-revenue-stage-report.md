@@ -4,13 +4,19 @@ description: 瞭解Marketo Engage中的依收入階段報告的人員，包括�
 title: 人員收入階段報告
 exl-id: 1f3d605d-fa0d-4ec8-b7d6-bfd8dac93609
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 12%
-
 ---
-
 # 人員收入階段報告 {#people-by-revenue-stage-report}
 
 您可以建立報表，顯示您的人員處於收入週期模型的哪個階段。 只要報表的指定日期範圍有人員餘額，報表就會包含指定模型的任何階段。

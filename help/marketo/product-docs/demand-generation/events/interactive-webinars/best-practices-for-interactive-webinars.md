@@ -3,21 +3,25 @@ description: 取得Marketo互動式網路研討會最佳作法的說明。 改�
 title: 互動式網路研討會的最佳做法
 feature: Interactive Webinars
 exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
-TQID: https://experienceleague.adobe.com/P-sa7emvCQOFnBgj6Ys5xjxRMEY7RHUB3iEadNsi948
+TQID: 'https://experienceleague.adobe.com/P-sa7emvCQOFnBgj6Ys5xjxRMEY7RHUB3iEadNsi948'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
 topic_v2:
   - id: e9001ce2-5245-4a8e-8601-dd958009072f
+    internal-label: Web experience
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Privacy
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1759
+source-wordcount: '1759'
 ht-degree: 0%
-
 ---
-
 # 互動式網路研討會的最佳做法 {#best-practices-for-interactive-webinars}
 
 執行虛擬活動時，無論是針對小型或大型對象，務必要按計畫進行。 由於有計畫及執行事件所需的各種步驟（從準備、促銷、傳送到後續追蹤），有時候會感覺不凡。
@@ -79,13 +83,13 @@ ht-degree: 0%
 * 如果要錄製工作階段，請在「會議室偏好設定」中啟用錄製提醒。 如果錄製尚未開始，提醒將會在會議開始的5分鐘內顯示。
 
 * 啟用「主機」和「主持人」區域，並使用相關的Pod進行設定。 此區域僅對主機和簡報者可見，並可用於在後台共同作業。 此處要包含一些Pod：
-   * 參與儀表板，可即時監控參與者參與。 [按一下這裡](https://www.youtube.com/watch?v=gf5fu0JK9Hk){target="_blank"}，觀看如何使用參與儀表板的短片。
-   * 聊天Pod可允許簡報小組成員之間的私人交談。
-   * 附註Pod可以張貼提醒訊息、簡報者的問題或標準問題回應，您可複製並貼上這些回應，以快速獲得常見查詢的答案。
+  * 參與儀表板，可即時監控參與者參與。 [按一下這裡](https://www.youtube.com/watch?v=gf5fu0JK9Hk){target="_blank"}，觀看如何使用參與儀表板的短片。
+  * 聊天Pod可允許簡報小組成員之間的私人交談。
+  * 附註Pod可以張貼提醒訊息、簡報者的問題或標準問題回應，您可複製並貼上這些回應，以快速獲得常見查詢的答案。
 
 * 自訂Pod是協力廠商應用程式，可用來擴充Adobe Connect聊天室的功能。 可以從`apps.adobeconnect.com`下載自訂Pod做為.pod或.zip檔案，然後可以在「共用」Pod中共用。
-   * 一些流行的自訂Pod包括倒數計時器、時鐘、石紙剪刀、Word Cloud、Titler。
-   * [按一下這裡](https://www.youtube.com/watch?v=1w5nqJqEHQw){target="_blank"}觀看如何使用自訂Pod的短片。
+  * 一些流行的自訂Pod包括倒數計時器、時鐘、石紙剪刀、Word Cloud、Titler。
+  * [按一下這裡](https://www.youtube.com/watch?v=1w5nqJqEHQw){target="_blank"}觀看如何使用自訂Pod的短片。
 
 **隱私權：若要保持參與者資訊的機密性，請檢查下列設定：**
 
@@ -104,8 +108,8 @@ ht-degree: 0%
 * 執行一些練習來測試您的音訊/視訊設定，如果您之前未使用Adobe Connect，也能熟悉。 在排練時加入您的主持人和共同主持人。
 
 * 要求主持人和主持人至少在開始時間前30分鐘到達，並確定一切都正常運作。
-   * 決定誰將負責稽核問答和聊天Pod。
-   * 將任何種子問題/聊天填入問答和聊天Pod中。
+  * 決定誰將負責稽核問答和聊天Pod。
+  * 將任何種子問題/聊天填入問答和聊天Pod中。
 
 * 讓您要共用熒幕的程式開啟至適當的視窗，並準備進行示範。 熒幕共用時請避免啟動並登入程式。
 

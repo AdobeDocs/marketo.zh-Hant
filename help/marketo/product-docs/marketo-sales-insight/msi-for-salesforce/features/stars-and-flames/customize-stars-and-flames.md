@@ -4,18 +4,21 @@ description: 瞭解如何在Marketo Sales Insight中自訂星星和火焰。 設
 title: 自訂星星和火焰
 exl-id: f8936ee9-a976-45f7-84cc-c95e93bdddc8
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/UioVGSyJiAODYHHjcIpqJqZkO-psgtxKHyeIr-6-Sy4
+TQID: 'https://experienceleague.adobe.com/UioVGSyJiAODYHHjcIpqJqZkO-psgtxKHyeIr-6-Sy4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 174
+source-wordcount: '174'
 ht-degree: 7%
-
 ---
-
 # 自訂星星和火焰 {#customize-stars-and-flames}
 
 [!DNL Marketo Sales Insight]會使用星星和火焰來排定潛在客戶的優先順序。 Marketo會自動決定誰會獲得1-2-3顆星/火焰。 不過，您可以修改公式。 方法如下:

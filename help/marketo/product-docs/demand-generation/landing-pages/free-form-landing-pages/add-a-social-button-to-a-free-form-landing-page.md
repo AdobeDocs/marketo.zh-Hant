@@ -5,16 +5,21 @@ title: 新增社交按鈕至自由格式登陸頁面
 exl-id: 36e19771-e038-4c7d-ac8b-561c5480722f
 hide: true
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/siTy0QNBBmitEfs7pg8xxW5Kdul2GF2NYRVTzTzQZPU
+TQID: 'https://experienceleague.adobe.com/siTy0QNBBmitEfs7pg8xxW5Kdul2GF2NYRVTzTzQZPU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 216
+source-wordcount: '216'
 ht-degree: 9%
-
 ---
-
 # 新增社交按鈕至自由格式登陸頁面 {#add-a-social-button-to-a-free-form-landing-page}
 
 社交按鈕可鼓勵人們與朋友分享您的內容。 將之拖曳至任意格式的登陸頁面、Facebook和您的網站。

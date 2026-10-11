@@ -1,19 +1,21 @@
 ---
 unique-page-id: 14352476
 description: 瞭解將Sales Connect同步到Salesforce時任務上的活動型別欄位。 瞭解任務型別在Salesforce中如何對應和顯示。
-title: 工作的活動類型欄位 (SFDC)
+title: 任務的活動類型欄位 (SFDC)
 exl-id: b291e641-d3af-4667-a01c-cd491cd87add
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/UJAL2pE3Pq0n7Sn9ev7GMGkBbgx12pZ0I5lBzfLpF1c
+TQID: 'https://experienceleague.adobe.com/UJAL2pE3Pq0n7Sn9ev7GMGkBbgx12pZ0I5lBzfLpF1c'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 259
+source-wordcount: '259'
 ht-degree: 6%
-
 ---
-
 # 工作的活動類型欄位 (SFDC) {#activity-type-field-on-tasks-sfdc}
 
 在[!DNL Sales Connect]的協助下，您可以在[!DNL Salesforce]中將您的電子郵件和通話記錄為活動。 在[!DNL Salesforce]中有寶貴資料的關鍵部分就是讓[!UICONTROL Type]欄位填入正確的值。

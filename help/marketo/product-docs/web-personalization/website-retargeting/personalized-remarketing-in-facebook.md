@@ -4,20 +4,23 @@ description: 瞭解Marketo Engage在facebook中的個人化再行銷，包括dnl
 title: Facebook 中的個人化再行銷
 exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/Pm54eQ-MPJ2hQeKyK2jFWHqjy1-t69Kzd2LB8fNcIKo
+TQID: 'https://experienceleague.adobe.com/Pm54eQ-MPJ2hQeKyK2jFWHqjy1-t69Kzd2LB8fNcIKo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 312
+source-wordcount: '312'
 ht-degree: 6%
-
 ---
-
 # [!DNL Facebook]中的個人化再行銷 {#personalized-remarketing-in-facebook}
 
 個人化再行銷可讓您利用RTP資料和Facebook再行銷的強大功能，重新與使用者互動。

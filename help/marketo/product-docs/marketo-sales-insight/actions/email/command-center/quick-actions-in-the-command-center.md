@@ -3,16 +3,18 @@ description: 瞭解指揮中心銷售電子郵件與工作的快速動作。 使
 title: 指揮中心的快速動作
 exl-id: e95cdb06-8a67-41ba-b528-c2478a75356f
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/ROXBWnNBGYavdHADhZZzh6A8yrmEpSJ2mfiPtxR33NQ
+TQID: 'https://experienceleague.adobe.com/ROXBWnNBGYavdHADhZZzh6A8yrmEpSJ2mfiPtxR33NQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 309
-ht-degree: 4%
-
+source-wordcount: '309'
+ht-degree: 3%
 ---
-
 # [!UICONTROL Command Center]中的快速動作 {#quick-actions-in-the-command-center}
 
 電子郵件格線中存在兩種型別的快速動作欄。 「電子郵件動作」可讓您對電子郵件執行動作，而「後續動作」可讓您按幾下滑鼠即可執行參與動作。
@@ -89,7 +91,7 @@ ht-degree: 4%
 
 ![](assets/quick-actions-in-the-command-center-1.png)
 
-| 功能 | 說明 |
+| 函式 | 說明 |
 |---|---|
 | 傳送後續追蹤電子郵件 | 開啟撰寫視窗，其中已附加選取的內嵌電子郵件內文，並準備好傳送給收件者。 |
 | 進行通話 | 開啟銷售電話以撥打電子郵件收件者。 |

@@ -4,19 +4,25 @@ description: 瞭解如何使用方案焦點直接在行銷行事曆中建立專�
 title: 直接在行銷行事曆中建立條目
 exl-id: 114b94e8-39f0-4e5d-abb0-27515957b33f
 feature: Marketing Calendar
-TQID: https://experienceleague.adobe.com/75swCAACWlMezXWceh-V8RyDujqrtLNOSDtuJJyjb2E
+TQID: 'https://experienceleague.adobe.com/75swCAACWlMezXWceh-V8RyDujqrtLNOSDtuJJyjb2E'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+subfeature_v2:
+  - id: a572083b-9238-40c5-8a10-cf294c415aab
+    internal-label: marketing calendar
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 128
+source-wordcount: '128'
 ht-degree: 14%
-
 ---
-
 # 直接在行銷行事曆中建立條目 {#create-entries-directly-in-the-marketing-calendar}
 
 Marketo可讓您使用方案焦點模式，直接在行銷行事曆中建立專案。 您可以建立下列專案型別：

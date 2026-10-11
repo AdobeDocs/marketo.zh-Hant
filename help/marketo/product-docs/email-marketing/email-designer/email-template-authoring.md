@@ -4,29 +4,41 @@ title: 電子郵件範本
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
-TQID: https://experienceleague.adobe.com/En79ezOIpQCGnmPv9HasACkYY4ssfpsFOI-7IOj5Y4s
+TQID: 'https://experienceleague.adobe.com/En79ezOIpQCGnmPv9HasACkYY4ssfpsFOI-7IOj5Y4s'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
 subfeature_v2:
   - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+    internal-label: Adobe Identity Management
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1787
-ht-degree: 1%
-
+source-wordcount: '1788'
+ht-degree: 2%
 ---
-
 # 電子郵件範本編寫 {#email-template-authoring}
 
 為了加速並改善設計流程，您可以建立獨立的電子郵件範本，以輕鬆重複使用自訂內容。
@@ -298,9 +310,9 @@ ht-degree: 1%
 
 * 檢視案頭、行動裝置或純文字/純文字的內容。
 
-   * 按一下即時檢視（眼睛）圖示，即可跨裝置預覽內容。
+  * 按一下即時檢視（眼睛）圖示，即可跨裝置預覽內容。
 
-   * 選取其中一個現成可用的裝置，或輸入自訂維度來預覽您的內容。
+  * 選取其中一個現成可用的裝置，或輸入自訂維度來預覽您的內容。
 
 ### 更多選項 {#more-options}
 

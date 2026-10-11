@@ -4,13 +4,19 @@ description: 瞭解如何使用建立機會影響力，在Marketo Engage中建�
 title: 建立機會影響分析工具
 exl-id: a1ae4407-3668-4289-b177-fad1aee6c876
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 5%
-
 ---
-
 # 建立機會影響分析工具 {#create-an-opportunity-influence-analyzer}
 
 使用機會影響分析器來顯示行銷對重要交易的貢獻。 檢視您的方案和事件成功，以及商機生活中的有趣時刻。

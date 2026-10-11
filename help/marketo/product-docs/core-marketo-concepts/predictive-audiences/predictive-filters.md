@@ -3,25 +3,32 @@ description: 瞭解預測性篩選器，以透過AI鎖定對象。 在智慧列�
 title: 預測篩選器
 exl-id: 27736b80-cd8b-455d-9d73-c17d492d0906
 feature: Predictive Audiences
-TQID: https://experienceleague.adobe.com/-P6jjTHT-YDpoEE6yg23rd48s3YYN4kzABbJwZp4rig
+TQID: 'https://experienceleague.adobe.com/-P6jjTHT-YDpoEE6yg23rd48s3YYN4kzABbJwZp4rig'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: 60e4be0b-b3ea-5f4e-8b8c-da0f5a08dacd
+    internal-label: Predictive Audiences
 subfeature_v2:
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
   - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+    internal-label: Event programs
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 425
+source-wordcount: '425'
 ht-degree: 0%
-
 ---
-
 # 預測篩選器 {#predictive-filters}
 
 作為預測對象的一部分，Marketo在智慧行銷活動的智慧清單中提供一組以AI/ML為基礎的篩選器。

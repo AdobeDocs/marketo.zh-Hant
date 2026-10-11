@@ -1,21 +1,27 @@
 ---
 unique-page-id: 8783322
 description: 瞭解如何執行Validate Sync工具以驗證Microsoft Dynamics和Marketo設定。 在建立最終連線之前，請檢視「管理員」中的七個步驟檢查清單。
-title: 驗證 [!DNL Microsoft Dynamics] 同步
+title: 驗證[!DNL Microsoft Dynamics]同步
 exl-id: 00297a8d-36c3-42f6-a9b8-4a8dd7c1f30d
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/np-8Y0EGZYlWX-hKe64kP-iEDVN4tDR-gmMdX4jmBdU
+TQID: 'https://experienceleague.adobe.com/np-8Y0EGZYlWX-hKe64kP-iEDVN4tDR-gmMdX4jmBdU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Customer experience
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 261
+source-wordcount: '262'
 ht-degree: 5%
-
 ---
-
 # 驗證[!DNL Microsoft Dynamics]同步 {#validate-microsoft-dynamics-sync}
 
 >[!CAUTION]

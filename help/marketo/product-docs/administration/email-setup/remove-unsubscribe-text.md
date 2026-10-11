@@ -4,13 +4,20 @@ description: 將連結建立至範本時，使用HTML註解從管理員電子郵
 title: 移除取消訂閱文字
 exl-id: 2961a9b6-8b35-4227-bf8a-a07b2664a6c4
 feature: Email Setup
-source-git-commit: 9c4f0d0a43d3ef06132d827b605b9e42de712e22
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: a03c57fb-0705-4a0d-b463-bbc931d4cefa
+    internal-label: Email setup
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 8%
-
 ---
-
 # 移除取消訂閱文字 {#remove-unsubscribe-text}
 
 您應從&#x200B;**[!UICONTROL Admin]** > **[!UICONTROL Email]**&#x200B;區域完全移除取消訂閱內容的唯一原因是，您選擇將取消訂閱連結建置到電子郵件範本中。 文字方塊已驗證，不允許您儲存不含任何內容。 您可以新增小型HTML評論來解決這個問題。 HTML註解不會顯示在電子郵件使用者端中，因為它在HTML中呈現電子郵件，且會忽略註解。

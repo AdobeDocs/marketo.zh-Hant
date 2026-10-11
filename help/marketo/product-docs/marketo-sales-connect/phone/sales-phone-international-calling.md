@@ -4,16 +4,18 @@ description: 瞭解Sales Connect中的Sales Phone國際通話。 撥打並記錄
 title: 銷售電話國際通話
 exl-id: 5a5956fe-67f3-41dd-bbbe-b0cea1ded6f0
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/IYUuKHJBRfSrVMWH-jxgAFkgyDZo2GbIfvd4tNW-Krc
+TQID: 'https://experienceleague.adobe.com/IYUuKHJBRfSrVMWH-jxgAFkgyDZo2GbIfvd4tNW-Krc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 409
+source-wordcount: '409'
 ht-degree: 23%
-
 ---
-
 # 銷售電話國際通話 {#sales-phone-international-calling}
 
 銷售電話可讓您輕鬆進行國際溝通。 若客戶從美國境內來電，則銷售電話可用於撥打到國際國家/地區的來電。 對於美國境外的客戶，我們支援國際客戶來電。

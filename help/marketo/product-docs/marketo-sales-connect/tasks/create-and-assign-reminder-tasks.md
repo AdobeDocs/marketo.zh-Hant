@@ -3,16 +3,18 @@ description: 瞭解如何在Sales Connect中建立和指派提醒工作。 為�
 title: 建立並指派提醒工作
 exl-id: bc486795-7ce2-4336-834d-ecfd5efc348e
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/VrxKfa2gNANSUxw5nfENMSJpqgwgWx6AdUcWiuNeEjs
+TQID: 'https://experienceleague.adobe.com/VrxKfa2gNANSUxw5nfENMSJpqgwgWx6AdUcWiuNeEjs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 146
+source-wordcount: '146'
 ht-degree: 10%
-
 ---
-
 # 建立並指派提醒工作 {#create-and-assign-reminder-tasks}
 
 提醒工作是瞭解客戶和潛在客戶參與情況的絕佳方式。 若要建立任務，請依照下列步驟進行。

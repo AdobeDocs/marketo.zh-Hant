@@ -4,16 +4,18 @@ description: 瞭解任務在Sales Connect行銷活動中的運作方式。 使�
 title: 在行銷活動中使用工作
 exl-id: 444e7e3a-d774-40cf-82d1-40e395a79baa
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/Irny7uMXziNEfsD1pww-v1MB68eDAWKFoQgCYXYsLhA
+TQID: 'https://experienceleague.adobe.com/Irny7uMXziNEfsD1pww-v1MB68eDAWKFoQgCYXYsLhA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 209
+source-wordcount: '209'
 ht-degree: 3%
-
 ---
-
 # 在行銷活動中使用工作 {#using-tasks-in-campaigns}
 
 任務是將行銷活動傳送給聯絡人時的強大工具，尤其是如果您的銷售流程是多管道/接觸時。

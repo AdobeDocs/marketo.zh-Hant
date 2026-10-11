@@ -6,28 +6,39 @@ description: 瞭解如何建立和使用片段作為可重複使用的電子郵�
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-TQID: https://experienceleague.adobe.com/sGWGa3VQda--5A2JtkUjFmqIUD2CG3RhrhoJtcRvAMs
+TQID: 'https://experienceleague.adobe.com/sGWGa3VQda--5A2JtkUjFmqIUD2CG3RhrhoJtcRvAMs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
   - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+    internal-label: Snippets
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1905
+source-wordcount: '1904'
 ht-degree: 1%
-
 ---
-
 # 片段
 
 片段是可重複使用的元件，可在一或多個電子郵件和電子郵件範本中參照。 這通常是可快速插入專案中的內容區塊（文字、影像或兩者）。 透過此功能，您可以預先建置多個自訂內容區塊，以組合電子郵件內容來改進設計流程。 常見的使用案例包括電子郵件的頁首/頁尾內容區塊、事件邀請橫幅、季節性訊息等。
@@ -314,7 +325,7 @@ ht-degree: 1%
 
 >[!TIP]
 >
->如果您希望片段佔據電子郵件內的整個水準配置，請新增[!UICONTROL 1:1欄]結構，然後將片段拖放到其中。
+>如果您希望片段佔據電子郵件內的整個水準版面，請新增[!UICONTROL 1:1 column]結構，然後將片段拖放至其中。
 
 儲存電子郵件/電子郵件範本後，當選取&#x200B;_[!UICONTROL Used By]_&#x200B;索引標籤時，其會出現在片段詳細資訊頁面中。 新增的片段在電子郵件或範本中無法編輯 — 發佈的來源片段會定義內容。
 

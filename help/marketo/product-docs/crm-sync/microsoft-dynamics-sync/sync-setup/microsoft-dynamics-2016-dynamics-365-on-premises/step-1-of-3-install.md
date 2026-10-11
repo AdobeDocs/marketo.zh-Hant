@@ -1,18 +1,23 @@
 ---
 description: 瞭解如何在Dynamics 2016或Dynamics 365內部部署安裝Marketo解決方案。 在Dynamics中匯入解決方案並完成安裝步驟。
-title: 安裝Marketo for [!DNL Microsoft Dynamics] 2016/Dynamics 365內部部署步驟1之3
+title: 為[!DNL Microsoft Dynamics]安裝Marketo 2016/Dynamics 365內部部署步驟1/3
 exl-id: 0a494ae7-87da-4ff9-bb47-990b957533e1
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/E0wIT7zgodm4Ujjt8yuU4KIA9csv8iK3PMmC6X2ifRA
+TQID: 'https://experienceleague.adobe.com/E0wIT7zgodm4Ujjt8yuU4KIA9csv8iK3PMmC6X2ifRA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 305
+source-wordcount: '306'
 ht-degree: 0%
-
 ---
-
 # 步驟3之1：為Marketo設定Sync使用者（2016內部部署/Dynamics 365內部部署） {#step-of-configure-sync-user-for-marketo-on-premises-2016}
 
 您必須先在Dynamics中安裝Marketo解決方案，才能與Marketo同步[!DNL Microsoft Dynamics] 2016內部部署/Dynamics 365。

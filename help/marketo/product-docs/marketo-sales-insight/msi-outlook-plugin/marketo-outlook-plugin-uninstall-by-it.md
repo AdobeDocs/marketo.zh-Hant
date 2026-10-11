@@ -1,22 +1,26 @@
 ---
 unique-page-id: 11382829
 description: 瞭解IT人員如何解除安裝Marketo Outlook外掛程式。 需要時從使用者電腦移除增益集。
-title: Marketo [!DNL Outlook] 外掛程式由IT解除安裝
+title: Marketo [!DNL Outlook]外掛程式由IT解除安裝
 exl-id: 678684da-3e99-462f-9950-504df1c1bb1e
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/p2CjKHycrJRHLpphyn2qsUEKP-dWh2OlTezwrOn9Ljw
+TQID: 'https://experienceleague.adobe.com/p2CjKHycrJRHLpphyn2qsUEKP-dWh2OlTezwrOn9Ljw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 138
+source-wordcount: '139'
 ht-degree: 2%
-
 ---
-
 # Marketo [!DNL Outlook]外掛程式由IT解除安裝 {#marketo-outlook-plugin-uninstall-by-it}
 
 以下是IT如何從遠端解除安裝Marketo [!DNL Outlook]外掛程式。

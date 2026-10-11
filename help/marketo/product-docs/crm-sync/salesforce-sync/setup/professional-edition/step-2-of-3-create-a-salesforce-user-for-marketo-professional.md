@@ -4,18 +4,24 @@ description: 瞭解如何使用Professional版本為Marketo建立Salesforce使�
 title: 步驟3之2 — 建立Marketo的Salesforce使用者（專業）
 exl-id: 7eb4bf89-b6e4-45e0-adee-e2976cb01dd3
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/BrxRg4uQfMHXiQYXbIyBL4OkP9-HCJLSXVPEKMHD7C4
+TQID: 'https://experienceleague.adobe.com/BrxRg4uQfMHXiQYXbIyBL4OkP9-HCJLSXVPEKMHD7C4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Accessibility
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 352
+source-wordcount: '352'
 ht-degree: 0%
-
 ---
-
 # 步驟3之2：建立Marketo (Professional)的[!DNL Salesforce]使用者 {#step-of-create-a-salesforce-user-for-marketo-professional}
 
 >[!NOTE]

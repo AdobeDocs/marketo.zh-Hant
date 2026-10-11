@@ -1,22 +1,28 @@
 ---
-description: 增加或減少電子郵件中 [!DNL Velocity] 指令碼的父級自訂物件擷取限制（10至100）。
-title: 變更 [!DNL Velocity Scripting]中的自訂物件擷取限制
+description: 增加或減少電子郵件（10至100）中[!DNL Velocity]指令碼的父級自訂物件擷取限制。
+title: 變更[!DNL Velocity Scripting]中的自訂物件擷取限制
 exl-id: ef45205e-421d-4d1d-8c9d-7d627326a90c
 feature: Email Setup
-TQID: https://experienceleague.adobe.com/8zdwliEWuUxePbN3RyElJZydMfPHO8sQbgZbaTda6iY
+TQID: 'https://experienceleague.adobe.com/8zdwliEWuUxePbN3RyElJZydMfPHO8sQbgZbaTda6iY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: a03c57fb-0705-4a0d-b463-bbc931d4cefa
+    internal-label: Email setup
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 236
+source-wordcount: '237'
 ht-degree: 1%
-
 ---
-
 # 變更[!DNL Velocity Scripting]中的自訂物件擷取限制 {#change-custom-object-retrieval-limits-in-velocity-scripting}
 
 如果您使用[!DNL Velocity Script]在電子郵件中顯示自訂物件資料，則此功能可能適用於您的使用案例。 依預設，您可以從Velocity指令碼存取10個父項自訂物件。 如果您需要存取更多資訊，請參閱下列步驟。

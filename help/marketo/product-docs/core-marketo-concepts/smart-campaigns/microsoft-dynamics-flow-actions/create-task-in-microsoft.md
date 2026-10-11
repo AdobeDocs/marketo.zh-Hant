@@ -1,22 +1,27 @@
 ---
 unique-page-id: 37356429
 description: 瞭解如何透過流程步驟在Microsoft Dynamics中建立任務。 當有人進入流程時，為擁有者建立任務。
-title: 在Microsoft中建立任務
+title: 在 Microsoft 中建立工作
 exl-id: b9ae425b-edf1-4aae-92f4-e7c6cf647cdc
 feature: Smart Campaigns, Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/qQL3O4Vi8ncdlXtk2gvraWzquz3oZx5B-1YWTkwdVac
+TQID: 'https://experienceleague.adobe.com/qQL3O4Vi8ncdlXtk2gvraWzquz3oZx5B-1YWTkwdVac'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Smart Campaigns
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 180
-ht-degree: 0%
-
+source-wordcount: '180'
+ht-degree: 4%
 ---
-
-# 在Microsoft中建立任務 {#create-task-in-microsoft}
+# 在 Microsoft 中建立工作 {#create-task-in-microsoft}
 
 身為行銷人員，您擁有可協助銷售完成交易的資訊。 您可以建立任務，讓他們知道應該做什麼，以及何時應該做。
 

@@ -4,18 +4,23 @@ description: 瞭解如何排程您的電子郵件計畫。 設定傳遞的日期
 title: 安排您的電子郵件方案的執行時間
 exl-id: c125166f-3e0d-49a5-ad83-7abac51da713
 feature: Email Programs
-TQID: https://experienceleague.adobe.com/mB-ot4Cdsc80DCdpPOzzY9QRyfvNYwZb4xZbiHUq1vE
+TQID: 'https://experienceleague.adobe.com/mB-ot4Cdsc80DCdpPOzzY9QRyfvNYwZb4xZbiHUq1vE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 141
+source-wordcount: '141'
 ht-degree: 8%
-
 ---
-
 # 安排您的電子郵件方案的執行時間 {#schedule-your-email-program}
 
 >[!PREREQUISITES]
