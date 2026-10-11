@@ -106,6 +106,6 @@ ht-degree: 2%
 
 ## Marketo銷售人員選擇退出 {#marketo-sales-opt-out}
 
-Marketo銷售選擇退出欄位是自訂欄位，適用於已從AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}安裝Marketo銷售Insight套件[的使用者。
+Marketo銷售選擇退出欄位是自訂欄位，適用於已從AppExchange[&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}安裝Marketo銷售Insight套件的使用者。
 
 成功從AppExchange將Marketo Sales Insight套件安裝到Salesforce後，您會看到可用的Marketo Sales Opt Out欄位。

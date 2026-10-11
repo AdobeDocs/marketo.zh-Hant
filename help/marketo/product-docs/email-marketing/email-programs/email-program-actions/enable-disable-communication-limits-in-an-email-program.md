@@ -32,7 +32,7 @@ ht-degree: 12%
 
 >[!NOTE]
 >
->通訊限制在管理員區段](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)中設定為[，可協助您避免傳送過多電子郵件給某人。
+>通訊限制在管理員區段[&#128279;](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)中設定為，可協助您避免傳送過多電子郵件給某人。
 
 1. 前往 **[!UICONTROL Marketing Activities]**。
 

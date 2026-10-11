@@ -68,7 +68,7 @@ Marketo提供的一項功能，可限制符合Smart Campaign資格的&#x200B;_�
 
    >[!CAUTION]
    >
-   >此限制會套用至所有Smart Campaigns，但可在行銷活動層級覆寫。 瞭解如何在Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)中[覆寫人員限制。
+   >此限制會套用至所有Smart Campaigns，但可在行銷活動層級覆寫。 瞭解如何在Smart Campaign[&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)中覆寫人員限制。
 
 >[!MORELIKETHIS]
 >

@@ -29,7 +29,7 @@ ht-degree: 2%
 >
 >由於Salesforce的安全性增強，銷售Insight套件無法再授與標準物件的許可權。 日後，Sales Insight使用者的Salesforce設定檔需要具備下列標準物件的讀取存取權：銷售機會、連絡人、帳戶和機會。 [在此瞭解如何設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#grant-sales-insight-users-profile-access){target="_blank"}。
 
-1. 在appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO){target="_blank"}中導覽至[此頁面。
+1. 在appexchange[&#128279;](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO){target="_blank"}中導覽至此頁面。
 
 1. 從步驟一的頁面右上角，登入您的[!DNL Salesforce]執行個體（連線到您的Marketo執行個體的執行個體，可以是沙箱或生產環境）。 您必須擁有管理員許可權，才能在[!DNL Salesforce]中安裝/升級Managed套件。
 
@@ -39,7 +39,7 @@ ht-degree: 2%
    >
    >建議您在升級生產執行個體之前，先在沙箱執行個體上測試此專案。
 
-1. 您可以選擇「僅供管理員安裝」（並在稍後提供特定設定檔的MSI存取權）、「為所有使用者安裝」或「為特定設定檔安裝」來升級套件。 在此範例中，我們選擇「僅限管理員」。 當您選擇完畢後，請按一下[升級]。****
+1. 您可以選擇「僅供管理員安裝」（並在稍後提供特定設定檔的MSI存取權）、「為所有使用者安裝」或「為特定設定檔安裝」來升級套件。 在此範例中，我們選擇「僅限管理員」。 當您選擇完畢後，請按一下[升級]。**&#x200B;**
 
    ![](assets/four.png)
 

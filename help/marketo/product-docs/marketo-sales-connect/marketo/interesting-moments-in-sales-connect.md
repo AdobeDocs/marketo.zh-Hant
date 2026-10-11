@@ -26,7 +26,7 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->* 您必須有Salesforce CRM](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md){target="_blank"}的[連線
+>* 您必須有Salesforce CRM[&#128279;](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md){target="_blank"}的連線
 >* 您必須是Salesforce中的銷售機會或聯絡人擁有者
 >* 您必須擁有[授與Marketo Engage連線存取權](/help/marketo/product-docs/marketo-sales-connect/marketo/granting-access-to-users.md){target="_blank"}的存取權
 

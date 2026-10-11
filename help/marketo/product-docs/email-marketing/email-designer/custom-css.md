@@ -61,7 +61,7 @@ ht-degree: 3%
 
    >[!NOTE]
    >
-   >使用包含鎖定內容](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md)的[範本時，您無法新增自訂CSS至您的內容。 按鈕標籤變更為&#x200B;**[!UICONTROL View custom CSS]**，且顯示的任何自訂CSS都是唯讀的。
+   >使用包含鎖定內容[&#128279;](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md)的範本時，您無法新增自訂CSS至您的內容。 按鈕標籤變更為&#x200B;**[!UICONTROL View custom CSS]**，且顯示的任何自訂CSS都是唯讀的。
 
 1. 請確定CSS套用至您的內容。 如果不適用，請檢查[疑難排解](#troubleshooting)區段。
 

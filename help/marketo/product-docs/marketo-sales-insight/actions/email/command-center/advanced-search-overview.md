@@ -88,13 +88,13 @@ ht-degree: 4%
 
 ![](assets/advanced-search-overview-9.png)
 
-_**狀態：已傳送**_
+_&#x200B;**狀態：已傳送**&#x200B;_
 
 ![](assets/advanced-search-overview-10.png)
 
 依您傳送的電子郵件活動篩選。 您可以選擇[!UICONTROL views]/[!UICONTROL no views]、[!UICONTROL clicks]/[!UICONTROL no clicks]和/或[!UICONTROL replies]/[!UICONTROL no replies]。
 
-_**狀態：擱置中**_
+_&#x200B;**狀態：擱置中**&#x200B;_
 
 ![](assets/advanced-search-overview-11.png)
 
@@ -119,7 +119,7 @@ _**狀態：擱置中**_
  </tr>
 </table>
 
-_**狀態：未傳遞**_
+_&#x200B;**狀態：未傳遞**&#x200B;_
 
 ![](assets/advanced-search-overview-12.png)
 

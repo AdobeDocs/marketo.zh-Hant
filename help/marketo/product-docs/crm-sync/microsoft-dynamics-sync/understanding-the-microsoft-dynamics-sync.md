@@ -52,7 +52,7 @@ Marketo一整天都在與[!DNL Microsoft Dynamics]持續同步資料。 這是�
 * [機會](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
 * [自訂實體](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md)
 
-您在Marketo中為 [!DNL Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)輸入的[認證可用來同步資料。
+您在Marketo中為 [!DNL Dynamics]&#x200B;[&#128279;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)輸入的認證可用來同步資料。
 
 >[!NOTE]
 >

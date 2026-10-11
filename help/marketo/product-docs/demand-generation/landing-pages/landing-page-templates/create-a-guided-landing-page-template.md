@@ -40,7 +40,7 @@ ht-degree: 22%
 
 ## 文字 {#text}
 
-如果您將區域定義為 RTF 文字，則使用者即可](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)使用 Marketo 的 RTF 文字編輯器[編輯其內容。
+如果您將區域定義為 RTF 文字，則使用者即可[&#128279;](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)使用 Marketo 的 RTF 文字編輯器編輯其內容。
 
 必要的屬性：
 

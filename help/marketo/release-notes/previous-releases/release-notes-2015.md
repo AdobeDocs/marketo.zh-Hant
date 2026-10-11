@@ -80,7 +80,7 @@ ht-degree: 1%
 
 您現在可以從登入頁面編輯器中[建立登入頁面](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)的行動檢視。 無論裝置為何，都能有效傳遞您的訊息，並藉由量身打造您的內容以提升參與度，讓您在行動中輕鬆使用。 此功能將在發行後的一週內逐步推出。
 
-[ — 登陸頁面逐步說明影片 — ](https://youtu.be/aPQHlG2X6c0)
+[&#x200B; — 登陸頁面逐步說明影片 — &#x200B;](https://youtu.be/aPQHlG2X6c0)
 
 **新REST API呼叫**
 
@@ -193,7 +193,7 @@ ht-degree: 1%
 
 [新資產REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/assets)
 
-我們現在支援透過API建立和編輯電子郵件、範本、我的Token、檔案和程式碼片段[](https://developer.adobe.com/marketo-apis/api/asset/)！
+我們現在支援透過API建立和編輯電子郵件、範本、我的Token、檔案和程式碼片段[&#128279;](https://developer.adobe.com/marketo-apis/api/asset/)！
 
 ## [!DNL Microsoft Dynamics] 2015年內部部署 {#microsoft-dynamics-on-premise}
 
@@ -380,7 +380,7 @@ RTP： [拖放區段編輯器](/help/marketo/product-docs/web-personalization/us
 
 ## [!DNL Google Chrome]的Marketo深入分析 {#marketo-insights-for-google-chrome}
 
-[ [!DNL Google Chrome]的Marketo深入分析](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+[&#x200B; [!DNL Google Chrome]的Marketo深入分析](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
 我們很高興宣佈[!DNL Google Mail] [!DNL Sales Insight]擴充功能的更新發行！ 在[[!DNL Chrome Store]](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb)中檢視它。
 

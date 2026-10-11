@@ -104,7 +104,7 @@ ht-degree: 6%
 
 ![（星形）](assets/yellow-star.png)
 
-[!DNL Salesforce] CRM **的**[!DNL Sales Insight]
+[!DNL Salesforce] CRM **的**&#x200B;[!DNL Sales Insight]
 
 * **適用於[!UICONTROL Best Bets]**&#x200B;的新型別欄：賣家將透過標籤為「型別」的新欄取得更快的深入分析，以區分[!UICONTROL Best Bets]頁面上的潛在客戶與聯絡人。
 
@@ -112,7 +112,7 @@ ht-degree: 6%
 
 * **已更新品牌**：正在更新所有[!DNL Sales Insight]頁面，以符合Adobe品牌。
 
-[!DNL Microsoft Dynamics]**的**[!DNL Sales Insight]
+[!DNL Microsoft Dynamics]&#x200B;**的**&#x200B;[!DNL Sales Insight]
 
 * **已更新帳戶配置**：賣家可取得熱門活動的集體檢視，例如：電子郵件活動、網路活動、有趣的時刻，以及帳戶內所有連絡人的分數變更。
 
@@ -315,7 +315,7 @@ ht-degree: 6%
 
 ![（星形）](assets/yellow-star.png)
 
-* 在&#x200B;[!DNL Salesforce]**中設定的**[!DNL Sales Insight]&#x200B;許可權：管理員可以透過Marketo App許可權集（屬於[!DNL Sales Insight] [!DNL Salesforce]套件的一部分）提供[!DNL Sales Insight]存取權給使用者層級的有限人員集合，而非設定檔層級。
+* 在&#x200B;[!DNL Salesforce]&#x200B;**中設定的**&#x200B;[!DNL Sales Insight]&#x200B;許可權：管理員可以透過Marketo App許可權集（屬於[!DNL Sales Insight] [!DNL Salesforce]套件的一部分）提供[!DNL Sales Insight]存取權給使用者層級的有限人員集合，而非設定檔層級。
 
 * **我的Marketo動態磚更新 — [!DNL Sales Insight]動作**： Marketo管理員（以及他們指定的使用者）現在可以透過位於「我的Marketo」頁面上的新[!DNL Sales Insight]動作動態磚，快速導覽至他們的[!DNL Sales Insight]動作執行個體。
 
@@ -380,7 +380,7 @@ ht-degree: 6%
 
 * **Webhook自訂標題可見性**： Webhook自訂標題現在顯示在[!UICONTROL Admin] > [!UICONTROL Webhooks]索引標籤中，以便更佳的可見性。
 
-* **CAPTCHA**：使用reCAPTCHA v3](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target="_blank"}評估表單提交的有效性[以評分傳入的表單流量。 建立行銷工作流程，以自動排除、隔離或刪除可疑的機器人流量。
+* **CAPTCHA**：使用reCAPTCHA v3[&#128279;](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target="_blank"}評估表單提交的有效性以評分傳入的表單流量。 建立行銷工作流程，以自動排除、隔離或刪除可疑的機器人流量。
 
 * **核准表單的許可權**：新許可權，可控制哪些設計人員可核准與其他[!UICONTROL Design Studio]資產一致的表單變更。 這可以防止其他設計人員在沒有其他具有核准許可權的人員審閱表單的情況下，將變更推送至表單。
 

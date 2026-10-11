@@ -27,7 +27,7 @@ ht-degree: 3%
 >
 >Sales Insight的Gmail和Outlook電子郵件外掛程式中不提供「銷售Insight動作」功能，包括「傳送銷售電子郵件」、「新增至銷售促銷活動」和「工作」。 目前，使用者只有在使用銷售Marketo電子郵件外掛程式時，才能從電子郵件使用者端傳送包含或不包含Insight電子郵件範本的可追蹤電子郵件。
 
-1. 從Marketo網站商店安裝Google Chrome Add擴充功能](https://chrome.google.com/webstore/detail/marketo-for-google-mail/jjkfbhajlmoeegbjgjipliamplidmbjb){target="_blank"}的[Chrome Insights。
+1. 從Marketo網站商店安裝Google Chrome Add擴充功能[&#128279;](https://chrome.google.com/webstore/detail/marketo-for-google-mail/jjkfbhajlmoeegbjgjipliamplidmbjb){target="_blank"}的Chrome Insights。
 
    ![](assets/image2015-10-5-10-3a24-3a7.png)
 

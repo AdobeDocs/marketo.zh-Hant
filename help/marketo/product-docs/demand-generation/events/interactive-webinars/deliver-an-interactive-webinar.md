@@ -102,7 +102,7 @@ Broadcast Control為您的互動式網路研討會新增虛擬的綠色空間。
 
 您可以設定「廣播控制項」，在您離開綠色房間後自動開始錄製。 這可確保主機不必記得手動啟動和停止錄製。 暫停或停止廣播也會暫停或停止錄製。 一切都是自動的。
 
-在此影片](https://www.youtube.com/watch?v=TcoCeEJoyjg){target="_blank"}中進一步瞭解廣播控制項[。
+在此影片[&#128279;](https://www.youtube.com/watch?v=TcoCeEJoyjg){target="_blank"}中進一步瞭解廣播控制項。
 
 ### 在錄製中聊天 {#chats-in-recordings}
 
@@ -132,7 +132,7 @@ Chat Pod中的討論會一律記錄下來。 因此，如果聊天討論可增�
 
 這會關閉「準備模式」並返回使用中的配置。
 
-在此影片](https://www.youtube.com/watch?v=kUya84sx-E4){target="_blank"}中進一步瞭解準備模式[。
+在此影片[&#128279;](https://www.youtube.com/watch?v=kUya84sx-E4){target="_blank"}中進一步瞭解準備模式。
 
 >[!NOTE]
 >

@@ -194,7 +194,7 @@ Visualforce頁面：
 
 >[!MORELIKETHIS]
 >
-> [!DNL Salesforce]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)中的[[!DNL Marketo Sales Insight] 設定索引標籤
+> [!DNL Salesforce]&#x200B;[&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)中的[!DNL Marketo Sales Insight] 設定索引標籤
 
 ## [!DNL Sales Insight]效能報表 {#sales-insight-performance-reports}
 

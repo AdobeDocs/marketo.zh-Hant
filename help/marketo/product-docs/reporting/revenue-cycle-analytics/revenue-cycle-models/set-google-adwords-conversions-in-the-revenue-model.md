@@ -1,6 +1,6 @@
 ---
 unique-page-id: 6095029
-description: 瞭解如何使用set dnl google在Marketo Engage的收入模型中設定[!dnl google adwords]轉換。 使用本指南完成您的下一個步驟。
+description: 瞭解如何使用set dnl google在Marketo Engage的收入模型中設定[ !dnl google adwords]轉換。 使用本指南完成您的下一個步驟。
 title: 在收入模型中設定[!DNL Google AdWords]轉換
 exl-id: dd1259fc-d3f2-44ec-8055-f75d55263b36
 feature: Reporting, Revenue Cycle Analytics

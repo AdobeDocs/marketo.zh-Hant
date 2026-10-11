@@ -65,7 +65,7 @@ Marketo Sales Insight是依語言儲存。 因此，如果您希望它適用於�
 
    ![](assets/image2015-7-6-16-3a7-3a15.png)
 
-1. 前往Marketo。 找到您的&#x200B;[[!DNL Marketo Sales Insight] **[!UICONTROL API configuration]**詳細資料](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-marketo-sales-insight)。
+1. 前往Marketo。 找到您的&#x200B;[[!DNL Marketo Sales Insight] **[!UICONTROL API configuration]**&#x200B;詳細資料](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-marketo-sales-insight)。
 
    ![](assets/image2015-7-6-16-3a41-3a2.png)
 
