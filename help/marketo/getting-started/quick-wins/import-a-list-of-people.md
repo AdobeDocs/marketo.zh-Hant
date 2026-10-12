@@ -138,7 +138,7 @@ ht-degree: 90%
    >
    >若有任何您不想匯入的欄位，請在 Marketo 欄位下拉式選單中選取「**忽略**」。
 
-1. 如果您已設定[人員分割](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions#person-partitions){target="_blank"}，請在這裡選取所要的。 在「**[!UICONTROL Acquisition Program]**」選取「**我的商展方案**」，然後按一下「**[!UICONTROL Import]**」。
+1. 如果您已設定[人員分割](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions#person-partitions){target="_blank"}，請在這裡選取所要的。 在「**[!UICONTROL Acquisition Program]**」選取「**我的商展方案**」，然後按一下「**[!UICONTROL Import]**」。
 
    ![](assets/import-a-list-of-people-13-new.png)
 

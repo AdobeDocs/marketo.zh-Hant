@@ -55,4 +55,4 @@ ht-degree: 13%
 
 >[!TIP]
 >
->您可以在[清單匯入](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people#step-import-your-spreadsheet-into-marketo:~:text=If%20you%20have%20Person%20Partitions%20set%20up){target="_blank"}程式期間，選取要篩選人員的特定人員分割。
+>您可以在[清單匯入](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people#step-import-your-spreadsheet-into-marketo:~:text=If%20you%20have%20Person%20Partitions%20set%20up){target="_blank"}程式期間，選取要篩選人員的特定人員分割。
