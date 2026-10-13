@@ -26,10 +26,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: 20b0f080c35bf826a85f78f7e96d239788a9fc8a
 workflow-type: tm+mt
-source-wordcount: '550'
-ht-degree: 18%
+source-wordcount: '578'
+ht-degree: 16%
 ---
 # 發行說明： 2026年9月 {#release-notes-sep-26}
 
@@ -61,8 +61,8 @@ ht-degree: 18%
   </tr>
   <tr>
    <td><strong>在匯入時選取分割區</strong>：現在當您在已啟用工作區與分割區的環境中匯入人員記錄時，可以從本機工作區的分割區清單中選取。</td>
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+   <td>已發行</td>
+   <td><a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people#step-import-your-spreadsheet-into-marketo:~:text=If%20you%20have%20Person%20Partitions%20set%20up" target="_blank">清單匯入</a></td>
   </tr>
   <tr>
    <td> </td>

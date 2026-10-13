@@ -25,10 +25,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: 20b0f080c35bf826a85f78f7e96d239788a9fc8a
 workflow-type: tm+mt
-source-wordcount: '553'
-ht-degree: 95%
+source-wordcount: '585'
+ht-degree: 90%
 ---
 # 匯入人員清單 {#import-a-list-of-people}
 
@@ -138,9 +138,9 @@ ht-degree: 95%
    >
    >若有任何您不想匯入的欄位，請在 Marketo 欄位下拉式選單中選取「**忽略**」。
 
-1. 在「**[!UICONTROL Acquisition Program]**」選取「**我的商展方案**」，然後按一下「**[!UICONTROL Import]**」。
+1. 如果您已設定[人員分割](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions#person-partitions){target="_blank"}，請在這裡選取所要的。 在「**[!UICONTROL Acquisition Program]**」選取「**我的商展方案**」，然後按一下「**[!UICONTROL Import]**」。
 
-   ![](assets/import-a-list-of-people-13.png)
+   ![](assets/import-a-list-of-people-13-new.png)
 
 1. 等待人員匯入完成，然後關閉匯入進度快顯視窗。
 
