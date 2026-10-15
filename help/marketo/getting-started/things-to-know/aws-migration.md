@@ -9,9 +9,9 @@ product_v2:
 feature_v2:
   - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
     internal-label: Getting Started
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: d7d7f0d50797571fde1b3a7141b4f50668a1b2b5
 workflow-type: tm+mt
-source-wordcount: '1227'
+source-wordcount: '1235'
 ht-degree: 4%
 ---
 # AWS移轉 {#aws-migration}
@@ -273,14 +273,8 @@ ht-degree: 4%
    AB22</td>
    <td>下午4點PDT<br>
    下午5點PDT</td>
-   <td>準時發行<br>
-   依排程</td>
-  </tr>
-  <tr>
-   <td>2026年10月14日</td>
-   <td>AB25</td>
-   <td>下午5點PDT</td>
-   <td>準時發行</td>
+   <td>已完成<br>
+   已完成</td>
   </tr>
   <tr>
    <td>2026年10月16日</td>
@@ -293,12 +287,9 @@ ht-degree: 4%
   </tr>
    <tr>
    <td>2026年10月21日</td>
-   <td>AB36<br>
-   AB38</td>
-   <td>下午5點PDT<br>
-   下午6點PDT</td>
-   <td>準時發行<br>
-   依排程</td>
+   <td>AB38</td>
+   <td>下午5點PDT</td>
+   <td>準時發行</td>
   </tr>
   <tr>
    <td>2026年10月22日</td>
@@ -311,9 +302,21 @@ ht-degree: 4%
   </tr>
   <tr>
    <td>2026年10月28日</td>
-   <td>AB15</td>
-   <td>下午5點PDT</td>
-   <td>準時發行</td>
+   <td>AB15<br>
+   AB25</td>
+   <td>下午5點PDT<br>
+   下午6點PDT</td>
+   <td>準時發行<br>
+   依排程</td>
+  </tr>
+  <tr>
+   <td>2026年11月6</td>
+   <td>AB18<br>
+   AB36</td>
+   <td>下午4點（太平洋標準時間）<br>
+   下午5點（太平洋標準時間）</td>
+   <td>準時發行<br>
+   依排程</td>
   </tr>
   </body>
 </table>
@@ -339,6 +342,12 @@ ht-degree: 4%
   <td>34.247.24.245<br>
 18.200.201.81<br>
 54.220.138.65</td>
+</tr>
+<tr>
+  <td>SJ</td>
+  <td>54.212.167.17<br>
+35.165.244.220<br>
+44.235.171.179</td>
 </tr>
 </body>
 </table>
