@@ -3,6 +3,7 @@ cloud: Experience Cloud
 solution: Marketo Engage
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: "Marketo Engage"
 usetq: true
 feature-set: Marketo Engage
 landing-page-name: marketo-engage
@@ -10,15 +11,13 @@ landing-page-breadcrumb-title: Marketo Engage
 product: marketo
 type: Documentation
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/marketo.zh-Hant
+git-repo: https://github.com/AdobeDocs/marketo.en
 index: true
 source-git-commit: 72f8ac539cf137b6eff8b8327f2d9e4da3d18f32
 workflow-type: tm+mt
-source-wordcount: 70
-ht-degree: 94%
-
+source-wordcount: '66'
+ht-degree: 100%
 ---
-
 
 # 僅限內部使用的中繼資料
 
