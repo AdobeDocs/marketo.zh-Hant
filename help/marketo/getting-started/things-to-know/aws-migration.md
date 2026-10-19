@@ -9,9 +9,9 @@ product_v2:
 feature_v2:
   - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
     internal-label: Getting Started
-source-git-commit: d7d7f0d50797571fde1b3a7141b4f50668a1b2b5
+source-git-commit: 629f12610d05f6caf1bb616504e256dccefe2f50
 workflow-type: tm+mt
-source-wordcount: '1235'
+source-wordcount: '1228'
 ht-degree: 4%
 ---
 # AWS移轉 {#aws-migration}
@@ -34,7 +34,7 @@ ht-degree: 4%
 
 * **檢閱並更新IP允許清單**，以取得登入、API存取、電子郵件傳送、網頁追蹤和整合。
 
-* **新增IP位址**&#x200B;並保留您目前的IP不變。 檢視要透過下方[&#128279;](#ip-addresses)的表格新增的IP位址。
+* **新增IP位址**&#x200B;並保留您目前的IP不變。 檢視要透過下方](#ip-addresses)的[表格新增的IP位址。
 
 ## 預期的服務影響 {#impacts}
 
@@ -47,7 +47,7 @@ ht-degree: 4%
 
 >[!IMPORTANT]
 >
->如果您使用[外部表單](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}，並且想要避免在移轉期間無法使用Marketo Engage時收集而遺失表單提交資料，請事先聯絡[Adobe支援](https://experienceleague.adobe.com/zh-hant/support){target="_blank"} **至少兩個工作日**，並提供表單ID和您訂閱的Munchkin ID。
+>如果您使用[外部表單](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}，並且想要避免在移轉期間無法使用Marketo Engage時收集而遺失表單提交資料，請事先聯絡[Adobe支援](https://experienceleague.adobe.com/en/support){target="_blank"} **至少兩個工作日**，並提供表單ID和您訂閱的Munchkin ID。
 
 ## 識別您的資料中心/Pod {#identify}
 
@@ -278,12 +278,9 @@ ht-degree: 4%
   </tr>
   <tr>
    <td>2026年10月16日</td>
-   <td>AB23<br>
-   AB26</td>
-   <td>下午4點PDT<br>
-   下午5點PDT</td>
-   <td>準時發行<br>
-   依排程</td>
+   <td>AB23</td>
+   <td>下午4點PDT</td>
+   <td>已完成</td>
   </tr>
    <tr>
    <td>2026年10月21日</td>
@@ -356,9 +353,9 @@ ht-degree: 4%
 
 如需最新資訊，請將此頁面加入書籤。
 
-若要取得狀態更新，您可以[訂閱以在移轉開始和完成時收到這些更新](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"}。 您也可以在移轉期間造訪[status.adobe.com](https://status.adobe.com/zh-tw/){target="_blank"}。
+若要取得狀態更新，您可以[訂閱以在移轉開始和完成時收到這些更新](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"}。 您也可以在移轉期間造訪[status.adobe.com](https://status.adobe.com/){target="_blank"}。
 
-如果您有任何問題，請透過Admin Console的支援入口網站或[Experience League](https://experienceleague.adobe.com/zh-hant/support){target="_blank"}聯絡Adobe支援。
+如果您有任何問題，請透過Admin Console的支援入口網站或[Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}聯絡Adobe支援。
 
 ## 常見問題集 {#faq}
 
@@ -384,6 +381,6 @@ Aurora也會即時執行持續自動備份至Amazon S3，以便在設定的保�
 **暫停行銷活動是否有任何其他選擇？**
 是的。 如果您想防止人員前進但不想遺失傳入的資料，請考慮以下選項：
 
-* 新增選擇步驟：不要停用您的行銷活動，讓行銷活動保持作用中，但在流程最上方新增[等待流程步驟](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/wait-overview){target="_blank"}或立即的「不做任何事」步驟。 設定[選擇規則](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step){target="_blank"}，將您的人員導向此暫停狀態，然後在您準備好時更新選擇規則。
-* 從流量移除：如果人員已進入行銷活動，但您需要停止其進度，請使用[從流量移除](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow){target="_blank"}動作將其拉出，而不永久停用行銷活動的觸發器。
+* 新增選擇步驟：不要停用您的行銷活動，讓行銷活動保持作用中，但在流程最上方新增[等待流程步驟](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/wait-overview){target="_blank"}或立即的「不做任何事」步驟。 設定[選擇規則](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step){target="_blank"}，將您的人員導向此暫停狀態，然後在您準備好時更新選擇規則。
+* 從流量移除：如果人員已進入行銷活動，但您需要停止其進度，請使用[從流量移除](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow){target="_blank"}動作將其拉出，而不永久停用行銷活動的觸發器。
 * 替代批次：如果您不需要立即路由或回應，而且只想隔夜或依排程間隔處理人員，請考慮將觸發行銷活動轉換為批次行銷活動。
