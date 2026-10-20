@@ -35,7 +35,7 @@ ht-degree: 3%
 | `{{my_signature}}` | Keith Flynn，資深技術撰稿人 — Adobe |
 | `{{personal_email}}` | <keith@pickyouremail.com> |
 | `{{title}}` | 資深技術撰稿人 |
-| `{{work_website}}` | <https://www.adobe.com> |
+| `{{work_website}}` | <https://www.adobe.com/tw> |
 
 **注意事項**：
 

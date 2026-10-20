@@ -51,7 +51,7 @@ ht-degree: 7%
 
 >[!TIP]
 >
->保持資料庫整潔，以保持高傳遞能力。 [Adobe要求](https://www.adobe.com/legal/terms/aup.html)客戶只傳送行銷通訊給已選擇加入/要求接收電子郵件的人員。 請勿傳送未經請求的電子郵件。
+>保持資料庫整潔，以保持高傳遞能力。 [Adobe要求](https://www.adobe.com/tw/legal/terms/aup.html)客戶只傳送行銷通訊給已選擇加入/要求接收電子郵件的人員。 請勿傳送未經請求的電子郵件。
 
 >[!CAUTION]
 >

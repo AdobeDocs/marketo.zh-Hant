@@ -26,7 +26,7 @@ ht-degree: 0%
 ---
 # 條件式電子郵件開啟追蹤 {#conditional-open-tracking}
 
-瞭解如何依照[各種准則](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-general-27/understanding-guidance-on-email-tracking-pixels-251632?profile.language=zh-Hant){target="_blank"}，設定Marketo Engage以遵循電子郵件開啟（畫素）追蹤的一般使用者同意。 方法使用自訂布林值欄位來判斷某人收到哪個電子郵件變體，一個啟用開啟追蹤，另一個停用開啟追蹤。
+瞭解如何依照[各種准則](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-general-27/understanding-guidance-on-email-tracking-pixels-251632?profile.language=zh-Hant&lang=zh_tw){target="_blank"}，設定Marketo Engage以遵循電子郵件開啟（畫素）追蹤的一般使用者同意。 方法使用自訂布林值欄位來判斷某人收到哪個電子郵件變體，一個啟用開啟追蹤，另一個停用開啟追蹤。
 
 ## 步驟1：建立自訂布林值欄位 {#custom-field}
 
