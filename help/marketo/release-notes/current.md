@@ -26,10 +26,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 9eb8c0e78a581bc9093f0f017a3ad3525d2b9667
+source-git-commit: 29aa413a7346a79906f4021dedc79e8e48170c69
 workflow-type: tm+mt
-source-wordcount: '347'
-ht-degree: 18%
+source-wordcount: '472'
+ht-degree: 15%
 ---
 # 發行說明： 2026年10月 {#release-notes-oct-26}
 
@@ -47,6 +47,26 @@ ht-degree: 18%
    <th style="width:65%">功能</th>
    <th style="width:10%">狀態</th>
    <th style="width:25%">文件</th>
+  </tr>
+  <tr>
+   <td><strong>規劃行銷活動技能</strong>：適用於Marketo Engage的CX Enterprise Coworker現在可以將行銷活動簡報轉換為完整的Marketo Engage方案設定檔案。 檔案包含檔案夾結構、智慧行銷活動、電子郵件設定、權杖和QA檢查清單。 這有助於團隊更快推出行銷活動，並將方案設定標準化。 技能可透過Markdown設定。</td>
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>可呼叫的代理程式</strong>：建立作為智慧行銷活動中流程步驟執行的AI代理程式，並根據您以純文字撰寫的指示對潛在客戶記錄採取行動。 例如，代理程式可以將潛在客戶的資料正規化或標籤可能的機器人，然後將結果寫回潛在客戶上的欄位。 這會將基於判斷的潛在客戶處理帶入您的行銷活動，而不需要自訂程式碼。</td>
+   <td><i>即將推出</i></td>
+   <td><i>即將推出</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
   </tr>
   <tr>
    <td><strong>複製至此程式/資料夾</strong>：在Marketo Engage中復製作業現在會一致地提供「此資料夾」或「此程式」選項，作為選擇複製資產的目的地時的首要選擇。 選擇此選項會將資產複製到目前資產的父方案或資料夾。</td>
