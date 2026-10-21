@@ -116,7 +116,7 @@ HTML 元素 (如果提供) 中具有 class=&quot;mktoText&quot; 的內容會用�
 
 範例：
 
-`<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.adobe.com"> <a><img style="border:10px solid red;"></a> </div>`
+`<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.adobe.com/tw"> <a><img style="border:10px solid red;"></a> </div>`
 
 ### 選項 2 — 使用 \&lt;img\> {#option-use-an-img}
 

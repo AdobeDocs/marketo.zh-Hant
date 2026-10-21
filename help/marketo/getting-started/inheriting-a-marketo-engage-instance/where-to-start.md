@@ -29,9 +29,9 @@ ht-degree: 3%
 
 請確定您已在Marketo Engage社群中正確設定。
 
-* [**填寫必填欄位（公司、解決方案專業、國家/地區等），以設定您的設定檔**](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=zh-Hant){target="_blank"}
+* [**填寫必填欄位（公司、解決方案專業、國家/地區等），以設定您的設定檔**](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=zh-Hant&lang=zh_tw){target="_blank"}
 
-* 閱讀&#x200B;[**Adobe Experience League社群指導方針**](https://experienceleaguecommunities.adobe.com/knowledge-base?profile.language=zh-Hant){target="_blank"}。
+* 閱讀&#x200B;[**Adobe Experience League社群指導方針**](https://experienceleaguecommunities.adobe.com/knowledge-base?profile.language=zh-Hant&lang=zh_tw){target="_blank"}。
 
 * 瞭解如何&#x200B;[**提交支援案例**](https://experienceleague.adobe.com/zh-hant/support#home){target="_blank"}，並確認您已設定為[支援管理員](https://experienceleague.adobe.com/zh-hant/docs/support-resources/adobe-support-tools-guide/admin-roles#administrative-hierarchy){target="_blank"}。
 
@@ -86,7 +86,7 @@ Adobe運用Marketo Champions提供的意見，整合了數個Marketo Engage繼�
 
 * 如需無法正常運作的技術協助，請連絡&#x200B;**[Marketo Engage客戶支援](https://experienceleague.adobe.com/zh-hant/support){target="_blank"}**。
 
-* 與&#x200B;**[Adobe Marketo Engage社群](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=zh-Hant){target="_blank"}**&#x200B;中的Marketo Engage使用者進行連絡並與其學習。
+* 與&#x200B;**[Adobe Marketo Engage社群](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=zh-Hant&lang=zh_tw){target="_blank"}**&#x200B;中的Marketo Engage使用者進行連絡並與其學習。
 
 * 如需充分利用Marketo Engage執行個體的實際操作協助，請聯絡&#x200B;**[Adobe Professional Services](https://business.adobe.com/tw/products/marketo/services-support.html){target="_blank"}**。
 
