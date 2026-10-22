@@ -11,7 +11,7 @@ feature_v2:
 subfeature_v2:
   - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
     internal-label: Release information
-source-git-commit: 9eb8c0e78a581bc9093f0f017a3ad3525d2b9667
+source-git-commit: c36bbfe0f8ce46dfa6b5c708fa29c5a710cc2358
 workflow-type: tm+mt
 source-wordcount: '541'
 ht-degree: 14%
@@ -83,4 +83,4 @@ ht-degree: 14%
 
 * **REST API行銷活動執行ID**：在某些情況下，活動的行銷活動執行ID值有時會在兩對引號（例如`"campaignRunId": ""102938""`）之間以不正確的格式傳回。<br/>自8月發行版本起，此值一律會以正確的數字格式(`"campaignRunId": 102938`)傳回。
 
-* **棄用從網頁抓取影像**：為了符合現代安全性和隱私權的最佳實務，從10月發行版本起，[從網頁抓取影像](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"}功能將被棄用。
+* **棄用從網頁抓取影像**：為了符合現代安全性和隱私權的最佳實務，從11月發行版本起，[從網頁抓取影像](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"}功能將被棄用。

@@ -27,53 +27,11 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 9eb8c0e78a581bc9093f0f017a3ad3525d2b9667
+source-git-commit: c36bbfe0f8ce46dfa6b5c708fa29c5a710cc2358
 workflow-type: tm+mt
-source-wordcount: '347'
-ht-degree: 18%
+source-wordcount: '16'
+ht-degree: 62%
 ---
-# 發行說明： 2026年10月 {#release-notes-oct-26}
+# 發行說明： 2026年11月 {#release-notes-nov-26}
 
-您將會找到2026年10月發行版本包含的所有功能。 請查看您的 Adobe Marketo Engage 版本是否提供這些功能。
-
-如需 Adobe Dynamic Chat 特定的發行說明，[請參閱這裡](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}。
-
-## 標準發行週期功能 {#standard-release-cycle-features}
-
-以下功能屬於標準發行週期，並將於&#x200B;**2026年10月23日**&#x200B;開始發行，並在接下來的幾週內分階段推出剩餘功能。 發行的功能和日期可能有所變更。 請查看各項功能旁邊的狀態。
-
-<table style="table-layout:auto">
- <tbody>
- <tr>
-   <th style="width:65%">功能</th>
-   <th style="width:10%">狀態</th>
-   <th style="width:25%">文件</th>
-  </tr>
-  <tr>
-   <td><strong>複製至此程式/資料夾</strong>：在Marketo Engage中復製作業現在會一致地提供「此資料夾」或「此程式」選項，作為選擇複製資產的目的地時的首要選擇。 選擇此選項會將資產複製到目前資產的父方案或資料夾。</td>
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <tr>
-   <td><strong>CRM同步處理立即警示</strong>：啟用或停用環境的本機CRM同步處理現在會觸發通知，通知已訂閱CRM通知通道的使用者。</td>
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
-  </tr>
-  </tr>
-  </tbody>
-</table>
-<br/>
-
-## 公告 {#announcements}
-
-* **棄用從網頁抓取影像**：為了符合現代安全性和隱私權的最佳實務，從10月發行版本起，[從網頁抓取影像](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"}功能將被棄用。
-
-* **自訂活動屬性的API名稱限制**：透過API或UI建立的自訂活動屬性的API名稱現在只能包含英數字元和底線，而且必須以英數字元開頭。
-
-* **取得潛在客戶活動與取得潛在客戶變更的靜態清單大小限制**：自2026年9月30日起，如果目標清單包含10,000個或更多潛在客戶，對含有`listId`引數的Get Lead Activities或Get Lead Changes端點的呼叫會以1003錯誤碼（表示目標靜態清單具有太多記錄）開始失敗。 如需詳細資訊，請參閱[移轉指南](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}。
+空白頁面

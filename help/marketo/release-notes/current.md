@@ -26,20 +26,20 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 29aa413a7346a79906f4021dedc79e8e48170c69
+source-git-commit: c36bbfe0f8ce46dfa6b5c708fa29c5a710cc2358
 workflow-type: tm+mt
 source-wordcount: '472'
 ht-degree: 15%
 ---
-# 發行說明： 2026年10月 {#release-notes-oct-26}
+# 發行說明： 2026年11月 {#release-notes-nov-26}
 
-您將會找到2026年10月發行版本包含的所有功能。 請查看您的 Adobe Marketo Engage 版本是否提供這些功能。
+以下是2026年11月發行版本包含的所有功能。 請查看您的 Adobe Marketo Engage 版本是否提供這些功能。
 
 如需 Adobe Dynamic Chat 特定的發行說明，[請參閱這裡](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}。
 
 ## 標準發行週期功能 {#standard-release-cycle-features}
 
-以下功能屬於標準發行週期，並將於&#x200B;**2026年10月23日**&#x200B;開始發行，並在接下來的幾週內分階段推出剩餘功能。 發行的功能和日期可能有所變更。 請查看各項功能旁邊的狀態。
+下列功能屬於標準發行週期，並將於&#x200B;**2026年11月6日**&#x200B;開始發行，在接下來的幾週內分階段推出剩餘功能。 發行的功能和日期可能有所變更。 請查看各項功能旁邊的狀態。
 
 <table style="table-layout:auto">
  <tbody>
@@ -91,7 +91,7 @@ ht-degree: 15%
 
 ## 公告 {#announcements}
 
-* **棄用從網頁抓取影像**：為了符合現代安全性和隱私權的最佳實務，從10月發行版本起，[從網頁抓取影像](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"}功能將被棄用。
+* **棄用從網頁抓取影像**：為了符合現代安全性和隱私權的最佳實務，從11月發行版本起，[從網頁抓取影像](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"}功能將被棄用。
 
 * **自訂活動屬性的API名稱限制**：透過API或UI建立的自訂活動屬性的API名稱現在只能包含英數字元和底線，而且必須以英數字元開頭。
 
