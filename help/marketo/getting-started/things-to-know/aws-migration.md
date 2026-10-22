@@ -9,10 +9,10 @@ product_v2:
 feature_v2:
   - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
     internal-label: Getting Started
-source-git-commit: f0fb0c3ca9c2a49f605308310ed9aa0dcb2624ac
+source-git-commit: e4d55c52a80e6332eda62e868bff7b2d632ca1e0
 workflow-type: tm+mt
-source-wordcount: '1252'
-ht-degree: 5%
+source-wordcount: '1251'
+ht-degree: 4%
 ---
 # AWS移轉 {#aws-migration}
 
@@ -286,7 +286,7 @@ ht-degree: 5%
    <td>2026年10月21日</td>
    <td>AB38</td>
    <td>下午5點PDT</td>
-   <td>準時發行</td>
+   <td>已完成</td>
   </tr>
   <tr>
    <td>2026年10月22日</td>
