@@ -9,9 +9,9 @@ product_v2:
 feature_v2:
   - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
     internal-label: Getting Started
-source-git-commit: e4d55c52a80e6332eda62e868bff7b2d632ca1e0
+source-git-commit: 6d87546b2dda91d292596a246fda2aec8c5b496a
 workflow-type: tm+mt
-source-wordcount: '1251'
+source-wordcount: '1245'
 ht-degree: 4%
 ---
 # AWS移轉 {#aws-migration}
@@ -308,12 +308,9 @@ ht-degree: 4%
   </tr>
   <tr>
    <td>2026年11月6</td>
-   <td>AB18<br>
-   AB36</td>
-   <td>下午4點（太平洋標準時間）<br>
-   下午5點（太平洋標準時間）</td>
-   <td>準時發行<br>
-   依排程</td>
+   <td>AB18</td>
+   <td>下午4點（太平洋標準時間）</td>
+   <td>準時發行</td>
   </tr>
   <tr>
    <td>2026年11月18日</td>
