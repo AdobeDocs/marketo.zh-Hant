@@ -393,7 +393,7 @@ RTP設定行銷活動頁面現在[包含現成的範本](/help/marketo/product-d
 
 ## 行銷行事曆授權 {#marketing-calendar-licenses}
 
-2014年9月5日之後，只有5位使用者可以免費存取行銷行事曆。 請務必先將行銷行事曆授權](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md)問題/撤銷給您選擇的使用者，再將其設為未中斷存取。[
+2014年9月5日之後，只有5位使用者可以免費存取行銷行事曆。 請務必先將行銷行事曆授權[&#128279;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md)問題/撤銷給您選擇的使用者，再將其設為未中斷存取。
 
 ![--](assets/image2014-9-16-9-3a45-3a52.png)
 
@@ -548,7 +548,7 @@ RTP設定行銷活動頁面現在[包含現成的範本](/help/marketo/product-d
 
 ## [!DNL Facebook]個自訂對象 {#facebook-custom-audiences}
 
-在您的Marketo管理員透過[!UICONTROL Admin] > [!UICONTROL LaunchPoint]](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)新增[[!DNL Facebook] 後，您就可以輕鬆地建立、更新或[以Marketo靜態或智慧清單中的潛在客戶取代 [!DNL Facebook] 自訂對象](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)。 在任何靜態或智慧清單的銷售機會格線底部尋找新的[!DNL Facebook]圖示。
+在您的Marketo管理員透過[!UICONTROL Admin] > [!UICONTROL LaunchPoint]&#x200B;[&#128279;](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)新增[!DNL Facebook] 後，您就可以輕鬆地建立、更新或[以Marketo靜態或智慧清單中的潛在客戶取代 [!DNL Facebook] 自訂對象](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)。 在任何靜態或智慧清單的銷售機會格線底部尋找新的[!DNL Facebook]圖示。
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 

@@ -29,7 +29,7 @@ ht-degree: 7%
 
 >[!PREREQUISITES]
 >
->* 使用 [!DNL Web Personalization] 資料](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)設定完成[重新目標定位
+>* 使用 [!DNL Web Personalization] 資料[&#128279;](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)設定完成重新目標定位
 >* 檢閱Google Analytics說明的[再行銷](https://support.google.com/analytics/topic/2611283?hl=en&ref_topic=3413645)檔案。
 
 ## 在Google中建立再行銷對象 {#creating-a-remarketing-audience-in-google}
@@ -46,7 +46,7 @@ ht-degree: 7%
 
    ![](assets/image2015-1-15-17-3a32-3a4.png)
 
-1. 在對象產生器中，按一下[!UICONTROL Custom Dimensions]、[!UICONTROL [!]UICONTROL Custom Variables]、[!UICONTROL Events]下的&#x200B;**[!UICONTROL Sequences]**&#x200B;和&#x200B;**[!UICONTROL Find the RTP Data]**。
+1. 在對象產生器中，按一下[!UICONTROL Custom Dimensions]、[!UICONTROL UICONTROL [ !] Custom Variables]、[!UICONTROL Events]下的&#x200B;**[!UICONTROL Sequences]**&#x200B;和&#x200B;**[!UICONTROL Find the RTP Data]**。
 
 >[!TIP]
 >
