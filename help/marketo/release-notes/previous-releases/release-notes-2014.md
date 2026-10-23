@@ -348,7 +348,7 @@ RTP行銷活動現在包含新設計，其中包含縮圖檢視和行銷活動�
 
 ## REST API中的清單作業 {#list-operations-in-the-rest-api}
 
-我們在ReST中新增了以下與清單作業相關的呼叫。 如需完整檔案，請參閱[https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api)。
+我們在ReST中新增了以下與清單作業相關的呼叫。 如需完整檔案，請參閱[https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api)。
 
 * 依ID取得清單
 * 取得多個清單
@@ -379,7 +379,7 @@ RTP設定行銷活動頁面現在[包含現成的範本](/help/marketo/product-d
 
 ## RTP： JavaScript API增強功能 {#rtp-javascript-api-enhancements}
 
-新的RTP API呼叫可取得即時訪客資料，例如組織、產業、地點和區段代碼相符。 此外，將游標暫留在「區段」頁面中的區段名稱上，會顯示顯示區段代碼的工具提示。 如需完整檔案，請參閱我們的[開發人員網站](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)。
+新的RTP API呼叫可取得即時訪客資料，例如組織、產業、地點和區段代碼相符。 此外，將游標暫留在「區段」頁面中的區段名稱上，會顯示顯示區段代碼的工具提示。 如需完整檔案，請參閱我們的[開發人員網站](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)。
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 
@@ -393,7 +393,7 @@ RTP設定行銷活動頁面現在[包含現成的範本](/help/marketo/product-d
 
 ## 行銷行事曆授權 {#marketing-calendar-licenses}
 
-2014年9月5日之後，只有5位使用者可以免費存取行銷行事曆。 請務必先將行銷行事曆授權[&#128279;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md)問題/撤銷給您選擇的使用者，再將其設為未中斷存取。
+2014年9月5日之後，只有5位使用者可以免費存取行銷行事曆。 請務必先將行銷行事曆授權](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md)問題/撤銷給您選擇的使用者，再將其設為未中斷存取。[
 
 ![--](assets/image2014-9-16-9-3a45-3a52.png)
 
@@ -492,7 +492,7 @@ RTP設定行銷活動頁面現在[包含現成的範本](/help/marketo/product-d
 * 取得活動型別
 * 取得分頁Token
 
-發行後，完整詳細資料將可在[https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api)取得。
+發行後，完整詳細資料將可在[https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/rest-api)取得。
 
 ## MSI — 傳送[!DNL Microsoft Dynamics]的Marketo電子郵件 {#msi-send-marketo-email-for-microsoft-dynamics}
 
@@ -532,7 +532,7 @@ RTP設定行銷活動頁面現在[包含現成的範本](/help/marketo/product-d
 * 感興趣的產品
 * 他們所看到的RTP行銷活動
 
-如需完整詳細資訊，請造訪[https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)。
+如需完整詳細資訊，請造訪[https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)。
 
 ## 2014年12 {#december}
 
@@ -548,7 +548,7 @@ RTP設定行銷活動頁面現在[包含現成的範本](/help/marketo/product-d
 
 ## [!DNL Facebook]個自訂對象 {#facebook-custom-audiences}
 
-在您的Marketo管理員透過[!UICONTROL Admin] > [!UICONTROL LaunchPoint]&#x200B;[&#128279;](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)新增[!DNL Facebook] 後，您就可以輕鬆地建立、更新或[以Marketo靜態或智慧清單中的潛在客戶取代 [!DNL Facebook] 自訂對象](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)。 在任何靜態或智慧清單的銷售機會格線底部尋找新的[!DNL Facebook]圖示。
+在您的Marketo管理員透過[!UICONTROL Admin] > [!UICONTROL LaunchPoint]](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)新增[[!DNL Facebook] 後，您就可以輕鬆地建立、更新或[以Marketo靜態或智慧清單中的潛在客戶取代 [!DNL Facebook] 自訂對象](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)。 在任何靜態或智慧清單的銷售機會格線底部尋找新的[!DNL Facebook]圖示。
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 
@@ -588,7 +588,7 @@ RTP設定行銷活動頁面現在[包含現成的範本](/help/marketo/product-d
 
 ·合併銷售機會
 
-發行後，完整詳細資料將可在[https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/home)取得
+發行後，完整詳細資料將可在[https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/home)取得
 
 ## [!DNL Munchkin Javascript]相容性增強功能 {#munchkin-javascript-compatibility-enhancements}
 
