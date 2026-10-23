@@ -6,20 +6,24 @@ exl-id: bd9c6605-a13f-4c73-aaa8-eca43cfcc950
 TQID: https://experienceleague.adobe.com/hdywHZ1nm-guYiDHprc3a7l9u2iab-kCGvkIxd-oLoo
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: 508
+source-wordcount: '508'
 ht-degree: 11%
-
 ---
-
 # NUR-YYYY-MM-進階培養 {#nur-yyyy-mm-advanced-nurture}
 
 這是運用Marketo Engage參與計畫的進階Nurture計畫範例。 巢狀電子郵件程式會防止使用者接收他們已使用的內容，或控制他們應在每個資料流中使用的內容型別。 歸因報表可針對每個個別巢狀電子郵件程式執行。 管道： 「Nurture」以及巢狀電子郵件計畫的專用「Nurture電子郵件」管道會利用Marketo Engage電子郵件計畫傳送一封電子報電子郵件。 電子郵件可以包含或不包含A/B測試。
@@ -194,20 +198,20 @@ ht-degree: 11%
 ## 衝突規則 {#conflict-rules}
 
 * **程式標籤**
-   * 在此訂閱中建立標籤 — _建議_
-   * 忽略
+  * 在此訂閱中建立標籤 — _建議_
+  * 忽略
 
 * **名稱相同的登入頁面範本**
-   * 複製原始範本
-   * 使用目的地範本 — _建議_
+  * 複製原始範本
+  * 使用目的地範本 — _建議_
 
 * **相同名稱的影像**
-   * 保留兩個檔案
-   * 取代此訂閱中的專案 — _建議_
+  * 保留兩個檔案
+  * 取代此訂閱中的專案 — _建議_
 
 * **相同名稱的電子郵件範本**
-   * 保留兩個範本
-   * 取代現有的範本 — _建議_
+  * 保留兩個範本
+  * 取代現有的範本 — _建議_
 
 ## 最佳做法 {#best-practices}
 
