@@ -9,9 +9,9 @@ product_v2:
 feature_v2:
   - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
     internal-label: Getting Started
-source-git-commit: 6d87546b2dda91d292596a246fda2aec8c5b496a
+source-git-commit: 26cd137342ecb342803a74c44713541af9faf28c
 workflow-type: tm+mt
-source-wordcount: '1245'
+source-wordcount: '1282'
 ht-degree: 4%
 ---
 # AWS移轉 {#aws-migration}
@@ -32,7 +32,7 @@ ht-degree: 4%
 
 * **避免執行**&#x200B;資料匯入或匯出，或任何主要的銷售機會/人員產生行銷活動。
 
-* **檢閱並更新IP允許清單**，以取得登入、API存取、電子郵件傳送、網頁追蹤和整合。
+* **檢閱並更新IP允許清單**，以取得登入、API存取、電子郵件傳送、網頁追蹤和整合（例如CRM同步處理和Webhook）。
 
 * **新增IP位址**&#x200B;並保留您目前的IP不變。 檢視要透過下方[&#128279;](#ip-addresses)的表格新增的IP位址。
 
@@ -332,7 +332,7 @@ ht-degree: 4%
 
 ## 要新增的IP位址 {#ip-addresses}
 
-根據您的資料中心，與您的IT部門合作，以新增個別IP位址。
+如果您的組織使用IP允許清單、防火牆、存取控制清單、安全性群組，或任何其他設定為接受來自Marketo Engage之連線的伺服器或協力廠商服務，請與您的IT部門合作，新增您資料中心專屬的IP位址，如下表所示。
 
 <table>
 <tbody>
