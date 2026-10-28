@@ -8,14 +8,14 @@ product_v2:
 feature_v2:
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
     internal-label: Reporting
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: 96caeb4343efdbe747a93c2424c50840d6917798
 workflow-type: tm+mt
-source-wordcount: '1084'
+source-wordcount: '1078'
 ht-degree: 5%
 ---
 # Marketo活動資料保留政策 — 對報表的影響
 
-Marketo會以滾動方式保留行銷活動資料。 活動和促銷活動會籍資料會儲存至活動日期之後的25個月滾動期間，而高流量活動資料會保留至活動日期之後的90天滾動期間，這依使用者而定。 在這些保留期之後，將無法再透過Marketo UI使用這些資料。
+Marketo會以滾動方式保留行銷活動資料。 活動和促銷活動會籍資料會儲存至活動日期之後的25個月滾動期間，而高流量活動資料則預設會保留至活動日期之後的90天滾動期間。 在這些保留期之後，將無法再透過Marketo UI使用這些資料。
 
 ## Marketo Analytics報表
 
