@@ -7,11 +7,15 @@ exl-id: a0fa5cd0-a61d-4383-88c0-9f2a4b2c717a
 TQID: https://experienceleague.adobe.com/C-tVNeXa1EQVQJ6NdkS-a85Q6heROUAl-OwF454T1YY
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 622

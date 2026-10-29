@@ -7,8 +7,10 @@ feature: Smart Campaigns
 TQID: https://experienceleague.adobe.com/JODd03zXlwTRCW-jkoQVPS6Up2Gvtzc-GFmI%2D%2D%2D1-0M
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
 source-git-commit: 0e20d3cd1d58a098d8419c4b10572fe85e672aa2
 workflow-type: tm+mt
 source-wordcount: 103

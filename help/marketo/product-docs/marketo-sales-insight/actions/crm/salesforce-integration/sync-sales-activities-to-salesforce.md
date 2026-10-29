@@ -5,11 +5,15 @@ exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
 TQID: https://experienceleague.adobe.com/enTE6uqTCWaafotiQUOpOPKYit0m9ov9FNCCsyJ8H9U
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 775

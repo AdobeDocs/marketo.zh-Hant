@@ -7,9 +7,12 @@ exl-id: ca85bd0f-5ed3-4ae2-a20b-ef3151609f83
 TQID: https://experienceleague.adobe.com/O13HtgT5vGayOW44WkR82cH3rNTcxnsxR3YO2-EGPqk
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 129
