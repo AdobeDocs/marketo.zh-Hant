@@ -7,8 +7,10 @@ feature: Integrations
 TQID: https://experienceleague.adobe.com/Dc0c-GMUeuShXpt-tDuhhqu5SIfrzF-7prfsPdu-3pY
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 178

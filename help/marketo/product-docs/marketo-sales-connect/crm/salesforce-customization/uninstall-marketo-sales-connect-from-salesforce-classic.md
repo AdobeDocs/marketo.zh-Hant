@@ -5,8 +5,10 @@ exl-id: 17078054-a615-4f2f-bfde-f28fd3ff6f48
 TQID: https://experienceleague.adobe.com/OTscQY7SrY7I-ne-us6gPdcSgT41-6VqWvRT0KDqUys
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 1035

@@ -5,10 +5,13 @@ exl-id: 4b97fe25-ce4d-446c-8b23-2566769f35ee
 TQID: https://experienceleague.adobe.com/mLwFR4arE2qLObc9IjIYxq0TzIlfKpLXK29rUvkNKTM
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 156

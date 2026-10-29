@@ -6,11 +6,15 @@ exl-id: edd60476-31bc-40f1-ae9d-9fcd3d41501c
 TQID: https://experienceleague.adobe.com/-ZusvKIP4bJ7fMeaO-ZMqcHekpWWUHPp6LZAy0j2saQ
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 topic_v2:
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+    internal-label: Privacy
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 473
