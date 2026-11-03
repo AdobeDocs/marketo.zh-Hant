@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7512607
-description: 從LaunchPoint下載 [!DNL Google AdWords] 活動記錄檔以疑難排解整合問題。
-title: 下載 [!DNL GoogleAdwords Activity Log]
+description: 從LaunchPoint下載[!DNL Google AdWords]活動記錄檔以疑難排解整合問題。
+title: 下載[!DNL GoogleAdwords Activity Log]
 exl-id: db62de71-9e9e-46de-a788-3e9e4e7d09e7
 feature: Administration
 TQID: https://experienceleague.adobe.com/MxzYMmWox7Bqh2ci23sPSaxM3OFwLMxiwsm0rAJjWOI
@@ -16,18 +16,16 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 40
-ht-degree: 12%
-
+source-wordcount: '42'
+ht-degree: 2%
 ---
-
 # 下載[!DNL Google Adwords]活動記錄 {#download-googleadwords-activity-log}
 
 瞭解如何下載活動記錄檔以疑難排解問題。
 
-1. 前往「**[!UICONTROL Admin]**」區域。
+1. 在「我的Marketo」中，按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/download-googleadwords-activity-log-1.png)
 

@@ -19,14 +19,14 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 14%
+source-wordcount: '139'
+ht-degree: 11%
 ---
 # 使用工作區編輯您的預設品牌化網域 {#edit-your-default-branding-domain-with-workspaces}
 
-1. 前往「**[!UICONTROL Admin]**」區域。
+1. 在「我的Marketo」中，按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-1.png)
 

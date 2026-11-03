@@ -18,20 +18,18 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 126
-ht-degree: 7%
-
+source-wordcount: '127'
+ht-degree: 3%
 ---
-
 # 行銷活動檢查器 {#campaign-inspector}
 
 使用「行銷活動檢視器」，在一個位置檢視及搜尋您的所有Smart Campaigns。
 
 ## 啟用Campaign檢查程式 {#enable-campaign-inspector}
 
-1. 前往「**[!UICONTROL Admin]**」區域。
+1. 在「我的Marketo」中，按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/campaign-inspector-1.png)
 

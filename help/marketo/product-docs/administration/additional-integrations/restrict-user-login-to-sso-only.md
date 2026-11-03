@@ -18,13 +18,11 @@ topic_v2:
     internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 249
-ht-degree: 8%
-
+source-wordcount: '250'
+ht-degree: 6%
 ---
-
 # 限制使用者只可透過 SSO 登入 {#restrict-user-login-to-sso-only}
 
 如果您[使用SSO](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)，並且想要確保使用者無法略過SSO安全性，請遵循這些指示。
@@ -37,7 +35,7 @@ ht-degree: 8%
 >
 >**需要管理員權限**
 
-1. 前往「**[!UICONTROL Admin]**」區域。
+1. 在「我的Marketo」中，按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/restrict-user-login-to-sso-only-1.png)
 

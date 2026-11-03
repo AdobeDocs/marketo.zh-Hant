@@ -18,13 +18,11 @@ topic_v2:
     internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 620
-ht-degree: 6%
-
+source-wordcount: '621'
+ht-degree: 5%
 ---
-
 # 將單一登入新增至入口網站 {#add-single-sign-on-to-a-portal}
 
 如果您有驗證使用者的目錄服務，可以允許單一登入(SSO)進入Marketo。 Marketo使用[!DNL Security Assertion Markup Language] (SAML) 2.0版和更新版本支援此功能。
@@ -73,7 +71,7 @@ Marketo的作用就像是SAML服務提供者(SP)，並且仰賴外部身分提�
 
 SSO預設為停用。 請依照以下步驟啟用SAML並進行設定。
 
-1. 前往「**[!UICONTROL Admin]**」區域。
+1. 在「我的Marketo」中，按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/add-single-sign-on-to-a-portal-1.png)
 

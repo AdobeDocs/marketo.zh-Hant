@@ -14,9 +14,9 @@ feature_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '177'
 ht-degree: 9%
 ---
 # 將 Vibes 新增為 LaunchPoint 服務 {#add-vibes-as-a-launchpoint-service}
@@ -31,7 +31,7 @@ ht-degree: 9%
 >
 >您必須擁有作用中的Vibes帳戶以及Vibes SMS的Adobe授權。 Marketo Vibes SMS原生整合在美國和加拿大提供。 對於其他國家/地區，透過Marketo Webhook的連線可透過[直接連絡Vibes](https://www.vibes.com/talk-to-sales){target="_blank"}來使用。
 
-1. 在「我的Marketo」中，移至&#x200B;**[!UICONTROL Admin]**&#x200B;區域。
+1. 在「我的Marketo」中，按一下「我的Marketo」 **[!UICONTROL Admin]**。
 
    ![](assets/add-vibes-as-a-launchpoint-service-1.png)
 

@@ -20,10 +20,10 @@ topic_v2:
     internal-label: Troubleshooting
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '654'
-ht-degree: 5%
+source-wordcount: '656'
+ht-degree: 4%
 ---
 # 新增[!DNL Munchkin]追蹤程式碼至您的網站 {#add-munchkin-tracking-code-to-your-website}
 
@@ -39,7 +39,7 @@ Marketo的自訂JavaScript追蹤程式碼([!DNL Munchkin])會追蹤造訪您網�
 >
 >Adobe Experience Cloud使用者也可在Adobe Launch[&#128279;](https://exchange.adobe.com/apps/ec/100223/adobe-launch-core-extension){target="_blank"}中使用Marketo整合，在其網頁上包含[!DNL Munchkin]指令碼。 如果您使用Adobe Launch，_會自動新增[!DNL Munchkin]指令碼_，因此您不需要自行新增。
 
-1. 前往「**[!UICONTROL Admin]**」區域。
+1. 在「我的Marketo」中，按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/add-munchkin-tracking-code-to-your-website-1.png)
 
@@ -79,7 +79,7 @@ Marketo的自訂JavaScript追蹤程式碼([!DNL Munchkin])會追蹤造訪您網�
 
 如果您在Marketo帳戶中使用Workspaces，則您可能也會有與您的Workspaces對應的個別Web存在。 在這種情況下，您可以使用[!DNL Munchkin]追蹤Javascript將匿名人員指派至正確的工作區和磁碟分割。
 
-1. 前往「**[!UICONTROL Admin]**」區域。
+1. 在「我的Marketo」中，按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/add-munchkin-tracking-code-to-your-website-6.png)
 

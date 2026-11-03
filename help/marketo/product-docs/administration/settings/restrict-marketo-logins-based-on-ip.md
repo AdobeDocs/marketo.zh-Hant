@@ -14,13 +14,11 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 233
-ht-degree: 9%
-
+source-wordcount: '234'
+ht-degree: 7%
 ---
-
 # 根據 IP 限制 Marketo 登入 {#restrict-marketo-logins-based-on-ip}
 
 您可以根據使用者的IP位址來限制或允許使用者存取Marketo。 請遵循下列步驟。
@@ -38,7 +36,7 @@ ht-degree: 9%
 >
 >2027年第1季度後，Marketo Engage IP限制將會淘汰。 IP型存取將透過AAC獨家管理，且必須設定為強制執行登入限制。 最終轉換日期將於稍後宣佈。
 
-1. 前往「**[!UICONTROL Admin]**」區域。
+1. 在「我的Marketo」中，按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/restrict-marketo-logins-based-on-ip-1.png)
 

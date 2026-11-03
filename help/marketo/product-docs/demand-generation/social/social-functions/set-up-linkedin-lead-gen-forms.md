@@ -20,10 +20,10 @@ feature_v2:
 subfeature_v2:
   - id: e9b7b90f-6f8a-4637-a2ca-00239808918c
     internal-label: Social
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '494'
-ht-degree: 4%
+source-wordcount: '495'
+ht-degree: 3%
 ---
 # 設定 LinkedIn 商機開發表單 {#set-up-linkedin-lead-gen-forms}
 
@@ -37,7 +37,7 @@ ht-degree: 4%
 >
 >* 如果LinkedIn銷售機會符合Marketo中與使用公司API建立的公司記錄相關聯的現有個人記錄，並且Marketo訂閱未連線至CRM，則不會進入Marketo Engage。
 
-1. 前往「**[!UICONTROL Admin]**」區域。
+1. 在「我的Marketo」中，按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/set-up-linkedin-lead-gen-forms-1.png)
 

@@ -11,10 +11,10 @@ product_v2:
 feature_v2:
   - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
     internal-label: Getting Started
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 19%
+source-wordcount: '130'
+ht-degree: 16%
 ---
 # 登陸頁面重新導向 {#redirect-a-landing-page}
 
@@ -31,7 +31,7 @@ ht-degree: 19%
 
 ## 步驟1：啟動新的重新導向規則 {#step-start-a-new-redirect-rule}
 
-1. 前往「**[!UICONTROL Admin]**」區域。
+1. 在「我的Marketo」中，按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/redirect-a-landing-page-1.png)
 

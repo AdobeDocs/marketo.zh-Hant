@@ -16,10 +16,10 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 29%
+source-wordcount: '68'
+ht-degree: 23%
 ---
 # 變更工作區的名稱 {#change-the-name-of-a-workspace}
 
@@ -37,7 +37,7 @@ ht-degree: 29%
 >
 >如需詳細資訊，請參閱[瞭解工作區和人員分割](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)。
 
-1. 前往「**[!UICONTROL Admin]**」區域。
+1. 在「我的Marketo」中，按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/change-the-name-of-a-workspace-1.png)
 

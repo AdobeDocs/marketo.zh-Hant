@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7512272
-description: 新增 [!DNL Webex] 網路研討會作為LaunchPoint服務，以便與Marketo同步註冊及出席情況。
-title: 將 [!DNL Webex] 新增為 [!DNL LaunchPoint] 服務
+description: 新增[!DNL Webex]個網路研討會作為LaunchPoint服務，以便與Marketo同步註冊和出席情況。
+title: 將[!DNL Webex]新增為[!DNL LaunchPoint]服務
 exl-id: 2c2cedde-d38f-4d53-a760-104b517afc4c
 feature: Administration, Integrations
 TQID: https://experienceleague.adobe.com/usUuncd-iS8bP6trbho6Y9aO-idLgQsYmSIgNCq7g2I
@@ -16,13 +16,11 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 97
-ht-degree: 10%
-
+source-wordcount: '101'
+ht-degree: 5%
 ---
-
 # 將[!DNL Webex]新增為[!DNL LaunchPoint]服務 {#add-webex-as-a-launchpoint-service}
 
 Marketo Engage會管理您的[!DNL Webex]網路研討會註冊與出席情況。 您必須有[[!UICONTROL Webex]](https://www.webex.com/)的現有訂閱。
@@ -31,7 +29,7 @@ Marketo Engage會管理您的[!DNL Webex]網路研討會註冊與出席情況。
 >
 >**需要管理員權限**
 
-1. 前往「**[!UICONTROL Admin]**」區域。
+1. 在「我的Marketo」中，按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/add-webex-as-a-launchpoint-service-1.png)
 

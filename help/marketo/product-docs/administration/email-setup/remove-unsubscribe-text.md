@@ -13,16 +13,16 @@ feature_v2:
 subfeature_v2:
   - id: a03c57fb-0705-4a0d-b463-bbc931d4cefa
     internal-label: Email setup
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 8%
+source-wordcount: '151'
+ht-degree: 5%
 ---
 # 移除取消訂閱文字 {#remove-unsubscribe-text}
 
 您應從&#x200B;**[!UICONTROL Admin]** > **[!UICONTROL Email]**&#x200B;區域完全移除取消訂閱內容的唯一原因是，您選擇將取消訂閱連結建置到電子郵件範本中。 文字方塊已驗證，不允許您儲存不含任何內容。 您可以新增小型HTML評論來解決這個問題。 HTML註解不會顯示在電子郵件使用者端中，因為它在HTML中呈現電子郵件，且會忽略註解。
 
-1. 前往「**[!UICONTROL Admin]**」區域。
+1. 在「我的Marketo」中，按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/remove-unsubscribe-text-from-the-admin-email-section-1.png)
 

@@ -19,10 +19,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '246'
-ht-degree: 7%
+source-wordcount: '249'
+ht-degree: 2%
 ---
 # 新增、編輯或刪除Marketo自訂活動欄位 {#add-edit-delete-marketo-custom-activity-fields}
 
@@ -30,7 +30,7 @@ ht-degree: 7%
 
 ## 新增自訂活動欄位 {#add-a-custom-activity-field}
 
-1. 前往「**[!UICONTROL Admin]**」區域。
+1. 在「我的Marketo」中，按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-1.png)
 
@@ -66,7 +66,7 @@ ht-degree: 7%
 
 ## 編輯自訂活動欄位 {#edit-a-custom-activity-field}
 
-1. 前往「**[!UICONTROL Admin]**」區域。
+1. 在「我的Marketo」中，按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-8.png)
 
@@ -110,7 +110,7 @@ ht-degree: 7%
 
 ## 刪除自訂活動欄位 {#delete-a-custom-activity-field}
 
-1. 前往「**[!UICONTROL Admin]**」區域。
+1. 在「我的Marketo」中，按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-15.png)
 

@@ -14,13 +14,11 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 79
-ht-degree: 25%
-
+source-wordcount: '80'
+ht-degree: 20%
 ---
-
 # 啟用或停用藏寶箱功能 {#enable-or-disable-treasure-chest-features}
 
 Treasure Check包含尚未完全支援的實驗功能。
@@ -29,7 +27,7 @@ Treasure Check包含尚未完全支援的實驗功能。
 >
 >**需要管理員權限**
 
-1. 前往「**[!UICONTROL Admin]**」區域。
+1. 在「我的Marketo」中，按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/enable-or-disable-treasure-chest-features-1.png)
 

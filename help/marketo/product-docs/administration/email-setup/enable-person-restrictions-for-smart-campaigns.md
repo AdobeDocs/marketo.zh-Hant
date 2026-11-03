@@ -25,10 +25,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 14%
+source-wordcount: '149'
+ht-degree: 11%
 ---
 # 啟用智慧行銷活動人員限制 {#enable-person-restrictions-for-smart-campaigns}
 
@@ -42,7 +42,7 @@ Marketo提供的一項功能，可限制符合Smart Campaign資格的&#x200B;_�
 >
 >這僅適用於批次行銷活動和電子郵件方案。
 
-1. 前往「**[!UICONTROL Admin]**」區域。
+1. 在「我的Marketo」中，按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/enable-person-restrictions-for-smart-campaigns-1.png)
 

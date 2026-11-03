@@ -27,13 +27,11 @@ topic_v2:
     internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 152
-ht-degree: 13%
-
+source-wordcount: '153'
+ht-degree: 10%
 ---
-
 # 啟用程式碼片段無草稿 {#enable-no-draft-for-snippets}
 
 程式碼片段免草稿可讓您發佈程式碼片段變更，而不需草擬經核准的資產。 所有使用已編輯程式碼片段的資產都會取得更新並維持其個別狀態：
@@ -48,7 +46,7 @@ ht-degree: 13%
 >
 >**需要管理員權限**
 
-1. 前往「**[!UICONTROL Admin]**」區域。
+1. 在「我的Marketo」中，按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/enable-no-draft-for-snippets-1.png)
 
