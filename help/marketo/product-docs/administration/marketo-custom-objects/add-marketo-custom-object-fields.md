@@ -19,10 +19,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '289'
-ht-degree: 5%
+source-wordcount: '290'
+ht-degree: 3%
 ---
 # 新增 Marketo 自訂物件欄位 {#add-marketo-custom-object-fields}
 
@@ -30,7 +30,7 @@ ht-degree: 5%
 
 欄位會定義自訂物件所使用的特定資訊。 連結欄位有特定用途（連線自訂物件），並包含在[獨立文章](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)中。
 
-1. 前往「**[!UICONTROL Admin]**」區域。
+1. 在「我的Marketo」中，按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/add-marketo-custom-object-fields-1.png)
 

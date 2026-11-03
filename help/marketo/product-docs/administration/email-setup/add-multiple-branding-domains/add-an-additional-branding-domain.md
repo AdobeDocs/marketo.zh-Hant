@@ -19,10 +19,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '697'
-ht-degree: 19%
+source-wordcount: '698'
+ht-degree: 18%
 ---
 # 新增其他品牌化網域 {#add-an-additional-branding-domain}
 
@@ -32,7 +32,7 @@ ht-degree: 19%
 >
 >在新增其他品牌網域之前，您必須[以品牌網域取代一般追蹤連結](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md){target="_blank"}。
 
-1. 前往「**[!UICONTROL Admin]**」區域。
+1. 在「我的Marketo」中，按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/add-an-additional-branding-domain-1.png)
 
@@ -58,9 +58,9 @@ ht-degree: 19%
 
 請依照下列步驟，為您現有的網域啟用SSL。
 
-1. 從&#x200B;_[!UICONTROL Admin]_&#x200B;區域，選取&#x200B;**[!UICONTROL Email]**。
+1. 從&#x200B;_[!UICONTROL Admin]_區域，選取&#x200B;**[!UICONTROL Email]**。
 
-1. 在&#x200B;_[!UICONTROL Domain]_&#x200B;索引標籤上，選取網域列並按一下&#x200B;**[!UICONTROL Add SSL]**。
+1. 在&#x200B;_[!UICONTROL Domain]_索引標籤上，選取網域列並按一下&#x200B;**[!UICONTROL Add SSL]**。
 
    ![管理員 — 電子郵件 — 網域 — 新增SSL](./assets/admin-email-branding-domain-add-ssl.png){width="600"}
 
@@ -104,7 +104,7 @@ ht-degree: 19%
 
 ## 注意事項 {#things-to-note}
 
-* **網域與Marketo Engage的DNS對應**：在UI中新增網域之前，您必須[將CNAME對應到Marketo提供的網域](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}。
+* **網域與Marketo Engage的DNS對應**：在UI中新增網域之前，您必須[將CNAME對應到Marketo提供的網域](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}。
 
 * **自訂SSL**：如果您需要自訂SSL，請提交[支援票證](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。 請勿使用自助核取方塊來建立SSL。
 

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 17728028
-description: 將 [!DNL Zoom] 新增為LaunchPoint服務，讓Marketo可以管理網路研討會報名與出席。
-title: 將 [!DNL Zoom] 新增為 [!DNL LaunchPoint] 服務
+description: 將[!DNL Zoom]新增為LaunchPoint服務，讓Marketo可以管理網路研討會註冊和出席情況。
+title: 將[!DNL Zoom]新增為[!DNL LaunchPoint]服務
 exl-id: f5ea016e-d4ca-4adf-be29-14810e9f509c
 feature: Administration, Integrations
 TQID: https://experienceleague.adobe.com/b0mxXTjrJjwRWHpeCdcNYu6JjY6qcHM7NX7ghiqMLaw
@@ -16,13 +16,11 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 115
-ht-degree: 7%
-
+source-wordcount: '119'
+ht-degree: 4%
 ---
-
 # 將[!DNL Zoom]新增為[!DNL LaunchPoint]服務 {#add-zoom-as-a-launchpoint-service}
 
 Marketo會管理您的[!DNL Zoom]註冊和出席情況。
@@ -35,7 +33,7 @@ Marketo會管理您的[!DNL Zoom]註冊和出席情況。
 >
 >此步驟需要[!DNL Zoom]的現有訂閱和管理許可權。 擁有您用來登入[!DNL Zoom]的電子郵件和密碼。
 
-1. 前往「**[!UICONTROL Admin]**」區域。
+1. 在「我的Marketo」中，按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/add-zoom-as-a-launchpoint-service-1.png)
 

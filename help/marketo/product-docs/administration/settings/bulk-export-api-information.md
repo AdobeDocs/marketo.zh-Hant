@@ -18,22 +18,20 @@ topic_v2:
     internal-label: Troubleshooting
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 113
-ht-degree: 11%
-
+source-wordcount: '115'
+ht-degree: 7%
 ---
-
 # 大量匯出 API 資訊 {#bulk-export-api-information}
 
-瞭解如何檢查您的Marketo Engage執行個體在過去七天使用了多少[大量擷取API](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"}容量。
+瞭解如何檢查您的Marketo Engage執行個體在過去七天使用了多少[大量擷取API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"}容量。
 
 >[!NOTE]
 >
 >如果您需要其他容量，請聯絡您的客戶代表。
 
-1. 前往「**[!UICONTROL Admin]**」區域。
+1. 在「我的Marketo」中，按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/bulk-export-api-information-1.png)
 
@@ -49,4 +47,4 @@ ht-degree: 11%
 
 >[!NOTE]
 >
->您的Marketo Engage執行個體的配置會在每日中午12:00 CST重設。
+>您的Marketo Engage執行個體的配置每天於中部標準時間凌晨12:00重設。

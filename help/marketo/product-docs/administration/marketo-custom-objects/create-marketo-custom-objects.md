@@ -21,10 +21,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '687'
-ht-degree: 7%
+source-wordcount: '690'
+ht-degree: 5%
 ---
 # 建立 Marketo 自訂物件 {#create-marketo-custom-objects}
 
@@ -42,7 +42,7 @@ ht-degree: 7%
 
 此範例顯示Car自訂物件，用於一對多結構。 稍後您將建立課程自訂物件與中介物件，以用於多對多結構。
 
-1. 前往「**[!UICONTROL Admin]**」區域。
+1. 在「我的Marketo」中，按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/create-marketo-custom-objects-1.png)
 
@@ -88,7 +88,7 @@ ht-degree: 7%
 >
 >對於多對多關係，您不需要在自訂物件中建立連結。 而是將兩個連結新增至中介物件（請參閱下文）。
 
-1. 前往「**[!UICONTROL Admin]**」區域。
+1. 在「我的Marketo」中，按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/create-marketo-custom-objects-7.png)
 
@@ -130,7 +130,7 @@ ht-degree: 7%
 >
 >您不需要針對一對多自訂物件結構建立中介物件。
 
-1. 前往「**[!UICONTROL Admin]**」區域。
+1. 在「我的Marketo」中，按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/create-marketo-custom-objects-13.png)
 

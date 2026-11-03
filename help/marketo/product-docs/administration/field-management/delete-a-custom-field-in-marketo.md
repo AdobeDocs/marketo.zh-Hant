@@ -19,10 +19,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 27%
+source-wordcount: '97'
+ht-degree: 22%
 ---
 # 在 Marketo 中刪除自訂欄位 {#delete-a-custom-field-in-marketo}
 
@@ -32,7 +32,7 @@ ht-degree: 27%
 
 如果您不再使用某個欄位，則可能想要移除您過去建立的欄位。 很遺憾，您無法刪除Marketo中的欄位，但您可以&#x200B;_在使用者介面中_&#x200B;隱藏它們。
 
-1. 前往「**[!UICONTROL Admin]**」區域。
+1. 在「我的Marketo」中，按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/delete-a-custom-field-in-marketo-1.png)
 

@@ -14,10 +14,10 @@ feature_v2:
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 15%
+source-wordcount: '109'
+ht-degree: 11%
 ---
 # 下載[!DNL Microsoft Dynamics]的[!DNL Marketo Sales Insight]解決方案 {#download-the-marketo-sales-insight-solution-for-microsoft-dynamics}
 
@@ -29,7 +29,7 @@ ht-degree: 15%
 >
 >此頁面上的外掛程式適用於使用Marketo的原生CRM同步解決方案同步至[!DNL Dynamics 365]的使用者。 對於擁有自訂同步[!DNL MS Dynamics 365 Online] （9.x及更高版本）並已購買[!DNL Marketo Sales Insight]的使用者，[封裝在這裡](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}。
 
-1. 前往「**[!UICONTROL Admin]**」區域。
+1. 在「我的Marketo」中，按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/mainnavhand.png)
 

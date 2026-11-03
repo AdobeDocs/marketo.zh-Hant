@@ -21,10 +21,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '161'
-ht-degree: 16%
+source-wordcount: '163'
+ht-degree: 11%
 ---
 # 隱藏和取消隱藏欄位 {#hide-and-unhide-a-field}
 
@@ -36,7 +36,7 @@ ht-degree: 16%
 >
 >**需要管理員權限**
 
-1. 前往「**[!UICONTROL Admin]**」區域。
+1. 在「我的Marketo」中，按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/hide-and-unhide-a-field-1.png)
 
@@ -64,7 +64,7 @@ ht-degree: 16%
 
 ## 取消隱藏欄位 {#unhide-a-field}
 
-1. 前往「**[!UICONTROL Admin]**」區域。
+1. 在「我的Marketo」中，按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/hide-and-unhide-a-field-6.png)
 

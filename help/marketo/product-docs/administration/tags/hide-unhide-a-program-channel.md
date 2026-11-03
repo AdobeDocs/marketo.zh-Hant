@@ -19,10 +19,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 17%
+source-wordcount: '104'
+ht-degree: 13%
 ---
 # 隱藏/取消隱藏方案管道 {#hide-unhide-a-program-channel}
 
@@ -30,11 +30,11 @@ ht-degree: 17%
 >
 >**需要管理員權限**
 
-如果任何程式未使用某個程式頻道[&#128279;](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md)，您可以刪除它。  但是，一旦使用後，它必須保留在系統中。 如果您不再需要它，可以將其隱藏。
+如果任何程式未使用某個程式頻道](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md)，您可以[刪除它。  但是，一旦使用後，它必須保留在系統中。 如果您不再需要它，可以將其隱藏。
 
 ## 隱藏方案頻道 {#hide-a-program-channel}
 
-1. 前往「**[!UICONTROL Admin]**」區域。
+1. 在「我的Marketo」中，按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/hide-unhide-a-program-channel-1.png)
 

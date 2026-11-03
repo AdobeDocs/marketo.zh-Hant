@@ -23,10 +23,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '685'
-ht-degree: 3%
+source-wordcount: '687'
+ht-degree: 2%
 ---
 # 新增 Marketo 自訂物件連結欄位 {#add-marketo-custom-object-link-fields}
 
@@ -43,7 +43,7 @@ ht-degree: 3%
 
 請依照下列步驟，為一對多結構在自訂物件中建立連結欄位。
 
-1. 前往「**[!UICONTROL Admin]**」區域。
+1. 在「我的Marketo」中，按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/add-marketo-custom-object-link-fields-1.png)
 
@@ -97,7 +97,7 @@ ht-degree: 3%
 >
 >您必須已建立中介物件以及您想要連結至該中介物件的任何自訂物件。
 
-1. 前往「**[!UICONTROL Admin]**」區域。
+1. 在「我的Marketo」中，按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/add-marketo-custom-object-link-fields-9.png)
 

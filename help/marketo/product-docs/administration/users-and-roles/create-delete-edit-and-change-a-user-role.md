@@ -17,13 +17,11 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 254
-ht-degree: 16%
-
+source-wordcount: '258'
+ht-degree: 10%
 ---
-
 # 建立、刪除、編輯和變更使用者角色 {#create-delete-edit-and-change-a-user-role}
 
 **角色**&#x200B;將一組許可權群組在一起。 **許可權**&#x200B;可讓您在Marketo中執行動作。 您指派&#x200B;**角色**&#x200B;給使用者。
@@ -41,7 +39,7 @@ ht-degree: 16%
 
 ## 建立角色 {#create-a-role}
 
-1. 前往「**[!UICONTROL Admin]**」區域。
+1. 在「我的Marketo」中，按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/create-delete-edit-and-change-a-user-role-1.png)
 
@@ -59,7 +57,7 @@ ht-degree: 16%
 
 ## 刪除角色 {#delete-a-role}
 
-1. 前往「**[!UICONTROL Admin]**」區域。
+1. 在「我的Marketo」中，按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/create-delete-edit-and-change-a-user-role-5.png)
 
@@ -85,7 +83,7 @@ ht-degree: 16%
 >
 >若要編輯您自己的使用者角色，您必須以其他具有管理員許可權的使用者身分登入。
 
-1. 前往「**[!UICONTROL Admin]**」區域。
+1. 在「我的Marketo」中，按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/create-delete-edit-and-change-a-user-role-9.png)
 
@@ -111,7 +109,7 @@ ht-degree: 16%
 
 ## 變更使用者的角色 {#change-a-users-role}
 
-1. 前往「**[!UICONTROL Admin]**」區域。
+1. 在「我的Marketo」中，按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/create-delete-edit-and-change-a-user-role-14.png)
 

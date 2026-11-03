@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360360
 description: 在Admin中建立Webhook，以呼叫簡訊、人員資料等的協力廠商網站服務。
-title: 建立 [!DNL Webhook]
+title: 建立[!DNL Webhook]
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
 feature: Administration, Webhooks
 TQID: https://experienceleague.adobe.com/O4xw1wSvFeTJ2xqZn4Eo7JbrUBQQmKcl7mvLkduFXGc
@@ -21,18 +21,16 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 202
-ht-degree: 3%
-
+source-wordcount: '203'
+ht-degree: 1%
 ---
-
 # 建立[!DNL Webhook] {#create-a-webhook}
 
 使用[!DNL Webhooks]以利用協力廠商網站服務來傳送簡訊、擴充個人資料等。
 
-1. 前往「**[!UICONTROL Admin]**」區域。
+1. 在「我的Marketo」中，按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/create-a-webhook-1.png)
 
@@ -68,4 +66,4 @@ ht-degree: 3%
 
 >[!NOTE]
 >
->深入瞭解[[!DNL Webhooks]](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}。
+>深入瞭解[[!DNL Webhooks]](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}。

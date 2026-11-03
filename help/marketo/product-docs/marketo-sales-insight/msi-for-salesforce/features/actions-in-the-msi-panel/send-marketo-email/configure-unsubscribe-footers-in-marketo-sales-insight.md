@@ -14,10 +14,10 @@ feature_v2:
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 7%
+source-wordcount: '193'
+ht-degree: 5%
 ---
 # 在[!DNL Marketo Sales Insight]中設定取消訂閱頁尾 {#configure-unsubscribe-footers-in-marketo-sales-insight}
 
@@ -33,7 +33,7 @@ ht-degree: 7%
 >
 >**銷售電子郵件**&#x200B;是從[!DNL Sales Insight]傳送的電子郵件（不包括從Marketo Outlook外掛程式傳送的電子郵件）。
 
-1. 前往「**[!UICONTROL Admin]**」區域。
+1. 在「我的Marketo」中，按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/one-1.png)
 

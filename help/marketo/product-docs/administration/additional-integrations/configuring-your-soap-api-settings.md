@@ -17,24 +17,22 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 96
-ht-degree: 22%
-
+source-wordcount: '97'
+ht-degree: 18%
 ---
-
 # 設定您的 SOAP API 設定 {#configuring-your-soap-api-settings}
 
 >[!IMPORTANT]
 >
->SOAP API已[於2026年7月31日被取代](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/soap/soap-api)。 建議改用[REST API](https://developer.adobe.com/marketo-apis/)。
+>SOAP API已[於2026年7月31日被取代](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api)。 建議改用[REST API](https://developer.adobe.com/marketo-apis/)。
 
 >[!NOTE]
 >
 >**需要管理員權限**
 
-1. 前往「**[!UICONTROL Admin]**」區域。
+1. 在「我的Marketo」中，按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/configuring-your-soap-api-settings-1.png)
 

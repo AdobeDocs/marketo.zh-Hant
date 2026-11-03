@@ -19,16 +19,16 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 16%
+source-wordcount: '137'
+ht-degree: 13%
 ---
 # 建立和使用串連字串 (公式) 欄位 {#create-and-use-a-concatenated-string-formula-field}
 
 您可以合併多個欄位的值，或使用Marketo Engage公式欄位建立條件值。
 
-1. 前往「**[!UICONTROL Admin]**」區域。
+1. 在「我的Marketo」中，按一下「**[!UICONTROL Admin]**」。
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-1.png)
 
@@ -58,7 +58,7 @@ ht-degree: 16%
 
    >[!TIP]
    >
-   >深入瞭解流程步驟[&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)的權杖。
+   >深入瞭解流程步驟](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)的[權杖。
 
 1. 現在您可以在電子郵件中新增公式欄位做為代號。
 

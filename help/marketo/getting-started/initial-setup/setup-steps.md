@@ -21,10 +21,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '1679'
-ht-degree: 84%
+source-wordcount: '1680'
+ht-degree: 83%
 ---
 # 設定步驟 {#setup-steps}
 
@@ -73,7 +73,7 @@ ht-degree: 84%
 >
 >電子郵件和登陸頁面 CNAME 必須不一樣。 此外，請避免使用「追蹤」或「連結」之類的CNAME。 它經常被標籤為垃圾訊息。
 
-若要尋找您的 Marketo 追蹤連結，請前往 **[!UICONTROL Admin]** 區域。
+若要尋找您的Marketo追蹤連結，請在「我的Marketo」中按一下&#x200B;**[!UICONTROL Admin]**。
 
 ![](assets/setup-steps-1.png)
 
