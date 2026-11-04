@@ -1,14 +1,13 @@
 ---
 description: 與適用於Marketo Engage的CX Enterprise Coworker討論您的效能資料。 以淺顯的語言提出問題，並在Marketo Engage環境中獲得解答。
 title: 表面分析
-badge: Beta
 hide: true
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: 26d2dab1123b77187e5d73a2ee0e67940c39e082
 workflow-type: tm+mt
-source-wordcount: '537'
+source-wordcount: '536'
 ht-degree: 0%
 ---
 # 表面分析 {#surface-insights}

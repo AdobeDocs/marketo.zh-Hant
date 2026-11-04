@@ -1,14 +1,13 @@
 ---
 description: 原地復製程式會將現有的Marketo程式複製到具有新名稱的新資料夾中，保留其結構，同時讓您自訂新的促銷活動。
 title: 復製程式
-badge: Beta
 hide: true
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: 26d2dab1123b77187e5d73a2ee0e67940c39e082
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '486'
 ht-degree: 0%
 ---
 # 復製程式 {#clone-program}
