@@ -1,7 +1,7 @@
 ---
 description: 使用適用於Marketo Engage的CX Enterprise Coworker ，將行銷活動簡報轉換為涵蓋對象邏輯、電子郵件、權杖和QA檢查的結構化方案計畫。
 title: 計畫行銷活動
-source-git-commit: b1ab5ab541fd79c8c42fbcd018e23baf51337aac
+source-git-commit: b47454801d391f4d7a75ebcfce7ac76c2f4b8af4
 workflow-type: tm+mt
 source-wordcount: '736'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->此技能會產生Marketo計畫的實作計畫（結構化檔案，告訴人類或自動化系統確切如何在Marketo中建立計畫）。 它不會在Marketo中建立任何內容。 [建置計畫](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md)有單獨的技能。
+>此技能會產生Marketo Engage計畫的實施計畫（結構化檔案，告訴人員或自動化系統確切如何建立行銷活動）。 它不會在Marketo Engage中建立任何內容。 [建置計畫](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md)有單獨的技能。
 
 ## 先決條件 {#prerequisites}
 
