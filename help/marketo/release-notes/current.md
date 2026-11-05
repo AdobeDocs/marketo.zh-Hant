@@ -93,8 +93,8 @@ ht-degree: 12%
 
 * **淘汰傳統UI**： Marketo Engage介面現在具有重新整理的外觀，包括更新的功能表、圖示和配置，以提供更乾淨、更現代的體驗。 這僅是視覺化更新；不會變更現有功能或工作流程。 您目前可以使用下拉式功能表，在Classic介面和重新整理介面之間切換，但Classic介面將於2027年1月底前淘汰（確切日期待定）。
 
-* **棄用從網頁抓取影像**：為了符合現代安全性和隱私權的最佳實務，從11月發行版本起，[從網頁抓取影像](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"}功能將被棄用。
+* **棄用從網頁抓取影像**：為了符合現代安全性和隱私權的最佳實務，從11月發行版本起，[從網頁抓取影像](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"}功能將被棄用。
 
 * **自訂活動屬性的API名稱限制**：透過API或UI建立的自訂活動屬性的API名稱現在只能包含英數字元和底線，而且必須以英數字元開頭。
 
-* **取得潛在客戶活動與取得潛在客戶變更的靜態清單大小限制**：自2026年9月30日起，如果目標清單包含10,000個或更多潛在客戶，對含有`listId`引數的Get Lead Activities或Get Lead Changes端點的呼叫會以1003錯誤碼（表示目標靜態清單具有太多記錄）開始失敗。 如需詳細資訊，請參閱[移轉指南](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}。
+* **取得潛在客戶活動與取得潛在客戶變更的靜態清單大小限制**：自2026年9月30日起，如果目標清單包含10,000個或更多潛在客戶，對含有`listId`引數的Get Lead Activities或Get Lead Changes端點的呼叫會以1003錯誤碼（表示目標靜態清單具有太多記錄）開始失敗。 如需詳細資訊，請參閱[移轉指南](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}。
