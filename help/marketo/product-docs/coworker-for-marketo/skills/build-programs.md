@@ -1,9 +1,9 @@
 ---
 description: 使用適用於Marketo Engage的CX Enterprise Coworker ，調整現有範本以建置Marketo程式。 讓智慧型行銷活動、排程和資產預留位置準備好檢閱和調整。
 title: 建置計畫
-source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
+source-git-commit: 93193d2bf1f673472bb52d806864bfb083216cab
 workflow-type: tm+mt
-source-wordcount: '828'
+source-wordcount: '822'
 ht-degree: 0%
 ---
 # 建置計畫 {#build-programs}
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 ## 使用方式 {#how-to-use}
 
-1. 在「我的Marketo」中，按一下「適用於Marketo Engage的&#x200B;**CX Enterprise Coworker」**&#x200B;圖磚。
+1. 在「我的Marketo」中，按一下「**[!UICONTROL CX Enterprise Coworker for Marketo Engage]**」圖磚。
 
 1. 選取範本方案。 選擇符合您的行銷活動型別的現有方案（例如，電子郵件、網路研討會、Nurture）。
 
