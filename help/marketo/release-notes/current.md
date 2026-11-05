@@ -26,10 +26,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: e72db83a5f1f3c58a29da7c4b4b1bbb79a61b596
+source-git-commit: bc2b6050e8782249331ee34a59b5858fd15e656f
 workflow-type: tm+mt
-source-wordcount: '471'
-ht-degree: 14%
+source-wordcount: '545'
+ht-degree: 12%
 ---
 # 發行說明： 2026年11月 {#release-notes-nov-26}
 
@@ -91,8 +91,10 @@ ht-degree: 14%
 
 ## 公告 {#announcements}
 
-* **棄用從網頁抓取影像**：為了符合現代安全性和隱私權的最佳實務，從11月發行版本起，[從網頁抓取影像](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"}功能將被棄用。
+* **淘汰傳統UI**： Marketo Engage介面現在具有重新整理的外觀，包括更新的功能表、圖示和配置，以提供更乾淨、更現代的體驗。 這僅是視覺化更新；不會變更現有功能或工作流程。 您目前可以使用下拉式功能表，在Classic介面和重新整理介面之間切換，但Classic介面將於2027年1月底前淘汰（確切日期待定）。
+
+* **棄用從網頁抓取影像**：為了符合現代安全性和隱私權的最佳實務，從11月發行版本起，[從網頁抓取影像](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"}功能將被棄用。
 
 * **自訂活動屬性的API名稱限制**：透過API或UI建立的自訂活動屬性的API名稱現在只能包含英數字元和底線，而且必須以英數字元開頭。
 
-* **取得潛在客戶活動與取得潛在客戶變更的靜態清單大小限制**：自2026年9月30日起，如果目標清單包含10,000個或更多潛在客戶，對含有`listId`引數的Get Lead Activities或Get Lead Changes端點的呼叫會以1003錯誤碼（表示目標靜態清單具有太多記錄）開始失敗。 如需詳細資訊，請參閱[移轉指南](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}。
+* **取得潛在客戶活動與取得潛在客戶變更的靜態清單大小限制**：自2026年9月30日起，如果目標清單包含10,000個或更多潛在客戶，對含有`listId`引數的Get Lead Activities或Get Lead Changes端點的呼叫會以1003錯誤碼（表示目標靜態清單具有太多記錄）開始失敗。 如需詳細資訊，請參閱[移轉指南](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}。
