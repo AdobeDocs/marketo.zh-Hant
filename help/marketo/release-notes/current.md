@@ -26,10 +26,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: c36bbfe0f8ce46dfa6b5c708fa29c5a710cc2358
+source-git-commit: e72db83a5f1f3c58a29da7c4b4b1bbb79a61b596
 workflow-type: tm+mt
-source-wordcount: '472'
-ht-degree: 15%
+source-wordcount: '471'
+ht-degree: 14%
 ---
 # 發行說明： 2026年11月 {#release-notes-nov-26}
 
@@ -50,8 +50,8 @@ ht-degree: 15%
   </tr>
   <tr>
    <td><strong>規劃行銷活動技能</strong>：適用於Marketo Engage的CX Enterprise Coworker現在可以將行銷活動簡報轉換為完整的Marketo Engage方案設定檔案。 檔案包含檔案夾結構、智慧行銷活動、電子郵件設定、權杖和QA檢查清單。 這有助於團隊更快推出行銷活動，並將方案設定標準化。 技能可透過Markdown設定。</td>
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+   <td>已發行</td>
+   <td><a href="/help/marketo/product-docs/coworker-for-marketo/skills/plan-campaigns.md" target="_blank">計畫行銷活動</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -91,8 +91,8 @@ ht-degree: 15%
 
 ## 公告 {#announcements}
 
-* **棄用從網頁抓取影像**：為了符合現代安全性和隱私權的最佳實務，從11月發行版本起，[從網頁抓取影像](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"}功能將被棄用。
+* **棄用從網頁抓取影像**：為了符合現代安全性和隱私權的最佳實務，從11月發行版本起，[從網頁抓取影像](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"}功能將被棄用。
 
 * **自訂活動屬性的API名稱限制**：透過API或UI建立的自訂活動屬性的API名稱現在只能包含英數字元和底線，而且必須以英數字元開頭。
 
-* **取得潛在客戶活動與取得潛在客戶變更的靜態清單大小限制**：自2026年9月30日起，如果目標清單包含10,000個或更多潛在客戶，對含有`listId`引數的Get Lead Activities或Get Lead Changes端點的呼叫會以1003錯誤碼（表示目標靜態清單具有太多記錄）開始失敗。 如需詳細資訊，請參閱[移轉指南](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}。
+* **取得潛在客戶活動與取得潛在客戶變更的靜態清單大小限制**：自2026年9月30日起，如果目標清單包含10,000個或更多潛在客戶，對含有`listId`引數的Get Lead Activities或Get Lead Changes端點的呼叫會以1003錯誤碼（表示目標靜態清單具有太多記錄）開始失敗。 如需詳細資訊，請參閱[移轉指南](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}。
