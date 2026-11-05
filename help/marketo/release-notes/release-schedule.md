@@ -19,10 +19,10 @@ subfeature_v2:
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
-source-git-commit: dc6ced4679de39db058fb0125ce7cc5586c77560
+source-git-commit: bc2b6050e8782249331ee34a59b5858fd15e656f
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 64%
+source-wordcount: '202'
+ht-degree: 62%
 ---
 # 發行排程 {#release-schedule}
 
@@ -83,6 +83,11 @@ _發行日期/功能可能會有所變更_
   <tr>
   <td><a href="/help/marketo/release-notes/current.md">』26年11月</a></td>
    <td>2026年11月6</td>
+   <td>準時發行</td>
+  </tr>
+  <tr>
+  <td>2027年1月</td>
+   <td>2027年1月15日</td>
    <td>準時發行</td>
   </tr>
  </tbody>

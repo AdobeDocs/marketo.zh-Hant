@@ -26,10 +26,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: c36bbfe0f8ce46dfa6b5c708fa29c5a710cc2358
+source-git-commit: bc2b6050e8782249331ee34a59b5858fd15e656f
 workflow-type: tm+mt
-source-wordcount: '472'
-ht-degree: 15%
+source-wordcount: '545'
+ht-degree: 12%
 ---
 # 發行說明： 2026年11月 {#release-notes-nov-26}
 
@@ -50,8 +50,8 @@ ht-degree: 15%
   </tr>
   <tr>
    <td><strong>規劃行銷活動技能</strong>：適用於Marketo Engage的CX Enterprise Coworker現在可以將行銷活動簡報轉換為完整的Marketo Engage方案設定檔案。 檔案包含檔案夾結構、智慧行銷活動、電子郵件設定、權杖和QA檢查清單。 這有助於團隊更快推出行銷活動，並將方案設定標準化。 技能可透過Markdown設定。</td>
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+   <td>已發行</td>
+   <td><a href="/help/marketo/product-docs/coworker-for-marketo/skills/plan-campaigns.md" target="_blank">計畫行銷活動</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -90,6 +90,8 @@ ht-degree: 15%
 <br/>
 
 ## 公告 {#announcements}
+
+* **淘汰傳統UI**： Marketo Engage介面現在具有重新整理的外觀，包括更新的功能表、圖示和配置，以提供更乾淨、更現代的體驗。 這僅是視覺化更新；不會變更現有功能或工作流程。 您目前可以使用下拉式功能表，在Classic介面和重新整理介面之間切換，但Classic介面將於2027年1月底前淘汰（確切日期待定）。
 
 * **棄用從網頁抓取影像**：為了符合現代安全性和隱私權的最佳實務，從11月發行版本起，[從網頁抓取影像](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"}功能將被棄用。
 

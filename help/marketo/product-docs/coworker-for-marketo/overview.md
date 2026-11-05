@@ -4,9 +4,9 @@ title: 適用於Marketo Engage的CX Enterprise Coworker概觀
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: e72db83a5f1f3c58a29da7c4b4b1bbb79a61b596
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '468'
 ht-degree: 1%
 ---
 # 適用於Marketo Engage的CX Enterprise Coworker概觀 {#overview}
@@ -37,6 +37,10 @@ Marketo Engage適用的CX Enterprise Coworker提供專門設計的代理程式�
 
 中心主控台提供一組不斷成長的代理程式技能，協助您處理各種工作。 每項技能都是專門建置的AI助理，可讓您透過自然語言與互動，以完成特定工作。
 
+### 計畫行銷活動 {#plan-campaigns}
+
+將行銷活動簡報轉換為Marketo Engage的結構化實作計畫。 計畫行銷活動技能概述方案結構、對象邏輯、電子郵件、智慧行銷活動、代號、報告和預先啟用檢查。 進一步瞭解[計畫行銷活動技能](/help/marketo/product-docs/coworker-for-marketo/skills/plan-campaigns.md){target="_blank"}。
+
 ### 建置計畫 {#build-programs}
 
 以淺顯語言說明行銷活動，並以CX Enterprise Coworker為Marketo Engage建置方案結構、使用資產預留位置及排程。 深入瞭解[建置計畫技能](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md){target="_blank"}。
@@ -59,11 +63,7 @@ Marketo Engage適用的CX Enterprise Coworker提供專門設計的代理程式�
 
 ## 即將推出 {#coming-soon}
 
-即將推出專為處理最重複、最耗時的作業而設計的其他代理程式，例如：
-
-* 診斷潛在客戶未執行MQL或進行整個生命週期的原因。
-* 直接從行銷活動簡報產生完整的Marketo Engage方案。
-* 及更多內容。
+即將推出針對處理最重複、最耗時的作業而設計的額外技能。
 
 >[!MORELIKETHIS]
 >
