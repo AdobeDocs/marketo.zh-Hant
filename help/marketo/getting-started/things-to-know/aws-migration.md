@@ -9,9 +9,9 @@ product_v2:
 feature_v2:
   - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
     internal-label: Getting Started
-source-git-commit: e5afc046c226779f9969569cf4648792d8c32ae5
+source-git-commit: 8bb77c46ff74e07c9b150961259ccbd55930b5ce
 workflow-type: tm+mt
-source-wordcount: '1278'
+source-wordcount: '1286'
 ht-degree: 4%
 ---
 # AWS移轉 {#aws-migration}
@@ -60,6 +60,7 @@ ht-degree: 4%
 如果移轉因故失敗，系統會通知您並重新排程。
 
 +++7月排程
+
 <table>
  <tbody>
   <tr>
@@ -253,6 +254,8 @@ ht-degree: 4%
 
 +++
 
++++ 10月排程
+
 <table>
  <tbody>
   <tr>
@@ -306,17 +309,30 @@ ht-degree: 4%
    <td>已完成<br>
    已完成</td>
   </tr>
+  </body>
+</table>
+
++++
+
+<table>
+ <tbody>
+  <tr>
+   <th style="width:25%">日期</th>
+   <th style="width:25%">資料中心/Pod</th>
+   <th style="width:25%">時間</th>
+   <th style="width:25%">狀態</th>
+  </tr>
   <tr>
    <td>2026年11月6</td>
    <td>AB18</td>
    <td>下午4點（太平洋標準時間）</td>
-   <td>準時發行</td>
+   <td>已完成</td>
   </tr>
   <tr>
    <td>2026年11月18日</td>
-   <td>SJ14</td>
-   <td>下午5點（太平洋標準時間）</td>
-   <td>準時發行</td>
+   <td><i>SJ14</i></td>
+   <td><i>下午5點（太平洋標準時間）</i></td>
+   <td><i>已延遲（日期待定）</i></td>
   </tr>
   <tr>
    <td>2026年11月20日</td>
