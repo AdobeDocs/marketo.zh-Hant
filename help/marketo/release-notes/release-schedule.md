@@ -19,9 +19,9 @@ subfeature_v2:
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
-source-git-commit: bc2b6050e8782249331ee34a59b5858fd15e656f
+source-git-commit: 8bb77c46ff74e07c9b150961259ccbd55930b5ce
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '201'
 ht-degree: 62%
 ---
 # 發行排程 {#release-schedule}
@@ -66,24 +66,24 @@ _發行日期/功能可能會有所變更_
    <td>完成</td>
   </tr>
   <tr>
-  <td><a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/release-notes/previous-releases/2026/release-notes-july-26">2026年7月</a></td>
+  <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/previous-releases/2026/release-notes-july-26">2026年7月</a></td>
    <td>2026年7月10日</td>
    <td>完成</td>
   </tr>
   <tr>
-  <td><a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/release-notes/previous-releases/2026/release-notes-aug-26">2026年8月</a></td>
+  <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/previous-releases/2026/release-notes-aug-26">2026年8月</a></td>
    <td>2026年8月14日</td>
    <td>完成</td>
   </tr>
   <tr>
-  <td><a href="https://experienceleague.adobe.com/zh-hant/docs/marketo/using/release-notes/previous-releases/2026/release-notes-sep-26">2026年9月</a></td>
+  <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/previous-releases/2026/release-notes-sep-26">2026年9月</a></td>
    <td>2026年9月25日</td>
-   <td>進行中</td>
+   <td>已完成</td>
   </tr>
   <tr>
   <td><a href="/help/marketo/release-notes/current.md">』26年11月</a></td>
    <td>2026年11月6</td>
-   <td>準時發行</td>
+   <td>進行中</td>
   </tr>
   <tr>
   <td>2027年1月</td>
