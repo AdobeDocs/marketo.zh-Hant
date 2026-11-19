@@ -4,18 +4,18 @@ title: 可呼叫的代理程式
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: 16b8e470bd4a4460c0179ccdd406ef89af7e9e17
+source-git-commit: 387abcce00de365f2b4abda9565b0eada2598cfd
 workflow-type: tm+mt
-source-wordcount: '1957'
+source-wordcount: '1950'
 ht-degree: 1%
 ---
 # 可呼叫的代理程式 {#callable-agents}
 
 可呼叫的代理程式可讓您將AI代理程式用作Marketo Engage Smart Campaign中的步驟。 在Marketo Engage的CX Enterprise Coworker中建立代理程式，選擇讀取和更新的潛在客戶欄位，並發佈以用於行銷活動。 代理程式有助於清理資料、分類銷售機會、豐富遺漏的資訊，或熒幕表單提交。
 
->[!PREREQUISITES]
+>[!NOTE]
 >
->您必須在Marketo Engage中擁有&#x200B;**存取管理員**&#x200B;許可權。
+>需要&#x200B;**管理員**&#x200B;許可權。
 
 ## 開始之前 {#before-you-begin}
 
