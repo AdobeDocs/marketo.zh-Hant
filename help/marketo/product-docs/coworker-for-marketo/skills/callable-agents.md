@@ -36,7 +36,7 @@ ht-degree: 1%
 
    ![](assets/callable-agents-3.png)
 
-1. 若要使用範本，請按一下[從範本開始] ****&#x200B;並選取一個範本。
+1. 若要使用範本，請按一下[從範本開始] **&#x200B;**&#x200B;並選取一個範本。
 
 1. 若要建置您自己的潛在客戶，請輸入&#x200B;**[!UICONTROL Agent name]**&#x200B;並寫入&#x200B;**[!UICONTROL Agent instructions]**，說明如何處理每個潛在客戶。
 
