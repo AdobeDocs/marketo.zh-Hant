@@ -4,9 +4,9 @@ title: 可呼叫的代理程式
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: 387abcce00de365f2b4abda9565b0eada2598cfd
+source-git-commit: 5381bb670df1f69e535d0b349833f07b241a8ffd
 workflow-type: tm+mt
-source-wordcount: '1950'
+source-wordcount: '1918'
 ht-degree: 1%
 ---
 # 可呼叫的代理程式 {#callable-agents}
@@ -26,17 +26,31 @@ ht-degree: 1%
 
 1. 在「我的Marketo」中，按一下「**[!UICONTROL CX Enterprise Coworker for Marketo Engage]**」圖磚。
 
-1. 在左側導覽中選取&#x200B;**[!UICONTROL Callable agents]**。 清單會顯示每個代理程式的名稱、建立日期、建立者和狀態。 依名稱搜尋，或依名稱或建立日期排序。
+   ![](assets/callable-agents-1.png)
 
-1. 選取「**[!UICONTROL Create callable agent]**」。 選擇範本，或讓範本選擇器保持空白以從頭開始。
+1. 在右上角選取&#x200B;**[!UICONTROL Agents]**。
 
-1. 輸入&#x200B;**[!UICONTROL Agent name]**&#x200B;並寫入&#x200B;**[!UICONTROL Agent instructions]**，說明如何處理每個銷售機會。
+   ![](assets/callable-agents-2.png)
 
-1. 在&#x200B;**[!UICONTROL Lead fields to send]**&#x200B;底下，新增代理程式需要的潛在客戶欄位作為輸入。 在&#x200B;**[!UICONTROL Lead fields to update]**&#x200B;底下，新增代理程式應傳回的每個值，並將其對應至可更新的潛在客戶欄位。
+1. 選取「**[!UICONTROL Create callable agent]**」。
 
-1. 選取&#x200B;**[!UICONTROL Save]**&#x200B;以儲存草稿，或選取&#x200B;**[!UICONTROL Save and publish]**&#x200B;讓代理程式可在Marketo Engage中使用。
+   ![](assets/callable-agents-3.png)
 
-1. 開啟Smart Campaign並選取&#x200B;**[!UICONTROL Flow]**&#x200B;標籤。 在流程步驟清單的行銷區段中，尋找&#x200B;**通話代理程式： _[代理程式名稱]_**，並將其拖曳至流程中。
+1. 若要使用範本，請按一下[從範本開始] ****&#x200B;並選取一個範本。
+
+1. 若要建置您自己的潛在客戶，請輸入&#x200B;**[!UICONTROL Agent name]**&#x200B;並寫入&#x200B;**[!UICONTROL Agent instructions]**，說明如何處理每個潛在客戶。
+
+1. 在&#x200B;**[!UICONTROL Lead fields to send]**&#x200B;底下，新增代理程式需要的潛在客戶欄位作為輸入。 在&#x200B;**[!UICONTROL Lead fields to update]**&#x200B;底下，新增代理程式應傳回的每個值，並將其對應至可更新的潛在客戶欄位。 完成後請按一下 **[!UICONTROL Create]**。
+
+   ![](assets/callable-agents-4.png)
+
+1. 開啟Smart Campaign並選取&#x200B;**[!UICONTROL Flow]**&#x200B;標籤。
+
+   ![](assets/callable-agents-5.png)
+
+1. 在流程動作搜尋中輸入「可呼叫」。 找出所需的代理程式，並將其拖曳至畫布上。
+
+   ![](assets/callable-agents-6.png)
 
 1. 使用一小部分潛在客戶集測試行銷活動。 檢閱活動記錄並確認輸出欄位會如預期更新，然後再為所有潛在客戶啟用行銷活動。
 
