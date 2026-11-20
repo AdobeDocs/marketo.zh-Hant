@@ -91,7 +91,7 @@ Marketo Engage會將此決定個別套用至電子郵件開啟和電子郵件點
 
 | 方法 | 附註 |
 |---|---|
-| [變更資料值流程步驟](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value){target="_blank"} | 當個人符合您的條件時（例如提交表單上的同意核取方塊），使用Smart Campaign設定欄位。 |
+| [變更資料值流程步驟](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value){target="_blank"} | 當個人符合您的條件時（例如提交表單上的同意核取方塊），使用Smart Campaign設定欄位。 |
 | 表單 | 將Marketo Engage表單上的核取方塊或隱藏欄位對應到人員欄位。 |
 | 清單匯入 | 在匯入檔案中將欄位加入為欄。 |
 | REST API | 使用API欄位名稱`overrideOpenTrackingDefault`和`overrideClickTrackingDefault`。 |
@@ -115,7 +115,7 @@ Marketo Engage會將此決定個別套用至電子郵件開啟和電子郵件點
 | 觸發電子郵件，例如從觸發程式Smart Campaign傳送的電子郵件 | 是 |
 | 包含A/B測試或冠軍/挑戰者變體的電子郵件 | 是的。 系統會分別決定每個人的追蹤，無論他們收到哪種變體。 |
 | 以網頁檢視 | 是的。 網頁版本會遵循使用者目前的設定。 變更最多需要一小時的時間才會顯示。 |
-| [營運電子郵件](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational){target="_blank"} | 否。 他們遵循一般的追蹤行為。 |
+| [營運電子郵件](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational){target="_blank"} | 否。 他們遵循一般的追蹤行為。 |
 | 範例（測試）電子郵件 | 否。 他們遵循一般的追蹤行為。 |
 | 電子郵件預覽 | 無變更。 不會追蹤預覽。 |
 | 警示電子郵件 | 無變更。 不會追蹤警報。 |
@@ -125,7 +125,7 @@ Marketo Engage會將此決定個別套用至電子郵件開啟和電子郵件點
 
 Marketo Engage在準備要傳送的電子郵件時讀取人員的覆寫值。
 
-- **已排程或延遲的傳遞：**&#x200B;如果電子郵件現在已準備且稍後傳遞（例如，具有[開始時間](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs){target="_blank"}或[收件者時區](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone){target="_blank"}），則適用準備時的值。 準備後進行的變更不會變更該電子郵件。
+- **已排程或延遲的傳遞：**&#x200B;如果電子郵件現在已準備且稍後傳遞（例如，具有[開始時間](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs){target="_blank"}或[收件者時區](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone){target="_blank"}），則適用準備時的值。 準備後進行的變更不會變更該電子郵件。
 - **已傳遞的電子郵件：**&#x200B;變更人員的覆寫並不會變更他們已收到的電子郵件。 如果先前傳送的電子郵件中的連結已準備並啟用追蹤，仍可追蹤這些連結的點按次數。
 - **未來的電子郵件：**&#x200B;變更套用至Marketo Engage在變更後準備的電子郵件。
 
