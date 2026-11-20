@@ -4,9 +4,9 @@ title: 可呼叫的代理程式
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: 5381bb670df1f69e535d0b349833f07b241a8ffd
+source-git-commit: 359355d18f91035b54e7cd33e3cea0d78a5b6ef8
 workflow-type: tm+mt
-source-wordcount: '1918'
+source-wordcount: '1930'
 ht-degree: 1%
 ---
 # 可呼叫的代理程式 {#callable-agents}
@@ -36,7 +36,11 @@ ht-degree: 1%
 
    ![](assets/callable-agents-3.png)
 
-1. 若要使用範本，請按一下[從範本開始] **&#x200B;**&#x200B;並選取一個範本。
+1. 若要使用範本，請按一下[從範本開始] ****&#x200B;並選取一個範本。
+
+   >[!NOTE]
+   >
+   >如需可呼叫代理程式範本的詳細資訊，請參閱[從範本開始](#start-from-a-template)。
 
 1. 若要建置您自己的潛在客戶，請輸入&#x200B;**[!UICONTROL Agent name]**&#x200B;並寫入&#x200B;**[!UICONTROL Agent instructions]**，說明如何處理每個潛在客戶。
 
