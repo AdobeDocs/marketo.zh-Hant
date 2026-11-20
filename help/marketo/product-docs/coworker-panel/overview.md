@@ -5,9 +5,9 @@ badge: beta
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: 94ccd99bcc01dfa2d3df002853cb1396baf45de9
+source-git-commit: 387abcce00de365f2b4abda9565b0eada2598cfd
 workflow-type: tm+mt
-source-wordcount: '611'
+source-wordcount: '613'
 ht-degree: 1%
 ---
 # Marketo Engage中的CX Enterprise Coworker面板 {#coworker-panel-overview}
@@ -22,7 +22,7 @@ ht-degree: 1%
 
 | 區域圖 | 詳細資料 |
 | --- | --- |
-| 存取權 | 從Marketo Engage開啟內嵌的Beta版。 現有的CX Enterprise Coworker for Marketo Engage體驗仍可透過其[目前的存取點](/help/marketo/product-docs/coworker-for-marketo/overview.md#access)使用。 |
+| 存取權 | 從Marketo Engage開啟內嵌的Co-worker Beta版體驗。 現有的CX Enterprise Coworker for Marketo Engage體驗仍可透過其[目前的存取點](/help/marketo/product-docs/coworker-for-marketo/overview.md#access)使用。 |
 | 現有的交談 | 您現有的交談記錄仍可在目前的CX Enterprise Coworker中取得，以提供Marketo Engage體驗。 啟用Beta版不會移除該記錄。 |
 | 歷程記錄與內容 | Beta版和現有體驗分別具有交談歷程記錄與內容。 其中一個對話在另一個對話中無法使用。 |
 | 現有功能 | 仍可在目前的體驗中使用。 |
