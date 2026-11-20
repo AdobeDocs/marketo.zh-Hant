@@ -4,9 +4,9 @@ user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 8fdac8e20931dac59034be5ec8557ad1a7f13236
+source-git-commit: a913c84b1c4f8927c951af685884edfc792ff213
 workflow-type: tm+mt
-source-wordcount: '8953'
+source-wordcount: '8958'
 ht-degree: 96%
 ---
 
@@ -112,6 +112,7 @@ ht-degree: 96%
       + [啟用通訊限制](product-docs/administration/email-setup/enable-communication-limits.md)
       + [啟用智慧行銷活動人員限制](product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)
       + [行銷活動層級的電子郵件開啟追蹤](product-docs/administration/email-setup/email-open-tracking-at-campaign-level.md)
+      + {hide-from-toc}[個人層級的電子郵件追蹤](product-docs/administration/email-setup/email-tracking-at-person-level.md)
       + [篩選電子郵件機器人活動](product-docs/administration/email-setup/filtering-email-bot-activity.md)
       + [移除取消訂閱文字](product-docs/administration/email-setup/remove-unsubscribe-text.md)
     + 欄位管理 {#field-management}
@@ -499,7 +500,7 @@ ht-degree: 96%
       + [調查銷售機會](product-docs/coworker-for-marketo/skills/investigate-leads.md)
       + [匯入銷售機會](product-docs/coworker-for-marketo/skills/import-leads.md)
       + [驗證程式](product-docs/coworker-for-marketo/skills/validate-programs.md)
-    + [MARKETO MCP](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/mcp-server)
+    + [MARKETO MCP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + CX Enterprise Coworker面板 {#coworker-panel}
     + {hide-from-toc}[概觀](product-docs/coworker-panel/overview.md)
   + CRM 同步 {#crm-sync}
