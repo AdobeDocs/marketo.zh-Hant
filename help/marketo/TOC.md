@@ -500,7 +500,7 @@ ht-degree: 96%
       + [調查銷售機會](product-docs/coworker-for-marketo/skills/investigate-leads.md)
       + [匯入銷售機會](product-docs/coworker-for-marketo/skills/import-leads.md)
       + [驗證程式](product-docs/coworker-for-marketo/skills/validate-programs.md)
-    + [MARKETO MCP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
+    + [MARKETO MCP](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/mcp-server)
   + CX Enterprise Coworker面板 {#coworker-panel}
     + {hide-from-toc}[概觀](product-docs/coworker-panel/overview.md)
   + CRM 同步 {#crm-sync}
