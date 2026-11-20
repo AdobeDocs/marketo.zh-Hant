@@ -4,7 +4,7 @@ user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: a913c84b1c4f8927c951af685884edfc792ff213
+source-git-commit: 44aea0fb30c2793856e910d7ecc638e2e661a6a9
 workflow-type: tm+mt
 source-wordcount: '8958'
 ht-degree: 96%
@@ -492,7 +492,7 @@ ht-degree: 96%
     + [適用於Marketo Engage的CX Enterprise Coworker資料資訊表](product-docs/coworker-for-marketo/data-information.md)
     + 技能 {#skills}
       + [產品知識](product-docs/coworker-for-marketo/skills/product-knowledge.md)
-      + {hide-from-toc}[可呼叫的代理程式](product-docs/coworker-for-marketo/skills/callable-agents.md)
+      + [可呼叫的代理程式](product-docs/coworker-for-marketo/skills/callable-agents.md)
       + {hide-from-toc}[表面分析](product-docs/coworker-for-marketo/skills/surface-insights.md)
       + [建置計畫](product-docs/coworker-for-marketo/skills/build-programs.md)
       + [計畫行銷活動](product-docs/coworker-for-marketo/skills/plan-campaigns.md)
@@ -500,7 +500,7 @@ ht-degree: 96%
       + [調查銷售機會](product-docs/coworker-for-marketo/skills/investigate-leads.md)
       + [匯入銷售機會](product-docs/coworker-for-marketo/skills/import-leads.md)
       + [驗證程式](product-docs/coworker-for-marketo/skills/validate-programs.md)
-    + [MARKETO MCP](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/mcp-server)
+    + [MARKETO MCP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + CX Enterprise Coworker面板 {#coworker-panel}
     + {hide-from-toc}[概觀](product-docs/coworker-panel/overview.md)
   + CRM 同步 {#crm-sync}
