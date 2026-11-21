@@ -26,9 +26,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 84333c0da92068a90c0297d83708bed13364bf60
+source-git-commit: cf360493b3793110b90d1371b38f89c2b0ef20d3
 workflow-type: tm+mt
-source-wordcount: '543'
+source-wordcount: '542'
 ht-degree: 11%
 ---
 # 發行說明： 2026年11月 {#release-notes-nov-26}
@@ -60,8 +60,8 @@ ht-degree: 11%
   </tr>
   <tr>
    <td><strong>可呼叫的代理程式</strong>：建立作為智慧行銷活動中流程步驟執行的AI代理程式，並根據您以純文字撰寫的指示對潛在客戶記錄採取行動。 例如，代理程式可以將潛在客戶的資料正規化或標籤可能的機器人，然後將結果寫回潛在客戶上的欄位。 這會將基於判斷的潛在客戶處理帶入您的行銷活動，而不需要自訂程式碼。</td>
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+   <td>已發行</td>
+   <td><a href="/help/marketo/product-docs/coworker-for-marketo/skills/callable-agents.md" target="_blank">可呼叫的代理程式</a></td>
   </tr>
   <tr>
    <td> </td>
