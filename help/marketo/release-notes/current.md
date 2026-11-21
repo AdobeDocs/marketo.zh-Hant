@@ -26,10 +26,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: bc2b6050e8782249331ee34a59b5858fd15e656f
+source-git-commit: 84333c0da92068a90c0297d83708bed13364bf60
 workflow-type: tm+mt
-source-wordcount: '545'
-ht-degree: 12%
+source-wordcount: '543'
+ht-degree: 11%
 ---
 # 發行說明： 2026年11月 {#release-notes-nov-26}
 
@@ -70,8 +70,8 @@ ht-degree: 12%
   </tr>
   <tr>
    <td><strong>複製至此程式/資料夾</strong>：在Marketo Engage中復製作業現在會一致地提供「此資料夾」或「此程式」選項，作為選擇複製資產的目的地時的首要選擇。 選擇此選項會將資產複製到目前資產的父方案或資料夾。</td>
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+   <td>已發行</td>
+   <td>不適用</td>
   </tr>
   <tr>
    <td> </td>
@@ -81,8 +81,8 @@ ht-degree: 12%
   <tr>
    <tr>
    <td><strong>CRM同步處理立即警示</strong>：啟用或停用環境的本機CRM同步處理現在會觸發通知，通知已訂閱CRM通知通道的使用者。</td>
-   <td><i>即將推出</i></td>
-   <td><i>即將推出</i></td>
+   <td>已發行</td>
+   <td>不適用</td>
   </tr>
   </tr>
   </tbody>
