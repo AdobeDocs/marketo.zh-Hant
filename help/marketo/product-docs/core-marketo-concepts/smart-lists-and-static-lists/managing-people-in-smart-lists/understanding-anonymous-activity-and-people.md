@@ -25,9 +25,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: 376ea702dfd536192f50b7db0d08486462b70e87
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '254'
 ht-degree: 3%
 ---
 # 了解匿名活動和人員 {#understanding-anonymous-activity-and-people}
@@ -36,7 +36,7 @@ ht-degree: 3%
 
 >[!IMPORTANT]
 >
->在已知&#x200B;**上啟用Beta功能**&#x200B;[!DNL Munchkin] V2匿名重播活動，可確保在匿名潛在客戶成功合併至已知記錄後，由匿名潛在客戶促銷活動觸發的行銷活動將一律重播。 因此，在任何重播的行銷活動中，由變更資料值步驟變更的自訂欄位將保留在已知記錄中。
+>在已知&#x200B;**上啟用Beta功能**[!DNL Munchkin] V2匿名重播活動，可確保在匿名潛在客戶成功合併至已知記錄後，由匿名潛在客戶促銷活動觸發的行銷活動將一律重播。 因此，在任何重播的行銷活動中，由變更資料值步驟變更的自訂欄位將保留在已知記錄中。
 
 **在下列情況下會建立匿名**&#x200B;活動：
 
@@ -50,9 +50,8 @@ ht-degree: 3%
 
 在下列情況下，匿名活動會合併至新的或現有人員：
 
-* 按一下Marketo電子郵件[&#128279;](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md){target="_blank"}中的連結。
+* 按一下Marketo電子郵件](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md){target="_blank"}中的[連結。
 * 填寫Marketo [表單](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}。
-* 使用Marketo的[SOAP](/help/marketo/product-docs/administration/additional-integrations/configuring-your-soap-api-settings.md){target="_blank"}或[Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} API （適用於開發人員），將匿名人員與已知記錄建立關聯。
 
 資料庫中的一個名稱可能與許多Cookie繫結，因為人們經常使用不同的裝置和瀏覽器來造訪您的網站。
 
