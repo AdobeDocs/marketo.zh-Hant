@@ -26,10 +26,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: cf360493b3793110b90d1371b38f89c2b0ef20d3
+source-git-commit: 57f148c56e1d0690db8abdac5ba22dfeed20c35f
 workflow-type: tm+mt
-source-wordcount: '542'
-ht-degree: 11%
+source-wordcount: '576'
+ht-degree: 10%
 ---
 # 發行說明： 2026年11月 {#release-notes-nov-26}
 
@@ -47,6 +47,16 @@ ht-degree: 11%
    <th style="width:65%">功能</th>
    <th style="width:10%">狀態</th>
    <th style="width:25%">文件</th>
+  </tr>
+  <tr>
+   <td><strong>個人層級的電子郵件追蹤</strong>：個人層級的電子郵件追蹤覆寫可讓您控制個人電子郵件的開啟和點選追蹤；支援同意和隱私權要求。</td>
+   <td>已發行</td>
+   <td><a href="/help/marketo/product-docs/administration/email-setup/email-tracking-at-person-level.md" target="_blank">個人層級的電子郵件追蹤</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
   </tr>
   <tr>
    <td><strong>規劃行銷活動技能</strong>：適用於Marketo Engage的CX Enterprise Coworker現在可以將行銷活動簡報轉換為完整的Marketo Engage方案設定檔案。 檔案包含檔案夾結構、智慧行銷活動、電子郵件設定、權杖和QA檢查清單。 這有助於團隊更快推出行銷活動，並將方案設定標準化。 技能可透過Markdown設定。</td>

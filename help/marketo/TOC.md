@@ -4,7 +4,7 @@ user-guide-title: Marketo 指南
 user-guide-description: Marketo 產品文件
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 376ea702dfd536192f50b7db0d08486462b70e87
+source-git-commit: 57f148c56e1d0690db8abdac5ba22dfeed20c35f
 workflow-type: tm+mt
 source-wordcount: '8953'
 ht-degree: 96%
@@ -111,7 +111,7 @@ ht-degree: 96%
       + [啟用通訊限制](product-docs/administration/email-setup/enable-communication-limits.md)
       + [啟用智慧行銷活動人員限制](product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)
       + [行銷活動層級的電子郵件開啟追蹤](product-docs/administration/email-setup/email-open-tracking-at-campaign-level.md)
-      + {hide-from-toc}[個人層級的電子郵件追蹤](product-docs/administration/email-setup/email-tracking-at-person-level.md)
+      + [個人層級的電子郵件追蹤](product-docs/administration/email-setup/email-tracking-at-person-level.md)
       + [篩選電子郵件機器人活動](product-docs/administration/email-setup/filtering-email-bot-activity.md)
       + [移除取消訂閱文字](product-docs/administration/email-setup/remove-unsubscribe-text.md)
     + 欄位管理 {#field-management}
@@ -1408,7 +1408,7 @@ ht-degree: 96%
         + 使用撰寫視窗 {#using-the-compose-window}
           + [新增附件或可追蹤內容至您的電子郵件](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/add-an-attachment-or-trackable-content-to-your-email.md)
           + [大量寄送電子郵件選項](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
-          + {hide-from-toc}[使用Select和Send撰寫大量電子郵件](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
+          + {hide-from-toc}[使用Select撰寫大量電子郵件並傳送](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
           + [透過群組電子郵件傳送電子郵件](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
           + [在撰寫視窗中使用範本](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
       + 電子郵件整合 {#email-integrations}
