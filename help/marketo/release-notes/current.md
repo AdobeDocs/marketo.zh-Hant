@@ -26,10 +26,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: cf360493b3793110b90d1371b38f89c2b0ef20d3
+source-git-commit: 57f148c56e1d0690db8abdac5ba22dfeed20c35f
 workflow-type: tm+mt
-source-wordcount: '542'
-ht-degree: 11%
+source-wordcount: '576'
+ht-degree: 10%
 ---
 # 發行說明： 2026年11月 {#release-notes-nov-26}
 
@@ -47,6 +47,16 @@ ht-degree: 11%
    <th style="width:65%">功能</th>
    <th style="width:10%">狀態</th>
    <th style="width:25%">文件</th>
+  </tr>
+  <tr>
+   <td><strong>個人層級的電子郵件追蹤</strong>：個人層級的電子郵件追蹤覆寫可讓您控制個人電子郵件的開啟和點選追蹤；支援同意和隱私權要求。</td>
+   <td>已發行</td>
+   <td><a href="/help/marketo/product-docs/administration/email-setup/email-tracking-at-person-level.md" target="_blank">個人層級的電子郵件追蹤</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
   </tr>
   <tr>
    <td><strong>規劃行銷活動技能</strong>：適用於Marketo Engage的CX Enterprise Coworker現在可以將行銷活動簡報轉換為完整的Marketo Engage方案設定檔案。 檔案包含檔案夾結構、智慧行銷活動、電子郵件設定、權杖和QA檢查清單。 這有助於團隊更快推出行銷活動，並將方案設定標準化。 技能可透過Markdown設定。</td>
@@ -93,8 +103,8 @@ ht-degree: 11%
 
 * **淘汰傳統UI**： Marketo Engage介面現在具有重新整理的外觀，包括更新的功能表、圖示和配置，以提供更乾淨、更現代的體驗。 這僅是視覺化更新；不會變更現有功能或工作流程。 您目前可以使用下拉式功能表，在Classic介面和重新整理介面之間切換，但Classic介面將於2027年1月底前淘汰（確切日期待定）。
 
-* **棄用從網頁抓取影像**：為了符合現代安全性和隱私權的最佳實務，從11月發行版本起，[從網頁抓取影像](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"}功能將被棄用。
+* **棄用從網頁抓取影像**：為了符合現代安全性和隱私權的最佳實務，從11月發行版本起，[從網頁抓取影像](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"}功能將被棄用。
 
 * **自訂活動屬性的API名稱限制**：透過API或UI建立的自訂活動屬性的API名稱現在只能包含英數字元和底線，而且必須以英數字元開頭。
 
-* **取得潛在客戶活動與取得潛在客戶變更的靜態清單大小限制**：自2026年9月30日起，如果目標清單包含10,000個或更多潛在客戶，對含有`listId`引數的Get Lead Activities或Get Lead Changes端點的呼叫會以1003錯誤碼（表示目標靜態清單具有太多記錄）開始失敗。 如需詳細資訊，請參閱[移轉指南](https://experienceleague.adobe.com/zh-hant/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}。
+* **取得潛在客戶活動與取得潛在客戶變更的靜態清單大小限制**：自2026年9月30日起，如果目標清單包含10,000個或更多潛在客戶，對含有`listId`引數的Get Lead Activities或Get Lead Changes端點的呼叫會以1003錯誤碼（表示目標靜態清單具有太多記錄）開始失敗。 如需詳細資訊，請參閱[移轉指南](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}。
